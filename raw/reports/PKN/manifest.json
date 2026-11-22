@@ -1,0 +1,158 @@
+{
+  "ticker": "PKN",
+  "company": "ORLEN S.A.",
+  "source_index": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania",
+  "downloaded_at": "2026-07-20T18:49:56",
+  "scope": "AR skonsolidowane 2020-2025 (ZIP z PDF) + dane liczbowe + raport zintegrowany 2021",
+  "skipped": [
+    "raport zintegrowany 2020 (~202MB)",
+    "raport zintegrowany 2022 (~328MB)",
+    "kwartały/prezentacje - nastepna runda"
+  ],
+  "files": [
+    {
+      "file": "PKN_2020_AR_dane-liczbowe.zip",
+      "bytes": 34742,
+      "mb": 0.03,
+      "zip_entries": 2,
+      "zip_sample": [
+        "Dane jednostkowe RI_2020.xls",
+        "Dane skonsolidowane  RI_2020.xls"
+      ]
+    },
+    {
+      "file": "PKN_2020_AR_skonsolidowany.zip",
+      "bytes": 16327214,
+      "mb": 16.33,
+      "zip_entries": 8,
+      "zip_sample": [
+        "1_LIST PREZESA ZARZADU.pdf",
+        "3_WYBRANE DANE FINANSOWE GRUPY ORLEN_2020.pdf",
+        "4_SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPY ORLEN_2020.pdf",
+        "5_SPRAWOZDANIE ZARZADU Z DZIALALNOSCI GRUPY ORLEN ZA 2020.pdf",
+        "6_OSWIADCZENIE ZARZADU SKONS.pdf"
+      ]
+    },
+    {
+      "file": "PKN_2021_AR_dane-liczbowe.zip",
+      "bytes": 34098,
+      "mb": 0.03,
+      "zip_entries": 2,
+      "zip_sample": [
+        "Dane jednostkowe RI_2021.xls",
+        "Dane skonsolidowane  RI_2021.xls"
+      ]
+    },
+    {
+      "file": "PKN_2021_AR_raport-zintegrowany.pdf",
+      "bytes": 47486461,
+      "mb": 47.49
+    },
+    {
+      "file": "PKN_2021_AR_skonsolidowany.zip",
+      "bytes": 21370796,
+      "mb": 21.37,
+      "zip_entries": 8,
+      "zip_sample": [
+        "1_LIST PREZESA ZARZADU.pdf",
+        "3_WYBRANE DANE FINANSOWE GRUPY ORLEN 2021.pdf",
+        "4_SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPY ORLEN_2021.pdf",
+        "5_SPRAWOZDANIE ZARZADU Z DZIALALNOSCI GRUPY ORLEN ZA 2021.pdf",
+        "6_OŚWIADCZENIE ZARZĄDU SKONS.pdf"
+      ]
+    },
+    {
+      "file": "PKN_2022_AR_dane-liczbowe.zip",
+      "bytes": 33249,
+      "mb": 0.03,
+      "zip_entries": 2,
+      "zip_sample": [
+        "Dane jednostkowe RI_2022.xls",
+        "Dane skonsolidowane  RI_2022.xls"
+      ]
+    },
+    {
+      "file": "PKN_2022_AR_skonsolidowany.zip",
+      "bytes": 37353814,
+      "mb": 37.35,
+      "zip_entries": 8,
+      "zip_sample": [
+        "1_LIST_PREZESA_ZARZADU.pdf",
+        "3_WYBRANE_DANE_FINANSOWE_GRUPY_ORLEN2022.pdf",
+        "4_SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPY ORLEN_2022.pdf",
+        "5_SPRAWOZDANIE ZARZADU Z DZIALALNOSCI GRUPY ORLEN ZA 2022.pdf",
+        "6_OŚWIADCZENIE ZARZĄDU SKONS.pdf"
+      ]
+    },
+    {
+      "file": "PKN_2023_AR_dane-liczbowe.zip",
+      "bytes": 36877,
+      "mb": 0.04,
+      "zip_entries": 2,
+      "zip_sample": [
+        "Dane jednostkowe RI_2023.xls",
+        "Dane skonsolidowane  RI_2023.xls"
+      ]
+    },
+    {
+      "file": "PKN_2023_AR_skonsolidowany.zip",
+      "bytes": 21654046,
+      "mb": 21.65,
+      "zip_entries": 9,
+      "zip_sample": [
+        "PDF/1_LIST_PREZESA_ZARZADU.pdf",
+        "PDF/3_WYBRANE_DANE_FINANSOWE_GRUPY_ORLEN2023.pdf",
+        "PDF/4_SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPY ORLEN_2023.pdf",
+        "PDF/5_SPRAWOZDANIEZARZADUZDZIALALNOSCIGRUPYORLENZA2023.pdf",
+        "PDF/6_OùWIADCZENIE ZARZñDU SKONS.pdf"
+      ]
+    },
+    {
+      "file": "PKN_2024_AR_dane-liczbowe.zip",
+      "bytes": 34991,
+      "mb": 0.03,
+      "zip_entries": 2,
+      "zip_sample": [
+        "Dane jednostkowe RI_2024.xls",
+        "Dane skonsolidowane  RI_2024.xls"
+      ]
+    },
+    {
+      "file": "PKN_2024_AR_skonsolidowany.zip",
+      "bytes": 16696308,
+      "mb": 16.7,
+      "zip_entries": 9,
+      "zip_sample": [
+        "GRUPA_ORLEN_FY24_Skonsolidowane_PDF/",
+        "GRUPA_ORLEN_FY24_Skonsolidowane_PDF/1_LIST PREZESA ZARZADU.pdf",
+        "GRUPA_ORLEN_FY24_Skonsolidowane_PDF/3_WYBRANE DANE FINANSOWE GRUPYORLEN_2024.pdf",
+        "GRUPA_ORLEN_FY24_Skonsolidowane_PDF/4_SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPY ORLEN_2024.pdf",
+        "GRUPA_ORLEN_FY24_Skonsolidowane_PDF/5_SPRAWOZDANIE ZARZADU Z DZIALALNOSCI GRUPY ORLEN_2024.pdf"
+      ]
+    },
+    {
+      "file": "PKN_2025_AR_dane-liczbowe.zip",
+      "bytes": 36311,
+      "mb": 0.04,
+      "zip_entries": 2,
+      "zip_sample": [
+        "Dane jednostkowe RI_2025.xls",
+        "Dane skonsolidowane  RI_2025.xls"
+      ]
+    },
+    {
+      "file": "PKN_2025_AR_skonsolidowany.zip",
+      "bytes": 16918324,
+      "mb": 16.92,
+      "zip_entries": 8,
+      "zip_sample": [
+        "PDF/",
+        "PDF/1_ORL_LIST PREZESA .pdf",
+        "PDF/3_GK ORL_WYB DANE .pdf",
+        "PDF/4_GK ORL_SSF .pdf",
+        "PDF/5_GK ORL_SZzD.pdf"
+      ]
+    }
+  ],
+  "status": "complete_core_AR"
+}

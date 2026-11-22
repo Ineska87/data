@@ -1,0 +1,24 @@
+{
+  "case": "Ostrołęka C",
+  "downloaded_at": "2026-07-20T19:11:39",
+  "files": [
+    {
+      "file": "NIK_ostroleka-c-I-20-002-wystapienie.pdf",
+      "status": "ok",
+      "bytes": 517646,
+      "url": "https://www.nik.gov.pl/kontrole/wyniki-kontroli-nik/pobierz,kst~i_20_002_202202091542231644417743~id0~01,typ,kj.pdf"
+    },
+    {
+      "file": "NIK_ostroleka-c-I-21-001-enea-energa-wystapienie.pdf",
+      "status": "ok",
+      "bytes": 467292,
+      "url": "https://www.nik.gov.pl/kontrole/wyniki-kontroli-nik/pobierz,kst~i_21_001_202202091559361644418776~id1~01,typ,kj.pdf"
+    },
+    {
+      "file": "NIK_ostroleka-c-I-24-004-rozliczenie-wystapienie.pdf",
+      "status": "ok",
+      "bytes": 282678,
+      "url": "https://www.nik.gov.pl/kontrole/wyniki-kontroli-nik/pobierz,kst~i_24_004_202508121151151754992275~id0~01,typ,kj.pdf"
+    }
+  ]
+}

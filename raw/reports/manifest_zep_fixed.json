@@ -1,0 +1,268 @@
+{
+  "downloaded_at": "2026-07-20T18:12:32.604457+00:00",
+  "n_ok": 29,
+  "n_fail": 0,
+  "files": [
+    {
+      "file": "ZEP_2020_AR_skonsolidowany.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2020-R_SKONSOLIDOWANE_SPRAWOZDANIE_Z_PATNOSCI_NA_RZECZ_ADMINISTRACJI_PUBLICZNEJ-sig-sig-sig-sig-sig.pdf",
+      "year": 2020,
+      "period": "AR",
+      "status": "ok",
+      "bytes": 1176681,
+      "error": null
+    },
+    {
+      "file": "ZEP_2020_AR_sprawozdanie-zarzadu.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2020-R_Sprawozdanie_Zarzadu_Z_Dzialalnosci_Grupy_3-sig-sig-sig-sig-sig.pdf",
+      "year": 2020,
+      "period": "AR",
+      "status": "ok",
+      "bytes": 2756016,
+      "error": null
+    },
+    {
+      "file": "ZEP_2020_H1_sprawozdanie.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2020-1P_SKONSOLIDOWANE_SPRAWOZDANIE_FINANSOWE-sig-sig-sig-sig-sig-sig.pdf",
+      "year": 2020,
+      "period": "H1",
+      "status": "ok",
+      "bytes": 3375670,
+      "error": null
+    },
+    {
+      "file": "ZEP_2020_Q1_sprawozdanie.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2020-1Q_SKONSOLIDOWANE_SPRAWOZDANIE_FINANSOWE_WRAZ_Z_KWARTALN_INFORMACJ_FINANSOW-sig-sig_3-sig-sig-sig-sig.pdf",
+      "year": 2020,
+      "period": "Q1",
+      "status": "ok",
+      "bytes": 3835003,
+      "error": null
+    },
+    {
+      "file": "ZEP_2020_Q3_sprawozdanie.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2020-3Q_SKONSOLIDOWANE_SPRAWOZDANIE_FINANSOWE_Z_KIF.pdf",
+      "year": 2020,
+      "period": "Q3",
+      "status": "ok",
+      "bytes": 3803014,
+      "error": null
+    },
+    {
+      "file": "ZEP_2021_AR_skonsolidowany.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2021-R_SKONSOLIDOWANE_SPRAWOZDANIE_Z_PATNOSCI_NA_RZECZ_ADMINISTRACJI_PUBLICZNEJ.pdf",
+      "year": 2021,
+      "period": "AR",
+      "status": "ok",
+      "bytes": 1231535,
+      "error": null
+    },
+    {
+      "file": "ZEP_2021_H1_sprawozdanie.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2021_1P_SKONSOLIDOWANE_SPRAWOZDANIE_FINANSOWE-sig-sig-sig-sig-sig-sig.pdf",
+      "year": 2021,
+      "period": "H1",
+      "status": "ok",
+      "bytes": 3629866,
+      "error": null
+    },
+    {
+      "file": "ZEP_2021_Q1_sprawozdanie.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2021-1Q_SKONSOLIDOWANE_SPRAWOZDANIE_FINANSOWE_Z_KIF-sig_2-sig-sig-sig-sig-sig.pdf",
+      "year": 2021,
+      "period": "Q1",
+      "status": "ok",
+      "bytes": 3928591,
+      "error": null
+    },
+    {
+      "file": "ZEP_2021_Q3_sprawozdanie.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2021-3Q_SKONSOLIDOWANE_SPRAWOZDANIE_FINANSOWE_Z_KIF-sig-sig-sig-sig-sig-sig.pdf",
+      "year": 2021,
+      "period": "Q3",
+      "status": "ok",
+      "bytes": 4282192,
+      "error": null
+    },
+    {
+      "file": "ZEP_2022_AR_skonsolidowany.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2022-R_Skonsolidowane_Sprawozdanie_Finansowe.pdf",
+      "year": 2022,
+      "period": "AR",
+      "status": "ok",
+      "bytes": 1933926,
+      "error": null
+    },
+    {
+      "file": "ZEP_2022_AR_sprawozdanie-zarzadu.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2022-R_Sprawozdanie_Zarzadu_Z_Dzialalnosci_ZE_PAK_i_GK_ZEPAK_final.pdf",
+      "year": 2022,
+      "period": "AR",
+      "status": "ok",
+      "bytes": 3757529,
+      "error": null
+    },
+    {
+      "file": "ZEP_2022_H1_sprawozdanie-zarzadu.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/zepak_2022_1p_sprawozdanie_zarzadu_z_dzialalnosci.pdf",
+      "year": 2022,
+      "period": "H1",
+      "status": "ok",
+      "bytes": 2564267,
+      "error": null
+    },
+    {
+      "file": "ZEP_2022_H1_sprawozdanie.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/zepak_2022_1p_skonsolidowane_sprawozdanie_finansowe_zawierajace_jednostkowe_sprawozdanie_finansowe.pdf",
+      "year": 2022,
+      "period": "H1",
+      "status": "ok",
+      "bytes": 4948166,
+      "error": null
+    },
+    {
+      "file": "ZEP_2022_Q1_sprawozdanie.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2022-1Q_SKONSOLIDOWANE_SPRAWOZDANIE_FINANSOWE_Z_KIF-sig-sig-sig-sig-sig-sig.pdf",
+      "year": 2022,
+      "period": "Q1",
+      "status": "ok",
+      "bytes": 4281513,
+      "error": null
+    },
+    {
+      "file": "ZEP_2022_Q3_sprawozdanie.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/zepak_2022-3q_skonsolidowane_sprawozdanie_finansowe_z_kif-sig-sig-sig_signed.pdf",
+      "year": 2022,
+      "period": "Q3",
+      "status": "ok",
+      "bytes": 4964029,
+      "error": null
+    },
+    {
+      "file": "ZEP_2023_AR_skonsolidowany.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/zepak_2023-r_skonsolidowane_sprawozdanie_z_patnosci_na_rzecz_administracji_publicznej-sig-sig_signed_signed.pdf",
+      "year": 2023,
+      "period": "AR",
+      "status": "ok",
+      "bytes": 2664475,
+      "error": null
+    },
+    {
+      "file": "ZEP_2023_AR_sprawozdanie-zarzadu.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2023-R_Sprawozdanie_Zarzadu_Z_Dzialalnosci_GKZEPAK.pdf",
+      "year": 2023,
+      "period": "AR",
+      "status": "ok",
+      "bytes": 3852117,
+      "error": null
+    },
+    {
+      "file": "ZEP_2023_H1_sprawozdanie-zarzadu.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/zepak_2023-1p_sprawozdanie_zarzadu_z_dzialalnosci.pdf",
+      "year": 2023,
+      "period": "H1",
+      "status": "ok",
+      "bytes": 2205752,
+      "error": null
+    },
+    {
+      "file": "ZEP_2023_H1_sprawozdanie.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/zepak_2023-1p_skonsolidowane_i_jednostkowe_sprawozdanie_finansowe.pdf",
+      "year": 2023,
+      "period": "H1",
+      "status": "ok",
+      "bytes": 3303686,
+      "error": null
+    },
+    {
+      "file": "ZEP_2023_Q3_sprawozdanie.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/zepak_2023-3q_skonsolidowane_sprawozdanie_finansowe_z_kif-sig-sig_signed-sig.pdf",
+      "year": 2023,
+      "period": "Q3",
+      "status": "ok",
+      "bytes": 3122692,
+      "error": null
+    },
+    {
+      "file": "ZEP_2024_AR_skonsolidowany.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/zepak_2024_r_skonsolidowane_sprawozdanie_finansowe.pdf",
+      "year": 2024,
+      "period": "AR",
+      "status": "ok",
+      "bytes": 3241520,
+      "error": null
+    },
+    {
+      "file": "ZEP_2024_AR_sprawozdanie-zarzadu.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/zepak_2024-r_sprawozdanie_zarzadu_z_dzialalnosci_gkzepak.pdf",
+      "year": 2024,
+      "period": "AR",
+      "status": "ok",
+      "bytes": 6881295,
+      "error": null
+    },
+    {
+      "file": "ZEP_2024_H1_sprawozdanie-zarzadu.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/zepak_2024-1p_sprawozdanie_zarzadu_z_dzialalnosci-sig-sig_signed_signed_signed.pdf",
+      "year": 2024,
+      "period": "H1",
+      "status": "ok",
+      "bytes": 3079910,
+      "error": null
+    },
+    {
+      "file": "ZEP_2024_H1_sprawozdanie.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/zepak_2024-1p_skonsolidowane_i_jednostkowe_sprawozdanie_finansowe-sig-sig-sig_signed_signed_signed.pdf",
+      "year": 2024,
+      "period": "H1",
+      "status": "ok",
+      "bytes": 4365160,
+      "error": null
+    },
+    {
+      "file": "ZEP_2024_Q1_sprawozdanie.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/zepak_2024-1q_skonsolidowane_sprawozdanie_finansowe_z_kif-sig-sig-sig_signed.pdf",
+      "year": 2024,
+      "period": "Q1",
+      "status": "ok",
+      "bytes": 3512369,
+      "error": null
+    },
+    {
+      "file": "ZEP_2025_AR_skonsolidowany.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2025-R_SKONSOLIDOWANE_SPRAWOZDANIE_Z_PATNOSCI_NA_RZECZ_ADMINISTRACJI_PUBLICZNEJ-sig-sig-sig.pdf",
+      "year": 2025,
+      "period": "AR",
+      "status": "ok",
+      "bytes": 1432059,
+      "error": null
+    },
+    {
+      "file": "ZEP_2025_AR_sprawozdanie-zarzadu.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/20260427_ZEPAK_2025-R_Sprawozdanie_Zarzadu_Z_Dzialalnosci_GKZEPAK-sig-sig-sig.pdf",
+      "year": 2025,
+      "period": "AR",
+      "status": "ok",
+      "bytes": 8758307,
+      "error": null
+    },
+    {
+      "file": "ZEP_2025_H1_sprawozdanie.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/zepak_2025-1p_rozszerzony_skonsolidowany_raport_polroczny.pdf",
+      "year": 2025,
+      "period": "H1",
+      "status": "ok",
+      "bytes": 3562783,
+      "error": null
+    },
+    {
+      "file": "ZEP_2025_Q1_sprawozdanie.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2025-1Q_ROZSZERZONY_SKONSOLIDOWANY_RAPORT_ZA_I_KWARTA_2025.pdf",
+      "year": 2025,
+      "period": "Q1",
+      "status": "ok",
+      "bytes": 2495166,
+      "error": null
+    }
+  ]
+}

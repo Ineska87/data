@@ -1,0 +1,2787 @@
+{
+  "spolka": "Lubelski Węgiel Bogdanka S.A.",
+  "spolka_key": "bogdanka",
+  "typ": "biezace",
+  "zrodla": [
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/1?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/2?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/3?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/4?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/5?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/6?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/7?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/8?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/9?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/10?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/11?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/12?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/13?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/14?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/15?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/16?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/17?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/18?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/19?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/20?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/21?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/22?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/23?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/24?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/25?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/26?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/27?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/28?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/29?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/30?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/31?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/32?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/33?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/34?source=3",
+    "https://www.bankier.pl/gielda/notowania/akcje/BOGDANKA/komunikaty/35?source=3"
+  ],
+  "data_scrapowania": "2026-06-25T16:45:42.267556",
+  "liczba_stron": 35,
+  "total_pages_detected": null,
+  "liczba_raportow_przed_unikalnymi": 420,
+  "liczba_raportow": 391,
+  "usuniete_duplikaty": 29,
+  "raporty": [
+    {
+      "numer": "RB nr 12/2026",
+      "data": "25.06.2026",
+      "godzina": "10:11",
+      "tytul": "Analiza techniczna",
+      "url": "https://www.bankier.pl/gielda/notowania/ranking-popularnosci"
+    },
+    {
+      "numer": "RB nr 17/2026",
+      "data": "17.06.2026",
+      "godzina": "13:21",
+      "tytul": "Zawarcie Aneksów do umów wieloletnich na dostawę węgla ze spółkami ENEA Wytwarzanie sp. z o.o. oraz ENEA Elektrownia Połaniec S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-Aneksow-do-umow-wieloletnich-na-dostawe-wegla-ze-spolkami-ENEA-Wytwarzanie-sp-z-o-o-oraz-ENEA-Elektrownia-Polaniec-S-A-9152789.html"
+    },
+    {
+      "numer": "RB nr 16/2026",
+      "data": "27.05.2026",
+      "godzina": "12:36",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Zwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-27-maja-2026-r-9140310.html"
+    },
+    {
+      "numer": "RB nr 15/2026",
+      "data": "27.05.2026",
+      "godzina": "12:32",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Zwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-Bogdanka-S-A-w-dniu-27-maja-2026-r-9140308.html"
+    },
+    {
+      "numer": "RB nr 14/2026",
+      "data": "20.05.2026",
+      "godzina": "07:58",
+      "tytul": "Wyniki finansowe QSr 1/2026",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wyniki-finansowe-QSr-1-2026-9136068.html"
+    },
+    {
+      "numer": "RB nr 13/2026",
+      "data": "07.05.2026",
+      "godzina": "15:07",
+      "tytul": "Powołanie Członka Zarządu LW Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Powolanie-Czlonka-Zarzadu-LW-Bogdanka-S-A-9129430.html"
+    },
+    {
+      "numer": "RB nr 11/2026",
+      "data": "30.04.2026",
+      "godzina": "19:10",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Ogloszenie-o-zwolaniu-Zwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-Bogdanka-S-A-na-dzien-27-maja-2026-r-wraz-z-projektami-uchwal-9126301.html"
+    },
+    {
+      "numer": "RB nr 29/2026",
+      "data": "25.06.2026",
+      "godzina": "10:11",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla Bogdanka S.A., które odbyło się w dniu 25 czerwca 2025 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Zwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-25-czerwca-2025-r-8966811.html"
+    },
+    {
+      "numer": "RB nr 28/2025",
+      "data": "25.06.2025",
+      "godzina": "14:16",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Lubelskiego Węgla Bogdanka S.A. w dniu 25 czerwca 2025 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Zwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-Bogdanka-S-A-w-dniu-25-czerwca-2025-r-oraz-tresc-projektow-uchwal-poddanych-pod-glosowanie-ktore-nie-zostaly-podjete-8966790.html"
+    },
+    {
+      "numer": "RB nr 30/2025",
+      "data": "25.06.2025",
+      "godzina": "13:08",
+      "tytul": "Powołanie Członka Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Powolanie-Czlonka-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-8966735.html"
+    },
+    {
+      "numer": "RB nr 31/2025",
+      "data": "30.05.2025",
+      "godzina": "13:06",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Lubelskiego Węgla Bogdanka S.A. na dzień 25 czerwca 2025 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Ogloszenie-o-zwolaniu-Zwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-Bogdanka-S-A-na-dzien-25-czerwca-2025-r-wraz-z-projektami-uchwal-8951940.html"
+    },
+    {
+      "numer": "RB nr 32/2025",
+      "data": "16.05.2025",
+      "godzina": "17:01",
+      "tytul": "Zawarcie Aneksów do umów wieloletnich na dostawę węgla ze spółkami ENEA Wytwarzanie sp. z o.o. oraz ENEA Elektrownia Połaniec S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-Aneksow-do-umow-wieloletnich-na-dostawe-wegla-ze-spolkami-ENEA-Wytwarzanie-sp-z-o-o-oraz-ENEA-Elektrownia-Polaniec-S-A-8943553.html"
+    },
+    {
+      "numer": "RB nr 33/2025",
+      "data": "16.05.2025",
+      "godzina": "06:07",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8942975.html"
+    },
+    {
+      "numer": "RB nr 34/2025",
+      "data": "15.05.2025",
+      "godzina": "14:01",
+      "tytul": "Uchwała Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A. w sprawie oceny wniosku Zarządu dotyczącego pokrycia straty netto za rok 2024",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwala-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-w-sprawie-oceny-wniosku-Zarzadu-dotyczacego-pokrycia-straty-netto-za-rok-2024-8942367.html"
+    },
+    {
+      "numer": "RB nr 35/2025",
+      "data": "07.05.2025",
+      "godzina": "12:14",
+      "tytul": "Rekomendacja Zarządu w sprawie pokrycia straty netto za rok 2024",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rekomendacja-Zarzadu-w-sprawie-pokrycia-straty-netto-za-rok-2024-8937149.html"
+    },
+    {
+      "numer": "RB nr 36/2025",
+      "data": "05.05.2025",
+      "godzina": "12:25",
+      "tytul": "Zmiana terminu publikacji raportu okresowego za I kwartał 2025 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zmiana-terminu-publikacji-raportu-okresowego-za-I-kwartal-2025-roku-8935760.html"
+    },
+    {
+      "numer": "",
+      "data": "20.12.2024",
+      "godzina": "13:40",
+      "tytul": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia Lubelskiego Węgla Bogdanka S.A. na wniosek akcjonariusza wraz z projektami uchwał",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwolanie-Nadzwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-Bogdanka-S-A-na-wniosek-akcjonariusza-wraz-z-projektami-uchwal-8864870.html"
+    },
+    {
+      "numer": "",
+      "data": "12.12.2024",
+      "godzina": "13:30",
+      "tytul": "Zawarcie aneksu do umowy z Grupą Azoty Zakłady Azotowe „Puławy” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-z-Grupa-Azoty-Zaklady-Azotowe-Pulawy-S-A-8860437.html"
+    },
+    {
+      "numer": "",
+      "data": "20.11.2024",
+      "godzina": "07:49",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8848037.html"
+    },
+    {
+      "numer": "",
+      "data": "16.10.2024",
+      "godzina": "07:54",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za trzy kwartały 2024 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-trzy-kwartaly-2024-r-8829599.html"
+    },
+    {
+      "numer": "",
+      "data": "07.10.2024",
+      "godzina": "14:10",
+      "tytul": "Odpowiedzi na pytania akcjonariusza zadane w trybie art. 428 §6 KSH",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Odpowiedzi-na-pytania-akcjonariusza-zadane-w-trybie-art-428-6-KSH-8825023.html"
+    },
+    {
+      "numer": "",
+      "data": "18.09.2024",
+      "godzina": "07:45",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8814047.html"
+    },
+    {
+      "numer": "",
+      "data": "27.08.2024",
+      "godzina": "14:16",
+      "tytul": "Informacja o ujęciu w sprawozdaniach finansowych za I półrocze 2024 r. wyników przeprowadzonych testów na utratę wartości aktywów",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-o-ujeciu-w-sprawozdaniach-finansowych-za-I-polrocze-2024-r-wynikow-przeprowadzonych-testow-na-utrate-wartosci-aktywow-8802753.html"
+    },
+    {
+      "numer": "",
+      "data": "16.07.2024",
+      "godzina": "11:26",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za I półrocze 2024 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-I-polrocze-2024-r-8783185.html"
+    },
+    {
+      "numer": "",
+      "data": "28.06.2024",
+      "godzina": "14:34",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla Bogdanka S.A., które odbyło się w dniu 28 czerwca 2024 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Zwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-28-czerwca-2024-r-8773917.html"
+    },
+    {
+      "numer": "",
+      "data": "28.06.2024",
+      "godzina": "14:30",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Lubelskiego Węgla Bogdanka S.A. w dniu 28 czerwca 2024 r. oraz treść projektów uchwał poddanych pod głosowanie, które nie zostały podjęte",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Zwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-Bogdanka-S-A-w-dniu-28-czerwca-2024-r-oraz-tresc-projektow-uchwal-poddanych-pod-glosowanie-ktore-nie-zostaly-podjete-8773915.html"
+    },
+    {
+      "numer": "",
+      "data": "28.06.2024",
+      "godzina": "13:05",
+      "tytul": "Powołanie Członków Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Powolanie-Czlonkow-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-8773771.html"
+    },
+    {
+      "numer": "",
+      "data": "28.06.2024",
+      "godzina": "12:03",
+      "tytul": "Podjęcie uchwały w sprawie wypłaty dywidendy z zysku netto LW Bogdanka S.A. za 2023 rok",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Podjecie-uchwaly-w-sprawie-wyplaty-dywidendy-z-zysku-netto-LW-Bogdanka-S-A-za-2023-rok-8773711.html"
+    },
+    {
+      "numer": "",
+      "data": "29.05.2024",
+      "godzina": "12:07",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Lubelskiego Węgla Bogdanka S.A. na dzień 28 czerwca 2024 r. wraz z projektami uchwał",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Ogloszenie-o-zwolaniu-Zwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-Bogdanka-S-A-na-dzien-28-czerwca-2024-r-wraz-z-projektami-uchwal-8755488.html"
+    },
+    {
+      "numer": "",
+      "data": "24.05.2024",
+      "godzina": "11:18",
+      "tytul": "Uchwała Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A. w sprawie oceny wniosku Zarządu dotyczącego podziału zysku netto Spółki za rok 2023",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwala-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-w-sprawie-oceny-wniosku-Zarzadu-dotyczacego-podzialu-zysku-netto-Spolki-za-rok-2023-8752500.html"
+    },
+    {
+      "numer": "",
+      "data": "22.05.2024",
+      "godzina": "07:47",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8750457.html"
+    },
+    {
+      "numer": "",
+      "data": "20.05.2024",
+      "godzina": "13:01",
+      "tytul": "Rezygnacja członka Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rezygnacja-czlonka-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-8749146.html"
+    },
+    {
+      "numer": "",
+      "data": "20.05.2024",
+      "godzina": "12:04",
+      "tytul": "Rekomendacja Zarządu w sprawie wypłaty dywidendy z zysku za rok 2023",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rekomendacja-Zarzadu-w-sprawie-wyplaty-dywidendy-z-zysku-za-rok-2023-8749095.html"
+    },
+    {
+      "numer": "",
+      "data": "29.04.2024",
+      "godzina": "10:56",
+      "tytul": "Rezygnacje członków Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rezygnacje-czlonkow-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-8737543.html"
+    },
+    {
+      "numer": "",
+      "data": "29.04.2024",
+      "godzina": "10:10",
+      "tytul": "Uzupełnienie informacji o powołanych członkach Zarządu Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uzupelnienie-informacji-o-powolanych-czlonkach-Zarzadu-Lubelskiego-Wegla-Bogdanka-S-A-8737511.html"
+    },
+    {
+      "numer": "",
+      "data": "26.04.2024",
+      "godzina": "13:18",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla Bogdanka S.A., które odbyło się po wznowieniu obrad w dniu 26 kwietnia 2024 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Nadzwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-po-wznowieniu-obrad-w-dniu-26-kwietnia-2024-r-8736485.html"
+    },
+    {
+      "numer": "",
+      "data": "26.04.2024",
+      "godzina": "13:11",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Lubelskiego Węgla Bogdanka S.A. po wznowieniu obrad w dniu 26 kwietnia 2024 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Nadzwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-Bogdanka-S-A-po-wznowieniu-obrad-w-dniu-26-kwietnia-2024-r-8736480.html"
+    },
+    {
+      "numer": "",
+      "data": "25.04.2024",
+      "godzina": "17:24",
+      "tytul": "Zmiany w składzie Zarządu Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zmiany-w-skladzie-Zarzadu-Lubelskiego-Wegla-Bogdanka-S-A-8735838.html"
+    },
+    {
+      "numer": "",
+      "data": "18.04.2024",
+      "godzina": "13:37",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za pierwszy kwartał 2024 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-pierwszy-kwartal-2024-r-8731116.html"
+    },
+    {
+      "numer": "",
+      "data": "15.04.2024",
+      "godzina": "12:22",
+      "tytul": "Zmiany w składzie Zarządu Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zmiany-w-skladzie-Zarzadu-Lubelskiego-Wegla-Bogdanka-S-A-8728641.html"
+    },
+    {
+      "numer": "",
+      "data": "12.04.2024",
+      "godzina": "13:39",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla Bogdanka S.A., które odbyło się w dniu 12 kwietnia 2024 r. do momentu zarządzenia przerwy",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Nadzwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-12-kwietnia-2024-r-do-momentu-zarzadzenia-przerwy-8727561.html"
+    },
+    {
+      "numer": "",
+      "data": "12.04.2024",
+      "godzina": "13:29",
+      "tytul": "Zmiany w składzie Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zmiany-w-skladzie-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-8727547.html"
+    },
+    {
+      "numer": "",
+      "data": "12.04.2024",
+      "godzina": "13:03",
+      "tytul": "Ogłoszenie przerwy w obradach Nadzwyczajnego Walnego Zgromadzenia Lubelskiego Węgla Bogdanka S.A. w dniu 12 kwietnia 2024 r. wraz z określeniem daty jego wznowienia oraz treść uchwał podjętych do momentu ogłoszenia przerwy",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Ogloszenie-przerwy-w-obradach-Nadzwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-Bogdanka-S-A-w-dniu-12-kwietnia-2024-r-wraz-z-okresleniem-daty-jego-wznowienia-oraz-tresc-uchwal-podjetych-do-momentu-ogloszenia-przerwy-8727522.html"
+    },
+    {
+      "numer": "",
+      "data": "05.04.2024",
+      "godzina": "13:46",
+      "tytul": "Uzupełnienie projektów uchwał Nadzwyczajnego Walnego Zgromadzenia zwołanego na 12 kwietnia 2024 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uzupelnienie-projektow-uchwal-Nadzwyczajnego-Walnego-Zgromadzenia-zwolanego-na-12-kwietnia-2024-r-8723309.html"
+    },
+    {
+      "numer": "",
+      "data": "04.04.2024",
+      "godzina": "08:31",
+      "tytul": "Korekta raportu bieżącego dotyczącego aktualizacji celu produkcyjnego na 2024 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Korekta-raportu-biezacego-dotyczacego-aktualizacji-celu-produkcyjnego-na-2024-r-8722204.html"
+    },
+    {
+      "numer": "",
+      "data": "03.04.2024",
+      "godzina": "17:18",
+      "tytul": "Aktualizacja celu produkcyjnego na 2024 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Aktualizacja-celu-produkcyjnego-na-2024-r-8721911.html"
+    },
+    {
+      "numer": "",
+      "data": "28.03.2024",
+      "godzina": "12:19",
+      "tytul": "Otrzymanie zawiadomienia od kluczowego kontrahenta o zmniejszeniu zapotrzebowania na węgiel w 2024 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Otrzymanie-zawiadomienia-od-kluczowego-kontrahenta-o-zmniejszeniu-zapotrzebowania-na-wegiel-w-2024-r-8719037.html"
+    },
+    {
+      "numer": "",
+      "data": "22.03.2024",
+      "godzina": "12:56",
+      "tytul": "Zmiana porządku obrad Nadzwyczajnego Walnego Zgromadzenia Lubelskiego Węgla Bogdanka S.A. na wniosek akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zmiana-porzadku-obrad-Nadzwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-Bogdanka-S-A-na-wniosek-akcjonariusza-8715687.html"
+    },
+    {
+      "numer": "",
+      "data": "20.03.2024",
+      "godzina": "07:56",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8713838.html"
+    },
+    {
+      "numer": "",
+      "data": "20.03.2024",
+      "godzina": "07:52",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8713834.html"
+    },
+    {
+      "numer": "",
+      "data": "20.03.2024",
+      "godzina": "07:45",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8713828.html"
+    },
+    {
+      "numer": "",
+      "data": "15.03.2024",
+      "godzina": "11:52",
+      "tytul": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia Lubelskiego Węgla Bogdanka S.A. na wniosek akcjonariusza wraz z projektami uchwał",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwolanie-Nadzwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-Bogdanka-S-A-na-wniosek-akcjonariusza-wraz-z-projektami-uchwal-8711605.html"
+    },
+    {
+      "numer": "",
+      "data": "01.03.2024",
+      "godzina": "12:23",
+      "tytul": "Odwołanie członka Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Odwolanie-czlonka-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-8704103.html"
+    },
+    {
+      "numer": "",
+      "data": "25.01.2024",
+      "godzina": "11:12",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2024",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2024-8684617.html"
+    },
+    {
+      "numer": "",
+      "data": "22.01.2024",
+      "godzina": "08:50",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za 2023 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-2023-r-8682538.html"
+    },
+    {
+      "numer": "",
+      "data": "29.12.2023",
+      "godzina": "14:48",
+      "tytul": "Zawarcie aneksu do umowy z Grupą Azoty Zakłady Azotowe „Puławy” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-z-Grupa-Azoty-Zaklady-Azotowe-Pulawy-S-A-8671234.html"
+    },
+    {
+      "numer": "",
+      "data": "29.12.2023",
+      "godzina": "13:29",
+      "tytul": "Zawarcie Aneksów do Umowy Wieloletniej ze spółką ENEA Wytwarzanie Sp. z o.o.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-Aneksow-do-Umowy-Wieloletniej-ze-spolka-ENEA-Wytwarzanie-Sp-z-o-o-8671157.html"
+    },
+    {
+      "numer": "",
+      "data": "29.12.2023",
+      "godzina": "13:16",
+      "tytul": "Zawarcie Aneksu do Umowy z Enea Elektrownia Połaniec S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-Aneksu-do-Umowy-z-Enea-Elektrownia-Polaniec-S-A-8671146.html"
+    },
+    {
+      "numer": "",
+      "data": "22.11.2023",
+      "godzina": "08:01",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8650561.html"
+    },
+    {
+      "numer": "",
+      "data": "17.10.2023",
+      "godzina": "08:37",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za trzy kwartały 2023 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-trzy-kwartaly-2023-r-8630932.html"
+    },
+    {
+      "numer": "",
+      "data": "27.09.2023",
+      "godzina": "12:59",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla Bogdanka S.A., które odbyło się w dniu 27 września 2023 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Nadzwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-27-wrzesnia-2023-r-8618523.html"
+    },
+    {
+      "numer": "",
+      "data": "27.09.2023",
+      "godzina": "12:51",
+      "tytul": "Powołanie członków Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Powolanie-czlonkow-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-8618518.html"
+    },
+    {
+      "numer": "",
+      "data": "27.09.2023",
+      "godzina": "12:46",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Lubelskiego Węgla Bogdanka S.A. w dniu 27 września 2023 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Nadzwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-Bogdanka-S-A-w-dniu-27-wrzesnia-2023-r-8618511.html"
+    },
+    {
+      "numer": "",
+      "data": "13.09.2023",
+      "godzina": "08:08",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8610239.html"
+    },
+    {
+      "numer": "",
+      "data": "01.09.2023",
+      "godzina": "11:52",
+      "tytul": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia Lubelskiego Węgla Bogdanka S.A. na wniosek akcjonariusza wraz z projektami uchwał",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwolanie-Nadzwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-Bogdanka-S-A-na-wniosek-akcjonariusza-wraz-z-projektami-uchwal-8604015.html"
+    },
+    {
+      "numer": "",
+      "data": "10.08.2023",
+      "godzina": "09:34",
+      "tytul": "Rezygnacja członka Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rezygnacja-czlonka-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-8592502.html"
+    },
+    {
+      "numer": "RB nr 1/2023",
+      "data": "29.08.2023",
+      "godzina": "13:59",
+      "tytul": "Rezygnacja członka Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rezygnacja-czlonka-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-8591521.html"
+    },
+    {
+      "numer": "RB nr 2/2023",
+      "data": "25.07.2023",
+      "godzina": "17:11",
+      "tytul": "Aktualizacja celu produkcyjnego na 2023 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Aktualizacja-celu-produkcyjnego-na-2023-r-8584608.html"
+    },
+    {
+      "numer": "RB nr 3/2023",
+      "data": "18.07.2023",
+      "godzina": "12:08",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za I półrocze 2023 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-I-polrocze-2023-r-8580873.html"
+    },
+    {
+      "numer": "RB nr 4/2023",
+      "data": "17.07.2023",
+      "godzina": "17:17",
+      "tytul": "Otrzymanie zawiadomienia od kluczowego kontrahenta o zmniejszeniu zapotrzebowania na węgiel w 2023 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Otrzymanie-zawiadomienia-od-kluczowego-kontrahenta-o-zmniejszeniu-zapotrzebowania-na-wegiel-w-2023-r-8580510.html"
+    },
+    {
+      "numer": "RB nr 5/2023",
+      "data": "13.07.2023",
+      "godzina": "17:59",
+      "tytul": "Odpowiedzi na pytania akcjonariuszy zadane w trybie art. 428 § 5 KSH",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Odpowiedzi-na-pytania-akcjonariuszy-zadane-w-trybie-art-428-5-KSH-8578760.html"
+    },
+    {
+      "numer": "RB nr 6/2023",
+      "data": "29.06.2023",
+      "godzina": "13:29",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla Bogdanka S.A., które odbyło się w dniu 29 czerwca 2023 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Zwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-29-czerwca-2023-r-8570024.html"
+    },
+    {
+      "numer": "RB nr 7/2023",
+      "data": "29.06.2023",
+      "godzina": "13:21",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Lubelskiego Węgla Bogdanka S.A. w dniu 29 czerwca 2023 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Zwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-Bogdanka-S-A-w-dniu-29-czerwca-2023-r-8570015.html"
+    },
+    {
+      "numer": "RB nr 8/2023",
+      "data": "29.06.2023",
+      "godzina": "11:22",
+      "tytul": "Podjęcie uchwały w sprawie wypłaty dywidendy z zysku netto LW Bogdanka S.A. za 2022 rok",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Podjecie-uchwaly-w-sprawie-wyplaty-dywidendy-z-zysku-netto-LW-Bogdanka-S-A-za-2022-rok-8569871.html"
+    },
+    {
+      "numer": "RB nr 9/2023",
+      "data": "02.06.2023",
+      "godzina": "13:10",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Lubelskiego Węgla Bogdanka S.A. na dzień 29 czerwca 2023 r. wraz z projektami uchwał",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Ogloszenie-o-zwolaniu-Zwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-Bogdanka-S-A-na-dzien-29-czerwca-2023-r-wraz-z-projektami-uchwal-8553443.html"
+    },
+    {
+      "numer": "RB nr 10/2023",
+      "data": "29.05.2023",
+      "godzina": "13:13",
+      "tytul": "Uchwała Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A. w sprawie oceny wniosku Zarządu dotyczącego podziału zysku netto Spółki za rok 2022",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwala-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-w-sprawie-oceny-wniosku-Zarzadu-dotyczacego-podzialu-zysku-netto-Spolki-za-rok-2022-8549491.html"
+    },
+    {
+      "numer": "RB nr 29/2022",
+      "data": "30.12.2022",
+      "godzina": "14:02",
+      "tytul": "Zawarcie Aneksu do Umowy z Enea Elektrownia Połaniec S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-Aneksu-do-Umowy-z-Enea-Elektrownia-Polaniec-S-A-8464665.html"
+    },
+    {
+      "numer": "RB nr 28/2022",
+      "data": "28.11.2022",
+      "godzina": "16:23",
+      "tytul": "Zawarcie aneksu do umowy z Grupą Azoty Zakłady Azotowe „Puławy” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-z-Grupa-Azoty-Zaklady-Azotowe-Pulawy-S-A-8447286.html"
+    },
+    {
+      "numer": "RB nr 27/2022",
+      "data": "23.11.2022",
+      "godzina": "08:08",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8444362.html"
+    },
+    {
+      "numer": "RB nr 26/2022",
+      "data": "17.11.2022",
+      "godzina": "14:13",
+      "tytul": "Informacje udzielone akcjonariuszowi poza walnym zgromadzeniem w trybie art. 428 § 6 Kodeksu spółek handlowych.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacje-udzielone-akcjonariuszowi-poza-walnym-zgromadzeniem-w-trybie-art-428-6-Kodeksu-spolek-handlowych-8441508.html"
+    },
+    {
+      "numer": "RB nr 25/2022",
+      "data": "09.11.2022",
+      "godzina": "17:09",
+      "tytul": "Aktualizacja założeń ogłoszonych w Strategii rozwoju LW Bogdanka S.A. Obszar Wydobycie Grupy ENEA do 2030 roku (perspektywa do 2040 roku).",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Aktualizacja-zalozen-ogloszonych-w-Strategii-rozwoju-LW-Bogdanka-S-A-Obszar-Wydobycie-Grupy-ENEA-do-2030-roku-perspektywa-do-2040-roku-8436649.html"
+    },
+    {
+      "numer": "RB nr 24/2022",
+      "data": "17.10.2022",
+      "godzina": "14:02",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za trzy kwartały 2022 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-trzy-kwartały-2022-r-8424163.html"
+    },
+    {
+      "numer": "RB nr 23/2022",
+      "data": "27.09.2022",
+      "godzina": "21:35",
+      "tytul": "Przyjęcie celu produkcyjnego na 2023 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Przyjecie-celu-produkcyjnego-na-2023-r-8412934.html"
+    },
+    {
+      "numer": "RB nr 22/2022",
+      "data": "16.09.2022",
+      "godzina": "11:29",
+      "tytul": "Odwołanie Prezesa Zarządu",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Odwolanie-Prezesa-Zarzadu-8407086.html"
+    },
+    {
+      "numer": "RB nr 21/2022",
+      "data": "14.09.2022",
+      "godzina": "08:51",
+      "tytul": "Aktualizacja celu produkcyjnego na 2022 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Aktualizacja-celu-produkcyjnego-na-2022-r-8405543.html"
+    },
+    {
+      "numer": "RB nr 20/2022",
+      "data": "14.09.2022",
+      "godzina": "08:29",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8405528.html"
+    },
+    {
+      "numer": "RB nr 19/2022",
+      "data": "02.09.2022",
+      "godzina": "08:40",
+      "tytul": "Aktualizacja celu produkcyjnego na 2022 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Aktualizacja-celu-produkcyjnego-na-2022-r-8399476.html"
+    },
+    {
+      "numer": "RB nr 18/2022",
+      "data": "18.07.2022",
+      "godzina": "17:08",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za I półrocze 2022 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-I-polrocze-2022-r-8376886.html"
+    },
+    {
+      "numer": "RB nr 17/2022",
+      "data": "06.07.2022",
+      "godzina": "13:16",
+      "tytul": "Powołanie Członka Zarządu LW Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Powolanie-Czlonka-Zarzadu-LW-Bogdanka-S-A-8370906.html"
+    },
+    {
+      "numer": "RB nr 16/2022",
+      "data": "23.06.2022",
+      "godzina": "13:38",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla Bogdanka S.A., które odbyło się w dniu 23 czerwca 2022 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Zwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-23-czerwca-2022-r-8362139.html"
+    },
+    {
+      "numer": "RB nr 15/2022",
+      "data": "23.06.2022",
+      "godzina": "13:35",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Lubelskiego Węgla Bogdanka S.A. w dniu 23 czerwca 2022 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Zwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-Bogdanka-S-A-w-dniu-23-czerwca-2022-r-8362137.html"
+    },
+    {
+      "numer": "RB nr 14/2022",
+      "data": "23.06.2022",
+      "godzina": "11:17",
+      "tytul": "Podjęcie uchwały w sprawie wypłaty dywidendy z zysku netto LW Bogdanka S.A. za 2021 rok",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Podjecie-uchwaly-w-sprawie-wyplaty-dywidendy-z-zysku-netto-LW-Bogdanka-S-A-za-2021-rok-8361981.html"
+    },
+    {
+      "numer": "RB nr 13/2022",
+      "data": "20.06.2022",
+      "godzina": "17:56",
+      "tytul": "Powołanie Zarządu LW Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Powolanie-Zarzadu-LW-Bogdanka-S-A-8359909.html"
+    },
+    {
+      "numer": "RB nr 12/2022",
+      "data": "15.06.2022",
+      "godzina": "12:09",
+      "tytul": "Zawarcie Aneksów do Umowy Wieloletniej ze spółką ENEA Wytwarzanie Sp. z o.o.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-Aneksow-do-Umowy-Wieloletniej-ze-spolka-ENEA-Wytwarzanie-Sp-z-o-o-8357617.html"
+    },
+    {
+      "numer": "RB nr 11/2022",
+      "data": "01.06.2022",
+      "godzina": "16:11",
+      "tytul": "Zawiadomienie o zmniejszeniu łącznego udziału w głosach przez Enea S.A. o co najmniej 1%",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawiadomienie-o-zmniejszeniu-lacznego-udzialu-w-glosach-przez-Enea-S-A-o-co-najmniej-1-8349151.html"
+    },
+    {
+      "numer": "RB nr 10/2022",
+      "data": "27.05.2022",
+      "godzina": "14:02",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Lubelskiego Węgla Bogdanka S.A. na dzień 23 czerwca 2022 r. wraz z projektami uchwał",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Ogloszenie-o-zwolaniu-Zwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-Bogdanka-S-A-na-dzien-23-czerwca-2022-r-wraz-z-projektami-uchwal-8345801.html"
+    },
+    {
+      "numer": "RB nr 9/2022",
+      "data": "27.05.2022",
+      "godzina": "13:01",
+      "tytul": "Uchwała Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A. w sprawie oceny wniosku Zarządu dotyczącego podziału zysku netto Spółki za rok 2021",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwala-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-w-sprawie-oceny-wniosku-Zarzadu-dotyczacego-podzialu-zysku-netto-Spolki-za-rok-2021-8345732.html"
+    },
+    {
+      "numer": "RB nr 8/2022",
+      "data": "26.05.2022",
+      "godzina": "14:23",
+      "tytul": "Rekomendacja Zarządu w sprawie wypłaty dywidendy z zysku za rok 2021",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rekomendacja-Zarzadu-w-sprawie-wyplaty-dywidendy-z-zysku-za-rok-2021-8344938.html"
+    },
+    {
+      "numer": "RB nr 7/2022",
+      "data": "26.05.2022",
+      "godzina": "13:00",
+      "tytul": "Zawarcie Aneksu do Umowy z Enea Elektrownia Połaniec S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-Aneksu-do-Umowy-z-Enea-Elektrownia-Polaniec-S-A-8344862.html"
+    },
+    {
+      "numer": "RB nr 6/2022",
+      "data": "24.05.2022",
+      "godzina": "08:02",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8342450.html"
+    },
+    {
+      "numer": "RB nr 5/2022",
+      "data": "19.04.2022",
+      "godzina": "13:03",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za pierwszy kwartał 2022 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-pierwszy-kwartał-2022-r-8320827.html"
+    },
+    {
+      "numer": "",
+      "data": "23.03.2022",
+      "godzina": "08:40",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8303836.html"
+    },
+    {
+      "numer": "",
+      "data": "23.03.2022",
+      "godzina": "08:33",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8303826.html"
+    },
+    {
+      "numer": "",
+      "data": "23.03.2022",
+      "godzina": "08:23",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8303822.html"
+    },
+    {
+      "numer": "",
+      "data": "11.03.2022",
+      "godzina": "13:05",
+      "tytul": "Powołanie Członka Zarządu LW Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Powolanie-Czlonka-Zarzadu-LW-Bogdanka-S-A-8296342.html"
+    },
+    {
+      "numer": "",
+      "data": "26.01.2022",
+      "godzina": "13:07",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2022",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2022-8266388.html"
+    },
+    {
+      "numer": "",
+      "data": "21.01.2022",
+      "godzina": "12:26",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za 2021 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-2021-r-8263741.html"
+    },
+    {
+      "numer": "",
+      "data": "03.01.2022",
+      "godzina": "13:17",
+      "tytul": "Informacja w sprawie wyników produkcyjnych i sprzedażowych za 2021 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wynikow-produkcyjnych-i-sprzedazowych-za-2021-r-8253405.html"
+    },
+    {
+      "numer": "",
+      "data": "16.12.2021",
+      "godzina": "14:06",
+      "tytul": "Zawarcie Aneksu do Umowy Wieloletniej oraz kolejnej Umowy Dodatkowej ze spółką ENEA Wytwarzanie Sp. z o.o.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-Aneksu-do-Umowy-Wieloletniej-oraz-kolejnej-Umowy-Dodatkowej-ze-spolka-ENEA-Wytwarzanie-Sp-z-o-o-8244505.html"
+    },
+    {
+      "numer": "",
+      "data": "16.12.2021",
+      "godzina": "13:59",
+      "tytul": "Temat: Zawarcie Aneksów do Umów z Enea Elektrownia Połaniec S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Temat-Zawarcie-Aneksow-do-Umow-z-Enea-Elektrownia-Polaniec-S-A-8244491.html"
+    },
+    {
+      "numer": "",
+      "data": "29.11.2021",
+      "godzina": "14:29",
+      "tytul": "Zawarcie aneksu do umowy z Grupą Azoty Zakłady Azotowe „Puławy” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-z-Grupa-Azoty-Zaklady-Azotowe-Pulawy-S-A-8233168.html"
+    },
+    {
+      "numer": "",
+      "data": "25.11.2021",
+      "godzina": "08:01",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8230782.html"
+    },
+    {
+      "numer": "",
+      "data": "14.10.2021",
+      "godzina": "13:45",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za trzy kwartały 2021 r. oraz aktualizacja celu produkcyjnego.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-trzy-kwartaly-2021-r-oraz-aktualizacja-celu-produkcyjnego-8205662.html"
+    },
+    {
+      "numer": "",
+      "data": "04.10.2021",
+      "godzina": "13:45",
+      "tytul": "Zawarcie Aneksów do Umów z Enea Elektrownia Połaniec S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-Aneksow-do-Umow-z-Enea-Elektrownia-Polaniec-S-A-8199295.html"
+    },
+    {
+      "numer": "",
+      "data": "04.10.2021",
+      "godzina": "13:41",
+      "tytul": "Zawarcie kolejnej Umowy Dodatkowej i Aneksu do Umowy Wieloletniej ze spółką ENEA Wytwarzanie Sp. z o.o.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-kolejnej-Umowy-Dodatkowej-i-Aneksu-do-Umowy-Wieloletniej-ze-spolka-ENEA-Wytwarzanie-Sp-z-o-o-8199289.html"
+    },
+    {
+      "numer": "",
+      "data": "16.09.2021",
+      "godzina": "08:53",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8188739.html"
+    },
+    {
+      "numer": "",
+      "data": "13.08.2021",
+      "godzina": "10:48",
+      "tytul": "Zawarcie Umowy eksportu węgla energetycznego ze spółką D. Trading International S.A. z siedzibą w Genewie.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-Umowy-eksportu-wegla-energetycznego-ze-spolka-D-Trading-International-S-A-z-siedziba-w-Genewie-8169805.html"
+    },
+    {
+      "numer": "",
+      "data": "14.07.2021",
+      "godzina": "08:17",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za I półrocze 2021 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-I-polrocze-2021-r-8152944.html"
+    },
+    {
+      "numer": "",
+      "data": "09.07.2021",
+      "godzina": "14:23",
+      "tytul": "Zawarcie Umowy Dodatkowej i Aneksu do Umowy sprzedaży węgla energetycznego z Enea Elektrownia Połaniec S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-Umowy-Dodatkowej-i-Aneksu-do-Umowy-sprzedazy-wegla-energetycznego-z-Enea-Elektrownia-Polaniec-S-A-8150887.html"
+    },
+    {
+      "numer": "",
+      "data": "09.07.2021",
+      "godzina": "14:19",
+      "tytul": "Zawarcie Umowy Dodatkowej i Aneksu do Umowy Wieloletniej ze spółką ENEA Wytwarzanie Sp. z o.o.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-Umowy-Dodatkowej-i-Aneksu-do-Umowy-Wieloletniej-ze-spolka-ENEA-Wytwarzanie-Sp-z-o-o-8150882.html"
+    },
+    {
+      "numer": "",
+      "data": "24.06.2021",
+      "godzina": "13:27",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla Bogdanka S.A., które odbyło się w dniu 24 czerwca 2021 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Zwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-24-czerwca-2021-r-8140149.html"
+    },
+    {
+      "numer": "",
+      "data": "24.06.2021",
+      "godzina": "13:23",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Lubelskiego Węgla Bogdanka S.A. w dniu 24 czerwca 2021 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Zwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-Bogdanka-S-A-w-dniu-24-czerwca-2021-r-8140141.html"
+    },
+    {
+      "numer": "",
+      "data": "01.06.2021",
+      "godzina": "13:40",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla Bogdanka S.A., które odbyło się w dniu 1 czerwca 2021 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Nadzwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-1-czerwca-2021-r-8125337.html"
+    },
+    {
+      "numer": "",
+      "data": "01.06.2021",
+      "godzina": "13:29",
+      "tytul": "Zmiany w składzie Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zmiany-w-skladzie-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-8125313.html"
+    },
+    {
+      "numer": "",
+      "data": "01.06.2021",
+      "godzina": "13:17",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Lubelskiego Węgla Bogdanka S.A. w dniu 1 czerwca 2021 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Nadzwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-Bogdanka-S-A-w-dniu-1-czerwca-2021-r-8125296.html"
+    },
+    {
+      "numer": "",
+      "data": "28.05.2021",
+      "godzina": "14:07",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Lubelskiego Węgla Bogdanka S.A. na dzień 24 czerwca 2021 r. wraz z projektami uchwał",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Ogloszenie-o-zwolaniu-Zwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-Bogdanka-S-A-na-dzien-24-czerwca-2021-r-wraz-z-projektami-uchwal-8122727.html"
+    },
+    {
+      "numer": "",
+      "data": "27.05.2021",
+      "godzina": "13:58",
+      "tytul": "Ocena Rady Nadzorczej wniosku Zarządu Lubelskiego Węgla Bogdanka S.A. w sprawie przeznaczenia zysku netto za rok 2020 na kapitał rezerwowy Spółki",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Ocena-Rady-Nadzorczej-wniosku-Zarzadu-Lubelskiego-Wegla-Bogdanka-S-A-w-sprawie-przeznaczenia-zysku-netto-za-rok-2020-na-kapital-rezerwowy-Spolki-8121671.html"
+    },
+    {
+      "numer": "",
+      "data": "27.05.2021",
+      "godzina": "08:14",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8121311.html"
+    },
+    {
+      "numer": "",
+      "data": "19.05.2021",
+      "godzina": "14:54",
+      "tytul": "Rekomendacja Zarządu w sprawie przeznaczenia zysku netto za rok 2020 na kapitał rezerwowy Spółki",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rekomendacja-Zarzadu-w-sprawie-przeznaczenia-zysku-netto-za-rok-2020-na-kapital-rezerwowy-Spolki-8116021.html"
+    },
+    {
+      "numer": "",
+      "data": "30.04.2021",
+      "godzina": "17:49",
+      "tytul": "Zawarcie umowy dodatkowej i aneksów do umowy wieloletniej ze spółką ENEA Wytwarzanie Sp. z o.o.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-umowy-dodatkowej-i-aneksow-do-umowy-wieloletniej-ze-spolka-ENEA-Wytwarzanie-Sp-z-o-o-8104205.html"
+    },
+    {
+      "numer": "",
+      "data": "30.04.2021",
+      "godzina": "13:03",
+      "tytul": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia Lubelskiego Węgla Bogdanka S.A. na wniosek akcjonariusza wraz z projektami uchwał",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwolanie-Nadzwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Węgla-Bogdanka-S-A-na-wniosek-akcjonariusza-wraz-z-projektami-uchwal-8103797.html"
+    },
+    {
+      "numer": "",
+      "data": "19.04.2021",
+      "godzina": "12:55",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za pierwszy kwartał 2021 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-pierwszy-kwartal-2021-r-8095555.html"
+    },
+    {
+      "numer": "",
+      "data": "25.03.2021",
+      "godzina": "07:49",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8081069.html"
+    },
+    {
+      "numer": "",
+      "data": "25.03.2021",
+      "godzina": "07:46",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8081068.html"
+    },
+    {
+      "numer": "",
+      "data": "25.03.2021",
+      "godzina": "07:41",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8081065.html"
+    },
+    {
+      "numer": "",
+      "data": "19.02.2021",
+      "godzina": "13:59",
+      "tytul": "Zawarcie umowy dodatkowej i aneksów do umowy wieloletniej ze spółką ENEA Wytwarzanie Sp. z o.o.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-umowy-dodatkowej-i-aneksow-do-umowy-wieloletniej-ze-spolka-ENEA-Wytwarzanie-Sp-z-o-o-8060206.html"
+    },
+    {
+      "numer": "",
+      "data": "28.01.2021",
+      "godzina": "13:30",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2021",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2021-8045905.html"
+    },
+    {
+      "numer": "",
+      "data": "26.01.2021",
+      "godzina": "10:55",
+      "tytul": "Piąte Wezwanie Akcjonariuszy LW Bogdanka S.A. do złożenia dokumentów akcji w Spółce",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Piate-Wezwanie-Akcjonariuszy-LW-Bogdanka-S-A-do-zlozenia-dokumentow-akcji-w-Spolce-8044119.html"
+    },
+    {
+      "numer": "",
+      "data": "22.01.2021",
+      "godzina": "13:54",
+      "tytul": "Zawarcie Aneksu z Enea Elektrownia Połaniec S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-Aneksu-z-Enea-Elektrownia-Polaniec-S-A-8042330.html"
+    },
+    {
+      "numer": "",
+      "data": "20.01.2021",
+      "godzina": "17:13",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za 2020 rok",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-2020-rok-8040846.html"
+    },
+    {
+      "numer": "",
+      "data": "18.01.2021",
+      "godzina": "13:38",
+      "tytul": "Rejestracja przez Sąd zmian w Statucie LW Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rejestracja-przez-Sad-zmian-w-Statucie-LW-Bogdanka-S-A-8039032.html"
+    },
+    {
+      "numer": "",
+      "data": "13.01.2021",
+      "godzina": "14:44",
+      "tytul": "Zawarcie aneksu do umowy wieloletniej ze spółką ENEA Wytwarzanie Sp. z o.o.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-wieloletniej-ze-spolka-ENEA-Wytwarzanie-Sp-z-o-o-8036272.html"
+    },
+    {
+      "numer": "",
+      "data": "30.12.2020",
+      "godzina": "12:14",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla Bogdanka S.A., które odbyło się w dniu 30 grudnia 2020 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Nadzwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-30-grudnia-2020-r-8029039.html"
+    },
+    {
+      "numer": "",
+      "data": "30.12.2020",
+      "godzina": "12:05",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Lubelskiego Węgla Bogdanka S.A. w dniu 30 grudnia 2020 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Nadzwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-Bogdanka-S-A-w-dniu-30-grudnia-2020-r-8029037.html"
+    },
+    {
+      "numer": "",
+      "data": "26.12.2020",
+      "godzina": "19:39",
+      "tytul": "Czwarte Wezwanie Akcjonariuszy LW Bogdanka S.A. do złożenia dokumentów akcji w Spółce",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Czwarte-Wezwanie-Akcjonariuszy-LW-Bogdanka-S-A-do-zlozenia-dokumentow-akcji-w-Spolce-8027249.html"
+    },
+    {
+      "numer": "",
+      "data": "16.12.2020",
+      "godzina": "21:34",
+      "tytul": "Kluczowe elementy Strategii rozwoju LW Bogdanka S.A. Obszar Wydobycie Grupy ENEA do 2030 roku (perspektywa do 2040 roku) w tym polityka dywidendowa – ujawnienie informacji poufnej.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kluczowe-elementy-Strategii-rozwoju-LW-Bogdanka-S-A-Obszar-Wydobycie-Grupy-ENEA-do-2030-roku-perspektywa-do-2040-roku-w-tym-polityka-dywidendowa-ujawnienie-informacji-poufnej-8022266.html"
+    },
+    {
+      "numer": "",
+      "data": "03.12.2020",
+      "godzina": "18:42",
+      "tytul": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia Lubelskiego Węgla Bogdanka S.A. na wniosek akcjonariusza wraz z projektami uchwał",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwolanie-Nadzwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-Bogdanka-S-A-na-wniosek-akcjonariusza-wraz-z-projektami-uchwal-8014195.html"
+    },
+    {
+      "numer": "",
+      "data": "26.11.2020",
+      "godzina": "10:02",
+      "tytul": "Trzecie Wezwanie Akcjonariuszy LW Bogdanka S.A. do złożenia dokumentów akcji w Spółce",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Trzecie-Wezwanie-Akcjonariuszy-LW-Bogdanka-S-A-do-zlozenia-dokumentow-akcji-w-Spolce-8009062.html"
+    },
+    {
+      "numer": "",
+      "data": "26.11.2020",
+      "godzina": "08:24",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-8008980.html"
+    },
+    {
+      "numer": "",
+      "data": "18.11.2020",
+      "godzina": "12:45",
+      "tytul": "Zawarcie aneksu do umowy z Grupą Azoty Zakłady Azotowe „Puławy” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-z-Grupa-Azoty-Zaklady-Azotowe-Pulawy-S-A-8003738.html"
+    },
+    {
+      "numer": "",
+      "data": "27.10.2020",
+      "godzina": "13:06",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla Bogdanka S.A., które odbyło się w dniu 27 października 2020 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Nadzwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-27-pazdziernika-2020-r-7989223.html"
+    },
+    {
+      "numer": "RB nr 29/2020",
+      "data": "27.10.2020",
+      "godzina": "12:55",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Lubelskiego Węgla Bogdanka S.A. w dniu 27 października 2020 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Nadzwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-Bogdanka-S-A-w-dniu-27-pazdziernika-2020-r-7989212.html"
+    },
+    {
+      "numer": "RB nr 28/2020",
+      "data": "27.10.2020",
+      "godzina": "12:48",
+      "tytul": "Powołanie członka Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Powolanie-czlonka-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-7989196.html"
+    },
+    {
+      "numer": "RB nr 27/2020",
+      "data": "26.10.2020",
+      "godzina": "09:59",
+      "tytul": "Drugie Wezwanie Akcjonariuszy LW Bogdanka S.A. do złożenia dokumentów akcji w Spółce",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Drugie-Wezwanie-Akcjonariuszy-LW-Bogdanka-S-A-do-zlozenia-dokumentow-akcji-w-Spolce-7988209.html"
+    },
+    {
+      "numer": "RB nr 26/2020",
+      "data": "14.10.2020",
+      "godzina": "17:25",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za trzy kwartały 2020 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-trzy-kwartaly-2020-roku-7981075.html"
+    },
+    {
+      "numer": "RB nr 25/2020",
+      "data": "14.10.2020",
+      "godzina": "14:01",
+      "tytul": "Rezygnacja Przewodniczącej Rady Nadzorczej Spółki",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rezygnacja-Przewodniczacej-Rady-Nadzorczej-Spolki-7980847.html"
+    },
+    {
+      "numer": "RB nr 24/2020",
+      "data": "06.10.2020",
+      "godzina": "13:55",
+      "tytul": "Przyznanie dofinansowania przez Wojewódzki Urząd Pracy w Lublinie",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Przyznanie-dofinansowania-przez-Wojewodzki-Urzad-Pracy-w-Lublinie-7975633.html"
+    },
+    {
+      "numer": "RB nr 23/2020",
+      "data": "01.10.2020",
+      "godzina": "14:36",
+      "tytul": "Powołanie członka Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Powolanie-czlonka-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-7972822.html"
+    },
+    {
+      "numer": "RB nr 22/2020",
+      "data": "29.09.2020",
+      "godzina": "19:19",
+      "tytul": "Aktualizacja celu produkcyjnego na 2020 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Aktualizacja-celu-produkcyjnego-na-2020-r-7971035.html"
+    },
+    {
+      "numer": "RB nr 21/2020",
+      "data": "29.09.2020",
+      "godzina": "12:46",
+      "tytul": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia Lubelskiego Węgla Bogdanka S.A. na wniosek akcjonariusza wraz z projektami uchwał",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwolanie-Nadzwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-Bogdanka-S-A-na-wniosek-akcjonariusza-wraz-z-projektami-uchwal-7970643.html"
+    },
+    {
+      "numer": "RB nr 1/2020",
+      "data": "04.06.2020",
+      "godzina": "12:47",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Lubelskiego Węgla Bogdanka S.A. na dzień 30 czerwca 2020 r. wraz z projektami uchwał",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Ogloszenie-o-zwolaniu-Zwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-Bogdanka-S-A-na-dzien-30-czerwca-2020-r-wraz-z-projektami-uchwal-7898698.html"
+    },
+    {
+      "numer": "RB nr 2/2020",
+      "data": "29.05.2020",
+      "godzina": "14:28",
+      "tytul": "Zawarcie Aneksu z Enea Elektrownia Połaniec S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-Aneksu-z-Enea-Elektrownia-Polaniec-S-A-7894741.html"
+    },
+    {
+      "numer": "RB nr 3/2020",
+      "data": "29.05.2020",
+      "godzina": "11:59",
+      "tytul": "Wykaz Akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla Bogdanka S.A., które odbyło się w dniu 29 maja 2020 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-Akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Nadzwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-29-maja-2020-r-7894540.html"
+    },
+    {
+      "numer": "RB nr 4/2020",
+      "data": "29.05.2020",
+      "godzina": "11:54",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Lubelskiego Węgla Bogdanka S.A. w dniu 29 maja 2020 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Nadzwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-Bogdanka-S-A-w-dniu-29-maja-2020-r-7894538.html"
+    },
+    {
+      "numer": "RB nr 5/2020",
+      "data": "25.05.2020",
+      "godzina": "14:27",
+      "tytul": "Ocena Rady Nadzorczej wniosku Zarządu Lubelskiego Węgla Bogdanka S.A. w sprawie przeznaczenia zysku netto za rok 2019 na kapitał rezerwowy Spółki",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Ocena-Rady-Nadzorczej-wniosku-Zarzadu-Lubelskiego-Wegla-Bogdanka-S-A-w-sprawie-przeznaczenia-zysku-netto-za-rok-2019-na-kapital-rezerwowy-Spolki-7890975.html"
+    },
+    {
+      "numer": "RB nr 28/2019",
+      "data": "17.10.2019",
+      "godzina": "12:10",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Lubelskiego Węgla Bogdanka S.A. w dniu 17 października 2019 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Nadzwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-Bogdanka-S-A-w-dniu-17-pazdziernika-2019-r-7757978.html"
+    },
+    {
+      "numer": "RB nr 27/2019",
+      "data": "15.10.2019",
+      "godzina": "08:03",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za trzy kwartały 2019 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-trzy-kwartaly-2019-roku-7756459.html"
+    },
+    {
+      "numer": "RB nr 26/2019",
+      "data": "18.09.2019",
+      "godzina": "10:09",
+      "tytul": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia Lubelskiego Węgla Bogdanka S.A. na wniosek akcjonariusza wraz z projektami uchwał",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwolanie-Nadzwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-Bogdanka-S-A-na-wniosek-akcjonariusza-wraz-z-projektami-uchwal-7739981.html"
+    },
+    {
+      "numer": "RB nr 25/2019",
+      "data": "30.08.2019",
+      "godzina": "07:26",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-7729549.html"
+    },
+    {
+      "numer": "RB nr 25/2019",
+      "data": "31.01.2019",
+      "godzina": "13:27",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2019",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2019-7640208.html"
+    },
+    {
+      "numer": "RB nr 24/2019",
+      "data": "18.01.2019",
+      "godzina": "17:02",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za 2018 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-2018-r-7637854.html"
+    },
+    {
+      "numer": "RB nr 23/2019",
+      "data": "18.01.2019",
+      "godzina": "13:01",
+      "tytul": "Rezygnacja członka Zarządu",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rezygnacja-czlonka-Zarzadu-7637764.html"
+    },
+    {
+      "numer": "RB nr 22/2018",
+      "data": "31.12.2018",
+      "godzina": "13:11",
+      "tytul": "Wykup obligacji w terminie i zakończenie Programu Emisji Obligacji",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykup-obligacji-w-terminie-i-zakonczenie-Programu-Emisji-Obligacji-7634718.html"
+    },
+    {
+      "numer": "RB nr 21/2018",
+      "data": "19.12.2018",
+      "godzina": "18:19",
+      "tytul": "Zawarcie aneksu do umowy z Enea Elektrownia Połaniec S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-z-Enea-Elektrownia-Polaniec-S-A-7633297.html"
+    },
+    {
+      "numer": "RB nr 20/2018",
+      "data": "23.11.2018",
+      "godzina": "06:34",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-7628206.html"
+    },
+    {
+      "numer": "RB nr 19/2018",
+      "data": "19.11.2018",
+      "godzina": "14:20",
+      "tytul": "Zawarcie aneksu do umowy z Grupą Azoty Zakłady Azotowe „Puławy” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-z-Grupa-Azoty-Zaklady-Azotowe-Pulawy-S-A-7627285.html"
+    },
+    {
+      "numer": "RB nr 18/2018",
+      "data": "17.10.2018",
+      "godzina": "17:05",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za trzy kwartały 2018 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-trzy-kwartaly-2018-roku-7621214.html"
+    },
+    {
+      "numer": "RB nr 17/2018",
+      "data": "04.10.2018",
+      "godzina": "21:10",
+      "tytul": "Powołanie nowych Członków Zarządu LW Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Powolanie-nowych-Czlonkow-Zarzadu-LW-Bogdanka-S-A-7618992.html"
+    },
+    {
+      "numer": "",
+      "data": "18.05.2018",
+      "godzina": "14:47",
+      "tytul": "Ocena Rady Nadzorczej wniosku Zarządu Lubelskiego Węgla Bogdanka S.A. dotyczącego przeznaczenia zysku netto za rok 2017 na kapitał rezerwowy Spółki",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Ocena-Rady-Nadzorczej-wniosku-Zarzadu-Lubelskiego-Wegla-Bogdanka-S-A-dotyczacego-przeznaczenia-zysku-netto-za-rok-2017-na-kapital-rezerwowy-Spolki-7590622.html"
+    },
+    {
+      "numer": "",
+      "data": "16.05.2018",
+      "godzina": "18:02",
+      "tytul": "Rekomendacja Zarządu w sprawie przeznaczenia zysku netto za rok 2017 na kapitał rezerwowy Spółki",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rekomendacja-Zarzadu-w-sprawie-przeznaczenia-zysku-netto-za-rok-2017-na-kapital-rezerwowy-Spolki-7590084.html"
+    },
+    {
+      "numer": "",
+      "data": "13.04.2018",
+      "godzina": "17:02",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za pierwszy kwartał 2018 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-pierwszy-kwartal-2018-roku-7583329.html"
+    },
+    {
+      "numer": "",
+      "data": "30.03.2018",
+      "godzina": "14:12",
+      "tytul": "Wykup obligacji w terminie",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykup-obligacji-w-terminie-7580925.html"
+    },
+    {
+      "numer": "",
+      "data": "23.03.2018",
+      "godzina": "06:41",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-7579268.html"
+    },
+    {
+      "numer": "",
+      "data": "23.03.2018",
+      "godzina": "06:39",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-7579265.html"
+    },
+    {
+      "numer": "",
+      "data": "23.03.2018",
+      "godzina": "06:31",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-7579264.html"
+    },
+    {
+      "numer": "",
+      "data": "19.03.2018",
+      "godzina": "17:38",
+      "tytul": "Powołanie Prezesa Zarządu",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Powolanie-Prezesa-Zarzadu-7578289.html"
+    },
+    {
+      "numer": "",
+      "data": "28.02.2018",
+      "godzina": "17:36",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za 2017 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-2017-r-7574998.html"
+    },
+    {
+      "numer": "",
+      "data": "26.02.2018",
+      "godzina": "13:33",
+      "tytul": "Zawarcie aneksu do umowy wieloletniej z Zakładami Azotowymi „Puławy” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-wieloletniej-z-Zakladami-Azotowymi-Pulawy-S-A-7574376.html"
+    },
+    {
+      "numer": "",
+      "data": "16.02.2018",
+      "godzina": "14:15",
+      "tytul": "Odwołanie Prezesa Zarządu LW Bogdanka SA przez Radę Nadzorczą i powierzenie funkcji pełniącego obowiązki Prezesa Zarządu",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Odwolanie-Prezesa-Zarzadu-LW-Bogdanka-SA-przez-Rade-Nadzorcza-i-powierzenie-funkcji-pelniacego-obowiazki-Prezesa-Zarzadu-7573065.html"
+    },
+    {
+      "numer": "",
+      "data": "30.01.2018",
+      "godzina": "09:16",
+      "tytul": "Rejestracja przez Sąd Statutu LW Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rejestracja-przez-Sad-Statutu-LW-Bogdanka-S-A-7569481.html"
+    },
+    {
+      "numer": "",
+      "data": "16.01.2018",
+      "godzina": "10:03",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2018 wraz z oświadczeniem o zamiarze stałego przekazywania skonsolidowanych raportów kwartalnych oraz termin publikacji sprawozdania z płatności na rzecz administracji publicznej",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2018-wraz-z-oswiadczeniem-o-zamiarze-stalego-przekazywania-skonsolidowanych-raportow-kwartalnych-oraz-termin-publikacji-sprawozdania-z-platnosci-na-rzecz-administracji-publicznej-7567156.html"
+    },
+    {
+      "numer": "",
+      "data": "05.01.2018",
+      "godzina": "14:51",
+      "tytul": "Wybór biegłego rewidenta",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wybor-bieglego-rewidenta-7565527.html"
+    },
+    {
+      "numer": "",
+      "data": "03.01.2018",
+      "godzina": "13:47",
+      "tytul": "Zawarcie aneksu do umowy wieloletniej z ENERGA Elektrownie Ostrołęka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-wieloletniej-z-ENERGA-Elektrownie-Ostroleka-S-A-7565048.html"
+    },
+    {
+      "numer": "",
+      "data": "29.12.2017",
+      "godzina": "12:36",
+      "tytul": "Wykaz Akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla „Bogdanka” S.A., które odbyło się w dniu 29 grudnia 2017 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-Akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Nadzwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-29-grudnia-2017-r-7564489.html"
+    },
+    {
+      "numer": "",
+      "data": "29.12.2017",
+      "godzina": "12:25",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Lubelskiego Węgla Bogdanka S.A. w dniu 29 grudnia 2017 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Nadzwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-Bogdanka-S-A-w-dniu-29-grudnia-2017-r-7564481.html"
+    },
+    {
+      "numer": "",
+      "data": "29.12.2017",
+      "godzina": "11:31",
+      "tytul": "Zmiany w składzie Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zmiany-w-skladzie-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-7564458.html"
+    },
+    {
+      "numer": "",
+      "data": "20.12.2017",
+      "godzina": "14:27",
+      "tytul": "Powołanie członka Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Powolanie-czlonka-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-7563096.html"
+    },
+    {
+      "numer": "",
+      "data": "12.12.2017",
+      "godzina": "17:08",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za 2017 r. odwrócenia odpisu z tytułu utraty wartości aktywów trwałych ujętego w sprawozdaniach na koniec 2015 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-2017-r-odwrocenia-odpisu-z-tytulu-utraty-wartosci-aktywow-trwalych-ujetego-w-sprawozdaniach-na-koniec-2015-r-7561349.html"
+    },
+    {
+      "numer": "",
+      "data": "28.11.2017",
+      "godzina": "13:19",
+      "tytul": "Zwołanie NWZ Lubelskiego Węgla Bogdanka S.A. na dzień 29 grudnia 2017 r. wraz z projektami uchwał NWZ",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwolanie-NWZ-Lubelskiego-Wegla-Bogdanka-S-A-na-dzien-29-grudnia-2017-r-wraz-z-projektami-uchwal-NWZ-7558578.html"
+    },
+    {
+      "numer": "",
+      "data": "23.11.2017",
+      "godzina": "06:31",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-7557700.html"
+    },
+    {
+      "numer": "",
+      "data": "20.11.2017",
+      "godzina": "11:41",
+      "tytul": "Uzyskanie koncesji na wydobywanie węgla kamiennego ze złoża „Ostrów”",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uzyskanie-koncesji-na-wydobywanie-wegla-kamiennego-ze-zloza-Ostrow-7557071.html"
+    },
+    {
+      "numer": "",
+      "data": "07.11.2017",
+      "godzina": "22:05",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za trzy kwartały 2017 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-trzy-kwartaly-2017-roku-7554253.html"
+    },
+    {
+      "numer": "",
+      "data": "17.10.2017",
+      "godzina": "17:06",
+      "tytul": "Podpisanie porozumienia w sprawie wypłaty deputatów węglowych",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Podpisanie-porozumienia-w-sprawie-wyplaty-deputatow-weglowych-7549998.html"
+    },
+    {
+      "numer": "RB nr 1/2017",
+      "data": "10.10.2017",
+      "godzina": "21:38",
+      "tytul": "Zawarcie aneksu do umowy wieloletniej z Zakładami Azotowymi „Puławy” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-wieloletniej-z-Zakladami-Azotowymi-Pulawy-S-A-7548554.html"
+    },
+    {
+      "numer": "RB nr 2/2017",
+      "data": "07.09.2017",
+      "godzina": "21:12",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-7542167.html"
+    },
+    {
+      "numer": "RB nr 3/2017",
+      "data": "29.08.2017",
+      "godzina": "11:28",
+      "tytul": "Rezygnacja członka Rady Nadzorczej",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rezygnacja-czlonka-Rady-Nadzorczej-7540048.html"
+    },
+    {
+      "numer": "RB nr 4/2017",
+      "data": "29.08.2017",
+      "godzina": "09:01",
+      "tytul": "Zmniejszenie udziału przez fundusze inwestycyjne TFI PZU S.A. poniżej 10%",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zmniejszenie-udzialu-przez-fundusze-inwestycyjne-TFI-PZU-S-A-ponizej-10-7540012.html"
+    },
+    {
+      "numer": "RB nr 5/2017",
+      "data": "04.08.2017",
+      "godzina": "14:05",
+      "tytul": "Podjęcie uchwały przez Radę Nadzorczą w sprawie przyjęcia jednolitego tekstu Statutu",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Podjecie-uchwaly-przez-Rade-Nadzorcza-w-sprawie-przyjecia-jednolitego-tekstu-Statutu-7536239.html"
+    },
+    {
+      "numer": "RB nr 6/2017",
+      "data": "01.08.2017",
+      "godzina": "19:05",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za I półrocze 2017 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-I-polrocze-2017-roku-7535588.html"
+    },
+    {
+      "numer": "RB nr 7/2017",
+      "data": "14.07.2017",
+      "godzina": "11:32",
+      "tytul": "Rejestracja przez Sąd zmian w Statucie LW Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rejestracja-przez-Sad-zmian-w-Statucie-LW-Bogdanka-S-A-7532744.html"
+    },
+    {
+      "numer": "RB nr 8/2017",
+      "data": "28.06.2017",
+      "godzina": "11:45",
+      "tytul": "Wykaz Akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-Akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Zwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-26-czerwca-2017-roku-7528891.html"
+    },
+    {
+      "numer": "RB nr 9/2017",
+      "data": "27.06.2017",
+      "godzina": "08:47",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Lubelskiego Węgla Bogdanka S.A. w dniu 26 czerwca 2017 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Zwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-Bogdanka-S-A-w-dniu-26-czerwca-2017-r-7528440.html"
+    },
+    {
+      "numer": "RB nr 10/2017",
+      "data": "26.06.2017",
+      "godzina": "12:22",
+      "tytul": "Podjęcie uchwały w sprawie wypłaty dywidendy Spółki LW Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Podjecie-uchwaly-w-sprawie-wyplaty-dywidendy-Spolki-LW-Bogdanka-S-A-7528141.html"
+    },
+    {
+      "numer": "",
+      "data": "09.02.2017",
+      "godzina": "19:27",
+      "tytul": "Kluczowe elementy Strategii rozwoju LW Bogdanka S.A. Obszar Wydobycie Grupy Enea do 2025 roku (perspektywa do 2030 roku) w tym polityka dywidendowa",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kluczowe-elementy-Strategii-rozwoju-LW-Bogdanka-S-A-Obszar-Wydobycie-Grupy-Enea-do-2025-roku-perspektywa-do-2030-roku-w-tym-polityka-dywidendowa-7498595.html"
+    },
+    {
+      "numer": "",
+      "data": "08.02.2017",
+      "godzina": "12:55",
+      "tytul": "Zwołanie NWZ Lubelskiego Węgla BOGDANKA S.A. na dzień 7 marca 2017 r. wraz z projektami uchwał NWZ",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwolanie-NWZ-Lubelskiego-Wegla-BOGDANKA-S-A-na-dzien-7-marca-2017-r-wraz-z-projektami-uchwal-NWZ-7498266.html"
+    },
+    {
+      "numer": "",
+      "data": "30.01.2017",
+      "godzina": "08:11",
+      "tytul": "Zwiększenie udziału przez fundusze inwestycyjne TFI PZU S.A. powyżej 10%",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwiekszenie-udzialu-przez-fundusze-inwestycyjne-TFI-PZU-S-A-powyzej-10-7496335.html"
+    },
+    {
+      "numer": "",
+      "data": "27.01.2017",
+      "godzina": "14:30",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2017",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2017-wraz-z-oswiadczeniem-o-zamiarze-stalego-przekazywania-skonsolidowanych-raportow-kwartalnych-oraz-termin-publikacji-sprawozdania-z-platnosci-na-rzecz-administracji-publicznej-7496158.html"
+    },
+    {
+      "numer": "",
+      "data": "28.12.2016",
+      "godzina": "14:00",
+      "tytul": "Zawarcie aneksu do umowy wieloletniej z ENERGA Elektrownie Ostrołęka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-wieloletniej-z-ENERGA-Elektrownie-Ostroleka-S-A-7490968.html"
+    },
+    {
+      "numer": "",
+      "data": "06.12.2016",
+      "godzina": "11:31",
+      "tytul": "Zawarcie aneksu do umowy wieloletniej z Zakładami Azotowymi „Puławy” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-wieloletniej-z-Zakladami-Azotowymi-Pulawy-S-A-7488014.html"
+    },
+    {
+      "numer": "",
+      "data": "10.11.2016",
+      "godzina": "06:38",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-7484098.html"
+    },
+    {
+      "numer": "",
+      "data": "02.11.2016",
+      "godzina": "18:48",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za 3 kwartały 2016 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-3-kwartaly-2016-roku-7483046.html"
+    },
+    {
+      "numer": "",
+      "data": "27.10.2016",
+      "godzina": "14:40",
+      "tytul": "Rejestracja przez Sąd Statutu LW Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rejestracja-przez-Sad-Statutu-LW-Bogdanka-S-A-7482473.html"
+    },
+    {
+      "numer": "",
+      "data": "30.09.2016",
+      "godzina": "17:30",
+      "tytul": "Kontynuacja współpracy z ENGIE Energia Polska S.A",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kontynuacja-wspolpracy-z-ENGIE-Energia-Polska-S-A-dawniej-Elektrownia-Polaniec-S-A-Grupa-GDF-SUEZ-ENERGIA-POLSKA-7479396.html"
+    },
+    {
+      "numer": "",
+      "data": "29.09.2016",
+      "godzina": "08:50",
+      "tytul": "Zawarcie aneksów do umów wieloletnich ze spółką ENEA Wytwarzanie Sp. z o.o.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksow-do-umow-wieloletnich-ze-spolka-ENEA-Wytwarzanie-Sp-z-o-o-7479007.html"
+    },
+    {
+      "numer": "",
+      "data": "30.08.2016",
+      "godzina": "13:33",
+      "tytul": "Zawarcie aneksu do umowy z ENGIE Energia Polska S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-z-ENGIE-Energia-Polska-S-A-dawniej-Elektrownia-Polaniec-S-A-Grupa-GDF-SUEZ-ENERGIA-POLSKA-7475287.html"
+    },
+    {
+      "numer": "",
+      "data": "26.08.2016",
+      "godzina": "06:37",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-7474843.html"
+    },
+    {
+      "numer": "",
+      "data": "18.08.2016",
+      "godzina": "09:26",
+      "tytul": "Wykaz Akcjonariuszy posiadających co najmniej 5% liczby głosów",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-Akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Nadzwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-17-sierpnia-2016-r-7473953.html"
+    },
+    {
+      "numer": "",
+      "data": "17.08.2016",
+      "godzina": "14:43",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Nadzwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-Bogdanka-S-A-w-dniu-17-sierpnia-2016-r-7473841.html"
+    },
+    {
+      "numer": "",
+      "data": "09.08.2016",
+      "godzina": "14:24",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za I półrocze 2016 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-I-polrocze-2016-roku-7472625.html"
+    },
+    {
+      "numer": "",
+      "data": "09.08.2016",
+      "godzina": "10:40",
+      "tytul": "Zwiększenie udziału przez fundusze inwestycyjne TFI PZU S.A. powyżej 5%",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwiekszenie-udzialu-przez-fundusze-inwestycyjne-TFI-PZU-S-A-powyzej-5-7472528.html"
+    },
+    {
+      "numer": "",
+      "data": "08.08.2016",
+      "godzina": "13:37",
+      "tytul": "Zawarcie porozumienia do umowy znaczącej z EDF Paliwa Sp. z o.o.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-porozumienia-do-umowy-znaczacej-z-EDF-Paliwa-Sp-z-o-o-7471126.html"
+    },
+    {
+      "numer": "",
+      "data": "22.07.2016",
+      "godzina": "18:29",
+      "tytul": "Zwołanie NWZ Lubelskiego Węgla BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwolanie-NWZ-Lubelskiego-Wegla-BOGDANKA-S-A-na-dzien-17-sierpnia-2016-r-wraz-z-projektami-uchwal-NWZ-7445091.html"
+    },
+    {
+      "numer": "",
+      "data": "30.06.2016",
+      "godzina": "12:09",
+      "tytul": "Nabycie przez Banki obligacji w ramach Programu emisji obligacji",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Nabycie-przez-Banki-obligacji-w-ramach-Programu-emisji-obligacji-7421566.html"
+    },
+    {
+      "numer": "",
+      "data": "24.06.2016",
+      "godzina": "12:32",
+      "tytul": "Wykaz Akcjonariuszy posiadających co najmniej 5% liczby głosów",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-Akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Zwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-22-czerwca-2016-r-7416047.html"
+    },
+    {
+      "numer": "",
+      "data": "22.06.2016",
+      "godzina": "14:38",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Zwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-BOGDANKA-S-A-w-dniu-22-czerwca-2016-r-7415582.html"
+    },
+    {
+      "numer": "",
+      "data": "06.06.2016",
+      "godzina": "18:37",
+      "tytul": "Ocena Rady Nadzorczej wniosku Zarządu dotyczącego pokrycia straty netto za 2015",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Ocena-Rady-Nadzorczej-wniosku-Zarzadu-Lubelskiego-Wegla-BOGDANKA-S-A-dotyczacego-pokrycia-straty-netto-za-2015-7409632.html"
+    },
+    {
+      "numer": "",
+      "data": "25.05.2016",
+      "godzina": "20:52",
+      "tytul": "Zwołanie Zwyczajnego Walnego Zgromadzenia Lubelskiego Węgla BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwolanie-Zwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-BOGDANKA-S-A-na-dzien-22-czerwca-2016-r-wraz-z-projektami-uchwal-ZWZ-7397491.html"
+    },
+    {
+      "numer": "",
+      "data": "16.05.2016",
+      "godzina": "06:26",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-7390236.html"
+    },
+    {
+      "numer": "RB nr 12/2016",
+      "data": "13.05.2016",
+      "godzina": "17:13",
+      "tytul": "Powołanie nowych członków Zarządu",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Powolanie-nowych-czlonkow-Zarzadu-7390053.html"
+    },
+    {
+      "numer": "RB nr 11/2016",
+      "data": "05.05.2016",
+      "godzina": "09:12",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za I kwartał 2016 roku - korekta",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-I-kwartal-2016-roku-korekta-7378509.html"
+    },
+    {
+      "numer": "RB nr 10/2016",
+      "data": "05.05.2016",
+      "godzina": "08:19",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych za I kwartał 2016 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-w-sprawie-wstepnych-wynikow-finansowych-za-I-kwartal-2016-roku-7378503.html"
+    },
+    {
+      "numer": "RB nr 9/2016",
+      "data": "26.04.2016",
+      "godzina": "13:47",
+      "tytul": "Rejestracja przez Sąd zmian w Statucie LW BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rejestracja-przez-Sad-zmian-w-Statucie-LW-BOGDANKA-S-A-7368567.html"
+    },
+    {
+      "numer": "RB nr 8/2016",
+      "data": "15.04.2016",
+      "godzina": "12:29",
+      "tytul": "Zmiana daty publikacji skonsolidowanego raportu kwartalnego za I kwartał 2016 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zmiana-daty-publikacji-skonsolidowanego-raportu-kwartalnego-za-I-kwartal-2016-roku-7360067.html"
+    },
+    {
+      "numer": "RB nr 7/2016",
+      "data": "12.04.2016",
+      "godzina": "14:28",
+      "tytul": "Wykaz Akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla „Bogdanka” S.A., które odbyło się w dniu 12 kwietnia 2016 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-Akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Nadzwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-12-kwietnia-2016-r-7359300.html"
+    },
+    {
+      "numer": "RB nr 6/2016",
+      "data": "12.04.2016",
+      "godzina": "13:04",
+      "tytul": "Uchwalone zmiany w Statucie LW Bogdanka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwalone-zmiany-w-Statucie-LW-Bogdanka-S-A-7359279.html"
+    },
+    {
+      "numer": "RB nr 5/2016",
+      "data": "01.04.2016",
+      "godzina": "12:49",
+      "tytul": "Uzupełnienie raportu bieżącego nr 12/2016 - Odwołanie członków Zarządu oraz powołanie nowych członków Zarządu",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uzupelnienie-raportu-biezacego-nr-12-2016-Odwolanie-czlonkow-Zarzadu-oraz-powolanie-nowych-czlonkow-Zarzadu-7356215.html"
+    },
+    {
+      "numer": "RB nr 4/2016",
+      "data": "30.03.2016",
+      "godzina": "14:22",
+      "tytul": "Informacja o transakcjach na akcjach LW „Bogdanka” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-o-transakcjach-na-akcjach-LW-Bogdanka-S-A-7354192.html"
+    },
+    {
+      "numer": "RB nr 3/2016",
+      "data": "30.03.2016",
+      "godzina": "10:20",
+      "tytul": "Informacja o transakcjach na akcjach LW „Bogdanka” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-o-transakcjach-na-akcjach-LW-Bogdanka-S-A-7354063.html"
+    },
+    {
+      "numer": "RB nr 2/2016",
+      "data": "24.03.2016",
+      "godzina": "19:57",
+      "tytul": "Odwołanie członków Zarządu oraz powołanie nowych członków Zarządu",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Odwolanie-czlonkow-Zarzadu-oraz-powolanie-nowych-czlonkow-Zarzadu-7349185.html"
+    },
+    {
+      "numer": "RB nr 1/2016",
+      "data": "21.03.2016",
+      "godzina": "06:36",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-7344676.html"
+    },
+    {
+      "numer": "",
+      "data": "22.12.2015",
+      "godzina": "17:10",
+      "tytul": "Zawarcie aneksu do umowy znaczącej z ENERGA Elektrownie Ostrołęka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-znaczacej-z-ENERGA-Elektrownie-Ostroleka-S-A-7291939.html"
+    },
+    {
+      "numer": "",
+      "data": "22.12.2015",
+      "godzina": "17:04",
+      "tytul": "Wypowiedzenie przez EDF Paliwa Sp. z o.o. Umowy wieloletniej sprzedaży węgla energetycznego zawartej w dniu 19.07.2011 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wypowiedzenie-przez-EDF-Paliwa-Sp-z-o-o-Umowy-wieloletniej-sprzedazy-wegla-energetycznego-zawartej-w-dniu-19-07-2011-r-7291932.html"
+    },
+    {
+      "numer": "",
+      "data": "09.12.2015",
+      "godzina": "14:30",
+      "tytul": "Rezygnacja członka Rady Nadzorczej",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rezygnacja-czlonka-Rady-Nadzorczej-7289852.html"
+    },
+    {
+      "numer": "",
+      "data": "07.12.2015",
+      "godzina": "17:32",
+      "tytul": "Zawarcie aneksu do umowy znaczącej z Elektrownią Połaniec S.A. - Grupa GDF SUEZ ENERGIA POLSKA",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-znaczacej-z-Elektrownia-Polaniec-S-A-Grupa-GDF-SUEZ-ENERGIA-POLSKA-7289541.html"
+    },
+    {
+      "numer": "",
+      "data": "25.11.2015",
+      "godzina": "18:06",
+      "tytul": "Uzupełnienie raportu bieżącego nr 44/2015 - Powołanie Członków Rady Nadzorczej Lubelskiego Węgla BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uzupelnienie-raportu-biezacego-nr-44-2015-Powolanie-Czlonkow-Rady-Nadzorczej-Lubelskiego-Wegla-BOGDANKA-S-A-7287963.html"
+    },
+    {
+      "numer": "",
+      "data": "25.11.2015",
+      "godzina": "14:31",
+      "tytul": "Zawarcie aneksu do umowy znaczącej z Zakładami Azotowymi „Puławy” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-znaczacej-z-Zakladami-Azotowymi-Pulawy-S-A-7287891.html"
+    },
+    {
+      "numer": "",
+      "data": "23.11.2015",
+      "godzina": "14:04",
+      "tytul": "Odwołanie członków Zarządu VIII kadencji oraz powołanie Zarządu na IX kadencję",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Odwolanie-czlonkow-Zarzadu-VIII-kadencji-oraz-powolanie-Zarzadu-na-IX-kadencje-7287554.html"
+    },
+    {
+      "numer": "",
+      "data": "17.11.2015",
+      "godzina": "09:15",
+      "tytul": "Wykaz Akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla „Bogdanka” S.A., które odbyło się w dniu 16 listopada 2015 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-Akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Nadzwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-16-listopada-2015-r-7286740.html"
+    },
+    {
+      "numer": "",
+      "data": "16.11.2015",
+      "godzina": "17:25",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Lubelskiego Węgla BOGDANKA S.A. w dniu 16 listopada 2015 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Nadzwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-BOGDANKA-S-A-w-dniu-16-listopada-2015-r-7286550.html"
+    },
+    {
+      "numer": "",
+      "data": "16.11.2015",
+      "godzina": "14:42",
+      "tytul": "Powołanie Członków Rady Nadzorczej Lubelskiego Węgla BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Powolanie-Czlonkow-Rady-Nadzorczej-Lubelskiego-Wegla-BOGDANKA-S-A-7286452.html"
+    },
+    {
+      "numer": "",
+      "data": "16.11.2015",
+      "godzina": "14:39",
+      "tytul": "Odwołanie Członków Rady Nadzorczej Lubelskiego Węgla BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Odwolanie-Czlonkow-Rady-Nadzorczej-Lubelskiego-Wegla-BOGDANKA-S-A-7286447.html"
+    },
+    {
+      "numer": "",
+      "data": "04.11.2015",
+      "godzina": "14:55",
+      "tytul": "Zmniejszenie przez Nationale Nederlanden OFE udziału w ogólnej liczbie głosów poniżej 5%",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zmniejszenie-przez-Nationale-Nederlanden-OFE-udzialu-w-ogolnej-liczbie-glosow-ponizej-5-7284474.html"
+    },
+    {
+      "numer": "",
+      "data": "03.11.2015",
+      "godzina": "11:37",
+      "tytul": "Zmniejszenie udziału przez Aviva Otwarty Fundusz Emerytalny Aviva BZ WBK poniżej 5%",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zmniejszenie-udzialu-przez-Aviva-Otwarty-Fundusz-Emerytalny-Aviva-BZ-WBK-ponizej-5-7284245.html"
+    },
+    {
+      "numer": "",
+      "data": "30.10.2015",
+      "godzina": "15:04",
+      "tytul": "Zmniejszenie udziału przez Otwarty Fundusz Emerytalnego PZU „Złota Jesień\" poniżej 5%",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zmniejszenie-udzialu-przez-Otwarty-Fundusz-Emerytalnego-PZU-Zlota-Jesien-ponizej-5-7283863.html"
+    },
+    {
+      "numer": "",
+      "data": "30.10.2015",
+      "godzina": "12:56",
+      "tytul": "Nabycie akcji przez Enea S.A. w ramach wezwania oraz zawiadomienie o powstaniu stosunku dominacji",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Nabycie-akcji-przez-Enea-S-A-w-ramach-wezwania-oraz-zawiadomienie-o-powstaniu-stosunku-dominacji-7283818.html"
+    },
+    {
+      "numer": "",
+      "data": "30.10.2015",
+      "godzina": "12:10",
+      "tytul": "Informacja o transakcjach na akcjach LW „Bogdanka” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-o-transakcjach-na-akcjach-LW-Bogdanka-S-A-7283807.html"
+    },
+    {
+      "numer": "",
+      "data": "30.10.2015",
+      "godzina": "12:08",
+      "tytul": "Informacja o transakcjach na akcjach LW „Bogdanka” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-o-transakcjach-na-akcjach-LW-Bogdanka-S-A-7283806.html"
+    },
+    {
+      "numer": "",
+      "data": "30.10.2015",
+      "godzina": "12:06",
+      "tytul": "Informacja o transakcjach na akcjach LW „Bogdanka” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-o-transakcjach-na-akcjach-LW-Bogdanka-S-A-7283805.html"
+    },
+    {
+      "numer": "",
+      "data": "30.10.2015",
+      "godzina": "12:04",
+      "tytul": "Informacja o transakcjach na akcjach LW „Bogdanka” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-o-transakcjach-na-akcjach-LW-Bogdanka-S-A-7283804.html"
+    },
+    {
+      "numer": "",
+      "data": "29.10.2015",
+      "godzina": "00:04",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-7283567.html"
+    },
+    {
+      "numer": "",
+      "data": "28.10.2015",
+      "godzina": "09:59",
+      "tytul": "Rezygnacja członka Rady Nadzorczej",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rezygnacja-czlonka-Rady-Nadzorczej-7283432.html"
+    },
+    {
+      "numer": "",
+      "data": "21.10.2015",
+      "godzina": "17:24",
+      "tytul": "Zwołanie NWZ Lubelskiego Węgla BOGDANKA S.A. na dzień 16 listopada 2015 r. wraz z projektami uchwał NWZ",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwolanie-NWZ-Lubelskiego-Wegla-BOGDANKA-S-A-na-dzien-16-listopada-2015-r-wraz-z-projektami-uchwal-NWZ-7282722.html"
+    },
+    {
+      "numer": "",
+      "data": "16.10.2015",
+      "godzina": "08:04",
+      "tytul": "Wykaz Akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla „Bogdanka” S.A., które odbyło się w dniu 15 października 2015 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-Akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Nadzwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-15-pazdziernika-2015-r-7282107.html"
+    },
+    {
+      "numer": "",
+      "data": "15.10.2015",
+      "godzina": "13:20",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Lubelskiego Węgla BOGDANKA S.A. w dniu 15 października 2015 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Nadzwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-BOGDANKA-S-A-w-dniu-15-pazdziernika-2015-r-7282000.html"
+    },
+    {
+      "numer": "",
+      "data": "12.10.2015",
+      "godzina": "12:24",
+      "tytul": "Zwiększenie przez Nationale Nederlanden OFE udziału w ogólnej liczbie głosów o co najmniej 2%",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwiekszenie-przez-Nationale-Nederlanden-OFE-udzialu-w-ogolnej-liczbie-glosow-o-co-najmniej-2-7281509.html"
+    },
+    {
+      "numer": "",
+      "data": "12.10.2015",
+      "godzina": "09:45",
+      "tytul": "Stanowisko związków zawodowych działających w LW „Bogdanka” S.A. w sprawie wezwania do zapisywania się na sprzedaż akcji Spółki",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Stanowisko-zwiazkow-zawodowych-dzialajacych-w-LW-Bogdanka-S-A-w-sprawie-wezwania-do-zapisywania-sie-na-sprzedaz-akcji-Spolki-7281486.html"
+    },
+    {
+      "numer": "",
+      "data": "28.09.2015",
+      "godzina": "18:25",
+      "tytul": "Stanowisko Zarządu LW „Bogdanka” S.A. w sprawie wezwania do zapisywania się na sprzedaż akcji Spółki",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Stanowisko-Zarzadu-LW-Bogdanka-S-A-w-sprawie-wezwania-do-zapisywania-sie-na-sprzedaz-akcji-Spolki-7279706.html"
+    },
+    {
+      "numer": "",
+      "data": "18.09.2015",
+      "godzina": "17:31",
+      "tytul": "Zwołanie NWZ Lubelskiego Węgla BOGDANKA S.A. na dzień 15 października 2015 r. wraz z projektami uchwał NWZ",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwolanie-NWZ-Lubelskiego-Wegla-BOGDANKA-S-A-na-dzien-15-pazdziernika-2015-r-wraz-z-projektami-uchwal-NWZ-7278732.html"
+    },
+    {
+      "numer": "",
+      "data": "09.09.2015",
+      "godzina": "14:03",
+      "tytul": "Zwiększenie przez Nationale Nederlanden OFE udziału w ogólnej liczbie głosów powyżej 10%",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwiekszenie-przez-Nationale-Nederlanden-OFE-udzialu-w-ogolnej-liczbie-glosow-powyzej-10-7277520.html"
+    },
+    {
+      "numer": "",
+      "data": "31.08.2015",
+      "godzina": "17:45",
+      "tytul": "Zawarcie aneksu do umowy znaczącej z PGNIG Termika S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-znaczacej-z-PGNIG-Termika-S-A-7276346.html"
+    },
+    {
+      "numer": "",
+      "data": "21.08.2015",
+      "godzina": "22:04",
+      "tytul": "Wypowiedzenie przez Enea Wytwarzanie Sp. z o.o. Umowy wieloletniej na dostawy węgla energetycznego zawartej w dniu 4 marca 2010 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wypowiedzenie-przez-Enea-Wytwarzanie-Sp-z-o-o-Umowy-wieloletniej-na-dostawy-wegla-energetycznego-zawartej-w-dniu-4-marca-2010-roku-7275179.html"
+    },
+    {
+      "numer": "",
+      "data": "20.08.2015",
+      "godzina": "00:08",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-7274647.html"
+    },
+    {
+      "numer": "",
+      "data": "12.08.2015",
+      "godzina": "13:11",
+      "tytul": "Rejestracja przez Sąd zmian w Statucie LW BOGDANKA S.A. oraz przyjęcie jednolitego tekstu Statutu.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rejestracja-przez-Sad-zmian-w-Statucie-LW-BOGDANKA-S-A-oraz-przyjecie-jednolitego-tekstu-Statutu-7273440.html"
+    },
+    {
+      "numer": "",
+      "data": "02.07.2015",
+      "godzina": "19:00",
+      "tytul": "Odpowiedzi na pytania akcjonariusza zadane na Zwyczajnym Walnym Zgromadzeniu w dniu 18.06.2015 r. udzielone w trybie art. 428 k.s.h.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Odpowiedzi-na-pytania-akcjonariusza-zadane-na-Zwyczajnym-Walnym-Zgromadzeniu-w-dniu-18-06-2015-r-udzielone-w-trybie-art-428-k-s-h-7268701.html"
+    },
+    {
+      "numer": "",
+      "data": "30.06.2015",
+      "godzina": "18:39",
+      "tytul": "Nabycie przez Banki obligacji w ramach Programu emisji obligacji",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Nabycie-przez-Banki-obligacji-w-ramach-Programu-emisji-obligacji-7267844.html"
+    },
+    {
+      "numer": "",
+      "data": "26.06.2015",
+      "godzina": "14:31",
+      "tytul": "Wybór biegłego rewidenta",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wybor-bieglego-rewidenta-7266788.html"
+    },
+    {
+      "numer": "",
+      "data": "23.06.2015",
+      "godzina": "08:27",
+      "tytul": "Wykaz Akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla „Bogdanka” S.A., które odbyło się w dniu 18 czerwca 2015 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-Akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Zwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-18-czerwca-2015-roku-7265792.html"
+    },
+    {
+      "numer": "",
+      "data": "22.06.2015",
+      "godzina": "13:51",
+      "tytul": "Zawarcie aneksu do umowy znaczącej z PGNiG Termika S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-znaczacej-z-PGNiG-Termika-S-A-7265641.html"
+    },
+    {
+      "numer": "",
+      "data": "19.06.2015",
+      "godzina": "09:32",
+      "tytul": "Uchwalone zmiany w Statucie LW BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwalone-zmiany-w-Statucie-LW-BOGDANKA-S-A-7265341.html"
+    },
+    {
+      "numer": "",
+      "data": "19.06.2015",
+      "godzina": "09:30",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Lubelskiego Węgla BOGDANKA S.A. w dniu 18 czerwca 2015 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Zwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-BOGDANKA-S-A-w-dniu-18-czerwca-2015-r-7265340.html"
+    },
+    {
+      "numer": "",
+      "data": "18.06.2015",
+      "godzina": "15:14",
+      "tytul": "Powołanie składu Rady Nadzorczej Lubelskiego Węgla BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Powolanie-skladu-Rady-Nadzorczej-Lubelskiego-Wegla-BOGDANKA-S-A-7265214.html"
+    },
+    {
+      "numer": "",
+      "data": "18.06.2015",
+      "godzina": "13:41",
+      "tytul": "Podjęcie uchwały w sprawie wypłaty dywidendy Spółki LW BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Podjecie-uchwaly-w-sprawie-wyplaty-dywidendy-Spolki-LW-BOGDANKA-S-A-7265183.html"
+    },
+    {
+      "numer": "",
+      "data": "15.06.2015",
+      "godzina": "12:02",
+      "tytul": "Kandydatura na członka Rady Nadzorczej zgłoszona przez Akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kandydatura-na-czlonka-Rady-Nadzorczej-zgloszona-przez-Akcjonariusza-7264548.html"
+    },
+    {
+      "numer": "",
+      "data": "12.06.2015",
+      "godzina": "14:04",
+      "tytul": "Kandydatura na członka Rady Nadzorczej zgłoszona przez Akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kandydatura-na-czlonka-Rady-Nadzorczej-zgloszona-przez-Akcjonariusza-7264268.html"
+    },
+    {
+      "numer": "",
+      "data": "11.06.2015",
+      "godzina": "11:26",
+      "tytul": "Kandydatura na członka Rady Nadzorczej zgłoszona przez Akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kandydatura-na-czlonka-Rady-Nadzorczej-zgloszona-przez-Akcjonariusza-7263978.html"
+    },
+    {
+      "numer": "",
+      "data": "11.06.2015",
+      "godzina": "08:21",
+      "tytul": "Kandydatura na członka Rady Nadzorczej zgłoszona przez Akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kandydatura-na-czlonka-Rady-Nadzorczej-zgloszona-przez-Akcjonariusza-7263947.html"
+    },
+    {
+      "numer": "",
+      "data": "10.06.2015",
+      "godzina": "08:31",
+      "tytul": "Uchwała Zarządu w sprawie wniosku do Walnego Zgromadzenia dotyczącego podziału zysku netto za 2014 r., ocena wniosku Zarządu przez Radę Nadzorczą oraz aktualizacja założeń sprzedażowych na 2015 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwala-Zarzadu-w-sprawie-wniosku-do-Walnego-Zgromadzenia-dotyczacego-podzialu-zysku-netto-za-2014-r-ocena-wniosku-Zarzadu-przez-Rade-Nadzorcza-oraz-aktualizacja-zalozen-sprzedazowych-na-2015-r-7263717.html"
+    },
+    {
+      "numer": "",
+      "data": "09.06.2015",
+      "godzina": "19:56",
+      "tytul": "Kandydatura na członka Rady Nadzorczej zgłoszona przez Akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kandydatura-na-czlonka-Rady-Nadzorczej-zgloszona-przez-Akcjonariusza-7263675.html"
+    },
+    {
+      "numer": "",
+      "data": "01.06.2015",
+      "godzina": "10:40",
+      "tytul": "Kandydatury na członków Rady Nadzorczej zgłoszone przez Akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kandydatury-na-czlonkow-Rady-Nadzorczej-zgloszone-przez-Akcjonariusza-7261966.html"
+    },
+    {
+      "numer": "",
+      "data": "13.05.2015",
+      "godzina": "10:00",
+      "tytul": "Zwołanie Zwyczajnego Walnego Zgromadzenia Lubelskiego Węgla BOGDANKA S.A. na dzień 18 czerwca 2015 r. wraz z projektami uchwał ZWZ w tym uchwał o zmianie Statutu spółki.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwolanie-Zwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-BOGDANKA-S-A-na-dzien-18-czerwca-2015-r-wraz-z-projektami-uchwal-ZWZ-w-tym-uchwal-o-zmianie-Statutu-spolki-7257875.html"
+    },
+    {
+      "numer": "RB nr 1/2015",
+      "data": "05.05.2015",
+      "godzina": "18:05",
+      "tytul": "Uchwała Zarządu w sprawie wniosku dotyczącego podziału zysku netto Spółki Lubelskiego Węgla BOGDANKA S.A. za rok 2014 oraz jego ocena przez Radę Nadzorczą",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwala-Zarzadu-w-sprawie-wniosku-dotyczacego-podzialu-zysku-netto-Spolki-Lubelskiego-Wegla-BOGDANKA-S-A-za-rok-2014-oraz-jego-ocena-przez-Rade-Nadzorcza-7256669.html"
+    },
+    {
+      "numer": "RB nr 2/2015",
+      "data": "30.04.2015",
+      "godzina": "00:09",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-7255739.html"
+    },
+    {
+      "numer": "RB nr 3/2015",
+      "data": "29.04.2015",
+      "godzina": "23:30",
+      "tytul": "Uchwała Zarządu w sprawie wniosku do Walnego Zgromadzenia dotyczącego podziału zysku netto za 2014 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwala-Zarzadu-w-sprawie-wniosku-do-Walnego-Zgromadzenia-dotyczacego-podzialu-zysku-netto-za-2014-r-7255737.html"
+    },
+    {
+      "numer": "RB nr 4/2015",
+      "data": "08.04.2015",
+      "godzina": "11:09",
+      "tytul": "Zwiększenie udziału w ogólnej liczbie głosów powyżej 15%",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwiekszenie-udzialu-w-ogolnej-liczbie-glosow-powyzej-15-7244959.html"
+    },
+    {
+      "numer": "RB nr 5/2015",
+      "data": "25.03.2015",
+      "godzina": "14:03",
+      "tytul": "Zawarcie aneksu do umowy rocznej ze spółką ENEA Wytwarzanie Sp. z o.o.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-rocznej-ze-spolka-ENEA-Wytwarzanie-Sp-z-o-o-7243055.html"
+    },
+    {
+      "numer": "RB nr 6/2015",
+      "data": "12.03.2015",
+      "godzina": "00:23",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-7240805.html"
+    },
+    {
+      "numer": "RB nr 7/2015",
+      "data": "12.03.2015",
+      "godzina": "00:09",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-7240804.html"
+    },
+    {
+      "numer": "RB nr 8/2015",
+      "data": "07.01.2015",
+      "godzina": "13:43",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2015 wraz z oświadczeniem o zamiarze stałego przekazywania skonsolidowanych raportów kwartalnych",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2015-wraz-z-oswiadczeniem-o-zamiarze-stalego-przekazywania-skonsolidowanych-raportow-kwartalnych-7230480.html"
+    },
+    {
+      "numer": "RB nr 9/2015",
+      "data": "30.12.2014",
+      "godzina": "14:20",
+      "tytul": "Zawarcie aneksu do umowy znaczącej z ENERGA Elektrownie Ostrołęka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-znaczacej-z-ENERGA-Elektrownie-Ostroleka-S-A-7229738.html"
+    },
+    {
+      "numer": "RB nr 10/2014",
+      "data": "24.12.2014",
+      "godzina": "13:24",
+      "tytul": "Zmniejszenie udziału w ogólnej liczbie głosów o co najmniej 2% przez Aviva Otwarty Fundusz Emerytalny Aviva BZ WBK",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zmniejszenie-udzialu-w-ogolnej-liczbie-glosow-o-co-najmniej-2-przez-Aviva-Otwarty-Fundusz-Emerytalny-Aviva-BZ-WBK-7229446.html"
+    },
+    {
+      "numer": "",
+      "data": "13.05.2014",
+      "godzina": "13:27",
+      "tytul": "Zwołanie Zwyczajnego Walnego Zgromadzenia Lubelskiego Węgla BOGDANKA S.A. na dzień 12 czerwca 2014 r. wraz z projektami uchwał ZWZ",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwolanie-Zwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-BOGDANKA-S-A-na-dzien-12-czerwca-2014-r-wraz-z-projektami-uchwal-ZWZ-3121152.html"
+    },
+    {
+      "numer": "",
+      "data": "08.05.2014",
+      "godzina": "00:07",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-3117633.html"
+    },
+    {
+      "numer": "",
+      "data": "25.04.2014",
+      "godzina": "14:47",
+      "tytul": "Uchwała Rady Nadzorczej Lubelskiego Węgla BOGDANKA S.A. w sprawie oceny wniosku Zarządu dotyczącego podziału zysku netto Spółki za rok 2013",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwala-Rady-Nadzorczej-Lubelskiego-Wegla-BOGDANKA-S-A-w-sprawie-oceny-wniosku-Zarzadu-dotyczacego-podzialu-zysku-netto-Spolki-za-rok-2013-3110011.html"
+    },
+    {
+      "numer": "",
+      "data": "24.04.2014",
+      "godzina": "14:22",
+      "tytul": "Zawarcie aneksu do umowy znaczącej z PGNIG Termika S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-znaczacej-z-PGNIG-Termika-S-A-3109012.html"
+    },
+    {
+      "numer": "",
+      "data": "15.04.2014",
+      "godzina": "13:42",
+      "tytul": "Uchwała Zarządu w sprawie wniosku do Walnego Zgromadzenia dotyczącego podziału zysku netto za 2013 r.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwala-Zarzadu-w-sprawie-wniosku-do-Walnego-Zgromadzenia-dotyczacego-podzialu-zysku-netto-za-2013-r-3103568.html"
+    },
+    {
+      "numer": "",
+      "data": "31.03.2014",
+      "godzina": "19:12",
+      "tytul": "Zawarcie aneksu do umowy znaczącej z EDF Paliwa Sp. z o.o.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-znaczacej-z-EDF-Paliwa-Sp-z-o-o-3093640.html"
+    },
+    {
+      "numer": "",
+      "data": "20.03.2014",
+      "godzina": "01:06",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-3085546.html"
+    },
+    {
+      "numer": "Zawarcie umowy dotyczącej programu emisji obligacji",
+      "data": "23.09.2013",
+      "godzina": "18:26",
+      "tytul": "LW BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-umowy-dotyczacej-programu-emisji-obligacji-2944711.html"
+    },
+    {
+      "numer": "Podjęcie uchwały przez Radę Nadzorczą w sprawie przyjęcia jednolitego tekstu Statutu",
+      "data": "09.09.2013",
+      "godzina": "19:36",
+      "tytul": "LW BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Podjecie-uchwaly-przez-Rade-Nadzorcza-w-sprawie-przyjecia-jednolitego-tekstu-Statutu-2933395.html"
+    },
+    {
+      "numer": "Zawarcie aneksu do umowy znaczącej z Elektrownią Połaniec S.A. - Grupa GDF SUEZ ENERGIA POLSKA",
+      "data": "30.08.2013",
+      "godzina": "17:37",
+      "tytul": "LW BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-znaczacej-z-Elektrownia-Polaniec-S-A-Grupa-GDF-SUEZ-ENERGIA-POLSKA-2925786.html"
+    },
+    {
+      "numer": "wyniki finansowe",
+      "data": "29.08.2013",
+      "godzina": "00:56",
+      "tytul": "LW BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-2923395.html"
+    },
+    {
+      "numer": "Rejestracja przez Sąd zmian w Statucie LW BOGDANKA S.A., w tym rejestracja warunkowego podwyższenia i zmiana struktury kapitału zakładowego Spółki",
+      "data": "08.08.2013",
+      "godzina": "19:01",
+      "tytul": "LW BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rejestracja-przez-Sad-zmian-w-Statucie-LW-BOGDANKA-S-A-w-tym-rejestracja-warunkowego-podwyzszenia-i-zmiana-struktury-kapitalu-zakladowego-Spolki-2909036.html"
+    },
+    {
+      "numer": "Wykaz Akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla „Bogdanka” S.A.",
+      "data": "10.07.2013",
+      "godzina": "14:34",
+      "tytul": "LW BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-Akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Zwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-ktore-odbylo-sie-w-dniu-27-czerwca-2013-roku-i-kontynuowane-bylo-w-dniu-4-lipca-2013-r-2886300.html"
+    },
+    {
+      "numer": "Zawarcie aneksu do umowy znaczącej z PGNIG Termika SA",
+      "data": "05.07.2013",
+      "godzina": "13:04",
+      "tytul": "LW BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-znaczacej-z-PGNIG-Termika-SA-2882692.html"
+    },
+    {
+      "numer": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Lubelskiego Węgla BOGDANKA S.A. w dniu 4 lipca 2013 roku, w tym zmiany Statutu",
+      "data": "05.07.2013",
+      "godzina": "12:34",
+      "tytul": "LW BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Zwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-BOGDANKA-S-A-w-dniu-4-lipca-2013-roku-w-tym-zmiany-Statutu-2882651.html"
+    },
+    {
+      "numer": "Zgłoszenie przez akcjonariusza projektu uchwały na ZWZ Lubelskiego Węgla BOGDANKA S.A.",
+      "data": "03.07.2013",
+      "godzina": "13:08",
+      "tytul": "LW BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zgloszenie-przez-akcjonariusza-projektu-uchwaly-na-ZWZ-Lubelskiego-Wegla-BOGDANKA-S-A-2880443.html"
+    },
+    {
+      "numer": "Informacja o transakcjach na akcjach LW „Bogdanka” S.A.",
+      "data": "01.07.2013",
+      "godzina": "09:18",
+      "tytul": "LW BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-o-transakcjach-na-akcjach-LW-Bogdanka-S-A-2877629.html"
+    },
+    {
+      "numer": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Lubelskiego Węgla BOGDANKA S.A. w dniu 27 czerwca 2013 r.",
+      "data": "28.06.2013",
+      "godzina": "11:29",
+      "tytul": "LW BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Zwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-BOGDANKA-S-A-w-dniu-27-czerwca-2013-r-2875043.html"
+    },
+    {
+      "numer": "Przerwa w obradach Zwyczajnego Walnego Zgromadzenia Lubelskiego Węgla BOGDANKA S.A. w dniu 27 czerwca 2013",
+      "data": "27.06.2013",
+      "godzina": "17:59",
+      "tytul": "LW BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Przerwa-w-obradach-Zwyczajnego-Walnego-Zgromadzenia-Lubelskiego-Wegla-BOGDANKA-S-A-w-dniu-27-czerwca-2013-2874225.html"
+    },
+    {
+      "numer": "Podjęcie uchwały w sprawie wypłaty dywidendy Spółki LW BOGDANKA S.A.",
+      "data": "27.06.2013",
+      "godzina": "12:08",
+      "tytul": "LW BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Podjecie-uchwaly-w-sprawie-wyplaty-dywidendy-Spolki-LW-BOGDANKA-S-A-2873428.html"
+    },
+    {
+      "numer": "07/2013",
+      "data": "05.04.2013",
+      "godzina": "14:12",
+      "tytul": "Wykaz informacji przekazanych do publicznej wiadomości w 2012 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-informacji-przekazanych-do-publicznej-wiadomosci-w-2012-roku-2796918.html"
+    },
+    {
+      "numer": "06/2013",
+      "data": "29.03.2013",
+      "godzina": "14:07",
+      "tytul": "Zawarcie umowy dodatkowej, aneksu do umowy rocznej i aneksu do umowy znaczącej ze spółką ENEA Wytwarzanie S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-umowy-dodatkowej-aneksu-do-umowy-rocznej-i-aneksu-do-umowy-znaczacej-ze-spolka-ENEA-Wytwarzanie-S-A-2792700.html"
+    },
+    {
+      "numer": "05/2013",
+      "data": "21.03.2013",
+      "godzina": "02:46",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-2785549.html"
+    },
+    {
+      "numer": "04/2013",
+      "data": "21.03.2013",
+      "godzina": "02:26",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-2785546.html"
+    },
+    {
+      "numer": "03/2013",
+      "data": "31.01.2013",
+      "godzina": "16:46",
+      "tytul": "Komunikat KDPW S.A. o rejestracji akcji",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Komunikat-KDPW-S-A-o-rejestracji-akcji-2751177.html"
+    },
+    {
+      "numer": "02/2013",
+      "data": "31.01.2013",
+      "godzina": "10:26",
+      "tytul": "Dopuszczenie i wprowadzenie do obrotu giełdowego na Głównym Rynku GPW Akcji zwykłych na okaziciela Serii B",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Dopuszczenie-i-wprowadzenie-do-obrotu-gieldowego-na-Glownym-Rynku-GPW-Akcji-zwyklych-na-okaziciela-Serii-B-2750501.html"
+    },
+    {
+      "numer": "01/2013",
+      "data": "25.01.2013",
+      "godzina": "18:42",
+      "tytul": "Złożenie do GPW wniosku o wprowadzenie akcji do obrotu",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zlozenie-do-GPW-wniosku-o-wprowadzenie-akcji-do-obrotu-2746632.html"
+    },
+    {
+      "numer": "RB nr 1/2012",
+      "data": "29.08.2012",
+      "godzina": "00:36",
+      "tytul": "wyniki finansowe",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-wyniki-finansowe-2623728.html"
+    },
+    {
+      "numer": "RB nr 2/2012",
+      "data": "02.08.2012",
+      "godzina": "17:40",
+      "tytul": "Rejestracja przez Sąd zmian w Statucie LW BOGDANKA S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rejestracja-przez-Sad-zmian-w-Statucie-LW-BOGDANKA-S-A-2607730.html"
+    },
+    {
+      "numer": "RB nr 3/2012",
+      "data": "01.08.2012",
+      "godzina": "18:15",
+      "tytul": "Zawarcie aneksu do umowy znaczącej z PH-U „Energokrak” Sp. z o.o. z siedzibą w Krakowie",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-znaczacej-z-PH-U-Energokrak-Sp-z-o-o-z-siedziba-w-Krakowie-2606852.html"
+    },
+    {
+      "numer": "RB nr 4/2012",
+      "data": "12.07.2012",
+      "godzina": "18:20",
+      "tytul": "Zawarcie umowy znaczącej z Elektrownią Połaniec Spółka Akcyjna - Grupa GDF SUEZ ENERGIA POLSKA (GDF SUEZ Energia Polska S.A.)",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-umowy-znaczacej-z-Elektrownia-Polaniec-Spolka-Akcyjna-Grupa-GDF-SUEZ-ENERGIA-POLSKA-GDF-SUEZ-Energia-Polska-S-A-2593116.html"
+    },
+    {
+      "numer": "RB nr 1/2012",
+      "data": "26.04.2012",
+      "godzina": "14:05",
+      "tytul": "Kandydatura na członka Rady Nadzorczej zgłoszona przez Akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kandydatura-na-czlonka-Rady-Nadzorczej-zgloszona-przez-Akcjonariusza-2529998.html"
+    },
+    {
+      "numer": "RB nr 2/2012",
+      "data": "25.04.2012",
+      "godzina": "18:15",
+      "tytul": "Kandydatura na członka Rady Nadzorczej zgłoszona przez Akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kandydatura-na-czlonka-Rady-Nadzorczej-zgloszona-przez-Akcjonariusza-2529307.html"
+    },
+    {
+      "numer": "RB nr 3/2012",
+      "data": "25.04.2012",
+      "godzina": "10:05",
+      "tytul": "Kandydatura na członka Rady Nadzorczej zgłoszona przez Akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kandydatura-na-czlonka-Rady-Nadzorczej-zgloszona-przez-Akcjonariusza-2528567.html"
+    },
+    {
+      "numer": "RB nr 4/2012",
+      "data": "24.04.2012",
+      "godzina": "14:15",
+      "tytul": "Kandydatura na członka Rady Nadzorczej zgłoszona przez Akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kandydatura-na-czlonka-Rady-Nadzorczej-zgloszona-przez-Akcjonariusza-2527846.html"
+    },
+    {
+      "numer": "RB nr 5/2012",
+      "data": "24.04.2012",
+      "godzina": "12:45",
+      "tytul": "Kandydatura na członka Rady Nadzorczej zgłoszona przez Akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kandydatura-na-czlonka-Rady-Nadzorczej-zgloszona-przez-Akcjonariusza-2527748.html"
+    },
+    {
+      "numer": "RB nr 6/2012",
+      "data": "24.04.2012",
+      "godzina": "10:35",
+      "tytul": "Kandydatura na członka Rady Nadzorczej zgłoszona przez Akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kandydatura-na-czlonka-Rady-Nadzorczej-zgloszona-przez-Akcjonariusza-2527614.html"
+    },
+    {
+      "numer": "RB nr 7/2012",
+      "data": "23.04.2012",
+      "godzina": "18:15",
+      "tytul": "Zdementowanie publikacji Dziennika Gazeta Prawna",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zdementowanie-publikacji-Dziennika-Gazeta-Prawna-2527281.html"
+    },
+    {
+      "numer": "RB nr 8/2012",
+      "data": "23.04.2012",
+      "godzina": "10:35",
+      "tytul": "Zawarcie umowy znaczącej z PGNIG Termika SA",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-umowy-znaczacej-z-PGNIG-Termika-SA-2526787.html"
+    },
+    {
+      "numer": "RB nr 9/2012",
+      "data": "18.04.2012",
+      "godzina": "21:20",
+      "tytul": "Kandydatura na członka Rady Nadzorczej zgłoszona przez Akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kandydatura-na-czlonka-Rady-Nadzorczej-zgloszona-przez-Akcjonariusza-2524674.html"
+    },
+    {
+      "numer": "",
+      "data": "28.12.2011",
+      "godzina": "11:20",
+      "tytul": "Informacja o ostatecznej liczbie akcji serii B będących przedmiotem ubiegania się o dopuszczenie i wprowadzenie do obrotu na rynku regulowanym",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-o-ostatecznej-liczbie-akcji-serii-B-bedacych-przedmiotem-ubiegania-sie-o-dopuszczenie-i-wprowadzenie-do-obrotu-na-rynku-regulowanym-2460952.html"
+    },
+    {
+      "numer": "",
+      "data": "28.12.2011",
+      "godzina": "08:05",
+      "tytul": "Zawarcie aneksu do umowy znaczącej z ENERGA Elektrownie Ostrołęka S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-znaczacej-z-ENERGA-Elektrownie-Ostroleka-S-A-2460809.html"
+    },
+    {
+      "numer": "",
+      "data": "27.12.2011",
+      "godzina": "10:15",
+      "tytul": "Zawarcie umowy znaczącej z Elektrownią Kozienice S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-umowy-znaczacej-z-Elektrownia-Kozienice-S-A-2460412.html"
+    },
+    {
+      "numer": "",
+      "data": "23.12.2011",
+      "godzina": "13:45",
+      "tytul": "Zawarcie umowy znaczącej z Bankiem Polska Kasa Opieki S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-umowy-znaczacej-z-Bankiem-Polska-Kasa-Opieki-S-A-2459895.html"
+    },
+    {
+      "numer": "",
+      "data": "21.12.2011",
+      "godzina": "11:45",
+      "tytul": "Zatwierdzenie prospektu emisyjnego Lubelskiego Węgla BOGDANKA S.A. w związku z ubieganiem się o dopuszczenie i wprowadzenie do obrotu na rynku regulowanym akcji serii B",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zatwierdzenie-prospektu-emisyjnego-Lubelskiego-Wegla-BOGDANKA-S-A-w-zwiazku-z-ubieganiem-sie-o-dopuszczenie-i-wprowadzenie-do-obrotu-na-rynku-regulowanym-akcji-serii-B-2458175.html"
+    },
+    {
+      "numer": "",
+      "data": "20.12.2011",
+      "godzina": "17:45",
+      "tytul": "Zawarcie umowy znaczącej na dostawę węgla energetycznego z Elektrownią Północ sp. z o.o.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-umowy-znaczacej-na-dostawe-wegla-energetycznego-z-Elektrownia-Polnoc-sp-z-o-o-2457778.html"
+    },
+    {
+      "numer": "",
+      "data": "19.12.2011",
+      "godzina": "20:31",
+      "tytul": "Zawarcie aneksu do umowy znaczącej z Elektrownią Połaniec S.A. - Grupa GDF SUEZ ENERGIA POLSKA",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-znaczacej-z-Elektrownia-Polaniec-S-A-Grupa-GDF-SUEZ-ENERGIA-POLSKA-2457062.html"
+    },
+    {
+      "numer": "",
+      "data": "05.12.2011",
+      "godzina": "11:20",
+      "tytul": "Zawarcie aneksu do umowy znaczącej z Zakładami Azotowymi „Puławy” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-aneksu-do-umowy-znaczacej-z-Zakladami-Azotowymi-Pulawy-S-A-2448852.html"
+    },
+    {
+      "numer": "RB nr 29/2026",
+      "data": "25.06.2026",
+      "godzina": "16:26",
+      "tytul": "Analiza techniczna",
+      "url": "https://www.bankier.pl/analiza-techniczna/BOGDANKA"
+    },
+    {
+      "numer": "RB nr 29/2026",
+      "data": "25.06.2026",
+      "godzina": "10:26",
+      "tytul": "Rejestracja przez Sąd zmian w Statucie LW \"Bogdanka\" S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rejestracja-przez-Sad-zmian-w-Statucie-LW-Bogdanka-S-A-2167119.html"
+    },
+    {
+      "numer": "RB nr 28/2026",
+      "data": "23.06.2010",
+      "godzina": "18:27",
+      "tytul": "Uzupełnienie informacji do zgłoszonych przez Akcjonariuszy kandydatur do Rady Nadzorczej na Zwyczajne Walne Zgromadzenie zwołane na dzień 10.06.2010 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uzupelnienie-informacji-do-zgloszonych-przez-Akcjonariuszy-kandydatur-do-Rady-Nadzorczej-na-Zwyczajne-Walne-Zgromadzenie-zwolane-na-dzien-10-06-2010-roku-2165879.html"
+    },
+    {
+      "numer": "RB nr 27/2026",
+      "data": "16.06.2010",
+      "godzina": "08:09",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu Lubelskiego Węgla „Bogdanka” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-Zwyczajnym-Walnym-Zgromadzeniu-Lubelskiego-Wegla-Bogdanka-S-A-2161166.html"
+    },
+    {
+      "numer": "RB nr 26/2026",
+      "data": "10.06.2010",
+      "godzina": "23:27",
+      "tytul": "Upływ kadencji Członka Zarządu wybieranego przez pracowników",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uplyw-kadencji-Czlonka-Zarzadu-wybieranego-przez-pracownikow-2158664.html"
+    },
+    {
+      "numer": "RB nr 25/2026",
+      "data": "10.06.2010",
+      "godzina": "23:03",
+      "tytul": "Zmiany w składzie Rady Nadzorczej Lubelskiego Węgla „Bogdanka” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zmiany-w-skladzie-Rady-Nadzorczej-Lubelskiego-Wegla-Bogdanka-S-A-2158662.html"
+    },
+    {
+      "numer": "RB nr 24/2026",
+      "data": "10.06.2010",
+      "godzina": "22:45",
+      "tytul": "Uchwalone zmiany w Statucie LW „Bogdanka” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwalone-zmiany-w-Statucie-LW-Bogdanka-S-A-2158656.html"
+    },
+    {
+      "numer": "RB nr 23/2026",
+      "data": "10.06.2010",
+      "godzina": "22:33",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Lubelskiego Węgla „Bogdanka” S.A. w dniu 10 czerwca 2010 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Uchwaly-podjete-przez-Zwyczajne-Walne-Zgromadzenie-Lubelskiego-Wegla-Bogdanka-S-A-w-dniu-10-czerwca-2010-roku-2158655.html"
+    },
+    {
+      "numer": "RB nr 22/2026",
+      "data": "09.06.2010",
+      "godzina": "15:00",
+      "tytul": "Kandydatura na członka Rady Nadzorczej zgłoszona przez Akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kandydatura-na-czlonka-Rady-Nadzorczej-zgloszona-przez-Akcjonariusza-2157567.html"
+    },
+    {
+      "numer": "RB nr 21/2026",
+      "data": "09.06.2010",
+      "godzina": "12:51",
+      "tytul": "Kandydatura na członka Rady Nadzorczej zgłoszona przez akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kandydatura-na-czlonka-Rady-Nadzorczej-zgloszona-przez-akcjonariusza-2157440.html"
+    },
+    {
+      "numer": "RB nr 20/2026",
+      "data": "08.06.2010",
+      "godzina": "20:27",
+      "tytul": "Kandydatura na członka Rady Nadzorczej zgłoszona przez akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kandydatura-na-czlonka-Rady-Nadzorczej-zgloszona-przez-akcjonariusza-2157110.html"
+    },
+    {
+      "numer": "RB nr 19/2026",
+      "data": "08.06.2010",
+      "godzina": "08:21",
+      "tytul": "Zmniejszenie udziału w ogólnej liczbie głosów",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zmniejszenie-udzialu-w-ogolnej-liczbie-glosow-2156424.html"
+    },
+    {
+      "numer": "RB nr 18/2026",
+      "data": "01.06.2010",
+      "godzina": "23:42",
+      "tytul": "Kandydatura na członka Rady Nadzorczej zgłoszona przez akcjonariusza",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Kandydatura-na-czlonka-Rady-Nadzorczej-zgloszona-przez-akcjonariusza-2153870.html"
+    },
+    {
+      "numer": "RB nr 17/2026",
+      "data": "25.05.2010",
+      "godzina": "09:48",
+      "tytul": "Wybór biegłego rewidenta do dokonania przeglądu półrocznych sprawozdań finansowych",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wybor-bieglego-rewidenta-do-dokonania-przegladu-polrocznych-sprawozdan-finansowych-2148646.html"
+    },
+    {
+      "numer": "RB nr 16/2026",
+      "data": "17.05.2010",
+      "godzina": "00:30",
+      "tytul": "Raport skonsolidowany za 1 kwartał 2010",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Raport-skonsolidowany-za-1-kwartal-2010-2143028.html"
+    },
+    {
+      "numer": "RB nr 15/2026",
+      "data": "13.05.2010",
+      "godzina": "15:09",
+      "tytul": "Projekty uchwał ZWZ Lubelskiego Węgla BOGDANKA S.A. zwołanego na dzień 10 czerwca 2010 roku i planowane zmiany w Statucie Spółki",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Projekty-uchwal-ZWZ-Lubelskiego-Wegla-BOGDANKA-S-A-zwolanego-na-dzien-10-czerwca-2010-roku-i-planowane-zmiany-w-Statucie-Spolki-2141331.html"
+    },
+    {
+      "numer": "RB nr 14/2026",
+      "data": "13.05.2010",
+      "godzina": "14:33",
+      "tytul": "Zwołanie ZWZ Lubelskiego Węgla BOGDANKA S.A. na dzień 10 czerwca 2010 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwolanie-ZWZ-Lubelskiego-Wegla-BOGDANKA-S-A-na-dzien-10-czerwca-2010-roku-2141298.html"
+    },
+    {
+      "numer": "RB nr 13/2026",
+      "data": "12.05.2010",
+      "godzina": "21:33",
+      "tytul": "Przekroczenie 5% ogólnej liczby głosów",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Przekroczenie-5-ogolnej-liczby-glosow-2140748.html"
+    },
+    {
+      "numer": "RB nr 12/2026",
+      "data": "10.05.2010",
+      "godzina": "08:39",
+      "tytul": "Rezygnacja Członka Rady Nadzorczej",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rezygnacja-Czlonka-Rady-Nadzorczej-2138402.html"
+    },
+    {
+      "numer": "RB nr 28/2010",
+      "data": "17.03.2010",
+      "godzina": "08:14",
+      "tytul": "Przekroczenie 15 % ogólnej liczby głosów",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Przekroczenie-15-ogolnej-liczby-glosow-2109343.html"
+    },
+    {
+      "numer": "RB nr 27/2010",
+      "data": "16.03.2010",
+      "godzina": "17:49",
+      "tytul": "Zbycie akcji LW BOGDANKA S.A. przez Skarb Państwa",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zbycie-akcji-LW-BOGDANKA-S-A-przez-Skarb-Panstwa-2109180.html"
+    },
+    {
+      "numer": "RB nr 26/2010",
+      "data": "15.03.2010",
+      "godzina": "16:45",
+      "tytul": "Przekroczenie 10 % ogólnej liczby głosów",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Przekroczenie-10-ogolnej-liczby-glosow-2108325.html"
+    },
+    {
+      "numer": "RB nr 25/2010",
+      "data": "05.03.2010",
+      "godzina": "22:35",
+      "tytul": "Powołanie członków Zarządu Lubelskiego Węgla BOGDANKA S.A. na siódmą kadencję",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Powolanie-czlonkow-Zarzadu-Lubelskiego-Wegla-BOGDANKA-S-A-na-siodma-kadencje-2103902.html"
+    },
+    {
+      "numer": "RB nr 24/2010",
+      "data": "05.03.2010",
+      "godzina": "06:39",
+      "tytul": "Zawarcie umowy znaczącej z Elektrownią Kozienice S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zawarcie-umowy-znaczacej-z-Elektrownia-Kozienice-S-A-2103204.html"
+    },
+    {
+      "numer": "RB nr 23/2010",
+      "data": "03.03.2010",
+      "godzina": "16:44",
+      "tytul": "Nieaudytowane wyniki ekonomiczno – finansowe Grupy Kapitałowej LW BOGDANKA za 2009 rok",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Nieaudytowane-wyniki-ekonomiczno-finansowe-Grupy-Kapitalowej-LW-BOGDANKA-za-2009-rok-2102362.html"
+    },
+    {
+      "numer": "RB nr 22/2010",
+      "data": "19.01.2010",
+      "godzina": "13:18",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2010 wraz z oświadczeniem o zamiarze stałego przekazywania skonsolidowanych raportów kwartalnych",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2010-wraz-z-oswiadczeniem-o-zamiarze-stalego-przekazywania-skonsolidowanych-raportow-kwartalnych-2079338.html"
+    },
+    {
+      "numer": "RB nr 21/2010",
+      "data": "15.01.2010",
+      "godzina": "12:36",
+      "tytul": "Obroty na wartość umowy znaczącej z Elektrownią Połaniec S.A. – Grupa GDF SUEZ ENERGIA POLSKA",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Obroty-na-wartosc-umowy-znaczacej-z-Elektrownia-Polaniec-S-A-Grupa-GDF-SUEZ-ENERGIA-POLSKA-2077772.html"
+    },
+    {
+      "numer": "RB nr 20/2010",
+      "data": "05.01.2010",
+      "godzina": "17:13",
+      "tytul": "Informacja o transakcjach na akcjach LW „Bogdanka” S.A.",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Informacja-o-transakcjach-na-akcjach-LW-Bogdanka-S-A-2072396.html"
+    },
+    {
+      "numer": "RB nr 27/2026",
+      "data": "21.07.2009",
+      "godzina": "14:47",
+      "tytul": "Rejestracja przez KDPW S.A. Akcji Serii C",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rejestracja-przez-KDPW-S-A-Akcji-Serii-C-1989085.html"
+    },
+    {
+      "numer": "RB nr 26/2026",
+      "data": "17.07.2009",
+      "godzina": "22:32",
+      "tytul": "Wprowadzenie akcji serii A i C do obrotu na rynku podstawowym GPW oraz ustalenie daty ich pierwszego notowania",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Wprowadzenie-akcji-serii-A-i-C-do-obrotu-na-rynku-podstawowym-GPW-oraz-ustalenie-daty-ich-pierwszego-notowania-1987965.html"
+    },
+    {
+      "numer": "RB nr 25/2026",
+      "data": "16.07.2009",
+      "godzina": "11:03",
+      "tytul": "Rejestracja przez KDPW S.A. Akcji Serii A",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Rejestracja-przez-KDPW-S-A-Akcji-Serii-A-1986915.html"
+    },
+    {
+      "numer": "RB nr 24/2026",
+      "data": "15.07.2009",
+      "godzina": "11:52",
+      "tytul": "Projekty uchwał NWZ Lubelskiego Węgla „Bogdanka” S.A. zwołanego na dzień 11 sierpnia 2009 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Projekty-uchwal-NWZ-Lubelskiego-Wegla-Bogdanka-S-A-zwolanego-na-dzien-11-sierpnia-2009-roku-1986371.html"
+    },
+    {
+      "numer": "RB nr 23/2026",
+      "data": "14.07.2009",
+      "godzina": "20:30",
+      "tytul": "Zwołanie NWZ Lubelskiego Węgla „Bogdanka” S.A. na dzień 11 sierpnia 2009 roku",
+      "url": "https://www.bankier.pl/wiadomosc/LW-BOGDANKA-S-A-Zwolanie-NWZ-Lubelskiego-Wegla-Bogdanka-S-A-na-dzien-11-sierpnia-2009-roku-1986103.html"
+    }
+  ]
+}

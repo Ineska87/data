@@ -1,0 +1,79 @@
+{
+  "scope": "Strategie PGE TPE ZEP UNT (+ PKN już w PKN/)",
+  "downloaded_at": "2026-07-20T19:18:55",
+  "ok": 8,
+  "total": 9,
+  "files": [
+    {
+      "file": "PGE_2025_STRAT_strategia-2035.pdf",
+      "ticker": "PGE",
+      "status": "ok",
+      "bytes": 7855134,
+      "url": "https://www.gkpge.pl/content/download/3911d266a44aa76d7dec276069e0119b/file/PGE_SA_20250612_Strategia_PGE_2035.pdf",
+      "content_type": "application/pdf"
+    },
+    {
+      "file": "PGE_STRAT_strategia-2030-EN.pdf",
+      "ticker": "PGE",
+      "status": "fail",
+      "error": "HTTP Error 404: Not Found",
+      "url": "https://www.gkpge.pl/investor-relations/content/download/59359/file/pge-group-strategy-2030.pdf"
+    },
+    {
+      "file": "TPE_2025_STRAT_strategia-2025-2035.pdf",
+      "ticker": "TPE",
+      "status": "ok",
+      "bytes": 4810076,
+      "url": "https://www.tauron.pl/-/media/reportattachments/strategia-grupy-tauron-na-lata-2025-2035-202412171381138159.ashx",
+      "content_type": "application/pdf"
+    },
+    {
+      "file": "TPE_2022_STRAT_strategia-2022-2030.pdf",
+      "ticker": "TPE",
+      "status": "ok",
+      "bytes": 3871383,
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/strategia-grupy-tauron-22-30/strategia-grupy-tauron-na-lata-2022-2030.ashx",
+      "content_type": "application/pdf"
+    },
+    {
+      "file": "TPE_2025_STRAT_prezentacja-2025-2035.ashx.pdf",
+      "ticker": "TPE",
+      "status": "ok",
+      "bytes": 4810076,
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/strategia-grupy-tauron-25-35/strategia-grupy-tauron-na-lata-2025-2035.ashx",
+      "content_type": "application/pdf"
+    },
+    {
+      "file": "ZEP_2020_STRAT_kierunki-strategii.pdf",
+      "ticker": "ZEP",
+      "status": "ok",
+      "bytes": 2283210,
+      "url": "https://ri.zepak.com.pl/upload/files/kierunki_strategii_fin_v4.pdf",
+      "content_type": "application/pdf"
+    },
+    {
+      "file": "ZEP_2024_STRAT_ESG-2024-2028.pdf",
+      "ticker": "ZEP",
+      "status": "ok",
+      "bytes": 2680070,
+      "url": "https://ri.zepak.com.pl/upload/files/Strategia_ESG_2024-2028_aktualizacja.pdf",
+      "content_type": "application/pdf"
+    },
+    {
+      "file": "ZEP_2023_STRAT_ESG-2023-2027.pdf",
+      "ticker": "ZEP",
+      "status": "ok",
+      "bytes": 2101154,
+      "url": "https://ri.zepak.com.pl/upload/files/Strategia_ESG_2023-2027.pdf",
+      "content_type": "application/pdf"
+    },
+    {
+      "file": "UNT_2024_STRAT_strategia-2024-2028.pdf",
+      "ticker": "UNT",
+      "status": "ok",
+      "bytes": 2679356,
+      "url": "https://www.unimot.pl/media/4595/download/Strategia%20Unimot%202024-2028.pdf?v=1",
+      "content_type": "application/pdf"
+    }
+  ]
+}

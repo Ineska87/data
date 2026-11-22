@@ -1,0 +1,152 @@
+{
+  "at": "2026-07-20T18:29:50.650408+00:00",
+  "tickers": {
+    "TPE": {
+      "n": 24,
+      "mb": 51.4,
+      "files": [
+        "TPE_2020_H1_prezentacja.pdf",
+        "TPE_2020_Q1_prezentacja.pdf",
+        "TPE_2020_Q3_prezentacja.pdf",
+        "TPE_2020_Q4_prezentacja.pdf",
+        "TPE_2021_H1_prezentacja.pdf",
+        "TPE_2021_Q1_prezentacja.pdf",
+        "TPE_2021_Q3_prezentacja.pdf",
+        "TPE_2021_Q4_prezentacja.pdf",
+        "TPE_2022_H1_prezentacja.pdf",
+        "TPE_2022_Q1_prezentacja.pdf",
+        "TPE_2022_Q3_prezentacja.pdf",
+        "TPE_2022_Q4_prezentacja.pdf",
+        "TPE_2023_H1_prezentacja.pdf",
+        "TPE_2023_Q1_prezentacja.pdf",
+        "TPE_2023_Q3_prezentacja.pdf",
+        "TPE_2023_Q4_prezentacja.pdf",
+        "TPE_2024_H1_prezentacja.pdf",
+        "TPE_2024_Q1_prezentacja.pdf",
+        "TPE_2024_Q3_prezentacja.pdf",
+        "TPE_2024_Q4_prezentacja.pdf",
+        "TPE_2025_H1_prezentacja.pdf",
+        "TPE_2025_Q1_prezentacja.pdf",
+        "TPE_2025_Q3_prezentacja.pdf",
+        "TPE_2025_Q4_prezentacja.pdf"
+      ]
+    },
+    "ENA": {
+      "n": 11,
+      "mb": 26.1,
+      "files": [
+        "ENA_2020_H1_prezentacja.pdf",
+        "ENA_2020_Q1_prezentacja.pdf",
+        "ENA_2020_Q3_prezentacja.pdf",
+        "ENA_2020_Q4_prezentacja.pdf",
+        "ENA_2021_H1_prezentacja.pdf",
+        "ENA_2021_Q1_prezentacja.pdf",
+        "ENA_2021_Q3_prezentacja.pdf",
+        "ENA_2021_Q4_prezentacja.pdf",
+        "ENA_2022_Q1_prezentacja.pdf",
+        "ENA_2025_Q3_prezentacja.pdf",
+        "ENA_2025_Q4_prezentacja.pdf"
+      ]
+    },
+    "ZEP": {
+      "n": 14,
+      "mb": 29.4,
+      "files": [
+        "ZEP_2020_Q3_prezentacja.pdf",
+        "ZEP_2022_H1_prezentacja.pdf",
+        "ZEP_2023_H1_prezentacja.pdf",
+        "ZEP_2023_Q1_prezentacja.pdf",
+        "ZEP_2023_Q3_prezentacja.pdf",
+        "ZEP_2023_Q4_prezentacja.pdf",
+        "ZEP_2024_H1_prezentacja.pdf",
+        "ZEP_2024_Q1_prezentacja.pdf",
+        "ZEP_2024_Q3_prezentacja.pdf",
+        "ZEP_2024_Q4_prezentacja.pdf",
+        "ZEP_2025_H1_prezentacja.pdf",
+        "ZEP_2025_Q1_prezentacja.pdf",
+        "ZEP_2025_Q3_prezentacja.pdf",
+        "ZEP_2025_Q4_prezentacja.pdf"
+      ]
+    },
+    "UNT": {
+      "n": 15,
+      "mb": 30.3,
+      "files": [
+        "UNT_2020_Q1_prezentacja.pdf",
+        "UNT_2020_Q3_prezentacja.pdf",
+        "UNT_2020_Q4_prezentacja.pdf",
+        "UNT_2021_H1_prezentacja.pdf",
+        "UNT_2021_Q1_prezentacja.pdf",
+        "UNT_2021_Q3_prezentacja.pdf",
+        "UNT_2021_Q4_prezentacja.pdf",
+        "UNT_2022_H1_prezentacja.pdf",
+        "UNT_2022_Q1_prezentacja.pdf",
+        "UNT_2022_Q3_prezentacja.pdf",
+        "UNT_2023_H1_prezentacja.pdf",
+        "UNT_2023_Q1_prezentacja.pdf",
+        "UNT_2023_Q3_prezentacja.pdf",
+        "UNT_2024_H1_prezentacja.pdf",
+        "UNT_2024_Q3_prezentacja.pdf"
+      ]
+    },
+    "JSW": {
+      "n": 0,
+      "mb": 0.0,
+      "files": []
+    },
+    "PGE": {
+      "n": 18,
+      "mb": 30.5,
+      "files": [
+        "PGE_2020_H1_prezentacja.pdf",
+        "PGE_2020_Q1_prezentacja.pdf",
+        "PGE_2020_Q3_prezentacja.pdf",
+        "PGE_2021_H1_prezentacja.pdf",
+        "PGE_2021_Q1_prezentacja.pdf",
+        "PGE_2021_Q3_prezentacja.pdf",
+        "PGE_2022_H1_prezentacja.pdf",
+        "PGE_2022_Q1_prezentacja.pdf",
+        "PGE_2022_Q3_prezentacja.pdf",
+        "PGE_2023_H1_prezentacja.pdf",
+        "PGE_2023_Q1_prezentacja.pdf",
+        "PGE_2023_Q3_prezentacja.pdf",
+        "PGE_2024_H1_prezentacja.pdf",
+        "PGE_2024_Q1_prezentacja.pdf",
+        "PGE_2024_Q3_prezentacja.pdf",
+        "PGE_2025_H1_prezentacja.pdf",
+        "PGE_2025_Q1_prezentacja.pdf",
+        "PGE_2025_Q3_prezentacja.pdf"
+      ]
+    },
+    "PKN": {
+      "n": 24,
+      "mb": 81.2,
+      "files": [
+        "PKN_2020_Q1_prezentacja.pdf",
+        "PKN_2020_Q2_prezentacja.pdf",
+        "PKN_2020_Q3_prezentacja.pdf",
+        "PKN_2020_Q4_prezentacja.pdf",
+        "PKN_2021_Q1_prezentacja.pdf",
+        "PKN_2021_Q2_prezentacja.pdf",
+        "PKN_2021_Q3_prezentacja.pdf",
+        "PKN_2021_Q4_prezentacja.pdf",
+        "PKN_2022_Q1_prezentacja.pdf",
+        "PKN_2022_Q2_prezentacja.pdf",
+        "PKN_2022_Q3_prezentacja.pdf",
+        "PKN_2022_Q4_prezentacja.pdf",
+        "PKN_2023_Q1_prezentacja.pdf",
+        "PKN_2023_Q2_prezentacja.pdf",
+        "PKN_2023_Q3_prezentacja.pdf",
+        "PKN_2023_Q4_prezentacja.pdf",
+        "PKN_2024_Q1_prezentacja.pdf",
+        "PKN_2024_Q2_prezentacja.pdf",
+        "PKN_2024_Q3_prezentacja.pdf",
+        "PKN_2024_Q4_prezentacja.pdf",
+        "PKN_2025_Q1_prezentacja.pdf",
+        "PKN_2025_Q2_prezentacja.pdf",
+        "PKN_2025_Q3_prezentacja.pdf",
+        "PKN_2025_Q4_prezentacja.pdf"
+      ]
+    }
+  }
+}

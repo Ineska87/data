@@ -1,0 +1,1194 @@
+﻿########## PGE ##########
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe
+html_len 103000
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [Wyniki za I kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2026-r
+  [Wyniki za ca┼éy rok] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/raporty-okresowe-za-2025-rok
+  [Wyniki za III kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2025-r
+  [Wyniki za I p├│┼érocze] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2025-r
+  [Wyniki za I kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2025-r
+  [Wyniki za ca┼éy rok] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/raporty-okresowe-za-2024-rok
+  [Wyniki za III kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2024-r
+  [Wyniki za I p├│┼érocze] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2024-r
+  [Wyniki za I kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2024-r
+  [Wyniki za ca┼éy rok] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/raporty-okresowe-za-2023-rok
+  [Wyniki za III kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2023-r
+  [Wyniki za I p├│┼érocze] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2023-r
+  [Wyniki za I kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2023-r
+  [Wyniki za ca┼éy rok] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/raporty-okresowe-za-2022-rok
+  [Wyniki za III kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2022-r
+  [Wyniki za I p├│┼érocze] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2022-r
+  [Wyniki za I kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2022-r
+  [Wyniki za ca┼éy rok] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/sprawozdania-finansowe-za-2021-r
+  [Wyniki za III kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2021-r
+  [Wyniki za I p├│┼érocze] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-polroczny-za-i-polrocze-2021-r
+  [Wyniki za I kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2021-r
+  [Wyniki za ca┼éy rok] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/sprawozdania-finansowe-za-2020-r
+  [Wyniki za III kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2020-r
+  [Wyniki za I p├│┼érocze] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-polrocze-2020-r
+  [Wyniki za I kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2020-r
+  [Wyniki za III kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2019-r
+  [Wyniki za I p├│┼érocze] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-polroczny-za-i-polrocze-2019-r
+  [Wyniki za I kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2019-r
+  [Wyniki za III kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2018-r
+  [Wyniki za I p├│┼érocze] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-polroczny-za-i-polrocze-2018-r
+  [Wyniki za I kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2018-r
+  [Wyniki za III kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2017-r
+  [Wyniki za pierwsze p├│┼érocze] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2017-r
+  [Wyniki za I kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2017-r
+  [Wyniki za III kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2016-r
+  [Wyniki za pierwsze p├│┼érocze] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2016-r
+  [Wyniki za I kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2016-r
+  [Wyniki za III kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2015-r
+  [Wyniki za pierwsze p├│┼érocze] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2015-r
+  [Wyniki za I kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2015-r
+  [Wyniki za III kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2014-r
+  [Wyniki za pierwsze p├│┼érocze] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2014-r
+  [Wyniki za I kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2014-r
+  [Wyniki za III kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2013-r
+  [Wyniki za pierwsze p├│┼érocze] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2013-r
+  [Wyniki za I kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2013-r
+  [Wyniki za III kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2012-r
+  [Wyniki za pierwsze p├│┼érocze] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2012-r
+  [Wyniki za I kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-kwartal-2012-r
+  [Wyniki za III kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-iii-kwartal-2011-r
+  [Wyniki za pierwsze p├│┼érocze] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2011-r
+  [Wyniki za I kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-kwartal-2011r
+  [Wyniki za III kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2010
+  [Wyniki za pierwsze p├│┼érocze] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2010-r
+  [Wyniki za I kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-kwartal-2010-r
+  [Wyniki za III kwarta┼é] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2009-r
+
+=== https://www.gkpge.pl/dla-inwestorow/do-pobrania
+html_len 90503
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/downloads
+  [Wniosek akcjonariusza o rozszerzenie porz─ůdku obrad Zwyczajnego Walnego Zgromadzenia
+
+    ] -> https://www.gkpge.pl/content/download/01f28ee32a2bade67958fe5ce6532d93/file/12.-pismo-map-rozszerzenie-porzadku-obrad-zwz-pge-pl.pdf?inLanguage=pol-PL&version=2&contentId=254882
+  [Prezentacja z konferencji Zarz─ůdu w dniu 27 maja 2026 r.
+
+                                ] -> https://www.gkpge.pl/content/download/1e9ef34f69b8aab50d5b0998c2ca7694/file/pge_prezentacja_wyniki_q1-2026_online_pl.pdf?inLanguage=pol-PL&version=2&contentId=254777
+  [Prezentacja inwestorska - wyniki za I kwarta┼é 2026 r.
+
+                                   ] -> https://www.gkpge.pl/content/download/5cfb9c9820fbed42a00c101d031b563f/file/pge_prezentacja_inwestorska_q1-2026.pdf?inLanguage=pol-PL&version=2&contentId=254666
+  [Kwartalny raport finansowy za okres 3 miesi─Öcy 2026 r. zawieraj─ůcy skonsolidowane sprawozd] -> https://www.gkpge.pl/content/download/e30814ff102a8a8ba3d3d1b686370b05/file/1_pge_gk_q1_2026_raport_finansowy.pdf?inLanguage=pol-PL&version=2&contentId=254660
+  [Niezb─Ödnik analityka - wyniki I kw. 2026 (w j─Özyku angielskim)
+
+                          ] -> https://www.gkpge.pl/content/download/237ff4a11633a6f2f485bcbf84c77986/file/pge_q1-2026_analyst-kit.pdf?inLanguage=pol-PL&version=2&contentId=254669
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za okres 3 miesi─Öcy 2026 r.
+
+       ] -> https://www.gkpge.pl/content/download/c4df76c414c93d0275f1305fa4466ab4/file/2_pge_gk_q1_2026_sprawozdanie_zarzadu_z_dzialalnosci_gk_pge.pdf?inLanguage=pol-PL&version=2&contentId=254663
+  [Projekty uchwa┼é na Zwyczajne Walne Zgromadzenie zwo┼éane na 18 czerwca 2026 r. (rozszerzone] -> https://www.gkpge.pl/content/download/44b8a1726786f22e5f9ab0c5654b44b8/file/3.-projekty-uchwal-zwz-pge-18.06.2026-pl_rozszerzone.pdf?inLanguage=pol-PL&version=6&contentId=254579
+  [Og┼éoszenie o zwo┼éaniu Zwyczajnego Walnego Zgromadzenia na dzie┼ä 18 czerwca 2026 r.
+
+      ] -> https://www.gkpge.pl/content/download/9f66728070e948c7a06fb5da342d39fd/file/1.-ogloszenie-zarzadu-o-zwolaniu-zwz-pge-18.06.2026-pl_z-podpisami.pdf?inLanguage=pol-PL&version=4&contentId=254573
+  [Prezentacja - szacunkowe wyniki za I kw. 2026 r.
+
+                                        ] -> https://www.gkpge.pl/content/download/2e2c3e3e4cf11902352a1370ecb682e5/file/pge_szacunki-wynikow_i-kw.-2026.pdf?inLanguage=pol-PL&version=3&contentId=254315
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci PGE i Grupy Kapita┼éowej PGE za rok 2025 - plik pdf nie] -> https://www.gkpge.pl/content/download/1c17c9bb500a8cc7ea488bc573451f3e/file/pge_sz2025.pdf?inLanguage=pol-PL&version=3&contentId=231076
+  [Prezentacja inwestorska - wyniki za rok 2025
+
+                                            ] -> https://www.gkpge.pl/content/download/3c58567e242d96d7e57ca02c90eed555/file/pge_prezentacja_inwestorska_q4-2025.pdf?inLanguage=pol-PL&version=3&contentId=231106
+  [Niezb─Ödnik analityka - wyniki FY 2025 (w j─Özyku angielskim)
+
+                             ] -> https://www.gkpge.pl/content/download/8957780b27d6a8f0ba52e41890d1f29c/file/pge_q4-2025_analyst-kit.pdf?inLanguage=pol-PL&version=2&contentId=231109
+  [Jednostkowe sprawozdanie finansowe PGE za rok 2025 - plik pdf nie stanowi─ůcy wersji oficja] -> https://www.gkpge.pl/content/download/ef931a08716989834fd017b729bcea12/file/pge_jsf2025.pdf?inLanguage=pol-PL&version=3&contentId=231073
+  [Skonsolidowany raport roczny 2025 - pakiet w formacie xhtml
+
+                             ] -> https://www.gkpge.pl/content/download/5bbb6980dd2edeb3ac7a44ad5a1e1508/file/skonsolidowany-raport-roczny-2025-pakiet-w-formacie-xhtml.zip?inLanguage=pol-PL&version=4&contentId=231007
+  [Skonsolidowane sprawozdanie finansowe Grupy Kapita┼éowej PGE za rok 2025 - plik pdf nie sta] -> https://www.gkpge.pl/content/download/b27b8e69a804749c5ee7071daf1a3772/file/pge_ssf2025.pdf?inLanguage=pol-PL&version=4&contentId=231043
+  [Jednostkowy raport roczny 2025 - pakiet w formacie xhtml
+
+                                ] -> https://www.gkpge.pl/content/download/f92cf8af48c91773960dd18aace82e41/file/jednostkowy-raport-roczny-2025-pakiet-w-formacie-xhtml.zip?inLanguage=pol-PL&version=2&contentId=231013
+  [Skonsolidowane sprawozdanie z p┼éatno┼Ťci na rzecz administracji publicznej za 2025 r.
+
+    ] -> https://www.gkpge.pl/content/download/3aed599a966576662c96f235318de11b/file/skonsolidowane-sprawozdanie-z-platnosci-na-rzecz-administracji-publicznej-pge-polska-grupa-energetyczna-s.a.-za-rok-2025.pdf?inLanguage=pol-PL&v
+  [Prezentacja - szacunkowe wyniki za IV kwarta┼é i rok 2025
+
+                                ] -> https://www.gkpge.pl/content/download/b8fa1cf0ce1a46b09a7ebc0d91c53b6c/file/pge_szacunki-wynikow_iv-kw.-2025.pdf?inLanguage=pol-PL&version=11&contentId=210898
+  [Prezentacja warsztat Offshore Wind Power 2026+ (w j─Öz. angielskim)
+
+                      ] -> https://www.gkpge.pl/content/download/b3ec4a88096adc916306f22451b6e82b/file/prezentacja-warsztat-pge-offshore-wind-power-2026-.pdf?inLanguage=pol-PL&version=7&contentId=208681
+  [Tre┼Ť─ç uchwa┼é podj─Ötych przez Nadzwyczajne Walne Zgromadzenie w dniu 28 stycznia 2026 r.
+
+ ] -> https://www.gkpge.pl/content/download/fe5f07c34e732be92245cf3986db8848/file/nwz20260128_tresc-uchwal.pdf?inLanguage=pol-PL&version=2&contentId=201874
+  [Formularz pe┼énomocnictwa na Nadzwyczajne Walne Zgromadzenie zwo┼éane na dzie┼ä 28 stycznia 2] -> https://www.gkpge.pl/content/download/8f253bb6c0bcb8293fb9fed5f4ce3873/file/5.-formularz-pelnomocnictwa-nwz-pge-28.01.2026-pl.pdf?inLanguage=pol-PL&version=2&contentId=196813
+  [Wniosek akcjonariusza o zwo┼éanie Nadzwyczajnego Walnego Zgromadzenia
+
+                    ] -> https://www.gkpge.pl/content/download/65bf0e9b59348f5371366dad6c253102/file/pismo-map202512_zwolanie-nwz-pge-pl.pdf?inLanguage=pol-PL&version=2&contentId=196825
+  [Informacja o og├│lnej liczbie akcji i g┼éos├│w - NWZ zwo┼éane na dzie┼ä 28 stycznia 2026 r.
+
+  ] -> https://www.gkpge.pl/content/download/a61265f8a9385962e7deb00c84893765/file/6.-informacja-o-ogolnej-liczbie-akcji-i-glosow-nwz-pge-28.01.2026-pl.pdf?inLanguage=pol-PL&version=2&contentId=196810
+  [Klauzula informacyjna dla akcjonariuszy w zakresie ochrony danych osobowych
+
+             ] -> https://www.gkpge.pl/content/download/05ac707d62cfa5dffc1b10f38786dc6b/file/klauzula-informacyjna-dla-akcjonariuszy-pge-s.a.-i-uczestnikow-walnych-zgromadzen-pl.pdf?inLanguage=pol-PL&version=1&contentId=196828
+  [Projekty uchwa┼é na Nadzwyczajne Walne Zgromadzenie zwo┼éane na dzie┼ä 28 stycznia 2026 r.
+
+ ] -> https://www.gkpge.pl/content/download/30db69414006d74e778c9db851ea9cb8/file/projekty-uchwal-nwz-pge_20260128.pdf?inLanguage=pol-PL&version=2&contentId=196804
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/raporty-okresowe-za-2020-rok
+ERR HTTP Error 404: Not Found
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2020-r
+html_len 60751
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2020-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/consolidated-quarterly-report-for-q1-2020
+  [Kwartalny raport finansowy za okres 3 miesi─ůce 2020 r. zawieraj─ůcy skonsolidowane sprawozd] -> https://www.gkpge.pl/content/download/8e46bd18895d03942bfdf602bbfe7c0c/file/df18f1788be6fc2c83c289c7cf0f81e0.pdf?inLanguage=pol-PL&version=2&contentId=82135
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za okres 3 miesi─Öcy 2020 r. 
+
+      ] -> https://www.gkpge.pl/content/download/251601a3563c61789bbba3c1de6ea775/file/aafeb1bd715b148f476b0c4de5a03a3c.pdf?inLanguage=pol-PL&version=2&contentId=82138
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za I kwarta┼é 2020
+
+             ] -> https://www.gkpge.pl/content/download/c7c51da2056b6621c0ee7aeb2f79fc59/file/f6ff2c23669b01902d2b6ea8bf1ac874.pdf?inLanguage=pol-PL&version=2&contentId=82132
+  [Niezb─Ödnik analityka - wyniki Q1 2020 (w j─Özyku angielskim) 
+
+                            ] -> https://www.gkpge.pl/content/download/1db6a3ebf88c28a4567bf36e4c5cbb76/file/b5433a0d6fd796247cef9494b02da717.pdf?inLanguage=pol-PL&version=2&contentId=82141
+  [Suplement do prezentacji wynikowej za I kwarta┼é 2020 r. - tabele Excel 
+
+                 ] -> https://www.gkpge.pl/content/download/07bd5144d873ea8ccfe97a2aaf67c371/file/fe4adcf3505ef358e1e8d6796052ce3e.xlsx?inLanguage=pol-PL&version=2&contentId=82153
+  [Prezentacja - szacunkowe wyniki za I kw. 2020 r. 
+
+                                       ] -> https://www.gkpge.pl/content/download/dacce1db3ca6dff8e36e4f38ef6cc645/file/65beb95d3dc4eae92106a24a5da4a31c.pdf?inLanguage=pol-PL&version=2&contentId=82126
+  [Prezentacja inwestorska - wyniki za I kwarta┼é 2020 r.
+
+                                   ] -> https://www.gkpge.pl/content/download/4c1044b6a31b002a281340a673240f7d/file/45c3d3c69fd95e377df821a815a0d4ba.pdf?inLanguage=pol-PL&version=2&contentId=82144
+  [Prezentacja z konferencji Zarz─ůdu w dniu 27 maja 2020 r. 
+
+                               ] -> https://www.gkpge.pl/content/download/aa502f66e9f17eb7c31221889ed48a8c/file/784f4b4ebce59425b7e183f7ca7b1e3e.pdf?inLanguage=pol-PL&version=2&contentId=82147
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2020-r
+ERR HTTP Error 404: Not Found
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2020-r
+html_len 61338
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2020-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/consolidated-report-for-q3-2020
+  [Kwartalny raport finansowy za okres 3 i 9 miesi─Öcy 2020 r. zawieraj─ůcy skonsolidowane spra] -> https://www.gkpge.pl/content/download/08566b4bfaec4ca5434bf8e22bdc2e13/file/6d5daf79e2a00bb506006e1451ffb2ce.pdf?inLanguage=pol-PL&version=2&contentId=82057
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za okres 3 i 9 miesi─Öcy 2020 r. 
+
+  ] -> https://www.gkpge.pl/content/download/bdf100faa8ed03ed3aad3be96fb47101/file/492713f19eb9d2b43d02893fd40c89c8.pdf?inLanguage=pol-PL&version=2&contentId=82060
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za III kwarta┼é 2020 
+
+          ] -> https://www.gkpge.pl/content/download/8648344e92e614ba36228a0e24bd8991/file/fea9b25ba3fd8d63d8e0f3634e3db588.pdf?inLanguage=pol-PL&version=2&contentId=82054
+  [Niezb─Ödnik analityka - wyniki Q3 2020 (w j─Özyku angielskim)
+
+                             ] -> https://www.gkpge.pl/content/download/6a900ccef337f8e2b12cb33b1b5ec68e/file/7e0143686a281a331c084a991bfdc8d3.pdf?inLanguage=pol-PL&version=2&contentId=82063
+  [Suplement do prezentacji wynikowej za III kwarta┼é 2020 r. - tabele Excel
+
+                ] -> https://www.gkpge.pl/content/download/2798aae836eefa0fd9950018fb195940/file/741a3ce3d9a053da50ec986335f8bde3.xlsx?inLanguage=pol-PL&version=2&contentId=82075
+  [Prezentacja - szacunkowe wyniki za III kwarta┼é 2020 r.
+
+                                  ] -> https://www.gkpge.pl/content/download/649dd9a6a2a95d6f9563453701a6d123/file/12774f2583197ee9007f325d539b675f.pdf?inLanguage=pol-PL&version=2&contentId=82048
+  [Prezentacja inwestorska - wyniki za III kwarta┼é 2020 r. 
+
+                                ] -> https://www.gkpge.pl/content/download/0072561ee11a2b8f000787eed8b5e317/file/6d4d1b00494c7603320cefb4736c606f.pdf?inLanguage=pol-PL&version=2&contentId=82066
+  [Prezentacja z konferencji Zarz─ůdu w dniu 18 listopada 2020 r.
+
+                           ] -> https://www.gkpge.pl/content/download/7789ae73adfdc7f6f6c18d35d9b47918/file/56e7075d04002dcf97ddc3679d10ba70.pdf?inLanguage=pol-PL&version=2&contentId=82069
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/raporty-okresowe-za-2021-rok
+ERR HTTP Error 404: Not Found
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2021-r
+html_len 59470
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2021-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/results-for-q1-2021
+  [Kwartalny raport finansowy za okres 3 miesi─ůce 2021 r. zawieraj─ůcy skonsolidowane sprawozd] -> https://www.gkpge.pl/content/download/f091e909d9fa3c0278eb52460e560b8b/file/761bd09a4e499bd0418b574b1a2bfeb0.pdf?inLanguage=pol-PL&version=2&contentId=81958
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za okres 3 miesi─Öcy 2021 r.
+
+       ] -> https://www.gkpge.pl/content/download/16761f80e6c4f723104d9d3aa97cd37d/file/2b474743209eaf3d958dabb6fde50ac0.pdf?inLanguage=pol-PL&version=2&contentId=81961
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za I kwarta┼é 2021 r.
+
+          ] -> https://www.gkpge.pl/content/download/7eb88c383477700562bad573173144e2/file/e7a42fcc121d43768d3749b434aee14d.pdf?inLanguage=pol-PL&version=2&contentId=81955
+  [Niezb─Ödnik analityka - wyniki Q1 2021 (w j─Özyku angielskim)
+
+                             ] -> https://www.gkpge.pl/content/download/55c88d579456d86b4d6abf045ba68dfd/file/99f871f4ddecea4eaa383fe81cbb7500.pdf?inLanguage=pol-PL&version=5&contentId=81970
+  [Prezentacja - szacunkowe wyniki za I kw. 2021 r.
+
+                                        ] -> https://www.gkpge.pl/content/download/06e94ff4ed03428b0ef4ef27eec941c6/file/eea7659d7b50ca70c2148b4ee7aebe4a.pdf?inLanguage=pol-PL&version=2&contentId=81949
+  [Prezentacja inwestorska - wyniki za I kwarta┼é 2021 r.
+
+                                   ] -> https://www.gkpge.pl/content/download/fcfe2af5a197b5ef39c1c9d6d2c92bc2/file/5cb57c9f791ed5e936c2b0aea610a62a.pdf?inLanguage=pol-PL&version=2&contentId=81964
+  [Suplement do prezentacji wynikowej za I kwarta┼é 2021 r. - tabele Excel
+
+                  ] -> https://www.gkpge.pl/content/download/fdc4e8187669e812d6ae166a60681ccd/file/ee56c4ef72a22cb4b170c218a2635c07.xlsx?inLanguage=pol-PL&version=4&contentId=81967
+  [Zapis transmisji internetowej konferencji Zarz─ůdu z prezentacji wynik├│w za I kwarta┼é 2021 ] -> https://youtu.be/QYEYiJcii08
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2021-r
+ERR HTTP Error 404: Not Found
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2021-r
+html_len 61382
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2021-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/consolidated-quarterly-report-for-q3-2021
+  [Kwartalny raport finansowy za III kwarta┼é i 9 miesi─Öcy 2021 r. zawieraj─ůcy skonsolidowane ] -> https://www.gkpge.pl/content/download/ce1e6991b85e097891fe6cf1f274d1d6/file/e4638975b366be0d396256b9ed4950e4.pdf?inLanguage=pol-PL&version=2&contentId=81880
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za III kwarta┼é i 9 miesi─Öcy 2021 r.
+] -> https://www.gkpge.pl/content/download/3874b1ee3027587cb9914b3628752d86/file/e3d5d0cd17914546b19b6f2ba47f64d6.pdf?inLanguage=pol-PL&version=2&contentId=81883
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za III kwarta┼é 2021 r.
+
+        ] -> https://www.gkpge.pl/content/download/c3d9234517c421d02800693f3b0ac651/file/30f6306652ecbf6c8ca2833a18a8f97e.pdf?inLanguage=pol-PL&version=2&contentId=81877
+  [Niezb─Ödnik analityka - wyniki Q3 2021 (w j─Özyku angielskim) 
+
+                            ] -> https://www.gkpge.pl/content/download/f3ae12653982a2477715be12a41dd9f7/file/4a8e92a37ff490fccd4ebcdf7b68b3d3.pdf?inLanguage=pol-PL&version=2&contentId=81886
+  [Suplement do prezentacji wynikowej za III kwarta┼é 2021 r. - tabele Excel 
+
+               ] -> https://www.gkpge.pl/content/download/536ce53222988c6b9ff167d032259c81/file/dc47fa403726d0afa1f4990bd73aaec4.xlsx?inLanguage=pol-PL&version=2&contentId=81892
+  [Prezentacja - szacunkowe wyniki za III kwarta┼é 2021 r.
+
+                                  ] -> https://www.gkpge.pl/content/download/dc9245efa069a62235cdf9c0e5217e47/file/1a3b774e090e5f44b928fbf15372783b.pdf?inLanguage=pol-PL&version=2&contentId=81871
+  [Prezentacja inwestorska - wyniki za III kwarta┼é 2021 r. 
+
+                                ] -> https://www.gkpge.pl/content/download/234a368b758960e26a9b01e5f18539b2/file/a1e22a7c60ef6110d72d872ae4f8e998.pdf?inLanguage=pol-PL&version=2&contentId=81889
+  [Prezentacja z konferencji Zarz─ůdu w dniu 24 listopada 2021 r.
+
+                           ] -> https://www.gkpge.pl/content/download/018780c40013a2396ba9b2425dfb4278/file/9a56328692f040200c29f846f56ef90c.pdf?inLanguage=pol-PL&version=3&contentId=81895
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/raporty-okresowe-za-2022-rok
+html_len 63753
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/raporty-okresowe-za-2022-rok
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/periodic-reports-for-2022
+  [Jednostkowy raport roczny 2022 - pakiet w formacie xhtml
+
+                                ] -> https://www.gkpge.pl/content/download/ee89f26ff9e17a0fcc1560d1cbb8c99b/file/pge-jednostkowy-raport-roczny-2022-pakiet-w-formacie-xhtml.7z?inLanguage=pol-PL&version=3&contentId=113989
+  [Jednostkowe sprawozdanie finansowe PGE za rok 2022 - plik pdf nie stanowi─ůcy wersji oficja] -> https://www.gkpge.pl/content/download/f67ef0214fd0c6ed02c9e92c21b30d4f/file/jednostkowesfpge2022.pdf?inLanguage=pol-PL&version=5&contentId=113986
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci PGE i Grupy Kapita┼éowej PGE za rok 2022 - plik pdf nie] -> https://www.gkpge.pl/content/download/224332f4d0df3fd64195e65b5fe01b2b/file/sz-gkpge_2022.pdf?inLanguage=pol-PL&version=3&contentId=113992
+  [Skonsolidowany raport roczny 2022 - pakiet w formacie xhtml
+
+                             ] -> https://www.gkpge.pl/content/download/29d1e6bb24794497eda08b2227aeb350/file/pge-skonsolidowany-raport-roczny-2022-pakiet-w-formacie-xhtml.7z?inLanguage=pol-PL&version=3&contentId=113980
+  [Skonsolidowane sprawozdanie finansowe Grupy Kapita┼éowej PGE za rok 2022 - plik pdf nie sta] -> https://www.gkpge.pl/content/download/53cc034e797daa5d6cae7ffb3bef4e87/file/skonsolidowanesfgkpge2022.pdf?inLanguage=pol-PL&version=2&contentId=113983
+  [Sprawozdanie niefinansowe za rok 2022 - plik pdf nie stanowi─ůcy wersji oficjalnej
+
+       ] -> https://www.gkpge.pl/content/download/66f4d7ff901be0f01d55a116f89f3271/file/sprawozdanieniefinansowegkpge2022.pdf?inLanguage=pol-PL&version=2&contentId=113995
+  [Niezb─Ödnik analityka - wyniki FY 2022 (w j─Özyku angielskim)
+
+                             ] -> https://www.gkpge.pl/content/download/adcf6c9a2909399105b3cfee27eef176/file/q4-2022_analyst-kit.pdf?inLanguage=pol-PL&version=2&contentId=113998
+  [Skonsolidowane sprawozdanie z p┼éatno┼Ťci na rzecz administracji publicznej za 2022 r.
+
+    ] -> https://www.gkpge.pl/content/download/a5afa7c29e1e05fc78c8bb350e7ffe3d/file/pge_skonsolidowane_sprawozdanie_z_platnosci_na_rzecz_administracji_2022.pdf?inLanguage=pol-PL&version=4&contentId=114001
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za IV kwarta┼é i rok 2022
+
+      ] -> https://www.gkpge.pl/content/download/b988298b8db47a1efd6edc4935813914/file/pge_zaproszenie_wyniki_fy2022_pl.pdf?inLanguage=pol-PL&version=2&contentId=113524
+  [Prezentacja z konferencji Zarz─ůdu w dniu 22 marca 2023 r.
+
+                               ] -> https://www.gkpge.pl/content/download/2bd4e1b5a23ec50687bc18ad751a2a7d/file/pge_2022_online.pdf?inLanguage=pol-PL&version=3&contentId=114571
+  [Prezentacja inwestorska - wyniki za rok 2022
+
+                                            ] -> https://www.gkpge.pl/content/download/9d9f201f3d6b8de85d163602e77cd52c/file/pge_prezentacja_inwestorska_2022.pdf?inLanguage=pol-PL&version=2&contentId=114010
+  [Suplement do prezentacji wynikowej za rok 2022 - tabele Excel
+
+                           ] -> https://www.gkpge.pl/content/download/7ea3042ee3501af4a8bd19d541a832b7/file/pge-s.a._suplement-do-prezentacji-ivq2022.xlsx?inLanguage=pol-PL&version=4&contentId=114013
+  [Prezentacja - szacunkowe wyniki za rok 2022
+
+                                             ] -> https://www.gkpge.pl/content/download/408066e19d507722bc57f627eb8f8711/file/pge_q4-2022_szacunki-wynikow.pdf?inLanguage=pol-PL&version=4&contentId=111691
+  [Zapis transmisji internetowej konferencji Zarz─ůdu z prezentacji wynik├│w za 2022 r.] -> https://youtu.be/nTPU7KEWK2I
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2022-r
+html_len 60370
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2022-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/consolidated-quarterly-report-for-q1-2022
+  [Kwartalny raport finansowy za okres 3 miesi─Öcy 2022 r. zawieraj─ůcy skonsolidowane sprawozd] -> https://www.gkpge.pl/content/download/5510922db713d0df5aee1622de1a9054/file/1_pge_gk_q1_2022_raport_finansowy.pdf?inLanguage=pol-PL&version=5&contentId=96138
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za okres 3 miesi─Öcy 2022 r.
+
+       ] -> https://www.gkpge.pl/content/download/b07f5c5ba7e7f3ed5dea4107c1938b4c/file/2_pge_gk_q1_2022_sprawozdanie_zarzadu_z_dzialalnosci_gk_pge.pdf?inLanguage=pol-PL&version=2&contentId=96141
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za I kwarta┼é 2022 r.
+
+          ] -> https://www.gkpge.pl/content/download/159178b35bd71057727d0945155e86ab/file/pge_zaproszenie_wyniki_q12022_pl.pdf?inLanguage=pol-PL&version=3&contentId=96012
+  [Niezb─Ödnik analityka - wyniki I kw. 2022 (w j─Özyku angielskim)
+
+                          ] -> https://www.gkpge.pl/content/download/79dd02e32aba925b70bf6f6a56c3b62c/file/q1_2022_analyst-kit.pdf?inLanguage=pol-PL&version=2&contentId=96144
+  [Prezentacja - szacunkowe wyniki za I kw. 2022 r.
+
+                                        ] -> https://www.gkpge.pl/content/download/a4db53217c9a1f3048062d3a2b0fa6f1/file/pge_q1-2022_szacunki-wynikow.pdf?inLanguage=pol-PL&version=6&contentId=95302
+  [Prezentacja inwestorska - wyniki za I kwarta┼é 2022 r.
+
+                                   ] -> https://www.gkpge.pl/content/download/5030df0061e5a66eb8fd9311ac8e3f85/file/pge_prezentacja_inwestorska_q1-2022.pdf?inLanguage=pol-PL&version=5&contentId=96150
+  [Prezentacja z konferencji Zarz─ůdu w dniu 25 maja 2022 r.
+
+                                ] -> https://www.gkpge.pl/content/download/bfd1d9cd00c1359eef25a382dea506bf/file/pge_q1_2022_online.pdf?inLanguage=pol-PL&version=4&contentId=96288
+  [Suplement do prezentacji wynikowej za I kwarta┼é 2022 r. - tabele Excel
+
+                  ] -> https://www.gkpge.pl/content/download/e0c66d9091f0f8939309aafb4b8826a0/file/ch_pge-s.a._suplement-do-prezentacji-q122.xlsx?inLanguage=pol-PL&version=2&contentId=96147
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2022-r
+html_len 64368
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2022-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/consolidated-report-for-h1-2022
+  [Wybrane jednostkowe dane finansowe PGE Polska Grupa Energetyczna S.A. za I p├│┼ér. 2022
+
+   ] -> https://www.gkpge.pl/content/download/238d976f9151bfe50de31664aecff82a/file/1_wybrane_jednostkowe_dane_finansowe_pge_20220630.pdf?inLanguage=pol-PL&version=3&contentId=102696
+  [Raport finansowy za I p├│┼érocze 2022 r. zawieraj─ůcy skonsolidowane sprawozdanie finansowe G] -> https://www.gkpge.pl/content/download/5a4c422bb4db7e2d940f5373428f7c90/file/polroczny_raport_finansowy_gkpge_30.06.2022.pdf?inLanguage=pol-PL&version=2&contentId=102708
+  [Raport niezale┼╝nego bieg┼éego rewidenta z przegl─ůdu ┼Ťr├│drocznego skr├│conego sprawozdania fi] -> https://www.gkpge.pl/content/download/3de9115049690a1a87b1cf50c3b5978a/file/5_pge_hy_2022_raport_audytora.pdf?inLanguage=pol-PL&version=2&contentId=102711
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za I p├│┼érocze 2022 r.
+
+             ] -> https://www.gkpge.pl/content/download/cad7346788d478db1c9a2600a37edd0c/file/6_pge_gk_hy_2022_sprawozdanie_zarzadu_z_dzialalnosci.pdf?inLanguage=pol-PL&version=4&contentId=102717
+  [Wybrane skonsolidowane dane finansowe GK PGE za I p├│┼érocze 2022
+
+                         ] -> https://www.gkpge.pl/content/download/cddf7b7dd9c7f303374f1cdd3f8f05fe/file/2_wybrane_skonsolidowane_dane_finansowe_gk_pge_20220630.pdf?inLanguage=pol-PL&version=2&contentId=102699
+  [Raport niezale┼╝nego bieg┼éego rewidenta z przegl─ůdu ┼Ťr├│drocznego skonsolidowanego sprawozda] -> https://www.gkpge.pl/content/download/2c201387e0aa952c3c05f67e3a6d16d4/file/4_pge_gk_hy_2022_raport_audytora.pdf?inLanguage=pol-PL&version=2&contentId=102714
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za I p├│┼érocze 2022 r.
+
+         ] -> https://www.gkpge.pl/content/download/6d85a3b16091e502a7d8004f28614594/file/pge_zaproszenie_wyniki_h12022_pl.pdf?inLanguage=pol-PL&version=2&contentId=102624
+  [Niezb─Ödnik analityka - wyniki I p├│┼é. 2022 r. (w j─Özyku angielskim)
+
+                      ] -> https://www.gkpge.pl/content/download/b7c157c8b93defcd1212930fd79bac45/file/h1-2022_analyst-kit.pdf?inLanguage=pol-PL&version=2&contentId=102720
+  [Prezentacja - szacunkowe wyniki za II kw. 2022 r.
+
+                                       ] -> https://www.gkpge.pl/content/download/cfd4e6dd462f8693bdc4d90c75b28019/file/pge_q2-2022_szacunki-wynikow.pdf?inLanguage=pol-PL&version=3&contentId=101850
+  [Prezentacja inwestorska - wyniki za I p├│┼érocze 2022 r.
+
+                                  ] -> https://www.gkpge.pl/content/download/3fa9ccf4a6fbfcd616f5fd23db7d5157/file/pge_prezentacja_inwestorska_i-pol.-2022.pdf?inLanguage=pol-PL&version=89&contentId=102726
+  [Prezentacja z konferencji Zarz─ůdu w dniu 21 wrze┼Ťnia 2022 r.
+
+                            ] -> https://www.gkpge.pl/content/download/c37cb0d47eff2fd4a4983ecd3dfb9dcb/file/pge_q2_2022_online.pdf?inLanguage=pol-PL&version=3&contentId=102846
+  [Suplement do prezentacji wynikowej za I p├│┼érocze 2022 r. - tabele Excel
+
+                 ] -> https://www.gkpge.pl/content/download/f397249f0df6671f4b75d7fdc02c2613/file/pge-s.a._suplement-do-prezentacji-hy22.xlsx?inLanguage=pol-PL&version=2&contentId=102723
+  [Zapis transmisji internetowej konferencji Zarz─ůdu z prezentacji wynik├│w za I p├│┼érocze 2022] -> https://youtu.be/Hhh-LaZIrlg
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2022-r
+html_len 59874
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2022-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/consolidated-quarterly-report-for-q3-2022
+  [Kwartalny raport finansowy za III kwarta┼é i 9 miesi─Öcy 2022 r. zawieraj─ůcy skonsolidowane ] -> https://www.gkpge.pl/content/download/f4f20d8c9e7171b3fa975748b0b31d02/file/1_pge_gk_q3_2022_raport_finansowy.pdf?inLanguage=pol-PL&version=6&contentId=106125
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za III kwarta┼é i 9 miesi─Öcy 2022 r.
+] -> https://www.gkpge.pl/content/download/50055eb24856127a8c1e3cd0ee0ca02d/file/2_pge_gk_q3_2022_sprawozdanie_zarzadu_z_dzialalnosci_gk_pge.pdf?inLanguage=pol-PL&version=2&contentId=106134
+  [Niezb─Ödnik analityka - wyniki Q3 2022 (w j─Özyku angielskim)
+
+                             ] -> https://www.gkpge.pl/content/download/afcc772f66b24d0364d64f83eab3880f/file/q3-2022_analyst-kit.pdf?inLanguage=pol-PL&version=2&contentId=106137
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za III kwarta┼é 2022 r.
+
+        ] -> https://www.gkpge.pl/content/download/1fc653cd1a4c6b98fa7a4052a4b0c2cb/file/pge_zaproszenie_wyniki_q32022_pl.pdf?inLanguage=pol-PL&version=3&contentId=106107
+  [Prezentacja z konferencji Zarz─ůdu w dniu 23 listopada 2022 r.
+
+                           ] -> https://www.gkpge.pl/content/download/dddf37f05c2576c038970d52565d4d93/file/pge_q3_-2022_online_pl.pdf?inLanguage=pol-PL&version=2&contentId=106176
+  [Prezentacja inwestorska - wyniki za III kwarta┼é 2022 r.
+
+                                 ] -> https://www.gkpge.pl/content/download/fea93fd3ef645f8deea69386b045a1c1/file/pge-s.a._prezentacja_inwestorska_iii-kw-2022.pdf?inLanguage=pol-PL&version=5&contentId=106140
+  [Suplement do prezentacji wynikowej za III kwarta┼é 2022 r. - tabele Excel
+
+                ] -> https://www.gkpge.pl/content/download/e96b3c0564b8f349c8216079f998de29/file/pge-s.a._suplement-do-prezentacji-iiiq22.xlsx?inLanguage=pol-PL&version=6&contentId=106143
+  [Prezentacja - szacunkowe wyniki za III kw. 2022 r.
+
+                                      ] -> https://www.gkpge.pl/content/download/a5761862eec44c603fe67fc6ad146862/file/pge_q3-2022_szacunki-wynikow.pdf?inLanguage=pol-PL&version=7&contentId=105240
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/raporty-okresowe-za-2023-rok
+html_len 63836
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/raporty-okresowe-za-2023-rok
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/periodic-reports-for-2023
+  [Jednostkowy raport roczny 2023 - pakiet w formacie xhtml
+
+                                ] -> https://www.gkpge.pl/content/download/5da5feba40718989bdd111aa7fdc6923/file/jednostkowy-raport-roczny-2023-pakiet-w-formacie-xhtml.zip?inLanguage=pol-PL&version=4&contentId=134098
+  [Jednostkowe sprawozdanie finansowe PGE za rok 2023 - plik pdf nie stanowi─ůcy wersji oficja] -> https://www.gkpge.pl/content/download/09f902fd839a5a29ce98859395103227/file/sf-pgesa-2023_pl.pdf?inLanguage=pol-PL&version=2&contentId=134116
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci PGE i Grupy Kapita┼éowej PGE za rok 2023 - plik pdf nie] -> https://www.gkpge.pl/content/download/f132c059707d5614bed37b779cf5f022/file/sz2023_pl.pdf?inLanguage=pol-PL&version=2&contentId=134119
+  [Skonsolidowany raport roczny 2023 - pakiet w formacie xhtml
+
+                             ] -> https://www.gkpge.pl/content/download/f7639bbc59e8b4ac8120cf1e06c5b38b/file/skonsolidowany-raport-roczny-2023-pakiet-w-formacie-xhtml.zip?inLanguage=pol-PL&version=4&contentId=134095
+  [Skonsolidowane sprawozdanie finansowe Grupy Kapita┼éowej PGE za rok 2023 - plik pdf nie sta] -> https://www.gkpge.pl/content/download/962cdfd8d37c4a2d8e9603d407e6554c/file/ssf-gkpge-2023_pl.pdf?inLanguage=pol-PL&version=2&contentId=134113
+  [Skonsolidowane sprawozdanie z p┼éatno┼Ťci na rzecz administracji publicznej za 2023 r.
+
+    ] -> https://www.gkpge.pl/content/download/5f7929eb4e7c14d8c0b33ffb8d86127c/file/pge_skonsolidowane_sprawozdanie_z_platnosci_na_rzecz_administracji_2023.pdf?inLanguage=pol-PL&version=4&contentId=134107
+  [Niezb─Ödnik analityka - wyniki FY 2023 (w j─Özyku angielskim)
+
+                             ] -> https://www.gkpge.pl/content/download/bdab5a2500bf03e40ce76a1c8250f3eb/file/pge-_fy-2023_analyst-kit.pdf?inLanguage=pol-PL&version=2&contentId=134110
+  [Sprawozdanie niefinansowe za rok 2023 - plik pdf nie stanowi─ůcy wersji oficjalnej
+
+       ] -> https://www.gkpge.pl/content/download/8bc50c12b421ef6c3952f697a7a7ab53/file/sprawozdanieniefinansowegkpge2023.pdf?inLanguage=pol-PL&version=5&contentId=134179
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za IV kwarta┼é i rok 2023
+
+      ] -> https://www.gkpge.pl/content/download/e5928a986f1d99a860934d5bb5efb43e/file/pge_zaproszenie_wyniki_q42023_pl.pdf?inLanguage=pol-PL&version=2&contentId=133933
+  [Prezentacja z konferencji Zarz─ůdu w dniu 5 kwietnia 2024 r.
+
+                             ] -> https://www.gkpge.pl/content/download/e3469caa597782786205c98725ee80fd/file/pge_prezentacja-fy-2023_online.pdf?inLanguage=pol-PL&version=4&contentId=134173
+  [Prezentacja inwestorska - wyniki za rok 2023
+
+                                            ] -> https://www.gkpge.pl/content/download/136cbda70ac39aad107252dcc2c2dadf/file/pge_prezentacja_inwestorska-fy-2023.pdf?inLanguage=pol-PL&version=2&contentId=134104
+  [Suplement do prezentacji wynikowej za rok 2023 - tabele Excel
+
+                           ] -> https://www.gkpge.pl/content/download/550a846e99401c0ddb872414d0a660e8/file/ch_pge-s.a._suplement-do-prezentacji-4q23.xlsx?inLanguage=pol-PL&version=2&contentId=134170
+  [Prezentacja - szacunkowe wyniki za rok 2023
+
+                                             ] -> https://www.gkpge.pl/content/download/cb8ce9afdd519b644dc0496555dc5632/file/pge_szacunki-wynikow-iv-kw.-2023.pdf?inLanguage=pol-PL&version=2&contentId=132741
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2023-r
+html_len 60152
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2023-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/consolidated-quarterly-report-for-q1-2023
+  [Kwartalny raport finansowy za okres 3 miesi─Öcy 2023 r. zawieraj─ůcy skonsolidowane sprawozd] -> https://www.gkpge.pl/content/download/26f291fd5342a5cf1adff849dd1d5073/file/1_pge_gk_q1_2023_raport_finansowy.pdf?inLanguage=pol-PL&version=2&contentId=119251
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za okres 3 miesi─Öcy 2023 r.
+
+       ] -> https://www.gkpge.pl/content/download/f90f42116bd13dc10ede8fc455921fbc/file/2_pge_gk_q1_2023_sprawozdanie_zarzadu_z_dzialalnosci_gk_pge.pdf?inLanguage=pol-PL&version=3&contentId=119254
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za I kwarta┼é 2023
+
+             ] -> https://www.gkpge.pl/content/download/cc6ec22ba29461551b0bd206fea746ae/file/pge_zaproszenie_wyniki_q12023_pl.pdf?inLanguage=pol-PL&version=3&contentId=119242
+  [Niezb─Ödnik analityka - wyniki I kw. 2023 (w j─Özyku angielskim)
+
+                          ] -> https://www.gkpge.pl/content/download/78d92262cd19bd8d16ddac54e51eb0ef/file/pge_q1_2023_analyst-kit.pdf?inLanguage=pol-PL&version=2&contentId=119266
+  [Prezentacja z konferencji Zarz─ůdu w dniu 24 maja 2023 r.
+
+                                ] -> https://www.gkpge.pl/content/download/ef190da7c80d5a2d7bbe8a8661beb177/file/pge-q1_2023_online_pl.pdf?inLanguage=pol-PL&version=2&contentId=119401
+  [Prezentacja inwestorska - wyniki za I kwarta┼é 2023 r.
+
+                                   ] -> https://www.gkpge.pl/content/download/a52c3173307431df54ecb3aa74b75945/file/pge-prezentacja_inwestorska_q1_2023.pdf?inLanguage=pol-PL&version=2&contentId=119263
+  [Suplement do prezentacji wynikowej za I kwarta┼é 2023 r. - tabele Excel
+
+                  ] -> https://www.gkpge.pl/content/download/8737f71d661e21f1694f6a7846053d94/file/ch_pge-s.a._suplement-do-prezentacji-iq23.xlsx?inLanguage=pol-PL&version=2&contentId=119269
+  [Prezentacja - szacunkowe wyniki za I kw. 2023 r.
+
+                                        ] -> https://www.gkpge.pl/content/download/b5b1db8e29e15a1ee4292a50a719db0c/file/pge_q1-2023_szacunki-wynikow.pdf?inLanguage=pol-PL&version=5&contentId=118792
+  [Zapis transmisji internetowej konferencji Zarz─ůdu z prezentacji wynik├│w za I kwarta┼é 2023 ] -> https://youtu.be/Woch8TowOLA
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2023-r
+html_len 64236
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2023-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/consolidated-report-for-h1-2023
+  [Wybrane jednostkowe dane finansowe PGE Polska Grupa Energetyczna S.A. za I p├│┼ér. 2023
+
+   ] -> https://www.gkpge.pl/content/download/2d2c46e7c0bd801a2dd8328d17e14c19/file/1_wybrane_jednostkowe_dane_finansowe_pge_20230630.pdf?inLanguage=pol-PL&version=3&contentId=124660
+  [Raport finansowy za I p├│┼érocze 2023 r. zawieraj─ůcy skonsolidowane sprawozdanie finansowe G] -> https://www.gkpge.pl/content/download/68808c97c81baaf177a856b67f3d5a43/file/3_pge_gk_hy_2023_raport_finansowy.pdf?inLanguage=pol-PL&version=2&contentId=124666
+  [Raport niezale┼╝nego bieg┼éego rewidenta z przegl─ůdu ┼Ťr├│drocznego skr├│conego sprawozdania fi] -> https://www.gkpge.pl/content/download/c270f45bf50a4c05bfbe7921d8a0ebfa/file/5_pge_hy_2023_raport_audytora.pdf.pdf?inLanguage=pol-PL&version=2&contentId=124672
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za I p├│┼érocze 2023 r.
+
+             ] -> https://www.gkpge.pl/content/download/732049cfd6e550cb41c99ead55db1af6/file/6_pge_gk_hy_2023_sprawozdanie_zarzadu_z_dzialalnosci.pdf?inLanguage=pol-PL&version=3&contentId=124675
+  [Wybrane skonsolidowane dane finansowe GK PGE za I p├│┼érocze 2023
+
+                         ] -> https://www.gkpge.pl/content/download/4dfc3e64e95cfedf146f7e58e9b8f479/file/2_wybrane_skonsolidowane_dane_finansowe_gk_pge_20230630.pdf?inLanguage=pol-PL&version=2&contentId=124663
+  [Raport niezale┼╝nego bieg┼éego rewidenta z przegl─ůdu ┼Ťr├│drocznego skonsolidowanego sprawozda] -> https://www.gkpge.pl/content/download/352c1b30d226c69b581838171aeaae04/file/4_pge_gk_hy_2023_raport_audytora.pdf?inLanguage=pol-PL&version=2&contentId=124669
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za I p├│┼érocze 2023 r.
+
+         ] -> https://www.gkpge.pl/content/download/792607b022067ad4ae4735785e365368/file/pge_zaproszenie_wyniki_h12023_pl.pdf?inLanguage=pol-PL&version=2&contentId=124642
+  [Niezb─Ödnik analityka - wyniki I p├│┼é. 2023 r. (w j─Özyku angielskim)
+
+                      ] -> https://www.gkpge.pl/content/download/3469fb071f3fe72e6a495dc120f81abc/file/pge-_q2-2023_analyst-kit.pdf?inLanguage=pol-PL&version=2&contentId=124681
+  [Prezentacja z konferencji Zarz─ůdu w dniu 27 wrze┼Ťnia 2023 r.
+
+                            ] -> https://www.gkpge.pl/content/download/261bf700c9fccf38f7faea8e91296e07/file/pge-q2_2023-online.pdf?inLanguage=pol-PL&version=2&contentId=124942
+  [Prezentacja inwestorska - wyniki za I p├│┼érocze i II kwarta┼é 2023 r.
+
+                     ] -> https://www.gkpge.pl/content/download/22da2912fca020d4e2ece60f99a9b284/file/pge_prezentacja_inwestorska_ii-kw.-2023.pdf?inLanguage=pol-PL&version=6&contentId=124678
+  [Suplement do prezentacji wynikowej za I p├│┼érocze 2023 r. - tabele Excel
+
+                 ] -> https://www.gkpge.pl/content/download/1675e55b68d9622dfc9529b6439f4cc2/file/pge-s.a._suplement-do-prezentacji-hy23.xlsx?inLanguage=pol-PL&version=2&contentId=124684
+  [Prezentacja - szacunkowe wyniki za II kw. 2023 r.
+
+                                       ] -> https://www.gkpge.pl/content/download/d28639e0b1a8ab779ca473965243f1d4/file/pge_ii-kw.-2023_szacunki-wynikow.pdf?inLanguage=pol-PL&version=2&contentId=124639
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2023-r
+html_len 61194
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2023-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/consolidated-quarterly-report-for-q3-2023
+  [Kwartalny raport finansowy za III kwarta┼é i 9 miesi─Öcy 2023 r. zawieraj─ůcy skonsolidowane ] -> https://www.gkpge.pl/content/download/19acd4343f6040adc5d68d609dfcffc8/file/1_pge_gk_q3_2023_raport_finansowy.pdf?inLanguage=pol-PL&version=2&contentId=127252
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za III kwarta┼é i 9 miesi─Öcy 2023 r.
+] -> https://www.gkpge.pl/content/download/72d163b87bb4034f7a44b6e6a8f36c43/file/2_pge_gk_q3_2023_sprawozdanie_zarzadu_z_dzialalnosci_gk_pge.pdf?inLanguage=pol-PL&version=4&contentId=127255
+  [Niezb─Ödnik analityka - wyniki Q3 2023 (w j─Özyku angielskim)
+
+                             ] -> https://www.gkpge.pl/content/download/ba233abf82a04276d92dca0001649f3f/file/pge-_q3-2023_analyst-kit.pdf?inLanguage=pol-PL&version=2&contentId=127264
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za III kwarta┼é 2023 r.
+
+        ] -> https://www.gkpge.pl/content/download/2f63c4e3e98419e6248eb3b997aa591c/file/pge_zaproszenie_wyniki_q32023_pl.pdf?inLanguage=pol-PL&version=2&contentId=127249
+  [Prezentacja inwestorska - wyniki za III kwarta┼é 2023 r.
+
+                                 ] -> https://www.gkpge.pl/content/download/c4eb1953da45df3c227669e7f0d5a475/file/pge-s.a._prezentacja_inwestorska_iii-kw_2023.pdf?inLanguage=pol-PL&version=2&contentId=127258
+  [Prezentacja z konferencji Zarz─ůdu w dniu 22 listopada 2023 r.
+
+                           ] -> https://www.gkpge.pl/content/download/73ad8cc0fc7333f76dfec51e37b126e5/file/pge-s.a.-q3_2023-online.pdf?inLanguage=pol-PL&version=4&contentId=127312
+  [Suplement do prezentacji wynikowej za III kwarta┼é 2023 r. - tabele Excel
+
+                ] -> https://www.gkpge.pl/content/download/675cddd44eb497b89f6469b5c7e347ec/file/pge-s.a._suplement-do-prezentacji-3q23.xlsx?inLanguage=pol-PL&version=2&contentId=127261
+  [Prezentacja - szacunkowe wyniki za III kw. 2023 r.
+
+                                      ] -> https://www.gkpge.pl/content/download/155f1a2971e7e1b3425f5c9692d61301/file/pge_szacunki-wynikow-iii-kw.-2023.pdf?inLanguage=pol-PL&version=4&contentId=127078
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/raporty-okresowe-za-2024-rok
+html_len 63221
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/raporty-okresowe-za-2024-rok
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/periodic-reports-for-2024
+  [Jednostkowy raport roczny 2024 - pakiet w formacie xhtml
+
+                                ] -> https://www.gkpge.pl/content/download/78fceb920e8bc060c435a3ceb0ca3262/file/jednostkowy-raport-roczny-2024-pakiet-w-formacie-xhtml.zip?inLanguage=pol-PL&version=2&contentId=169201
+  [Jednostkowe sprawozdanie finansowe PGE za rok 2024 - plik pdf nie stanowi─ůcy wersji oficja] -> https://www.gkpge.pl/content/download/f4ff7b94b3ebd5e0998868d0b6bf86d5/file/jsf_pge_2024pl.pdf?inLanguage=pol-PL&version=3&contentId=169207
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci PGE i Grupy Kapita┼éowej PGE za rok 2024 - plik pdf nie] -> https://www.gkpge.pl/content/download/ae87254f9a72f57bc4ee84feb63bbd75/file/sz_gkpge_2024_pl.pdf?inLanguage=pol-PL&version=2&contentId=169210
+  [Skonsolidowany raport roczny 2024 - pakiet w formacie xhtml
+
+                             ] -> https://www.gkpge.pl/content/download/66a0f1f1dddf2f9de04db50328245b00/file/skonsolidowany-raport-roczny-2024-pakiet-w-formacie-xhtml.zip?inLanguage=pol-PL&version=2&contentId=169198
+  [Skonsolidowane sprawozdanie finansowe Grupy Kapita┼éowej PGE za rok 2024 - plik pdf nie sta] -> https://www.gkpge.pl/content/download/d8aee6d031cf5f08e5902b918a861d4a/file/ssf_gkpge_2024_pl.pdf?inLanguage=pol-PL&version=2&contentId=169204
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za IV kwarta┼é i rok 2024
+
+      ] -> https://www.gkpge.pl/content/download/ab3c8c37209306c3b60fe8e1a09dfee8/file/pge_zaproszenie_wyniki_q42024_pl.pdf?inLanguage=pol-PL&version=2&contentId=168883
+  [Niezb─Ödnik analityka - wyniki FY 2024 (w j─Özyku angielskim)
+
+                             ] -> https://www.gkpge.pl/content/download/44d1bc7097f6f8b61f05fc3e6482f672/file/q4-2024_analyst-kit.pdf?inLanguage=pol-PL&version=2&contentId=169216
+  [Skonsolidowane sprawozdanie z p┼éatno┼Ťci na rzecz administracji publicznej za 2024 r.
+
+    ] -> https://www.gkpge.pl/content/download/a88f9e39133deb468b1c4a9c163b2b33/file/pge_skonsolidowane_sprawozdanie_z_platnosci_na_rzecz_administracji_2024.pdf?inLanguage=pol-PL&version=2&contentId=169222
+  [Prezentacja - szacunkowe wyniki za rok 2024
+
+                                             ] -> https://www.gkpge.pl/content/download/58dfb733a92a84459960d1a06ae1a1fb/file/pge_szacunki-wynikow_2024.pdf?inLanguage=pol-PL&version=2&contentId=163672
+  [Prezentacja inwestorska - wyniki za rok 2024
+
+                                            ] -> https://www.gkpge.pl/content/download/c1c6a4cde134d03d0bdf6995a804922f/file/pge_prezentacja_inwestorska-q4-2024_pl.pdf?inLanguage=pol-PL&version=3&contentId=169213
+  [Suplement do prezentacji wynikowej za rok 2024 - tabele Excel
+
+                           ] -> https://www.gkpge.pl/content/download/2afd5de3c8a104b72c8770d5485c6b85/file/pge_suplement-do-prezentacji-4q24.xlsx?inLanguage=pol-PL&version=2&contentId=169219
+  [Prezentacja z konferencji Zarz─ůdu w dniu 16 kwietnia 2025 r.
+
+                            ] -> https://www.gkpge.pl/content/download/40d70bfa47ebca3511576af8e897ad44/file/pge_q4_2024_prezentacja-online.pdf?inLanguage=pol-PL&version=2&contentId=169288
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2024-r
+html_len 60209
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2024-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/consolidated-quarterly-report-for-q1-2024
+  [Kwartalny raport finansowy za okres 3 miesi─Öcy 2024 r. zawieraj─ůcy skonsolidowane sprawozd] -> https://www.gkpge.pl/content/download/05b9481afe24c03928353920bfa49360/file/1_pge_gk_q1_2024_raport_finansowy.pdf?inLanguage=pol-PL&version=2&contentId=136188
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za okres 3 miesi─Öcy 2024 r.
+
+       ] -> https://www.gkpge.pl/content/download/04629ede503127d78514c56b39bfb632/file/2_pge_gk_q1_2024_sprawozdanie_zarzadu_z_dzialalnosci_gk_pge.pdf?inLanguage=pol-PL&version=2&contentId=136189
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za I kwarta┼é 2024 r.
+
+          ] -> https://www.gkpge.pl/content/download/e724e4ef7fc0dbc1566e60235ca91678/file/pge_zaproszenie_wyniki_q12024_pl.pdf?inLanguage=pol-PL&version=4&contentId=136180
+  [Niezb─Ödnik analityka - wyniki I kw. 2024 (w j─Özyku angielskim)
+
+                          ] -> https://www.gkpge.pl/content/download/409bd317da0317d642f05cf416de4aa8/file/q1-2024_analyst-kit.pdf?inLanguage=pol-PL&version=2&contentId=136191
+  [Prezentacja z konferencji Zarz─ůdu w dniu 28 maja 2024 r.
+
+                                ] -> https://www.gkpge.pl/content/download/c6ed1a5dfcfd94670a00e3d5cefb3d28/file/pge_prezentacja-q1-2024_online.pdf?inLanguage=pol-PL&version=5&contentId=136208
+  [Prezentacja inwestorska - wyniki za I kwarta┼é 2024 r.
+
+                                   ] -> https://www.gkpge.pl/content/download/7b644341f44f0803483c8331edfdc215/file/pge_prezentacja_inwestorska-q1-2024.pdf?inLanguage=pol-PL&version=2&contentId=136195
+  [Suplement do prezentacji wynikowej za I kwarta┼é 2024 r. - tabele Excel
+
+                  ] -> https://www.gkpge.pl/content/download/1d374013797958c1eee1a2396028eb37/file/ch_pge-sa_dk-011_suplement-do-prezentacji-1q24.xlsx?inLanguage=pol-PL&version=2&contentId=136210
+  [Prezentacja - szacunkowe wyniki za I kw. 2024 r.
+
+                                        ] -> https://www.gkpge.pl/content/download/b381a9390a9b37fc18f7371236c8276b/file/pge_szacunki-wynikow-i-kw.-2024.pdf?inLanguage=pol-PL&version=5&contentId=135745
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2024-r
+html_len 64199
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2024-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/consolidated-report-for-h1-2024
+  [Wybrane jednostkowe dane finansowe PGE Polska Grupa Energetyczna S.A. za I p├│┼ér. 2024
+
+   ] -> https://www.gkpge.pl/content/download/a1ad0837eec692233f708f696a0c95ef/file/1_wybrane_jednostkowe_dane_finansowe_pge_20240630.pdf?inLanguage=pol-PL&version=2&contentId=145497
+  [Raport finansowy za I p├│┼érocze 2024 r. zawieraj─ůcy skonsolidowane sprawozdanie finansowe G] -> https://www.gkpge.pl/content/download/9c06bd791aa352175b9e11e273fbaac7/file/3_pge_gk_hy_2024_raport_finansowy.pdf?inLanguage=pol-PL&version=2&contentId=145503
+  [Raport niezale┼╝nego bieg┼éego rewidenta z przegl─ůdu ┼Ťr├│drocznego skr├│conego sprawozdania fi] -> https://www.gkpge.pl/content/download/608ac278840bfb82d3ec1963607844b4/file/5_pge_hy_2024_raport_audytora.pdf?inLanguage=pol-PL&version=3&contentId=145509
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za I p├│┼érocze 2024 r.
+
+             ] -> https://www.gkpge.pl/content/download/916e1cb71c06a593b7eea19874d7689d/file/6_pge_gk_hy_2024_sprawozdanie_zarzadu_z_dzialalnosci.pdf?inLanguage=pol-PL&version=2&contentId=145512
+  [Wybrane skonsolidowane dane finansowe GK PGE za I p├│┼érocze 2024 r.
+
+                      ] -> https://www.gkpge.pl/content/download/c4d37f83f61efc6bbf409dbe7399d5d0/file/2_wybrane_skonsolidowane_dane_finansowe_gk_pge_20240630.pdf?inLanguage=pol-PL&version=3&contentId=145500
+  [Raport niezale┼╝nego bieg┼éego rewidenta z przegl─ůdu ┼Ťr├│drocznego skonsolidowanego sprawozda] -> https://www.gkpge.pl/content/download/4485494c16cb8d2aae4d3b56fce0b287/file/4_pge_gk_hy_2024_raport_audytora.pdf?inLanguage=pol-PL&version=2&contentId=145506
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za I p├│┼érocze 2024 r.
+
+         ] -> https://www.gkpge.pl/content/download/3e8e7d19f7074301af202a0da125b2b6/file/pge_zaproszenie_wyniki_h12024_pl.pdf?inLanguage=pol-PL&version=2&contentId=145257
+  [Niezb─Ödnik analityka - wyniki I p├│┼é. 2024 r. (w j─Özyku angielskim)
+
+                      ] -> https://www.gkpge.pl/content/download/d436d3c4cbe42f9a40f50b38e471b662/file/q2-2024_analyst-kit.pdf?inLanguage=pol-PL&version=2&contentId=145518
+  [Prezentacja z konferencji Zarz─ůdu w dniu 11 wrze┼Ťnia 2024 r.
+
+                            ] -> https://www.gkpge.pl/content/download/58b1a3ac1d3e6477bee8f8cf85ae4165/file/pge_q2_2024-prezentacja-online.pdf?inLanguage=pol-PL&version=3&contentId=145590
+  [Prezentacja inwestorska - wyniki za I p├│┼érocze i II kwarta┼é 2024 r.
+
+                     ] -> https://www.gkpge.pl/content/download/3aff5225d5d5c1b784c927a60d3fdca7/file/pge_prezentacja_inwestorska-q2-2024.pdf?inLanguage=pol-PL&version=3&contentId=145515
+  [Suplement do prezentacji wynikowej za I p├│┼érocze 2024 r. - tabele Excel
+
+                 ] -> https://www.gkpge.pl/content/download/d12fccaace69969eb3c8b11a2470587a/file/pge_suplement-do-prezentacji-2q24.xlsx?inLanguage=pol-PL&version=4&contentId=145578
+  [Prezentacja - szacunkowe wyniki za II kw. 2024 r.
+
+                                       ] -> https://www.gkpge.pl/content/download/b6ed0afa949eb89c4ee07f045265ade6/file/pge_szacunki-wynikow-ii-kw.-2024.pdf?inLanguage=pol-PL&version=2&contentId=145096
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2024-r
+html_len 61186
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2024-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/consolidated-quarterly-report-for-q3-2024
+  [Kwartalny raport finansowy za III kwarta┼é i 9 miesi─Öcy 2024 r. zawieraj─ůcy skonsolidowane ] -> https://www.gkpge.pl/content/download/1d16fcf66aefb2bc9f12ea974c02453a/file/1_pge_gk_q3_2024_raport_finansowy.pdf?inLanguage=pol-PL&version=2&contentId=156235
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za III kwarta┼é i 9 miesi─Öcy 2024 r.
+] -> https://www.gkpge.pl/content/download/be07b01c39efe4427920ba5cb6f4da20/file/2_pge_gk_q3_2024_sprawozdanie_zarzadu_z_dzialalnosci_gk_pge.pdf?inLanguage=pol-PL&version=2&contentId=156241
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za III kwarta┼é 2024 r.
+
+        ] -> https://www.gkpge.pl/content/download/a0e82a41a2e339e3045ce6b1bd208582/file/pge_zaproszenie_wyniki_q32024_pl.pdf?inLanguage=pol-PL&version=2&contentId=155590
+  [Niezb─Ödnik analityka - wyniki Q3 2024 (w j─Özyku angielskim)
+
+                             ] -> https://www.gkpge.pl/content/download/043fc8ec7178a12a1ccc206cd9260063/file/q3-2024_analyst-kit.pdf?inLanguage=pol-PL&version=3&contentId=156247
+  [Prezentacja z konferencji Zarz─ůdu w dniu 27 listopada 2024 r.
+
+                           ] -> https://www.gkpge.pl/content/download/080169c5a8b64cb9c971888de3d80b08/file/pge_q3_2024-prezentacja-online.pdf?inLanguage=pol-PL&version=2&contentId=156562
+  [Prezentacja inwestorska - wyniki za III kwarta┼é 2024 r.
+
+                                 ] -> https://www.gkpge.pl/content/download/13ccc02e9dce0367ccafb94d4df0a4c6/file/pge_prezentacja_inwestorska-q3-2024.pdf?inLanguage=pol-PL&version=3&contentId=156244
+  [Suplement do prezentacji wynikowej za III kwarta┼é 2024 r. - tabele Excel
+
+                ] -> https://www.gkpge.pl/content/download/0cbf26622269c419ac3131e09e0bdb6f/file/pge_suplement-do-prezentacji-3q24.xlsx?inLanguage=pol-PL&version=5&contentId=157354
+  [Prezentacja - szacunkowe wyniki za III kw. 2024 r.
+
+                                      ] -> https://www.gkpge.pl/content/download/47d9484f666c7f74bfd22129503a92d3/file/pge_szacunki-wynikow-iii-kw.-2024.pdf?inLanguage=pol-PL&version=3&contentId=153979
+  [Zapis transmisji internetowej konferencji Zarz─ůdu z prezentacji wynik├│w za III kwarta┼é 202] -> https://youtu.be/8WzpVG0UaLU?si=A0XX4LArKis1hBre
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/raporty-okresowe-za-2025-rok
+html_len 63761
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/raporty-okresowe-za-2025-rok
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/periodic-reports-for-2025
+  [Jednostkowy raport roczny 2025 - pakiet w formacie xhtml
+
+                                ] -> https://www.gkpge.pl/content/download/f92cf8af48c91773960dd18aace82e41/file/jednostkowy-raport-roczny-2025-pakiet-w-formacie-xhtml.zip?inLanguage=pol-PL&version=2&contentId=231013
+  [Jednostkowe sprawozdanie finansowe PGE za rok 2025 - plik pdf nie stanowi─ůcy wersji oficja] -> https://www.gkpge.pl/content/download/ef931a08716989834fd017b729bcea12/file/pge_jsf2025.pdf?inLanguage=pol-PL&version=3&contentId=231073
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci PGE i Grupy Kapita┼éowej PGE za rok 2025 - plik pdf nie] -> https://www.gkpge.pl/content/download/1c17c9bb500a8cc7ea488bc573451f3e/file/pge_sz2025.pdf?inLanguage=pol-PL&version=3&contentId=231076
+  [Skonsolidowany raport roczny 2025 - pakiet w formacie xhtml
+
+                             ] -> https://www.gkpge.pl/content/download/5bbb6980dd2edeb3ac7a44ad5a1e1508/file/skonsolidowany-raport-roczny-2025-pakiet-w-formacie-xhtml.zip?inLanguage=pol-PL&version=4&contentId=231007
+  [Skonsolidowane sprawozdanie finansowe Grupy Kapita┼éowej PGE za rok 2025 - plik pdf nie sta] -> https://www.gkpge.pl/content/download/b27b8e69a804749c5ee7071daf1a3772/file/pge_ssf2025.pdf?inLanguage=pol-PL&version=4&contentId=231043
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za rok 2025
+
+                   ] -> https://www.gkpge.pl/content/download/bfbd5809db510af44529859b5cdd4a63/file/pge_zaproszenie_wyniki_q42025_pl.pdf?inLanguage=pol-PL&version=2&contentId=229029
+  [Niezb─Ödnik analityka - wyniki FY 2025 (w j─Özyku angielskim)
+
+                             ] -> https://www.gkpge.pl/content/download/8957780b27d6a8f0ba52e41890d1f29c/file/pge_q4-2025_analyst-kit.pdf?inLanguage=pol-PL&version=2&contentId=231109
+  [Skonsolidowane sprawozdanie z p┼éatno┼Ťci na rzecz administracji publicznej za 2025 r.
+
+    ] -> https://www.gkpge.pl/content/download/3aed599a966576662c96f235318de11b/file/skonsolidowane-sprawozdanie-z-platnosci-na-rzecz-administracji-publicznej-pge-polska-grupa-energetyczna-s.a.-za-rok-2025.pdf?inLanguage=pol-PL&v
+  [Prezentacja - szacunkowe wyniki za IV kwarta┼é i rok 2025
+
+                                ] -> https://www.gkpge.pl/content/download/b8fa1cf0ce1a46b09a7ebc0d91c53b6c/file/pge_szacunki-wynikow_iv-kw.-2025.pdf?inLanguage=pol-PL&version=11&contentId=210898
+  [Prezentacja inwestorska - wyniki za rok 2025
+
+                                            ] -> https://www.gkpge.pl/content/download/3c58567e242d96d7e57ca02c90eed555/file/pge_prezentacja_inwestorska_q4-2025.pdf?inLanguage=pol-PL&version=3&contentId=231106
+  [Suplement do prezentacji wynikowej za rok 2025 - tabele Excel
+
+                           ] -> https://www.gkpge.pl/content/download/30bd5638d667988bb47f9563e29bf24f/file/pge_suplement-do-prezentacji-4q25.xlsx?inLanguage=pol-PL&version=2&contentId=231112
+  [Prezentacja z konferencji Zarz─ůdu w dniu 16 kwietnia 2026 r.
+
+                            ] -> https://www.gkpge.pl/content/download/03831cdaf6a0523a78ad6852ea1168ff/file/pge_q4-2025-prezentacja_online.pdf?inLanguage=pol-PL&version=2&contentId=231881
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2025-r
+html_len 60116
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2025-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/consolidated-quarterly-report-for-q1-2025
+  [Kwartalny raport finansowy za okres 3 miesi─Öcy 2025 r. zawieraj─ůcy skonsolidowane sprawozd] -> https://www.gkpge.pl/content/download/4148e6debd131a77a83644d5e6f4b644/file/1_pge_gk_q1_2025_raport_finansowy.pdf?inLanguage=pol-PL&version=2&contentId=172366
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za okres 3 miesi─Öcy 2025 r.
+
+       ] -> https://www.gkpge.pl/content/download/fe68050c4d9917382d91e1b4fb5dae64/file/2_pge_gk_q1_2025_sprawozdanie_zarzadu_z_dzialalnosci_gk_pge.pdf?inLanguage=pol-PL&version=2&contentId=172369
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za I kwarta┼é 2025 r.
+
+          ] -> https://www.gkpge.pl/content/download/4b801b0b5e32bdfdd79a5cecd9bec28a/file/pge_zaproszenie_wyniki_q12025_pl.pdf?inLanguage=pol-PL&version=2&contentId=172219
+  [Niezb─Ödnik analityka - wyniki I kw. 2025 (w j─Özyku angielskim)
+
+                          ] -> https://www.gkpge.pl/content/download/d21464dd5f415053a068e87142250e48/file/q1-2025_analyst-kit.pdf?inLanguage=pol-PL&version=4&contentId=172378
+  [Prezentacja z konferencji Zarz─ůdu w dniu 28 maja 2025 r.
+
+                                ] -> https://www.gkpge.pl/content/download/90ea758a1fa216ddf63b9f0c56e93601/file/pge_q1_2025_prezentacja-online.pdf?inLanguage=pol-PL&version=3&contentId=172603
+  [Prezentacja inwestorska - wyniki za I kwarta┼é 2025 r.
+
+                                   ] -> https://www.gkpge.pl/content/download/443cd4e19a0a6dc77ed09c86e42b984d/file/pge_prezentacja_inwestorska-q1-2025.pdf?inLanguage=pol-PL&version=2&contentId=172372
+  [Suplement do prezentacji wynikowej za I kwarta┼é 2025 r. - tabele Excel
+
+                  ] -> https://www.gkpge.pl/content/download/877fb0dee8c0a1fa0e0b41cacfe7df7d/file/pge_suplement-do-prezentacji-1q25.xlsx?inLanguage=pol-PL&version=2&contentId=172375
+  [Prezentacja - szacunkowe wyniki za I kw. 2025 r.
+
+                                        ] -> https://www.gkpge.pl/content/download/f6ef6381b3a54c8b18780e3d3cf54d1c/file/pge_szacunki-wynikow_i-kw.-2025.pdf?inLanguage=pol-PL&version=3&contentId=171634
+  [Zapis transmisji internetowej konferencji Zarz─ůdu z prezentacji wynik├│w za I kwarta┼é 2025 ] -> https://youtu.be/hwumlaQfspc?si=oYXhK2yXJFIA7Qkd
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2025-r
+html_len 64208
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2025-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/consolidated-report-for-h1-2025
+  [Wybrane jednostkowe dane finansowe PGE Polska Grupa Energetyczna S.A. za I p├│┼ér. 2025
+
+   ] -> https://www.gkpge.pl/content/download/c2f7b0d6c60730eaa347d7a644b03001/file/1_wybrane_jednostkowe_dane_finansowe_pge_20250630.pdf?inLanguage=pol-PL&version=2&contentId=182337
+  [Raport finansowy za I p├│┼érocze 2025 r. zawieraj─ůcy skonsolidowane sprawozdanie finansowe G] -> https://www.gkpge.pl/content/download/932c5bfb75ad3ddfb251b5a5d0d222ad/file/3_pge_gk_hy_2025_raport_finansowy.pdf?inLanguage=pol-PL&version=2&contentId=182343
+  [Raport niezale┼╝nego bieg┼éego rewidenta z przegl─ůdu ┼Ťr├│drocznego skr├│conego sprawozdania fi] -> https://www.gkpge.pl/content/download/437b9aac2d2019afe7b300a77b68ccba/file/5_pge_hy_2025_raport_audytora.pdf?inLanguage=pol-PL&version=3&contentId=182349
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za I p├│┼érocze 2025 r.
+
+             ] -> https://www.gkpge.pl/content/download/f587db1200b94bd02cf71acc76a6697e/file/6_pge_gk_hy_2025_sprawozdanie_zarzadu_z_dzialalnosci.pdf?inLanguage=pol-PL&version=3&contentId=182352
+  [Wybrane skonsolidowane dane finansowe GK PGE za I p├│┼érocze 2025 r.
+
+                      ] -> https://www.gkpge.pl/content/download/6e0b44c1f06754dbc7a06ff131d2c4d6/file/2_wybrane_skonsolidowane_dane_finansowe_gk_pge_20250630.pdf?inLanguage=pol-PL&version=2&contentId=182340
+  [Raport niezale┼╝nego bieg┼éego rewidenta z przegl─ůdu ┼Ťr├│drocznego skonsolidowanego sprawozda] -> https://www.gkpge.pl/content/download/97d34ecfb96469f3edc706fd56ef607a/file/4_pge_gk_hy_2025_raport_audytora.pdf?inLanguage=pol-PL&version=2&contentId=182346
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za II kwarta┼é i I p├│┼érocze 2025 ] -> https://www.gkpge.pl/content/download/fc6cea3cc7bb04609a44a676f1657112/file/pge_zaproszenie_wyniki_h12025_pl.pdf?inLanguage=pol-PL&version=2&contentId=182280
+  [Niezb─Ödnik analityka - wyniki II kw. 2025 r. (w j─Özyku angielskim)
+
+                      ] -> https://www.gkpge.pl/content/download/e572d8166c0e005ec71c1dabb75f26c4/file/pge_q2-2025_analyst-kit.pdf?inLanguage=pol-PL&version=3&contentId=182358
+  [Prezentacja z konferencji Zarz─ůdu w dniu 10 wrze┼Ťnia 2025 r.
+
+                            ] -> https://www.gkpge.pl/content/download/0ff1ac816ef4be0fa9ca4b6563347690/file/pge_q2-2025-prezentacja_online.pdf?inLanguage=pol-PL&version=2&contentId=182384
+  [Prezentacja inwestorska - wyniki za I p├│┼érocze i II kwarta┼é 2025 r.
+
+                     ] -> https://www.gkpge.pl/content/download/e4808c3c51f1c00cfa32fb6892adfea5/file/pge_prezentacja_inwestorska_q2-2025.pdf?inLanguage=pol-PL&version=2&contentId=182355
+  [Suplement do prezentacji wynikowej za II kwarta┼é 2025 r. - tabele Excel
+
+                 ] -> https://www.gkpge.pl/content/download/9a6fec709ba376cb029575766701acb1/file/pge-suplement-do-prezentacji-iiq25.xlsx?inLanguage=pol-PL&version=2&contentId=182387
+  [Prezentacja - szacunkowe wyniki za II kw. 2025 r.
+
+                                       ] -> https://www.gkpge.pl/content/download/a3c6407d2c630efe63630bacd5e08237/file/pge_szacunki-wynikow-q2-2025.pdf?inLanguage=pol-PL&version=3&contentId=182223
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2025-r
+html_len 61191
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2025-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/consolidated-quarterly-report-for-q3-2025
+  [Kwartalny raport finansowy za III kwarta┼é i 9 miesi─Öcy 2025 r. zawieraj─ůcy skonsolidowane ] -> https://www.gkpge.pl/content/download/11ad6a4b7df26b286defdf50eb0f59ee/file/1_pge_gk_q3_2025_raport_finansowy.pdf?inLanguage=pol-PL&version=4&contentId=192898
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za III kwarta┼é i 9 miesi─Öcy 2025 r.
+] -> https://www.gkpge.pl/content/download/af30cecefe32cf2d1047ffefa5dad67a/file/2_pge_gk_q3_2025_sprawozdanie_zarzadu_z_dzialalnosci_gk_pge.pdf?inLanguage=pol-PL&version=2&contentId=192901
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za III kwarta┼é 2025 r.
+
+        ] -> https://www.gkpge.pl/content/download/7ed249c2c4c6edead8af67537ddcbfdd/file/pge_zaproszenie_wyniki_q32025_pl.pdf?inLanguage=pol-PL&version=2&contentId=192832
+  [Niezb─Ödnik analityka - wyniki Q3 2025 (w j─Özyku angielskim)
+
+                             ] -> https://www.gkpge.pl/content/download/f3d2bcccb4ca7be86731484a02aab39b/file/pge_q3-2025_analyst-kit.pdf?inLanguage=pol-PL&version=2&contentId=192910
+  [Prezentacja - szacunkowe wyniki za III kw. 2025 r.
+
+                                      ] -> https://www.gkpge.pl/content/download/828e05eb9cd3e7a6ecae5335492ae0b3/file/pge_szacunki-wynikow_iii-kw.-2025.pdf?inLanguage=pol-PL&version=2&contentId=190996
+  [Prezentacja inwestorska - wyniki za III kwarta┼é 2025 r.
+
+                                 ] -> https://www.gkpge.pl/content/download/13998627be28c7cf65969b242edd5525/file/pge_prezentacja_inwestorska_q3-2025.pdf?inLanguage=pol-PL&version=2&contentId=192904
+  [Suplement do prezentacji wynikowej za III kwarta┼é 2025 r. - tabele Excel
+
+                ] -> https://www.gkpge.pl/content/download/b7b7dd874f1019687bc41313384b2ac0/file/pge_suplement-do-prezentacji-3q25.xlsx?inLanguage=pol-PL&version=2&contentId=192907
+  [Prezentacja z konferencji Zarz─ůdu w dniu 26 listopada 2025 r.
+
+                           ] -> https://www.gkpge.pl/content/download/aea37fe5405f2caf367400877c02d16a/file/prezentacja_wyniki_q3-2025_online.pdf?inLanguage=pol-PL&version=4&contentId=192943
+  [Zapis transmisji internetowej konferencji Zarz─ůdu z prezentacji wynik├│w za III kwarta┼é 202] -> https://youtu.be/NpuK54NxtL0?si=j81OUYhY8h4-GcqW
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-polroczny-za-i-polrocze-2021-r
+html_len 64080
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-polroczny-za-i-polrocze-2021-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/consolidated-half-year-report-for-h1-2021
+  [Wybrane jednostkowe dane finansowe PGE Polska Grupa Energetyczna S.A.
+
+                   ] -> https://www.gkpge.pl/content/download/c91001acdbb04dc1550b7939f903bf74/file/264d1cc23dd2040e233dcd4b4cb12ed0.pdf?inLanguage=pol-PL&version=2&contentId=81913
+  [Raport finansowy za I p├│┼érocze 2021 r. zawieraj─ůcy skonsolidowane sprawozdanie finansowe G] -> https://www.gkpge.pl/content/download/061d21b19d444748b8206555142e550a/file/3ec04fa4b5f3e0a07466193db016bbdb.pdf?inLanguage=pol-PL&version=2&contentId=81919
+  [Raport niezale┼╝nego bieg┼éego rewidenta z przegl─ůdu ┼Ťr├│drocznego skr├│conego sprawozdania fi] -> https://www.gkpge.pl/content/download/9c15cedb3aff8012c96baae6bdc2d7dc/file/aefe580958d66322acb0c09caf937f68.pdf?inLanguage=pol-PL&version=2&contentId=81922
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej za I p├│┼érocze 2021 r.
+
+             ] -> https://www.gkpge.pl/content/download/d04a1c5731b47d9d436701ee7e3b4b22/file/e68c89d56ee8718d2b9d39f95da404ff.pdf?inLanguage=pol-PL&version=2&contentId=81928
+  [Wybrane skonsolidowane dane finansowe GK PGE
+
+                                            ] -> https://www.gkpge.pl/content/download/a64ad15d9384241b0f6c4933c41b1487/file/6b6133b85f1f6e8d447535d0ded10509.pdf?inLanguage=pol-PL&version=2&contentId=81916
+  [Raport niezale┼╝nego bieg┼éego rewidenta z przegl─ůdu ┼Ťr├│drocznego skonsolidowanego sprawozda] -> https://www.gkpge.pl/content/download/0f4d0d18ea9c3c0e8da1eb8be7160a4b/file/9702030bb3b2da2febfdbae295d6a62e.pdf?inLanguage=pol-PL&version=2&contentId=81925
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za I p├│┼érocze 2021 r.
+
+         ] -> https://www.gkpge.pl/content/download/818cbcde1bf27246bb804bb98c46a221/file/cc7457ef401d77d95bbaefee41872492.pdf?inLanguage=pol-PL&version=2&contentId=81910
+  [Niezb─Ödnik analityka - wyniki I p├│┼é. 2021 r. (w j─Özyku angielskim)
+
+                      ] -> https://www.gkpge.pl/content/download/199259765d69f202eced386dfbbe80ca/file/088fb79dcfa1b9f301c09635719ebd97.pdf?inLanguage=pol-PL&version=2&contentId=81934
+  [Prezentacja - szacunkowe wyniki za I p├│┼érocze 2021 r. 
+
+                                  ] -> https://www.gkpge.pl/content/download/266fc5f83db28fbf0ef3a560cb8a9aad/file/77a595cb8b58facf019bbe6f843f6281.pdf?inLanguage=pol-PL&version=2&contentId=81904
+  [Prezentacja inwestorska - wyniki za I p├│┼érocze 2021 r.
+
+                                  ] -> https://www.gkpge.pl/content/download/c8111e4aaf95f76067875ce732c42154/file/ce473688f06181a37fce29e3da216e5d.pdf?inLanguage=pol-PL&version=2&contentId=81931
+  [Suplement do prezentacji wynikowej za I p├│┼érocze 2021 r. - tabele Excel
+
+                 ] -> https://www.gkpge.pl/content/download/abdaac48aef6a12159f0e1690603a78c/file/48f797d5834cfae8ae2512d11111100f.xlsx?inLanguage=pol-PL&version=4&contentId=81937
+  [Prezentacja z konferencji Zarz─ůdu w dniu 29 wrze┼Ťnia 2021 r.
+
+                            ] -> https://www.gkpge.pl/content/download/abc902a6c6d20f06d6d40c1567c0ec36/file/1b1af8a459d615a23c42a4b423f1c66b.pdf?inLanguage=pol-PL&version=2&contentId=81940
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/sprawozdania-finansowe-za-2021-r
+html_len 63686
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/sprawozdania-finansowe-za-2021-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/full-year-results-2021
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci PGE i Grupy Kapita┼éowej PGE za rok 2021 - plik pdf nie] -> https://www.gkpge.pl/content/download/5ea6d0d3b5b83610f40f29f3e049d0f1/file/sz_fy2021_gkpge.pdf?inLanguage=pol-PL&version=3&contentId=91735
+  [Jednostkowe sprawozdanie finansowe PGE za rok 2021 - plik pdf nie stanowi─ůcy wersji oficja] -> https://www.gkpge.pl/content/download/fbdc18fbe3137dc05f798fb15757e116/file/jednostkowesfpge2021.pdf?inLanguage=pol-PL&version=3&contentId=91732
+  [Jednostkowy raport roczny 2021 - pakiet w formacie xhtml
+
+                                ] -> https://www.gkpge.pl/content/download/2a440e1f23f206aa646703e08991ea94/file/jednostkowe-2021.7z?inLanguage=pol-PL&version=14&contentId=91723
+  [Skonsolidowane sprawozdanie finansowe Grupy Kapita┼éowej PGE za rok 2021 - plik pdf nie sta] -> https://www.gkpge.pl/content/download/51834b1563a78c5aa9f8199d16fe4b94/file/skonsolidowanesfgkpge2021.pdf?inLanguage=pol-PL&version=4&contentId=91747
+  [Skonsolidowany raport roczny 2021 - pakiet w formacie xhtml
+
+                             ] -> https://www.gkpge.pl/content/download/3e26c8f57926fdca2d1f8543e423b083/file/skonsolidowane-2021.7z?inLanguage=pol-PL&version=7&contentId=91741
+  [Sprawozdanie niefinansowe za rok 2021 - plik pdf nie stanowi─ůcy wersji oficjalnej
+
+       ] -> https://www.gkpge.pl/content/download/1c08e1c7eeede3c0d242a0341dc2f74c/file/sprawozdanieniefinansowegkpge2021.pdf?inLanguage=pol-PL&version=3&contentId=91750
+  [Niezb─Ödnik analityka - wyniki FY 2021 (w j─Özyku angielskim)
+
+                             ] -> https://www.gkpge.pl/content/download/de32bc5c2d48de2d440d41fb1b8a1c24/file/2021_analyst_kit.pdf?inLanguage=pol-PL&version=3&contentId=91759
+  [Skonsolidowane sprawozdanie z p┼éatno┼Ťci na rzecz administracji publicznej za 2021 r.
+
+    ] -> https://www.gkpge.pl/content/download/565200cb5e38c670df3c36b29cbc33dc/file/skonsolidowane-sprawozdanie-z-platnosci-na-rzecz-administracji-2021.pdf?inLanguage=pol-PL&version=6&contentId=91753
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za 2021 rok
+
+                   ] -> https://www.gkpge.pl/content/download/ae5043c3929469964bd40524d0bc3106/file/pge_zaproszenie_wyniki_q42021_pl.pdf?inLanguage=pol-PL&version=3&contentId=91729
+  [Suplement do prezentacji wynikowej za rok 2021 - tabele Excel
+
+                           ] -> https://www.gkpge.pl/content/download/b5c3c45f7f8e191d0c688c0da8ffbfcb/file/ch_pge-sa_suplement-do-prezentacji-q421.xlsx?inLanguage=pol-PL&version=5&contentId=91771
+  [Prezentacja inwestorska - wyniki za rok 2021
+
+                                            ] -> https://www.gkpge.pl/content/download/8d09d61f158cf94bd45578917386383a/file/pge_fy2021_prezentacja_dla_inwestorow.pdf?inLanguage=pol-PL&version=3&contentId=91756
+  [Prezentacja - szacunkowe wyniki za rok 2021
+
+                                             ] -> https://www.gkpge.pl/content/download/aeef1e375ede7ed6e1105ca1958a1f13/file/0bf62f8590eed4230af8f405ba11b979.pdf?inLanguage=pol-PL&version=2&contentId=81865
+  [Prezentacja z konferencji Zarz─ůdu w dniu 23 marca 2022 r.
+
+                               ] -> https://www.gkpge.pl/content/download/491587b670a1a1ae3640dabc65c26c27/file/pge_2021_online.pdf?inLanguage=pol-PL&version=4&contentId=91717
+
+=== https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/sprawozdania-finansowe-za-2020-r
+html_len 64385
+  [Raporty bie┼╝─ůce] -> https://www.gkpge.pl/dla-inwestorow/raporty-biezace
+  [pol-PL] -> https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/sprawozdania-finansowe-za-2020-r
+  [eng-GB] -> https://www.gkpge.pl/en/for-investors/shares/financial-data/full-year-results-2020
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci PGE i Grupy Kapita┼éowej PGE za rok 2020 - plik pdf nie] -> https://www.gkpge.pl/content/download/c3a628d8bdb56efe48eb7787d96f86ce/file/6b04fddf8739205ebb4445c375ca5f26.pdf?inLanguage=pol-PL&version=1&contentId=82015
+  [Jednostkowe sprawozdanie finansowe PGE za rok 2020 - plik pdf nie stanowi─ůcy wersji oficja] -> https://www.gkpge.pl/content/download/86942dfc1457a676464e63a4005e5b73/file/ea4a923d0ee9bf1e70cfd967b66d235b.pdf?inLanguage=pol-PL&version=1&contentId=82012
+  [Jednostkowy raport roczny - pakiet w formacie xhtml
+
+                                     ] -> https://www.gkpge.pl/content/download/3c6eb1e12609a70dbbc098b551a87389/file/277a3949b3904ef9559f8e00b9e738af.7z?inLanguage=pol-PL&version=1&contentId=81991
+  [Skonsolidowane sprawozdanie finansowe Grupy Kapita┼éowej PGE za rok 2020 - plik pdf nie sta] -> https://www.gkpge.pl/content/download/5e8dc64644d41a858f0ea9191a10865b/file/f2279f1ea94483386361d7502faa3026.pdf?inLanguage=pol-PL&version=2&contentId=81997
+  [Skonsolidowany raport roczny - pakiet w formacie xhtml
+
+                                  ] -> https://www.gkpge.pl/content/download/f2980568408ccd3b26d3940d1e7c84ec/file/6ee6efc652a9e073744a8e584cfd7a29.7z?inLanguage=pol-PL&version=1&contentId=81994
+  [Skonsolidowane sprawozdanie z p┼éatno┼Ťci na rzecz administracji publicznej za 2020 r. 
+
+   ] -> https://www.gkpge.pl/content/download/f50c8d12044ec83281ee94e48cd1fe29/file/de6d9dc737103af2bb8d5fb4541c3ed0.pdf?inLanguage=pol-PL&version=2&contentId=82024
+  [Sprawozdanie na temat informacji niefinansowych PGE Polskiej Grupy Energetycznej S.A. oraz] -> https://www.gkpge.pl/content/download/fa183a13668ecb00f273f18804470dc7/file/002b9488286be8efdc7d8438cfa1d879.pdf?inLanguage=pol-PL&version=2&contentId=82018
+  [Suplement do prezentacji inwestorskiej za rok 2020 - tabele Excel 
+
+                      ] -> https://www.gkpge.pl/content/download/296a57d0a745593dcbbde841fa50f57f/file/1f8ebf7eb960890f69cc236becff776f.xlsx?inLanguage=pol-PL&version=2&contentId=82006
+  [Niezb─Ödnik analityka - wyniki FY 2020 (w j─Özyku angielskim) 
+
+                            ] -> https://www.gkpge.pl/content/download/e9bfeb805c063f9a5ba631f517301862/file/fd58800954aa6b3fb3d3bd6bdcf867d1.pdf?inLanguage=pol-PL&version=2&contentId=82003
+  [Zaproszenie na transmisj─Ö internetow─ů prezentacji wynik├│w za rok 2020
+
+                   ] -> https://www.gkpge.pl/content/download/9930c006011c63281b2fdec34f4b9f73/file/792f04458d4c6ecf2a8ece85f34cecfa.pdf?inLanguage=pol-PL&version=2&contentId=81988
+  [Prezentacja - szacunkowe wyniki za rok 2020
+
+                                             ] -> https://www.gkpge.pl/content/download/656a633624078731fbde95f530c7b0ac/file/e2159d0a6daaf03a22f4546360fbe91b.pdf?inLanguage=pol-PL&version=2&contentId=81982
+  [Prezentacja z konferencji Zarz─ůdu w dniu 24 marca 2021 r. 
+
+                              ] -> https://www.gkpge.pl/content/download/d6d7b0503d2cec4614479513955d34b4/file/71c57235b36cd45b56beaa9a6ac527ec.pdf?inLanguage=pol-PL&version=2&contentId=82009
+  [Prezentacja inwestorska - wyniki za rok 2020
+
+                                            ] -> https://www.gkpge.pl/content/download/51aa6d7f9865ad62359ce002d9bead3e/file/2e71629970bc8d053ffa7e35bd95fff9.pdf?inLanguage=pol-PL&version=2&contentId=82000
+  [Zapis transmisji internetowej konferencji Zarz─ůdu z prezentacji wynik├│w za 2020 r.] -> https://youtu.be/aAQ5FQmXsY0
+
+########## TPE ##########
+
+=== https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-okresowe
+html_len 184896
+  [Kwartalna informacja finansowa za I kwarta┼é 2026 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2026/kwartalna-informacja-finansowa-za-i-kwartal-2026-r.ashx
+  [Skonsolidowane sprawozdanie finansowe za I kwarta┼é 2026 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2026/skonsolidowane-sprawozdanie-finansowe-za-i-kwartal-2026-r.ashx
+  [Pozosta┼ée informacje do raportu za I kwarta┼é 2026 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2026/pozostale-informacje-do-raportu-za-i-kwartal-2026-r.ashx
+  [TAURON spreadsheet I kwarta┼é 2026 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2026/tauron-spreadsheet-q1-2026.ashx
+  [Jednostkowy raport roczny za 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/roczny/jednostkowy-raport-roczny-za-2025-r.ashx
+  [Skonsolidowany raport roczny za 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/roczny/skonsolidowany-raport-roczny-za-2025-r.ashx
+  [Skonsolidowane sprawozdanie z p┼éatno┼Ťci na rzecz administracji publicznej za 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/roczny/skonsolidowane-sprawozdanie-z-platnosci-2025.ashx
+  [Tauron spreadsheet 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/roczny/tauron_spreadsheet_-fy2025.ashx
+  [Kwartalna informacja finansowa za III kwarta┼é 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/iii-kwartal/kwartalna-informacja-finansowa-za-iii-kwartal-2025-r.ashx
+  [Skonsolidowane sprawozdanie finansowe za III kwarta┼é 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/iii-kwartal/skonsolidowane-sprawozdanie-finansowe-za-iii-kwartal-2025-r.ashx
+  [Pozosta┼ée informacje do raportu za III kwarta┼é 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/iii-kwartal/pozostale-informacje-do-raportu-za-iii-kw-2025-r.ashx
+  [Tauron spreadsheet III kwarta┼é 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/iii-kwartal/tauron-spreadsheet-q3-2025.ashx
+  [Wybrane skonsolidowane dane finansowe za I p├│┼érocze 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/i-polrocze/wybrane-skonsolidowane-dane-finansowe-za-i-polrocze-2025.ashx
+  [Skonsolidowane sprawozdanie finansowe Grupy Kapita┼éowej TAURON za I p├│┼érocze 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/i-polrocze/skonsolidowane-sprawozdanie-finansowe-gk-tpe-za-i-polrocze-2025.ashx
+  [Raport bieg┼éego rewidenta z przegl─ůdu skonsolidowanego sprawozdania finansowego Grupy Kapi] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/i-polrocze/raport-bieglego-rewidenta-z-przegladu-skonsolidowanego-sprawozdania-finansowego-gk-tauron-za-i-polrocze-2025.ashx
+  [Wybrane jednostkowe dane finansowe za I p├│┼érocze 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/i-polrocze/wybrane-jednostkowe-dane-finansowe-za-i-polrocze-2025.ashx
+  [Jednostkowe sprawozdanie finansowe TAURON Polska Energia S.A. za I p├│┼érocze 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/i-polrocze/jednostkowe-sprawozdanie-finansowe-tpe-za-i-polrocze-2025.ashx
+  [Raport bieg┼éego rewidenta z przegl─ůdu jednostkowego sprawozdania finansowego TAURON Polska] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/i-polrocze/raport-bieglego-rewidenta-z-przegladu-jednostkowego-sprawozdania-finansowego-tauron-polska-energia-s,-d-,a,-d-,-za-i-polrocze-2025.ash
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej TAURON za I p├│┼érocze 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/i-polrocze/sprawozdanie-zarzadu-z-dzialalnosci-gk-tpe-za-i-polrocze-2025.ashx
+  [O┼Ťwiadczenie Zarz─ůdu TAURON Polska Energia S.A.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/i-polrocze/oswiadczeniezarzadutauronpolskaenergiasa.ashx
+  [Tauron spreadsheet I p├│┼érocze 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/i-polrocze/tauron_spreadsheet_-q2_2025.ashx
+  [Kwartalna informacja finansowa za I kwarta┼é 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/i-kwartal/tauron-pe-kwartalna-informacja-finansowa-za-i-kw-2025-r.ashx
+  [Skonsolidowane sprawozdanie finansowe za I kwarta┼é 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/i-kwartal/tauron-pe-skonsolidowane-sprawozdanie-fin-za-i-kw-2025-r.ashx
+  [Pozosta┼ée informacje do raportu za I kwarta┼é 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/i-kwartal/tauron-pe-pozosta┼ée-informacje-do-raportu-za-i-kw-2025-r.ashx
+  [Tauron spreadsheet I kwarta┼é 2025 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/i-kwartal/tauron_spreadsheet_-q1-2025.ashx
+  [Jednostkowy raport roczny za 2024 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/roczny/jednostkowy-raport-roczny-za-2024-r.ashx
+  [Skonsolidowany raport roczny za 2024 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/roczny/skonsolidowany-raport-roczny-za-2024-r.ashx
+  [Skonsolidowane sprawozdanie z p┼éatno┼Ťci na rzecz administracji publicznej za 2024 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/roczny/skonsolidowane-sprawozdanie-z-platnosci-2024.ashx
+  [TAURON spreadsheet 2024 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/roczny/tauron_spreadsheet_fy2024.ashx
+  [Kwartalna informacja finansowa za III kwarta┼é 2024 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/iii-kwartal/tauron-pe-kwartalna-informacja-finansowa-za-iii-kwartal-2024-r.ashx
+  [Skonsolidowane sprawozdanie finansowe za III kwarta┼é 2024 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/iii-kwartal/tauron-pe-skonsolidowane-sprawozdanie-finansowe-za-iii-kwartal-2024-r.ashx
+  [Pozosta┼ée informacje do raportu za III kwarta┼é 2024 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/iii-kwartal/tauron-pe-pozostale-informacje-do-raportu-gkt-za-iii-kwartal-2024-r.ashx
+  [TAURON spreadsheet Q3 2024] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/iii-kwartal/tauron_spreadsheet_q3_2024.ashx
+  [Wybrane skonsolidowane dane finansowe za I p├│┼érocze 2024 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/i-polrocze/wybrane-skonsolidowane-dane-finansowe-za-i-polrocze-2024.ashx
+  [Skonsolidowane sprawozdanie finansowe Grupy Kapita┼éowej TAURON za I p├│┼érocze 2024 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/i-polrocze/skonsolidowane-sprawozdanie-finansowe-grupy-kapitalowej-tauron-za-i-polrocze-2024.ashx
+  [Raport bieg┼éego rewidenta z przegl─ůdu skonsolidowanego sprawozdania finansowego Grupy Kapi] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/i-polrocze/raport-bieglego-rewidenta-z-przegladu-skonsolidowanego-sprawozdania-finansowego-grupy-kapitalowej-tauron-za-i-p├│┼érocze-2024.ashx
+  [Wybrane jednostkowe dane finansowe za I p├│┼érocze 2024 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/i-polrocze/wybrane-jednostkowe-dane-finansowe-za-i-polrocze-2024.ashx
+  [Jednostkowe sprawozdanie finansowe TAURON Polska Energia S.A. za I p├│┼érocze 2024 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/i-polrocze/jednostkowe-sprawozdanie-finansowe-tauron-polska-energia-s-a-za-i-polrocze-2024.ashx
+  [Raport bieg┼éego rewidenta z przegl─ůdu jednostkowego sprawozdania finansowego TAURON Polska] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/i-polrocze/raport-bieglego-rewidenta-z-przegladu-jednostkowego-sprawozdania-finansowego-tauron-polska-energia-s,-d-,a,-d-,-za-i-polrocze-2024.ash
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej TAURON za I p├│┼érocze 2024 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/i-polrocze/sprawozdanie-zarzadu-z-dzialalnosci-grupy-kapitalowej-tauron-za-i-polrocze-2024.ashx
+  [O┼Ťwiadczenie Zarz─ůdu TAURON Polska Energia S.A.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/i-polrocze/owiadczenie-zarzdu-tauron-polska-energia-sa.ashx
+  [Tauron spreadsheet I p├│┼érocze 2024 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/i-polrocze/tauron_spreadsheet_q2-2024.ashx
+  [Kwartalna informacja finansowa za I kwarta┼é 2024 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/i-kwartal/tauron-pe-kwartalna-informacja-finansowa-za-i-kw-2024-r.ashx
+  [Skonsolidowane sprawozdanie finansowe za I kwarta┼é 2024 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/i-kwartal/tauron-pe-skonsolidowane-sprawozdanie-fin-za-i-kw-2024-r.ashx
+  [Pozosta┼ée informacje do raportu za I kwarta┼é 2024 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/i-kwartal/tauron-pe-pozostale-informacje-do-raportu-za-i-kw-2024-r.ashx
+  [Tauron spreadsheet I kwarta┼é 2024 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/i-kwartal/tauron_spreadsheet_q1-pl-2024.ashx
+  [Jednostkowy raport roczny za 2023 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/roczny/jednostkowy-raport-roczny_2023.ashx
+  [Skonsolidowany raport roczny za 2023 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/roczny/skonsolidowany-raport-roczny_2023.ashx
+  [Skonsolidowane sprawozdanie z p┼éatno┼Ťci na rzecz administracji publicznej za 2023 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/roczny/gktpe_sprawozdaniezplatnosci.ashx
+  [Tauron spreadsheet 2023 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/roczny/tauron_spreadsheet_rok_2023.ashx
+  [Kwartalna informacja finansowa za III kwarta┼é 2023 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/iii-kwartal/kwartalna-informacja-finansowa-za-iii-kwartal-2023-r.ashx
+  [Skonsolidowane sprawozdanie finansowe za III kwarta┼é 2023 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/iii-kwartal/skonsolidowane-sprawozdanie-finansowe-za-iii-kwartal-2023-r.ashx
+  [Pozosta┼ée informacje do raportu za III kwarta┼é 2023 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/iii-kwartal/pozostale-informacje-do-raportu-za-iii-kwartal-2023-r.ashx
+  [Tauron spreadsheet III kwarta┼é 2023 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/iii-kwartal/tauron_spreadsheet_iii_kwartal_2023.ashx
+  [Skonsolidowane sprawozdanie finansowe Grupy Kapita┼éowej TAURON za I p├│┼érocze 2023 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/i-polrocze/skonsolidowane-sprawozdanie-finansowe-gk-tpe-za-i-polr-2023.ashx
+  [Raport bieg┼éego rewidenta z przegl─ůdu skonsolidowanego sprawozdania finansowego Grupy Kapi] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/i-polrocze/raport-bieglego-rewidenta-z-przegladu-ssf-gk-tpe-za-i-polr-2023.ashx
+  [Jednostkowe sprawozdanie finansowe TAURON Polska Energia S.A. za I p├│┼érocze 2023 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/i-polrocze/jednostkowe-sprawozdanie-finansowe-tpe-za-i-polr-2023.ashx
+  [Raport bieg┼éego rewidenta z przegl─ůdu jednostkowego sprawozdania finansowego TAURON Polska] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/i-polrocze/raport-bieglego-rewidenta-z-przegladu-jsf-tpe-za-i-polr-2023.ashx
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci Grupy Kapita┼éowej TAURON za I p├│┼érocze 2023 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/i-polrocze/sprawozdanie-zarzadu-z-dzialalnosci-gk-tpe-za-i-polr-2023.ashx
+  [O┼Ťwiadczenie Zarz─ůdu TAURON Polska Energia S.A.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/i-polrocze/oswiadczenie-zarzadu-tauron-polska-energia-sa.ashx
+  [Tauron spreadsheet I p├│┼érocze 2023 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/i-polrocze/tauron_spreadsheet_q2_2023.ashx
+  [Kwartalna informacja finansowa za I kwarta┼é 2023 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/i-kwartal/kwartalna-informacja-finansowa-za-i-kwartal-2023-r.ashx
+  [Skonsolidowane sprawozdanie finansowe za I kwarta┼é 2023 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/i-kwartal/skonsolidowane-sprawozdanie-finansowe-za-i-kwartal-2023-r.ashx
+  [Pozosta┼ée informacje do raportu za I kwarta┼é 2023 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/i-kwartal/pozostale-informacje-do-raportu-za-i-kwartal-2023-r.ashx
+  [Tauron spreadsheet I kwarta┼é 2023 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/i-kwartal/tauron_spreadsheet_i_kwartal_2023.ashx
+  [Jednostkowy raport roczny za 2022 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2022/roczny/jednostkowy-raport-roczny-za-2022-r.ashx
+  [Skonsolidowany raport roczny za 2022 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2022/roczny/skonsolidowany-raport-roczny-za-2022-r.ashx
+  [Skonsolidowane sprawozdanie z p┼éatno┼Ťci na rzecz administracji publicznej za 2022 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2022/roczny/gktpe_sprawozdaniezplatnosci.ashx
+  [Tauron spreadsheet 2022 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2022/roczny/tauron_spreadsheet_2022.ashx
+  [Rozszerzony skonsolidowany raport kwartalny za III kwarta┼é 2022 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2022/iii-kwartal/rozszerzony_skonsolidowany_raport_kwartalny_za_iii_kwartal_2022_r.ashx
+  [Tauron spreadsheet III kwarta┼é 2022 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2022/iii-kwartal/tauron_spreadsheet_iii_kwartal_2022_r.ashx
+  [Rozszerzony skonsolidowany raport p├│┼éroczny za I p├│┼érocze 2022 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2022/i-polrocze/rozszerzony_skonsolidowany_raport_polroczny_za_i_polrocze_2022.ashx
+  [Tauron spreadsheet I p├│┼érocze 2022 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2022/i-polrocze/tauron_spreadsheet_i_polrocze-2022.ashx
+  [Rozszerzony skonsolidowany raport kwartalny za I kwarta┼é 2022 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2022/i-kwartal/tauron_skonsolidowany_raport_za_i_kwartal_2022.ashx
+  [Tauron spreadsheet I kwarta┼é 2022 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2022/i-kwartal/tauron_spreadsheet_q1_2022_r.ashx
+  [Jednostkowy raport roczny za 2021 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/roczny/raport_roczny_2021.ashx
+  [Skonsolidowany raport roczny za 2021 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/roczny/skonsolidowany_raport_roczny_2021.ashx
+  [Skonsolidowane sprawozdanie z p┼éatno┼Ťci na rzecz administracji publicznej za 2021 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/roczny/skonsolidowane-sprawozdanie-z-platnosci_2021.ashx
+  [Tauron spreadsheet 2021 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/roczny/tauron_spreadsheet_rok_2021_r.ashx
+  [Tauron factsheet 2021] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/roczny/tauron-factsheet-fy-2021_pl.ashx
+  [Rozszerzony skonsolidowany raport kwartalny za III kwarta┼é 2021 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/iii-kwartal/0-tauron-skons-raport-za-iii-kwartal-2021.ashx
+  [Tauron spreadsheet III kwarta┼é 2021 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/iii-kwartal/tauron_spreadsheet_iii-kwartal_2021_r.ashx
+  [Factsheet III kwarta┼é 2021 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/iii-kwartal/tauron-factsheet-q3-2021_pl.ashx
+  [Rozszerzony skonsolidowany raport p├│┼éroczny za I p├│┼érocze 2021 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/i-polrocze/tauron_skons_raport_za_i_polrocze_2021_r.ashx
+  [Tauron spreadsheet I p├│┼érocze 2021 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/i-polrocze/tauron_spreadsheet_h1_2021.ashx
+  [Rozszerzony skonsolidowany raport kwartalny za I kwarta┼é 2021 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/i-kwartal/raport_pl.ashx
+  [Tauron spreadsheet I kwarta┼é 2021 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/i-kwartal/spreadsheetzaq1_2021r.ashx
+  [Jednostkowy raport roczny za 2020 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2020/roczny/raport_roczny_2020.ashx
+  [Skonsolidowany raport roczny za 2020 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2020/roczny/skonsolidowany_raport_roczny_2020.ashx
+  [Skonsolidowane sprawozdanie z p┼éatno┼Ťci na rzecz administracji publicznej za 2020 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2020/roczny/gkpte_sprawozdaniezplatnosci.ashx
+  [Spreadsheet za 2020 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2020/roczny/spreadsheetza2020r.ashx
+  [Factsheet za 2020 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2020/roczny/tauron-factsheet-2020_pl_final.ashx
+  [Rozszerzony skonsolidowany raport kwartalny za III kwarta┼é 2020 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2020/iii-kwartal/rozszerzony_skonsolidowany_raport_kwartalny_za_iii_kwartal_2020_r.ashx
+  [Tauron spreadsheet III kwarta┼é 2020 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2020/iii-kwartal/tauron_spreadsheet_iii_kwartal_2020.ashx
+  [Rozszerzony skonsolidowany raport p├│┼éroczny za I p├│┼érocze 2020 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2020/i-polrocze/rozszerzony_skonsolidowany_raport_polroczny_za_i_polrocze_2020_r.ashx
+  [Tauron spreadsheet I p├│┼érocze 2020 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2020/i-polrocze/tauron_spreadsheet_i_polrocze_2020.ashx
+  [Rozszerzony skonsolidowany raport kwartalny za I kwarta┼é 2020 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2020/i-kwartal/rozszerzony_skonsolidowany_raport_kwartalny_za_i_kwartal_2020_r.ashx
+  [Tauron spreadsheet I kwarta┼é 2020 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2020/i-kwartal/tauron_spreadsheet_i_kwartal_2020_r.ashx
+  [Jednostkowy raport roczny za 2019 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2019/roczny/jednostkowy_raport_roczny_za_2019_r.ashx
+  [Skonsolidowany raport roczny za 2019 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2019/roczny/skonsolidowany_raport_roczny_za-2019_r.ashx
+  [Skonsolidowane sprawozdanie z p┼éatno┼Ťci na rzecz administracji publicznej za 2019 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2019/roczny/skonsolidowane_sprawozdanie_z_platnosci_na_rzecz_administracji_publicznej_za_2019_r.ashx
+  [Spreadsheet za 2019 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2019/roczny/tauron_spreadsheet_2019.ashx
+  [Factsheet za 2019 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2019/roczny/factsheet_2019_pl.ashx
+  [Rozszerzony skonsolidowany raport kwartalny za III kwarta┼é 2019 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2019/iii-kwartal/rozszerzony-skonsolidowany-raport-kwartalny-za-iii-kwartal-2019r.ashx
+  [Tauron spreadsheet III kwarta┼é 2019 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2019/iii-kwartal/tauron-spreadsheet-iii-kwartal-2019.ashx
+  [Rozszerzony skonsolidowany raport p├│┼éroczny za I p├│┼érocze 2019 r.] -> https://www.tauron.pl/-/media/offer-documents/1-polrocze-2019/rozszerzony-skonsolidowany-raport-proczny-za-i-procze-2019-r.ashx
+  [Tauron spreadsheet I p├│┼érocze 2019 r.] -> https://www.tauron.pl/-/media/offer-documents/1-polrocze-2019/tauron-spreadsheet-i-procze-2019-r.ashx
+  [Rozszerzony skonsolidowany raport kwartalny za I kwarta┼é 2019 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2019/i-kwartal/rozszerzony-skonsolidowany-raport-kwartalny-za-i-kwartal-2019.ashx
+  [Tauron spreadsheet I kwarta┼é 2019 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2019/i-kwartal/tauron-spreadsheet-i-kwartal-2019.ashx
+  [Jednostkowy raport roczny za 2018 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2018/roczne-2018/jednostkowy-raport-roczny-tauron-polska-energia-sa-za-2018-r.ashx
+  [Skonsolidowany raport roczny za 2018 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2018/roczne-2018/skonsolidowany-raport-roczny-grupy-kapitaowej-tauron-polska-energia-sa-za-2018-r.ashx
+  [Skonsolidowane sprawozdanie z p┼éatno┼Ťci na rzecz administracji publicznej za 2018 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2018/roczne-2018/skonsolidowane-sprawozdanie-z-platnosci-na-rzecz-administracji-publicznej-za-rok-zakoczony-dnia-31-grudnia-2018-r.ashx
+  [Spreadsheet za 2018 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2018/roczne-2018/tauron-spreadsheet-2018.ashx
+  [Rozszerzony skonsolidowany raport kwartalny za III kwarta┼é 2018 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2018/iii-kwartal/rozszerzony-skonsolidowany-raport-kwartalny-za-iii-kwarta-2018-r.ashx
+  [Tauron spreadsheet III kwarta┼é 2018 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2018/iii-kwartal/tauron-spreadsheet-iii-kwarta-2018-r.ashx
+  [Rozszerzony skonsolidowany raport p├│┼éroczny za I p├│┼érocze 2018 r] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2018/i-polrocze/rozszerzony-skonsolidowany-raport-polroczny-za-i-polrocze-2018-r.ashx
+  [Tauron spreadsheet I p├│┼érocze 2018 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2018/i-polrocze/tauron-spreadsheet-i-polrocze-2018-r.ashx
+  [Jednostkowe sprawozdanie finansowe za I kwarta┼é 2018 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2018/i-kwartal/jednostkowe-sprawozdanie-finansowe-za-i-kwarta-2018-r.ashx
+  [Skonsolidowane sprawozdanie finansowe za I kwarta┼é 2018 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2018/i-kwartal/skonsolidowane-sprawozdanie-finansowe-za-i-kwarta-2018-r.ashx
+  [Pozosta┼ée informacje do raportu Grupy TAURON za I kwarta┼é 2018 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2018/i-kwartal/pozostae-informacje-do-raportu-grupy-tauron-za-i-kwarta-2018-r.ashx
+  [Tauron spreadsheet I kwarta┼é 2018 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2018/i-kwartal/tauron-spreadsheet-i-kwarta-2018-r.ashx
+  [Jednostkowy raport roczny za 2017 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/roczne-za-2017/tauron-jednostkowy-raport-roczny-2017-(002).ashx
+  [Skonsolidowany raport roczny za 2017 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/roczne-za-2017/tauron-skonsolidowany-raport-roczny-2017.ashx
+  [Skonsolidowane sprawozdanie z p┼éatno┼Ťci na rzecz administracji publicznej za 2017 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/roczne-za-2017/tauron-skonsolidowane-sprawozdanie-z-platnosci.ashx
+  [Spreadsheet za 2017 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/roczne-za-2017/tauron-spreadsheet-rok-2017.ashx
+  [Jednostkowe sprawozdanie finansowe za III kwarta┼é 2017 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/rozszerzony-skonsolidowany-iii-kwartal-2017/jednostkowe-sprawozdanie-finansowe-za-iii-kwarta-2017-r.ashx
+  [Skonsolidowane sprawozdanie finansowe za III kwarta┼é 2017 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/rozszerzony-skonsolidowany-iii-kwartal-2017/skonsolidowane-sprawozdanie-finansowe-za-iii-kwarta-2017-r.ashx
+  [Pozosta┼ée informacje do raportu Grupy TAURON za III kwarta┼é 2017 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/rozszerzony-skonsolidowany-iii-kwartal-2017/pozostae-informacje-do-raportu-grupy-tauron-za-iii-kwarta-2017-r.ashx
+  [Tauron spreadsheet III kwarta┼é 2017 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/rozszerzony-skonsolidowany-iii-kwartal-2017/tauron-spreadsheet-iii-kwarta-2017-r.ashx
+  [Jednostkowe sprawozdanie finansowe za I p├│┼érocze 2017 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/rozszerzony-skonsolidowany-1-polrocze/jednostkowe-sprawozdanie-finansowe-za-i-procze-2017.ashx
+  [Skonsolidowane sprawozdanie finansowe za I p├│┼érocze 2017 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/rozszerzony-skonsolidowany-1-polrocze/skonsolidowane-sprawozdanie-finansowe-tauron-za-i-procze-2017.ashx
+  [Sprawozdanie Zarz─ůdu z dzia┼éalno┼Ťci za I p├│┼érocze 2017 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/rozszerzony-skonsolidowany-1-polrocze/sprawozdanie-zarzdu-z-dziaalnoci-za-i-procze-2017.ashx
+  [O┼Ťwiadczenia Zarz─ůdu] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/rozszerzony-skonsolidowany-1-polrocze/owiadczenia-zarzdu.ashx
+  [Raport bieg┼éego rewidenta z przegl─ůdu jednostkowego sprawozdania finansowego] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/rozszerzony-skonsolidowany-1-polrocze/raport-biegego-rewidenta-z-przegldu-jednostkowego-sprawozdania-fin.ashx
+  [Raport bieg┼éego rewidenta z przegl─ůdu skonsolidowanego sprawozdania finansowego] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/rozszerzony-skonsolidowany-1-polrocze/raport-biegego-rewidenta-z-przegldu-skonsolidowanego-sprawozdania-fin.ashx
+  [Wybrane dane finansowe za I p├│┼érocze 2017 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/rozszerzony-skonsolidowany-1-polrocze/wybrane-dane-finansowe-hi-2017.ashx
+  [Tauron spreadsheet II kwarta┼é 2017 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/rozszerzony-skonsolidowany-1-polrocze/tauron-spreadsheet-ii-kwarta-2017.ashx
+  [Jednostkowe sprawozdanie finansowe za I kwarta┼é 2017 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/rozszerzony-skonsolidowany-za-1-kwartal/jednostkowe-sprawozdanie-finansowe-za-i-kwarta-2017-r.ashx
+  [Skonsolidowane sprawozdanie finansowe za I kwarta┼é 2017 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/rozszerzony-skonsolidowany-za-1-kwartal/skonsolidowane-sprawozdanie-finansowe-za-i-kwarta-2017-r.ashx
+  [Pozosta┼ée informacje do raportu Grupy TAURON za I kwarta┼é 2017 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/rozszerzony-skonsolidowany-za-1-kwartal/tauron-pe-pozostae-informacje-do-raportu-qsr-q1-2017.ashx
+  [Tauron spreadsheet I kwarta┼é 2017 r.ÔÇőÔÇő] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2017/rozszerzony-skonsolidowany-za-1-kwartal/tauron-spreadsheet-i-kwarta-2017.ashx
+  [Jednostkowy raport roczny za 2016 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2016/raporty-roczne-za-2016/tauron_jednostkowy_raport_roczny_2016.ashx
+  [Skonsolidowany raport roczny za 2016 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2016/raporty-roczne-za-2016/tauron_skonsolidowany_raport_roczny_2016.ashx
+  [Skonsolidowane sprawozdanie z p┼éatno┼Ťci na rzecz administracji publicznej za 2016 r.ÔÇő] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2016/raporty-roczne-za-2016/tauron_skonsolidowane_sprawozdanie_z_platnosci_na_rzecz_administracji_publicznej_za_2016.ashx
+  [Spreadsheet za 2016 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2016/raporty-roczne-za-2016/tauron_spreadsheet_q42016.ashx
+  [Jednostkowe sprawozdanie finansowe za III kwarta┼é 2016 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2016/rozszerzony-skonsolidowany-3-kwartal-2016/jednostkowe-sprawozdanie-finansowe-za-iii-kwartal-2016r.ashx
+  [Skonsolidowane sprawozdanie finansowe za III kwarta┼é 2016 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2016/rozszerzony-skonsolidowany-3-kwartal-2016/skonsolidowane-sprawozdanie-finansowe-za-iii-kwartal-2016r.ashx
+  [Pozosta┼ée informacje do raportu Grupy TAURON za III kwarta┼é 2016 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2016/rozszerzony-skonsolidowany-3-kwartal-2016/pozostale-informacje-do-raportu-grupy-tauron-za-iii-kwartal-2016r.ashx
+  [Tauron spreadsheet III kwarta┼é 2016 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2016/rozszerzony-skonsolidowany-3-kwartal-2016/tauron-spreadsheet-iii-kwartal-2016r-excel.ashx
+  [Rozszerzony skonsolidowany raport p├│┼éroczny za I p├│┼érocze 2016 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2016/rozszerzony-skonsolidowany-1-polrocze/tauron_rozszerzony_skonsolidowany_raport_polroczny_2016.ashx
+  [Tauron spreadsheet I p├│┼érocze 2016 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2016/rozszerzony-skonsolidowany-1-polrocze/tauron_spreadsheet_i_polrocze_2016.ashx
+  [Jednostkowe sprawozdanie finansowe za I kwarta┼é 2016 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2016/rozszerzony-skonsolidowany-1-kwartal/tauron_pe_jednostkowe_sprawozdanie_fin_za_i_kwartal_2016.ashx
+  [Skonsolidowane sprawozdanie finansowe za I kwarta┼é 2016 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2016/rozszerzony-skonsolidowany-1-kwartal/tauron_pe_skonsolidowane_sprawozdanie_fin_za_i_kwartal_2016.ashx
+  [Pozosta┼ée informacje do raportu Grupy TAURON za I kwarta┼é 2016 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2016/rozszerzony-skonsolidowany-1-kwartal/tauron_pe_pozostale_informacje_do_raportu_za_i_kwartal_2016.ashx
+  [Tauron spreadsheet I kwarta┼é 2016 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2016/rozszerzony-skonsolidowany-1-kwartal/tauron_spreadsheet_q1_2016.ashx
+  [Jednostkowy raport roczny za 2015 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2015/raporty-roczne-za-2015/tauron_jednostkowy_raport_roczny_2015.ashx
+  [Skonsolidowany raport roczny za 2015 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2015/raporty-roczne-za-2015/tauron_skonsolidowany_raport_roczny_2015.ashx
+  [Spreadsheet za 2015 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2015/raporty-roczne-za-2015/tauron_spreadsheet_2015.ashx
+  [Jednostkowe sprawozdanie finansowe za III kwarta┼é 2015 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2015/rozszerzony-skonsolidowany-3-kwartal/tauron_jednostkowe_sprawozdanie_finansowe_za_1_3q_2015.ashx
+  [Skonsolidowane sprawozdanie finansowe za III kwarta┼é 2015 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2015/rozszerzony-skonsolidowany-3-kwartal/tauron_skonsolidowane_sprawozdanie_finansowe_za_1_3q_2015.ashx
+  [Pozosta┼ée informacje do raportu Grupy TAURON za III kwarta┼é 2015 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2015/rozszerzony-skonsolidowany-3-kwartal/tauron_pozostale_informacje_do_raportu_za_1_3q_2015.ashx
+  [Tauron spreadsheet III kwarta┼é 2015 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2015/rozszerzony-skonsolidowany-3-kwartal/tauron_spreadsheet_iii_kwartal_2015.ashx
+  [Raport p├│┼éroczny za I p├│┼érocze 2015 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2015/rozszerzony-skonsolidowany-za-1-polrocze/tauron_raport_polroczny_2015.ashx
+  [Tauron spreadsheet I p├│┼érocze 2015 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2015/rozszerzony-skonsolidowany-za-1-polrocze/tauron_spreadsheet_ii_kwartal_2015.ashx
+  [Jednostkowe sprawozdanie finansowe za I kwarta┼é 2015 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2015/rozszerzony-skonsolidowany-1-kwartal/tauron_pe_jednostkowe_sprawozdanie_finansowe_za_i_kwartal_2015.ashx
+  [Skonsolidowane sprawozdanie finansowe za I kwarta┼é 2015 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2015/rozszerzony-skonsolidowany-1-kwartal/tauron_pe_skonsolidowane_sprawozdanie_finansowe_za_i_kwartal_2015.ashx
+  [Pozosta┼ée informacje do raportu Grupy TAURON za I kwarta┼é 2015 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2015/rozszerzony-skonsolidowany-1-kwartal/tauron_pe_pozostale_informacje_do_skonsolidaowanego_raportu_za_1_kwartal_2015.ashx
+  [Tauron spreadsheet I kwarta┼é 2015 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2015/rozszerzony-skonsolidowany-1-kwartal/tauron_spreadsheet_i_kwartal_2015.ashx
+  [Jednostkowy raport roczny za 2014 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2014/raporty-roczne-za-2014/tauron_jednostkowy_raport_roczny_2014.ashx
+  [Skonsolidowany raport roczny za 2014 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2014/raporty-roczne-za-2014/tauron_skonsolidowany_raport_roczny_2014.ashx
+  [Spreadsheet za 2014 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2014/raporty-roczne-za-2014/tauron_spreadsheet_rok-2014.ashx
+  [Jednostkowe sprawozdanie finansowe za III kwarta┼é 2014 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2014/rozszerzony-skonsolidowany-za-3-kwartal/jednostkowe_sprawozdanie_finansowe_za_iii_kwartal_2014_r.ashx
+  [Skonsolidowane sprawozdanie finansowe za III kwarta┼é 2014 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2014/rozszerzony-skonsolidowany-za-3-kwartal/skonsolidowane_sprawozdanie_finansowe_za_iii_kwartal_2014_r.ashx
+  [Pozosta┼ée informacje do raportu Grupy TAURON za III kwarta┼é 2014 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2014/rozszerzony-skonsolidowany-za-3-kwartal/pozostale_informacje_do_raportu_grupy_tauron_za_iii_kwartal_2014_r.ashx
+  [Tauron spreadsheet III kwarta┼é 2014 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2014/rozszerzony-skonsolidowany-za-3-kwartal/tauron_spreadsheet_iii_kwartal_2014_r.ashx
+  [Raport p├│┼éroczny za I p├│┼érocze 2014 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2014/rozszerzony-skonsolidowany-za-1-polrocze/raport_polroczny_za_i_polrocze_2014_r.ashx
+  [Tauron spreadsheet I p├│┼érocze 2014 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2014/rozszerzony-skonsolidowany-za-1-polrocze/tauron_spreadsheet_i_polrocze_2014.ashx
+  [Jednostkowe sprawozdanie finansowe za I kwarta┼é 2014 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2014/rozszerzony-skonsolidowany-za-1-kwartal/jednostkowe_sprawozdanie_finansowe_za_i_kwartal_2014r.ashx
+  [Skonsolidowane sprawozdanie finansowe za I kwarta┼é 2014 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2014/rozszerzony-skonsolidowany-za-1-kwartal/skonsolidowane_sprawozdanie_finansowe_za_i_kwartal_2014r.ashx
+  [Pozosta┼ée informacje do raportu Grupy TAURON za I kwarta┼é 2014 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2014/rozszerzony-skonsolidowany-za-1-kwartal/pozostae-informacje-do-raportu-grupy-tauron-za-i-kwarta-2014-r.ashx
+  [Tauron spreadsheet I kwarta┼é 2014 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2014/rozszerzony-skonsolidowany-za-1-kwartal/spreadsheet_i_kwartal_2014r.ashx
+  [Jednostkowy raport roczny za 2013 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2013/raporty-roczne-za-2013/tauron_jednostkowy_raport_roczny_2013.ashx
+  [Skonsolidowany raport roczny 2013 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2013/raporty-roczne-za-2013/tauron_skonsolidowany_raport_roczny_2013.ashx
+  [Spreadsheet za 2013 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2013/raporty-roczne-za-2013/tauron_spreadsheet_rok-2013_i_4q_2013_final.ashx
+  [Jednostkowe sprawozdanie finansowe za III kwarta┼é 2013 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2013/rozszerzony-skonsolidowany-za-3-kwartal/tauron_pe_jednostkowe_sprawozdanie_finansowe_q3_2013.ashx
+  [Skonsolidowane sprawozdanie finansowe za III kwarta┼é 2013 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2013/rozszerzony-skonsolidowany-za-3-kwartal/tauron_pe_skonsolidowane_sprawozdanie_finansowe_2013_q3.ashx
+  [Pozostale informacje do raportu Grupy TAURON za III kwarta┼é 2013 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2013/rozszerzony-skonsolidowany-za-3-kwartal/pozostale_informacje_do_raportu_grupy_tauron_za_3q_2013.ashx
+  [Tauron spreadsheet III kwarta┼é 2013 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2013/rozszerzony-skonsolidowany-za-3-kwartal/tauron_spreadsheet_2013_11_14.ashx
+  [Raport p├│┼éroczny za I p├│┼érocze 2013 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2013/rozszerozony-skonsolidowany-za-1-polrocze/tauron_raport-polroczny_pl.ashx
+  [Wybrane dane finansowe za I p├│┼érocze 2013 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2013/rozszerozony-skonsolidowany-za-1-polrocze/wybrane-dane-finansowe-za-i-procze-2013.ashx
+  [Jednostkowe sprawozdanie finansowe za I kwarta┼é 2013 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2013/rozszerzony-skonsolidowany-1-kwartal/tauron_pe_jednostkowe_sprawozdanie_finansowe_za_i_kwartal_2013.ashx
+  [Skonsolidowane sprawozdanie finansowe za I kwarta┼é 2013 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2013/rozszerzony-skonsolidowany-1-kwartal/tauron_pe_skonsolidowane_sprawozdanie_finansowe_za_i_kwartal_2013.ashx
+  [Pozosta┼ée informacje do raportu Grupy TAURON za I kwarta┼é 2013 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2013/rozszerzony-skonsolidowany-1-kwartal/pozostale-informacje-do-raportu-grupy-tauron-za-1q-2013.ashx
+  [Wybrane dane finansowe za I kwarta┼é 2013 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2013/rozszerzony-skonsolidowany-1-kwartal/wybrane-dane-finansowe-i-kwarta-2013.ashx
+  [Jednostkowy raport roczny za 2012 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2012/raporty-roczne-za-2012/tauron_jednostkowy_raport_roczny_2012.ashx
+  [Skonsolidowany raport roczny za 2012 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2012/raporty-roczne-za-2012/tauron_skonsolidowany_raport_roczny_2012.ashx
+  [Wybrane dane finansowe za 2012 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2012/raporty-roczne-za-2012/wybrane_dane_finansowe_rok_2012_skonsolidowane.ashx
+  [Jednostkowe sprawozdanie finansowe za III kwarta┼é 2012 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2012/rozszerzony-skonsolidowany-za-3-kwartal/jednostkowe-sprawozdanie-fin-tauron-za-3q-2012.ashx
+  [Skonsolidowane sprawozdanie finansowe za III kwarta┼é 2012 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2012/rozszerzony-skonsolidowany-za-3-kwartal/skons-sprawozdanie-fin-grupy-tauron-za-3q-2012.ashx
+  [Pozosta┼ée informacje do raportu Grupy TAURON za III kwarta┼é 2012 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2012/rozszerzony-skonsolidowany-za-3-kwartal/pozostale-informacje-do-raportu-grupy-tauron-za-3q-2012.ashx
+  [Wybrane dane finansowe za III kwarta┼é 2012 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2012/rozszerzony-skonsolidowany-za-3-kwartal/tpe-wybrane-dane-finansowe-iii-q-2012.ashx
+  [Raport p├│┼éroczny 2012 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2012/rozszerzony-skonsolidowany-1-polrocze/raport-polroczny-grupy-kapitalowej-tpe-22-08-2012.ashx
+  [Wybrane dane finansowe za I p├│┼érocze 2012 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2012/rozszerzony-skonsolidowany-1-polrocze/wybrane-dane-finansowe-za-i-polrocze-2012r.ashx
+  [Jednostkowe sprawozdanie finansowe za I kwarta┼é 2012 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2012/rozszerzony-skonsolidowany-za-1-kwartal/tauron-pe-jednostkowe-sprawozdanie-finansowe_2012_q1_pl.ashx
+  [Skonsolidowane sprawozdanie finansowe za I kwarta┼é 2012 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2012/rozszerzony-skonsolidowany-za-1-kwartal/tauron-pe-skonsolidowane-sprawozdanie-finansowe_2012_q1_pl.ashx
+  [Pozosta┼ée informacje do raportu Grupy TAURON za I kwarta┼é 2012 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2012/rozszerzony-skonsolidowany-za-1-kwartal/pozostale-informacje-do-raportu-grupy-tauron-za-i-kwarta-2012.ashx
+  [Jednostkowy raport roczny za 2011 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2011/raporty-roczne-za-2011-rok/pl-jednostkowy-raport-roczny-tauron-2011.ashx
+  [Skonsolidowany raport roczny za 2011 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2011/raporty-roczne-za-2011-rok/pl-skonsolidaowny-raport-roczny-tauron-2011.ashx
+  [Jednostkowe sprawozdanie finansowe za III kwarta┼é 2011 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2011/skosolidowany-za-3-kwartal/tauron-pe-jednostkowe-sprawozdanie-finansowe-qiii-2011.ashx
+  [Skonsolidowane sprawozdanie finansowe za III kwarta┼é 2011 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2011/skosolidowany-za-3-kwartal/tauron-pe-skonsolidowane-sprawozdanie-finansowe-qiii-2011.ashx
+  [Pozostale informacje do raportu Grupy TAURON za III kwarta┼é 2011 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2011/skosolidowany-za-3-kwartal/pozostale-informacje-do-raportu-grupy-tauron-za-qiii-2011.ashx
+  [Raport p├│┼éroczny 2011 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2011/skonsolidowany-1-polrocze/tauron_h1_2011_pl.ashx
+  [Jednostkowe sprawozdanie finansowe za I kwarta┼é 2011 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2011/raporty-roczne-za-2011/tauron-pe-jednostkowe-sprawozdanie-finansowe-za-1-kwartal-2011.ashx
+  [Skonsolidowane sprawozdanie finansowe za I kwarta┼é 2011 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2011/raporty-roczne-za-2011/tauron-pe-skonsolidowane-sprawozdanie-finansowe-za-1-kwartal-2011.ashx
+  [Pozosta┼ée informacje do raportu Grupy TAURON za I kwarta┼é 2011 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2011/raporty-roczne-za-2011/pozostale-informacje-do-raportu-grupy-tauron-za-1-kwartal-2011.ashx
+  [Jednostkowy raport roczny za 2010 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2010/raporty-roczne-za-2010/jednostkowy-raport-roczny-tauron-polska-energia-sa-za-2010-rok.ashx
+  [Skonsolidowany raport roczny za 2010 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2010/raporty-roczne-za-2010/skonsolidowany-raport-roczny-grupy-kapitaowej-tauron-polska-energia-sa-za-2010-rok.ashx
+  [Jednostkowe sprawozdanie finansowe za III kwarta┼é 2010 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2010/rozszerzony-skonsolidowany-raport-iii-kwartal/tauron-pe-jednostkowe-sprawozdanie-finansowe_2010_q3.ashx
+  [Skonsolidowane sprawozdanie finansowe za III kwarta┼é 2010 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2010/rozszerzony-skonsolidowany-raport-iii-kwartal/tauron-pe-skonsolidowane-sprawozdanie-finansowe-_2010_q3.ashx
+  [Informacja dodatkowa do raportu kwartalnego za III kwarta┼é 2010 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2010/rozszerzony-skonsolidowany-raport-iii-kwartal/2010-11-08-informacja-dodatkowa_pl.ashx
+  [Raport p├│┼éroczny 2010 r.] -> https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2010/rozszerzony-skonsolidowany-raport-polroczny-za-2010/raport-proczny-2010.ashx
+
+########## ENA listing ##########
+
+=== https://ir.enea.pl/lista-raportow/kategoria/3612/raporty-okresowe?pageLimit=100
+html_len 184460
+  [2025] -> https://ir.enea.pl/lista-raportow/kategoria/3612/raporty-okresowe?from=2025-01-01T01:00:00Z&to=2026-01-01T01:00:00Z
+  [2024] -> https://ir.enea.pl/lista-raportow/kategoria/3612/raporty-okresowe?from=2024-01-01T01:00:00Z&to=2025-01-01T01:00:00Z
+  [2023] -> https://ir.enea.pl/lista-raportow/kategoria/3612/raporty-okresowe?from=2023-01-01T01:00:00Z&to=2024-01-01T01:00:00Z
+  [2022] -> https://ir.enea.pl/lista-raportow/kategoria/3612/raporty-okresowe?from=2022-01-01T01:00:00Z&to=2023-01-01T01:00:00Z
+  [2021] -> https://ir.enea.pl/lista-raportow/kategoria/3612/raporty-okresowe?from=2021-01-01T01:00:00Z&to=2022-01-01T01:00:00Z
+  [2020] -> https://ir.enea.pl/lista-raportow/kategoria/3612/raporty-okresowe?from=2020-01-01T01:00:00Z&to=2021-01-01T01:00:00Z
+  [2019] -> https://ir.enea.pl/lista-raportow/kategoria/3612/raporty-okresowe?from=2019-01-01T01:00:00Z&to=2020-01-01T01:00:00Z
+  [20   maj   2026              17:15                Skonsolidowany raport kwartalny QSr 1 / ] -> https://ir.enea.pl/pr/870248/skonsolidowany-raport-kwartalny-qsr-1-2026
+  [13   kwi   2026              18:24                Skonsolidowane sprawozdanie z p┼éatno┼Ťci ] -> https://ir.enea.pl/pr/867994/nie-ustalono
+  [13   kwi   2026              18:20                Skonsolidowany raport roczny  SRR 2025] -> https://ir.enea.pl/pr/867993/skonsolidowany-raport-roczny-srr-2025
+  [13   kwi   2026              17:57                Raport roczny  RR 2025] -> https://ir.enea.pl/pr/867990/raport-roczny-rr-2025
+  [18   lis   2025              17:18                Skonsolidowany raport kwartalny QSr 3 / ] -> https://ir.enea.pl/pr/860911/skonsolidowany-raport-kwartalny-qsr-3-2025
+  [08   wrz   2025              17:36                Skonsolidowany raport p├│┼éroczny  PSr 202] -> https://ir.enea.pl/pr/857424/skonsolidowany-raport-polroczny-psr-2025
+  [20   maj   2025              20:15                Skonsolidowany raport kwartalny QSr 1 / ] -> https://ir.enea.pl/pr/852021/skonsolidowany-raport-kwartalny-qsr-1-2025
+  [09   kwi   2025              20:12                Skonsolidowane sprawozdanie z p┼éatno┼Ťci ] -> https://ir.enea.pl/pr/850127/skonsolidowane-sprawozdanie-z-platnosci-na-rzecz-administracji-publicznej-w-2024-r
+  [09   kwi   2025              19:40                Skonsolidowany raport roczny  SRR 2024] -> https://ir.enea.pl/pr/850126/skonsolidowany-raport-roczny-srr-2024
+  [09   kwi   2025              19:22                Raport roczny  RR 2024] -> https://ir.enea.pl/pr/850124/raport-roczny-rr-2024
+  [20   lis   2024              18:12                Skonsolidowany raport kwartalny QSr 3 / ] -> https://ir.enea.pl/pr/843935/skonsolidowany-raport-kwartalny-qsr-3-2024
+  [18   wrz   2024              17:16                Skonsolidowany raport p├│┼éroczny  PSr 202] -> https://ir.enea.pl/pr/840698/skonsolidowany-raport-polroczny-psr-2024
+  [22   maj   2024              17:13                Skonsolidowany raport kwartalny QSr 1 / ] -> https://ir.enea.pl/pr/834395/skonsolidowany-raport-kwartalny-qsr-1-2024
+  [17   kwi   2024              18:50                Skonsolidowane sprawozdanie z p┼éatno┼Ťci ] -> https://ir.enea.pl/pr/832499/skonsolidowane-sprawozdanie-z-platnosci-na-rzecz-administracji-publicznej-w-2023-r
+  [17   kwi   2024              18:43                Skonsolidowany raport roczny  SRR 2023] -> https://ir.enea.pl/pr/832498/skonsolidowany-raport-roczny-srr-2023
+  [17   kwi   2024              18:31                Raport roczny  RR 2023] -> https://ir.enea.pl/pr/832496/raport-roczny-rr-2023
+  [22   lis   2023              20:02                Skonsolidowany raport kwartalny  QSr 3 /] -> https://ir.enea.pl/pr/824470/skonsolidowany-raport-kwartalny-qsr-3-2023
+  [13   wrz   2023              23:45                Skonsolidowany raport p├│┼éroczny  PSr 202] -> https://ir.enea.pl/pr/819642/skonsolidowany-raport-polroczny-psr-2023
+  [24   maj   2023              19:55                Skonsolidowany raport kwartalny QSr 1 / ] -> https://ir.enea.pl/pr/808144/skonsolidowany-raport-kwartalny-qsr-1-2023
+  [22   mar   2023              22:07                Skonsolidowane sprawozdanie z p┼éatno┼Ťci ] -> https://ir.enea.pl/pr/797792/skonsolidowane-sprawozdanie-z-platnosci-na-rzecz-administracji-publicznej-w-2022-r
+  [22   mar   2023              22:01                Skonsolidowany raport roczny  SRR 2022] -> https://ir.enea.pl/pr/797791/skonsolidowany-raport-roczny-srr-2022
+  [22   mar   2023              21:54                Raport roczny  RR 2022] -> https://ir.enea.pl/pr/797790/raport-roczny-rr-2022
+  [23   lis   2022              17:33                Skonsolidowany raport kwartalny QSr 3 / ] -> https://ir.enea.pl/pr/779452/skonsolidowany-raport-kwartalny-qsr-3-2022
+  [14   wrz   2022              18:37                Skonsolidowany raport p├│┼éroczny  PSr 202] -> https://ir.enea.pl/pr/766692/skonsolidowany-raport-polroczny-psr-2022
+  [24   maj   2022              20:11                Skonsolidowany raport kwartalny QSr 1 / ] -> https://ir.enea.pl/pr/745885/skonsolidowany-raport-kwartalny-qsr-1-2022
+  [23   mar   2022              20:28                Skonsolidowane sprawozdanie z p┼éatno┼Ťci ] -> https://ir.enea.pl/pr/733548/skonsolidowane-sprawozdanie-z-platnosci-na-rzecz-administracji-publicznej-w-2021-r
+  [23   mar   2022              19:53                Skonsolidowany raport roczny  SRR 2021] -> https://ir.enea.pl/pr/733533/skonsolidowany-raport-roczny-srr-2021
+  [23   mar   2022              19:48                Raport roczny  RR 2021] -> https://ir.enea.pl/pr/733532/raport-roczny-rr-2021
+  [25   lis   2021              17:34                Skonsolidowany raport kwartalny QSr 3 / ] -> https://ir.enea.pl/pr/710811/skonsolidowany-raport-kwartalny-qsr-3-2021
+  [16   wrz   2021              17:35                Skonsolidowany raport p├│┼éroczny  PSr 202] -> https://ir.enea.pl/pr/694486/skonsolidowany-raport-polroczny-psr-2021
+  [27   maj   2021              17:32                Skonsolidowany raport kwartalny QSr 1 / ] -> https://ir.enea.pl/pr/670263/skonsolidowany-raport-kwartalny-qsr-1-2021
+  [25   mar   2021              20:20                Skonsolidowane sprawozdanie z p┼éatno┼Ťci ] -> https://ir.enea.pl/pr/656147/skonsolidowane-sprawozdanie-z-platnosci-na-rzecz-administracji-publicznej-za-2020-rok
+  [25   mar   2021              20:15                Skonsolidowany raport roczny  SRR 2020] -> https://ir.enea.pl/pr/656146/skonsolidowany-raport-roczny-srr-2020
+  [25   mar   2021              20:09                Raport roczny RR 2020] -> https://ir.enea.pl/pr/656145/raport-roczny-rr-2020
+  [26   lis   2020              17:44                Skonsolidowany raport kwartalny QSr 3 / ] -> https://ir.enea.pl/pr/602328/skonsolidowany-raport-kwartalny-qsr-3-2020
+  [03   wrz   2020              18:54                Skonsolidowany raport p├│┼éroczny  PSr 202] -> https://ir.enea.pl/pr/562577/skonsolidowany-raport-polroczny-psr-2020
+  [18   cze   2020              17:35                Skonsolidowany raport kwartalny QSr 1 / ] -> https://ir.enea.pl/pr/528431/skonsolidowany-raport-kwartalny-qsr-1-2020
+  [04   cze   2020              18:11                Skonsolidowane Sprawozdanie z p┼éatno┼Ťci ] -> https://ir.enea.pl/pr/521987/skonsolidowane-sprawozdanie-z-platnosci-na-rzecz-administracji-publicznej-w-2019-r
+  [04   cze   2020              18:05                Skonsolidowany raport roczny  RS 2019] -> https://ir.enea.pl/pr/521986/skonsolidowany-raport-roczny-rs-2019
+  [04   cze   2020              17:55                Raport roczny  R 2019] -> https://ir.enea.pl/pr/521977/raport-roczny-r-2019
+  [21   lis   2019              07:09                Skonsolidowany raport kwartalny QSr 3 / ] -> https://ir.enea.pl/pr/472963/skonsolidowany-raport-kwartalny-qsr-3-2019
+  [30   wrz   2019              06:52                Skonsolidowany raport p├│┼éroczny  PSr 201] -> https://ir.enea.pl/pr/464214/skonsolidowany-raport-polroczny-psr-2019
+  [29   maj   2019              06:37                Skonsolidowany raport kwartalny QSr 1 / ] -> https://ir.enea.pl/pr/441707/skonsolidowany-raport-kwartalny-qsr-1-2019
+  [23   lis   2018              06:37                Skonsolidowany raport kwartalny QSr 3 / ] -> https://ir.enea.pl/pr/412054/skonsolidowany-raport-kwartalny-qsr-3-2018
+  [13   wrz   2018              07:26                Skonsolidowany raport p├│┼éroczny  PSr 201] -> https://ir.enea.pl/pr/402142/skonsolidowany-raport-polroczny-psr-2018
+  [24   maj   2018              07:23                Skonsolidowany raport kwartalny QSr 1 / ] -> https://ir.enea.pl/pr/392091/skonsolidowany-raport-kwartalny-qsr-1-2018
+  [23   lis   2017              06:34                Skonsolidowany raport kwartalny QSr 3 / ] -> https://ir.enea.pl/pr/376943/skonsolidowany-raport-kwartalny-qsr-3-2017
+  [07   wrz   2017              21:15                Skonsolidowany raport p├│┼éroczny  PSr 201] -> https://ir.enea.pl/pr/368395/skonsolidowany-raport-polroczny-psr-2017-2017-09-08
+  [25   maj   2017              06:45                Skonsolidowany raport kwartalny QSr 1 / ] -> https://ir.enea.pl/pr/356285/skonsolidowany-raport-kwartalny-qsr-1-2017
+  [10   lis   2016              06:37                Skonsolidowany raport kwartalny QSr 3 / ] -> https://ir.enea.pl/pr/334647/skonsolidowany-raport-kwartalny-qsr-3-2016-334647
+  [26   sie   2016              06:46                Skonsolidowany raport p├│┼éroczny  PSr 201] -> https://ir.enea.pl/pr/324835/skonsolidowany-raport-polroczny-psr-2016
+  [16   maj   2016              06:32                Skonsolidowany raport kwartalny QSr 1 / ] -> https://ir.enea.pl/pr/316646/skonsolidowany-raport-kwartalny-qsr-1-2016
+  [16   lis   2015              17:56                Skonsolidowany raport kwartalny QSr 3 / ] -> https://ir.enea.pl/pr/303867/skonsolidowany-raport-kwartalny-qsr-3-2015
+  [28   sie   2015              07:00                Skonsolidowany raport p├│┼éroczny  PSr 201] -> https://ir.enea.pl/pr/300193/skonsolidowany-raport-polroczny-psr-2015
+  [15   maj   2015              06:39                Skonsolidowany raport kwartalny QSr 1 / ] -> https://ir.enea.pl/pr/295664/skonsolidowany-raport-kwartalny-qsr-1-2015
+  [12   lis   2014              06:20                Rozszerzony skonsolidowany raport kwarta] -> https://ir.enea.pl/pr/290939/rozszerzony-skonsolidowany-raport-kwartalny-gk-enea-za-iii-kwartal-2014-r
+  [27   sie   2014              06:44                Rozszerzony skonsolidowany raport p├│┼éroc] -> https://ir.enea.pl/pr/290932/rozszerzony-skonsolidowany-raport-polroczny-grupy-kapitalowej-enea-za-i-polrocze-2014-r
+  [13   maj   2014              06:23                Rozszerzony skonsolidowany raport kwarta] -> https://ir.enea.pl/pr/290921/rozszerzony-skonsolidowany-raport-kwartalny-grupy-kapitalowej-enea-za-i-kwartal-2014-r
+  [13   lis   2013              06:27                Rozszerzony skonsolidowany raport kwarta] -> https://ir.enea.pl/pr/290853/rozszerzony-skonsolidowany-raport-kwartalny-grupy-kapitalowej-enea-za-iii-kwartal-2013-r
+  [27   sie   2013              06:23                Rozszerzony skonsolidowany raport p├│┼éroc] -> https://ir.enea.pl/pr/290846/rozszerzony-skonsolidowany-raport-polroczny-grupy-kapitalowej-enea-za-i-polrocze-2013-r
+  [15   maj   2013              05:16                Rozszerzony skonsolidowany raport kwarta] -> https://ir.enea.pl/pr/290831/rozszerzony-skonsolidowany-raport-kwartalny-grupy-kapitalowej-enea-za-i-kwartal-2013-r
+  [14   lis   2012              05:20                Rozszerzony skonsolidowany raport kwarta] -> https://ir.enea.pl/pr/290760/rozszerzony-skonsolidowany-raport-kwartalny-grupy-kapitalowej-enea-za-iii-kwartal-2012-r
+  [30   sie   2012              05:52                Rozszerzony skonsolidowany raport p├│┼éroc] -> https://ir.enea.pl/pr/290733/rozszerzony-skonsolidowany-raport-polroczny-grupy-kapitalowej-enea-za-i-polrocze-2012-r
+  [14   maj   2012              05:08                Rozszerzony skonsolidowany raport kwarta] -> https://ir.enea.pl/pr/290700/rozszerzony-skonsolidowany-raport-kwartalny-grupy-kapitalowej-enea-za-i-kwartal-2012-r
+  [29   lut   2012              05:15                Rozszerzony skonsolidowany raport kwarta] -> https://ir.enea.pl/pr/290677/rozszerzony-skonsolidowany-raport-kwartalny-grupy-kapitalowej-enea-za-iv-kwartal-2011-r
+  [14   lis   2011              06:54                Rozszerzony skonsolidowany raport kwarta] -> https://ir.enea.pl/pr/290645/rozszerzony-skonsolidowany-raport-kwartalny-grupy-kapitalowej-enea-za-iii-kwartal-2011-r
+  [29   sie   2011              06:48                Rozszerzony skonsolidowany raport p├│┼éroc] -> https://ir.enea.pl/pr/290636/rozszerzony-skonsolidowany-raport-polroczny-grupy-kapitalowej-enea-za-i-polrocze-2011-r
+  [16   maj   2011              06:41                Rozszerzony skonsolidowany raport kwarta] -> https://ir.enea.pl/pr/290617/rozszerzony-skonsolidowany-raport-kwartalny-grupy-kapitalowej-enea-za-i-kwartal-2011-r
+  [01   mar   2011              00:16                Rozszerzony skonsolidowany raport kwarta] -> https://ir.enea.pl/pr/290602/rozszerzony-skonsolidowany-raport-kwartalny-grupy-kapitalowej-enea-za-iv-kwartal-2010-r
+  [15   lis   2010              06:11                Rozszerzony skonsolidowany raport kwarta] -> https://ir.enea.pl/pr/290575/rozszerzony-skonsolidowany-raport-kwartalny-grupy-kapitalowej-enea-za-iii-kw-2010-r
+  [27   sie   2010              06:28                Rozszerzony skonsolidowany raport p├│┼éroc] -> https://ir.enea.pl/pr/290562/rozszerzony-skonsolidowany-raport-polroczny-grupy-kapitalowej-enea-za-i-polrocze-2010-r
+  [17   maj   2010              06:58                Rozszerzony skonsolidowany raport kwarta] -> https://ir.enea.pl/pr/290555/rozszerzony-skonsolidowany-raport-kwartalny-grupy-kapitalowej-enea-za-i-kwartal-2010-r
+  [16   lis   2009              07:04                Rozszerzony skonsolidowany raport kwarta] -> https://ir.enea.pl/pr/290476/rozszerzony-skonsolidowany-raport-kwartalny-grupy-kapitalowej-enea-za-iii-kwartal-2009-r
+  [31   sie   2009              05:10                Rozszerzony skonsolidowany raport p├│┼éroc] -> https://ir.enea.pl/pr/290459/rozszerzony-skonsolidowany-raport-polroczny-grupy-kapitalowej-enea-za-i-polrocze-2009-r
+  [15   maj   2009              07:48                Rozszerzony skonsolidowany raport kwarta] -> https://ir.enea.pl/pr/290414/rozszerzony-skonsolidowany-raport-kwartalny-grupy-kapitalowej-enea-za-i-kwartal-2009-r

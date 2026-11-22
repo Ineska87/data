@@ -1,0 +1,14 @@
+{
+  "n_events": 2546,
+  "n_events_2020_2025": 2228,
+  "n_case_flagged_events": 38,
+  "n_case_rows": 52,
+  "n_case_matched": 45,
+  "n_panel": 168,
+  "n_panel_with_tone_and_car": 74,
+  "benchmarks": {
+    "WIG-energia": 1051,
+    "WIG": 1031,
+    "WIG-paliwa": 464
+  }
+}

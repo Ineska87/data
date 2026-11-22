@@ -1,0 +1,225 @@
+{
+  "scope": "Prezentacje wynikowe TPE/ENA/ZEP/UNT/JSW 2020-2025",
+  "downloaded_at": "2026-07-20T18:25:08.676715+00:00",
+  "n_ok": 27,
+  "n_fail": 4,
+  "files": [
+    {
+      "ticker": "TPE",
+      "file": "TPE_2020_H1_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2020/prezentacja_wynikow_za_i_polrocze_2020_r.ashx",
+      "status": "ok",
+      "bytes": 1463142
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2020_Q1_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2020/prezentacja_wynikow_za_i_kwartal_2020_r.ashx",
+      "status": "ok",
+      "bytes": 1356115
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2020_Q3_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2020/prezentacja_wynikowa_iii_kwartal_2020_r.ashx",
+      "status": "ok",
+      "bytes": 1493862
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2021_H1_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2021/prezentacja_wynikow_za_i_polrocze_2021.ashx",
+      "status": "ok",
+      "bytes": 1620436
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2021_Q1_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2021/prezentacja_wynikow_za_i_kwartal_2021_r.ashx",
+      "status": "ok",
+      "bytes": 1237058
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2021_Q3_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2021/prezentacja_q3_2021.ashx",
+      "status": "ok",
+      "bytes": 1651011
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2022_H1_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2022/gielda_h12022_clean_act-8-09.ashx",
+      "status": "ok",
+      "bytes": 2024205
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2022_Q1_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2022/giełda_q1_2022_clean.ashx",
+      "status": "fail",
+      "error": "'ascii' codec can't encode character '\\u0142' in position 56: ordinal not in range(128)"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2022_Q3_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2022/tauron-prezentacja-q3-2022.ashx",
+      "status": "ok",
+      "bytes": 2021764
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2023_H1_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2023/tauron_prezentacja_h12023.ashx",
+      "status": "ok",
+      "bytes": 1444802
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2023_Q1_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2023/prezentacja-wynikow-za-i-kwartal-2023-r.ashx",
+      "status": "ok",
+      "bytes": 1616008
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2023_Q3_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2023/tauron-prezentacja-q32023.ashx",
+      "status": "ok",
+      "bytes": 1566428
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2024_H1_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2024/giełda_h1_2024_pl.ashx",
+      "status": "fail",
+      "error": "'ascii' codec can't encode character '\\u0142' in position 56: ordinal not in range(128)"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2024_Q1_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2024/gielda-q1-2024-clean.ashx",
+      "status": "ok",
+      "bytes": 1992693
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2024_Q3_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2024/prezentacja-wynikow-za-iii-kwartał-2024-r.ashx",
+      "status": "fail",
+      "error": "'ascii' codec can't encode character '\\u0142' in position 86: ordinal not in range(128)"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2025_H1_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2025/prezentacja_wynikow__h1_2025.ashx",
+      "status": "ok",
+      "bytes": 3804759
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2025_Q1_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2025/prezentacja-wynikow-za-i-kwartal-2025-r.ashx",
+      "status": "ok",
+      "bytes": 1924578
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2025_Q3_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2025/prezentacja-wyników-za-iii-kwartał-2025-r.ashx",
+      "status": "fail",
+      "error": "'ascii' codec can't encode character '\\xf3' in position 70: ordinal not in range(128)"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2025_Q4_prezentacja.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/prezentacje/2025/prezentacja-wynikowa-za-fy2025_pln.ashx",
+      "status": "ok",
+      "bytes": 3330445
+    },
+    {
+      "ticker": "UNT",
+      "file": "UNT_2020_Q1_prezentacja.pdf",
+      "url": "https://www.unimot.pl/media/1080/download/2020-05-19_prezentacja_wyniki-finansowe-za-1q2020.pdf?v=1",
+      "status": "ok",
+      "bytes": 2278210
+    },
+    {
+      "ticker": "UNT",
+      "file": "UNT_2020_Q3_prezentacja.pdf",
+      "url": "https://www.unimot.pl/media/2620/download/2020-11-17_prezentacja_wyniki-finansowe-za-3q2020-1.pdf?v=1",
+      "status": "ok",
+      "bytes": 2792849
+    },
+    {
+      "ticker": "UNT",
+      "file": "UNT_2020_Q4_prezentacja.pdf",
+      "url": "https://www.unimot.pl/media/1072/download/2021-03-23_prezentacja_wyniki-finansowe-za-2020fy.pdf?v=1",
+      "status": "ok",
+      "bytes": 2679116
+    },
+    {
+      "ticker": "UNT",
+      "file": "UNT_2021_Q1_prezentacja.pdf",
+      "url": "https://www.unimot.pl/media/1070/download/2021-05-19_prezentacja_wyniki-finansowe-za-1q21.pdf?v=1",
+      "status": "ok",
+      "bytes": 2571123
+    },
+    {
+      "ticker": "UNT",
+      "file": "UNT_2021_Q3_prezentacja.pdf",
+      "url": "https://www.unimot.pl/media/1061/download/2021-11-16-prezentacja-wyniki-finansowe-za-3q21-1.pdf?v=1",
+      "status": "ok",
+      "bytes": 2137615
+    },
+    {
+      "ticker": "UNT",
+      "file": "UNT_2021_Q4_prezentacja.pdf",
+      "url": "https://www.unimot.pl/media/1058/download/2022-03-31-prezentacja-wyniki-finansowe-za-2021fy-inv2-2.pdf?v=1",
+      "status": "ok",
+      "bytes": 2607116
+    },
+    {
+      "ticker": "UNT",
+      "file": "UNT_2022_Q1_prezentacja.pdf",
+      "url": "https://www.unimot.pl/media/1056/download/prezentacja-wyniki-finansowe-za-1q2022.pdf?v=1",
+      "status": "ok",
+      "bytes": 2393159
+    },
+    {
+      "ticker": "UNT",
+      "file": "UNT_2022_Q3_prezentacja.pdf",
+      "url": "https://www.unimot.pl/media/1053/download/prezentacja-wyniki-finansowe-za-3q2022.pdf?v=1",
+      "status": "skip_exists",
+      "bytes": 1518577
+    },
+    {
+      "ticker": "UNT",
+      "file": "UNT_2023_Q1_prezentacja.pdf",
+      "url": "https://www.unimot.pl/media/2608/download/prezentacja-wyniki-finansowe-za-1q2023-pl-en-ir-1.pdf?v=1",
+      "status": "skip_exists",
+      "bytes": 1728005
+    },
+    {
+      "ticker": "UNT",
+      "file": "UNT_2023_Q3_prezentacja.pdf",
+      "url": "https://www.unimot.pl/media/1045/download/prezentacja-wyniki-finansowe-za-3q2023-pl-en-2.pdf?v=1",
+      "status": "ok",
+      "bytes": 1631139
+    },
+    {
+      "ticker": "UNT",
+      "file": "UNT_2024_H1_prezentacja.pdf",
+      "url": "https://www.unimot.pl/media/3543/download/Prezentacja_wyniki_finansowe_za_1H24_PL_EN_1.2.pdf?v=1",
+      "status": "ok",
+      "bytes": 1914820
+    },
+    {
+      "ticker": "UNT",
+      "file": "UNT_2024_Q3_prezentacja.pdf",
+      "url": "https://www.unimot.pl/media/4153/download/Prezentacja_wyniki_finansowe_za_3Q24_PL_EN.pdf?v=1",
+      "status": "ok",
+      "bytes": 1671275
+    }
+  ]
+}

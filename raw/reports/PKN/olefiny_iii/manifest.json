@@ -1,0 +1,65 @@
+{
+  "case": "Olefiny III / Nowa Chemia",
+  "ticker": "PKN",
+  "downloaded_at": "2026-07-20T19:04:38",
+  "ok": 8,
+  "total": 8,
+  "files": [
+    {
+      "file": "PKN_STRAT_olefiny-iii-potencjal-przedsiewziecia.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/o-firmie/olefiny/Prezentacja-Budowa-Kompleksu-Olefin-III-potencjal-przedsiewziecia.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 6390658,
+      "content_type": "application/pdf"
+    },
+    {
+      "file": "PKN_OTHER_olefiny-wplyw-srodowiskowo-spoleczny.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/o-firmie/olefiny/Wp%C5%82yw%20inwestycji%20na%20otoczenie%20%C5%9Brodowiskowo-spo%C5%82eczne.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 4974573,
+      "content_type": "application/pdf"
+    },
+    {
+      "file": "PKN_OTHER_olefiny-ocena-wplywu-spolecznego.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/o-firmie/olefiny/Ocena%20wp%C5%82ywu%20spo%C5%82ecznego.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 3536991,
+      "content_type": "application/pdf"
+    },
+    {
+      "file": "PKN_OTHER_olefiny-non-technical-summary-2023.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/o-firmie/olefiny/Non%20Technical%20Summary.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 1421157,
+      "content_type": "application/pdf"
+    },
+    {
+      "file": "PKN_2024_LETTER_egm-justification-olefins-iii-EN.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/en/investor-relations/general-meetings/archive-records/documents/06-02-2024/Justification_OLEFINS%20III%20Project.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 456353,
+      "content_type": "application/pdf"
+    },
+    {
+      "file": "../PKN_2024_Q2_letter-ceo.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/prezentacje/prezentacje-wynikowe/2024/Skonsolidowane-wyniki-finansowe-ORLEN-S.A.-za-2.-kwarta%C5%82-2024-roku-Wprowadzenie-Prezesa-Zarz%C4%85du.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 6409192,
+      "content_type": "application/pdf"
+    },
+    {
+      "file": "PKN_2024_Q2_letter-ceo-olefiny-context-alt.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/prezentacje/2024/Skonsolidowane-wyniki-finansowe-ORLEN-S.A.-za-2.-kwarta%C5%82-2024-roku-Wprowadzenie-Prezesa-Zarz%C4%85du.pdf.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 20104631,
+      "content_type": "application/pdf"
+    },
+    {
+      "file": "PKN_2025_OTHER_merger-plan-orlen-olefiny.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/en/investor-relations/merger_orlen_oolefiny/20250422_Merger_plan_ORLEN_ORLEN_Olefiny.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 190360,
+      "content_type": "application/pdf"
+    }
+  ]
+}

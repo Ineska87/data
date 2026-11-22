@@ -1,0 +1,43 @@
+{
+  "source": "GPW Archiwum notowań",
+  "source_url": "https://www.gpw.pl/archiwum-notowan",
+  "format": "XLS",
+  "files": {
+    "2025-12-29_indices.xls": {
+      "session_date": "2025-12-29",
+      "source_url": "https://www.gpw.pl/archiwum-notowan",
+      "instrument_category": "Indeksy",
+      "sha256": "1f6e99217eb707d2dd232eaf80a9f5ba33b6c88be3869368819bf86c38897aa5"
+    },
+    "2025-12-30_indices.xls": {
+      "session_date": "2025-12-30",
+      "source_url": "https://www.gpw.pl/archiwum-notowan",
+      "instrument_category": "Indeksy",
+      "sha256": "6682d2bf7c855d7e3515cb8f5aa8152b6970ee9815c909a321916b14c1938ab2"
+    },
+    "2026-01-02_indices.xls": {
+      "session_date": "2026-01-02",
+      "source_url": "https://www.gpw.pl/archiwum-notowan",
+      "instrument_category": "Indeksy",
+      "sha256": "c6dd56e91ef5ecdda6a36b906b5fbebc083fd1a735f411249e376fec6b9e6e01"
+    },
+    "2026-01-05_indices.xls": {
+      "session_date": "2026-01-05",
+      "source_url": "https://www.gpw.pl/archiwum-notowan",
+      "instrument_category": "Indeksy",
+      "sha256": "ca4c76c9077d8c31f5c6d0a1ddaf9833647700f31bab358d4b9cd35370967a90"
+    },
+    "2026-01-07_indices.xls": {
+      "session_date": "2026-01-07",
+      "source_url": "https://www.gpw.pl/archiwum-notowan",
+      "instrument_category": "Indeksy",
+      "sha256": "51e7ec7b7860be5bde7edcbe8681ac608e05e2de695df1499b4e4f75c1175fcd"
+    },
+    "2026-01-08_indices.xls": {
+      "session_date": "2026-01-08",
+      "source_url": "https://www.gpw.pl/archiwum-notowan",
+      "instrument_category": "Indeksy",
+      "sha256": "2d06cd967b7d0141ffa2aba89c81f6a2d19c9441f78d665ea90a962d990efb1c"
+    }
+  }
+}

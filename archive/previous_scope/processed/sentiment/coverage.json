@@ -1,0 +1,24 @@
+{
+  "n_docs": 81,
+  "n_ok": 75,
+  "n_quarterly": 74,
+  "by_ticker_docs": {
+    "ENA": 12,
+    "JSW": 12,
+    "PGE": 6,
+    "PKN": 10,
+    "TPE": 24,
+    "UNT": 8,
+    "ZEP": 9
+  },
+  "by_ticker_q": {
+    "ENA": 12,
+    "JSW": 12,
+    "PGE": 6,
+    "PKN": 9,
+    "TPE": 18,
+    "UNT": 8,
+    "ZEP": 9
+  },
+  "mean_tone": 0.014063504663317891
+}

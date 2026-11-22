@@ -1,0 +1,632 @@
+{
+  "scope": "Q1/H1/Q3 (SAR) PGE/TPE/ENA 2020-2025 — sprawozdania + prezentacje PGE + SZ ENA H1",
+  "downloaded_at": "2026-07-20T17:46:34.789105+00:00",
+  "n_ok": 78,
+  "n_fail": 0,
+  "files": [
+    {
+      "ticker": "PGE",
+      "file": "PGE_2020_Q1_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/8e46bd18895d03942bfdf602bbfe7c0c/file/df18f1788be6fc2c83c289c7cf0f81e0.pdf",
+      "status": "ok",
+      "bytes": 1555503,
+      "path": "data\\raw\\reports\\PGE\\PGE_2020_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2020_Q1_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/4c1044b6a31b002a281340a673240f7d/file/45c3d3c69fd95e377df821a815a0d4ba.pdf",
+      "status": "ok",
+      "bytes": 1356470,
+      "path": "data\\raw\\reports\\PGE\\PGE_2020_Q1_prezentacja.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2020_H1_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/50ec2ccffe901616ef934996292db953/file/4e7334c57b6957ef33ed010673dc1cb2.pdf",
+      "status": "ok",
+      "bytes": 2345383,
+      "path": "data\\raw\\reports\\PGE\\PGE_2020_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2020_H1_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/b488e2609226749062a0f99068c5c317/file/5fa53dddd4205f0bcff21f00b4c9d331.pdf",
+      "status": "ok",
+      "bytes": 1959243,
+      "path": "data\\raw\\reports\\PGE\\PGE_2020_H1_prezentacja.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2020_Q3_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/08566b4bfaec4ca5434bf8e22bdc2e13/file/6d5daf79e2a00bb506006e1451ffb2ce.pdf",
+      "status": "ok",
+      "bytes": 2237694,
+      "path": "data\\raw\\reports\\PGE\\PGE_2020_Q3_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2020_Q3_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/0072561ee11a2b8f000787eed8b5e317/file/6d4d1b00494c7603320cefb4736c606f.pdf",
+      "status": "ok",
+      "bytes": 1919757,
+      "path": "data\\raw\\reports\\PGE\\PGE_2020_Q3_prezentacja.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2021_Q1_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/f091e909d9fa3c0278eb52460e560b8b/file/761bd09a4e499bd0418b574b1a2bfeb0.pdf",
+      "status": "ok",
+      "bytes": 3077016,
+      "path": "data\\raw\\reports\\PGE\\PGE_2021_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2021_Q1_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/fcfe2af5a197b5ef39c1c9d6d2c92bc2/file/5cb57c9f791ed5e936c2b0aea610a62a.pdf",
+      "status": "ok",
+      "bytes": 1545072,
+      "path": "data\\raw\\reports\\PGE\\PGE_2021_Q1_prezentacja.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2021_H1_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/061d21b19d444748b8206555142e550a/file/3ec04fa4b5f3e0a07466193db016bbdb.pdf",
+      "status": "ok",
+      "bytes": 2400270,
+      "path": "data\\raw\\reports\\PGE\\PGE_2021_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2021_H1_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/c8111e4aaf95f76067875ce732c42154/file/ce473688f06181a37fce29e3da216e5d.pdf",
+      "status": "ok",
+      "bytes": 1926021,
+      "path": "data\\raw\\reports\\PGE\\PGE_2021_H1_prezentacja.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2021_Q3_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/ce1e6991b85e097891fe6cf1f274d1d6/file/e4638975b366be0d396256b9ed4950e4.pdf",
+      "status": "ok",
+      "bytes": 2667456,
+      "path": "data\\raw\\reports\\PGE\\PGE_2021_Q3_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2021_Q3_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/234a368b758960e26a9b01e5f18539b2/file/a1e22a7c60ef6110d72d872ae4f8e998.pdf",
+      "status": "ok",
+      "bytes": 1837177,
+      "path": "data\\raw\\reports\\PGE\\PGE_2021_Q3_prezentacja.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2022_Q1_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/5510922db713d0df5aee1622de1a9054/file/1_pge_gk_q1_2022_raport_finansowy.pdf",
+      "status": "ok",
+      "bytes": 3444050,
+      "path": "data\\raw\\reports\\PGE\\PGE_2022_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2022_Q1_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/5030df0061e5a66eb8fd9311ac8e3f85/file/pge_prezentacja_inwestorska_q1-2022.pdf",
+      "status": "ok",
+      "bytes": 1509821,
+      "path": "data\\raw\\reports\\PGE\\PGE_2022_Q1_prezentacja.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2022_H1_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/5a4c422bb4db7e2d940f5373428f7c90/file/polroczny_raport_finansowy_gkpge_30.06.2022.pdf",
+      "status": "ok",
+      "bytes": 5713973,
+      "path": "data\\raw\\reports\\PGE\\PGE_2022_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2022_H1_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/3fa9ccf4a6fbfcd616f5fd23db7d5157/file/pge_prezentacja_inwestorska_i-pol.-2022.pdf",
+      "status": "ok",
+      "bytes": 1815344,
+      "path": "data\\raw\\reports\\PGE\\PGE_2022_H1_prezentacja.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2022_Q3_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/f4f20d8c9e7171b3fa975748b0b31d02/file/1_pge_gk_q3_2022_raport_finansowy.pdf",
+      "status": "ok",
+      "bytes": 3730456,
+      "path": "data\\raw\\reports\\PGE\\PGE_2022_Q3_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2022_Q3_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/fea93fd3ef645f8deea69386b045a1c1/file/pge-s.a._prezentacja_inwestorska_iii-kw-2022.pdf",
+      "status": "ok",
+      "bytes": 1916804,
+      "path": "data\\raw\\reports\\PGE\\PGE_2022_Q3_prezentacja.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2023_Q1_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/26f291fd5342a5cf1adff849dd1d5073/file/1_pge_gk_q1_2023_raport_finansowy.pdf",
+      "status": "ok",
+      "bytes": 3473474,
+      "path": "data\\raw\\reports\\PGE\\PGE_2023_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2023_Q1_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/a52c3173307431df54ecb3aa74b75945/file/pge-prezentacja_inwestorska_q1_2023.pdf",
+      "status": "ok",
+      "bytes": 1559906,
+      "path": "data\\raw\\reports\\PGE\\PGE_2023_Q1_prezentacja.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2023_H1_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/68808c97c81baaf177a856b67f3d5a43/file/3_pge_gk_hy_2023_raport_finansowy.pdf",
+      "status": "ok",
+      "bytes": 4219415,
+      "path": "data\\raw\\reports\\PGE\\PGE_2023_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2023_H1_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/22da2912fca020d4e2ece60f99a9b284/file/pge_prezentacja_inwestorska_ii-kw.-2023.pdf",
+      "status": "ok",
+      "bytes": 1700315,
+      "path": "data\\raw\\reports\\PGE\\PGE_2023_H1_prezentacja.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2023_Q3_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/19acd4343f6040adc5d68d609dfcffc8/file/1_pge_gk_q3_2023_raport_finansowy.pdf",
+      "status": "ok",
+      "bytes": 4183542,
+      "path": "data\\raw\\reports\\PGE\\PGE_2023_Q3_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2023_Q3_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/c4eb1953da45df3c227669e7f0d5a475/file/pge-s.a._prezentacja_inwestorska_iii-kw_2023.pdf",
+      "status": "ok",
+      "bytes": 1715765,
+      "path": "data\\raw\\reports\\PGE\\PGE_2023_Q3_prezentacja.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2024_Q1_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/05b9481afe24c03928353920bfa49360/file/1_pge_gk_q1_2024_raport_finansowy.pdf",
+      "status": "ok",
+      "bytes": 5300499,
+      "path": "data\\raw\\reports\\PGE\\PGE_2024_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2024_Q1_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/7b644341f44f0803483c8331edfdc215/file/pge_prezentacja_inwestorska-q1-2024.pdf",
+      "status": "ok",
+      "bytes": 1522837,
+      "path": "data\\raw\\reports\\PGE\\PGE_2024_Q1_prezentacja.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2024_H1_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/9c06bd791aa352175b9e11e273fbaac7/file/3_pge_gk_hy_2024_raport_finansowy.pdf",
+      "status": "ok",
+      "bytes": 4950444,
+      "path": "data\\raw\\reports\\PGE\\PGE_2024_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2024_H1_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/3aff5225d5d5c1b784c927a60d3fdca7/file/pge_prezentacja_inwestorska-q2-2024.pdf",
+      "status": "ok",
+      "bytes": 2122988,
+      "path": "data\\raw\\reports\\PGE\\PGE_2024_H1_prezentacja.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2024_Q3_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/1d16fcf66aefb2bc9f12ea974c02453a/file/1_pge_gk_q3_2024_raport_finansowy.pdf",
+      "status": "ok",
+      "bytes": 4466301,
+      "path": "data\\raw\\reports\\PGE\\PGE_2024_Q3_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2024_Q3_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/13ccc02e9dce0367ccafb94d4df0a4c6/file/pge_prezentacja_inwestorska-q3-2024.pdf",
+      "status": "ok",
+      "bytes": 2132425,
+      "path": "data\\raw\\reports\\PGE\\PGE_2024_Q3_prezentacja.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2025_Q1_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/4148e6debd131a77a83644d5e6f4b644/file/1_pge_gk_q1_2025_raport_finansowy.pdf",
+      "status": "ok",
+      "bytes": 2702454,
+      "path": "data\\raw\\reports\\PGE\\PGE_2025_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2025_Q1_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/443cd4e19a0a6dc77ed09c86e42b984d/file/pge_prezentacja_inwestorska-q1-2025.pdf",
+      "status": "ok",
+      "bytes": 1188796,
+      "path": "data\\raw\\reports\\PGE\\PGE_2025_Q1_prezentacja.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2025_H1_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/932c5bfb75ad3ddfb251b5a5d0d222ad/file/3_pge_gk_hy_2025_raport_finansowy.pdf",
+      "status": "ok",
+      "bytes": 5446182,
+      "path": "data\\raw\\reports\\PGE\\PGE_2025_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2025_H1_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/e4808c3c51f1c00cfa32fb6892adfea5/file/pge_prezentacja_inwestorska_q2-2025.pdf",
+      "status": "ok",
+      "bytes": 1365439,
+      "path": "data\\raw\\reports\\PGE\\PGE_2025_H1_prezentacja.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2025_Q3_sprawozdanie.pdf",
+      "url": "https://www.gkpge.pl/content/download/11ad6a4b7df26b286defdf50eb0f59ee/file/1_pge_gk_q3_2025_raport_finansowy.pdf",
+      "status": "ok",
+      "bytes": 3420782,
+      "path": "data\\raw\\reports\\PGE\\PGE_2025_Q3_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "PGE",
+      "file": "PGE_2025_Q3_prezentacja.pdf",
+      "url": "https://www.gkpge.pl/content/download/13998627be28c7cf65969b242edd5525/file/pge_prezentacja_inwestorska_q3-2025.pdf",
+      "status": "ok",
+      "bytes": 1403340,
+      "path": "data\\raw\\reports\\PGE\\PGE_2025_Q3_prezentacja.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2025_Q1_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/i-kwartal/tauron-pe-skonsolidowane-sprawozdanie-fin-za-i-kw-2025-r.ashx",
+      "status": "ok",
+      "bytes": 1670500,
+      "path": "data\\raw\\reports\\TPE\\TPE_2025_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2025_H1_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/i-polrocze/skonsolidowane-sprawozdanie-finansowe-gk-tpe-za-i-polrocze-2025.ashx",
+      "status": "ok",
+      "bytes": 1842011,
+      "path": "data\\raw\\reports\\TPE\\TPE_2025_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2025_Q3_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/iii-kwartal/skonsolidowane-sprawozdanie-finansowe-za-iii-kwartal-2025-r.ashx",
+      "status": "ok",
+      "bytes": 1693518,
+      "path": "data\\raw\\reports\\TPE\\TPE_2025_Q3_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2024_Q1_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/i-kwartal/tauron-pe-skonsolidowane-sprawozdanie-fin-za-i-kw-2024-r.ashx",
+      "status": "ok",
+      "bytes": 2769650,
+      "path": "data\\raw\\reports\\TPE\\TPE_2024_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2024_H1_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/i-polrocze/skonsolidowane-sprawozdanie-finansowe-grupy-kapitalowej-tauron-za-i-polrocze-2024.ashx",
+      "status": "ok",
+      "bytes": 3263612,
+      "path": "data\\raw\\reports\\TPE\\TPE_2024_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2024_Q3_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/iii-kwartal/tauron-pe-skonsolidowane-sprawozdanie-finansowe-za-iii-kwartal-2024-r.ashx",
+      "status": "ok",
+      "bytes": 4444373,
+      "path": "data\\raw\\reports\\TPE\\TPE_2024_Q3_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2023_Q1_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/i-kwartal/skonsolidowane-sprawozdanie-finansowe-za-i-kwartal-2023-r.ashx",
+      "status": "ok",
+      "bytes": 3188228,
+      "path": "data\\raw\\reports\\TPE\\TPE_2023_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2023_H1_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/i-polrocze/skonsolidowane-sprawozdanie-finansowe-gk-tpe-za-i-polr-2023.ashx",
+      "status": "ok",
+      "bytes": 3454655,
+      "path": "data\\raw\\reports\\TPE\\TPE_2023_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2023_Q3_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/iii-kwartal/skonsolidowane-sprawozdanie-finansowe-za-iii-kwartal-2023-r.ashx",
+      "status": "ok",
+      "bytes": 3479866,
+      "path": "data\\raw\\reports\\TPE\\TPE_2023_Q3_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2022_Q1_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2022/i-kwartal/tauron_skonsolidowany_raport_za_i_kwartal_2022.ashx",
+      "status": "ok",
+      "bytes": 4283328,
+      "path": "data\\raw\\reports\\TPE\\TPE_2022_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2022_H1_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2022/i-polrocze/rozszerzony_skonsolidowany_raport_polroczny_za_i_polrocze_2022.ashx",
+      "status": "ok",
+      "bytes": 7415778,
+      "path": "data\\raw\\reports\\TPE\\TPE_2022_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2022_Q3_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2022/iii-kwartal/rozszerzony_skonsolidowany_raport_kwartalny_za_iii_kwartal_2022_r.ashx",
+      "status": "ok",
+      "bytes": 4357983,
+      "path": "data\\raw\\reports\\TPE\\TPE_2022_Q3_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2021_Q1_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/i-kwartal/raport_pl.ashx",
+      "status": "ok",
+      "bytes": 4598146,
+      "path": "data\\raw\\reports\\TPE\\TPE_2021_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2021_H1_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/i-polrocze/tauron_skons_raport_za_i_polrocze_2021_r.ashx",
+      "status": "ok",
+      "bytes": 7491931,
+      "path": "data\\raw\\reports\\TPE\\TPE_2021_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2021_Q3_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/iii-kwartal/0-tauron-skons-raport-za-iii-kwartal-2021.ashx",
+      "status": "ok",
+      "bytes": 5110059,
+      "path": "data\\raw\\reports\\TPE\\TPE_2021_Q3_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2020_Q1_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2020/i-kwartal/rozszerzony_skonsolidowany_raport_kwartalny_za_i_kwartal_2020_r.ashx",
+      "status": "ok",
+      "bytes": 4542331,
+      "path": "data\\raw\\reports\\TPE\\TPE_2020_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2020_H1_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2020/i-polrocze/rozszerzony_skonsolidowany_raport_polroczny_za_i_polrocze_2020_r.ashx",
+      "status": "ok",
+      "bytes": 9197883,
+      "path": "data\\raw\\reports\\TPE\\TPE_2020_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "TPE",
+      "file": "TPE_2020_Q3_sprawozdanie.pdf",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2020/iii-kwartal/rozszerzony_skonsolidowany_raport_kwartalny_za_iii_kwartal_2020_r.ashx",
+      "status": "ok",
+      "bytes": 4816111,
+      "path": "data\\raw\\reports\\TPE\\TPE_2020_Q3_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2020_Q1_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/1636553/8b/skonsolidowane_sprawozdanie_finansowe_gk_enea_za_iq2020.pdf",
+      "status": "ok",
+      "bytes": 3102764,
+      "path": "data\\raw\\reports\\ENA\\ENA_2020_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2020_H1_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/1688905/2d/skonsolidowane_sprawozdanie_finansowe_gk_enea.pdf",
+      "status": "ok",
+      "bytes": 1799297,
+      "path": "data\\raw\\reports\\ENA\\ENA_2020_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2020_H1_sprawozdanie-zarzadu.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/1688909/c9/sprawozdanie_zarzadu_z_dzialalnosci_grupy_kapitalowej_enea_w_1_polroczu_2020.pdf",
+      "status": "ok",
+      "bytes": 3167272,
+      "path": "data\\raw\\reports\\ENA\\ENA_2020_H1_sprawozdanie-zarzadu.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2020_Q3_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/1748229/4c/skonsolidowane_sprawozdanie_finansowe_gk_enea_30_09_2020_sig_sig_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 3343158,
+      "path": "data\\raw\\reports\\ENA\\ENA_2020_Q3_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2021_Q1_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/1925207/c/skonsolidowane_sprawozdanie_gk_enea_31_03_2021_sig_sig_sig_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 3331151,
+      "path": "data\\raw\\reports\\ENA\\ENA_2021_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2021_H1_sprawozdanie-zarzadu.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2008347/35/sprawozdanie_zarzadu_z_dzialalnosci_grupy_kapitalowej_enea_w_i_polroczu_2021_roku_sig_sig_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 3049946,
+      "path": "data\\raw\\reports\\ENA\\ENA_2021_H1_sprawozdanie-zarzadu.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2021_H1_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2008355/a7/sprawozdanie_finansowe_enea_s_a_30_06_2021_sig_sig_sig_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 1663952,
+      "path": "data\\raw\\reports\\ENA\\ENA_2021_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2021_Q3_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2065774/a2/skonsolidowane_sprawozdanie_finansowe_gk_enea_30_09_2021_sig_sig_sig_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 3478095,
+      "path": "data\\raw\\reports\\ENA\\ENA_2021_Q3_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2022_Q1_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2210098/84/sprawozdanie_finansowe_enea_s_a_31_03_2022_sig_sig_sig_sig_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 2012667,
+      "path": "data\\raw\\reports\\ENA\\ENA_2022_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2022_H1_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2298383/6f/sprawozdanie_finansowe_enea_s_a_30_06_2022_sig_sig_sig_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 1757359,
+      "path": "data\\raw\\reports\\ENA\\ENA_2022_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2022_H1_sprawozdanie-zarzadu.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2298391/a8/sprawozdanie_zarzadu_z_dzialalnosci_gk_enea_w_i_polroczu_2022_r_sig_sig_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 3302671,
+      "path": "data\\raw\\reports\\ENA\\ENA_2022_H1_sprawozdanie-zarzadu.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2022_Q3_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2346514/2b/skonsolidowane_sprawozdanie_finansowe_gk_enea_30_09_2022_sig_sig_sig_sig_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 4100631,
+      "path": "data\\raw\\reports\\ENA\\ENA_2022_Q3_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2023_Q1_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2490336/3a/sprawozdanie_finansowe_enea_s_a_31_03_2023_sig_sig_sig_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 1886435,
+      "path": "data\\raw\\reports\\ENA\\ENA_2023_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2023_H1_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2549791/d8/zal04_skonsolidowane_sprawozdanie_finansowe_gk_enea_30_06_2023_sig_sig_sig_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 3879109,
+      "path": "data\\raw\\reports\\ENA\\ENA_2023_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2023_H1_sprawozdanie-zarzadu.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2549789/f8/zal03_sprawozdanie_zarzadu_z_dzialalnosci_gk_enea_w_i_polroczu_2023_r_13_09_2023_sig_sig_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 3425520,
+      "path": "data\\raw\\reports\\ENA\\ENA_2023_H1_sprawozdanie-zarzadu.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2023_Q3_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2580175/ad/zal03_sprawozdanie_finansowe_enea_s_a_30_09_2023_sig_sig_sig_sig_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 2156869,
+      "path": "data\\raw\\reports\\ENA\\ENA_2023_Q3_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2024_Q1_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2671806/89/zal02_sprawozdanie_finansowe_enea_s_a_za_i_kw_2024_r.pdf",
+      "status": "ok",
+      "bytes": 1977572,
+      "path": "data\\raw\\reports\\ENA\\ENA_2024_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2024_H1_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2714767/95/zal01_skonsolidowane_sprawozdanie_finansowe_gk_enea_30_06_2024_sig_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 3403713,
+      "path": "data\\raw\\reports\\ENA\\ENA_2024_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2024_H1_sprawozdanie-zarzadu.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2714771/9f/zal03_sprawozdanie_zarzadu_z_dzialalnosci_grupy_kapitalowej_enea_w_i_polroczu_2024_r_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 2508079,
+      "path": "data\\raw\\reports\\ENA\\ENA_2024_H1_sprawozdanie-zarzadu.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2024_Q3_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2749430/11/zal01_skonsolidowane_sprawozdanie_finansowe_gk_enea_30_09_2024_sig_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 2656542,
+      "path": "data\\raw\\reports\\ENA\\ENA_2024_Q3_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2025_Q1_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2827132/e1/zal02_skonsolidowane_sprawozdanie_finansowe_gk_enea_31_03_2025_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 2888037,
+      "path": "data\\raw\\reports\\ENA\\ENA_2025_Q1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2025_H1_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2888982/f9/zal02_skonsolidowane_sprawozdanie_finansowe_gk_enea_30_06_2025_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 2348678,
+      "path": "data\\raw\\reports\\ENA\\ENA_2025_H1_sprawozdanie.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2025_H1_sprawozdanie-zarzadu.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2888980/73/zal01_sprawozdanie_zarzadu_z_dzialalnosci_grupy_kapitalowej_enea_w_i_polroczu_2025_r_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 3992456,
+      "path": "data\\raw\\reports\\ENA\\ENA_2025_H1_sprawozdanie-zarzadu.pdf"
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2025_Q3_sprawozdanie.pdf",
+      "url": "https://cdn-netpr.pl/file/attachment/2916118/5b/zal02_skonsolidowane_sprawozdanie_finansowe_gk_enea_30_09_2025_sig_sig.pdf",
+      "status": "ok",
+      "bytes": 2377246,
+      "path": "data\\raw\\reports\\ENA\\ENA_2025_Q3_sprawozdanie.pdf"
+    }
+  ]
+}

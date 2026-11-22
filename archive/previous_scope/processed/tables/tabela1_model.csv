@@ -1,0 +1,9 @@
+﻿Spółka,Typ własności,Benchmark,β (mediana),R² (mediana),n_est (med.),n_zdarzeń,Ocena
+PKN Orlen,państwowa,WIG-Paliwa,1.041,0.914,240,464,doskonały
+PGE,państwowa,WIG-Energia,1.259,0.902,240,320,doskonały
+Tauron,państwowa,WIG-Energia,1.085,0.768,240,386,doskonały
+Enea,państwowa,WIG-Energia,0.952,0.652,240,345,dobry
+ZE PAK,państwowa,WIG,0.644,0.086,240,259,bardzo słaby
+Unimot,prywatna,WIG,0.755,0.133,240,247,słaby
+JSW,państwowa,WIG,1.321,0.239,240,367,słaby
+LW Bogdanka,państwowa,WIG,0.926,0.166,240,158,słaby

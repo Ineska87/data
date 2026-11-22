@@ -1,0 +1,9 @@
+{
+  "tickers": ["PKN", "PGE", "TPE", "ENA", "ZEP", "UNT"],
+  "period": {"start": "2020-01-01", "end": "2025-12-31"},
+  "timezone": "Europe/Warsaw",
+  "benchmark": "WIG",
+  "case_study": {"project_id": "olefiny_iii", "ticker": "PKN", "reports": ["27/2021", "30/2023", "56/2024", "64/2024"]},
+  "context_tickers": ["LWB"],
+  "possible_validation_tickers": ["JSW"]
+}

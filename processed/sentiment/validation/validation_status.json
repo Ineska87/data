@@ -1,0 +1,9 @@
+{
+  "status": "pending_review",
+  "calibration_pool": 0,
+  "holdout_pool": 0,
+  "holdout_size": 0,
+  "lexicon_version": "investment-pl-0.1",
+  "neutral_cutoff": null,
+  "holdout_metrics": []
+}

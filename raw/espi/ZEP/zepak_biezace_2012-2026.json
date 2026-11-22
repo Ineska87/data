@@ -1,0 +1,3561 @@
+{
+  "spolka": "ZE PAK S.A.",
+  "spolka_key": "zepak",
+  "typ": "biezace",
+  "zrodla": [
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2.html?y=2026",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace.html?y=2026",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace.html?y=2025",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2.html?y=2024",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace.html?y=2024",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace.html?y=2023",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2.html?y=2022",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace.html?y=2022",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace.html?y=2021",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2.html?y=2020",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace.html?y=2020",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace.html?y=2019",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2.html?y=2018",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace.html?y=2018",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace.html?y=2017",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2.html?y=2016",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace.html?y=2016",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2.html?y=2015",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace.html?y=2015",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2.html?y=2014",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace.html?y=2014",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2.html?y=2013",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/3.html?y=2013",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/4.html?y=2013",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/5.html?y=2013",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/6.html?y=2013",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/7.html?y=2013",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/8.html?y=2013",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/9.html?y=2013",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace.html?y=2013",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2.html?y=2012",
+    "https://ri.zepak.com.pl/pl/raporty/raporty-biezace.html?y=2012"
+  ],
+  "data_scrapowania": "2026-06-25T12:10:28.960686",
+  "liczba_stron": 32,
+  "total_pages_detected": null,
+  "liczba_raportow_przed_unikalnymi": 1023,
+  "liczba_raportow": 502,
+  "usuniete_duplikaty": 521,
+  "raporty": [
+    {
+      "numer": "RB nr 16/2026",
+      "data": "22.06.2026",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu ZE PAK SA w dniu 17 czerwca 2026 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2224-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-zwyczajnym-walnym-zgromadzeniu-ze-pak-sa-w-dniu-17-czerwca-2026-roku.html"
+    },
+    {
+      "numer": "RB nr 15/2026",
+      "data": "17.06.2026",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Akcjonariuszy ZE PAK SA w dniu 17 czerwca 2026 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2223-uchwaly-podjete-przez-zwyczajne-walne-zgromadzenie-akcjonariuszy-ze-pak-sa-w-dniu-17-czerwca-2026-roku.html"
+    },
+    {
+      "numer": "RB nr 14/2026",
+      "data": "13.06.2026",
+      "godzina": "",
+      "tytul": "Przystąpienie do negocjacji w sprawie pozyskania finansowania",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2218-przystapienie-do-negocjacji-w-sprawie-pozyskania-finansowania.html"
+    },
+    {
+      "numer": "RB nr 13/2026/K",
+      "data": "21.05.2026",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia ZE PAK SA – uzupełnienie projektów uchwał",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2213-ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-ze-pak-sa-uzupelnienie-projektow-uchwal.html"
+    },
+    {
+      "numer": "RB nr 13/2026",
+      "data": "21.05.2026",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2212-ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 12/2026",
+      "data": "26.03.2026",
+      "godzina": "",
+      "tytul": "Spłata całkowitego zadłużenia PAK CCGT sp. z o.o. z tytułu umowy kredytu zawartej z bankiem EFG",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2204-splata-calkowitego-zadluzenia-pak-ccgt-sp-z-oo-z-tytulu-umowy-kredytu-zawartej-z-bankiem-efg.html"
+    },
+    {
+      "numer": "RB nr 11/2026",
+      "data": "17.03.2026",
+      "godzina": "",
+      "tytul": "Powołanie do Zarządu ZE PAK SA oraz wybór Przewodniczącego Komitetu Audytu Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2200-powolanie-do-zarzadu-ze-pak-sa-oraz-wybor-przewodniczacego-komitetu-audytu-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 10/2026",
+      "data": "04.03.2026",
+      "godzina": "",
+      "tytul": "Rejestracja zmian Statutu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2199-rejestracja-zmian-statutu-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 9/2026",
+      "data": "03.03.2026",
+      "godzina": "",
+      "tytul": "Zmiany powierzonych funkcji w ramach Rady Nadzorczej ZE PAK SA oraz uzupełnienie składu Komitetu Audytu",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2198-zmiany-powierzonych-funkcji-w-ramach-rady-nadzorczej-ze-pak-sa-oraz-uzupelnienie-skladu-komitetu-audytu.html"
+    },
+    {
+      "numer": "RB nr 8/2026",
+      "data": "12.02.2026",
+      "godzina": "",
+      "tytul": "Podpisanie znaczącej umowy przez spółkę pośrednio zależną od ZE PAK SA na dostawę gazu dla bloku CCGT",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2191-podpisanie-znaczacej-umowy-przez-spolke-posrednio-zalezna-od-ze-pak-sa-na-dostawe-gazu-dla-bloku-ccgt.html"
+    },
+    {
+      "numer": "RB nr 7/2026",
+      "data": "12.02.2026",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2190-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 6/2026",
+      "data": "12.02.2026",
+      "godzina": "",
+      "tytul": "Zmiany w składzie Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2189-zmiany-w-skladzie-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 5/2026",
+      "data": "12.02.2026",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie ZE PAK SA w dniu 11 lutego 2026 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2188-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenie-ze-pak-sa-w-dniu-11-lutego-2026-roku.html"
+    },
+    {
+      "numer": "RB nr 4/2026",
+      "data": "27.01.2026",
+      "godzina": "",
+      "tytul": "Zgłoszenie kandydata na Członka Rady Nadzorczej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2180-zgloszenie-kandydata-na-czlonka-rady-nadzorczej.html"
+    },
+    {
+      "numer": "RB nr 3/2026",
+      "data": "21.01.2026",
+      "godzina": "",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2026",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2179-terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2026.html"
+    },
+    {
+      "numer": "RB nr 2/2026",
+      "data": "15.01.2026",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia ZE PAK SA na żądanie akcjonariusza",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2154-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-ze-pak-sa-na-zadanie-akcjonariusza.html"
+    },
+    {
+      "numer": "RB nr 1/2026",
+      "data": "02.01.2026",
+      "godzina": "",
+      "tytul": "Aktualizacja informacji na temat udziału budowanego bloku gazowo-parowego (CCGT) w rynku mocy",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2153-aktualizacja-informacji-na-temat-udzialu-budowanego-bloku-gazowo-parowego-ccgt-w-rynku-mocy.html"
+    },
+    {
+      "numer": "41/2025",
+      "data": "30.12.2025",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2152-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-ze-pak-sa.html"
+    },
+    {
+      "numer": "40/2025",
+      "data": "29.12.2025",
+      "godzina": "",
+      "tytul": "Zmiana na stanowisku Prezesa Zarządu spółki ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2151-zmiana-na-stanowisku-prezesa-zarzadu-spolki-ze-pak-sa.html"
+    },
+    {
+      "numer": "39/2025",
+      "data": "29.12.2025",
+      "godzina": "",
+      "tytul": "Zmiany w składzie Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2150-zmiany-w-skladzie-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "38/2025",
+      "data": "29.12.2025",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzeni ZE PAK SA po wznowieniu obrad w dniu 29 grudnia 2025 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2149-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzeni-ze-pak-sa-po-wznowieniu-obrad-w-dniu-29-grudnia-2025-roku.html"
+    },
+    {
+      "numer": "37/2025",
+      "data": "29.12.2025",
+      "godzina": "",
+      "tytul": "Rezygnacja Członka Rady Nadzorczej spółki ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2148-rezygnacja-czlonka-rady-nadzorczej-spolki-ze-pak-sa.html"
+    },
+    {
+      "numer": "36/2025",
+      "data": "17.12.2025",
+      "godzina": "",
+      "tytul": "Zawarcie znaczącej umowy finansowej oraz planowane ustanowienie zabezpieczeń kredytów na aktywach znacznej wartości",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2140-zawarcie-znaczacej-umowy-finansowej-oraz-planowane-ustanowienie-zabezpieczen-kredytow-na-aktywach-znacznej-wartosci.html"
+    },
+    {
+      "numer": "35/2025",
+      "data": "16.12.2025",
+      "godzina": "",
+      "tytul": "Podwyższenie kapitału zakładowego oraz przeniesienie udziałów w spółce zależnej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2139-podwyzszenie-kapitalu-zakladowego-oraz-przeniesienie-udzialow-w-spolce-zaleznej-ze-pak-sa.html"
+    },
+    {
+      "numer": "34/2025",
+      "data": "13.12.2025",
+      "godzina": "",
+      "tytul": "Ogłoszenie przerwy w obradach Nadzwyczajnego Walnego Zgromadzenia ZE PAK SA oraz treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie ZE PAK SA do czasu zarządzenia przerwy w obradach",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2138-ogloszenie-przerwy-w-obradach-nadzwyczajnego-walnego-zgromadzenia-ze-pak-sa-oraz-tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-ze-pak-sa-do-czasu-zarzadzenia-przerwy-w-obradach.html"
+    },
+    {
+      "numer": "33/2025",
+      "data": "19.11.2025",
+      "godzina": "",
+      "tytul": "Wniosek akcjonariusza o uzupełnienie porządku obrad Nadzwyczajnego Walnego Zgromadzenia Spółki zwołanego na dzień 12 grudnia 2025 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2131-wniosek-akcjonariusza-o-uzupelnienie-porzadku-obrad-nadzwyczajnego-walnego-zgromadzenia-spolki-zwolanego-na-dzien-12-grudnia-2025-roku.html"
+    },
+    {
+      "numer": "32/2025",
+      "data": "17.11.2025",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2130-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-ze-pak-sa.html"
+    },
+    {
+      "numer": "31/2025",
+      "data": "17.11.2025",
+      "godzina": "",
+      "tytul": "Informacja po wznowieniu obrad Nadzwyczajnego Walnego Zgromadzenia ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2129-informacja-po-wznowieniu-obrad-nadzwyczajnego-walnego-zgromadzenia-ze-pak-sa.html"
+    },
+    {
+      "numer": "30/2025",
+      "data": "13.11.2025",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2118-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-ze-pak-sa.html"
+    },
+    {
+      "numer": "29/2025",
+      "data": "17.10.2025",
+      "godzina": "",
+      "tytul": "Podpisanie umowy przyrzeczonej w sprawie sprzedaży akcji w PGE PAK Energia Jądrowa SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2103-podpisanie-umowy-przyrzeczonej-w-sprawie-sprzedazy-akcji-w-pge-pak-energia-jadrowa-sa.html"
+    },
+    {
+      "numer": "28/2025",
+      "data": "16.10.2025",
+      "godzina": "",
+      "tytul": "Zmiany w składzie Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2102-zmiany-w-skladzie-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "27/2025",
+      "data": "16.10.2025",
+      "godzina": "",
+      "tytul": "Podpisanie przedwstępnej warunkowej umowy w sprawie sprzedaży akcji w PGE PAK Energia Jądrowa SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2101-podpisanie-przedwstepnej-warunkowej-umowy-w-sprawie-sprzedazy-akcji-w-pge-pak-energia-jadrowa-sa.html"
+    },
+    {
+      "numer": "26/2025",
+      "data": "15.10.2025",
+      "godzina": "",
+      "tytul": "Ogłoszenie przerwy w obradach Nadzwyczajnego Walnego Zgromadzenia ZE PAK SA oraz treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie ZE PAK SA do czasu zarządzenia przerwy w obradach",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2100-ogloszenie-przerwy-w-obradach-nadzwyczajnego-walnego-zgromadzenia-ze-pak-sa-oraz-tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-ze-pak-sa-do-czasu-zarzadzenia-przerwy-w-obradach.html"
+    },
+    {
+      "numer": "25/2025",
+      "data": "27.09.2025",
+      "godzina": "",
+      "tytul": "Ujawnienie struktury podmiotów dominujących wobec Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2097-ujawnienie-struktury-podmiotow-dominujacych-wobec-spolki.html"
+    },
+    {
+      "numer": "24/2025",
+      "data": "27.09.2025",
+      "godzina": "",
+      "tytul": "Ujawnienie opóźnionej informacji poufnej dotyczącej otrzymanego przez Spółkę pisma od Fundacji Solkomtel oraz informacji od bezpośredniego akcjonariusza Spółki, tj. Argumenol Investment Company Limited",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2096-ujawnienie-opoznionej-informacji-poufnej-dotyczacej-otrzymanego-przez-spolke-pisma-od-fundacji-solkomtel-oraz-informacji-od-bezposredniego-akcjonariusza-spolki-tj-argumenol-investment-company-limited.html"
+    },
+    {
+      "numer": "23/2025",
+      "data": "25.09.2025",
+      "godzina": "",
+      "tytul": "Podpisanie aneksu nr 1 do umowy kredytowej zawartej przez CCGT Sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2095-podpisanie-aneksu-nr-1-do-umowy-kredytowej-zawartej-przez-ccgt-sp-z-oo.html"
+    },
+    {
+      "numer": "22/2025",
+      "data": "25.09.2025",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu ZE PAK SA w dniu 24 września 2025 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2094-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-ze-pak-sa-w-dniu-24-wrzesnia-2025-roku.html"
+    },
+    {
+      "numer": "21/2025",
+      "data": "24.09.2025",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Akcjonariuszy ZE PAK SA w dniu 24 września 2025 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2093-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenie-akcjonariuszy-ze-pak-sa-w-dniu-24-wrzesnia-2025-roku.html"
+    },
+    {
+      "numer": "20/2025",
+      "data": "19.09.2025",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2088-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-ze-pak-sa.html"
+    },
+    {
+      "numer": "19/2025",
+      "data": "15.09.2025",
+      "godzina": "",
+      "tytul": "Wyniki aukcji uzupełniającej rynku mocy na rok 2026",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2087-wyniki-aukcji-uzupelniajacej-rynku-mocy-na-rok-2026.html"
+    },
+    {
+      "numer": "18/2025",
+      "data": "11.09.2025",
+      "godzina": "",
+      "tytul": "Wyniki aukcji uzupełniającej rynku mocy na rok 2026",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2086-wyniki-aukcji-uzupelniajacej-rynku-mocy-na-rok-2026.html"
+    },
+    {
+      "numer": "17/2025",
+      "data": "28.08.2025",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2085-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-ze-pak-sa.html"
+    },
+    {
+      "numer": "16/2025",
+      "data": "21.08.2025",
+      "godzina": "",
+      "tytul": "Powiadomienie otrzymane od Argumenol Investment Company Limited",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2084-powiadomienie-otrzymane-od-argumenol-investment-company-limited.html"
+    },
+    {
+      "numer": "15/2025",
+      "data": "18.07.2025",
+      "godzina": "",
+      "tytul": "Podpisanie dokumentu związanego z finansowaniem projektu inwestycyjnego budowy bloku gazowego CCGT",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2080-podpisanie-dokumentu-zwiazanego-z-finansowaniem-projektu-inwestycyjnego-budowy-bloku-gazowego-ccgt.html"
+    },
+    {
+      "numer": "14/2025",
+      "data": "04.07.2025",
+      "godzina": "",
+      "tytul": "Powzięcie informacji o cofnięciu pozwu w sprawie uchwał NWZ",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2075-powziecie-informacji-o-cofnieciu-pozwu-w-sprawie-uchwal-nwz.html"
+    },
+    {
+      "numer": "13/2025",
+      "data": "01.07.2025",
+      "godzina": "",
+      "tytul": "Aktualizacja informacji dotyczącej podpisania dokumentu typu term sheet z PGE SA w sprawie potencjalnego zbycia udziałów w PAK CCGT Sp. z o.o. oraz akcji w PGE PAK Energia Jądrowa SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2074-aktualizacja-informacji-dotyczacej-podpisania-dokumentu-typu-term-sheet-z-pge-sa-w-sprawie-potencjalnego-zbycia-udzialow-w-pak-ccgt-sp-z-oo-oraz-akcji-w-pge-pak-energia-jadrowa-sa.html"
+    },
+    {
+      "numer": "12/2025",
+      "data": "24.06.2025",
+      "godzina": "",
+      "tytul": "Informacja o powierzeniu funkcji członkom Rady Nadzorczej ZE PAK SA nowej kadencji",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2060-informacja-o-powierzeniu-funkcji-czlonkom-rady-nadzorczej-ze-pak-sa-nowej-kadencji.html"
+    },
+    {
+      "numer": "11/2025",
+      "data": "16.06.2025",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu ZE PAK SA w dniu 12 czerwca 2025 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2056-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-zwyczajnym-walnym-zgromadzeniu-ze-pak-sa-w-dniu-12-czerwca-2025-roku.html"
+    },
+    {
+      "numer": "10/2025",
+      "data": "13.06.2025",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Akcjonariuszy ZE PAK SA w dniu 12 czerwca 2025 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2055-uchwaly-podjete-przez-zwyczajne-walne-zgromadzenie-akcjonariuszy-ze-pak-sa-w-dniu-12-czerwca-2025-roku.html"
+    },
+    {
+      "numer": "9/2025",
+      "data": "13.06.2025",
+      "godzina": "",
+      "tytul": "Powołanie członków Rady Nadzorczej ZE PAK SA nowej IX kadencji",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2054-powolanie-czlonkow-rady-nadzorczej-ze-pak-sa-nowej-ix-kadencji.html"
+    },
+    {
+      "numer": "8/2025",
+      "data": "06.06.2025",
+      "godzina": "",
+      "tytul": "Zgłoszenie kandydata na Członka Rady Nadzorczej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2053-zgloszenie-kandydata-na-czlonka-rady-nadzorczej.html"
+    },
+    {
+      "numer": "7/2025",
+      "data": "19.05.2025",
+      "godzina": "",
+      "tytul": "Wyniki aukcji rynku mocy",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2036-wyniki-aukcji-rynku-mocy.html"
+    },
+    {
+      "numer": "6/2025",
+      "data": "16.05.2025",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2035-ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-ze-pak-sa.html"
+    },
+    {
+      "numer": "5/2025",
+      "data": "15.05.2025",
+      "godzina": "",
+      "tytul": "Wyniki aukcji rynku mocy",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2033-wyniki-aukcji-rynku-mocy.html"
+    },
+    {
+      "numer": "4/2025",
+      "data": "12.05.2025",
+      "godzina": "",
+      "tytul": "Rezygnacja z pełnienia funkcji Prezesa Zarządu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2030-rezygnacja-z-pelnienia-funkcji-prezesa-zarzadu-ze-pak-sa.html"
+    },
+    {
+      "numer": "3/2025",
+      "data": "25.04.2025",
+      "godzina": "",
+      "tytul": "Zawarcie umowy kredytowej przez CCGT Sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2025-zawarcie-umowy-kredytowej-przez-ccgt-sp-z-oo.html"
+    },
+    {
+      "numer": "2/2025",
+      "data": "23.01.2025",
+      "godzina": "",
+      "tytul": "Podpisanie dokumentu term sheet z PGE SA w sprawie potencjalnego zbycia udziałów w PAK CCGT Sp. z o.o. oraz akcji w PGE PAK Energia Jądrowa SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2015-podpisanie-dokumentu-term-sheet-z-pge-sa-w-sprawie-potencjalnego-zbycia-udzialow-w-pak-ccgt-sp-z-oo-oraz-akcji-w-pge-pak-energia-jadrowa-sa.html"
+    },
+    {
+      "numer": "1/2025",
+      "data": "21.01.2025",
+      "godzina": "",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2025",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2014-terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2025.html"
+    },
+    {
+      "numer": "RB nr 23/2024",
+      "data": "05.12.2024",
+      "godzina": "",
+      "tytul": "Powzięcie informacji o pozwie w sprawie uchwał NWZ",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2013-powziecie-informacji-o-pozwie-w-sprawie-uchwal-nwz.html"
+    },
+    {
+      "numer": "RB nr 22/2024",
+      "data": "18.10.2024",
+      "godzina": "",
+      "tytul": "Powiadomienie otrzymane od Argumenol Investment Company Limited",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2008-powiadomienie-otrzymane-od-argumenol-investment-company-limited.html"
+    },
+    {
+      "numer": "RB nr 21/2024",
+      "data": "09.10.2024",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu ZE PAK SA w dniu 7 października 2024 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2003-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-ze-pak-sa-w-dniu-7-pazdziernika-2024-roku.html"
+    },
+    {
+      "numer": "RB nr 20/2024",
+      "data": "08.10.2024",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Akcjonariuszy ZE PAK SA w dniu 7 października 2024 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2002-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenie-akcjonariuszy-ze-pak-sa-w-dniu-7-pazdziernika-2024-roku.html"
+    },
+    {
+      "numer": "RB nr 19/2024",
+      "data": "07.10.2024",
+      "godzina": "",
+      "tytul": "Zmiany w składzie Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/2001-zmiany-w-skladzie-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 18/2024",
+      "data": "10.09.2024",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia ZE PAK SA na żądanie akcjonariusza",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1993-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-ze-pak-sa-na-zadanie-akcjonariusza.html"
+    },
+    {
+      "numer": "RB nr 17/2024",
+      "data": "28.06.2024",
+      "godzina": "",
+      "tytul": "Informacje na temat osób powołanych w skład zarządu ZE PAK SA VIII kadencji",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1979-informacje-na-temat-osob-powolanych-w-sklad-zarzadu-ze-pak-sa-viii-kadencji.html"
+    },
+    {
+      "numer": "RB nr 16/2024",
+      "data": "27.06.2024",
+      "godzina": "",
+      "tytul": "Nabycie udziałów spółek prowadzących projekty wiatrowe przez ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1977-nabycie-udzialow-spolek-prowadzacych-projekty-wiatrowe-przez-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 15/2024",
+      "data": "25.06.2024",
+      "godzina": "",
+      "tytul": "Prawomocny wyrok w sprawie odkrywki Tomisławice",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1976-prawomocny-wyrok-w-sprawie-odkrywki-tomislawice.html"
+    },
+    {
+      "numer": "RB nr 14/2024",
+      "data": "25.06.2024",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu ZE PAK SA w dniu 24 czerwca 2024 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1975-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-zwyczajnym-walnym-zgromadzeniu-ze-pak-sa-w-dniu-24-czerwca-2024-roku.html"
+    },
+    {
+      "numer": "RB nr 13/2024",
+      "data": "24.06.2024",
+      "godzina": "",
+      "tytul": "Powołanie członków Zarządu ZE PAK SA nowej kadencji",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1974-powolanie-czlonkow-zarzadu-ze-pak-sa-nowej-kadencji.html"
+    },
+    {
+      "numer": "RB nr 12/2024",
+      "data": "24.06.2024",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Akcjonariuszy ZE PAK SA w dniu 24 czerwca 2024 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1973-uchwaly-podjete-przez-zwyczajne-walne-zgromadzenie-akcjonariuszy-ze-pak-sa-w-dniu-24-czerwca-2024-roku.html"
+    },
+    {
+      "numer": "RB nr 11/2024",
+      "data": "24.06.2024",
+      "godzina": "",
+      "tytul": "Powołanie nowych członkiń Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1972-powolanie-nowych-czlonkin-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 10/2024",
+      "data": "21.06.2024",
+      "godzina": "",
+      "tytul": "Zgłoszenie kandydata na Członka Rady Nadzorczej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1971-zgloszenie-kandydata-na-czlonka-rady-nadzorczej.html"
+    },
+    {
+      "numer": "RB nr 9/2024",
+      "data": "19.06.2024",
+      "godzina": "",
+      "tytul": "Zgłoszenie kandydata na Członka Rady Nadzorczej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1970-zgloszenie-kandydata-na-czlonka-rady-nadzorczej.html"
+    },
+    {
+      "numer": "RB nr 8/2024",
+      "data": "28.05.2024",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1962-ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 7/2024",
+      "data": "24.04.2024",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji jednostkowego i skonsolidowanego raportu rocznego za 2023 rok",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1946-zmiana-terminu-publikacji-jednostkowego-i-skonsolidowanego-raportu-rocznego-za-2023-rok.html"
+    },
+    {
+      "numer": "RB nr 6/2024",
+      "data": "19.04.2024",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji jednostkowego i skonsolidowanego raportu rocznego za 2023 rok",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1945-zmiana-terminu-publikacji-jednostkowego-i-skonsolidowanego-raportu-rocznego-za-2023-rok.html"
+    },
+    {
+      "numer": "RB nr 5/2024",
+      "data": "19.04.2024",
+      "godzina": "",
+      "tytul": "Szacunek wyników za 2023 rok oraz informacja o istotnych zdarzeniach o jednorazowym charakterze wpływających na wyniki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1944-szacunek-wynikow-za-2023-rok-oraz-informacja-o-istotnych-zdarzeniach-o-jednorazowym-charakterze-wplywajacych-na-wyniki.html"
+    },
+    {
+      "numer": "RB nr 4/2024",
+      "data": "11.04.2024",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji jednostkowego i skonsolidowanego raportu rocznego za 2023 rok",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1943-zmiana-terminu-publikacji-jednostkowego-i-skonsolidowanego-raportu-rocznego-za-2023-rok.html"
+    },
+    {
+      "numer": "RB nr 3/2024",
+      "data": "11.04.2024",
+      "godzina": "",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za 2023 roku zdarzenia o jednorazowym charakterze",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1942-informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-2023-roku-zdarzenia-o-jednorazowym-charakterze.html"
+    },
+    {
+      "numer": "RB nr 2/2024",
+      "data": "23.01.2024",
+      "godzina": "",
+      "tytul": "Powołanie do Zarządu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1936-powolanie-do-zarzadu-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 1/2024",
+      "data": "17.01.2024",
+      "godzina": "",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2024",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1916-terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2024.html"
+    },
+    {
+      "numer": "RB nr 9/2024",
+      "data": "19.06.2024",
+      "godzina": "",
+      "tytul": "Zgłoszenie kandydata na Członka Rady Nadzorczej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1970-zgłoszenie-kandydata-na-czlonka-rady-nadzorczej.html"
+    },
+    {
+      "numer": "RB nr 28/2023",
+      "data": "21.12.2023",
+      "godzina": "",
+      "tytul": "Pozwolenie zintegrowane – postanowienie Naczelnego Sądu Administracyjnego",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1908-pozwolenie-zintegrowane-postanowienie-naczelnego-sadu-administracyjnego.html"
+    },
+    {
+      "numer": "RB nr 27/2023",
+      "data": "20.12.2023",
+      "godzina": "",
+      "tytul": "Zmiana dotycząca przewidywanego okresu eksploatacji aktywów węglowych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1907-zmiana-dotyczaca-przewidywanego-okresu-eksploatacji-aktywow-weglowych.html"
+    },
+    {
+      "numer": "RB nr 26/2023",
+      "data": "29.11.2023",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu ZE PAK SA w dniu 28 listopada 2023 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1890-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-ze-pak-sa-w-dniu-28-listopada-2023-roku.html"
+    },
+    {
+      "numer": "RB nr 25/2023",
+      "data": "28.11.2023",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Akcjonariuszy ZE PAK SA w dniu 28 listopada 2023 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1889-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenie-akcjonariuszy-ze-pak-sa-w-dniu-28-listopada-2023-roku.html"
+    },
+    {
+      "numer": "RB nr 24/2023/K",
+      "data": "27.11.2023",
+      "godzina": "",
+      "tytul": "Korekta raportu bieżącego nr 24/2023: Zmiana terminu publikacji skonsolidowanego raportu kwartalnego za III kwartał 2023 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1888-korekta-raportu-biezacego-nr-242023-zmiana-terminu-publikacji-skonsolidowanego-raportu-kwartalnego-za-iii-kwartal-2023-roku.html"
+    },
+    {
+      "numer": "RB nr 24/2023",
+      "data": "24.11.2023",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji skonsolidowanego raportu kwartalnego za III kwartał 2023 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1887-zmiana-terminu-publikacji-skonsolidowanego-raportu-kwartalnego-za-iii-kwartal-2023-roku.html"
+    },
+    {
+      "numer": "RB nr 23/2023",
+      "data": "20.11.2023",
+      "godzina": "",
+      "tytul": "Zgody organów nadzorczych dotyczące projektu budowy bloku CCGT w Adamowie",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1886-zgody-organow-nadzorczych-dotyczace-projektu-budowy-bloku-ccgt-w-adamowie.html"
+    },
+    {
+      "numer": "RB nr 22/2023",
+      "data": "20.11.2023",
+      "godzina": "",
+      "tytul": "Ujawnienie opóźnionej informacji poufnej dotyczącej zawarcia umowy generalnego wykonawstwa oraz umowy serwisowej dotyczących budowy bloku CCGT klasy 600 MW na terenie elektrowni Adamów",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1885-ujawnienie-opoznionej-informacji-poufnej-dotyczacej-zawarcia-umowy-generalnego-wykonawstwa-oraz-umowy-serwisowej-dotyczacych-budowy-bloku-ccgt-klasy-600-mw-na-terenie-elektrowni-adamow.html"
+    },
+    {
+      "numer": "RB nr 21/2023",
+      "data": "31.10.2023",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1884-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 20/2023",
+      "data": "10.08.2023",
+      "godzina": "",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za I półrocze 2023 roku zdarzeń o jednorazowym charakterze",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1878-informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-i-polrocze-2023-roku-zdarzen-o-jednorazowym-charakterze.html"
+    },
+    {
+      "numer": "RB nr 19/2023",
+      "data": "03.07.2023",
+      "godzina": "",
+      "tytul": "Zawarcie aneksu nr 5 do przedwstępnej umowy sprzedaży udziałów w PAK-Polska Czysta Energia sp. z o.o. oraz zbycie udziałów w PAK-Polska Czysta Energia sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1871-zawarcie-aneksu-nr-5-do-przedwstepnej-umowy-sprzedazy-udzialow-w-pak-polska-czysta-energia-sp-z-oo-oraz-zbycie-udzialow-w-pak-polska-czysta-energia-sp-z-oo.html"
+    },
+    {
+      "numer": "RB nr 18/2023",
+      "data": "27.06.2023",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu ZE PAK SA w dniu 26 czerwca 2023 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1866-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-zwyczajnym-walnym-zgromadzeniu-ze-pak-sa-w-dniu-26-czerwca-2023-roku.html"
+    },
+    {
+      "numer": "RB nr 17/2023",
+      "data": "26.06.2023",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Akcjonariuszy ZE PAK SA w dniu 26 czerwca 2023 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1865-uchwaly-podjete-przez-zwyczajne-walne-zgromadzenie-akcjonariuszy-ze-pak-sa-w-dniu-26-czerwca-2023-roku.html"
+    },
+    {
+      "numer": "RB nr 16/2023",
+      "data": "14.06.2023",
+      "godzina": "",
+      "tytul": "Podjęcie przez PAK-Polska Czysta Energia Sp. z o.o. decyzji o zaciągnięciu pożyczki udzielonej przez Cyfrowy Polsat S.A. w celu finansowania projektu budowy farmy wiatrowej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1864-podjecie-przez-pak-polska-czysta-energia-sp-z-oo-decyzji-o-zaciagnieciu-pozyczki-udzielonej-przez-cyfrowy-polsat-sa-w-celu-finansowania-projektu-budowy-farmy-wiatrowej.html"
+    },
+    {
+      "numer": "RB nr 15/2023",
+      "data": "31.05.2023",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1850-ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 14/2023",
+      "data": "25.05.2023",
+      "godzina": "",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za I kwartał 2023 roku zdarzenia o jednorazowym charakterze oraz jego szacunkowym wpływie na wyniki finansowe",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1847-informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-i-kwartal-2023-roku-zdarzenia-o-jednorazowym-charakterze-oraz-jego-szacunkowym-wplywie-na-wyniki-finansowe.html"
+    },
+    {
+      "numer": "RB nr 13/2023",
+      "data": "24.05.2023",
+      "godzina": "",
+      "tytul": "Pozwolenie zintegrowane – oddalenie skargi Greenpeace Polska na decyzję Ministra Klimatu i Środowiska",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1846-pozwolenie-zintegrowane-oddalenie-skargi-greenpeace-polska-na-decyzje-ministra-klimatu-i-srodowiska.html"
+    },
+    {
+      "numer": "RB nr 12/2023",
+      "data": "22.05.2023",
+      "godzina": "",
+      "tytul": "Pozwolenie zintegrowane – uchylenie zaskarżonej decyzji Ministra Klimatu i Środowiska",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1845-pozwolenie-zintegrowane-uchylenie-zaskarzonej-decyzji-ministra-klimatu-i-srodowiska.html"
+    },
+    {
+      "numer": "RB nr 11/2023",
+      "data": "18.05.2023",
+      "godzina": "",
+      "tytul": "Zawiadomienie o udziale w ogólnej liczbie głosów",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1844-zawiadomienie-o-udziale-w-ogolnej-liczbie-glosow.html"
+    },
+    {
+      "numer": "RB nr 10/2023",
+      "data": "20.04.2023",
+      "godzina": "",
+      "tytul": "Zawarcie przez Park Wiatrowy Pałczyn 1 sp. z o.o. umowy kredytu z BANK POLSKA KASA OPIEKI S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1834-zawarcie-przez-park-wiatrowy-palczyn-1-sp-z-oo-umowy-kredytu-z-bank-polska-kasa-opieki-sa.html"
+    },
+    {
+      "numer": "RB nr 9/2023",
+      "data": "14.04.2023",
+      "godzina": "",
+      "tytul": "Nabycie projektu wiatrowego oraz zawarcie umowy pożyczki przez PAK-Polska Czysta Energia sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1833-nabycie-projektu-wiatrowego-oraz-zawarcie-umowy-pozyczki-przez-pak-polska-czysta-energia-sp-z-oo.html"
+    },
+    {
+      "numer": "RB nr 8/2023",
+      "data": "13.04.2023",
+      "godzina": "",
+      "tytul": "Zmiana w składzie Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1832-zmiana-w-skladzie-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 7/2023",
+      "data": "28.03.2023",
+      "godzina": "",
+      "tytul": "Zawarcie umowy przez PAK-PCE Polski Autobus Wodorowy sp. z o.o. na sprzedaż 20 sztuk autobusów elektrycznych zasilanych wodorem",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1831-zawarcie-umowy-przez-pak-pce-polski-autobus-wodorowy-sp-z-oo-na-sprzedaz-20-sztuk-autobusow-elektrycznych-zasilanych-wodorem.html"
+    },
+    {
+      "numer": "RB nr 6/2023",
+      "data": "07.03.2023",
+      "godzina": "",
+      "tytul": "Zawarcie porozumienia wstępnego dotyczącego utworzenia spółki celowej na potrzeby związane z projektem budowy elektrowni jądrowej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1828-zawarcie-porozumienia-wstepnego-dotyczacego-utworzenia-spolki-celowej-na-potrzeby-zwiazane-z-projektem-budowy-elektrowni-jadrowej.html"
+    },
+    {
+      "numer": "RB nr 5/2023",
+      "data": "21.02.2023",
+      "godzina": "",
+      "tytul": "Zawarcie przez PAK-PCE Stacje H2 sp. z o.o. umowy o dofinansowanie w formie dotacji z Narodowym Funduszem Ochrony Środowiska i Gospodarki Wodnej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1821-zawarcie-przez-pak-pce-stacje-h2-sp-z-oo-umowy-o-dofinansowanie-w-formie-dotacji-z-narodowym-funduszem-ochrony-srodowiska-i-gospodarki-wodnej.html"
+    },
+    {
+      "numer": "RB nr 4/2023",
+      "data": "08.02.2023",
+      "godzina": "",
+      "tytul": "Zawiadomienie o unieważnieniu czynności wyboru najkorzystniejszej oferty w postępowaniu publicznym pn. „Zakup 20 sztuk autobusów elektrycznych zasilanych wodorem”",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1820-zawiadomienie-o-uniewaznieniu-czynnosci-wyboru-najkorzystniejszej-oferty-w-postepowaniu-publicznym-pn-zakup-20-sztuk-autobusow-elektrycznych-zasilanych-wodorem.html"
+    },
+    {
+      "numer": "RB nr 3/2023",
+      "data": "03.02.2023",
+      "godzina": "",
+      "tytul": "Zawiadomienie o wyborze PAK-PCE Polski Autobus Wodorowy sp. z o.o. na wykonawcę zadania w postępowaniu publicznym pn. „Zakup 20 sztuk autobusów elektrycznych zasilanych wodorem”",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1818-zawiadomienie-o-wyborze-pak-pce-polski-autobus-wodorowy-sp-z-oo-na-wykonawce-zadania-w-postepowaniu-publicznym-pn-zakup-20-sztuk-autobusow-elektrycznych-zasilanych-wodorem.html"
+    },
+    {
+      "numer": "RB nr 2/2023",
+      "data": "27.01.2023",
+      "godzina": "",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2023",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1798-terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2023.html"
+    },
+    {
+      "numer": "RB nr 1/2023",
+      "data": "09.01.2023",
+      "godzina": "",
+      "tytul": "Zawiadomienie o przekroczeniu progu w znacznych pakietach akcji",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1796-zawiadomienie-o-przekroczeniu-progu-w-znacznych-pakietach-akcji.html"
+    },
+    {
+      "numer": "42/2022",
+      "data": "30.12.2022",
+      "godzina": "",
+      "tytul": "Aktualizacja informacji o wpływie nowych regulacji prawnych na sytuację finansową spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1793-aktualizacja-informacji-o-wplywie-nowych-regulacji-prawnych-na-sytuacje-finansowa-spolki.html"
+    },
+    {
+      "numer": "41/2022",
+      "data": "22.12.2022",
+      "godzina": "",
+      "tytul": "Zawarcie przez PAK-PCE Polski Autobus Wodorowy sp. z o.o. umowy pożyczki preferencyjnej z Narodowym Funduszem Ochrony Środowiska",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1789-zawarcie-przez-pak-pce-polski-autobus-wodorowy-sp-z-oo-umowy-pozyczki-preferencyjnej-z-narodowym-funduszem-ochrony-srodowiska.html"
+    },
+    {
+      "numer": "40/2022",
+      "data": "19.12.2022",
+      "godzina": "",
+      "tytul": "Zawarcie aneksu nr 4 do przedwstępnej umowy sprzedaży udziałów w PAK-Polska Czysta Energia sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1780-zawarcie-aneksu-nr-4-do-przedwstepnej-umowy-sprzedazy-udzialow-w-pak-polska-czysta-energia-sp-z-oo.html"
+    },
+    {
+      "numer": "39/2022",
+      "data": "02.12.2022",
+      "godzina": "",
+      "tytul": "Nabycie przez spółkę zależną ZE PAK S.A., tj. PAK-Polska Czysta Energia sp. z o.o. projektu wiatrowego",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1779-nabycie-przez-spolke-zalezna-ze-pak-sa-tj-pak-polska-czysta-energia-sp-z-oo-projektu-wiatrowego.html"
+    },
+    {
+      "numer": "38/2022",
+      "data": "18.11.2022",
+      "godzina": "",
+      "tytul": "Informacja o wpływie nowych regulacji prawnych na sytuację finansową spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1773-informacja-o-wplywie-nowych-regulacji-prawnych-na-sytuacje-finansowa-spolki.html"
+    },
+    {
+      "numer": "37/2022",
+      "data": "18.11.2022",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji skonsolidowanego raportu kwartalnego za III kwartał 2022 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1772-zmiana-terminu-publikacji-skonsolidowanego-raportu-kwartalnego-za-iii-kwartal-2022-roku.html"
+    },
+    {
+      "numer": "36/2022",
+      "data": "31.10.2022",
+      "godzina": "",
+      "tytul": "Zawarcie listu intencyjnego dotyczącego współpracy w ramach projektu budowy elektrowni jądrowej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1771-zawarcie-listu-intencyjnego-dotyczacego-wspolpracy-w-ramach-projektu-budowy-elektrowni-jadrowej.html"
+    },
+    {
+      "numer": "35/2022",
+      "data": "31.10.2022",
+      "godzina": "",
+      "tytul": "Wypowiedzenie umowy o współpracy z MS Innovation Impulse GMBH",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1770-wypowiedzenie-umowy-o-wspolpracy-z-ms-innovation-impulse-gmbh.html"
+    },
+    {
+      "numer": "34/2022",
+      "data": "05.10.2022",
+      "godzina": "",
+      "tytul": "Zawarcie dokumentów zabezpieczeń związanych z umową kredytu oraz zawarcie umowy sprzedaży energii elektrycznej (PPA)",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1764-zawarcie-dokumentow-zabezpieczen-zwiazanych-z-umowa-kredytu-oraz-zawarcie-umowy-sprzedazy-energii-elektrycznej-ppa.html"
+    },
+    {
+      "numer": "33/2022",
+      "data": "26.09.2022",
+      "godzina": "",
+      "tytul": "Zawarcie aneksu nr 3 do przedwstępnej umowy sprzedaży udziałów w PAK-Polska Czysta Energia sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1761-zawarcie-aneksu-nr-3-do-przedwstepnej-umowy-sprzedazy-udzialow-w-pak-polska-czysta-energia-sp-z-oo.html"
+    },
+    {
+      "numer": "32/2022",
+      "data": "26.09.2022",
+      "godzina": "",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za I półrocze 2022 roku zdarzeń o jednorazowym charakterze oraz ich szacunkowym wpływie na wyniki finansowe",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1760-informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-i-polrocze-2022-roku-zdarzen-o-jednorazowym-charakterze-oraz-ich-szacunkowym-wplywie-na-wyniki-finansowe.html"
+    },
+    {
+      "numer": "31/2022",
+      "data": "20.09.2022",
+      "godzina": "",
+      "tytul": "Zawarcie przez Farma Wiatrowa Kazimierz Biskupi sp. z o.o. umowy kredytu z Bankiem Gospodarstwa Krajowego",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1759-zawarcie-przez-farma-wiatrowa-kazimierz-biskupi-sp-z-oo-umowy-kredytu-z-bankiem-gospodarstwa-krajowego.html"
+    },
+    {
+      "numer": "30/2022",
+      "data": "06.09.2022",
+      "godzina": "",
+      "tytul": "Zawarcie umowy pożyczki przez PAK-Polska Czysta Energia sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1757-zawarcie-umowy-pozyczki-przez-pak-polska-czysta-energia-sp-z-oo.html"
+    },
+    {
+      "numer": "29/2022",
+      "data": "29.08.2022",
+      "godzina": "",
+      "tytul": "Podjęcie decyzji o nabyciu przez spółkę zależną ZE PAK S.A., tj. PAK-Polska Czysta Energia sp. z o.o. projektu wiatrowego",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1755-podjecie-decyzji-o-nabyciu-przez-spolke-zalezna-ze-pak-sa-tj-pak-polska-czysta-energia-sp-z-oo-projektu-wiatrowego.html"
+    },
+    {
+      "numer": "28/2022",
+      "data": "08.08.2022",
+      "godzina": "",
+      "tytul": "Zawarcie przez ZE PAK S.A. ze spółką Ørsted Wind Power A/S umowy ramowej oraz aneksu do umowy wspólników",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1752-zawarcie-przez-ze-pak-sa-ze-spolka-orsted-wind-power-as-umowy-ramowej-oraz-aneksu-do-umowy-wspolnikow.html"
+    },
+    {
+      "numer": "27/2022",
+      "data": "26.07.2022",
+      "godzina": "",
+      "tytul": "Wyrok WSA w Warszawie – koncesja na wydobywanie węgla brunatnego",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1750-wyrok-wsa-w-warszawie-koncesja-na-wydobywanie-wegla-brunatnego.html"
+    },
+    {
+      "numer": "26/2022",
+      "data": "01.07.2022",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu ZE PAK SA w dniu 30 czerwca 2022 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1744-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-zwyczajnym-walnym-zgromadzeniu-ze-pak-sa-w-dniu-30-czerwca-2022-roku.html"
+    },
+    {
+      "numer": "25/2022",
+      "data": "30.06.2022",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Akcjonariuszy ZE PAK SA w dniu 30 czerwca 2022 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1743-uchwaly-podjete-przez-zwyczajne-walne-zgromadzenie-akcjonariuszy-ze-pak-sa-w-dniu-30-czerwca-2022-roku.html"
+    },
+    {
+      "numer": "24/2022",
+      "data": "27.06.2022",
+      "godzina": "",
+      "tytul": "Podjęcie decyzji przez ZE PAK S.A. o zawarciu aneksu nr 2 do przedwstępnej umowy sprzedaży udziałów w PAK-Polska Czysta Energia sp. z o.o. oraz przeniesienie własności zorganizowanej części przedsiębiorstwa Elektrowni Konin na PAK-PCE Biopaliwa i Wodór sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1742-podjecie-decyzji-przez-ze-pak-sa-o-zawarciu-aneksu-nr-2-do-przedwstepnej-umowy-sprzedazy-udzialow-w-pak-polska-czysta-energia-sp-z-oo-oraz-przeniesienie-wlasnosci-zorganizowanej-czesci-przedsiebiorstwa-elektrowni-konin-na-pak-pce-biopaliwa-i-wodor-sp-z-oo.html"
+    },
+    {
+      "numer": "23/2022",
+      "data": "15.06.2022",
+      "godzina": "",
+      "tytul": "Zawarcie umowy przez PAK-PCE Polski Autobus Wodorowy sp. z o.o. na budowę zakładu produkcyjnego autobusów zasilanych ogniwami wodorowymi",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1734-zawarcie-umowy-przez-pak-pce-polski-autobus-wodorowy-sp-z-oo-na-budowe-zakladu-produkcyjnego-autobusow-zasilanych-ogniwami-wodorowymi.html"
+    },
+    {
+      "numer": "22/2022",
+      "data": "14.06.2022",
+      "godzina": "",
+      "tytul": "Rejestracja zmian Statutu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1733-rejestracja-zmian-statutu-ze-pak-sa.html"
+    },
+    {
+      "numer": "21/2022",
+      "data": "10.06.2022",
+      "godzina": "",
+      "tytul": "Nabycie przez spółkę zależną ZE PAK S.A., tj. PAK-Polska Czysta Energia sp. z o.o. projektu wiatrowego",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1732-nabycie-przez-spolke-zalezna-ze-pak-sa-tj-pak-polska-czysta-energia-sp-z-oo-projektu-wiatrowego.html"
+    },
+    {
+      "numer": "20/2022",
+      "data": "03.06.2022",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1727-ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-ze-pak-sa.html"
+    },
+    {
+      "numer": "19/2022",
+      "data": "23.05.2022",
+      "godzina": "",
+      "tytul": "Zwiększenie limitu dostępnego finansowania w umowie kredytowej zawartej przez PAK Polska Czysta Energia Sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1722-zwiekszenie-limitu-dostepnego-finansowania-w-umowie-kredytowej-zawartej-przez-pak-polska-czysta-energia-sp-z-oo.html"
+    },
+    {
+      "numer": "18/2022",
+      "data": "26.04.2022",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji jednostkowego i skonsolidowanego raportu rocznego za 2021 rok",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1705-zmiana-terminu-publikacji-jednostkowego-i-skonsolidowanego-raportu-rocznego-za-2021-rok.html"
+    },
+    {
+      "numer": "17/2022",
+      "data": "25.04.2022",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu ZE PAK SA w dniu 22 kwietnia 2022 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1704-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-ze-pak-sa-w-dniu-22-kwietnia-2022-roku.html"
+    },
+    {
+      "numer": "16/2022/K",
+      "data": "25.04.2022",
+      "godzina": "",
+      "tytul": "Korekta raportu bieżącego nr 16/2022:Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Akcjonariuszy ZE PAK SA w dniu 22 kwietnia 2022 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1703-korekta-raportu-biezacego-nr-162022uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenie-akcjonariuszy-ze-pak-sa-w-dniu-22-kwietnia-2022-roku.html"
+    },
+    {
+      "numer": "16/2022",
+      "data": "22.04.2022",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Akcjonariuszy ZE PAK SA w dniu 22 kwietnia 2022 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1702-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenie-akcjonariuszy-ze-pak-sa-w-dniu-22-kwietnia-2022-roku.html"
+    },
+    {
+      "numer": "15/2022",
+      "data": "14.04.2022",
+      "godzina": "",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za 2021 rok zdarzeń jednorazowych oraz ich szacunkowym wpływie na wyniki finansowe",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1701-informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-2021-rok-zdarzen-jednorazowych-oraz-ich-szacunkowym-wplywie-na-wyniki-finansowe.html"
+    },
+    {
+      "numer": "14/2022",
+      "data": "13.04.2022",
+      "godzina": "",
+      "tytul": "Nabycie kolejnych spółek projektowych od Ørsted Wind Power A/S",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1700-nabycie-kolejnych-spolek-projektowych-od-orsted-wind-power-as.html"
+    },
+    {
+      "numer": "13/2022",
+      "data": "11.04.2022",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji jednostkowego i skonsolidowanego raportu rocznego za 2021 rok",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1699-zmiana-terminu-publikacji-jednostkowego-i-skonsolidowanego-raportu-rocznego-za-2021-rok.html"
+    },
+    {
+      "numer": "12/2022",
+      "data": "30.03.2022",
+      "godzina": "",
+      "tytul": "Rezygnacja z Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1696-rezygnacja-z-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "11/2022",
+      "data": "30.03.2022",
+      "godzina": "",
+      "tytul": "Zawarcie przez ZE PAK S.A. ze spółką Cyfrowy Polsat S.A. aneksu do przedwstępnej umowy sprzedaży udziałów w PAK-Polska Czysta Energia sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1695-zawarcie-przez-ze-pak-sa-ze-spolka-cyfrowy-polsat-sa-aneksu-do-przedwstepnej-umowy-sprzedazy-udzialow-w-pak-polska-czysta-energia-sp-z-oo.html"
+    },
+    {
+      "numer": "10/2022",
+      "data": "25.03.2022",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1694-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-ze-pak-sa.html"
+    },
+    {
+      "numer": "9/2022",
+      "data": "14.03.2022",
+      "godzina": "",
+      "tytul": "Informacje na temat osób powołanych do składu Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1687-informacje-na-temat-osob-powolanych-do-skladu-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "8/2022",
+      "data": "11.03.2022",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu ZE PAK SA w dniu 10 marca 2022 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1686-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-ze-pak-sa-w-dniu-10-marca-2022-roku.html"
+    },
+    {
+      "numer": "7/2022",
+      "data": "10.03.2022",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Akcjonariuszy ZE PAK SA w dniu 10 marca 2022 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1685-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenie-akcjonariuszy-ze-pak-sa-w-dniu-10-marca-2022-roku.html"
+    },
+    {
+      "numer": "6/2022",
+      "data": "10.03.2022",
+      "godzina": "",
+      "tytul": "Powołanie nowych członków Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1684-powolanie-nowych-czlonkow-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "5/2022",
+      "data": "08.03.2022",
+      "godzina": "",
+      "tytul": "Nabycie spółek projektowych oraz zawarcie umowy wspólników z Ørsted Wind Power A/S",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1683-nabycie-spolek-projektowych-oraz-zawarcie-umowy-wspolnikow-z-orsted-wind-power-as.html"
+    },
+    {
+      "numer": "4/2022",
+      "data": "04.03.2022",
+      "godzina": "",
+      "tytul": "Nabycie przez spółkę zależną ZE PAK S.A., tj. PAK-Polska Czysta Energia sp. z o.o. projektu wiatrowego",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1682-nabycie-przez-spolke-zalezna-ze-pak-sa-tj-pak-polska-czysta-energia-sp-z-oo-projektu-wiatrowego.html"
+    },
+    {
+      "numer": "3/2022",
+      "data": "25.02.2022",
+      "godzina": "",
+      "tytul": "Podjęcie przez spółkę zależną ZE PAK S.A. tj. PAK-Polska Czysta Energia sp. z o.o. decyzji o zaciągnięciu pożyczki oraz udzieleniu pożyczek spółkom projektowym w celu realizacji projektu wiatrowego",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1681-podjecie-przez-spolke-zalezna-ze-pak-sa-tj-pak-polska-czysta-energia-sp-z-oo-decyzji-o-zaciagnieciu-pozyczki-oraz-udzieleniu-pozyczek-spolkom-projektowym-w-celu-realizacji-projektu-wiatrowego.html"
+    },
+    {
+      "numer": "2/2022",
+      "data": "11.02.2022",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1677-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-ze-pak-sa.html"
+    },
+    {
+      "numer": "1/2022",
+      "data": "26.01.2022",
+      "godzina": "",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2022",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1655-terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2022.html"
+    },
+    {
+      "numer": "5/2022",
+      "data": "08.03.2022",
+      "godzina": "",
+      "tytul": "Nabycie spółek projektowych oraz zawarcie umowy wspólników z Ørsted Wind Power A/S",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1683-nabycie-spolek-projektowych-oraz-zawarcie-umowy-sprzedazy-z-orsted-wind-power-as.html"
+    },
+    {
+      "numer": "RB nr 32/2021",
+      "data": "23.12.2021",
+      "godzina": "",
+      "tytul": "Nabycie projektu wiatrowego przez PAK Polska Czysta Energia sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1647-nabycie-projektu-wiatrowego-przez-pak-polska-czysta-energia-sp-z-oo.html"
+    },
+    {
+      "numer": "RB nr 31/2021",
+      "data": "20.12.2021",
+      "godzina": "",
+      "tytul": "Zawarcie przez ZE PAK S.A. ze spółką Cyfrowy Polsat S.A. przedwstępnej umowy sprzedaży udziałów w PAK-Polska Czysta Energia sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1641-zawarcie-przez-ze-pak-sa-ze-spolka-cyfrowy-polsat-sa-przedwstepnej-umowy-sprzedazy-udzialow-w-pak-polska-czysta-energia-sp-z-oo.html"
+    },
+    {
+      "numer": "RB nr 30/2021",
+      "data": "20.12.2021",
+      "godzina": "",
+      "tytul": "Ujawnienie opóźnionej informacji poufnej w sprawie rozpoczęcia przez ZE PAK S.A. rozmów z Cyfrowy Polsat S.A. na temat potencjalnej możliwości współpracy w realizacji strategii Spółki w obszarze rozwoju projektów związanych z wytwarzaniem energii w źródłach niskoemisyjnych i zeroemisyjnych oraz wytwarzania i wykorzystania zielonego wodoru.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1642-ujawnienie-opoznionej-informacji-poufnej-w-sprawie-rozpoczecia-przez-ze-pak-sa-rozmow-z-cyfrowy-polsat-sa-na-temat-potencjalnej-mozliwosci-wspolpracy-w-realizacji-strategii-spolki-w-obszarze-rozwoju-projektow-zwiazanych-z-wytwarzaniem-energii-w-zrodlach-niskoemisyjnych-i-zeroemisyjnych-oraz-wytwarzania-i-wykorzystania-zielonego-wodoru.html"
+    },
+    {
+      "numer": "RB nr 29/2021",
+      "data": "20.12.2021",
+      "godzina": "",
+      "tytul": "Wstępne wyniki aukcji rynku mocy",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1639-wstepne-wyniki-aukcji-rynku-mocy.html"
+    },
+    {
+      "numer": "RB nr 28/2021/K",
+      "data": "16.12.2021",
+      "godzina": "",
+      "tytul": "Korekta raportu bieżącego nr 28/2021: Wyniki aukcji rynku mocy",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1638-korekta-raportu-biezacego-nr-282021-wyniki-aukcji-rynku-mocy.html"
+    },
+    {
+      "numer": "RB nr 28/2021",
+      "data": "16.12.2021",
+      "godzina": "",
+      "tytul": "Wyniki aukcji rynku mocy",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1637-wyniki-aukcji-rynku-mocy.html"
+    },
+    {
+      "numer": "RB nr 27/2021",
+      "data": "14.10.2021",
+      "godzina": "",
+      "tytul": "Zawarcie Listu intencyjnego z Orsted Wind Power",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1627-zawarcie-listu-intencyjnego-z-orsted-wind-power.html"
+    },
+    {
+      "numer": "RB nr 26/2021",
+      "data": "04.10.2021",
+      "godzina": "",
+      "tytul": "Rejestracja zmian Statutu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1624-rejestracja-zmian-statutu-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 25/2021",
+      "data": "31.08.2021",
+      "godzina": "",
+      "tytul": "Zawarcie umowy o współpracy z MS Innovation Impulse GMBH",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1618-zawarcie-umowy-o-wspolpracy-z-ms-innovation-impulse-gmbh.html"
+    },
+    {
+      "numer": "RB nr 24/2021",
+      "data": "23.08.2021",
+      "godzina": "",
+      "tytul": "Zmiana Miejscowego planu zagospodarowania przestrzennego – Projekt farmy fotowoltaicznej Przykona",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1615-zmiana-miejscowego-planu-zagospodarowania-przestrzennego-projekt-farmy-fotowoltaicznej-przykona.html"
+    },
+    {
+      "numer": "RB nr 23/2021",
+      "data": "18.08.2021",
+      "godzina": "",
+      "tytul": "Nabycie projektu wiatrowego przez PAK Polska Czysta Energia Sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1614-nabycie-projektu-wiatrowego-przez-pak-polska-czysta-energia-sp-z-oo.html"
+    },
+    {
+      "numer": "RB nr 22/2021",
+      "data": "21.07.2021",
+      "godzina": "",
+      "tytul": "Decyzja środowiskowa dla wytwórni wodoru",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1611-decyzja-srodowiskowa-dla-wytworni-wodoru.html"
+    },
+    {
+      "numer": "RB nr 21/2021",
+      "data": "19.07.2021",
+      "godzina": "",
+      "tytul": "Powiadomienie o ustanowieniu zastawu na akcjach Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1609-powiadomienie-o-ustanowieniu-zastawu-na-akcjach-spolki.html"
+    },
+    {
+      "numer": "RB nr 20/2021",
+      "data": "15.07.2021",
+      "godzina": "",
+      "tytul": "Pozwolenie zintegrowane – uchylenie zaskarżonej decyzji",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1607-pozwolenie-zintegrowane-uchylenie-zaskarzonej-decyzji.html"
+    },
+    {
+      "numer": "RB nr 19/2021",
+      "data": "29.06.2021",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 28 czerwca 2021 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1602-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-zwyczajnym-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-28-czerwca-2021-roku.html"
+    },
+    {
+      "numer": "RB nr 18/2021",
+      "data": "28.06.2021",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Akcjonariuszy Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 28 czerwca 2021 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1600-uchwaly-podjete-przez-zwyczajne-walne-zgromadzenie-akcjonariuszy-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-28-czerwca-2021-roku.html"
+    },
+    {
+      "numer": "RB nr 17/2021",
+      "data": "23.06.2021",
+      "godzina": "",
+      "tytul": "Zawarcie umowy kredytowej przez PAK Polska Czysta Energia Sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1599-zawarcie-umowy-kredytowej-przez-pak-polska-czysta-energia-sp-z-oo.html"
+    },
+    {
+      "numer": "RB nr 16/2021",
+      "data": "04.06.2021",
+      "godzina": "",
+      "tytul": "Pozwolenie zintegrowane – uchylenie zaskarżonej decyzji",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1594-pozwolenie-zintegrowane-uchylenie-zaskarzonej-decyzji.html"
+    },
+    {
+      "numer": "RB nr 15/2021",
+      "data": "01.06.2021",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1591-ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "RB nr 14/2021",
+      "data": "29.04.2021",
+      "godzina": "",
+      "tytul": "Informacja o odstąpieniu od umowy dotyczącej rozbiórki obiektów w Elektrowni Adamów",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1583-informacja-o-odstapieniu-od-umowy-dotyczacej-rozbiorki-obiektow-w-elektrowni-adamow.html"
+    },
+    {
+      "numer": "RB nr 13/2021",
+      "data": "12.04.2021",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji jednostkowego i skonsolidowanego raportu rocznego za 2020 rok",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1577-zmiana-terminu-publikacji-jednostkowego-i-skonsolidowanego-raportu-rocznego-za-2020-rok.html"
+    },
+    {
+      "numer": "RB nr 12/2021",
+      "data": "09.04.2021",
+      "godzina": "",
+      "tytul": "Pozwolenie zintegrowane – uchylenie zaskarżonej decyzji",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1575-pozwolenie-zintegrowane-uchylenie-zaskarzonej-decyzji.html"
+    },
+    {
+      "numer": "RB nr 11/2021",
+      "data": "06.04.2021",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji jednostkowego i skonsolidowanego raportu rocznego za 2020 rok",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1573-zmiana-terminu-publikacji-jednostkowego-i-skonsolidowanego-raportu-rocznego-za-2020-rok.html"
+    },
+    {
+      "numer": "RB nr 10/2021",
+      "data": "16.03.2021",
+      "godzina": "",
+      "tytul": "Postanowienie w sprawie decyzji Ministra Klimatu (dostosowanie do kBAT)",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1571-postanowienie-w-sprawie-decyzji-ministra-klimatu-dostosowanie-do-kbat.html"
+    },
+    {
+      "numer": "RB nr 9/2021",
+      "data": "12.03.2021",
+      "godzina": "",
+      "tytul": "Zawarcie umowy kredytowej na finansowanie projektu budowy farmy fotowoltaicznej o mocy zainstalowanej 70MWp w Brudzewie",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1566-zawarcie-umowy-kredytowej-na-finansowanie-projektu-budowy-farmy-fotowoltaicznej-o-mocy-zainstalowanej-70mwp-w-brudzewie.html"
+    },
+    {
+      "numer": "RB nr 8/2021",
+      "data": "12.03.2021",
+      "godzina": "",
+      "tytul": "Zawarcie umowy sprzedaży energii (PPA)",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1565-zawarcie-umowy-sprzedazy-energii-ppa.html"
+    },
+    {
+      "numer": "RB nr 7/2021",
+      "data": "03.03.2021",
+      "godzina": "",
+      "tytul": "Informacje na temat osób powołanych do składu Zarządu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1562-informacje-na-temat-osob-powolanych-do-skladu-zarzadu-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 6/2021",
+      "data": "02.03.2021",
+      "godzina": "",
+      "tytul": "Powołanie do Zarządu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1561-powolanie-do-zarzadu-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 5/2021",
+      "data": "29.01.2021",
+      "godzina": "",
+      "tytul": "Zawarcie umowy kredytowej na finansowanie projektu inwestycyjnego w Elektrowni Konin",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1550-zawarcie-umowy-kredytowej-na-finansowanie-projektu-inwestycyjnego-w-elektrowni-konin.html"
+    },
+    {
+      "numer": "RB nr 4/2021",
+      "data": "26.01.2021",
+      "godzina": "",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2021",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1530-terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2021.html"
+    },
+    {
+      "numer": "RB nr 3/2021",
+      "data": "21.01.2021",
+      "godzina": "",
+      "tytul": "Postanowienie WSA w sprawie wstrzymania wykonania decyzji Ministra Klimatu",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1529-postanowienie-wsa-w-sprawie-wstrzymania-wykonania-decyzji-ministra-klimatu.html"
+    },
+    {
+      "numer": "RB nr 2/2021",
+      "data": "18.01.2021",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 18 stycznia 2021 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1528-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-18-stycznia-2021-roku.html"
+    },
+    {
+      "numer": "RB nr 1/2021",
+      "data": "18.01.2021",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Akcjonariuszy Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 18 stycznia 2021 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1527-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenie-akcjonariuszy-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-18-stycznia-2021-roku.html"
+    },
+    {
+      "numer": "67/2020",
+      "data": "22.12.2020",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1523-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "66/2020",
+      "data": "22.12.2020",
+      "godzina": "",
+      "tytul": "Przeniesienie praw i obowiązków - Umowa dotycząca budowy farmy fotowoltaicznej o mocy 70 MWp w Brudzewie",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1522-przeniesienie-praw-i-obowiazkow-umowa-dotyczaca-budowy-farmy-fotowoltaicznej-o-mocy-70-mwp-w-brudzewie.html"
+    },
+    {
+      "numer": "65/2020",
+      "data": "11.12.2020",
+      "godzina": "",
+      "tytul": "Wybór Przewodniczącego Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1519-wybor-przewodniczacego-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "64/2020",
+      "data": "09.12.2020",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 9 grudnia 2020 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1516-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-9-grudnia-2020-roku.html"
+    },
+    {
+      "numer": "63/2020",
+      "data": "09.12.2020",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Akcjonariuszy Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 9 grudnia 2020 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1515-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenie-akcjonariuszy-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-9-grudnia-2020-roku.html"
+    },
+    {
+      "numer": "62/2020",
+      "data": "07.12.2020",
+      "godzina": "",
+      "tytul": "Informacje na temat osób powołanych do składu Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1512-informacje-na-temat-osob-powolanych-do-skladu-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "61/2020",
+      "data": "07.12.2020",
+      "godzina": "",
+      "tytul": "Rejestracja zmian Statutu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1511-rejestracja-zmian-statutu-ze-pak-sa.html"
+    },
+    {
+      "numer": "60/2020",
+      "data": "03.12.2020",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 1 grudnia 2020 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1506-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-1-grudnia-2020-roku.html"
+    },
+    {
+      "numer": "59/2020",
+      "data": "02.12.2020",
+      "godzina": "",
+      "tytul": "Informacja o zaniechaniu działań zmierzających do eksploatacji nowych złóż węgla brunatnego",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1505-informacja-o-zaniechaniu-dzialan-zmierzajacych-do-eksploatacji-nowych-zloz-wegla-brunatnego.html"
+    },
+    {
+      "numer": "58/2020",
+      "data": "01.12.2020",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Akcjonariuszy Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 1 grudnia 2020 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1504-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenie-akcjonariuszy-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-1-grudnia-2020-roku.html"
+    },
+    {
+      "numer": "57/2020",
+      "data": "01.12.2020",
+      "godzina": "",
+      "tytul": "Powołanie nowych członków Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1503-powolanie-nowych-czlonkow-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "56/2020",
+      "data": "12.11.2020",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1496-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "55/2020",
+      "data": "12.11.2020",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji skonsolidowanego raportu za III kwartał 2020 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1494-zmiana-terminu-publikacji-skonsolidowanego-raportu-za-iii-kwartal-2020-roku.html"
+    },
+    {
+      "numer": "54/2020",
+      "data": "05.11.2020",
+      "godzina": "",
+      "tytul": "Zmiany w Zarządzie ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1491-zmiany-w-zarzadzie-ze-pak-sa.html"
+    },
+    {
+      "numer": "53/2020",
+      "data": "04.11.2020",
+      "godzina": "",
+      "tytul": "Rezygnacja z pełnienia funkcji Przewodniczącego Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1490-rezygnacja-z-pelnienia-funkcji-przewodniczacego-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "52/2020",
+      "data": "03.11.2020",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1489-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "51/2020",
+      "data": "03.11.2020",
+      "godzina": "",
+      "tytul": "Rezygnacja z pełnienia funkcji Prezesa Zarządu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1487-rezygnacja-z-pelnienia-funkcji-prezesa-zarzadu-ze-pak-sa.html"
+    },
+    {
+      "numer": "50/2020",
+      "data": "23.10.2020",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie stanu posiadania udziałów Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1483-zawiadomienie-o-zmianie-stanu-posiadania-udzialow-spolki.html"
+    },
+    {
+      "numer": "49/2020",
+      "data": "23.10.2020",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie stanu posiadania udziałów Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1482-zawiadomienie-o-zmianie-stanu-posiadania-udzialow-spolki.html"
+    },
+    {
+      "numer": "48/2020",
+      "data": "05.10.2020",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie stanu posiadania udziałów Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1471-zawiadomienie-o-zmianie-stanu-posiadania-udzialow-spolki.html"
+    },
+    {
+      "numer": "47/2020",
+      "data": "05.10.2020",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie stanu posiadania udziałów Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1470-zawiadomienie-o-zmianie-stanu-posiadania-udzialow-spolki.html"
+    },
+    {
+      "numer": "46/2020",
+      "data": "02.10.2020",
+      "godzina": "",
+      "tytul": "Informacja o uzyskaniu odstępstwa od granicznych wielkości emisji dla elektrowni Pątnów i elektrowni- Konin",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1468-informacja-o-uzyskaniu-odstepstwa-od-granicznych-wielkosci-emisji-dla-elektrowni-patnow-i-elektrowni-konin.html"
+    },
+    {
+      "numer": "45/2020",
+      "data": "23.09.2020",
+      "godzina": "",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za pierwsze półrocze 2020 roku odpisów aktualizujących wartość aktywów oraz ich szacunkowym wpływie na wyniki finansowe",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1465-informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-pierwsze-polrocze-2020-roku-odpisow-aktualizujacych-wartosc-aktywow-oraz-ich-szacunkowym-wplywie-na-wyniki-finansowe.html"
+    },
+    {
+      "numer": "44/2020",
+      "data": "23.09.2020",
+      "godzina": "",
+      "tytul": "Umowa dotycząca budowy farmy fotowoltaicznej o mocy 70 MWp w Brudzewie",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1463-umowa-dotyczaca-budowy-farmy-fotowoltaicznej-o-mocy-70-mwp-w-brudzewie.html"
+    },
+    {
+      "numer": "43/2020",
+      "data": "21.09.2020",
+      "godzina": "",
+      "tytul": "Rejestracja zmian Statutu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1462-rejestracja-zmian-statutu-ze-pak-sa.html"
+    },
+    {
+      "numer": "42/2020",
+      "data": "18.09.2020",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 17 września 2020 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1461-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-17-wrzesnia-2020-roku.html"
+    },
+    {
+      "numer": "41/2020",
+      "data": "17.09.2020",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Akcjonariuszy Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 17 września 2020 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1460-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenie-akcjonariuszy-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-17-wrzesnia-2020-roku.html"
+    },
+    {
+      "numer": "40/2020",
+      "data": "17.09.2020",
+      "godzina": "",
+      "tytul": "Informacja o szacowanej wysokości rezerw związanej z restrukturyzacją zatrudnienia w GK ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1458-informacja-o-szacowanej-wysokosci-rezerw-zwiazanej-z-restrukturyzacja-zatrudnienia-w-gk-ze-pak-sa.html"
+    },
+    {
+      "numer": "39/2020",
+      "data": "31.08.2020",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji skonsolidowanego raportu za I półrocze 2020 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1455-zmiana-terminu-publikacji-skonsolidowanego-raportu-za-i-polrocze-2020-roku.html"
+    },
+    {
+      "numer": "38/2020",
+      "data": "20.08.2020",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1454-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "37/2020",
+      "data": "11.08.2020",
+      "godzina": "",
+      "tytul": "Informacja o zamiarze przeprowadzenia zwolnień grupowych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1451-informacja-o-zamiarze-przeprowadzenia-zwolnien-grupowych.html"
+    },
+    {
+      "numer": "36/2020",
+      "data": "03.08.2020",
+      "godzina": "",
+      "tytul": "Rozpoczęcie działań zmierzających do likwidacji spółki zależnej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1450-rozpoczecie-dzialan-zmierzajacych-do-likwidacji-spolki-zaleznej.html"
+    },
+    {
+      "numer": "35/2020",
+      "data": "22.06.2020",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie stanu posiadania udziałów Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1428-zawiadomienie-o-zmianie-stanu-posiadania-udzialow-spolki.html"
+    },
+    {
+      "numer": "34/2020",
+      "data": "22.06.2020",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie stanu posiadania udziałów Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1427-zawiadomienie-o-zmianie-stanu-posiadania-udzialow-spolki.html"
+    },
+    {
+      "numer": "33/2020",
+      "data": "22.06.2020",
+      "godzina": "",
+      "tytul": "Zmiany w organach Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1426-zmiany-w-organach-spolki.html"
+    },
+    {
+      "numer": "32/2020",
+      "data": "19.06.2020",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 19 czerwca 2020 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1425-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-19-czerwca-2020-roku.html"
+    },
+    {
+      "numer": "31/2020",
+      "data": "19.06.2020",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Walne Zgromadzenie Akcjonariuszy Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 19 czerwca 2020 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1424-uchwaly-podjete-przez-walne-zgromadzenie-akcjonariuszy-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-19-czerwca-2020-roku.html"
+    },
+    {
+      "numer": "30/2020",
+      "data": "19.06.2020",
+      "godzina": "",
+      "tytul": "Informacje na temat osób powołanych do składu Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1423-informacje-na-temat-osob-powolanych-do-skladu-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "29/2020",
+      "data": "19.06.2020",
+      "godzina": "",
+      "tytul": "Powołanie członków Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1422-powolanie-czlonkow-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "28/2020",
+      "data": "19.06.2020",
+      "godzina": "",
+      "tytul": "Decyzja w sprawie odkrywki Tomisławice",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1421-decyzja-w-sprawie-odkrywki-tomislawice.html"
+    },
+    {
+      "numer": "27/2020",
+      "data": "18.06.2020",
+      "godzina": "",
+      "tytul": "Rezygnacja z Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1420-rezygnacja-z-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "26/2020",
+      "data": "18.06.2020",
+      "godzina": "",
+      "tytul": "Zgłoszenie kandydata na Członka Rady Nadzorczej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1419-zgloszenie-kandydata-na-czlonka-rady-nadzorczej.html"
+    },
+    {
+      "numer": "25/2020",
+      "data": "09.06.2020",
+      "godzina": "",
+      "tytul": "Rezygnacja z Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1418-rezygnacja-z-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "24/2020",
+      "data": "28.05.2020",
+      "godzina": "",
+      "tytul": "Wniosek akcjonariusza o uzupełnienie porządku obrad Zwyczajnego Walnego Zgromadzenia Spółki zwołanego na dzień 19 czerwca 2020 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1414-wniosek-akcjonariusza-o-uzupelnienie-porzadku-obrad-zwyczajnego-walnego-zgromadzenia-spolki-zwolanego-na-dzien-19-czerwca-2020-roku.html"
+    },
+    {
+      "numer": "23/2020",
+      "data": "25.05.2020",
+      "godzina": "",
+      "tytul": "Rezygnacja z Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1407-rezygnacja-z-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "22/2020",
+      "data": "22.05.2020",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1405-ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "21/2020",
+      "data": "18.05.2020",
+      "godzina": "",
+      "tytul": "Informacja o zamiarze przeprowadzenia zwolnień grupowych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1403-informacja-o-zamiarze-przeprowadzenia-zwolnien-grupowych.html"
+    },
+    {
+      "numer": "20/2020",
+      "data": "13.05.2020",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie stanu posiadania udziałów Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1400-zawiadomienie-o-zmianie-stanu-posiadania-udzialow-spolki.html"
+    },
+    {
+      "numer": "19/2020",
+      "data": "13.05.2020",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie stanu posiadania udziałów Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1399-zawiadomienie-o-zmianie-stanu-posiadania-udzialow-spolki.html"
+    },
+    {
+      "numer": "18/2020",
+      "data": "11.05.2020",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji skonsolidowanego raportu kwartalnego za I kwartał 2020 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1389-zmiana-terminu-publikacji-skonsolidowanego-raportu-kwartalnego-za-i-kwartal-2020-roku.html"
+    },
+    {
+      "numer": "RB nr 17/2020",
+      "data": "11.05.2020",
+      "godzina": "",
+      "tytul": "Informacja o uzyskaniu odstępstwa od granicznych wielkości emisji dla Elektrowni Pątnów II",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1387-informacja-o-uzyskaniu-odstepstwa-od-granicznych-wielkosci-emisji-dla-elektrowni-patnow-ii.html"
+    },
+    {
+      "numer": "RB nr 16/2020",
+      "data": "08.05.2020",
+      "godzina": "",
+      "tytul": "Informacja o powierzeniu kierowania pracami Zarządu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1386-informacja-o-powierzeniu-kierowania-pracami-zarzadu-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 15/2020",
+      "data": "06.05.2020",
+      "godzina": "",
+      "tytul": "Informacja o zawarciu umowy dotyczącej rozbiórki obiektów w Elektrowni Adamów",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1382-informacja-o-zawarciu-umowy-dotyczacej-rozbiorki-obiektow-w-elektrowni-adamow.html"
+    },
+    {
+      "numer": "RB nr 14/2020",
+      "data": "05.05.2020",
+      "godzina": "",
+      "tytul": "Rezygnacja z pełnienia funkcji Prezesa Zarządu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1381-rezygnacja-z-pelnienia-funkcji-prezesa-zarzadu-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 13/2020",
+      "data": "08.04.2020",
+      "godzina": "",
+      "tytul": "Korekta numeracji raportów bieżących",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1366-korekta-numeracji-raportow-biezacych.html"
+    },
+    {
+      "numer": "RB nr 12/2020",
+      "data": "03.04.2020",
+      "godzina": "",
+      "tytul": "Korekta jednostkowego raportu rocznego za 2019 rok",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1364-korekta-jednostkowego-raportu-rocznego-za-2019-rok.html"
+    },
+    {
+      "numer": "RB nr 11/2020",
+      "data": "01.04.2020",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie stanu posiadania udziałów Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1360-zawiadomienie-o-zmianie-stanu-posiadania-udzialow-spolki.html"
+    },
+    {
+      "numer": "RB nr 10/2020",
+      "data": "01.04.2020",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie stanu posiadania udziałów Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1359-zawiadomienie-o-zmianie-stanu-posiadania-udzialow-spolki.html"
+    },
+    {
+      "numer": "RB nr 9/2020",
+      "data": "31.03.2020",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie stanu posiadania udziałów Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1357-zawiadomienie-o-zmianie-stanu-posiadania-udzialow-spolki.html"
+    },
+    {
+      "numer": "RB nr 8/2020",
+      "data": "31.03.2020",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie stanu posiadania udziałów Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1356-zawiadomienie-o-zmianie-stanu-posiadania-udzialow-spolki.html"
+    },
+    {
+      "numer": "RB nr 6/2020",
+      "data": "27.03.2020",
+      "godzina": "",
+      "tytul": "Informacja o zawarciu znaczącej umowy dotyczącej przebudowy kotła w elektrowni Konin",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1355-informacja-o-zawarciu-znaczacej-umowy-dotyczacej-przebudowy-kotla-w-elektrowni-konin.html"
+    },
+    {
+      "numer": "RB nr 5/2020",
+      "data": "26.03.2020",
+      "godzina": "",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za 2019 rok zdarzeń o jednorazowym charakterze oraz ich szacunkowym wpływie na wyniki finansowe",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1353-informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-2019-rok-zdarzen-o-jednorazowym-charakterze-oraz-ich-szacunkowym-wplywie-na-wyniki-finansowe.html"
+    },
+    {
+      "numer": "RB nr 4/2020",
+      "data": "24.03.2020",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie stanu posiadania udziałów Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1350-zawiadomienie-o-zmianie-stanu-posiadania-udzialow-spolki.html"
+    },
+    {
+      "numer": "RB nr 3/2020",
+      "data": "23.03.2020",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie stanu posiadania udziałów Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1349-zawiadomienie-o-zmianie-stanu-posiadania-udzialow-spolki.html"
+    },
+    {
+      "numer": "RB nr 2/2020",
+      "data": "11.03.2020",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji jednostkowego i skonsolidowanego raportu rocznego za 2019 rok",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1347-zmiana-terminu-publikacji-jednostkowego-i-skonsolidowanego-raportu-rocznego-za-2019-rok.html"
+    },
+    {
+      "numer": "RB nr 1/2020",
+      "data": "29.01.2020",
+      "godzina": "",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2020",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1327-terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2020.html"
+    },
+    {
+      "numer": "30/2019",
+      "data": "06.12.2019",
+      "godzina": "",
+      "tytul": "Wyniki aukcji rynku mocy",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1319-wyniki-aukcji-rynku-mocy.html"
+    },
+    {
+      "numer": "29/2019",
+      "data": "23.10.2019",
+      "godzina": "",
+      "tytul": "Zawiadomienie o nabyciu akcji spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1313-zawiadomienie-o-nabyciu-akcji-spolki.html"
+    },
+    {
+      "numer": "28/2019",
+      "data": "10.10.2019",
+      "godzina": "",
+      "tytul": "Powołanie na Prezesa Zarządu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1310-powolanie-na-prezesa-zarzadu-ze-pak-sa.html"
+    },
+    {
+      "numer": "27/2019",
+      "data": "28.09.2019",
+      "godzina": "",
+      "tytul": "Zawiadomienie o nabyciu akcji spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1305-zawiadomienie-o-nabyciu-akcji-spolki.html"
+    },
+    {
+      "numer": "26/2019",
+      "data": "28.09.2019",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie stanu posiadania",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1306-zawiadomienie-o-zmianie-stanu-posiadania.html"
+    },
+    {
+      "numer": "25/2019",
+      "data": "06.09.2019",
+      "godzina": "",
+      "tytul": "Zawarcie znaczącej umowy na dostawę ciepła dla miasta Konin",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1297-zawarcie-znaczacej-umowy-na-dostawe-ciepla-dla-miasta-konin.html"
+    },
+    {
+      "numer": "24/2019",
+      "data": "07.08.2019",
+      "godzina": "",
+      "tytul": "Stanowisko Zarządu ZE PAK S.A. dotyczące wezwania do zapisywania się na sprzedaż akcji ZE PAK S.A., ogłoszonego w dniu 30 lipca 2019 r. przez Argumenol Investment Company Limited",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1291-stanowisko-zarzadu-ze-pak-sa-dotyczace-wezwania-do-zapisywania-sie-na-sprzedaz-akcji-ze-pak-sa-ogloszonego-w-dniu-30-lipca-2019-r-przez-argumenol-investment-company-limited.html"
+    },
+    {
+      "numer": "23/2019",
+      "data": "02.07.2019",
+      "godzina": "",
+      "tytul": "Zmiany w Zarządzie ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1287-zmiany-w-zarzadzie-ze-pak-sa.html"
+    },
+    {
+      "numer": "22/2019",
+      "data": "28.06.2019",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 26 czerwca 2019 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1286-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-26-czerwca-2019-roku.html"
+    },
+    {
+      "numer": "21/2019",
+      "data": "27.06.2019",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Walne Zgromadzenie Akcjonariuszy Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 26 czerwca 2019 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1285-uchwaly-podjete-przez-walne-zgromadzenie-akcjonariuszy-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-26-czerwca-2019-roku.html"
+    },
+    {
+      "numer": "20/2019",
+      "data": "29.05.2019",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1278-ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "19/2019/K",
+      "data": "13.05.2019",
+      "godzina": "",
+      "tytul": "Korekta raportu bieżącego 19/2019",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1271-korekta-raportu-biezacego-192019.html"
+    },
+    {
+      "numer": "19/2019",
+      "data": "10.05.2019",
+      "godzina": "",
+      "tytul": "Powołanie nowego członka Zarządu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1270-powolanie-nowego-czlonka-zarzadu-ze-pak-sa.html"
+    },
+    {
+      "numer": "18/2019",
+      "data": "23.04.2019",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji jednostkowego i skonsolidowanego raportu rocznego za 2018 rok",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1263-zmiana-terminu-publikacji-jednostkowego-i-skonsolidowanego-raportu-rocznego-za-2018-rok.html"
+    },
+    {
+      "numer": "17/2019",
+      "data": "19.04.2019",
+      "godzina": "",
+      "tytul": "Aktualizacja informacji o zamiarze ujęcia w sprawozdaniach finansowych za 2018 rok odpisów aktualizujących wartość aktywów oraz informacja o innych zdarzeniach o jednorazowym charakterze i szacunkowych wynikach finansowych za 2018",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1262-aktualizacja-informacji-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-2018-rok-odpisow-aktualizujacych-wartosc-aktywow-oraz-informacja-o-innych-zdarzeniach-o-jednorazowym-charakterze-i-szacunkowych-wynikach-finansowych-za-2018.html"
+    },
+    {
+      "numer": "16/2019",
+      "data": "16.04.2019",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin SA rozpoczętym w dniu 29 marca 2019 i kontynuowanym po przerwie w dniu 15 kwietnia 2019 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1258-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-rozpoczetym-w-dniu-29-marca-2019-i-kontynuowanym-po-przerwie-w-dniu-15-kwietnia-2019-roku.html"
+    },
+    {
+      "numer": "15/2019",
+      "data": "16.04.2019",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 15 kwietnia 2019 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1257-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenie-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-15-kwietnia-2019-roku.html"
+    },
+    {
+      "numer": "14/2019",
+      "data": "15.04.2019",
+      "godzina": "",
+      "tytul": "Powołanie nowej Rady Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1256-powolanie-nowej-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "13/2019",
+      "data": "12.04.2019",
+      "godzina": "",
+      "tytul": "Zmiany w Zarządzie oraz Radzie Nadzorczej ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1253-zmiany-w-zarzadzie-oraz-radzie-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "12/2019",
+      "data": "11.04.2019",
+      "godzina": "",
+      "tytul": "Zgłoszenie kandydata na Członka Rady Nadzorczej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1252-zgloszenie-kandydata-na-czlonka-rady-nadzorczej.html"
+    },
+    {
+      "numer": "11/2019",
+      "data": "04.04.2019",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji jednostkowego i skonsolidowanego raportu rocznego za 2018 rok",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1250-zmiana-terminu-publikacji-jednostkowego-i-skonsolidowanego-raportu-rocznego-za-2018-rok.html"
+    },
+    {
+      "numer": "10/2019",
+      "data": "29.03.2019",
+      "godzina": "",
+      "tytul": "Ogłoszenie przerwy w obradach Nadzwyczajnego Walnego Zgromadzenia ZE PAK SA oraz treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie ZE PAK SA do czasu zarządzenia przerwy w obradach",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1248-ogloszenie-przerwy-w-obradach-nadzwyczajnego-walnego-zgromadzenia-ze-pak-sa-oraz-tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-ze-pak-sa-do-czasu-zarzadzenia-przerwy-w-obradach.html"
+    },
+    {
+      "numer": "9/2019",
+      "data": "26.03.2019",
+      "godzina": "",
+      "tytul": "Zgłoszenie kandydata na Członka Rady Nadzorczej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1246-zgloszenie-kandydata-na-czlonka-rady-nadzorczej.html"
+    },
+    {
+      "numer": "8/2019",
+      "data": "08.03.2019",
+      "godzina": "",
+      "tytul": "Wniosek akcjonariuszy o uzupełnienie porządku obrad Nadzwyczajnego Walnego Zgromadzenia Spółki zwołanego na dzień 29 marca 2019 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1242-wniosek-akcjonariuszy-o-uzupelnienie-porzadku-obrad-nadzwyczajnego-walnego-zgromadzenia-spolki-zwolanego-na-dzien-29-marca-2019-roku.html"
+    },
+    {
+      "numer": "7/2019",
+      "data": "08.03.2019",
+      "godzina": "",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za 2018 rok odpisów aktualizujących wartość aktywów oraz ich szacunkowym wpływie na wyniki finansowe",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1241-informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-2018-rok-odpisow-aktualizujacych-wartosc-aktywow-oraz-ich-szacunkowym-wplywie-na-wyniki-finansowe.html"
+    },
+    {
+      "numer": "6/2019",
+      "data": "26.02.2019",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin SA na żądanie akcjonariusza",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1236-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa-na-zadanie-akcjonariusza.html"
+    },
+    {
+      "numer": "5/2019",
+      "data": "22.02.2019",
+      "godzina": "",
+      "tytul": "Uruchomienie wielocelowego limitu kredytowego",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1234-uruchomienie-wielocelowego-limitu-kredytowego.html"
+    },
+    {
+      "numer": "4/2019",
+      "data": "30.01.2019",
+      "godzina": "",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2019",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1212-terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2019.html"
+    },
+    {
+      "numer": "3/2019",
+      "data": "23.01.2019",
+      "godzina": "",
+      "tytul": "Decyzja w sprawie odkrywki Tomisławice",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1208-decyzja-w-sprawie-odkrywki-tomislawice.html"
+    },
+    {
+      "numer": "2/2019",
+      "data": "11.01.2019",
+      "godzina": "",
+      "tytul": "Informacje na temat osoby powołanej do składu Zarządu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1206-informacje-na-temat-osoby-powolanej-do-skladu-zarzadu-ze-pak-sa.html"
+    },
+    {
+      "numer": "1/2019",
+      "data": "10.01.2019",
+      "godzina": "",
+      "tytul": "Zmiany w Zarządzie ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1204-zmiany-w-zarzadzie-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 20/2018",
+      "data": "21.12.2018",
+      "godzina": "",
+      "tytul": "Wyniki aukcji rynku mocy",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1202-wyniki-aukcji-rynku-mocy.html"
+    },
+    {
+      "numer": "RB nr 19/2018",
+      "data": "13.12.2018",
+      "godzina": "",
+      "tytul": "Zmiana udziału w ogólnej liczbie głosów",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1200-zmiana-udzialu-w-ogolnej-liczbie-glosow.html"
+    },
+    {
+      "numer": "RB nr 18/2018",
+      "data": "05.12.2018",
+      "godzina": "",
+      "tytul": "Wyniki aukcji rynku mocy",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1198-wyniki-aukcji-rynku-mocy.html"
+    },
+    {
+      "numer": "RB nr 17/2018",
+      "data": "26.11.2018",
+      "godzina": "",
+      "tytul": "Informacja nt. zamiaru budowy farmy fotowoltaicznej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1194-informacja-nt-zamiaru-budowy-farmy-fotowoltaicznej.html"
+    },
+    {
+      "numer": "RB nr 16/2018",
+      "data": "15.11.2018",
+      "godzina": "",
+      "tytul": "Wyniki aukcji rynku mocy",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1191-wyniki-aukcji-rynku-mocy.html"
+    },
+    {
+      "numer": "RB nr 15/2018",
+      "data": "14.11.2018",
+      "godzina": "",
+      "tytul": "Informacje na temat osoby powołanej do składu Zarządu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1187-informacje-na-temat-osoby-powolanej-do-skladu-zarzadu-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 14/2018",
+      "data": "13.11.2018",
+      "godzina": "",
+      "tytul": "Powołanie nowego członka Zarządu ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1186-powolanie-nowego-czlonka-zarzadu-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 13/2018",
+      "data": "09.11.2018",
+      "godzina": "",
+      "tytul": "Informacja nt. zamiaru realizacji projektu inwestycyjnego w elektrowni Konin",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1184-informacja-nt-zamiaru-realizacji-projektu-inwestycyjnego-w-elektrowni-konin.html"
+    },
+    {
+      "numer": "RB nr 12/2018",
+      "data": "06.07.2018",
+      "godzina": "",
+      "tytul": "Odpowiedzi ZE PAK SA na pytania zadane przez akcjonariusza w trakcie Zwyczajnego Walnego Zgromadzenia w dniu 22 czerwca 2018 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1172-odpowiedzi-ze-pak-sa-na-pytania-zadane-przez-akcjonariusza-w-trakcie-zwyczajnego-walnego-zgromadzenia-w-dniu-22-czerwca-2018-roku.html"
+    },
+    {
+      "numer": "RB nr 11/2018",
+      "data": "22.06.2018",
+      "godzina": "",
+      "tytul": "Powołanie członków Zarządu ZE PAK SA nowej kadencji",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1166-powolanie-czlonkow-zarzadu-ze-pak-sa-nowej-kadencji.html"
+    },
+    {
+      "numer": "RB nr 10/2018",
+      "data": "22.06.2018",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 22 czerwca 2018 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1165-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-22-czerwca-2018-roku.html"
+    },
+    {
+      "numer": "RB nr 9/2018",
+      "data": "22.06.2018",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 22 czerwca 2018 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1164-uchwaly-podjete-przez-zwyczajne-walne-zgromadzenie-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-22-czerwca-2018-roku.html"
+    },
+    {
+      "numer": "RB nr 8/2018",
+      "data": "22.06.2018",
+      "godzina": "",
+      "tytul": "Informacja o wypłacie dywidendy przez ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1163-informacja-o-wyplacie-dywidendy-przez-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 7/2018",
+      "data": "25.05.2018",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1158-ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "RB nr 6/2018",
+      "data": "22.05.2018",
+      "godzina": "",
+      "tytul": "Informacja nt. zamiaru realizacji inwestycji w elektrowni Adamów",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1153-informacja-nt-zamiaru-realizacji-inwestycji-w-elektrowni-adamow.html"
+    },
+    {
+      "numer": "RB nr 5/2018",
+      "data": "11.05.2018",
+      "godzina": "",
+      "tytul": "Zmiana terminów publikacji skonsolidowanych raportów kwartalnych za I i III kwartał 2018 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1147-zmiana-terminow-publikacji-skonsolidowanych-raportow-kwartalnych-za-i-i-iii-kwartal-2018-roku.html"
+    },
+    {
+      "numer": "RB nr 4/2018",
+      "data": "09.05.2018",
+      "godzina": "",
+      "tytul": "Opinia Rady Nadzorczej ZE PAK SA w sprawie podziału zysku netto za rok obrotowy zakończony 31 grudnia 2017 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1146-opinia-rady-nadzorczej-ze-pak-sa-w-sprawie-podzialu-zysku-netto-za-rok-obrotowy-zakonczony-31-grudnia-2017-roku.html"
+    },
+    {
+      "numer": "RB nr 3/2018",
+      "data": "08.05.2018",
+      "godzina": "",
+      "tytul": "Propozycja Zarządu w sprawie podziału zysku netto ZE PAK SA za rok obrotowy zakończony 31 grudnia 2017 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1144-propozycja-zarzadu-w-sprawie-podzialu-zysku-netto-ze-pak-sa-za-rok-obrotowy-zakonczony-31-grudnia-2017-roku.html"
+    },
+    {
+      "numer": "RB nr 2/2018",
+      "data": "06.04.2018",
+      "godzina": "",
+      "tytul": "Szacunek wpływu zdarzeń jednorazowych na skonsolidowane wyniki finansowe za 2017 rok",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1133-szacunek-wplywu-zdarzen-jednorazowych-na-skonsolidowane-wyniki-finansowe-za-2017-rok.html"
+    },
+    {
+      "numer": "RB nr 1/2018",
+      "data": "18.01.2018",
+      "godzina": "",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2018 oraz skonsolidowanego sprawozdania z płatności na rzecz administracji publicznej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1113-terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2018-oraz-skonsolidowanego-sprawozdania-z-platnosci-na-rzecz-administracji-publicznej.html"
+    },
+    {
+      "numer": "RB nr 20/2017",
+      "data": "22.12.2017",
+      "godzina": "",
+      "tytul": "Przedłużenie współpracy Grupy Kapitałowej ZE PAK SA z Polkomtel sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1108-przedluzenie-wspolpracy-grupy-kapitalowej-ze-pak-sa-z-polkomtel-sp-z-oo.html"
+    },
+    {
+      "numer": "RB nr 19/2017",
+      "data": "30.11.2017",
+      "godzina": "",
+      "tytul": "Decyzja Generalnego Dyrektora Ochrony Środowiska w sprawie Odkrywki Ościsłowo",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1103-decyzja-generalnego-dyrektora-ochrony-srodowiska-w-sprawie-odkrywki-oscislowo.html"
+    },
+    {
+      "numer": "RB nr 18/2017",
+      "data": "24.10.2017",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 21 października 2017 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1094-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-21-pazdziernika-2017-roku.html"
+    },
+    {
+      "numer": "RB nr 17/2017",
+      "data": "21.10.2017",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 21 października 2017 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1090-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenie-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-21-pazdziernika-2017-roku.html"
+    },
+    {
+      "numer": "RB nr 16/2017",
+      "data": "21.10.2017",
+      "godzina": "",
+      "tytul": "Powołanie członka Rady Nadzorczej ZE PAK SA i powołanie Komitetu Audytu",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1089-powolanie-czlonka-rady-nadzorczej-ze-pak-sa-i-powolanie-komitetu-audytu.html"
+    },
+    {
+      "numer": "RB nr 15/2017",
+      "data": "03.10.2017",
+      "godzina": "",
+      "tytul": "Informacja nt. zwiększenia rezerwy dotyczącej segmentu wydobycia",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1087-informacja-nt-zwiekszenia-rezerwy-dotyczacej-segmentu-wydobycia.html"
+    },
+    {
+      "numer": "RB nr 14/2017",
+      "data": "24.09.2017",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1081-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "RB nr 13/2017",
+      "data": "01.08.2017",
+      "godzina": "",
+      "tytul": "Otwarcie postępowań likwidacyjnych 4 spółek zależnych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1067-otwarcie-postepowan-likwidacyjnych-4-spolek-zaleznych.html"
+    },
+    {
+      "numer": "RB nr 12/2017",
+      "data": "30.06.2017",
+      "godzina": "",
+      "tytul": "Uzupełnienie informacji na temat Rady Nadzorczej ZE PAK SA nowej kadencji",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1064-uzupelnienie-informacji-na-temat-rady-nadzorczej-ze-pak-sa-nowej-kadencji.html"
+    },
+    {
+      "numer": "RB nr 11/2017",
+      "data": "29.06.2017",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 28 czerwca 2017 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1054-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-28-czerwca-2017-roku.html"
+    },
+    {
+      "numer": "RB nr 10/2017",
+      "data": "29.06.2017",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Zespołu Elektrowni Pątnów-Adamów-Konin SA w dniu 28 czerwca 2017 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1053-uchwaly-podjete-przez-zwyczajne-walne-zgromadzenie-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-28-czerwca-2017-roku.html"
+    },
+    {
+      "numer": "RB nr 9/2017",
+      "data": "29.06.2017",
+      "godzina": "",
+      "tytul": "Powołanie członków Rady Nadzorczej ZE PAK SA nowej kadencji",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1052-powolanie-czlonkow-rady-nadzorczej-ze-pak-sa-nowej-kadencji.html"
+    },
+    {
+      "numer": "RB nr 8/2017",
+      "data": "28.06.2017",
+      "godzina": "",
+      "tytul": "Informacja o wypłacie dywidendy przez ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1051-informacja-o-wyplacie-dywidendy-przez-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 7/2017",
+      "data": "01.06.2017",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1048-ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "RB nr 6/2017",
+      "data": "19.05.2017",
+      "godzina": "",
+      "tytul": "Wybór biegłego rewidenta",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1040-wybor-bieglego-rewidenta.html"
+    },
+    {
+      "numer": "RB nr 5/2017",
+      "data": "19.05.2017",
+      "godzina": "",
+      "tytul": "Propozycja Zarządu oraz opinia Rady Nadzorczej w sprawie podziału zysku netto ZE PAK SA za rok obrotowy zakończony 31 grudnia 2016 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1039-propozycja-zarzadu-oraz-opinia-rady-nadzorczej-w-sprawie-podzialu-zysku-netto-ze-pak-sa-za-rok-obrotowy-zakonczony-31-grudnia-2016-roku.html"
+    },
+    {
+      "numer": "RB nr 4/2017",
+      "data": "26.04.2017",
+      "godzina": "",
+      "tytul": "Zamiar potencjalnej sprzedaży aktywów",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1032-zamiar-potencjalnej-sprzedazy-aktywow.html"
+    },
+    {
+      "numer": "RB nr 3/2017",
+      "data": "14.03.2017",
+      "godzina": "",
+      "tytul": "Decyzja Regionalnego Dyrektora Ochrony Środowiska w Poznaniu w sprawie Odkrywki Ościsłowo",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1022-decyzja-regionalnego-dyrektora-ochrony-srodowiska-w-poznaniu-w-sprawie-odkrywki-oscislowo.html"
+    },
+    {
+      "numer": "RB nr 2/2017/K",
+      "data": "06.03.2017",
+      "godzina": "",
+      "tytul": "Korekta raportu bieżącego nr 2/2017: Zmiany w Zarządzie ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1019-korekta-raportu-biezacego-nr-22017-zmiany-w-zarzadzie-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 2/2017",
+      "data": "03.03.2017",
+      "godzina": "",
+      "tytul": "Zmiany w Zarządzie ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/1018-zmiany-w-zarzadzie-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 1/2017",
+      "data": "05.01.2017",
+      "godzina": "",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2017 oraz skonsolidowanego sprawozdania z płatności na rzecz administracji publicznej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/998-terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2017-oraz-skonsolidowanego-sprawozdania-z-platnosci-na-rzecz-administracji-publicznej.html"
+    },
+    {
+      "numer": "RB nr 36/2016",
+      "data": "25.11.2016",
+      "godzina": "",
+      "tytul": "Nabycie znacznego pakietu akcji",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/993-nabycie-znacznego-pakietu-akcji.html"
+    },
+    {
+      "numer": "RB nr 35/2016",
+      "data": "27.10.2016",
+      "godzina": "",
+      "tytul": "Nabycie znacznego pakietu akcji",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/986-nabycie-znacznego-pakietu-akcji.html"
+    },
+    {
+      "numer": "RB nr 34/2016",
+      "data": "26.10.2016",
+      "godzina": "",
+      "tytul": "Zmiany w Zarządzie ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/983-zmiany-w-zarzadzie-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 33/2016",
+      "data": "26.10.2016",
+      "godzina": "",
+      "tytul": "Zmiany w Radzie Nadzorczej ZE PAK SA",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/982-zmiany-w-radzie-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 32/2016",
+      "data": "28.09.2016",
+      "godzina": "",
+      "tytul": "Budowa bloku parowo-gazowego w Elektrowni Konin",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/978-budowa-bloku-parowo-gazowego-w-elektrowni-konin.html"
+    },
+    {
+      "numer": "RB nr 31/2016",
+      "data": "11.07.2016",
+      "godzina": "",
+      "tytul": "Odpowiedzi ZE PAK S.A. na pytania zadane przez Akcjonariuszy w trakcie Zwyczajnego Walnego Zgromadzenia w dniu 28 czerwca 2016 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/959-odpowiedzi-ze-pak-sa-na-pytania-zadane-przez-akcjonariuszy-w-trakcie-zwyczajnego-walnego-zgromadzenia-w-dniu-28-czerwca-2016-roku.html"
+    },
+    {
+      "numer": "RB nr 30/2016",
+      "data": "30.06.2016",
+      "godzina": "",
+      "tytul": "Podpisanie aneksu do umowy kredytowej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/957-podpisanie-aneksu-do-umowy-kredytowej.html"
+    },
+    {
+      "numer": "RB nr 29/2016",
+      "data": "30.06.2016",
+      "godzina": "",
+      "tytul": "Wypowiedzenie wieloletniej umowy sprzedaży ciepła",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/956-wypowiedzenie-wieloletniej-umowy-sprzedazy-ciepla.html"
+    },
+    {
+      "numer": "RB nr 28/2016",
+      "data": "28.06.2016",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 28 czerwca 2016 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/955-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-28-czerwca-2016-roku.html"
+    },
+    {
+      "numer": "RB nr 27/2016",
+      "data": "28.06.2016",
+      "godzina": "",
+      "tytul": "Powołanie członka Rady Nadzorczej ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/954-powolanie-czlonka-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 26/2016",
+      "data": "28.06.2016",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 28 czerwca 2016 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/953-uchwaly-podjete-przez-zwyczajne-walne-zgromadzenie-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-28-czerwca-2016-roku.html"
+    },
+    {
+      "numer": "RB nr 25/2016/K",
+      "data": "18.06.2016",
+      "godzina": "",
+      "tytul": "Korekta raportu bieżącego nr 25/2016: Zmiany w Zarządzie ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/949-korekta-raportu-biezacego-nr-252016-zmiany-w-zarzadzie-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 25/2016",
+      "data": "17.06.2016",
+      "godzina": "",
+      "tytul": "Zmiany w Zarządzie ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/948-zmiany-w-zarzadzie-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 24/2016",
+      "data": "13.06.2016",
+      "godzina": "",
+      "tytul": "Spełnienie warunku zawieszającego umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/947-spelnienie-warunku-zawieszajacego-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 23/2016",
+      "data": "01.06.2016",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/942-ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "RB nr 22/2016",
+      "data": "01.06.2016",
+      "godzina": "",
+      "tytul": "Wybór biegłego rewidenta",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/937-wybor-bieglego-rewidenta.html"
+    },
+    {
+      "numer": "RB nr 21/2016",
+      "data": "31.05.2016",
+      "godzina": "",
+      "tytul": "Zgoda konsorcjum bankowego na wniosek ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/935-zgoda-konsorcjum-bankowego-na-wniosek-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 20/2016",
+      "data": "30.05.2016",
+      "godzina": "",
+      "tytul": "Informacja o zbyciu akcji i zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/929-informacja-o-zbyciu-akcji-i-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 19/2016",
+      "data": "24.05.2016",
+      "godzina": "",
+      "tytul": "Informacja o zmianie pośredniego udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/925-informacja-o-zmianie-posredniego-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 18/2016",
+      "data": "24.05.2016",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osób mających dostęp do informacji poufnych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/924-informacja-o-transakcjach-osob-majacych-dostep-do-informacji-poufnych.html"
+    },
+    {
+      "numer": "RB nr 17/2016",
+      "data": "24.05.2016",
+      "godzina": "",
+      "tytul": "Informacja o nabyciu akcji i zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/923-informacja-o-nabyciu-akcji-i-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 16/2016",
+      "data": "10.05.2016",
+      "godzina": "",
+      "tytul": "Zwolnienie niewykorzystanej kwoty kredytu na modernizacje bloków 1-4 w Elektrowni Pątnów",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/912-zwolnienie-niewykorzystanej-kwoty-kredytu-na-modernizacje-blokow-1-4-w-elektrowni-patnow.html"
+    },
+    {
+      "numer": "RB nr 15/2016",
+      "data": "26.04.2016",
+      "godzina": "",
+      "tytul": "Zawarcie umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/903-zawarcie-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 14/2016",
+      "data": "12.04.2016",
+      "godzina": "",
+      "tytul": "Zawarcie umów ze spółką Alpiq Energy SE, które łącznie spełniają kryterium umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/901-zawarcie-umow-ze-spolka-alpiq-energy-se-ktore-lacznie-spelniaja-kryterium-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 13/2016",
+      "data": "08.04.2016",
+      "godzina": "",
+      "tytul": "Powołanie nowego członka Zarządu ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/899-powolanie-nowego-czlonka-zarzadu-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 12/2016",
+      "data": "21.03.2016",
+      "godzina": "",
+      "tytul": "Informacja o ujęciu w sprawozdaniach finansowych za 2015 rok ostatecznych wielkości odpisów aktualizujących wartość rzeczowych aktywów trwałych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/886-informacja-o-ujeciu-w-sprawozdaniach-finansowych-za-2015-rok-ostatecznych-wielkosci-odpisow-aktualizujacych-wartosc-rzeczowych-aktywow-trwalych.html"
+    },
+    {
+      "numer": "RB nr 11/2016",
+      "data": "17.03.2016",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osób mających dostęp do informacji poufnych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/885-informacja-o-transakcjach-osob-majacych-dostep-do-informacji-poufnych.html"
+    },
+    {
+      "numer": "RB nr 10/2016",
+      "data": "17.03.2016",
+      "godzina": "",
+      "tytul": "Informacja o zmianie pośredniego udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/884-informacja-o-zmianie-posredniego-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 9/2016",
+      "data": "17.03.2016",
+      "godzina": "",
+      "tytul": "Informacja o zbyciu akcji i zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/883-informacja-o-zbyciu-akcji-i-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 8/2016",
+      "data": "17.03.2016",
+      "godzina": "",
+      "tytul": "Informacja o nabyciu akcji i zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/882-informacja-o-nabyciu-akcji-i-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 7/2016",
+      "data": "16.03.2016",
+      "godzina": "",
+      "tytul": "Zawarcie umów ze spółkami z Grupy Kapitałowej TAURON, które łącznie spełniają kryterium umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/881-zawarcie-umow-ze-spolkami-z-grupy-kapitalowej-tauron-ktore-lacznie-spelniaja-kryterium-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 6/2016",
+      "data": "09.03.2016",
+      "godzina": "",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za 2015 rok odpisów aktualizujących wartość rzeczowych aktywów oraz wpływie innych zdarzeń jednorazowych o charakterze niepieniężnym na wyniki finansowe 2015 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/879-informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-2015-rok-odpisow-aktualizujacych-wartosc-rzeczowych-aktywow-oraz-wplywie-innych-zdarzen-jednorazowych-o-charakterze-niepienieznym-na-wyniki-finansowe-2015-roku.html"
+    },
+    {
+      "numer": "RB nr 5/2016",
+      "data": "01.03.2016",
+      "godzina": "",
+      "tytul": "Zawarcie umów ze spółkami z Grupy Kapitałowej ENERGA, które łącznie spełniają kryterium umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/875-zawarcie-umow-ze-spolkami-z-grupy-kapitalowej-energa-ktore-lacznie-spelniaja-kryterium-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 4/2016",
+      "data": "29.02.2016",
+      "godzina": "",
+      "tytul": "Rozmowy z bankami finansującymi modernizację bloków 1-4 zgodnie z harmonogramem",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/874-rozmowy-z-bankami-finansujacymi-modernizacje-blokow-1-4-zgodnie-z-harmonogramem.html"
+    },
+    {
+      "numer": "RB nr 3/2016",
+      "data": "24.02.2016",
+      "godzina": "",
+      "tytul": "Odmówienie przyjęcia do rozpoznania skargi kasacyjnej dotyczącej wyroku Sądu Apelacyjnego w Warszawie w sprawie rekompensaty na pokrycie kosztów osieroconych Elektrowni Pątnów II za 2008 rok",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/871-odmowienie-przyjecia-do-rozpoznania-skargi-kasacyjnej-dotyczacej-wyroku-sadu-apelacyjnego-w-warszawie-w-sprawie-rekompensaty-na-pokrycie-kosztow-osieroconych-elektrowni-patnow-ii-za-2008-rok.html"
+    },
+    {
+      "numer": "RB nr 2/2016",
+      "data": "11.02.2016",
+      "godzina": "",
+      "tytul": "Powołanie Prezesa Zarządu ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/865-powolanie-prezesa-zarzadu-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 1/2016",
+      "data": "07.01.2016",
+      "godzina": "",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2016",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/853-terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2016.html"
+    },
+    {
+      "numer": "RB nr 34/2015",
+      "data": "15.12.2015",
+      "godzina": "",
+      "tytul": "Zawarcie umów z PAK-Volt S.A., które łącznie spełniają kryterium umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/851-zawarcie-umow-z-pak-volt-sa-ktore-lacznie-spelniaja-kryterium-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 33/2015",
+      "data": "08.12.2015",
+      "godzina": "",
+      "tytul": "Dokonanie z Kredytodawcami ustaleń dotyczących umowy kredytu na modernizacje bloków 1-4 w Elektrowni Pątnów",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/849-dokonanie-z-kredytodawcami-ustalen-dotyczacych-umowy-kredytu-na-modernizacje-blokow-1-4-w-elektrowni-patnow.html"
+    },
+    {
+      "numer": "RB nr 32/2015",
+      "data": "19.11.2015",
+      "godzina": "",
+      "tytul": "Wyroki Wojewódzkiego Sądu Administracyjnego w Poznaniu dotyczące postępowań w sprawie zwrotu nadpłaty podatku akcyzowego",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/843-wyroki-wojewodzkiego-sadu-administracyjnego-w-poznaniu-dotyczace-postepowan-w-sprawie-zwrotu-nadplaty-podatku-akcyzowego.html"
+    },
+    {
+      "numer": "RB nr 31/2015",
+      "data": "17.11.2015",
+      "godzina": "",
+      "tytul": "Rezygnacja Prezesa Zarządu",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/838-rezygnacja-prezesa-zarzadu.html"
+    },
+    {
+      "numer": "RB nr 30/2015",
+      "data": "16.11.2015",
+      "godzina": "",
+      "tytul": "Korekta skonsolidowanego raportu okresowego za III kwartał 2015 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/835-korekta-skonsolidowanego-raportu-okresowego-za-iii-kwartal-2015-roku.html"
+    },
+    {
+      "numer": "RB nr 29/2015",
+      "data": "05.11.2015",
+      "godzina": "",
+      "tytul": "Zawarcie umów ze spółkami z Grupy Kapitałowej ENERGA, które łącznie spełniają kryterium umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/831-zawarcie-umow-ze-spolkami-z-grupy-kapitalowej-energa-ktore-lacznie-spelniaja-kryterium-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 28/2015",
+      "data": "30.10.2015",
+      "godzina": "",
+      "tytul": "Powołanie nowego członka Zarządu ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/826-powolanie-nowego-czlonka-zarzadu-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 27/2015",
+      "data": "03.10.2015",
+      "godzina": "",
+      "tytul": "Informacje na temat osób powołanych w skład Zarządu ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/814-informacje-na-temat-osob-powolanych-w-sklad-zarzadu-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 26/2015",
+      "data": "02.10.2015",
+      "godzina": "",
+      "tytul": "Zmiany w Zarządzie i Radzie Nadzorczej ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/802-zmiany-w-zarzadzie-i-radzie-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 25/2015",
+      "data": "23.09.2015",
+      "godzina": "",
+      "tytul": "Informacja o zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/795-informacja-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 24/2015",
+      "data": "22.09.2015",
+      "godzina": "",
+      "tytul": "Informacja o zmianie pośredniego udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/794-informacja-o-zmianie-posredniego-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 23/2015",
+      "data": "22.09.2015",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osób mających dostęp do informacji poufnych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/793-informacja-o-transakcjach-osob-majacych-dostep-do-informacji-poufnych.html"
+    },
+    {
+      "numer": "RB nr 22/2015",
+      "data": "22.09.2015",
+      "godzina": "",
+      "tytul": "Informacja o zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/791-informacja-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 21/2015",
+      "data": "21.08.2015",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji jednostkowego i skonsolidowanego raportu za I półrocze 2015 r.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/783-zmiana-terminu-publikacji-jednostkowego-i-skonsolidowanego-raportu-za-i-polrocze-2015-r.html"
+    },
+    {
+      "numer": "RB nr 20/2015",
+      "data": "20.08.2015",
+      "godzina": "",
+      "tytul": "Zawarcie umów z PAK-Volt S.A., które łącznie spełniają kryterium umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/782-zawarcie-umow-z-pak-volt-sa-ktore-lacznie-spelniaja-kryterium-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 19/2015",
+      "data": "20.08.2015",
+      "godzina": "",
+      "tytul": "Informacja o zmianie pośredniego udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/781-informacja-o-zmianie-posredniego-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 18/2015",
+      "data": "18.08.2015",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osób mających dostęp do informacji poufnych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/777-informacja-o-transakcjach-osob-majacych-dostep-do-informacji-poufnych.html"
+    },
+    {
+      "numer": "RB nr 17/2015",
+      "data": "18.08.2015",
+      "godzina": "",
+      "tytul": "Informacja o zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/776-informacja-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 16/2015",
+      "data": "17.08.2015",
+      "godzina": "",
+      "tytul": "Informacja o zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/775-informacja-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 15/2015",
+      "data": "01.07.2015",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 29 czerwca 2015 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/773-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-29-czerwca-2015-roku.html"
+    },
+    {
+      "numer": "RB nr 14/2015",
+      "data": "29.06.2015",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 29 czerwca 2015 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/769-uchwaly-podjete-przez-zwyczajne-walne-zgromadzenie-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-29-czerwca-2015-roku.html"
+    },
+    {
+      "numer": "RB nr 13/2015",
+      "data": "29.06.2015",
+      "godzina": "",
+      "tytul": "Informacja o wypłacie dywidendy przez ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/767-informacja-o-wyplacie-dywidendy-przez-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 12/2015",
+      "data": "05.06.2015",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osób mających dostęp do informacji poufnych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/758-informacja-o-transakcjach-osob-majacych-dostep-do-informacji-poufnych.html"
+    },
+    {
+      "numer": "RB nr 11/2015",
+      "data": "05.06.2015",
+      "godzina": "",
+      "tytul": "Informacja o zmianie pośredniego udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/757-informacja-o-zmianie-posredniego-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 10/2015",
+      "data": "05.06.2015",
+      "godzina": "",
+      "tytul": "Informacja o zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/756-informacja-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 9/2015",
+      "data": "05.06.2015",
+      "godzina": "",
+      "tytul": "Informacja o zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/755-informacja-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 8/2015",
+      "data": "05.06.2015",
+      "godzina": "",
+      "tytul": "Informacja o zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/754-informacja-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 7/2015",
+      "data": "02.06.2015",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/749-ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "RB nr 6/2015",
+      "data": "06.05.2015",
+      "godzina": "",
+      "tytul": "Wybór biegłego rewidenta",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/742-wybor-bieglego-rewidenta.html"
+    },
+    {
+      "numer": "RB nr 5/2015",
+      "data": "06.05.2015",
+      "godzina": "",
+      "tytul": "Opinia Rady Nadzorczej ZE PAK S.A. w sprawie podziału zysku netto za 2014 rok",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/741-opinia-rady-nadzorczej-ze-pak-sa-w-sprawie-podzialu-zysku-netto-za-2014-rok.html"
+    },
+    {
+      "numer": "RB nr 4/2015",
+      "data": "20.03.2015",
+      "godzina": "",
+      "tytul": "Rekomendacja Zarządu w sprawie podziału zysku netto ZE PAK S.A. za rok obrotowy zakończony 31 grudnia 2014 roku.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/726-rekomendacja-zarzadu-w-sprawie-podzialu-zysku-netto-ze-pak-sa-za-rok-obrotowy-zakonczony-31-grudnia-2014-roku.html"
+    },
+    {
+      "numer": "RB nr 2/2015/K",
+      "data": "24.02.2015",
+      "godzina": "",
+      "tytul": "Korekta raportu bieżącego nr 2/2015: Terminy publikacji raportów okresowych w roku obrotowym 2015 oraz oświadczenie o zamiarze stałego przekazywania skonsolidowanych raportów kwartalnych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/721-korekta-raportu-biezacego-nr-22015-terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2015-oraz-oswiadczenie-o-zamiarze-stalego-przekazywania-skonsolidowanych-raportow-kwartalnych.html"
+    },
+    {
+      "numer": "RB nr 3/2015",
+      "data": "28.01.2015",
+      "godzina": "",
+      "tytul": "Zawiadomienie o transakcji na papierach wartościowych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/718-zawiadomienie-o-transakcji-na-papierach-wartosciowych.html"
+    },
+    {
+      "numer": "RB nr 2/2015",
+      "data": "14.01.2015",
+      "godzina": "",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2015 oraz oświadczenie o zamiarze stałego przekazywania skonsolidowanych raportów kwartalnych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/715-terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2015-oraz-oswiadczenie-o-zamiarze-stalego-przekazywania-skonsolidowanych-raportow-kwartalnych.html"
+    },
+    {
+      "numer": "RB nr 1/2015",
+      "data": "07.01.2015",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osób mających dostęp do informacji poufnych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/713-informacja-o-transakcjach-osob-majacych-dostep-do-informacji-poufnych.html"
+    },
+    {
+      "numer": "RB nr 47/2014",
+      "data": "31.12.2014",
+      "godzina": "",
+      "tytul": "Informacja o zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/709-informacja-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 46/2014",
+      "data": "31.12.2014",
+      "godzina": "",
+      "tytul": "Informacja o zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/708-informacja-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 45/2014",
+      "data": "29.12.2014",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osób mających dostęp do informacji poufnych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/703-informacja-o-transakcjach-osob-majacych-dostep-do-informacji-poufnych.html"
+    },
+    {
+      "numer": "RB nr 44/2014",
+      "data": "24.12.2014",
+      "godzina": "",
+      "tytul": "Informacja o zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/702-informacja-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 43/2014",
+      "data": "24.12.2014",
+      "godzina": "",
+      "tytul": "Informacja o zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/701-informacja-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 42/2014",
+      "data": "24.12.2014",
+      "godzina": "",
+      "tytul": "Informacja o zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/700-informacja-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 41/2014",
+      "data": "19.12.2014",
+      "godzina": "",
+      "tytul": "Decyzja Ministra Środowiska w sprawie zatwierdzenia dodatku do dokumentacji geologicznej złoża węgla brunatnego Oczkowice",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/699-decyzja-ministra-srodowiska-w-sprawie-zatwierdzenia-dodatku-do-dokumentacji-geologicznej-zloza-wegla-brunatnego-oczkowice.html"
+    },
+    {
+      "numer": "RB nr 40/2014",
+      "data": "02.12.2014",
+      "godzina": "",
+      "tytul": "Powołanie nowego członka Zarządu ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/692-powolanie-nowego-czlonka-zarzadu-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 39/2014",
+      "data": "07.11.2014",
+      "godzina": "",
+      "tytul": "Zmiana udziału w ogólnej liczbie głosów",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/685-zmiana-udzialu-w-ogolnej-liczbie-glosow.html"
+    },
+    {
+      "numer": "RB nr 38/2014",
+      "data": "05.11.2014",
+      "godzina": "",
+      "tytul": "Wyrok Sądu Apelacyjnego w Warszawie dotyczący rekompensaty na pokrycie kosztów osieroconych Elektrowni Pątnów II za 2008 rok",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/681-wyrok-sadu-apelacyjnego-w-warszawie-dotyczacy-rekompensaty-na-pokrycie-kosztow-osieroconych-elektrowni-patnow-ii-za-2008-rok.html"
+    },
+    {
+      "numer": "RB nr 37/2014",
+      "data": "31.10.2014",
+      "godzina": "",
+      "tytul": "Zawarcie umów ze spółkami z Grupy Kapitałowej ENERGA, które łącznie spełniają kryterium umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/679-zawarcie-umow-ze-spolkami-z-grupy-kapitalowej-energa-ktore-lacznie-spelniaja-kryterium-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 36/2014",
+      "data": "22.10.2014",
+      "godzina": "",
+      "tytul": "Zawarcie umów z PAK-Volt S.A., które łącznie spełniają kryterium umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/677-zawarcie-umow-z-pak-volt-sa-ktore-lacznie-spelniaja-kryterium-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 35/2014",
+      "data": "16.10.2014",
+      "godzina": "",
+      "tytul": "Otwarcie postępowania likwidacyjnego spółki zależnej KWE Sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/673-otwarcie-postepowania-likwidacyjnego-spolki-zaleznej-kwe-sp-z-oo.html"
+    },
+    {
+      "numer": "RB nr 34/2014",
+      "data": "08.10.2014",
+      "godzina": "",
+      "tytul": "Wyrok w sprawie odkrywki Tomisławice",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/671-wyrok-w-sprawie-odkrywki-tomislawice.html"
+    },
+    {
+      "numer": "RB nr 33/2014",
+      "data": "01.09.2014",
+      "godzina": "",
+      "tytul": "Otwarcie postępowania likwidacyjnego spółki zależnej Ochrona Osób i Mienia „Asekuracja” Sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/666-otwarcie-postepowania-likwidacyjnego-spolki-zaleznej-ochrona-osob-i-mienia-asekuracja-sp-z-oo.html"
+    },
+    {
+      "numer": "RB nr 32/2014",
+      "data": "28.08.2014",
+      "godzina": "",
+      "tytul": "Korekta półrocznego raportu okresowego za I półrocze 2014 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/665-korekta-polrocznego-raportu-okresowego-za-i-polrocze-2014-roku.html"
+    },
+    {
+      "numer": "RB nr 31/2014",
+      "data": "21.08.2014",
+      "godzina": "",
+      "tytul": "Zawarcie umów ze spółkami z Grupy Kapitałowej ENERGA, które łącznie spełniają kryterium umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/659-zawarcie-umow-ze-spolkami-z-grupy-kapitalowej-energa-ktore-lacznie-spelniaja-kryterium-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 30/2014",
+      "data": "08.07.2014",
+      "godzina": "",
+      "tytul": "Decyzja Ministra Środowiska o utrzymaniu w mocy zaskarżonej decyzji o odmowie stwierdzenia nieważności koncesji dotyczącej odkrywki Tomisławice",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/652-decyzja-ministra-srodowiska-o-utrzymaniu-w-mocy-zaskarzonej-decyzji-o-odmowie-stwierdzenia-niewaznosci-koncesji-dotyczacej-odkrywki-tomislawice.html"
+    },
+    {
+      "numer": "RB nr 29/2014",
+      "data": "08.07.2014",
+      "godzina": "",
+      "tytul": "Podpisanie aneksu do umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/651-podpisanie-aneksu-do-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 28/2014",
+      "data": "02.07.2014",
+      "godzina": "",
+      "tytul": "Wybór biegłego rewidenta",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/645-wybor-bieglego-rewidenta.html"
+    },
+    {
+      "numer": "RB nr 27/2014",
+      "data": "27.06.2014",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 25 czerwca 2014 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/642-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-25-czerwca-2014-roku.html"
+    },
+    {
+      "numer": "RB nr 26/2014",
+      "data": "25.06.2014",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 25 czerwca 2014 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/641-uchwaly-podjete-przez-zwyczajne-walne-zgromadzenie-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-25-czerwca-2014-roku.html"
+    },
+    {
+      "numer": "RB nr 25/2014",
+      "data": "25.06.2014",
+      "godzina": "",
+      "tytul": "Informacja o wypłacie dywidendy przez ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/638-informacja-o-wyplacie-dywidendy-przez-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 24/2014",
+      "data": "20.06.2014",
+      "godzina": "",
+      "tytul": "Zgłoszenie przez akcjonariusza projektu uchwały dotyczącej podziału zysku za rok 2013",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/636-zgloszenie-przez-akcjonariusza-projektu-uchwaly-dotyczacej-podzialy-zysku-za-rok-2013.html"
+    },
+    {
+      "numer": "RB nr 23/2014",
+      "data": "12.06.2014",
+      "godzina": "",
+      "tytul": "Zawarcie umów z PAK-Volt S.A., które łącznie spełniają kryterium umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/634-zawarcie-umow-z-pak-volt-sa-ktore-lacznie-spelniaja-kryterium-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 22/2014",
+      "data": "05.06.2014",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osób mających dostęp do informacji poufnych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/625-informacja-o-transakcjach-osob-majacych-dostep-do-informacji-poufnych.html"
+    },
+    {
+      "numer": "RB nr 21/2014",
+      "data": "04.06.2014",
+      "godzina": "",
+      "tytul": "Informacja o zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/624-informacja-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 20/2014",
+      "data": "04.06.2014",
+      "godzina": "",
+      "tytul": "Informacja o zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/623-informacja-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 19/2014",
+      "data": "01.06.2014",
+      "godzina": "",
+      "tytul": "Otwarcie postępowania likwidacyjnego spółki zależnej PAK Centrum Usług Informatycznych Sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/621-otwarcie-postepowania-likwidacyjnego-spolki-zaleznej-pak-centrum-uslug-informatycznych-sp-z-oo.html"
+    },
+    {
+      "numer": "RB nr 18/2014",
+      "data": "01.06.2014",
+      "godzina": "",
+      "tytul": "Otwarcie postępowania likwidacyjnego spółki zależnej PAK Centrum Badań Jakości Sp. z o.o.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/620-otwarcie-postepowania-likwidacyjnego-spolki-zaleznej-pak-centrum-badan-jakosci-sp-z-oo.html"
+    },
+    {
+      "numer": "RB nr 17/2014",
+      "data": "28.05.2014",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/617-ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "RB nr 16/2014",
+      "data": "23.05.2014",
+      "godzina": "",
+      "tytul": "Wyrok dotyczący postępowania sądowego w sprawie rekompensaty na pokrycie kosztów osieroconych Elektrowni Pątnów II za 2008 rok",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/615-wyrok-dotyczacy-postepowania-sadowego-w-sprawie-rekompensaty-na-pokrycie-kosztow-osieroconych-elektrowni-patnow-ii-za-2008-rok.html"
+    },
+    {
+      "numer": "RB nr 15/2014",
+      "data": "20.05.2014",
+      "godzina": "",
+      "tytul": "Spełnienie warunków zawieszających związanych z umową kredytową",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/613-spelnienie-warunkow-zawieszajacych-zwiazanych-z-umowa-kredytowa.html"
+    },
+    {
+      "numer": "RB nr 14/2014",
+      "data": "14.05.2014",
+      "godzina": "",
+      "tytul": "Opinia Rady Nadzorczej ZE PAK S.A. w sprawie podziału zysku netto za 2013 rok",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/606-opinia-rady-nadzorczej-ze-pak-sa-w-sprawie-podzialu-zysku-netto-za-2013-rok.html"
+    },
+    {
+      "numer": "RB nr 13/2014",
+      "data": "30.04.2014",
+      "godzina": "",
+      "tytul": "Ustanowienie hipoteki na aktywach o znacznej wartości",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/604-ustanowienie-hipoteki-na-aktywach-o-znacznej-wartosci.html"
+    },
+    {
+      "numer": "RB nr 12/2014",
+      "data": "18.04.2014",
+      "godzina": "",
+      "tytul": "Podpisanie aneksu do umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/601-podpisanie-aneksu-do-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 11/2014",
+      "data": "10.04.2014",
+      "godzina": "",
+      "tytul": "Ustanowienie zastawów na aktywach o znacznej wartości",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/600-ustanowienie-zastawow-na-aktywach-o-znacznej-wartosci.html"
+    },
+    {
+      "numer": "RB nr 10/2014",
+      "data": "25.03.2014",
+      "godzina": "",
+      "tytul": "Zmiana udziału w ogólnej liczbie głosów",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/591-zmiana-udzialu-w-ogolnej-liczbie-glosow.html"
+    },
+    {
+      "numer": "RB nr 9/2014",
+      "data": "18.03.2014",
+      "godzina": "",
+      "tytul": "Rekomendacja Zarządu w sprawie podziału zysku netto ZE PAK S.A. za rok obrotowy zakończony 31 grudnia 2013 roku.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/586-rekomendacja-zarzadu-w-sprawie-podzialu-zysku-netto-ze-pak-sa-za-rok-obrotowy-zakonczony-31-grudnia-2013-roku.html"
+    },
+    {
+      "numer": "RB nr 8/2014",
+      "data": "13.03.2014",
+      "godzina": "",
+      "tytul": "Zawarcie umowy kredytowej oraz ustanowienie hipotek, zastawów i innych ograniczonych praw rzeczowych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/582-zawarcie-umowy-kredytowej-oraz-ustanowienie-hipotek-zastawow-i-innych-ograniczonych-praw-rzeczowych.html"
+    },
+    {
+      "numer": "RB nr 7/2014",
+      "data": "12.03.2014",
+      "godzina": "",
+      "tytul": "Zawiadomienie o wszczęciu postępowania o ponowne rozpoznanie sprawy dotyczącej odkrywki Tomisławice",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/580-zawiadomienie-o-wszczeciu-postepowania-o-ponowne-rozpoznanie-sprawy-dotyczacej-odkrywki-tomislawice.html"
+    },
+    {
+      "numer": "RB nr 6/2014",
+      "data": "12.02.2014",
+      "godzina": "",
+      "tytul": "Informacja o zamiarze utworzenia w skonsolidowanym sprawozdaniu Grupy ZE PAK za 2013 rok rezerwy dotyczącej uprawnień do emisji CO2",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/575-informacja-o-zamiarze-utworzenia-w-skonsolidowanym-sprawozdaniu-grupy-ze-pak-za-2013-rok-rezerwy-dotyczacej-uprawnien-do-emisji-co2.html"
+    },
+    {
+      "numer": "RB nr 5/2014",
+      "data": "30.01.2014",
+      "godzina": "",
+      "tytul": "Zawiadomienie o transakcji na papierach wartościowych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/570-zawiadomienie-o-transakcji-na-papierach-wartosciowych.html"
+    },
+    {
+      "numer": "RB nr 4/2014",
+      "data": "29.01.2014",
+      "godzina": "",
+      "tytul": "Decyzja Ministra Środowiska o odmowie stwierdzenia nieważności koncesji dotyczącej odkrywki Tomisławice",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/569-decyzja-ministra-srodowiska-o-odmowie-stwierdzenia-niewaznosci-koncesji-dotyczacej-odkrywki-tomislawice.html"
+    },
+    {
+      "numer": "RB nr 3/2014",
+      "data": "23.01.2014",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 23 stycznia 2014 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/558-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-23-stycznia-2014-roku.html"
+    },
+    {
+      "numer": "RB nr 2/2014",
+      "data": "23.01.2014",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 23 stycznia 2014 r.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/557-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenie-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-23-stycznia-2014-r.html"
+    },
+    {
+      "numer": "RB nr 1/2014",
+      "data": "17.01.2014",
+      "godzina": "",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2014 oraz oświadczenie o zamiarze stałego przekazywania skonsolidowanych raportów kwartalnych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/555-terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2014-oraz-oswiadczenie-o-zamiarze-stalego-przekazywania-skonsolidowanych-raportow-kwartalnych.html"
+    },
+    {
+      "numer": "RB nr 35/2013",
+      "data": "27.12.2013",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/543-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "RB nr 34/2013",
+      "data": "12.12.2013",
+      "godzina": "",
+      "tytul": "Zmiana udziału w ogólnej liczbie głosów",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/541-zmiana-udzialu-w-ogolnej-liczbie-glosow.html"
+    },
+    {
+      "numer": "RB nr 33/2013",
+      "data": "08.11.2013",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 7 listopada 2013 r.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/531-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-7-listopada-2013-r.html"
+    },
+    {
+      "numer": "RB nr 32/2013",
+      "data": "08.11.2013",
+      "godzina": "",
+      "tytul": "Powołanie członka Rady Nadzorczej ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/530-powolanie-czlonka-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 31/2013",
+      "data": "08.11.2013",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 7 listopada 2013 r.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/529-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-7-listopada-2013-r.html"
+    },
+    {
+      "numer": "RB nr 30/2013",
+      "data": "25.10.2013",
+      "godzina": "",
+      "tytul": "Zawarcie umów ze spółkami z Grupy Kapitałowej ENERGA, które łącznie spełniają kryterium umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/524-zawarcie-umow-ze-spolkami-z-grupy-kapitalowej-energa-ktore-lacznie-spelniaja-kryterium-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 29/2013",
+      "data": "16.10.2013",
+      "godzina": "",
+      "tytul": "Zawarcie umów ze spółkami z Grupy Kapitałowej TAURON, które łącznie spełniają kryterium umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/522-zawarcie-umow-ze-spolkami-z-grupy-kapitalowej-tauron-ktore-lacznie-spelniaja-kryterium-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 28/2013",
+      "data": "10.10.2013",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/517-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "RB nr 27/2013",
+      "data": "01.10.2013",
+      "godzina": "",
+      "tytul": "Oświadczenie członka rady nadzorczej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/514-oswiadczenie-czlonka-rady-nadzorczej.html"
+    },
+    {
+      "numer": "RB nr 26/2013",
+      "data": "27.09.2013",
+      "godzina": "",
+      "tytul": "Tekst jednolity Statutu Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/513-tekst-jednolity-statutu-spolki.html"
+    },
+    {
+      "numer": "RB nr 25/2013",
+      "data": "11.09.2013",
+      "godzina": "",
+      "tytul": "Zawarcie umów z Elektrim-Volt S.A., które łącznie spełniają kryterium umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/508-zawarcie-umow-z-elektrim-volt-sa-ktore-lacznie-spelniaja-kryterium-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 24/2013",
+      "data": "01.08.2013",
+      "godzina": "",
+      "tytul": "Zawarcie umów z podmiotami z Grupy Kapitałowej Energa, które łącznie spełniają kryterium umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/493-zawarcie-umow-z-podmiotami-z-grupy-kapitalowej-energa-ktore-lacznie-spelniaja-kryterium-umowy-znaczacej.html"
+    },
+    {
+      "numer": "RB nr 23/2013",
+      "data": "01.08.2013",
+      "godzina": "",
+      "tytul": "Zawarcie umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/492-zawarcie-umowy-znaczej.html"
+    },
+    {
+      "numer": "RB nr 22/2013",
+      "data": "16.07.2013",
+      "godzina": "",
+      "tytul": "Wszczęcie postępowania w sprawie koncesji Ministra Środowiska dotyczącej odkrywki Tomisławice",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/488-wszczecie-postepowania-w-sprawie-koncesji-ministra-srodowiska-dotyczacej-odkrywki-tomislawice.html"
+    },
+    {
+      "numer": "RB nr 21/2013",
+      "data": "27.06.2013",
+      "godzina": "",
+      "tytul": "Powołanie Zarządu ZE PAK S.A. nowej kadencji",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/486-powolanie-zarzadu-ze-pak-sa-nowej-kadencji.html"
+    },
+    {
+      "numer": "RB nr 20/2013",
+      "data": "26.06.2013",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 26 czerwca 2013 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/481-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-zwyczajnym-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-26-czerwca-2013-roku.html"
+    },
+    {
+      "numer": "RB nr 19/2013",
+      "data": "26.06.2013",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Zwyczajne Walne Zgromadzenie Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 26 czerwca 2013 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/480-uchwaly-podjete-przez-zwyczajne-walne-zgromadzenie-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-26-czerwca-2013-roku.html"
+    },
+    {
+      "numer": "RB nr 18/2013",
+      "data": "29.05.2013",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/477-ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "RB nr 17/2013",
+      "data": "08.05.2013",
+      "godzina": "",
+      "tytul": "Ocena przez Radę Nadzorczą stanowiska Zarządu Spółki w sprawie propozycji podziału zysku za rok obrotowy 2012",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/466-ocena-przez-rade-nadzorcza-stanowiska-zarzadu-spolki-w-sprawie-propozycji-podzialu-zysku-za-rok-obrotowy-2012.html"
+    },
+    {
+      "numer": "RB nr 16/2013",
+      "data": "08.05.2013",
+      "godzina": "",
+      "tytul": "Wybór biegłego rewidenta",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/465-wybor-bieglego-rewidenta.html"
+    },
+    {
+      "numer": "RB nr 15/2013",
+      "data": "08.05.2013",
+      "godzina": "",
+      "tytul": "Informacja o zmianie udziału w ogólnej liczbie głosów w Spółce",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/464-informacja-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce.html"
+    },
+    {
+      "numer": "RB nr 14/2013",
+      "data": "30.04.2013",
+      "godzina": "",
+      "tytul": "Umorzenie akcji, rejestracja obniżenia kapitału zakładowego Spółki oraz zmiany statutu Spółki",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/462-umorzenie-akcji-rejestracja-obnizenia-kapitalu-zakladowego-spolki-oraz-zmiany-statutu-spolki.html"
+    },
+    {
+      "numer": "RB nr 13/2013",
+      "data": "23.04.2013",
+      "godzina": "",
+      "tytul": "Zakończenie oferty publicznej sprzedaży akcji – raport uzupełniający",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/458-zakonczenie-oferty-publicznej-sprzedazy-akcji-raport-uzupelniajacy.html"
+    },
+    {
+      "numer": "RB nr 12/2013",
+      "data": "25.03.2013",
+      "godzina": "",
+      "tytul": "Wykaz raportów bieżących i okresowych przekazanych do publicznej wiadomości w 2012 roku",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/441-wykaz-raportow-biezacych-i-okresowych-przekazanych-do-publicznej-wiadomosci-w-2012-roku.html"
+    },
+    {
+      "numer": "RB nr 11/2013",
+      "data": "25.03.2013",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 22 marca 2013 r.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/440-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-22-marca-2013-r.html"
+    },
+    {
+      "numer": "RB nr 10/2013",
+      "data": "22.03.2013",
+      "godzina": "",
+      "tytul": "Powołanie członków Rady Nadzorczej ZE PAK S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/436-powolanie-czlonkow-rady-nadzorczej-ze-pak-sa.html"
+    },
+    {
+      "numer": "RB nr 9/2013",
+      "data": "22.03.2013",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 22 marca 2013 r.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/435-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-22-marca-2013-r.html"
+    },
+    {
+      "numer": "RB nr 5/2013/K",
+      "data": "21.03.2013",
+      "godzina": "",
+      "tytul": "Korekta raportu bieżącego nr 5/2013: Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 21 lutego 2013 r.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/434-korekta-raportu-biezacego-nr-52013-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenie-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-21-lutego-2013-r.html"
+    },
+    {
+      "numer": "RB nr 8/2013",
+      "data": "20.03.2013",
+      "godzina": "",
+      "tytul": "Rezygnacja z członkostwa w Radzie Nadzorczej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/432-rezygnacja-z-czlonkostwa-w-radzie-nadzorczej.html"
+    },
+    {
+      "numer": "RB nr 7/2013",
+      "data": "26.02.2013",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 21 lutego 2013 r.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/423-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-21-lutego-2013-r.html"
+    },
+    {
+      "numer": "RB nr 6/2013",
+      "data": "22.02.2013",
+      "godzina": "",
+      "tytul": "Rezygnacje z członkostwa w Radzie Nadzorczej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/418-rezygnacje-z-czlonkostwa-w-radzie-nadzorczej.html"
+    },
+    {
+      "numer": "RB nr 5/2013",
+      "data": "22.02.2013",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 21 lutego 2013 r.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/417-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenie-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-21-lutego-2013-r.html"
+    },
+    {
+      "numer": "RB nr 4/2013",
+      "data": "22.02.2013",
+      "godzina": "",
+      "tytul": "Ogłoszenie przerwy w obradach Nadzwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/416-ogloszenie-przerwy-w-obradach-nadzwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "RB nr 3/2013",
+      "data": "30.01.2013",
+      "godzina": "",
+      "tytul": "Zawiadomienie o transakcji na papierach wartościowych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/408-zawiadomienie-o-transakcji-na-papierach-wartosciowych.html"
+    },
+    {
+      "numer": "RB nr 2/2013",
+      "data": "25.01.2013",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/393-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "RB nr 1/2013",
+      "data": "17.01.2013",
+      "godzina": "",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2013 oraz oświadczenie o zamiarze stałego przekazywania skonsolidowanych raportów kwartalnych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/390-terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2013-oraz-oswiadczenie-o-zamiarze-stalego-przekazywania-skonsolidowanych-raportow-kwartalnych.html"
+    },
+    {
+      "numer": "RB nr 23/2013",
+      "data": "01.08.2013",
+      "godzina": "",
+      "tytul": "Zawarcie umowy znaczącej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/492-zawarcie-umowy-znaczacej.html"
+    },
+    {
+      "numer": "9/2013",
+      "data": "22.03.2013",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 22 marca 2013 r.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/435-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenie-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-22-marca-2013-r.html"
+    },
+    {
+      "numer": "RB nr 31/2013",
+      "data": "08.11.2013",
+      "godzina": "",
+      "tytul": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenia Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 7 listopada 2013 r.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/529-uchwaly-podjte-przez-nadzwyczajne-walne-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-7-listopada-2013-r.html"
+    },
+    {
+      "numer": "RB nr 5/2013/K",
+      "data": "21.03.2013",
+      "godzina": "",
+      "tytul": "Korekta raportu bieżącego nr 5/2013: Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w dniu 21 lutego 2013 r.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/434-korekta-raportu-biezacego-nr-52013-uchwaly-podjete-przez-nadzwyczajne-walne-zgromadzenia-zespolu-elektrowni-patnow-adamow-konin-sa-w-dniu-21-lutego-2013-r.html"
+    },
+    {
+      "numer": "RB nr 17/2012",
+      "data": "06.12.2012",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osób posiadających dostęp do informacji poufnych oraz zmianie udziału w ogólnej liczbie głosów",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/362-informacja-o-transakcjach-osob-posiadajacych-dostep-do-informacji-poufnych-oraz-zmianie-udzialu-w-ogolnej-liczbie-glosow.html"
+    },
+    {
+      "numer": "RB nr 16/2012",
+      "data": "05.12.2012",
+      "godzina": "",
+      "tytul": "Nabycie akcji własnych w związku z wykonaniem opcji stabilizacyjnej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/349-nabycie-akcji-wlasnych-w-zwiazku-z-wykonaniem-opcji-stabilizacyjnej.html"
+    },
+    {
+      "numer": "RB nr 15/2012",
+      "data": "04.12.2012",
+      "godzina": "",
+      "tytul": "Podsumowanie transakcji stabilizacyjnych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/348-podsumowanie-transakcji-stabilizacyjnych.html"
+    },
+    {
+      "numer": "RB nr 14/2012",
+      "data": "27.11.2012",
+      "godzina": "",
+      "tytul": "Wybór biegłego rewidenta",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/346-wybor-bieglego-rewidenta.html"
+    },
+    {
+      "numer": "RB nr 13/2012",
+      "data": "13.11.2012",
+      "godzina": "",
+      "tytul": "Rezygnacja z członkostwa w Radzie Nadzorczej",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/339-rezygnacja-z-czlonkostwa-w-radzie-nadzorczej.html"
+    },
+    {
+      "numer": "RB nr 12/2012",
+      "data": "12.11.2012",
+      "godzina": "",
+      "tytul": "Terminy publikacji raportów okresowych w roku obrotowym 2012 oraz oświadczenie o zamiarze stałego przekazywania skonsolidowanych raportów kwartalnych",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/338-terminy-publikacji-raportow-okresowych-w-roku-obrotowym-2012-oraz-oswiadczenie-o-zamiarze-stalego-przekazywania-skonsolidowanych-raportow-kwartalnych.html"
+    },
+    {
+      "numer": "RB nr 11/2012",
+      "data": "08.11.2012",
+      "godzina": "",
+      "tytul": "Zakończenie oferty publicznej sprzedaży akcji",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/337-zakonczenie-oferty-publicznej-sprzedazy-akcji.html"
+    },
+    {
+      "numer": "RB nr 10/2012",
+      "data": "07.11.2012",
+      "godzina": "",
+      "tytul": "Wyrok w sprawie odkrywki Tomisławice",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/336-wyrok-w-sprawie-odkrywki-tomislawice.html"
+    },
+    {
+      "numer": "RB nr 9/2012",
+      "data": "02.11.2012",
+      "godzina": "",
+      "tytul": "Nabycie znacznego pakietu akcji",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/334-nabycie-znacznego-pakietu-akcji.html"
+    },
+    {
+      "numer": "RB nr 8/2012",
+      "data": "02.11.2012",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osób posiadających dostęp do informacji poufnych oraz zmianie udziału w ogólnej liczbie głosów",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/333-informacja-o-transakcjach-osob-posiadajacych-dostep-do-informacji-poufnych-oraz-zmianie-udzialu-w-ogolnej-liczbie-glosow.html"
+    },
+    {
+      "numer": "RB nr 7/2012",
+      "data": "02.11.2012",
+      "godzina": "",
+      "tytul": "Zmiana udziału w ogólnej liczbie głosów",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/332-zmiana-udzialu-w-ogolnej-liczbie-glosow.html"
+    },
+    {
+      "numer": "RB nr 6/2012",
+      "data": "29.10.2012",
+      "godzina": "",
+      "tytul": "Wprowadzenie do obrotu giełdowego na Głównym Rynku GPW akcji zwykłych na okaziciela serii A1 i B1 Zespołu Elektrowni Pątnów Adamów Konin S.A.",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/323-wprowadzenie-do-obrotu-gieldowego-na-glownym-rynku-gpw-akcji-zwyklych-na-okaziciela-serii-a1-i-b1-zespolu-elektrowni-patnow-adamow-konin-sa.html"
+    },
+    {
+      "numer": "RB nr 5/2012",
+      "data": "26.10.2012",
+      "godzina": "",
+      "tytul": "Asymilacja i rejestracja akcji Zespołu Elektrowni Pątnów-Adamów-Konin S.A. w KDPW",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/290-asymilacja-i-rejestracja-akcji-zespolu-elektrowni-patnow-adamow-konin-sa-w-kdpw.html"
+    },
+    {
+      "numer": "RB nr 4/2012",
+      "data": "26.10.2012",
+      "godzina": "",
+      "tytul": "Dopuszczenie akcji Zespołu Elektrowni Pątnów-Adamów-Konin S.A. do obrotu na rynku podstawowym GPW oraz rejestracja akcji przez KDPW",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/288-dopuszczenie-akcji-zespolu-elektrowni-patnow-adamow-konin-sa-do-obrotu-na-rynku-podstawowym-gpw-oraz-rejestracja-akcji-przez-kdpw.html"
+    },
+    {
+      "numer": "RB nr 3/2012",
+      "data": "26.10.2012",
+      "godzina": "",
+      "tytul": "Złożenie wniosku o dopuszczenie oraz wniosku o wprowadzenie do obrotu na rynku podstawowym GPW akcji serii A1 i B1",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/287-zlozenie-wniosku-o-dopuszczenie-oraz-wniosku-o-wprowadzenie-do-obrotu-na-rynku-podstawowym-gpw-akcji-serii-a1-i-b1.html"
+    },
+    {
+      "numer": "RB nr 2/2012",
+      "data": "22.10.2012",
+      "godzina": "",
+      "tytul": "Informacja o ustaleniu ceny sprzedaży Akcji Sprzedawanych, ostatecznej liczby Akcji Sprzedawanych oferowanych w ramach Oferty oraz ostatecznej liczby Akcji Sprzedawanych oferowanych poszczególnym kategoriom inwestorów",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/286-informacja-o-ustaleniu-ceny-sprzedazy-akcji-sprzedawanych-ostatecznej-liczby-akcji-sprzedawanych-oferowanych-w-ramach-oferty-oraz-ostatecznej-liczby-akcji-s.html"
+    },
+    {
+      "numer": "RB nr 1/2012",
+      "data": "17.10.2012",
+      "godzina": "",
+      "tytul": "Przystąpienie do Elektronicznego Systemu Przekazywania Informacji",
+      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-biezace/264-przystapienie-do-elektronicznego-systemu-przekazywania-informacji.html"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "confirmed_events": 3,
+  "unreviewed_communications": 1729,
+  "events_with_linked_report": 1,
+  "events_with_complete_car": 3,
+  "validation_status": "pending_review",
+  "models": {
+    "baseline_all": {
+      "status": "awaiting_screening_or_validation",
+      "n_available": 1
+    },
+    "baseline_without_overlaps": {
+      "status": "awaiting_screening_or_validation",
+      "n_available": 1
+    },
+    "same_session_all": {
+      "status": "awaiting_screening_or_validation",
+      "n_available": 1
+    },
+    "same_session_without_overlaps": {
+      "status": "awaiting_screening_or_validation",
+      "n_available": 1
+    }
+  }
+}

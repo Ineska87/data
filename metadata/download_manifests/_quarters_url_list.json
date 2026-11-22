@@ -1,0 +1,764 @@
+[
+  {
+    "ticker": "PGE",
+    "year": 2020,
+    "period": "Q1",
+    "file": "PGE_2020_Q1_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/8e46bd18895d03942bfdf602bbfe7c0c/file/df18f1788be6fc2c83c289c7cf0f81e0.pdf",
+    "status": "ready",
+    "note": "Kwartalny raport finansowy za okres 3 miesiące 2020 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE oraz jed",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2020-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2020,
+    "period": "Q1",
+    "file": "PGE_2020_Q1_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/4c1044b6a31b002a281340a673240f7d/file/45c3d3c69fd95e377df821a815a0d4ba.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za I kwartał 2020 r.\n\n                                             [ pdf 1,3 MB ]",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2020-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2020,
+    "period": "H1",
+    "file": "PGE_2020_H1_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/50ec2ccffe901616ef934996292db953/file/4e7334c57b6957ef33ed010673dc1cb2.pdf",
+    "status": "ready",
+    "note": "Raport finansowy za I półrocze 2020 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE oraz jednostkowe sprawoz",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-polrocze-2020-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2020,
+    "period": "H1",
+    "file": "PGE_2020_H1_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/b488e2609226749062a0f99068c5c317/file/5fa53dddd4205f0bcff21f00b4c9d331.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za I półrocze 2020 r. \n\n                                             [ pdf 1,9 MB ]",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-polrocze-2020-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2020,
+    "period": "Q3",
+    "file": "PGE_2020_Q3_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/08566b4bfaec4ca5434bf8e22bdc2e13/file/6d5daf79e2a00bb506006e1451ffb2ce.pdf",
+    "status": "ready",
+    "note": "Kwartalny raport finansowy za okres 3 i 9 miesięcy 2020 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE oraz",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2020-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2020,
+    "period": "Q3",
+    "file": "PGE_2020_Q3_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/0072561ee11a2b8f000787eed8b5e317/file/6d4d1b00494c7603320cefb4736c606f.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za III kwartał 2020 r. \n\n                                             [ pdf 1,8 MB ]",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2020-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2021,
+    "period": "Q1",
+    "file": "PGE_2021_Q1_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/f091e909d9fa3c0278eb52460e560b8b/file/761bd09a4e499bd0418b574b1a2bfeb0.pdf",
+    "status": "ready",
+    "note": "Kwartalny raport finansowy za okres 3 miesiące 2021 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE oraz jed",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2021-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2021,
+    "period": "Q1",
+    "file": "PGE_2021_Q1_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/fcfe2af5a197b5ef39c1c9d6d2c92bc2/file/5cb57c9f791ed5e936c2b0aea610a62a.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za I kwartał 2021 r.\n\n                                             [ pdf 1,5 MB ]",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2021-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2021,
+    "period": "H1",
+    "file": "PGE_2021_H1_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/061d21b19d444748b8206555142e550a/file/3ec04fa4b5f3e0a07466193db016bbdb.pdf",
+    "status": "ready",
+    "note": "Raport finansowy za I półrocze 2021 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE oraz jednostkowe sprawoz",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-polroczny-za-i-polrocze-2021-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2021,
+    "period": "H1",
+    "file": "PGE_2021_H1_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/c8111e4aaf95f76067875ce732c42154/file/ce473688f06181a37fce29e3da216e5d.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za I półrocze 2021 r.\n\n                                             [ pdf 1,8 MB ]",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-polroczny-za-i-polrocze-2021-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2021,
+    "period": "Q3",
+    "file": "PGE_2021_Q3_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/ce1e6991b85e097891fe6cf1f274d1d6/file/e4638975b366be0d396256b9ed4950e4.pdf",
+    "status": "ready",
+    "note": "Kwartalny raport finansowy za III kwartał i 9 miesięcy 2021 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE ",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2021-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2021,
+    "period": "Q3",
+    "file": "PGE_2021_Q3_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/234a368b758960e26a9b01e5f18539b2/file/a1e22a7c60ef6110d72d872ae4f8e998.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za III kwartał 2021 r. \n\n                                             [ pdf 1,8 MB ]",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2021-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2022,
+    "period": "Q1",
+    "file": "PGE_2022_Q1_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/5510922db713d0df5aee1622de1a9054/file/1_pge_gk_q1_2022_raport_finansowy.pdf",
+    "status": "ready",
+    "note": "Kwartalny raport finansowy za okres 3 miesięcy 2022 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE oraz kwa",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2022-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2022,
+    "period": "Q1",
+    "file": "PGE_2022_Q1_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/5030df0061e5a66eb8fd9311ac8e3f85/file/pge_prezentacja_inwestorska_q1-2022.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za I kwartał 2022 r.\n\n                                             [ pdf 1,4 MB ]",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2022-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2022,
+    "period": "H1",
+    "file": "PGE_2022_H1_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/5a4c422bb4db7e2d940f5373428f7c90/file/polroczny_raport_finansowy_gkpge_30.06.2022.pdf",
+    "status": "ready",
+    "note": "Raport finansowy za I półrocze 2022 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE oraz jednostkowe sprawoz",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2022-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2022,
+    "period": "H1",
+    "file": "PGE_2022_H1_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/3fa9ccf4a6fbfcd616f5fd23db7d5157/file/pge_prezentacja_inwestorska_i-pol.-2022.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za I półrocze 2022 r.\n\n                                             [ pdf 1,7 MB ]",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2022-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2022,
+    "period": "Q3",
+    "file": "PGE_2022_Q3_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/f4f20d8c9e7171b3fa975748b0b31d02/file/1_pge_gk_q3_2022_raport_finansowy.pdf",
+    "status": "ready",
+    "note": "Kwartalny raport finansowy za III kwartał i 9 miesięcy 2022 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE ",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2022-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2022,
+    "period": "Q3",
+    "file": "PGE_2022_Q3_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/fea93fd3ef645f8deea69386b045a1c1/file/pge-s.a._prezentacja_inwestorska_iii-kw-2022.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za III kwartał 2022 r.\n\n                                             [ pdf 1,8 MB ]",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2022-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2023,
+    "period": "Q1",
+    "file": "PGE_2023_Q1_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/26f291fd5342a5cf1adff849dd1d5073/file/1_pge_gk_q1_2023_raport_finansowy.pdf",
+    "status": "ready",
+    "note": "Kwartalny raport finansowy za okres 3 miesięcy 2023 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE oraz kwa",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2023-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2023,
+    "period": "Q1",
+    "file": "PGE_2023_Q1_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/a52c3173307431df54ecb3aa74b75945/file/pge-prezentacja_inwestorska_q1_2023.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za I kwartał 2023 r.\n\n                                             [ pdf 1,5 MB ]",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2023-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2023,
+    "period": "H1",
+    "file": "PGE_2023_H1_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/68808c97c81baaf177a856b67f3d5a43/file/3_pge_gk_hy_2023_raport_finansowy.pdf",
+    "status": "ready",
+    "note": "Raport finansowy za I półrocze 2023 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE oraz jednostkowe sprawoz",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2023-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2023,
+    "period": "H1",
+    "file": "PGE_2023_H1_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/22da2912fca020d4e2ece60f99a9b284/file/pge_prezentacja_inwestorska_ii-kw.-2023.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za I półrocze i II kwartał 2023 r.\n\n                                             [ pdf ",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2023-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2023,
+    "period": "Q3",
+    "file": "PGE_2023_Q3_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/19acd4343f6040adc5d68d609dfcffc8/file/1_pge_gk_q3_2023_raport_finansowy.pdf",
+    "status": "ready",
+    "note": "Kwartalny raport finansowy za III kwartał i 9 miesięcy 2023 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE ",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2023-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2023,
+    "period": "Q3",
+    "file": "PGE_2023_Q3_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/c4eb1953da45df3c227669e7f0d5a475/file/pge-s.a._prezentacja_inwestorska_iii-kw_2023.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za III kwartał 2023 r.\n\n                                             [ pdf 1,6 MB ]",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2023-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2024,
+    "period": "Q1",
+    "file": "PGE_2024_Q1_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/05b9481afe24c03928353920bfa49360/file/1_pge_gk_q1_2024_raport_finansowy.pdf",
+    "status": "ready",
+    "note": "Kwartalny raport finansowy za okres 3 miesięcy 2024 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE oraz kwa",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2024-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2024,
+    "period": "Q1",
+    "file": "PGE_2024_Q1_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/7b644341f44f0803483c8331edfdc215/file/pge_prezentacja_inwestorska-q1-2024.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za I kwartał 2024 r.\n\n                                             [ pdf 1,5 MB ]",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2024-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2024,
+    "period": "H1",
+    "file": "PGE_2024_H1_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/9c06bd791aa352175b9e11e273fbaac7/file/3_pge_gk_hy_2024_raport_finansowy.pdf",
+    "status": "ready",
+    "note": "Raport finansowy za I półrocze 2024 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE oraz jednostkowe sprawoz",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2024-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2024,
+    "period": "H1",
+    "file": "PGE_2024_H1_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/3aff5225d5d5c1b784c927a60d3fdca7/file/pge_prezentacja_inwestorska-q2-2024.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za I półrocze i II kwartał 2024 r.\n\n                                             [ pdf ",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2024-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2024,
+    "period": "Q3",
+    "file": "PGE_2024_Q3_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/1d16fcf66aefb2bc9f12ea974c02453a/file/1_pge_gk_q3_2024_raport_finansowy.pdf",
+    "status": "ready",
+    "note": "Kwartalny raport finansowy za III kwartał i 9 miesięcy 2024 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE ",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2024-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2024,
+    "period": "Q3",
+    "file": "PGE_2024_Q3_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/13ccc02e9dce0367ccafb94d4df0a4c6/file/pge_prezentacja_inwestorska-q3-2024.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za III kwartał 2024 r.\n\n                                             [ pdf 2 MB ]",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2024-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2025,
+    "period": "Q1",
+    "file": "PGE_2025_Q1_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/4148e6debd131a77a83644d5e6f4b644/file/1_pge_gk_q1_2025_raport_finansowy.pdf",
+    "status": "ready",
+    "note": "Kwartalny raport finansowy za okres 3 miesięcy 2025 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE oraz kwa",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2025-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2025,
+    "period": "Q1",
+    "file": "PGE_2025_Q1_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/443cd4e19a0a6dc77ed09c86e42b984d/file/pge_prezentacja_inwestorska-q1-2025.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za I kwartał 2025 r.\n\n                                             [ pdf 1,1 MB ]",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-i-kwartal-2025-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2025,
+    "period": "H1",
+    "file": "PGE_2025_H1_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/932c5bfb75ad3ddfb251b5a5d0d222ad/file/3_pge_gk_hy_2025_raport_finansowy.pdf",
+    "status": "ready",
+    "note": "Raport finansowy za I półrocze 2025 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE oraz jednostkowe sprawoz",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2025-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2025,
+    "period": "H1",
+    "file": "PGE_2025_H1_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/e4808c3c51f1c00cfa32fb6892adfea5/file/pge_prezentacja_inwestorska_q2-2025.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za I półrocze i II kwartał 2025 r.\n\n                                             [ pdf ",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-za-i-polrocze-2025-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2025,
+    "period": "Q3",
+    "file": "PGE_2025_Q3_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/11ad6a4b7df26b286defdf50eb0f59ee/file/1_pge_gk_q3_2025_raport_finansowy.pdf",
+    "status": "ready",
+    "note": "Kwartalny raport finansowy za III kwartał i 9 miesięcy 2025 r. zawierający skonsolidowane sprawozdanie finansowe GK PGE ",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2025-r"
+  },
+  {
+    "ticker": "PGE",
+    "year": 2025,
+    "period": "Q3",
+    "file": "PGE_2025_Q3_prezentacja.pdf",
+    "url": "https://www.gkpge.pl/content/download/13998627be28c7cf65969b242edd5525/file/pge_prezentacja_inwestorska_q3-2025.pdf",
+    "status": "ready",
+    "note": "Prezentacja inwestorska - wyniki za III kwartał 2025 r.\n\n                                             [ pdf 1,3 MB ]",
+    "page": "https://www.gkpge.pl/dla-inwestorow/akcje/dane-finansowe/skonsolidowany-raport-kwartalny-za-iii-kwartal-2025-r"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2025,
+    "period": "Q1",
+    "file": "TPE_2025_Q1_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/i-kwartal/tauron-pe-skonsolidowane-sprawozdanie-fin-za-i-kw-2025-r.ashx",
+    "status": "ready",
+    "note": "from IR scrape v2"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2025,
+    "period": "H1",
+    "file": "TPE_2025_H1_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/i-polrocze/skonsolidowane-sprawozdanie-finansowe-gk-tpe-za-i-polrocze-2025.ashx",
+    "status": "ready",
+    "note": "ashx IR"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2025,
+    "period": "Q3",
+    "file": "TPE_2025_Q3_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2025/iii-kwartal/skonsolidowane-sprawozdanie-finansowe-za-iii-kwartal-2025-r.ashx",
+    "status": "ready",
+    "note": "ashx IR"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2024,
+    "period": "Q1",
+    "file": "TPE_2024_Q1_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/i-kwartal/tauron-pe-skonsolidowane-sprawozdanie-fin-za-i-kw-2024-r.ashx",
+    "status": "ready",
+    "note": "from IR scrape v2"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2024,
+    "period": "H1",
+    "file": "TPE_2024_H1_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/i-polrocze/skonsolidowane-sprawozdanie-finansowe-grupy-kapitalowej-tauron-za-i-polrocze-2024.ashx",
+    "status": "ready",
+    "note": "ashx IR"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2024,
+    "period": "Q3",
+    "file": "TPE_2024_Q3_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/iii-kwartal/tauron-pe-skonsolidowane-sprawozdanie-finansowe-za-iii-kwartal-2024-r.ashx",
+    "status": "ready",
+    "note": "ashx IR"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2023,
+    "period": "Q1",
+    "file": "TPE_2023_Q1_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/i-kwartal/skonsolidowane-sprawozdanie-finansowe-za-i-kwartal-2023-r.ashx",
+    "status": "ready",
+    "note": "from IR scrape v2"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2023,
+    "period": "H1",
+    "file": "TPE_2023_H1_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/i-polrocze/skonsolidowane-sprawozdanie-finansowe-gk-tpe-za-i-polr-2023.ashx",
+    "status": "ready",
+    "note": "ashx IR"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2023,
+    "period": "Q3",
+    "file": "TPE_2023_Q3_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2023/iii-kwartal/skonsolidowane-sprawozdanie-finansowe-za-iii-kwartal-2023-r.ashx",
+    "status": "ready",
+    "note": "ashx IR"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2022,
+    "period": "Q1",
+    "file": "TPE_2022_Q1_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2022/i-kwartal/tauron_skonsolidowany_raport_za_i_kwartal_2022.ashx",
+    "status": "ready",
+    "note": "ashx IR"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2022,
+    "period": "H1",
+    "file": "TPE_2022_H1_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2022/i-polrocze/rozszerzony_skonsolidowany_raport_polroczny_za_i_polrocze_2022.ashx",
+    "status": "ready",
+    "note": "ashx IR"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2022,
+    "period": "Q3",
+    "file": "TPE_2022_Q3_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2022/iii-kwartal/rozszerzony_skonsolidowany_raport_kwartalny_za_iii_kwartal_2022_r.ashx",
+    "status": "ready",
+    "note": "ashx IR"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2021,
+    "period": "Q1",
+    "file": "TPE_2021_Q1_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/i-kwartal/raport_pl.ashx",
+    "status": "ready",
+    "note": "from IR scrape v2"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2021,
+    "period": "H1",
+    "file": "TPE_2021_H1_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/i-polrocze/tauron_skons_raport_za_i_polrocze_2021_r.ashx",
+    "status": "ready",
+    "note": "from IR scrape"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2021,
+    "period": "Q3",
+    "file": "TPE_2021_Q3_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2021/iii-kwartal/0-tauron-skons-raport-za-iii-kwartal-2021.ashx",
+    "status": "ready",
+    "note": "from IR scrape v2"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2020,
+    "period": "Q1",
+    "file": "TPE_2020_Q1_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2020/i-kwartal/rozszerzony_skonsolidowany_raport_kwartalny_za_i_kwartal_2020_r.ashx",
+    "status": "ready",
+    "note": "from IR scrape v2"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2020,
+    "period": "H1",
+    "file": "TPE_2020_H1_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2020/i-polrocze/rozszerzony_skonsolidowany_raport_polroczny_za_i_polrocze_2020_r.ashx",
+    "status": "ready",
+    "note": "ashx IR"
+  },
+  {
+    "ticker": "TPE",
+    "year": 2020,
+    "period": "Q3",
+    "file": "TPE_2020_Q3_sprawozdanie.pdf",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2020/iii-kwartal/rozszerzony_skonsolidowany_raport_kwartalny_za_iii_kwartal_2020_r.ashx",
+    "status": "ready",
+    "note": "ashx IR"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2020,
+    "period": "Q1",
+    "file": "ENA_2020_Q1_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/1636553/8b/skonsolidowane_sprawozdanie_finansowe_gk_enea_za_iq2020.pdf",
+    "status": "ready",
+    "note": "Skonsolidowane sprawozdanie finansowe GK ENEA za IQ 2020    .pdf 3,1 MB",
+    "page": "https://ir.enea.pl/pr/528431/skonsolidowany-raport-kwartalny-qsr-1-2020"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2020,
+    "period": "H1",
+    "file": "ENA_2020_H1_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/1688905/2d/skonsolidowane_sprawozdanie_finansowe_gk_enea.pdf",
+    "status": "ready",
+    "note": "Skonsolidowane sprawozdanie finansowe GK ENEA    .pdf 1,8 MB",
+    "page": "https://ir.enea.pl/pr/562577/skonsolidowany-raport-polroczny-psr-2020"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2020,
+    "period": "H1",
+    "file": "ENA_2020_H1_sprawozdanie-zarzadu.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/1688909/c9/sprawozdanie_zarzadu_z_dzialalnosci_grupy_kapitalowej_enea_w_1_polroczu_2020.pdf",
+    "status": "ready",
+    "note": "Sprawozdanie Zarządu z działalności Grupy Kapitałowej ENEA w 1 półroczu 2020 r.    .pdf 3,2 MB",
+    "page": "https://ir.enea.pl/pr/562577/skonsolidowany-raport-polroczny-psr-2020"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2020,
+    "period": "Q3",
+    "file": "ENA_2020_Q3_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/1748229/4c/skonsolidowane_sprawozdanie_finansowe_gk_enea_30_09_2020_sig_sig_sig_sig.pdf",
+    "status": "ready",
+    "note": "Skonsolidowane sprawozdanie finansowe GK ENEA     .pdf 3,3 MB",
+    "page": "https://ir.enea.pl/pr/602328/skonsolidowany-raport-kwartalny-qsr-3-2020"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2021,
+    "period": "Q1",
+    "file": "ENA_2021_Q1_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/1925207/c/skonsolidowane_sprawozdanie_gk_enea_31_03_2021_sig_sig_sig_sig_sig.pdf",
+    "status": "ready",
+    "note": "Skonsolidowane sprawozdanie GK ENEA za 1 kwartał 2021 roku    .pdf 3,3 MB",
+    "page": "https://ir.enea.pl/pr/670263/skonsolidowany-raport-kwartalny-qsr-1-2021"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2021,
+    "period": "H1",
+    "file": "ENA_2021_H1_sprawozdanie-zarzadu.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2008347/35/sprawozdanie_zarzadu_z_dzialalnosci_grupy_kapitalowej_enea_w_i_polroczu_2021_roku_sig_sig_sig_sig.pdf",
+    "status": "ready",
+    "note": "Sprawozdanie Zarządu z działalności Grupy Kapitałowej ENEA w I półroczu 2021 roku    .pdf 3,0 MB",
+    "page": "https://ir.enea.pl/pr/694486/skonsolidowany-raport-polroczny-psr-2021"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2021,
+    "period": "H1",
+    "file": "ENA_2021_H1_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2008355/a7/sprawozdanie_finansowe_enea_s_a_30_06_2021_sig_sig_sig_sig_sig.pdf",
+    "status": "ready",
+    "note": "Sprawozdanie finansowe ENEA S.A.    .pdf 1,7 MB",
+    "page": "https://ir.enea.pl/pr/694486/skonsolidowany-raport-polroczny-psr-2021"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2021,
+    "period": "Q3",
+    "file": "ENA_2021_Q3_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2065774/a2/skonsolidowane_sprawozdanie_finansowe_gk_enea_30_09_2021_sig_sig_sig_sig_sig.pdf",
+    "status": "ready",
+    "note": "Skonsolidowane sprawozdanie finansowe GK ENEA     .pdf 3,5 MB",
+    "page": "https://ir.enea.pl/pr/710811/skonsolidowany-raport-kwartalny-qsr-3-2021"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2022,
+    "period": "Q1",
+    "file": "ENA_2022_Q1_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2210098/84/sprawozdanie_finansowe_enea_s_a_31_03_2022_sig_sig_sig_sig_sig_sig.pdf",
+    "status": "ready",
+    "note": "Sprawozdanie finansowe ENEA S.A. za I kw. 2022 r.    .pdf 2,0 MB",
+    "page": "https://ir.enea.pl/pr/745885/skonsolidowany-raport-kwartalny-qsr-1-2022"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2022,
+    "period": "H1",
+    "file": "ENA_2022_H1_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2298383/6f/sprawozdanie_finansowe_enea_s_a_30_06_2022_sig_sig_sig_sig_sig.pdf",
+    "status": "ready",
+    "note": "Sprawozdanie finansowe ENEA S.A. za I półrocze 2022 r.    .pdf 1,8 MB",
+    "page": "https://ir.enea.pl/pr/766692/skonsolidowany-raport-polroczny-psr-2022"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2022,
+    "period": "H1",
+    "file": "ENA_2022_H1_sprawozdanie-zarzadu.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2298391/a8/sprawozdanie_zarzadu_z_dzialalnosci_gk_enea_w_i_polroczu_2022_r_sig_sig_sig_sig.pdf",
+    "status": "ready",
+    "note": "Sprawozdanie Zarządu z działalności GK ENEA w I półroczu 2022 r.    .pdf 3,3 MB",
+    "page": "https://ir.enea.pl/pr/766692/skonsolidowany-raport-polroczny-psr-2022"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2022,
+    "period": "Q3",
+    "file": "ENA_2022_Q3_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2346514/2b/skonsolidowane_sprawozdanie_finansowe_gk_enea_30_09_2022_sig_sig_sig_sig_sig_sig.pdf",
+    "status": "ready",
+    "note": "Skonsolidowane sprawozdanie finansowe GK ENEA za III kw. 2022 r.    .pdf 4,1 MB",
+    "page": "https://ir.enea.pl/pr/779452/skonsolidowany-raport-kwartalny-qsr-3-2022"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2023,
+    "period": "Q1",
+    "file": "ENA_2023_Q1_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2490336/3a/sprawozdanie_finansowe_enea_s_a_31_03_2023_sig_sig_sig_sig_sig.pdf",
+    "status": "ready",
+    "note": "Sprawozdanie finansowe ENEA S.A. za I kwartał 2023 r.    .pdf 1,9 MB",
+    "page": "https://ir.enea.pl/pr/808144/skonsolidowany-raport-kwartalny-qsr-1-2023"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2023,
+    "period": "H1",
+    "file": "ENA_2023_H1_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2549791/d8/zal04_skonsolidowane_sprawozdanie_finansowe_gk_enea_30_06_2023_sig_sig_sig_sig_sig.pdf",
+    "status": "ready",
+    "note": "Skonsolidowane sprawozdanie finansowe GK ENEA za I półrocze 2023 roku    .pdf 3,9 MB",
+    "page": "https://ir.enea.pl/pr/819642/skonsolidowany-raport-polroczny-psr-2023"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2023,
+    "period": "H1",
+    "file": "ENA_2023_H1_sprawozdanie-zarzadu.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2549789/f8/zal03_sprawozdanie_zarzadu_z_dzialalnosci_gk_enea_w_i_polroczu_2023_r_13_09_2023_sig_sig_sig_sig.pdf",
+    "status": "ready",
+    "note": "Sprawozdanie Zarządu z działalności GK ENEA w I półroczu 2023 r.    .pdf 3,4 MB",
+    "page": "https://ir.enea.pl/pr/819642/skonsolidowany-raport-polroczny-psr-2023"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2023,
+    "period": "Q3",
+    "file": "ENA_2023_Q3_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2580175/ad/zal03_sprawozdanie_finansowe_enea_s_a_30_09_2023_sig_sig_sig_sig_sig_sig.pdf",
+    "status": "ready",
+    "note": "Sprawozdanie finansowe ENEA S.A. za III kw. 2023 r.    .pdf 2,2 MB",
+    "page": "https://ir.enea.pl/pr/824470/skonsolidowany-raport-kwartalny-qsr-3-2023"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2024,
+    "period": "Q1",
+    "file": "ENA_2024_Q1_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2671806/89/zal02_sprawozdanie_finansowe_enea_s_a_za_i_kw_2024_r.pdf",
+    "status": "ready",
+    "note": "Sprawozdanie finansowe ENEA S.A. za I kw. 2024 r.    .pdf 2,0 MB",
+    "page": "https://ir.enea.pl/pr/834395/skonsolidowany-raport-kwartalny-qsr-1-2024"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2024,
+    "period": "H1",
+    "file": "ENA_2024_H1_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2714767/95/zal01_skonsolidowane_sprawozdanie_finansowe_gk_enea_30_06_2024_sig_sig_sig.pdf",
+    "status": "ready",
+    "note": "Skonsolidowane sprawozdanie finansowe GK ENEA za I półrocze 2024 r.    .pdf 3,4 MB",
+    "page": "https://ir.enea.pl/pr/840698/skonsolidowany-raport-polroczny-psr-2024"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2024,
+    "period": "H1",
+    "file": "ENA_2024_H1_sprawozdanie-zarzadu.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2714771/9f/zal03_sprawozdanie_zarzadu_z_dzialalnosci_grupy_kapitalowej_enea_w_i_polroczu_2024_r_sig_sig.pdf",
+    "status": "ready",
+    "note": "Sprawozdanie Zarządu z działalności GK ENEA w I półroczu 2024 r.    .pdf 2,5 MB",
+    "page": "https://ir.enea.pl/pr/840698/skonsolidowany-raport-polroczny-psr-2024"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2024,
+    "period": "Q3",
+    "file": "ENA_2024_Q3_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2749430/11/zal01_skonsolidowane_sprawozdanie_finansowe_gk_enea_30_09_2024_sig_sig_sig.pdf",
+    "status": "ready",
+    "note": "Skonsolidowane sprawozdanie finansowe GK ENEA za III kw. 2024 r.    .pdf 2,7 MB",
+    "page": "https://ir.enea.pl/pr/843935/skonsolidowany-raport-kwartalny-qsr-3-2024"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2025,
+    "period": "Q1",
+    "file": "ENA_2025_Q1_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2827132/e1/zal02_skonsolidowane_sprawozdanie_finansowe_gk_enea_31_03_2025_sig_sig.pdf",
+    "status": "ready",
+    "note": "Skonsolidowane sprawozdanie finansowe GK Enea za I kw. 2025 r.    .pdf 2,9 MB",
+    "page": "https://ir.enea.pl/pr/852021/skonsolidowany-raport-kwartalny-qsr-1-2025"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2025,
+    "period": "H1",
+    "file": "ENA_2025_H1_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2888982/f9/zal02_skonsolidowane_sprawozdanie_finansowe_gk_enea_30_06_2025_sig_sig.pdf",
+    "status": "ready",
+    "note": "Skonsolidowane sprawozdanie finansowe GK Enea    .pdf 2,3 MB",
+    "page": "https://ir.enea.pl/pr/857424/skonsolidowany-raport-polroczny-psr-2025"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2025,
+    "period": "H1",
+    "file": "ENA_2025_H1_sprawozdanie-zarzadu.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2888980/73/zal01_sprawozdanie_zarzadu_z_dzialalnosci_grupy_kapitalowej_enea_w_i_polroczu_2025_r_sig_sig.pdf",
+    "status": "ready",
+    "note": "Sprawozdanie Zarządu z działalności GK Enea    .pdf 4,0 MB",
+    "page": "https://ir.enea.pl/pr/857424/skonsolidowany-raport-polroczny-psr-2025"
+  },
+  {
+    "ticker": "ENA",
+    "year": 2025,
+    "period": "Q3",
+    "file": "ENA_2025_Q3_sprawozdanie.pdf",
+    "url": "https://cdn-netpr.pl/file/attachment/2916118/5b/zal02_skonsolidowane_sprawozdanie_finansowe_gk_enea_30_09_2025_sig_sig.pdf",
+    "status": "ready",
+    "note": "Skonsolidowane sprawozdanie finansowe GK Enea za III kw. 2025 r.    .pdf 2,4 MB",
+    "page": "https://ir.enea.pl/pr/860911/skonsolidowany-raport-kwartalny-qsr-3-2025"
+  }
+]

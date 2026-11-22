@@ -1,0 +1,59 @@
+{
+  "source": "Yahoo Finance daily chart",
+  "fetched_at": "2026-11-22T18:06:05.776520+00:00",
+  "prices": "close and adjusted close",
+  "start": "2018-01-01",
+  "end_exclusive": "2026-01-09",
+  "symbols": {
+    "PKN": "PKN.WA",
+    "PGE": "PGE.WA",
+    "TPE": "TPE.WA",
+    "ENA": "ENA.WA",
+    "ZEP": "ZEP.WA",
+    "UNT": "UNT.WA"
+  },
+  "files": {
+    "PKN": {
+      "source_url": "https://finance.yahoo.com/quote/PKN.WA/history/",
+      "data_url": "https://query1.finance.yahoo.com/v8/finance/chart/PKN.WA?period1=1514764800&period2=1767916800&interval=1d&includeAdjustedClose=true",
+      "rows": 2035,
+      "sha256": "b7fe49a7c652ee6f91dc96a1d27c7d9aba2456a8776d39fa85f974f29e166de3",
+      "fetched_at": "2026-11-22T18:05:40.913963+00:00"
+    },
+    "PGE": {
+      "source_url": "https://finance.yahoo.com/quote/PGE.WA/history/",
+      "data_url": "https://query1.finance.yahoo.com/v8/finance/chart/PGE.WA?period1=1514764800&period2=1767916800&interval=1d&includeAdjustedClose=true",
+      "rows": 2035,
+      "sha256": "73f2faf14ae52d955a6a8730effba6828607cdf1196d9c7cfefd76a705dbd732",
+      "fetched_at": "2026-11-22T18:05:41.297246+00:00"
+    },
+    "TPE": {
+      "source_url": "https://finance.yahoo.com/quote/TPE.WA/history/",
+      "data_url": "https://query1.finance.yahoo.com/v8/finance/chart/TPE.WA?period1=1514764800&period2=1767916800&interval=1d&includeAdjustedClose=true",
+      "rows": 2035,
+      "sha256": "74dae74a27f1f1c84775dbca2f6adb6c2c28a384bdaccab9793bc9d5064f32e3",
+      "fetched_at": "2026-11-22T18:05:41.624074+00:00"
+    },
+    "ENA": {
+      "source_url": "https://finance.yahoo.com/quote/ENA.WA/history/",
+      "data_url": "https://query1.finance.yahoo.com/v8/finance/chart/ENA.WA?period1=1514764800&period2=1767916800&interval=1d&includeAdjustedClose=true",
+      "rows": 2035,
+      "sha256": "d51ddce90d816d03b649a1b241cc82893b9167e23e0ba86ec52e3eb52bdb1c82",
+      "fetched_at": "2026-11-22T18:05:41.977051+00:00"
+    },
+    "ZEP": {
+      "source_url": "https://finance.yahoo.com/quote/ZEP.WA/history/",
+      "data_url": "https://query1.finance.yahoo.com/v8/finance/chart/ZEP.WA?period1=1514764800&period2=1767916800&interval=1d&includeAdjustedClose=true",
+      "rows": 2035,
+      "sha256": "ef409c32d1f6ddca95ecfabab752a95b9fc0478785d16bcbbfce412e996aaece",
+      "fetched_at": "2026-11-22T18:05:42.291086+00:00"
+    },
+    "UNT": {
+      "source_url": "https://finance.yahoo.com/quote/UNT.WA/history/",
+      "data_url": "https://query1.finance.yahoo.com/v8/finance/chart/UNT.WA?period1=1514764800&period2=1767916800&interval=1d&includeAdjustedClose=true",
+      "rows": 2035,
+      "sha256": "9a0e33508c195263f249c4d08ea55455b9a4ac882aaa1e3a3ce2feb6bd7ed3ac",
+      "fetched_at": "2026-11-22T18:05:42.625032+00:00"
+    }
+  }
+}

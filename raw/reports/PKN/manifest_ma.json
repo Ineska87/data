@@ -1,0 +1,141 @@
+{
+  "scope": "M&A Energa + Lotos + PGNiG + NIK Lotos (core docs)",
+  "downloaded_at": "2026-07-20T19:08:14",
+  "ok": 19,
+  "total": 19,
+  "files": [
+    {
+      "file": "PKN_2019_MA_energa-wezwanie.pdf",
+      "subdir": "ma_energa",
+      "status": "ok",
+      "bytes": 124148,
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-biezace/2019/04/Raport-biezacy-nr-44-2019/20191205_WEZWANIE.pdf.coredownload.pdf"
+    },
+    {
+      "file": "PKN_2022_MA_lotos-plan-polaczenia.pdf",
+      "subdir": "ma_lotos",
+      "status": "ok",
+      "bytes": 775236,
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/archiwum-lotos/po%C5%82%C4%85czenielotos/Plan%20Po%C5%82%C4%85czenia.pdf.coredownload.pdf"
+    },
+    {
+      "file": "PKN_2022_MA_lotos-sprawozdanie-zarzadu-orlen.pdf",
+      "subdir": "ma_lotos",
+      "status": "ok",
+      "bytes": 1028312,
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/archiwum-lotos/po%C5%82%C4%85czenielotos/Sprawozdanie_Zarzadu_PKN_ORLEN_SA_dla_celow_Polaczenia.pdf.coredownload.pdf"
+    },
+    {
+      "file": "PKN_2022_MA_lotos-sprawozdanie-zarzadu-lotos.pdf",
+      "subdir": "ma_lotos",
+      "status": "ok",
+      "bytes": 890953,
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/archiwum-lotos/po%C5%82%C4%85czenielotos/Sprawozdanie_Zarzadu_Grupy_LOTOS_SA_dla_celow_Polaczenia.pdf.coredownload.pdf"
+    },
+    {
+      "file": "PKN_2022_MA_lotos-prezentacja-inwestorska.pdf",
+      "subdir": "ma_lotos",
+      "status": "ok",
+      "bytes": 2023307,
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/archiwum-lotos/po%C5%82%C4%85czenielotos/PL%20Project%20Kwiatek%20-%20Investor%20Presentation_vF.pdf.coredownload.pdf"
+    },
+    {
+      "file": "PKN_2022_MA_lotos-opinia-bieglego.pdf",
+      "subdir": "ma_lotos",
+      "status": "ok",
+      "bytes": 1679885,
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/archiwum-lotos/po%C5%82%C4%85czenielotos/Opinia_bieglego_polaczenie_PKN_ORLEN_LOTOS.pdf.coredownload.pdf"
+    },
+    {
+      "file": "PKN_2022_MA_lotos-dokument-wylaczeniowy.pdf",
+      "subdir": "ma_lotos",
+      "status": "ok",
+      "bytes": 3594488,
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/archiwum-lotos/po%C5%82%C4%85czenielotos/Dokument_Wylaczeniowy.pdf.coredownload.pdf"
+    },
+    {
+      "file": "PKN_2022_MA_lotos-zal4-wartosc-przejmowanej.pdf",
+      "subdir": "ma_lotos",
+      "status": "ok",
+      "bytes": 58285,
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/archiwum-lotos/po%C5%82%C4%85czenielotos/Zalacznik_nr_4_do_Planu_Polaczenia.pdf.coredownload.pdf"
+    },
+    {
+      "file": "PKN_2022_MA_lotos-zal5-wartosc-przejmujacej.pdf",
+      "subdir": "ma_lotos",
+      "status": "ok",
+      "bytes": 62382,
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/archiwum-lotos/po%C5%82%C4%85czenielotos/Zalacznik_nr_5_do_Planu_Polaczenia.pdf.coredownload.pdf"
+    },
+    {
+      "file": "PKN_2022_MA_pgnig-plan-polaczenia.pdf",
+      "subdir": "ma_pgnig",
+      "status": "ok",
+      "bytes": 1077422,
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/archiwum-pgnig/po%C5%82%C4%85czenie-pgnig/Plan_Po%C5%82aczenia_PKN%20ORLEN_PGNiG_20220729.pdf.coredownload.pdf"
+    },
+    {
+      "file": "PKN_2022_MA_pgnig-sprawozdanie-zarzadu-orlen.pdf",
+      "subdir": "ma_pgnig",
+      "status": "ok",
+      "bytes": 1134820,
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/archiwum-pgnig/po%C5%82%C4%85czenie-pgnig/Sprawozdanie%20Zarz%C4%85du%20PKN%20ORLEN-%20Po%C5%82%C4%85czenie%20PKN%20ORLEN-PGNiG_20220729.pdf.coredownload.pdf"
+    },
+    {
+      "file": "PKN_2022_MA_pgnig-sprawozdanie-zarzadu-pgnig.pdf",
+      "subdir": "ma_pgnig",
+      "status": "ok",
+      "bytes": 1125542,
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/archiwum-pgnig/po%C5%82%C4%85czenie-pgnig/Sprawozdanie_Zarzadu_PGNiG_Polaczenie_PKN_ORLEN_PGNiG_20220729.pdf.coredownload.pdf"
+    },
+    {
+      "file": "PKN_2022_MA_pgnig-prezentacja-inwestorska.pdf",
+      "subdir": "ma_pgnig",
+      "status": "ok",
+      "bytes": 885852,
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/archiwum-pgnig/po%C5%82%C4%85czenie-pgnig/Projekt-PGNiG-PL-Prezentacja-Inwestorska.pdf.coredownload.pdf"
+    },
+    {
+      "file": "PKN_2022_MA_pgnig-opinia-bieglego.pdf",
+      "subdir": "ma_pgnig",
+      "status": "ok",
+      "bytes": 1779657,
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/archiwum-pgnig/po%C5%82%C4%85czenie-pgnig/Opinia_bieglego_PKNORLEN_PGNIG.pdf.coredownload.pdf"
+    },
+    {
+      "file": "PKN_2022_MA_pgnig-dokument-wylaczeniowy.pdf",
+      "subdir": "ma_pgnig",
+      "status": "ok",
+      "bytes": 4353954,
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/archiwum-pgnig/po%C5%82%C4%85czenie-pgnig/Polaczenie_ORLEN_PGNIG_DokWyl.pdf.coredownload.pdf"
+    },
+    {
+      "file": "PKN_2022_MA_pgnig-zal4-wartosc-przejmowanej.pdf",
+      "subdir": "ma_pgnig",
+      "status": "ok",
+      "bytes": 70502,
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/archiwum-pgnig/po%C5%82%C4%85czenie-pgnig/Zalacznik_nr_4_do_Planu_Polaczenia_PKN_ORLEN_PGNiG_20220729.pdf.coredownload.pdf"
+    },
+    {
+      "file": "PKN_2022_MA_pgnig-zal5-wartosc-przejmujacej.pdf",
+      "subdir": "ma_pgnig",
+      "status": "ok",
+      "bytes": 74897,
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/archiwum-pgnig/po%C5%82%C4%85czenie-pgnig/Zalacznik_nr_5_do_Planu_Polaczenia_PKN_ORLEN_PGNiG_20220729.pdf.coredownload.pdf"
+    },
+    {
+      "file": "NIK_orlen-lotos-info.pdf",
+      "subdir": "nik",
+      "status": "ok",
+      "bytes": 243929,
+      "url": "https://www.nik.gov.pl/plik/id,31288.pdf"
+    },
+    {
+      "file": "NIK_orlen-lotos-wystapienie-pokontrolne.pdf",
+      "subdir": "nik",
+      "status": "ok",
+      "bytes": 535298,
+      "url": "https://www.nik.gov.pl/kontrole/wyniki-kontroli-nik/pobierz,kgp~i_24_003_202404051218161712312296~id0~02,typ,kj.pdf"
+    }
+  ]
+}

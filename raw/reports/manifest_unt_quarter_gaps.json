@@ -1,0 +1,41 @@
+{
+  "at": "2026-07-20T18:16:21.006106+00:00",
+  "results": [
+    {
+      "file": "UNT_2022_Q3_sprawozdanie.pdf",
+      "status": "ok",
+      "bytes": 1162721,
+      "url": "https://www.unimot.pl/media/799/download/ssf-gk-usa-wg-mssf-iii-kw2022-1.pdf?v=1"
+    },
+    {
+      "file": "UNT_2022_Q3_sprawozdanie-zarzadu.pdf",
+      "status": "ok",
+      "bytes": 1807231,
+      "url": "https://www.unimot.pl/media/802/download/szd-3kw2022-master-1.pdf?v=1"
+    },
+    {
+      "file": "UNT_2022_Q3_prezentacja.pdf",
+      "status": "ok",
+      "bytes": 1518577,
+      "url": "https://www.unimot.pl/media/1053/download/prezentacja-wyniki-finansowe-za-3q2022.pdf?v=1"
+    },
+    {
+      "file": "UNT_2023_Q1_sprawozdanie.pdf",
+      "status": "ok",
+      "bytes": 2313695,
+      "url": "https://www.unimot.pl/media/413/download/ssf-gk-unimot-i-jsf-unimot-sa-2023-03-31-1.pdf?v=1"
+    },
+    {
+      "file": "UNT_2023_Q1_sprawozdanie-zarzadu.pdf",
+      "status": "ok",
+      "bytes": 2008355,
+      "url": "https://www.unimot.pl/media/412/download/sprawozdanie-zarzadu-z-dzialalnosci-gk-unimot-2023-03-31-2.pdf?v=1"
+    },
+    {
+      "file": "UNT_2023_Q1_prezentacja.pdf",
+      "status": "ok",
+      "bytes": 1728005,
+      "url": "https://www.unimot.pl/media/2608/download/prezentacja-wyniki-finansowe-za-1q2023-pl-en-ir-1.pdf?v=1"
+    }
+  ]
+}

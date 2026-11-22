@@ -1,0 +1,76 @@
+{
+  "thesis_title": "Behavioral Corporate Finance w sektorze energetyczno-paliwowym GPW w latach 2020–2025",
+  "sample_period": {
+    "start": "2020-01-01",
+    "end": "2025-12-31"
+  },
+  "market": "GPW – Giełda Papierów Wartościowych w Warszawie",
+  "sector_focus": "Energetyka i paliwa",
+  "number_of_companies": 7,
+  "companies": [
+    {
+      "name_pl": "Orlen S.A.",
+      "full_name": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
+      "ticker": "PKN",
+      "isin": "PLPKN0000018",
+      "sector": "Paliwa / Rafinacja / Energetyka",
+      "rola_w_badaniu": "rdzeń",
+      "role_in_study": "Główny podmiot badawczy. Największa spółka sektora po fuzjach z Grupą Lotos i PGNiG. Przedmiot analizy wpływu dużych transakcji M&A oraz strategicznych decyzji inwestycyjnych na zachowania inwestorów."
+    },
+    {
+      "name_pl": "PGE Polska Grupa Energetyczna S.A.",
+      "full_name": "PGE Polska Grupa Energetyczna Spółka Akcyjna",
+      "ticker": "PGE",
+      "isin": "PLPGER000010",
+      "sector": "Energetyka",
+      "rola_w_badaniu": "rdzeń",
+      "role_in_study": "Rdzeń próby. Największy producent energii elektrycznej w Polsce. Wysoka ekspozycja na węgiel. Analiza reakcji rynku na decyzje dotyczące transformacji energetycznej i inwestycji w nowe moce."
+    },
+    {
+      "name_pl": "Tauron Polska Energia S.A.",
+      "full_name": "Tauron Polska Energia Spółka Akcyjna",
+      "ticker": "TPE",
+      "isin": "PLTAURN00011",
+      "sector": "Energetyka",
+      "rola_w_badaniu": "rdzeń",
+      "role_in_study": "Rdzeń próby. Znaczący dystrybutor i wytwórca energii. Silna obecność na Śląsku. Przydatny do badania wpływu kosztów transformacji na wycenę spółki."
+    },
+    {
+      "name_pl": "Enea S.A.",
+      "full_name": "Enea Spółka Akcyjna",
+      "ticker": "ENA",
+      "isin": "PLENEA000013",
+      "sector": "Energetyka",
+      "rola_w_badaniu": "rdzeń",
+      "role_in_study": "Rdzeń próby. Wytwórca i dystrybutor energii elektrycznej. Analiza zdarzeń związanych z inwestycjami w OZE oraz problemami bloków węglowych."
+    },
+    {
+      "name_pl": "ZE PAK S.A.",
+      "full_name": "Zespół Elektrowni Pątnów-Adamów-Konin Spółka Akcyjna",
+      "ticker": "ZEP",
+      "isin": "PLZEPAK00016",
+      "sector": "Energetyka / Węgiel brunatny",
+      "rola_w_badaniu": "rezerwowa",
+      "role_in_study": "Spółka rezerwowa o wysokiej ekspozycji na transformację energetyczną. Mała kapitalizacja i niska płynność. Służy do kontrastowania reakcji rynku w przypadku spółek o ograniczonej płynności."
+    },
+    {
+      "name_pl": "Unimot S.A.",
+      "full_name": "Unimot Spółka Akcyjna",
+      "ticker": "UNT",
+      "isin": "PLUNMOT00013",
+      "sector": "Paliwa / Dystrybucja",
+      "rola_w_badaniu": "kontrast prywatny",
+      "role_in_study": "Kontrast prywatny. Mniejszy, prywatny gracz na rynku paliw. Umożliwia porównanie reakcji rynku na zdarzenia w spółkach kontrolowanych przez Skarb Państwa versus podmioty prywatne."
+    },
+    {
+      "name_pl": "Jastrzębska Spółka Węglowa S.A.",
+      "full_name": "Jastrzębska Spółka Węglowa Spółka Akcyjna",
+      "ticker": "JSW",
+      "isin": "PLJSW0000015",
+      "sector": "Węgiel koksowy / Surowce energetyczne",
+      "rola_w_badaniu": "rezerwowa",
+      "role_in_study": "Spółka rezerwowa. Producent węgla koksowego i energetycznego. Silnie uzależniona od cen surowców i koniunktury w przemyśle stalowym. Przydatna do analizy wpływu czynników zewnętrznych na sentyment inwestorów."
+    }
+  ],
+  "notes": "Klasyfikacja ról: 'rdzeń' – główne spółki do analizy (wysoka kapitalizacja, płynność, istotność systemowa); 'kontrast prywatny' – podmiot prywatny służący do porównań; 'rezerwowa' – spółki o niższej płynności lub mniejszej kapitalizacji wykorzystywane w analizach wrażliwości."
+}

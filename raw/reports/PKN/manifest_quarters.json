@@ -1,0 +1,521 @@
+{
+  "ticker": "PKN",
+  "scope": "kwartaly + polrocza + prezentacje 2020-2025 (bez telekonferencji MP4)",
+  "downloaded_at": "2026-07-20T18:55:51",
+  "ok": 73,
+  "total": 73,
+  "failed": [],
+  "files": [
+    {
+      "file": "PKN_2025_Q4_sprawozdanie.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2025/4q2025/ORLEN_260219_2025kw4%20-%20RaportIVQ2025.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 3600037,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2025_Q4_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2025/4q2025/ORLEN_4Q-2025_Wyniki-Finansowe.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 5452988,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2025_Q4_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2025/4q2025/Dane_ze_sprawozdania__4Q2025.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 38297,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2025_Q3_sprawozdanie.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2025/3q2025/ORLEN_Sprawozdanie_3kw2025.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 3231102,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2025_Q3_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2025/3q2025/Wyniki_3Q25_PL_FINAL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 6382469,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2025_Q3_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2025/3q2025/Dane_ze_sprawozdania__3Q2025.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 37005,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2025_H1_sprawozdanie.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2025/2q2025/Sprawozdanie_1H2025.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 3963816,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2025_Q2_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2025/2q2025/ORLEN_Q2-2025_Wyniki-Finansowe.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 6961915,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2025_H1_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2025/2q2025/Dane_ze_sprawozdania_1H2025.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 35813,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2025_Q1_sprawozdanie.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2025/1q2025/Sprawozdanie_1kw2025.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 3142809,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2025_Q1_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2025/1q2025/ORLEN_1Q25_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 5642584,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2025_Q1_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2025/1q2025/Dane_ze_sprawozdania_1q2025.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 33348,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2024_Q4_sprawozdanie.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2024/4q2024/orlen_250227_2024kw4%20-%20raport%20ivq2024_signed.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 7625932,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2024_Q4_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2024/4q2024/Wyniki_4Q24_PL_FINAL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 9296670,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2024_Q4_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2024/4q2024/Dane_ze_sprawozdania_4q24.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 38828,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2024_Q3_sprawozdanie.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2024/3q2024/SPRAWOZDANIE_24Q3.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 3095939,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2024_Q3_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2024/3q2024/Wyniki_3Q24_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 8238350,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2024_Q3_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2024/3q2024/Dane_ze_sprawozdania_3q24.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 37376,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2024_H1_sprawozdanie.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2024/2q2024/2024_08_24_Sprawozdanie_fin_1h24.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 4031791,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2024_Q2_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/prezentacje/prezentacje-wynikowe/2024/Skonsolidowane%20wyniki%20finansowe%20Grupy%20ORLEN%202%20kwarta%C5%82%202024.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 7780798,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2024_Q2_letter-ceo.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/prezentacje/prezentacje-wynikowe/2024/Skonsolidowane-wyniki-finansowe-ORLEN-S.A.-za-2.-kwarta%C5%82-2024-roku-Wprowadzenie-Prezesa-Zarz%C4%85du.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 6409192,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2024_H1_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2024/2q2024/Dane_ze_sprawozdania_1h24.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 39032,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2024_Q1_sprawozdanie.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2024/1q2024/ORLEN_Sprawozdanie_Q12024_PL.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 3059138,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2024_Q1_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2024/1q2024/Wyniki_1Q24_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 7755968,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2024_Q1_letter-ceo.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2024/1q2024/Wprowadzenie_CEO_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 11393423,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2024_Q1_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2024/1q2024/ORLEN_Dane_ze_spr_1Q24.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 36400,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2023_Q4_sprawozdanie.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2023/4q2023/ORLEN_240122_2024kw4%20-%20RAPORT%20IVQ2023.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 6915340,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2023_Q4_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2023/4q2023/Wyniki_4Q23_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 3105542,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2023_Q4_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2023/4q2023/Dane_ze_sprawozdania_4q23.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 40023,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2023_Q3_sprawozdanie.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2023/3q2023/ORLEN_231031_2023kw3%20-%20RAPORT%20IIIQ2023.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 6697814,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2023_Q3_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2023/3q2023/Wyniki_3Q23_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 3197751,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2023_Q3_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2023/3q2023/Dane_ze_sprawozdania_3q23.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 46341,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2023_H1_sprawozdanie.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2023/2q2023/20230824_Spr_fin_1H23.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 4439804,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2023_Q2_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2023/2q2023/Wyniki_2Q23_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 2937481,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2023_Q1_sprawozdanie.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2023/1q2023/Sprawozdanie_1kw23.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 3157957,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2023_Q1_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2023/1q2023/Wyniki_1Q23_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 2958937,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2023_Q1_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2023/1q2023/230525_Dane_ze_sprawozdania_1kw23.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 35436,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2022_Q4_sprawozdanie.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2022/4q2022/PKN_ORLEN_230224_2022w4%20-%20RAPORT%20IVQ2022_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 6694607,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2022_Q4_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2022/4q2022/Wyniki_4Q22_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 983817,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2022_Q4_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2022/4q2022/2022q4_Dane_ze_sprawozdania.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 38006,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2022_Q3_sprawozdanie.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2022/3q2022/Raport3kw22_PL.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 3129071,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2022_Q3_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2022/3q2022/Wyniki_3Q22_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 1123828,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2022_Q3_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2022/3q2022/Dane_ze_sprawozdaniaIIIQ2022PL.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 37537,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2022_H1_sprawozdanie.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2022/2q2022/PKNORLEN_20220805_1H2022_PL.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 2999294,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2022_Q2_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2022/2q2022/Wyniki_2Q22_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 763064,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2022_H1_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2022/2q2022/Dane_ze_sprawozd_2g2022.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 34801,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2022_Q1_sprawozdanie.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2022/1q2022/PKN_ORLEN_220428_2022kw1%20-%20RAPORT%20IQ2022_PL.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 1836856,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2022_Q1_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2022/1q2022/Wyniki_1Q22_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 915322,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2022_Q1_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2022/1q2022/Dane_ze_sprawozd_1q2022.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 31626,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2021_Q4_sprawozdanie.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2021/dokumenty/4q2021/PKN_ORLEN_220127_2021w4%20-%20RAPORT%20IVQ2021_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 4848269,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2021_Q4_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2021/dokumenty/4q2021/Wyniki_4Q21_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 1056783,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2021_Q4_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2021/dokumenty/4q2021/Dane_ze_sprawozd_4q2021.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 36009,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2021_Q3_sprawozdanie.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2021/dokumenty/3q2021/PKN_ORLEN_211028_2021kw3%20-%20RAPORT%20IIIQ2021.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 2590185,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2021_Q3_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2021/dokumenty/3q2021/Wyniki_3Q21_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 902129,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2021_Q3_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2021/dokumenty/3q2021/Dane_ze_spr_3kw2021.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 36404,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2021_H1_sprawozdanie.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2021/dokumenty/PKN_ORLEN_210729_2021polrocze%20-%20RAPORT%20IH2021.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 3174634,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2021_Q2_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2021/dokumenty/Wyniki_2Q21_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 841989,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2021_H1_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2021/dokumenty/Dane_ze_spr2q21_PL.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 35223,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2021_Q1_sprawozdanie.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2021/dokumenty/PKN_ORLEN_210429_2021kw1%20-%20RAPORT%20IQ2021_PL.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 2046093,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2021_Q1_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2021/dokumenty/Wyniki_1Q21_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 761419,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2021_Q1_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2021/dokumenty/Dane_ze_spr1q21_PL.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 31610,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2020_Q4_sprawozdanie.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2020/dokumenty/PKN_ORLEN_210204_2020w4%20-%20RAPORT%20IVQ2020_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 4055643,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2020_Q4_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2020/dokumenty/Wyniki_4Q20_PL_FINAL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 755038,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2020_Q4_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2020/dokumenty/Dane_ze_spr4q20_PL.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 35713,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2020_Q3_sprawozdanie.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2020/dokumenty/Sprawozdanie_3q20.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 1941780,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2020_Q3_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2020/dokumenty/Wyniki_3q20_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 1320150,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2020_Q3_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2020/dokumenty/Dane_ze_spr3q20_PL.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 34790,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2020_H1_sprawozdanie.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2020/dokumenty/PKN_ORLEN_1h20_PL.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 2994993,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2020_Q2_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2020/dokumenty/Wyniki_2Q20_PL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 1364289,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2020_H1_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2020/dokumenty/Dane_ze_spr1h20_PL.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 35421,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2020_Q1_sprawozdanie.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2020/dokumenty/PKN_ORLEN_200506_2020kw1%20-%20RAPORT%20IQ2020_PL.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 1461882,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2020_Q1_prezentacja.pdf",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2020/dokumenty/Wyniki_1Q20_PL_FINAL.pdf.coredownload.pdf",
+      "status": "ok",
+      "bytes": 671280,
+      "attempt": 1
+    },
+    {
+      "file": "PKN_2020_Q1_dane-liczbowe.zip",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2020/dokumenty/Dane_spr_fin_1q20.zip.coredownload.zip",
+      "status": "ok",
+      "bytes": 33998,
+      "attempt": 1
+    }
+  ]
+}

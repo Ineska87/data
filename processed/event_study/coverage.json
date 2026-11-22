@@ -1,0 +1,14 @@
+{
+  "input_events": 3,
+  "scenarios": {
+    "baseline": {
+      "complete": 3
+    },
+    "same_session": {
+      "complete": 3
+    }
+  },
+  "overlap_rule": "same issuer, shared trading session within [-1,+1]",
+  "nominal_close_warsaw": "17:00:00",
+  "reference_index": "WIG"
+}

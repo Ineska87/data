@@ -1,0 +1,124 @@
+{
+  "calendar": "observed WIG sessions",
+  "daily_return": "ln(close_t / close_t_minus_1), with consecutive valid observations",
+  "consistent_stock_return_basis": true,
+  "has_terminal_buffer": true,
+  "coverage": {
+    "ENA": {
+      "first_observation": "2018-01-03",
+      "last_observation": "2026-01-08",
+      "return_basis": [
+        "adjusted_close"
+      ],
+      "source_paths": [
+        "raw/market_data/snapshots/yahoo/yahoo_2018_2026_01/ENA.json"
+      ]
+    },
+    "PGE": {
+      "first_observation": "2018-01-03",
+      "last_observation": "2026-01-08",
+      "return_basis": [
+        "adjusted_close"
+      ],
+      "source_paths": [
+        "raw/market_data/snapshots/yahoo/yahoo_2018_2026_01/PGE.json"
+      ]
+    },
+    "PKN": {
+      "first_observation": "2018-01-03",
+      "last_observation": "2026-01-08",
+      "return_basis": [
+        "adjusted_close"
+      ],
+      "source_paths": [
+        "raw/market_data/snapshots/yahoo/yahoo_2018_2026_01/PKN.json"
+      ]
+    },
+    "TPE": {
+      "first_observation": "2018-01-03",
+      "last_observation": "2026-01-08",
+      "return_basis": [
+        "adjusted_close"
+      ],
+      "source_paths": [
+        "raw/market_data/snapshots/yahoo/yahoo_2018_2026_01/TPE.json"
+      ]
+    },
+    "UNT": {
+      "first_observation": "2018-01-03",
+      "last_observation": "2026-01-08",
+      "return_basis": [
+        "adjusted_close"
+      ],
+      "source_paths": [
+        "raw/market_data/snapshots/yahoo/yahoo_2018_2026_01/UNT.json"
+      ]
+    },
+    "WIG": {
+      "first_observation": "2018-01-03",
+      "last_observation": "2026-01-08",
+      "return_basis": [
+        "index_close"
+      ],
+      "source_paths": [
+        "raw/market_data/WIG.csv",
+        "raw/market_data/snapshots/gpw/2026-01-02_indices.xls",
+        "raw/market_data/snapshots/gpw/2026-01-05_indices.xls",
+        "raw/market_data/snapshots/gpw/2026-01-07_indices.xls",
+        "raw/market_data/snapshots/gpw/2026-01-08_indices.xls"
+      ]
+    },
+    "WIG-energia": {
+      "first_observation": "2018-01-03",
+      "last_observation": "2026-01-08",
+      "return_basis": [
+        "index_close"
+      ],
+      "source_paths": [
+        "raw/market_data/WIG-energia.csv",
+        "raw/market_data/snapshots/gpw/2026-01-02_indices.xls",
+        "raw/market_data/snapshots/gpw/2026-01-05_indices.xls",
+        "raw/market_data/snapshots/gpw/2026-01-07_indices.xls",
+        "raw/market_data/snapshots/gpw/2026-01-08_indices.xls"
+      ]
+    },
+    "WIG-paliwa": {
+      "first_observation": "2018-01-03",
+      "last_observation": "2026-01-08",
+      "return_basis": [
+        "index_close"
+      ],
+      "source_paths": [
+        "raw/market_data/WIG-paliwa.csv",
+        "raw/market_data/snapshots/gpw/2026-01-02_indices.xls",
+        "raw/market_data/snapshots/gpw/2026-01-05_indices.xls",
+        "raw/market_data/snapshots/gpw/2026-01-07_indices.xls",
+        "raw/market_data/snapshots/gpw/2026-01-08_indices.xls"
+      ]
+    },
+    "WIG20": {
+      "first_observation": "2018-01-03",
+      "last_observation": "2026-01-08",
+      "return_basis": [
+        "index_close"
+      ],
+      "source_paths": [
+        "raw/market_data/WIG20.csv",
+        "raw/market_data/snapshots/gpw/2026-01-02_indices.xls",
+        "raw/market_data/snapshots/gpw/2026-01-05_indices.xls",
+        "raw/market_data/snapshots/gpw/2026-01-07_indices.xls",
+        "raw/market_data/snapshots/gpw/2026-01-08_indices.xls"
+      ]
+    },
+    "ZEP": {
+      "first_observation": "2018-01-03",
+      "last_observation": "2026-01-08",
+      "return_basis": [
+        "adjusted_close"
+      ],
+      "source_paths": [
+        "raw/market_data/snapshots/yahoo/yahoo_2018_2026_01/ZEP.json"
+      ]
+    }
+  }
+}

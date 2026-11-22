@@ -1,0 +1,91 @@
+{
+  "downloaded_at": "2026-07-20T18:27:39.833714+00:00",
+  "n_ok": 12,
+  "n_fail": 0,
+  "files": [
+    {
+      "ticker": "ENA",
+      "file": "ENA_2020_H1_prezentacja.pdf",
+      "url": "https://cdn-netpr.pl/file/mediakit/1689284/58/results_of_the_enea_group_in_h1_2020.pdf",
+      "status": "ok",
+      "bytes": 2646765
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2020_Q1_prezentacja.pdf",
+      "url": "https://cdn-netpr.pl/file/mediakit/1637079/88/presentation_enea_1q_2020.pdf",
+      "status": "ok",
+      "bytes": 2798850
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2020_Q3_prezentacja.pdf",
+      "url": "https://cdn-netpr.pl/file/mediakit/1748642/17/results_of_the_enea_group_in_q1_q3_2020.pdf",
+      "status": "ok",
+      "bytes": 2151606
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2020_Q4_prezentacja.pdf",
+      "url": "https://cdn-netpr.pl/file/mediakit/1878070/80/presentation_results_of_the_enea_group_in_2020.pdf",
+      "status": "ok",
+      "bytes": 2671495
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2021_H1_prezentacja.pdf",
+      "url": "https://cdn-netpr.pl/file/mediakit/2008627/20/results_of_the_enea_group_in_h1_2021.pdf",
+      "status": "ok",
+      "bytes": 1797515
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2021_Q1_prezentacja.pdf",
+      "url": "https://cdn-netpr.pl/file/mediakit/1925903/98/results_of_the_enea_group_in_q1_2021.pdf",
+      "status": "ok",
+      "bytes": 1958276
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2021_Q3_prezentacja.pdf",
+      "url": "https://cdn-netpr.pl/file/mediakit/2066387/43/results_of_the_enea_group_in_q1_q3_2021.pdf",
+      "status": "ok",
+      "bytes": 1673087
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2021_Q4_prezentacja.pdf",
+      "url": "https://cdn-netpr.pl/file/mediakit/2156151/16/presentation_gk_enea_2021.pdf",
+      "status": "ok",
+      "bytes": 1745429
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2022_Q1_prezentacja.pdf",
+      "url": "https://cdn-netpr.pl/file/mediakit/2211635/76/results_of_the_enea_group_in_q1_2022.pdf",
+      "status": "ok",
+      "bytes": 1983188
+    },
+    {
+      "ticker": "ENA",
+      "file": "ENA_2025_Q3_prezentacja.pdf",
+      "url": "https://cdn-netpr.pl/file/mediakit/2920263/b9/enea_group_s_results_in_q1_q3_2025.pdf",
+      "status": "ok",
+      "bytes": 3411701
+    },
+    {
+      "ticker": "UNT",
+      "file": "UNT_2024_Q3_prezentacja.pdf",
+      "url": "https://www.unimot.pl/media/4153/download/Prezentacja_wyniki_finansowe_za_3Q24_PL_EN.pdf?v=1",
+      "status": "skip",
+      "bytes": 1671275
+    },
+    {
+      "ticker": "UNT",
+      "file": "UNT_2024_H1_prezentacja.pdf",
+      "url": "https://www.unimot.pl/media/3543/download/Prezentacja_wyniki_finansowe_za_1H24_PL_EN_1.2.pdf?v=1",
+      "status": "skip",
+      "bytes": 1914820
+    }
+  ]
+}

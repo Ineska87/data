@@ -1,0 +1,352 @@
+{
+  "ticker": "PKN",
+  "updated_at": "2026-07-20T18:55:51",
+  "n_files": 86,
+  "total_mb": 368.6,
+  "files": [
+    {
+      "file": "PKN_2020_AR_dane-liczbowe.zip",
+      "bytes": 34742
+    },
+    {
+      "file": "PKN_2020_AR_skonsolidowany.zip",
+      "bytes": 16327214
+    },
+    {
+      "file": "PKN_2020_H1_dane-liczbowe.zip",
+      "bytes": 35421
+    },
+    {
+      "file": "PKN_2020_H1_sprawozdanie.zip",
+      "bytes": 2994993
+    },
+    {
+      "file": "PKN_2020_Q1_dane-liczbowe.zip",
+      "bytes": 33998
+    },
+    {
+      "file": "PKN_2020_Q1_prezentacja.pdf",
+      "bytes": 671280
+    },
+    {
+      "file": "PKN_2020_Q1_sprawozdanie.zip",
+      "bytes": 1461882
+    },
+    {
+      "file": "PKN_2020_Q2_prezentacja.pdf",
+      "bytes": 1364289
+    },
+    {
+      "file": "PKN_2020_Q3_dane-liczbowe.zip",
+      "bytes": 34790
+    },
+    {
+      "file": "PKN_2020_Q3_prezentacja.pdf",
+      "bytes": 1320150
+    },
+    {
+      "file": "PKN_2020_Q3_sprawozdanie.zip",
+      "bytes": 1941780
+    },
+    {
+      "file": "PKN_2020_Q4_dane-liczbowe.zip",
+      "bytes": 35713
+    },
+    {
+      "file": "PKN_2020_Q4_prezentacja.pdf",
+      "bytes": 755038
+    },
+    {
+      "file": "PKN_2020_Q4_sprawozdanie.pdf",
+      "bytes": 4055643
+    },
+    {
+      "file": "PKN_2021_AR_dane-liczbowe.zip",
+      "bytes": 34098
+    },
+    {
+      "file": "PKN_2021_AR_raport-zintegrowany.pdf",
+      "bytes": 47486461
+    },
+    {
+      "file": "PKN_2021_AR_skonsolidowany.zip",
+      "bytes": 21370796
+    },
+    {
+      "file": "PKN_2021_H1_dane-liczbowe.zip",
+      "bytes": 35223
+    },
+    {
+      "file": "PKN_2021_H1_sprawozdanie.zip",
+      "bytes": 3174634
+    },
+    {
+      "file": "PKN_2021_Q1_dane-liczbowe.zip",
+      "bytes": 31610
+    },
+    {
+      "file": "PKN_2021_Q1_prezentacja.pdf",
+      "bytes": 761419
+    },
+    {
+      "file": "PKN_2021_Q1_sprawozdanie.zip",
+      "bytes": 2046093
+    },
+    {
+      "file": "PKN_2021_Q2_prezentacja.pdf",
+      "bytes": 841989
+    },
+    {
+      "file": "PKN_2021_Q3_dane-liczbowe.zip",
+      "bytes": 36404
+    },
+    {
+      "file": "PKN_2021_Q3_prezentacja.pdf",
+      "bytes": 902129
+    },
+    {
+      "file": "PKN_2021_Q3_sprawozdanie.zip",
+      "bytes": 2590185
+    },
+    {
+      "file": "PKN_2021_Q4_dane-liczbowe.zip",
+      "bytes": 36009
+    },
+    {
+      "file": "PKN_2021_Q4_prezentacja.pdf",
+      "bytes": 1056783
+    },
+    {
+      "file": "PKN_2021_Q4_sprawozdanie.pdf",
+      "bytes": 4848269
+    },
+    {
+      "file": "PKN_2022_AR_dane-liczbowe.zip",
+      "bytes": 33249
+    },
+    {
+      "file": "PKN_2022_AR_skonsolidowany.zip",
+      "bytes": 37353814
+    },
+    {
+      "file": "PKN_2022_H1_dane-liczbowe.zip",
+      "bytes": 34801
+    },
+    {
+      "file": "PKN_2022_H1_sprawozdanie.zip",
+      "bytes": 2999294
+    },
+    {
+      "file": "PKN_2022_Q1_dane-liczbowe.zip",
+      "bytes": 31626
+    },
+    {
+      "file": "PKN_2022_Q1_prezentacja.pdf",
+      "bytes": 915322
+    },
+    {
+      "file": "PKN_2022_Q1_sprawozdanie.zip",
+      "bytes": 1836856
+    },
+    {
+      "file": "PKN_2022_Q2_prezentacja.pdf",
+      "bytes": 763064
+    },
+    {
+      "file": "PKN_2022_Q3_dane-liczbowe.zip",
+      "bytes": 37537
+    },
+    {
+      "file": "PKN_2022_Q3_prezentacja.pdf",
+      "bytes": 1123828
+    },
+    {
+      "file": "PKN_2022_Q3_sprawozdanie.zip",
+      "bytes": 3129071
+    },
+    {
+      "file": "PKN_2022_Q4_dane-liczbowe.zip",
+      "bytes": 38006
+    },
+    {
+      "file": "PKN_2022_Q4_prezentacja.pdf",
+      "bytes": 983817
+    },
+    {
+      "file": "PKN_2022_Q4_sprawozdanie.pdf",
+      "bytes": 6694607
+    },
+    {
+      "file": "PKN_2023_AR_dane-liczbowe.zip",
+      "bytes": 36877
+    },
+    {
+      "file": "PKN_2023_AR_skonsolidowany.zip",
+      "bytes": 21654046
+    },
+    {
+      "file": "PKN_2023_H1_sprawozdanie.zip",
+      "bytes": 4439804
+    },
+    {
+      "file": "PKN_2023_Q1_dane-liczbowe.zip",
+      "bytes": 35436
+    },
+    {
+      "file": "PKN_2023_Q1_prezentacja.pdf",
+      "bytes": 2958937
+    },
+    {
+      "file": "PKN_2023_Q1_sprawozdanie.zip",
+      "bytes": 3157957
+    },
+    {
+      "file": "PKN_2023_Q2_prezentacja.pdf",
+      "bytes": 2937481
+    },
+    {
+      "file": "PKN_2023_Q3_dane-liczbowe.zip",
+      "bytes": 46341
+    },
+    {
+      "file": "PKN_2023_Q3_prezentacja.pdf",
+      "bytes": 3197751
+    },
+    {
+      "file": "PKN_2023_Q3_sprawozdanie.pdf",
+      "bytes": 6697814
+    },
+    {
+      "file": "PKN_2023_Q4_dane-liczbowe.zip",
+      "bytes": 40023
+    },
+    {
+      "file": "PKN_2023_Q4_prezentacja.pdf",
+      "bytes": 3105542
+    },
+    {
+      "file": "PKN_2023_Q4_sprawozdanie.pdf",
+      "bytes": 6915340
+    },
+    {
+      "file": "PKN_2024_AR_dane-liczbowe.zip",
+      "bytes": 34991
+    },
+    {
+      "file": "PKN_2024_AR_skonsolidowany.zip",
+      "bytes": 16696308
+    },
+    {
+      "file": "PKN_2024_H1_dane-liczbowe.zip",
+      "bytes": 39032
+    },
+    {
+      "file": "PKN_2024_H1_sprawozdanie.zip",
+      "bytes": 4031791
+    },
+    {
+      "file": "PKN_2024_Q1_dane-liczbowe.zip",
+      "bytes": 36400
+    },
+    {
+      "file": "PKN_2024_Q1_letter-ceo.pdf",
+      "bytes": 11393423
+    },
+    {
+      "file": "PKN_2024_Q1_prezentacja.pdf",
+      "bytes": 7755968
+    },
+    {
+      "file": "PKN_2024_Q1_sprawozdanie.zip",
+      "bytes": 3059138
+    },
+    {
+      "file": "PKN_2024_Q2_letter-ceo.pdf",
+      "bytes": 6409192
+    },
+    {
+      "file": "PKN_2024_Q2_prezentacja.pdf",
+      "bytes": 7780798
+    },
+    {
+      "file": "PKN_2024_Q3_dane-liczbowe.zip",
+      "bytes": 37376
+    },
+    {
+      "file": "PKN_2024_Q3_prezentacja.pdf",
+      "bytes": 8238350
+    },
+    {
+      "file": "PKN_2024_Q3_sprawozdanie.zip",
+      "bytes": 3095939
+    },
+    {
+      "file": "PKN_2024_Q4_dane-liczbowe.zip",
+      "bytes": 38828
+    },
+    {
+      "file": "PKN_2024_Q4_prezentacja.pdf",
+      "bytes": 9296670
+    },
+    {
+      "file": "PKN_2024_Q4_sprawozdanie.pdf",
+      "bytes": 7625932
+    },
+    {
+      "file": "PKN_2025_AR_dane-liczbowe.zip",
+      "bytes": 36311
+    },
+    {
+      "file": "PKN_2025_AR_skonsolidowany.zip",
+      "bytes": 16918324
+    },
+    {
+      "file": "PKN_2025_H1_dane-liczbowe.zip",
+      "bytes": 35813
+    },
+    {
+      "file": "PKN_2025_H1_sprawozdanie.zip",
+      "bytes": 3963816
+    },
+    {
+      "file": "PKN_2025_Q1_dane-liczbowe.zip",
+      "bytes": 33348
+    },
+    {
+      "file": "PKN_2025_Q1_prezentacja.pdf",
+      "bytes": 5642584
+    },
+    {
+      "file": "PKN_2025_Q1_sprawozdanie.zip",
+      "bytes": 3142809
+    },
+    {
+      "file": "PKN_2025_Q2_prezentacja.pdf",
+      "bytes": 6961915
+    },
+    {
+      "file": "PKN_2025_Q3_dane-liczbowe.zip",
+      "bytes": 37005
+    },
+    {
+      "file": "PKN_2025_Q3_prezentacja.pdf",
+      "bytes": 6382469
+    },
+    {
+      "file": "PKN_2025_Q3_sprawozdanie.zip",
+      "bytes": 3231102
+    },
+    {
+      "file": "PKN_2025_Q4_dane-liczbowe.zip",
+      "bytes": 38297
+    },
+    {
+      "file": "PKN_2025_Q4_prezentacja.pdf",
+      "bytes": 5452988
+    },
+    {
+      "file": "PKN_2025_Q4_sprawozdanie.pdf",
+      "bytes": 3600037
+    }
+  ]
+}
