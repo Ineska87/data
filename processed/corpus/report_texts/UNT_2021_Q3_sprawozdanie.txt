@@ -1,0 +1,6765 @@
+UNIMOT 
+0 
+ 
+ 
+ 
+ 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+1 
+ 
+Grupa UNIMOT 
+III KWARTAŁ 2021 roku 
+ 
+Przychody ogółem 
+ 
+ 
+EBITDA 
+ 
+ 
+EBITDA skorygowana 
+2 081,2 mln zł 
+ 
+11,1 mln zł 
+ 
+ 
+12,0 mln zł 
+ 
+ 
+ 
+*EBITDA SKORYGOWANA 
+WYBRANE DANE I WSKAŹNIKI FINANSOWE1 2 3 
+w tysiącach złotych 
+01.01.2021 
+01.07.2021 
+01.01.2020 
+01.07.2020 
+ 
+-30.09.2021 
+-30.09.2021 
+-30.09.2020 
+-30.09.2020 
+Przychody ogółem 
+5 384 741 
+2 081 234 
+3 524 607 
+1 338 294 
+Zysk brutto ze sprzedaży 1 
+242 637 
+68 914 
+154 713 
+45 494 
+Marża brutto ze sprzedaży 
+4,5% 
+3,3% 
+4,4% 
+3,4% 
+Zysk operacyjny 
+71 334 
+8 314 
+14 991 
+1 967 
+Marża zysku operacyjnego 
+1,3% 
+0,4% 
+0,4% 
+0,1% 
+EBITDA 2 
+80 715 
+11 121 
+20 733 
+4 408 
+Marża EBITDA 
+1,5% 
+0,5% 
+0,6% 
+0,3% 
+EBITDA skorygowana 3 
+57 456 
+12 004 
+59 188 
+10 856 
+Marża EBITDA skorygowana 
+1,1% 
+0,6% 
+1,7% 
+0,8% 
+Zysk netto 
+50 813 
+4 014 
+8 859 
+914 
+Marża netto 
+0,9% 
+0,2% 
+0,3% 
+0,1% 
+Zysk netto skorygowany 3 
+27 554 
+4 897 
+47 314 
+7 362 
+Marża netto skorygowana 
+0,5% 
+0,2% 
+1,3% 
+0,6% 
+1. W pozycji ujmowane są także zrealizowane i niezrealizowane różnice kursowe oraz wycena aktywów i pasywów, w tym zapasów. 
+2. Zysk przed odliczeniem odsetek, podatków, deprecjacją i amortyzacją (ang. Earnings Before Interest, Taxes, Depreciation and Amortization). 
+3. Skorygowane o wpływ wyceny zapasu obowiązkowego oleju napędowego (spowodowany istotną zmianą różnicy pomiędzy notowaniami spot oleju napędowego 
+a notowaniami kontraktów terminowych), przesunięcie w czasie kosztów związanych z wykonaniem NCW i utrzymywaniem zapasów obowiązkowych paliw oraz inne 
+zdarzenia jednorazowe. 
+ 
+ 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+2 
+Spis treści 
+1. 
+LIST PREZESA ZARZĄDU ...................................................................................................................................................... 4 
+2. 
+WYBRANE DANE FINANSOWE ............................................................................................................................................ 7 
+2.1. 
+GRUPA KAPITAŁOWA UNIMOT .................................................................................................................................................. 7 
+2.2. 
+UNIMOT S.A. .............................................................................................................................................................................. 8 
+3. 
+KOMENTARZ DO WYNIKÓW FINANSOWYCH GRUPY UNIMOT .......................................................................................... 10 
+3.1. 
+NAJWAŻNIEJSZE WYDARZENIA W III KWARTALE 2021 R. WRAZ Z OPISEM ISTOTNYCH DOKONAŃ LUB NIEPOWODZEŃ GRUPY 
+KAPITAŁOWEJ ........................................................................................................................................................................... 10 
+3.2. 
+OMÓWIENIE PODSTAWOWYCH WIELKOŚCI EKONOMICZNO-FINANSOWYCH GRUPY KAPITAŁOWEJ ..................................... 12 
+3.3. 
+ANALIZA WSKAŹNIKOWO-PORÓWNAWCZA GRUPY KAPITAŁOWEJ ......................................................................................... 14 
+3.4. 
+GŁÓWNE CZYNNIKI I ZDARZENIA KSZTAŁTUJĄCE WYNIKI GRUPY W III KWARTALE 2021 R. I MOGĄCE MIEĆ WPŁYW NA 
+DZIAŁALNOŚĆ GRUPY W KOLEJNYCH KWARTAŁACH ................................................................................................................ 16 
+3.5. 
+STATUS REALIZACJI STRATEGII GRUPY W TYM REALIZACJI PROGNOZ FINASOWYCH .............................................................. 20 
+3.6. 
+AKCJE UNIMOT S.A. NA GPW W WARSZAWIE .......................................................................................................................... 23 
+4. 
+PODSTAWOWE INFORMACJE O GRUPIE KAPITAŁOWEJ UNIMOT ...................................................................................... 25 
+4.1. 
+DANE JEDNOSTKI DOMINUJĄCEJ .............................................................................................................................................. 25 
+4.2. 
+SKŁAD GRUPY KAPITAŁOWEJ UNIMOT ..................................................................................................................................... 25 
+4.3. 
+STRUKTURA AKCJONARIATU EMITENTA .................................................................................................................................. 26 
+4.4. 
+ZESTAWIENIE STANU POSIADANIA AKCJI EMITENTA PRZEZ OSOBY ZARZĄDZAJĄCE I NADZORUJĄCE .................................... 26 
+4.5. 
+POSTĘPOWANIA SĄDOWE ....................................................................................................................................................... 27 
+4.6. 
+SEZONOWOŚĆ DZIAŁALNOŚCI .................................................................................................................................................. 27 
+4.7. 
+OPIS CZYNNIKÓW I ZDARZEŃ, W TYM O NIETYPOWYM CHARAKTERZE, MAJĄCYCH ISTOTNY WPŁYW NA ŚRÓDROCZNE 
+SPRAWOZDANIE FINANSOWE .................................................................................................................................................. 27 
+4.8. 
+OPIS PODSTAWOWYCH ZAGROŻEŃ I RYZYK ZWIĄZANYCH Z POZOSTAŁYMI MIESIĄCAMI ROKU OBROTOWEGO .................. 27 
+4.9. 
+SPOŁECZNA ODPOWIEDZIALNOŚĆ BIZNESU............................................................................................................................. 29 
+4.10. 
+TRANSAKCJE Z PODMIOTAMI POWIĄZANYMI ......................................................................................................................... 30 
+5. 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE .................................................................. 32 
+6. 
+INFORMACJE OBJAŚNIAJĄCE DO ŚRÓDROCZNEGO SKRÓCONEGO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO
+ ........................................................................................................................................................................................ 38 
+6.1. 
+INFORMACJE O ZASADACH PRZYJĘTYCH PRZY SPORZĄDZANIU ŚRÓDROCZNEGO SKRÓCONEGO SKONSOLIDOWANEGO 
+SPRAWOZDANIA FINANSOWEGO ............................................................................................................................................. 38 
+6.2. 
+SEGMENTY SPRAWOZDAWCZE ................................................................................................................................................ 39 
+7. 
+DODATKOWE NOTY OBJAŚNIAJĄCE DO ŚRÓDROCZNEGO SKRÓCONEGO SKONSOLIDOWANEGO SPRAWOZDANIA 
+FINANSOWEGO ................................................................................................................................................................ 46 
+7.1. 
+PRZYCHODY ZE SPRZEDAŻY ...................................................................................................................................................... 46 
+7.2. 
+KOSZTY WEDŁUG RODZAJU ...................................................................................................................................................... 46 
+7.3. 
+KOSZTY SPRZEDANYCH PRODUKTÓW, TOWARÓW I MATERIAŁÓW ........................................................................................ 46 
+7.4. 
+POZOSTAŁE KOSZTY OPERACYJNE ............................................................................................................................................ 47 
+7.5. 
+PODATEK DOCHODOWY ........................................................................................................................................................... 47 
+7.6. 
+RZECZOWE AKTYWA TRWAŁE .................................................................................................................................................. 47 
+7.7. 
+PRAWO DO UŻYTKOWANIA AKTYWÓW ................................................................................................................................... 48 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+3 
+7.8. 
+POZOSTAŁE AKTYWA FINANSOWE ........................................................................................................................................... 48 
+7.9. 
+ZAPASY ..................................................................................................................................................................................... 48 
+7.10. 
+POZOSTAŁE NALEŻNOŚCI DŁUGOTERMINOWE ........................................................................................................................ 48 
+7.11. 
+NALEŻNOŚCI HANDLOWE ORAZ POZOSTAŁE NALEŻNOŚCI ...................................................................................................... 48 
+7.12. 
+ZOBOWIĄZANIA Z TYTUŁU KREDYTÓW, POŻYCZEK ORAZ INNYCH INSTRUMENTÓW DŁUŻNYCH ORAZ KREDYTÓW W 
+RACHUNKACH BIEŻĄCYCH ........................................................................................................................................................ 49 
+7.13. 
+POCHODNE INSTRUMENTY FINANSOWE ................................................................................................................................. 49 
+7.14. 
+TRANSAKCJE ORAZ STAN ROZRACHUNKÓW SPÓŁEK GRUPY Z PODMIOTAMI POWIĄZANYMI NIEKONSOLIDOWANYMI ....... 49 
+7.15. 
+GWARANCJE, PORĘCZENIA ORAZ ZOBOWIĄZANIA WARUNKOWE .......................................................................................... 50 
+7.16. 
+INNE INFORMACJE, KTÓRE ZDANIEM EMITENTA SĄ ISTOTNE DLA OCENY JEGO SYTUACJI KADROWEJ, MAJĄTKOWEJ, 
+FINANSOWEJ, WYNIKU FINANSOWEGO I ICH ZMIAN, ORAZ INFORMACJE, KTÓRE SĄ ISTOTNE DLA OCENY MOŻLIWOŚCI 
+REALIZACJI ZOBOWIĄZAŃ EMITENTA. ...................................................................................................................................... 50 
+7.17. 
+SZACUNEK WPŁYWU EPIDEMII KORONAWIRUSA COVID-19 NA DZIAŁALNOŚĆ I SYTUACJĘ FINANSOWĄ GRUPY KAPITAŁOWEJ
+ ................................................................................................................................................................................................. 50 
+7.18. 
+ZDARZENIA PO DNIU SPRAWOZDAWCZYM.............................................................................................................................. 51 
+8. 
+ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ......................................................................... 53 
+9. 
+SKRÓCONA INFORMACJA DO ŚRÓDROCZNEGO JEDNOSTKOWEGO SPRAWOZDANIA FINANSOWEGO .............................. 59 
+9.1. 
+PRZYCHODY ZE SPRZEDAŻY ...................................................................................................................................................... 59 
+10. 
+DODATKOWE NOTY OBJAŚNIAJĄCE DO ŚRÓDROCZNEGO SKRÓCONEGO JEDNOSTKOWEGO SPRAWOZDANIA 
+FINANSOWEGO ................................................................................................................................................................ 61 
+10.1. 
+KOSZTY WEDŁUG RODZAJU ...................................................................................................................................................... 61 
+10.2. 
+KOSZTY SPRZEDANYCH PRODUKTÓW, TOWARÓW I MATERIAŁÓW ........................................................................................ 61 
+10.3. 
+POZOSTAŁE PRZYCHODY OPERACYJNE ..................................................................................................................................... 61 
+10.4. 
+POZOSTAŁE KOSZTY OPERACYJNE ............................................................................................................................................ 61 
+10.5. 
+PRZYCHODY/(KOSZTY) FINANSOWE NETTO ............................................................................................................................. 62 
+10.6. 
+PODATEK DOCHODOWY ........................................................................................................................................................... 62 
+10.7. 
+RZECZOWE AKTYWA TRWAŁE .................................................................................................................................................. 62 
+10.8. 
+PRAWO DO UŻYTKOWANIA AKTYWÓW ................................................................................................................................... 63 
+10.9. 
+POZOSTAŁE AKTYWA FINASOWE ............................................................................................................................................. 63 
+10.10. ZAPASY ..................................................................................................................................................................................... 63 
+10.11. POZOSTAŁE NALEŻNOŚCI DŁUGOTERMINOWE ........................................................................................................................ 63 
+10.12. NALEŻNOŚCI HANDLOWE ORAZ POZOSTAŁE NALEŻNOŚCI ...................................................................................................... 64 
+10.13. ZOBOWIĄZANIA Z TYTUŁU KREDYTÓW, POŻYCZEK ORAZ INNYCH INSTRUMENTÓW DŁUŻNYCH ORAZ KREDYTÓW W 
+RACHUNKACH BIEŻĄCYCH ........................................................................................................................................................ 64 
+10.14. TRANSAKCJE ORAZ STAN ROZRACHUNKÓW SPÓŁKI Z PODMIOTAMI POWIĄZANYMI ............................................................ 64 
+10.15. ZDARZENIA PO DNIU SPRAWOZDAWCZYM.............................................................................................................................. 65 
+ 
+ 
+ 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+4 
+1. LIST PREZESA ZARZĄDU 
+ 
+ 
+Szanowni Państwo, Drodzy Akcjonariusze, 
+III kwartał 2021 r. to dla nas okres pełen wyzwań związany przede wszystkim z dalszym wyraźnym wzrostem cen towarów, którymi 
+handlujemy – w niektórych biznesach jest to dla nas wyzwanie na poziomie marżowości, w innych wyzwanie związane 
+z kapitałochłonnością i wzrostem depozytów. Ale III kwartał 2021 r. to także czas dużych sukcesów w segmencie LPG oraz stacji paliw 
+AVIA. 
+Na poziomie całej Grupy, udało nam się osiągnąć solidne, wyższe r/r wyniki. W III kwartale 2021 r. wypracowaliśmy 2 081,2 mln zł 
+skonsolidowanych przychodów ogółem, czyli o 55,5 % więcej niż w analogicznym okresie roku poprzedniego. Skonsolidowana EBITDA 
+skorygowana za III kwartał 2021 r. ukształtowała się na poziomie 12,0 mln zł (wzrost o 10,6% r/r). Skonsolidowana EBITDA skorygowana 
+za 9 miesięcy br. wynosi natomiast 57,5 mln zł, co stanowi 76,4% naszej rocznej prognozy finansowej. Wskaźniki finansowe, podobnie 
+jak w poprzednich okresach, ukształtowały się na dobrych poziomach. 
+Jesteśmy niezwykle dumni z biznesu LPG, który w III kwartale 2021 r. osiągnął zdecydowanie wyższe od oczekiwań wyniki, 
+wypracowując ponad 7 mln zł EBITDA skorygowanej – to wyraźnie najlepszy kwartał w całej historii działalności segmentu. Było to 
+możliwe dzięki naszej sprawności i elastyczności działania, a także ze względu na dobre wyczucie rynku naszego zespołu handlowego. 
+Nie przeszkodziła nam w tym nawet trudna sytuacja rynkowa – w tym obowiązujące sankcje na Białorusi. Drugi biznes, na który 
+chciałbym zwrócić Państwa szczególną uwagę, to stacje paliw AVIA. Systematycznie dołączamy do sieci kolejne stacje, rośnie udział 
+stacji własnych i jednocześnie poprawiamy efektywność na tych już istniejących. Prowadzimy profesjonalne, efektywne kampanie 
+reklamowe, co przekłada się nie tylko na wzrost sprzedaży paliw, ale także produktów pozapaliwowych. W związku z tym, w III kwartale 
+2021 r. mieliśmy do czynienia ze wzrostem wolumenów, przychodów oraz EBITDA. Co nas niezwykle cieszy, EBITDA wypracowana przez 
+sieć stacji paliw AVIA w Polsce była aż dwukrotnie wyższa od naszych pierwotnych założeń. Jest to także bardzo dobry prognostyk na 
+przyszłość. Na koniec III kwartału 2021 r. w sieci AVIA w Polsce było 76 stacji należących do Grupy UNIMOT. 
+III kwartał 2021 r. to także rekordowa kwartalna sprzedaż paliw płynnych, która wyniosła 407,1 tys. m3. Tak dużą sprzedaż udało się 
+osiągnąć mimo trudnego otoczenia rynkowego, w tym względnie stałej premii lądowej, jak i wyraźnie wyższej kapitałochłonności 
+biznesu. 
+Największy negatywny wpływ wzrostu cen obserwowaliśmy w segmencie gazu ziemnego i energii elektrycznej. W III kwartale 2021 r. 
+musieliśmy ograniczać działalności na rynku hurtowym ze względu na duży wzrost wartości depozytów i jednocześnie obserwowaliśmy 
+niższy popyt wśród klientów mających różne źródła zaopatrzenia w energię. W związku z sytuacją rynkową zdecydowaliśmy się także 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+5 
+wytłoczyć dużą ilość gazu z kawerny przed zakładanym terminem, co dodatkowo negatywnie wpłynęło na wynik w tym segmencie. 
+Intensyfikowaliśmy natomiast działalność na rynku spot, co częściowo zneutralizowało wpływ czynników negatywnych. W segmencie 
+energii elektrycznej ujemny wynik to efekt niższych marż realizowanych przez spółkę Tradea w związku ze spadkiem płynności z planami 
+zniesienia obligacyjnego handlu giełdowego, a także niekorzystnym wpływem rozliczeń długoterminowych kontraktów. 
+W segmencie fotowoltaiki III kwartał 2021 r. to przede wszystkim działania restrukturyzacyjne oraz zmiany w celu dopasowania 
+struktury organizacyjnej do nowej strategii rozwoju w kierunku klientów biznesowych i instalacji powyżej 50 kWp. W tym obszarze 
+dużo działo się także w zakresie rozwoju. Nawiązaliśmy współpracę z dwoma amerykańskimi firmami – podpisaliśmy porozumienie 
+o współpracy z NuScale Power dotyczące roli UNIMOT jako konsultanta w obszarze SMR (small modular reactor), a także umowy z First 
+Solar na dostawy paneli fotowoltaicznych. 
+W ostatnich miesiącach bieżącego roku mamy przed sobą wiele wyzwań, przede wszystkim związanych z dalszym wzrostem cen 
+surowców, w tym głównie biopaliw, gazu ziemnego i energii elektrycznej. Staramy się jak najlepiej dostosowywać do zachodzących 
+w związku z tym zmian rynkowych i wierzymy, że uda się nam efektywnie zarządzić zidentyfikowanymi ryzykami. Wciąż podtrzymujemy 
+naszą prognozę na 2021 r. w wysokości 75,3 mln zł skorygowanej EBITDA, aczkolwiek jest to na ten moment bardzo ambitne zadanie. 
+Na koniec chciałbym w imieniu swoim oraz całego Zarządu podziękować naszym pracownikom za codzienny wkład w rozwój 
+i budowanie wyniku Grupy, Członkom Rady Nadzorczej za profesjonalny nadzór i wsparcie merytoryczne oraz naszym akcjonariuszom 
+za zaufanie jakim nas obdarzają i wszystkie pozytywne słowa dotyczące naszego biznesu oraz naszej otwartej komunikacji. 
+ 
+Z wyrazami szacunku 
+Adam Sikorski 
+Prezes Zarządu UNIMOT S.A. 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+6 
+Prezes Zarządu UNIMOT S.A 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+7 
+2. WYBRANE DANE FINANSOWE 
+2.1. 
+GRUPA KAPITAŁOWA UNIMOT 
+ 
+w tys. zł 
+w tys. euro 
+ 
+30.09.2021 
+Dane 
+porównawcze* 
+30.09.2021 
+Dane 
+porównawcze* 
+I. Przychody ze sprzedaży 
+5 384 741 
+3 524 607 
+1 181 252 
+793 472 
+II. Zysk/(strata) na działalności operacyjnej 
+71 334 
+14 991 
+15 649 
+3 375 
+III. Zysk/(strata) brutto 
+66 213 
+11 262 
+14 525 
+2 535 
+IV. Zysk/(strata) netto przypadający na właścicieli 
+jednostki dominującej 
+50 971 
+8 856 
+11 182 
+1 994 
+V. Zysk/(strata) netto 
+50 813 
+8 859 
+11 147 
+1 994 
+VI. Przepływy pieniężne netto z działalności 
+operacyjnej 
+(146 197) 
+99 778 
+(32 071) 
+22 462 
+VII. Przepływy pieniężne netto z działalności 
+inwestycyjnej 
+(22 514) 
+(4 892) 
+(4 939) 
+(1 101) 
+VIII. Przepływy pieniężne netto z działalności 
+finansowej 
+(30 212) 
+(26 705) 
+(6 628) 
+(6 012) 
+IX. Przepływy pieniężne netto, razem 
+(211 361) 
+62 337 
+(46 366) 
+14 033 
+X. Aktywa, razem 
+1 311 274 
+790 336 
+283 035 
+171 261 
+XI. Zobowiązania i rezerwy na zobowiązania 
+1 010 498 
+524 454 
+218 113 
+113 646 
+XII. Zobowiązania długoterminowe 
+72 257 
+52 690 
+15 596 
+11 418 
+XIII. Zobowiązania krótkoterminowe 
+938 241 
+471 764 
+202 517 
+102 228 
+XIV. Kapitał własny 
+300 776 
+265 881 
+64 922 
+57 615 
+XV. Kapitał zakładowy 
+8 198 
+8 198 
+1 770 
+1 776 
+XVI. Liczba akcji (w tys. szt.) 
+8 198 
+8 198 
+- 
+- 
+XVII. Zysk/(strata) na jedną akcję zwykłą przypadający 
+na właścicieli jednostki dominującej (w zł/euro)** 
+6,22 
+1,08 
+1,36 
+0,24 
+XVIII. Rozwodniony zysk/(strata) na jedną akcję zwykłą 
+przypadający na właścicieli jednostki dominującej (w 
+zł/euro)** 
+6,22 
+1,08 
+1,36 
+0,24 
+XIX. Wartość księgowa na jedną akcję 
+(w zł/euro)*** 
+36,69 
+32,43 
+7,92 
+7,03 
+XX. Rozwodniona wartość księgowa na jedną akcję (w 
+zł/euro)*** 
+36,69 
+32,43 
+7,92 
+7,03 
+*Dane dla pozycji dotyczących sprawozdania z sytuacji finansowej prezentowane są na dzień 31 grudnia 2020 r. natomiast dla pozycji dotyczących 
+sprawozdania z całkowitych dochodów i sprawozdania z przepływów pieniężnych za okres od 1 stycznia 2020 r. do 30 września 2020 r. 
+** na 30.09.2021 r. liczba akcji użyta do wyliczenia zysku na jedną akcję zwykłą oraz rozwodnionego zysku na jedną akcję zwykłą wynosiła 8 198 tys. 
+sztuk 
+** na 30.09.2020 r. liczba akcji użyta do wyliczenia zysku na jedną akcję zwykłą oraz rozwodnionego zysku na jedną akcję zwykłą wynosiła 8 198 tys. 
+sztuk 
+*** na 30.09.2021 r. liczba akcji użyta do wyliczenia wartości księgowej oraz rozwodnionej wartości księgowej na jedną akcję wynosiła 8 198 tys. sztuk 
+*** na 31.12.2020 r. liczba akcji użyta do wyliczenia wartości księgowej oraz rozwodnionej wartości księgowej na jedną akcję wynosiła 8 198 tys. sztuk 
+ 
+Wybrane dane finansowe przeliczono na walutę euro w następujący sposób: 
+Pozycje aktywów i pasywów sprawozdania z sytuacji finansowej przeliczono na euro wg średniego kursu ogłoszonego przez Narodowy 
+Bank Polski obowiązującego na 30.09.2021 r. 4,6329 zł/euro oraz dla danych porównawczych na 31.12.2020 r. 4,6148 zł/euro. 
+Poszczególne pozycje dotyczące sprawozdania z całkowitych dochodów oraz sprawozdania z przepływów pieniężnych przeliczono wg 
+kursu stanowiącego średnią arytmetyczną średnich kursów NBP obowiązujących na ostatni dzień kalendarzowy poszczególnych 
+miesięcy, który wyniósł odpowiednio 4,5585 zł/euro (9 miesięcy 2021 r.), 4,4420 zł/euro (9 miesięcy 2020 r.). 
+ 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+8 
+2.2. 
+UNIMOT S.A. 
+ 
+w tys. zł 
+w tys. euro 
+ 
+30.09.2021 
+Dane 
+porównawcze* 
+30.09.2021 
+Dane 
+porównawcze* 
+I. Przychody ze sprzedaży 
+5 220 980 
+3 398 603 
+1 145 328 
+765 106 
+II. Zysk/(strata) na działalności operacyjnej 
+78 613 
+12 346 
+17 245 
+2 779 
+III. Zysk/(strata) brutto 
+77 020 
+9 069 
+16 896 
+2 042 
+IV. Zysk/(strata) netto 
+62 574 
+7 160 
+13 727 
+1 612 
+V. Przepływy pieniężne netto z działalności operacyjnej 
+(121 278) 
+80 346 
+(26 605) 
+18 088 
+VI. Przepływy pieniężne netto z działalności 
+inwestycyjnej 
+(21 537) 
+(4 744) 
+(4 725) 
+(1 068) 
+VII. Przepływy pieniężne netto z działalności finansowej 
+(43 130) 
+(18 742) 
+(9 461) 
+(4 219) 
+VII. Przepływy pieniężne netto, razem 
+(198 383) 
+51 016 
+(43 519) 
+11 485 
+IX. Aktywa, razem 
+1 241 459 
+743 474 
+267 966 
+161 106 
+X. Zobowiązania i rezerwy na zobowiązania 
+935 297 
+483 737 
+201 882 
+104 823 
+XI. Zobowiązania długoterminowe 
+67 858 
+47 978 
+14 647 
+10 397 
+XII. Zobowiązania krótkoterminowe 
+867 439 
+435 759 
+187 235 
+94 426 
+XIII. Kapitał własny 
+306 162 
+259 737 
+66 084 
+56 283 
+XIV. Kapitał zakładowy 
+8 198 
+8 198 
+1 770 
+1 776 
+XV. Liczba akcji (w tys. szt.) 
+8 198 
+8 198 
+- 
+- 
+XVI. Zysk/(strata) na jedną akcję zwykłą przypadający 
+na właścicieli jednostki dominującej (w zł/euro)** 
+7,63 
+0,87 
+1,67 
+0,20 
+XVII. Rozwodniony zysk/(strata) na jedną akcję zwykłą 
+przypadający na właścicieli jednostki dominującej (w 
+zł/euro)** 
+7,63 
+0,87 
+1,67 
+0,20 
+XVIII. Wartość księgowa na jedną akcję 
+(w zł/euro)*** 
+37,35 
+31,68 
+8,06 
+6,87 
+XIX. Rozwodniona wartość księgowa na jedną akcję 
+(w zł/euro)*** 
+37,35 
+31,68 
+8,06 
+6,87 
+*Dane dla pozycji dotyczących sprawozdania z sytuacji finansowej prezentowane są na dzień 31 grudnia 2020 r. natomiast dla pozycji dotyczących 
+sprawozdania z całkowitych dochodów i sprawozdania z przepływów pieniężnych za okres od 1 stycznia 2020 r. 
+do 30 września 2020 r. 
+ 
+ 
+ 
+ 
+** na 30.09.2021 r. liczba akcji użyta do wyliczenia zysku na jedną akcję zwykłą oraz rozwodnionego zysku na jedną akcję zwykłą wynosiła 8 198 tys. 
+sztuk 
+** na 30.09.2020 r. liczba akcji użyta do wyliczenia zysku na jedną akcję zwykłą oraz rozwodnionego zysku na jedną akcję zwykłą wynosiła 8 198 tys. 
+sztuk 
+ 
+ 
+ 
+ 
+*** na 30.09.2021 r. liczba akcji użyta do wyliczenia wartości księgowej oraz rozwodnionej wartości księgowej na jedną akcję wynosiła 8 198 tys. sztuk 
+*** na 31.12.2020 r. liczba akcji użyta do wyliczenia wartości księgowej oraz rozwodnionej wartości księgowej na jedną akcję wynosiła 8 198 tys. sztuk 
+ 
+ 
+ 
+ 
+Wybrane dane finansowe przeliczono na walutę euro w następujący sposób: 
+Pozycje aktywów i pasywów sprawozdania z sytuacji finansowej przeliczono na euro wg średniego kursu ogłoszonego przez Narodowy 
+Bank Polski obowiązującego na 30.09.2021 r. 4,6329 zł/euro oraz dla danych porównawczych na 31.12.2020 r. 4,6148 zł/euro. 
+Poszczególne pozycje dotyczące sprawozdania z całkowitych dochodów oraz sprawozdania z przepływów pieniężnych przeliczono wg 
+kursu stanowiącego średnią arytmetyczną średnich kursów NBP obowiązujących na ostatni dzień kalendarzowy poszczególnych 
+miesięcy, który wyniósł odpowiednio 4,5585 zł/euro (9 miesięcy 2021 r.), 4,4420 zł/euro (9 miesięcy 2020 r.). 
+ 
+ 
+ 
+ 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+9 
+ 
+ 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+10 
+3. KOMENTARZ DO WYNIKÓW FINANSOWYCH GRUPY UNIMOT 
+3.1. 
+NAJWAŻNIEJSZE WYDARZENIA W III KWARTALE 2021 R. WRAZ Z OPISEM ISTOTNYCH DOKONAŃ LUB NIEPOWODZEŃ 
+GRUPY KAPITAŁOWEJ 
+Utrzymujące się wysokie ceny surowców na rynkach międzynarodowych oraz krajowych 
+Wysokie ceny surowców utrzymujące się w III kwartale 2021 r. to istotny czynnik mający wpływ na działalność Grupy UNIMOT. 
+Dostępne linie kredytowe pokrywają zapotrzebowanie na zewnętrzne źródła finansowania, niemniej przy rosnącym rynku konieczne 
+jest sprawne zarządzanie kapitałem obrotowym oraz marżowością. Wzrost cen przy zwiększonym wolumenie sprzedanych produktów 
+ma również swoje odzwierciedlenie w strukturze bilansu. 
+Rozszerzenie przez Unię Europejską sankcji nałożonych na Białoruś 
+W czerwcu 2021 r. Unia Europejska rozszerzyła zakres sankcji obowiązujących w relacjach handlowych z Białorusią, obejmując nimi 
+między innymi import towarów ropopochodnych (ON, benzyny, LPG). Nowy zakres sankcji wszedł w życie 25 września 2021 r. zatem 
+III kwartał br. był pierwszym, pełnym okresem funkcjonowania środków ograniczających, o bezprecedensowym, gospodarczym 
+charakterze. 
+W związku z powyższym Grupa UNIMOT dostosowała łańcuch dostaw do wszystkich obowiązujących regulacji. Zgodne z wytycznymi 
+Unii Europejskiej zawiesiła zakupy paliwa z Białorusi, poza produktami sprowadzanymi na podstawie kontraktów zawartych przed datą 
+wejścia w życie obostrzeń - co jest zgodne z zakresem sankcji. 
+Podjęte działania zabezpieczyły w pełni wolumen dostaw i pozwoliły na zachowanie płynności operacyjnej. 
+Nowy kanał sprzedaży oleju napędowego przez terminal w Szczecinie 
+Grupa UNIMOT rozpoczęła sprzedaż oleju napędowego z terminala firmy Baltchem w Szczecinie. Dzięki nowym kierunkom dostaw 
+spółka dotrze do szerszego grona odbiorców i umocni swoją obecność w regionie. 
+ 
+Rozwój sieci stacji AVIA 
+W III kwartale 2021 r. Grupa UNIMOT kontynuowała rozwój sieci stacji AVIA. W omawianym okresie otworzono 7 nowych obiektów. 
+Na 30.09.2021 sieć liczyła 76 stacji. Na dzień publikacji raportu funkcjonuje 81 stacji paliw AVIA. 
+Rozwój marki AVIA Solar 
+W III kwartale 2021 r. Grupa kontynuowała sprzedaż instalacji fotowoltaicznych pod marką AVIA Solar na rynku polskim. Okres III 
+kwartału 2021 roku był przede wszystkim okresem zmian organizacyjnych w ramach spółki UNIMOT Energia i Gaz w celu dopasowania 
+struktury do nowej strategii rozwoju Spółki, tj. skierowania się na działanie w zakresie klientów biznesowych oraz udoskonalenia 
+procesów obsługi klienta. 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+11 
+W lipcu 2021 r. spółka UNIMOT Energia i Gaz z Grupy UNIMOT, przy 
+współpracy z Banking Retail System (BRS), otworzyła dwa nowe punkty 
+sprzedaży marki AVIA Solar. 
+We wrześniu br. AVIA Solar, w ramach spółki UNIMOT Energia i Gaz Sp. 
+z o.o. stworzyła ofertę dla firm, dzięki której przedsiębiorcy mają 
+możliwość zakupu energii elektrycznej pochodzącej z odnawialnych 
+źródeł. Jest to oferta komplementarna do oferty sprzedaży instalacji 
+fotowoltaicznych AVIA Solar, a za zakup zielonej energii od wytwórców 
+OZE odpowiada należąca do Grupy UNIMOT spółka obrotu energią 
+TRADEA Sp. z o.o. 
+Oferta „Zielona Energia” AVIA Solar daje firmom możliwość budowania 
+wizerunku firmy odpowiedzialnej społecznie, tworzy przestrzeń do 
+wyróżnienia się na tle konkurencji, a także potwierdza proekologiczne 
+działania na rzecz środowiska. Produkt pozwala firmom na prowadzenie zrównoważonego biznesu zasilanego zieloną energią. 
+Sprzedaż portfela umów sprzedaży energii elektrycznej i gazu 
+W lipcu 2021 r. w UNIMOT Energia i Gaz sp. z o.o. doszło do przekazania ostatniej transzy umów, zgodnie z zawartą 23 lutego 2021 r. 
+przedwstępną umową odpłatnego przeniesienia praw i obowiązków związanych z segmentem sprzedaży energii elektrycznej i gazu 
+ziemnego z firmą Energia Polska Sp. z o.o. Zawarcie Umowy oznacza dla UNIMOT Energia i Gaz uwolnienie środków z przyszłej marży 
+pochodzącej z umów zawartych z klientami odbierającymi energię elektryczną lub/i gaz ziemny. 
+Rozliczenie pomiędzy stronami umowy przeprowadzono w oparciu o poziom marży generowanej z poszczególnych umów z klientami. 
+Umowa dotyczyła przenoszenia praw i obowiązków z umów w transzach, uzależnionych od wypełnienia formalności, w tym 
+od uzyskanych od klientów pełnomocnictw. Dzięki zawarciu umowy UNIMOT Energia i Gaz wcześniej uwolniła środki z zawartych 
+umów na kolejne lata. Umowy klientów przekazywano w IV transzach i w sumie dokonano przekazania 580 umów. 
+Porozumienie o współpracy z NuScale Power, Grupa Getka w sprawie SMR – small modular reactor 
+W wrześniu 2021 r. spółki NuScale Power, Grupa Getka oraz UNIMOT S.A. podpisały porozumienie o współpracy mające na celu 
+wspólne rozpoznanie możliwości wdrożenia technologii małych reaktorów modułowych (ang. small modular reactor – SMR) firmy 
+NuScale Power, jako rozwiązania mogącego docelowo 
+zmodyfikować istniejące w Polsce elektrownie zasilane 
+węglem. 
+Zawarte porozumienie ma na celu wykorzystanie wartości, 
+jaką 
+niesie 
+za 
+sobą 
+międzynarodowe 
+partnerstwo 
+i współpraca w badaniu możliwości zastosowania technologii 
+SMR firmy NuScale do modyfikacji elektrowni węglowych na 
+terenie całego kraju. 
+Na mocy porozumienia o współpracy, NuScale będzie 
+wspierał Getka oraz UNIMOT w badaniu możliwości 
+zastosowania 
+technologii 
+SMR 
+firmy 
+NuScale, 
+jako 
+rozwiązania 
+modernizującego 
+istniejące 
+elektrownie 
+węglowe, a także, szerzej, badaniu możliwości wdrożenia 
+nowych technologii jądrowych w Polsce. Analizy będą obejmowały czynniki techniczne, ekonomiczne, prawne, regulacyjne, finansowe 
+oraz organizacyjne. Działania te pozwolą w aktywny sposób wspierać transformację energetyczną Polski, jednocześnie dywersyfikując 
+biznes Grupy UNIMOT. 
+Dostawy paneli fotowoltaicznych First Solar 
+Grupa UNIMOT wraz z Grupą Getka będą wspierać dostawy z First Solar Inc. zaawansowanych, amerykańskich cienkowarstwowych 
+paneli fotowoltaicznych o łącznej mocy 30 MW, które uzupełnią portfolio projektów PV realizowanych w Polsce. Panele dostarczone z 
+USA są częścią pierwszego etapu strategicznej inicjatywy w zakresie rozwijania energetyki odnawialnej, mającej na celu dywersyfikację 
+źródeł energii w Polsce. Panele fotowoltaiczne będą dostarczane od pierwszego kwartału 2022 r., z możliwością rozszerzenia dostaw 
+wraz z rozwojem projektów fotowoltaicznych przez UNIMOT. 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+12 
+3.2. 
+OMÓWIENIE PODSTAWOWYCH WIELKOŚCI EKONOMICZNO-FINANSOWYCH GRUPY KAPITAŁOWEJ 
+Śródroczne skonsolidowane sprawozdanie z sytuacji finansowej 
+ 
+ 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Aktywa trwałe 
+173 341 
+148 732 
+Aktywa obrotowe 
+1 137 933 
+641 603 
+ Zapasy 
+356 422 
+166 695 
+ Należności handlowe oraz pozostałe należności 
+608 173 
+332 671 
+ Środki pieniężne i ich ekwiwalenty 
+64 825 
+116 063 
+ Pozostałe aktywa obrotowe 
+108 513 
+26 174 
+AKTYWA RAZEM 
+1 311 274 
+790 335 
+ 
+ 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Kapitał własny 
+300 776 
+265 881 
+Zobowiązania 
+1 010 498 
+524 454 
+ Zobowiązania długoterminowe 
+72 257 
+52 690 
+ Zobowiązania krótkoterminowe 
+938 241 
+471 764 
+PASYWA RAZEM 
+1 311 274 
+790 335 
+Wielkości bilansowe uległy istotnym wzrostom w porównaniu z rokiem ubiegłym. Wyższe aktywa trwałe to głownie efekt przyłączania 
+nowych stacji oraz dostosowywania już dzierżawionych do standardów sieci AVIA. Wzrost wartości składników aktywów obrotowych 
+to głownie: wzrost należności spowodowany wyższymi cenami paliw (ON, PB, LPG), sezonowym wzrostem obrotu oraz nowymi 
+kontraktami sprzedażowymi. Natomiast wzrost wartości zapasów – to przede wszystkim efekt wzrostu wycen, a także wzrostu ilości 
+zapasu obowiązkowego oleju napędowego i gazu ziemnego, wzrostu zapasów operacyjnych oleju napędowego oraz gazu ziemnego. 
+Wzrost poziomu zobowiązań spowodowany jest wzrostem poziomu działalności handlowej, w tym zwiększonego importu oleju 
+napędowego i benzyn w porównaniu do końca roku 2020, a także wzrostem zobowiązań z tytułu VAT, w związku z realizacją wyższych 
+przychodów. 
+Śródroczne skonsolidowane sprawozdanie z całkowitych dochodów 
+w tysiącach złotych 
+01.01.2021 
+01.01.2020 
+01.07.2021 
+01.07.2020 
+ 
+-30.09.2021 
+-30.09.2020 
+-30.09.2021 
+-30.09.2020 
+ Przychody ze sprzedaży 
+5 353 200 
+3 569 437 
+2 088 218 
+1 341 873 
+ Zyski/(straty) z instrumentów finansowych 
+zabezpieczających sprzedaż 
+31 541 
+(44 830) 
+(6 984) 
+(3 579) 
+ Koszty sprzedanych produktów, towarów i materiałów 
+(5 142 104) 
+(3 369 894) 
+(2 012 320) 
+(1 292 800) 
+Zysk brutto ze sprzedaży 
+242 637 
+154 713 
+68 914 
+45 494 
+ Pozostałe przychody operacyjne 
+1 050 
+2 819 
+284 
+1 372 
+ Koszty sprzedaży 
+(145 517) 
+(114 404) 
+(50 763) 
+(38 514) 
+ Koszty ogólnego zarządu 
+(26 324) 
+(22 203) 
+(9 977) 
+(6 397) 
+ Pozostałe zyski/(straty) netto 
+384 
+204 
+100 
+58 
+ Pozostałe koszty operacyjne 
+(896) 
+(6 138) 
+(244) 
+(46) 
+Zysk z działalności operacyjnej 
+71 334 
+14 991 
+8 314 
+1 967 
+ Przychody finansowe 
+415 
+756 
+186 
+399 
+ Koszty finansowe 
+(5 536) 
+(4 485) 
+(2 443) 
+(1 384) 
+Koszty finansowe netto 
+(5 121) 
+(3 729) 
+(2 257) 
+(985) 
+Zysk/(strata) przed opodatkowaniem 
+66 213 
+11 262 
+6 057 
+982 
+ Podatek dochodowy 
+(15 400) 
+(2 403) 
+(2 043) 
+(68) 
+Zysk/(strata) netto za okres sprawozdawczy 
+50 813 
+8 859 
+4 014 
+914 
+W omawianym kwartale skonsolidowane przychody ze sprzedaży wzrosły o 55,5% w porównaniu do analogicznego okresu 2020 r. 
+Narastająco, za 3 kwartały bieżącego roku skonsolidowane przychody ze sprzedaży wyniosły 5 384,7 mln zł i były wyższe o 52,8% 
+od przychodów netto ze sprzedaży za okres 3 kwartałów roku poprzedniego. Wzrost poziomu przychodów wynikał ze wzrostu 
+sprzedanych wolumenów oraz wyższych cen surowców. 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+13 
+Skonsolidowany zysk netto w III kwartale wyniósł 4,0 mln zł, wobec skonsolidowanego zysku netto 0,9 mln zł w III kwartale 2020 r. 
+Narastająco, za 3 kwartały bieżącego roku skonsolidowany zysk netto wyniósł 50,8 mln zł wobec skonsolidowanego zysku netto 8,9 
+mln zł w analogicznym okresie 2020 r. 
+w tysiącach złotych 
+01.07.2021- 
+30.09.2021 
+01.07.2020- 
+30.09.2020 
+ Amortyzacja 
+ (2 975) 
+ (2 729) 
+ Zużycie materiałów i energii 
+ (3 386) 
+ (1 659) 
+ Usługi obce 
+ (46 602) 
+ (35 137) 
+ Podatki i opłaty 
+ (323) 
+ (352) 
+ Wynagrodzenia 
+ (4 801) 
+ (3 352) 
+ Ubezpieczenia społeczne i inne świadczenia 
+ (863) 
+ (567) 
+ Pozostałe koszty rodzajowe 
+ (4 647) 
+ (1 111) 
+KOSZTY RODZAJOWE RAZEM 
+ (63 597) 
+ (44 907) 
+W III kwartale 2021 r. większość kosztów według rodzajów uległa zwiększeniu. Jest to głównie efekt wzrostu skali działalności i niskiej 
+bazy roku poprzedniego oraz zwiększonych kosztów usług obcych. 
+Wyniki 
+ 
+ 
+w tysiącach złotych 
+01.07.202130.09.2021 
+01.07.202030.09.2020 
+ EBIT * 
+8 314 
+1 967 
+ EBITDA ** 
+11 121 
+4 408 
+ WYNIK BRUTTO 
+6 057 
+982 
+ WYNIK NETTO 
+4 014 
+914 
+* wskaźnik EBIT --> definiowany jako zysk przed odliczeniem odsetek i podatków (ang. Earnings Before Interest and Taxes) 
+**wskaźnik EBITDA --> definiowany jako zysk przed odliczeniem odsetek, podatków, deprecjacją i amortyzacją (ang. Earnings Before Interest, Taxes, 
+Depreciation and Amortization) 
+W III kwartale 2021 r. Grupa zanotowała wynik EBIT w wysokości 8 314 tys. zł w porównaniu do wyniku 1 967 tys. zł w III kwartale 2020 
+r. Wielkości narastające za okres 3 kwartałów kształtowały się odpowiednio 71 334 tys. zł za 2021 r, oraz 14 991 tys. zł za 2020 r. 
+W zakresie wartości EBITDA w III kwartale 2021 r. grupa zanotowała wynik 11 121 tys. zł w porównaniu do wyniku 4 408 tys. zł w III 
+kwartale 2020 r. Wielkości narastające za okres 3 kwartałów kształtowały się odpowiednio 80 715 tys. zł za 2021 r, oraz 20 733 tys. zł 
+za 2020 r. 
+Wyniki skorygowane 
+ 
+ 
+w tysiącach złotych 
+01.07.202130.09.2021 
+01.07.202030.09.2020 
+ EBITDA skorygowana 
+12 004 
+10 856 
+ WYNIK NETTO skorygowany 
+4 897 
+7 362 
+Wyniki w III kwartale 2021 r. zostały skorygowane o następujące czynniki (+883 tys. zł): 
+• 
+wpływ wyceny zapasów paliw ciekłych: -2 094 tys. zł 
+• 
+wpływ przesunięć kosztów w czasie związanych przede wszystkim z wykonaniem NCW, NCR i utrzymywaniem zapasów 
+obowiązkowych: +2 825 tys. 
+• 
+wpływ przesunięć kosztów w czasie związanych z wynajęciem kawerny do hurtowego obrotu gazem ziemnym: +680 tys. 
+zł 
+• 
+wpływ przesunięć kosztów w czasie w biznesie LPG: -528 tys. zł 
+Korekty narastająco za 3 kwartały 2021 r. (-23 259 tys. zł): 
+• 
+wpływ wyceny zapasów paliw ciekłych: -13 485 tys. zł 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+14 
+• 
+wpływ przesunięć kosztów w czasie związanych przede wszystkim z wykonaniem NCW, NCR i utrzymywaniem zapasów 
+obowiązkowych: -11 632 tys. zł 
+• 
+wpływ przesunięć kosztów w czasie związanych z wynajęciem kawerny do hurtowego obrotu gazem ziemnym: +1 970 
+tys. zł 
+• 
+wpływ przesunięć kosztów w czasie w biznesie LPG: -566 tys. zł 
+• 
+odpis na utratę wartości spółki zależnej UNIMOT Ukraina: +454 tys. zł 
+Dane dotyczące wartości skorygowanej EBITDA w poszczególnych okresach przedstawione są na str. 1 niniejszego raportu na wykresie 
+pt. „EBITDA skorygowana”. 
+3.3. 
+ANALIZA WSKAŹNIKOWO-PORÓWNAWCZA GRUPY KAPITAŁOWEJ 
+Przedstawiona poniżej ocena wskaźnikowa Grupy została przeprowadzona na podstawie skonsolidowanego sprawozdania 
+finansowego za III kwartał 2021 r. oraz okresu porównawczego. 
+Płynność finansowa 
+Do oceny płynności finansowej wykorzystano następujące wskaźniki: 
+▪ 
+Wskaźnik bieżącej płynności – stosunek majątku obrotowego do zobowiązań krótkoterminowych. Wskaźnik wyznaczający 
+zdolność Grupy do spłaty jej bieżących zobowiązań krótkoterminowych w średnim okresie, to jest po upłynnieniu posiadanych 
+zapasów, krótkoterminowych aktywów finansowych, ściągnięciu należności krótkoterminowych i wykorzystaniu gotówki. 
+▪ 
+Wskaźnik płynności szybki – stosunek majątku obrotowego pomniejszonego o zapasy do zobowiązań krótkoterminowych. 
+Wskaźnik wyznaczający zdolność Grupy do spłaty jej bieżących zobowiązań krótkoterminowych w krótkim okresie, to jest po 
+upłynnieniu krótkoterminowych aktywów finansowych, ściągnięciu należności krótkoterminowych i wykorzystaniu gotówki na 
+kontach bankowych. 
+Wskaźnik płynności gotówką – stosunek stanu środków pieniężnych do zobowiązań krótkoterminowych. Wskaźnik wyznaczający 
+zdolność Grupy do natychmiastowej spłaty jej bieżących zobowiązań krótkoterminowych w krótkim okresie, to jest jedynie przy 
+wykorzystaniu posiadanych środków pieniężnych na kontach bankowych 
+WSKAŹNIKI PŁYNNOŚCI FINANSOWEJ 
+30.09.2021 
+31.12.2020 
+Wskaźnik płynności bieżącej 
+1,2 
+1,4 
+Wskaźnik płynności szybkiej 
+0,8 
+1,0 
+Wskaźnik płynności gotówką 
+0,1 
+0,2 
+Wskaźniki płynności osiągnięte na koniec III kwartału 2021 r. pozostają na bezpiecznych poziomach. 
+Rentowność 
+Analiza rentowności przedstawiona została w oparciu o grupę wskaźników pozwalającą ocenić efektywność działalności sprzedażowej 
+Grupy i wpływ poszczególnych grup kosztów na jej wynik finansowy: 
+▪ 
+Stopa zysku ze sprzedaży - rentowność sprzedaży wyznacza efektywność prowadzonych działań sprzedażowych, czyli pozwala ona 
+określić część przychodów pozostającą w spółce na pokrycie kosztów jej funkcjonowania – po uwzględnieniu kosztów 
+bezpośrednich sprzedaży. Analogicznie wskaźnik ten pozwala określić wpływ na wynik Grupy kosztów bezpośrednich sprzedaży 
+przez nią realizowanej. 
+▪ 
+Rentowność brutto - wyznacza efektywność prowadzonej przez Grupę działalności, czyli pozwala ocenić część przychodów 
+pozostającą w Grupie na pokrycie podatku, po uwzględnieniu kosztów działalności finansowej i zdarzeń nadzwyczajnych. 
+Analogicznie wskaźnik ten, interpretowany łącznie z powyższymi wskaźnikami rentowności, pozwala ocenić jaka część wyniku 
+zbudowana jest nie przez działalność operacyjną, ale wynika z jej działalności finansowej lub wpływu zdarzeń nadzwyczajnych. 
+▪ 
+Rentowność netto - wyznacza procent przychodów Grupy stanowiący jej wynik netto, czyli po pokryciu wszystkich kosztów jej 
+działalności: sprzedaży, operacyjnych, finansowych oraz opłaceniu podatków. 
+▪ 
+ROE – rentowność kapitału własnego: stosunek zysku netto do średniego stanu kapitałów własnych w ciągu roku obrotowego. 
+Wskaźnik pozwala ocenić inwestorom efektywność wykorzystania kapitału powierzonego Grupie. Oznacza on procentowy udział 
+środków wypracowanych przez Grupę (wyniku netto), które mogą zostać wypłacone w postaci dywidendy, do wniesionego przez 
+inwestorów kapitału powiększonego o część wypracowanych przez Grupę środków w poprzednich latach (kapitał własny). 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+15 
+▪ 
+ROA – rentowność aktywów ogółem: stosunek zysku netto do średniego stanu aktywów w ciągu roku obrotowego. Wskaźnik 
+pozwala ocenić inwestorom efektywność wykorzystania całego posiadanego przez Grupę majątku. 
+WSKAŹNIKI RENTOWNOŚCI 
+30 09 2021 
+31.12.2020 
+ROE* 
+22,5% 
+13,1% 
+ROA* 
+5,2% 
+4,4% 
+*dane urocznione 
+WSKAŹNIKI RENTOWNOŚCI 
+III kwartał 2021 
+III kwartał 2020 
+STOPA ZYSKU ZE SPRZEDAŻY 
+3,3% 
+3,4% 
+RENTOWNOŚĆ EBITDA 
+0,5% 
+0,3% 
+RENTOWNOŚĆ BRUTTO 
+0,3% 
+0,1% 
+RENTOWNOŚC NETTO 
+0,2% 
+0,1% 
+Sprawność działania 
+Do oceny sprawności działania wykorzystano następujące wskaźniki: 
+▪ 
+Rotacja należności (w dniach): relacja stanu należności handlowych na koniec roku obrotowego do przychodów ze sprzedaży netto 
+x 360 dni. Wskaźnik wyznacza średni okres określany w dniach, po jakim następuje spływ należności z tytułu wystawionych przez 
+Grupę faktur. W ogólnym przypadku należy dążyć do minimalizacji tego wskaźnika. 
+▪ 
+Rotacja zobowiązań krótkoterminowych (w dniach): relacja stanu zobowiązań krótkoterminowych wobec dostawców na koniec 
+roku obrotowego do przychodów ze sprzedaży netto x 360 dni. Wskaźnik wyznacza średni okres określany w dniach, po jakim 
+następuje spłata zobowiązań Grupy. Należy dążyć do maksymalizacji tego wskaźnika. 
+Rotacja zapasów (w dniach): relacja średniego stanu zapasów na koniec roku obrotowego do przychodów ze sprzedaży netto x 360 
+dni. Wskaźnik wyznacza średni okres określany w dniach, przez który Grupa przetrzymuje zapasy przed ich sprzedażą. Ze względu na 
+efektywność należy dążyć do minimalizacji tego wskaźnika. 
+WSKAŹNIKI SPRAWNOŚCI DZIAŁANIA 
+30.09.2021 
+31.12.2020 
+Rotacji należności handlowych (w dniach) 
+26 
+22 
+Rotacji zobowiązań handlowych (w dniach) 
+22 
+18 
+Rotacji zapasów (w dniach) 
+15 
+11 
+Rotacji zapasów (w dniach) skorygowany o zapas obowiązkowy 
+5 
+2 
+Cykl środków pieniężnych = cykl od gotówki do gotówki. Cash to Cash = cykl zapasów + cykl należności – cykl zobowiązań. Cash to Cash 
+= 15 dni + 26 dni – 22 dni = 19 dni. Skorygowany o wartość zapasu obowiązkowego cykl środków pieniężnych wynosi: Cash to Cash = 5 
+dni + 26 dni – 22 dni = 9 dni. Cykle środków pieniężnych na koniec 30.09.2021 w porównaniu do okresu porównywalnego są na 
+podobnych poziomach (odpowiednio 15 dni /6 dni). 
+Ocena zadłużenia 
+Ocenę stopnia zadłużenia Grupy dokonano w oparciu o następujące wskaźniki: 
+▪ 
+Wskaźnik pokrycia aktywów: relacja sumy wartości kapitałów własnych do sumy aktywów ogółem. Wskaźnik określa stopień 
+pokrycia majątku Grupy posiadanymi przez nią kapitałami własnymi. 
+▪ 
+Wskaźnik ogólnego zadłużenia: relacja wielkości zobowiązań ogółem do wartości majątku ogółem. Wskaźnik określa 
+w jakiej części majątek Grupy został sfinansowany jej długiem. 
+WSKAŹNIKI ZADŁUŻENIA 
+30.09.2021 
+31.12.2020 
+Wskaźnik zadłużenia ogółem 
+77,1% 
+66,4% 
+Wskaźnik pokrycia aktywów 
+22,9% 
+33,6% 
+Wskaźnik pokrycia majątku trwałego kapitałem własnym 
+173,5% 
+178,8% 
+Wskaźnik zadłużenia ogółem skorygowany o kredyt na zapas obowiązkowy 
+75,2% 
+62,5% 
+Główny wpływ na wzrost na wzrost wskaźników zadłużenia miały rosnące ceny surowców oraz zwiększone wolumeny sprzedaży 
+produktów, co przekłada się na nominalnie wyższe zapotrzebowanie na kapitał obrotowy. 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+16 
+3.4. 
+GŁÓWNE CZYNNIKI I ZDARZENIA KSZTAŁTUJĄCE WYNIKI GRUPY W III KWARTALE 2021 R. I MOGĄCE MIEĆ WPŁYW NA 
+DZIAŁALNOŚĆ GRUPY W KOLEJNYCH KWARTAŁACH 
+SEGMENT OBROTU PALIWAMI CIEKŁYMI 
+W III kwartale 2021 r. Grupa kontynuowała sprzedaż oleju napędowego, biopaliw oraz benzyn. 
+w tysiącach złotych 
+01.07.202130.09.2021 
+01.07.202030.09.2020 
+zmiana % 
+Wolumen sprzedaży [m3] 
+407 146 
+395 576 
+2,9% 
+Przychody od odbiorców zewnętrznych* 
+1 659 311 
+967 983 
+71,4% 
+Przychody od odbiorców z Grupy 
+31 085 
+4 
+n/d 
+EBITDA 
+13 149 
+8 086 
+62,6% 
+EBITDA skorygowana 
+13 880 
+13 980 
+-0,7% 
+Zysk/(strata) za okres 
+10 047 
+6 072 
+65,5% 
+Zysk/(strata) za okres skorygowany 
+10 778 
+11 966 
+-9,9% 
+* przychody uwzględniają zysk/stratę z tyt. instrumentów finansowych dotyczących obrotu paliwem. 
+W III kwartale 2021 r. Grupa sprzedała ponad 407 tys. m3 paliw ciekłych i biopaliw, co stanowiło wzrost o 2,9% w porównaniu do 
+analogicznego okresu roku poprzedniego. Konsekwencją dynamicznego wzrostu cen paliw jest odnotowany wzrost przychodów do 
+1 659 mln zł (wzrost o 71,4% r/r). 
+Wyniki w III kwartale 2021 r. zostały skorygowane o wpływ wyceny zapasów paliw ciekłych i przesunięć kosztów w czasie związanych 
+z wykonaniem NCW i utrzymywaniem zapasów obowiązkowych. Łączny wpływ korekt na wyniki skorygowane w III kwartale 2021 r. 
+wyniósł +731 tys. zł 
+Wypracowana EBITDA w III kwartale 2021 r. wyniosła 13,1 mln zł (wzrost o 62,6% r/r), a EBITDA skorygowana 13,9 mln zł (spadek o 
+0,7% r/r). Zysk za III kwartał 2021 r. wyniósł 10,0 mln zł (wzrost o 65,5% r/r), a zysk netto skorygowany 10,8 mln zł (spadek o 9,9% r/r). 
+Główny wpływ na skonsolidowaną EBITDA skorygowaną w III kwartale 2021 r. miały poniższe czynniki: 
+▪ 
+Trudne otoczenie na rynku oleju napędowego – rosnące ceny oleju napędowego, rekordowe poziomy cen biopaliw, stały poziom 
+premii lądowej oleju napędowego 
+▪ 
+Rekordowe wolumeny sprzedaży oleju napędowego – intensyfikacja sprzedaży w północno-zachodniej części Polski w efekcie 
+uruchomienia sprzedaży oleju napędowego z nowego terminala w Szczecinie (Baltchem) 
+▪ 
+Wyższa r/r sprzedaż benzyn w wyniku rozwoju importu 
+▪ 
+Wyższa r/r sprzedaż paliw do sieci detalicznej AVIA – rosnący udział sieci w sprzedaży hurtowej (9,1% w 3Q2021 vs. 7,3% w 3Q2020) 
+▪ 
+Niższy r/r wolumen sprzedaży biopaliw w efekcie wyraźnego ograniczenia popytu na biopaliwa (wstrzymywanie się odbiorców z 
+zakupami ze względu na bardzo wysokie ceny) 
+▪ 
+Wycena zapasu obowiązkowego oleju napędowego i uzasadnione przesunięcia w wysokości – ceny oleju napędowego 
+magazynowanego przez Unimot pod zapas obowiązkowy Grupa zabezpiecza za pomocą transakcji futures, w związku 
+z czym nominalna zmiana poziomu cen paliw nie ma na nie wpływu. Wpływ na wycenę ma natomiast różnica pomiędzy ceną 
+natychmiastową (po takiej Grupa obowiązana jest wyceniać stany magazynowe) a ceną terminową (po takiej Grupa obowiązana 
+jest wyceniać zabezpieczające transakcje finansowe). W dniu zapadalności transakcji ceny terminowe zrównają się z cenami spot i 
+wpływ wycen będzie neutralny. W związku z powyższym oraz sytuacją rynkową – wyniki księgowe uzyskiwane przez Grupę 
+zawierają wpływ wyceny zapasów w związku ze zmianą różnicy pomiędzy ceną natychmiastową a ceną terminową. W przyszłości, 
+przy założeniu fizycznego utrzymywania zapasu obowiązkowego, także należy spodziewać się korekt wyniku księgowego z tego 
+tytułu (w długim terminie, w momencie zapadalności zabezpieczających kontraktów terminowych, różnice w wycenie zapasu oraz 
+kontraktów zostaną zniwelowane). 
+Na wyniki przyszłych okresów wpływ będą mieć głównie poniższe czynniki: 
+▪ 
+Wysokość premii lądowej (różnicy pomiędzy ceną na lokalnym rynku a ceną w portach dostawy paliwa do kraju) dla oleju 
+napędowego – asortymentu dominującego w strukturze sprzedaży Grupy. Wysokość premii lądowej wyznacza obszar możliwej do 
+zrealizowania marży handlowej pomniejszonej o koszty logistyki (koszty transportu, obsługi przeładunkowej, badania jakości), 
+koszty wynajmu pojemności baz paliw, koszty ubezpieczenia należności (w związku z polityką bezpieczeństwa obrotu przyjętą przez 
+Grupę), a także koszty realizacji obowiązków NCW, 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+17 
+▪ 
+Dynamika i kierunek zmian cen oleju napędowego – duża dynamika wzrostu cen wpływa negatywnie, duża dynamika spadków – 
+pozytywnie, 
+▪ 
+Struktura rynku (contango/backwardation), 
+▪ 
+Sytuacja rynkowa i konkurencyjna po przejęciu spółki Lotos przez PKN Orlen, 
+▪ 
+Wysokość kapitału obrotowego niezbędnego do sfinansowania realizowanych obrotów, która uzależniona jest od poziomu cen 
+paliw na rynkach oraz przedłużenie posiadanych kredytów obrotowych, 
+▪ 
+Sytuacja popytowa i podażowa w Europie, a zwłaszcza w Polsce, szczególnie w kontekście dalszego przebiegu epidemii 
+koronawirusa COVID-19. 
+Gaz LPG 
+W III kwartale 2021 r. Grupa kontynuowała obrót gazem LPG, koncentrując się głównie na sprzedaży hurtowej. 
+W III kwartale 2021 r. mieliśmy do czynienia z wciąż wymagającym otoczeniem zewnętrznym – przede wszystkim utrudniony był dostęp 
+do produktu oraz pojawiały się znaczące utrudnienia logistyczne na Wschodzie. Mimo to udało się wypracować znacznie wyższe r/r 
+wolumeny, przychody i EBITDA. 
+w tysiącach złotych 
+01.07.202130.09.2021 
+01.07.202030.09.2020 
+zmiana % 
+Wolumen sprzedaży [T] 
+52 590 
+42 987 
+22,3% 
+Przychody ogółem (całość od odbiorców zewnętrznych) 
+168 351 
+83 709 
+101,1% 
+EBITDA 
+7 595 
+1 706 
+345,1% 
+EBITDA skorygowana 
+7 067 
+1 706 
+314,1% 
+Zysk/(strata) za okres 
+7 387 
+1 496 
+393,8% 
+W III kwartale 2021 r. Grupa osiągnęła o 22,3% wyższe wolumeny, które wyniosły 52,6 tys. ton. Przychody zamknęły się kwotą 168,4 
+mln zł (wzrost o 101,1% r/r). 
+Wypracowana w III kwartale 2021 r. wartość EBITDA wyniosła 7,6 mln zł (dynamiczny wzrost o 345,1% r/r). Wypracowany zysk za III 
+kwartał 2021r. wyniósł 7,4 mln zł – czyli wzrost o 393,8% r/r. 
+Na wyniki III kwartale 2021 r. w tym segmencie wpływ miały głównie poniższe czynniki: 
+▪ 
+Wyższe r/r oraz wyższe od założeń wolumeny – intensyfikacja importu i wykorzystania alternatywnych kierunków dostaw 
+▪ 
+Bardzo duża konkurencja na rynku 
+▪ 
+Wzrostu udziału sprzedaży hurtowej w strukturze sprzedaży 
+▪ 
+Problemy z dostępnością towaru i wyzwania logistyczne na Wschodzie – wykorzystanie drogi morskiej i wagonowej do 
+sprowadzania produktu z Zachodu 
+W kolejnych okresach największy wpływ na działalność Grupy w obszarze gazu LPG będzie miała sytuacja popytowo-podażowa na 
+rynku (w tym kwestia sankcji nałożonych na Białoruś), a także rozwój sytuacji związanej z epidemią koronawirusa COVID-19. 
+OBRÓT PALIWAMI GAZOWYMI 
+Grupa prowadzi działalność w zakresie obrotu, sprzedaży i dystrybucji gazu ziemnego z wykorzystaniem własnej infrastruktury (sieć 
+gazowa, stacje regazyfikacji LNG), zewnętrznej infrastruktury, na Towarowej Giełdzie Energii oraz z zagranicą. 
+w tysiącach złotych 
+01.07.202130.09.2021 
+01.07.202030.09.2020 
+zmiana % 
+Wolumen sprzedaży [GWh] 
+340 
+68 
+396,9% 
+Przychody od odbiorców zewnętrznych 
+90 522 
+6 551 
+1 281,8% 
+Przychody od odbiorców z Grupy 
+5 531 
+2 313 
+139,1% 
+EBITDA 
+(936) 
+(309) 
+-202,3% 
+EBITDA skorygowana 
+(257) 
+675 
+-138,1% 
+Zysk/(strata) za okres 
+(830) 
+(1 067) 
+22,2% 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+18 
+W segmencie gazu ziemnego w III kwartale 2021 r. Grupa sprzedała 340 GWh gazu ziemnego. Przychody od odbiorców zewnętrznych 
+tego segmentu wyniosły 90,5 mln zł (wzrost o 1 281,8% r/r). EBITDA ukształtowała się na poziomie – 937 tys. zł , przy czym EBITDA 
+skorygowana segmentu w analizowanym okresie osiągnęła poziom -257 tys. zł tj. spadek r/r o 138,1%. 
+Na wyniki w III kwartale 2021 r. w tym segmencie wpływ miały głównie poniższe czynniki: 
+▪ 
+wzrost cen gazu: ograniczanie działalności na rynku hurtowym – duży wzrost wartości depozytów (UNIMOT S.A) oraz niższy 
+popyt wśród klientów mających różne źródła zaopatrzenia w energię (spółki gazowe) 
+▪ 
+ujemny wynik marż na sprzedaży (spółki gazowe) w związku z niemożliwością bieżącego dostosowania cen sprzedaży 
+(taryfy) do szybko rosnących cen zakupu gazu 
+▪ 
+niskie spready lato-zima na rynku 
+▪ 
+realizacja negatywnej marży ze sprzedaży wytłoczonego gazu przed zakładanym terminem (w związku z obecną sytuacją 
+rynkową 
+▪ 
+intensywna działalność na rynku spot (niwelująca częściowo wpływ czynników negatywnych) 
+Na wyniki przyszłych okresów wpływ będą mieć głównie ceny rynkowe gazu ziemnego, poziom nowych taryf w spółkach UNIMOT 
+System i Blue LNG, pozyskiwanie nowych odbiorców oraz sytuacja na rynku hurtowym. 
+ENERGIA ELEKTRYCZNA 
+Grupa kontynuuje rozwój projektu sprzedaży energii elektrycznej, jako elementu realizowania strategii tworzenia multienergetycznej 
+oferty sprzedaży. Segment ten obejmuje hurtowy handel energią za pośrednictwem platform giełdowych i brokerskich spółki Tradea 
+Sp. z o.o. oraz sprzedaż przez UNIMOT Energia i Gaz Sp. z o.o. energii do klientów końcowych z wykorzystaniem zewnętrznej 
+infrastruktury. 
+w tysiącach złotych 
+01.07.202130.09.2021 
+01.07.202030.09.2020 
+zmiana % 
+Wolumen sprzedaży [GWh] 
+729 
+718 
+1,6% 
+Przychody od odbiorców zewnętrznych* 
+56 071 
+32 400 
+73,1% 
+Przychody od odbiorców z Grupy 
+9 999 
+10 560 
+-5,5% 
+EBITDA 
+(2 825) 
+(1 521) 
+-85,7% 
+Zysk/(strata) za okres 
+(3 745) 
+(1 032) 
+-262,9% 
+*przychody uwzględniają działalność tradingową dotyczącą energii elektrycznej. 
+ W segmencie energii elektrycznej w III kwartale 2021 r. wolumen sprzedaży osiągnął poziom 729 GWh, czyli o 1,6% więcej niż w 
+analogicznym okresie roku poprzedniego. 
+Przychody od odbiorców zewnętrznych tego segmentu wyniosły 56,1 mln zł (wzrost o 73,1% r/r), EBITDA ukształtowała się na poziomie 
+– 2,8 mln zł a segment odnotował ujemny wynik za III kwartał na poziomie -3,7 mln zł.. 
+Na wyniki III kwartale 2021 r. w tym segmencie wpływ miały głównie poniższe czynniki: 
+▪ 
+Istotny dalszy wzrost cen energii elektrycznej na rynku, spowodowany przede wszystkim wzrostem cen uprawnień EUA do 
+emisji CO2, a także wzrostem cen węgla i gazu. 
+▪ 
+Niższe r/r wolumeny sprzedaży hurtowej w III kwartale 2021 r. - ze względu na zwiększone ryzyka rynkowe i regulacyjne, 
+takie jak duży wzrost cen energii oraz zmniejszenie płynności na rynku giełdowym, podyktowane przede wszystkim 
+projektami rządowymi: zniesienie obligacyjnego handlu giełdowego oraz utworzenia Narodowej Agencji Bezpieczeństwa 
+Energetycznego (NABE). 
+▪ 
+Przyspieszona realizacja zysków z portfela klientów energetyczno-gazowych – sprzedaż portfela klientów przez UNIMOT 
+Energia i Gaz. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+19 
+FOTOWOLTAIKA 
+Przychody segmentu obejmują sprzedaż instalacji fotowoltaicznych pod marką AVIA Solar na rynku polskim. Segment został 
+uruchomiony pod koniec II kwartału 2020 r. 
+w tysiącach złotych 
+01.07.202130.09.2021 
+01.07.202030.09.2020 
+zmiana % 
+Wolumen sprzedaży [KWp] 
+627 
+919 
+-31,8% 
+Przychody od odbiorców zewnętrznych 
+4 672 
+1 202 
+288,7% 
+Przychody od odbiorców z Grupy 
+- 
+- 
+n/d 
+EBITDA 
+(799) 
+(573) 
+-39,4% 
+Zysk/strata za okres 
+(871) 
+(642) 
+-35,7% 
+Od momentu uruchomienia segmentu w maju 2020 r. podpisane zostały kolejne umowy z klientami indywidualnymi i biznesowymi. 
+Przychody do odbiorców zewnętrznych w III kwartale 2021 osiągnęły poziom 4,7 mln zł, co stanowi wzrost o 288,7% w stosunku do III 
+kwartału 2020 roku. 
+Negatywny wynik segmentu w III kwartale 2021 r. związany był przede wszystkim z: 
+▪ 
+kosztami związanymi z rozwojem oraz inwestycjami w nowe kanały, projekty i produkty 
+▪ 
+rezerwą na potencjalne różnice inwentaryzacyjne po przeniesieniu zapasów paneli fotowoltaicznych 
+▪ 
+jednorazowym ujęciem kosztów marketingu poniesionych w 2020 r. o łącznej wartości 1,3 mln zł 
+W kolejnych kwartałach Grupa zamierza działać w bardziej efektywny sposób w obliczu konkurencji rynkowej i presji cenowej, a także 
+koncentrować się na działaniach B2B. Ambitne cele przyświecają przede wszystkim rozwojowi marki AVIA Solar – trwa plan 
+reorganizacji biznesu, którego realizacja pozwoli na osiągnięcie w najbliższej przyszłości ustalonych założeń – w pierwszej kolejności 
+dodatniego wyniku EBITDA. 
+DZIAŁALNOŚĆ POZOSTAŁA 
+STACJE PALIW 
+Przychody segmentu obejmują przychody ze sprzedaży paliw na stacjach własnych Emitenta oraz opłaty inwestycyjne, stałe i inne 
+opłaty uzyskiwane od franczyzowych stacji AVIA. EBITDA obejmuje dodatkowo stałą opłatę za każdy sprzedany litr paliwa na stacjach 
+franczyzowych (przeniesioną z segmentu ON i BIO – hurtowa sprzedaż paliw). 
+w tysiącach złotych 
+01.07.202130.09.2021 
+01.07.202030.09.2020 
+zmiana % 
+Wolumen sprzedaży [mln litrów] 
+50 
+30 
+63,9% 
+Przychody od odbiorców zewnętrznych 
+68 763 
+21 931 
+213,5% 
+Przychody od odbiorców z Grupy 
+- 
+7 
+n/d 
+EBITDA 
+1 413 
+(829) 
+n/d 
+Zysk/(strata) za okres 
+292 
+(1 190) 
+n/d 
+ 
+Dzięki rozwojowi sieci Grupa notuje sukcesywne wzrosty sprzedaży paliw na stacjach i w III kwartale 2021 r., zanotowała rekordowe 
+wyniki sprzedanego wolumenu. Na działających w ramach Grupy stacjach sieci AVIA sprzedano w III kwartale 2021 r. 50 mln litrów 
+paliw, co stanowi wzrost o 63,9% r/r. 
+Przychody w tym segmencie wzrosły o +213,5% r/r i w III kwartale 2021 r. wyniosły 68,8 mln zł. EBITDA ukształtowała się na poziomie 
+1,4 mln zł, a zysk netto 0,3 mln zł. To kolejny kwartał Grupy UNIMOT, w którym osiągnęła dodatni wynik EBITDA w segmencie Stacji 
+Paliw. 
+Na wyniki III kwartale 2021 r. w tym segmencie wpływ miały głównie poniższe czynniki: 
+▪ 
+Wyższa r/r sprzedaż – wzrost sprzedaży był efektem większej liczby stacji niż w analogicznym okresie roku poprzedniego, ale 
+także efektem wzrostu organicznego na już istniejących stacjach (szczególnie stacjach własnych) 
+▪ 
+Wyraźnie wyższe ceny paliw r/r – niespotykane od kilku lat poziomy cen oleju napędowego, benzyny i LPG 
+▪ 
+Intensywne działania marketingowo-promocyjne 
+▪ 
+Rozwój sprzedaży pozapaliwowej. 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+20 
+INNE PRODUKTY ROPOPOCHODNE 
+Segment obejmuje sprzedaż produktów asfaltowych oraz olejów silnikowych i smarów pod marką AVIA. Biznesy pojawiły się w Grupie 
+UNIMOT w II połowie 2019 r. 
+w tysiącach złotych 
+01.07.202130.09.2021 
+01.07.202030.09.2020 
+zmiana % 
+Wolumen sprzedaży [T] bitumenów i olejów 
+19 602 
+15 082 
+30,0% 
+Wolumen sprzedaży [tys. bbl] ropy naftowej 
+- 
+564 
+n/d 
+Przychody od odbiorców zewnętrznych 
+33 185 
+223 465 
+-85,1% 
+Przychody od odbiorców z Grupy 
+- 
+87 712 
+n/d 
+EBITDA 
+(862) 
+366 
+n/d 
+Zysk/(strata) za okres 
+(910) 
+377 
+n/d 
+W III kwartale 2021 r. w ramach segmentu sprzedano łącznie 19,6 tys. ton produktów. Przychody wyniosły 33,2 mln zł, strata za okres 
+-910 tys. zł a EBITDA -863 tys. zł. 
+Na wyniki III kwartał 2021 r. w tym segmencie wpływ miały głównie poniższe czynniki: 
+▪ 
+Wyższe r/r wolumeny sprzedaży produktów asfaltowych oraz olejów i nieznacznie wyższe r/r marze jednostkowe 
+produktów asfaltowych 
+▪ 
+Niższe r/r wolumeny i EBITDA olejów - w związku z powrotem epidemii COVID-19 oraz klęskami żywiołowymi w prowincjach, 
+w których Grupa rozwija sprzedaż 
+▪ 
+Brak handlu ropą naftową 
+3.5. 
+STATUS REALIZACJI STRATEGII GRUPY W TYM REALIZACJI PROGNOZ FINASOWYCH 
+W czerwcu 2018 roku Spółka przygotowała i ogłosiła Strategię na lata 2018-2023. Poniżej Emitent przedstawia główne cele strategiczne 
+wraz z komentarzem dotyczącym ich realizacji: 
+1. Osiągnięcie 75 mln zł EBITDA w 2023 r. 
+Grupa UNIMOT dąży do corocznego wzrostu EBITDA podejmując szereg inicjatyw strategicznych, rozwijając zarówno biznes oleju 
+napędowego, jak i gazu LPG, gazu ziemnego oraz energii elektrycznej, a także produktów asfaltowych, olejów oraz fotowoltaiki. 
+Docelowo, w wyniku EBITDA wyraźnie kontrybuowała będzie także systematycznie rozszerzana sieć stacji paliw AVIA. 
+Elementem opublikowanej Strategii były prognozy skonsolidowanej EBITDA skorygowanej na lata 2018-2023. Spółka zakładała 
+następujące poziomy: 2018 = 12 mln zł (EBITDA księgowa), 2019 = 34,0 mln zł, 2020 = 44,2 mln zł, 2021 = 54,3 mln zł, 2022 = 64,9 mln 
+zł, 2023 = 74,8 mln zł. 
+Za rok 2018 Grupa UNIMOT osiągnęła skonsolidowany wynik (księgowy) EBITDA w wysokości 13,5 mln zł, tj. przekraczający 
+prognozowaną wartość 12 mln zł o 12,6%. W trakcie 2019 roku Spółka kilkukrotnie aktualizowała prognozę skonsolidowanej EBITDA 
+skorygowanej na 2019 rok, a osiągnięty wynik ukształtował się na poziomie 63,7 mln zł. 
+W dniu 11 grudnia 2019 r. Spółka przekazała raportem bieżącym nr 32/2019 informację o aktualizacji prognozy skonsolidowanej 
+EBITDA skorygowanej na 2020 r. do poziomu 62,3 mln zł, która została następnie podniesiona do 80,0 mln zł. (RB 19/2020). Osiągnięty 
+wynik ukształtował się na poziomie 87,2 mln zł. 
+Pod koniec 2019 r. spółka zmieniła dotychczasową politykę informacyjną w zakresie publikacji prognoz finansowych na kolejne lata. 
+Zarząd Spółki podjął decyzję o odwołaniu prognozy skonsolidowanej EBITDA Skorygowanej na kolejne lata (2021-2023) i publikowaniu 
+ich każdorazowo, pod koniec roku poprzedzającego. 
+Aktualna prognoza EBITDA skorygowana na 2021 r. wynosi 75,3 mln zł. 
+2. Wzrost efektywności biznesu mierzony wskaźnikiem ROCE - liczony jako: EBITDA /(kapitał własny + zobowiązania 
+długoterminowe) – w 2023 r. ROCE = 15% 
+Grupa UNIMOT systematycznie poprawia efektywność wszystkich biznesów docelowo chcąc, zgodnie ze Strategią, osiągnąć wskaźnik 
+ROCE na poziomie 15%. W tym celu podejmowanych jest wiele działań – zarówno od strony przychodowej, jak i kosztowej. Na koniec 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+21 
+września 2021 roku wskaźnik ROCE (EBITDA skorygowana/ (kapitał własny + zobowiązania długoterminowe) wynosił 25,3%, czyli 
+wyraźnie więcej niż zakładany na 2023 rok poziom 15%. 
+3. Dywersyfikacja działalności – generowanie w 2023 r. 70% EBITDA z intensywnie rozwijanych biznesów poza olejem napędowym 
+Grupa UNIMOT rozwija i zwiększa skalę wszystkich prowadzonych biznesów, także w biznesach poza olejem napędowym i biopaliwami, 
+które dotychczas były podstawową działalnością Emitenta. Realizuje to m.in. poprzez: 
+▪ 
+wzrost liczby stacji w sieci AVIA do 200 w 2023 r. z założeniem koncentracji na bardziej prestiżowych lokalizacjach oraz 
+budowę nowego źródła zysków w postaci produktów pozapaliwowych sprzedawanych na stacjach AVIA, 
+▪ 
+rozwój atrakcyjnych obszarów biznesowych w zakresie energii elektrycznej i gazu ziemnego w odpowiedzi na obecne i 
+przyszłe trendy rynkowe. 
+W sierpniu 2019 r. Grupa UNIMOT zdecydowała się wejść w nowy segment działalności i rozpocząć import oraz sprzedaż w Polsce 
+produktów asfaltowych – uzupełniło to ofertę Grupy UNIMOT w obszarze produktów ropopochodnych. Produkty asfaltowe są 
+sprzedawane na polskim rynku pod marką AVIA Bitumen. Od 2019 roku Grupa UNIMOT rozwija także sprzedaż olejów w Chinach i na 
+Ukrainie, zakładając na kolejne lata wzrost sprzedaży oraz wejście na nowe rynki w Europie i Azji. 
+W II kwartale 2020 r. Grupa rozpoczęła sprzedaż, montaż i serwis paneli fotowoltaicznych dla odbiorców biznesowych i indywidualnych 
+pod marką AVIA Solar. W grudniu 2020 r. Grupa weszła w nowy obszar biznesowy w zakresie OZE – farmy fotowoltaiczne, a w lipcu 
+2021 r. uruchomiła fabrykę paneli fotowoltaicznych w halach spółki PZL Sędziszów. 
+W III kwartale 2021 r. spółka postawiła także pierwsze kroki w kierunku obecności jako konsultant na rynku technologii małych 
+reaktorów modułowych (ang. small modular reactor – SMR) podpisując porozumienie o współpracy z amerykańskimi firmami NuScale 
+Power oraz Grupa Getka. 
+Udział w rynku odnawialnych źródeł energii ma w przyszłości stanowić istotną wartość dodaną dla Grupy i przyczynić się do dalszej 
+dywersyfikacji biznesu. 
+ 
+4. Rozwój sieci AVIA w Polsce – 200 stacji paliw w sieci do końca 2023 r. 
+Jednym z ważniejszych elementów Strategii na lata 2018-2023 jest dynamiczny rozwój sieci AVIA. Celem Emitenta jest posiadanie w 
+sieci AVIA 200 stacji w 2023 r. w Polsce. W celu osiągnięcia tego założenia Spółka m.in. zwiększa atrakcyjność oferty franczyzowej m.in. 
+poprzez: wprowadzenie i rozwój karty flotowej, zwiększenie elastyczności warunków współpracy w zależności od potencjału stacji, 
+stworzenie kilku stacji flagowych oraz rozbudowanie oferty o dodatkowe produkty i usługi. 
+W 2020 r. Spółka wprowadziła nowy koncept gastronomiczny Eat&Go. Najnowsze rozwiązania w ramach konceptu wprowadzane na 
+stacjach sieci AVIA to wysmakowane połączenie minimalizmu, modnej kolorystyki, trendów rynkowych oraz ergonomii nowoczesnego 
+sklepu typu convenience: wygodna strefa relaksu z regularnymi gniazdkami i wejściami USB do ładowania telefonów, nowoczesne 
+oświetlenie z designerskimi lampami wiszącymi, właściwe rozplanowanie dróg komunikacji oraz zmodernizowane toalety. 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+22 
+We wnętrzach dominuje jasna kolorystyka — lekkie połączenie beżów i szarości z elementami drewna oraz przykuwającymi wzrok 
+akcentami w najpopularniejszym w ostatnim czasie kolorze musztardowym. 
+W tym samym roku Spółka rozpoczęła realizację kampanii marketingowej „Wielki plus dla AVIA za…”. Kampania łączy wszelkie 
+aktywności marketingowe podejmowane przez zespół AVIA. Przede wszystkim „plus” przedstawiony w postaci krzyża szwajcarskiego 
+ma nawiązywać do korzeni marki – odniesienia do Szwajcarii i stylu znanego jako Swiss Design odnaleźć można w całej komunikacji 
+wizerunkowej, a same kreacje przygotowane są w oparciu o zorganizowany styl, asymetryczne kształty, wyraźne linie, minimalistyczne 
+blokowe układy oraz charakterystyczne dla Szwajcarii biało-czerwone barwy. 
+W 2021 r. Grupa kontynuuje wdrażanie autorskiego konceptu Eat&Go. Wdrażanie nowego konceptu gastronomicznego wpływa na 
+sukcesywny wzrost obrotów w tym segmencie. Od stycznia do września 2021 r. Grupa odnotowała wzrost obrotu netto w sklepach i z 
+oferty gastronomicznej o ponad 65% proc. W czerwcu 2021 r. Grupa UNIMOT wystartowała także z nową odsłoną kampanii 
+wizerunkowej pod hasłem „Wielki plus na Twojej drodze”. Celem kampanii jest pokazanie, że wybór stacji paliw AVIA to wielki plus dla 
+kierowców. 
+Na koniec III kwartału 2021 r. sieć stacji AVIA liczyła 76 stacji, z 
+czego 7 zostało przyłączonych do sieci w III kwartale 2021 r. 
+Grupa 
+prowadzi 
+negocjacje 
+i 
+rozmowy 
+w 
+kolejnych 
+lokalizacjach w Polsce. 
+Poza klasycznym modelem franczyzowym Grupa analizuje 
+obiekty zlokalizowane w Polsce pod kątem ich ewentualnego 
+nabycia lub dzierżawy. Pod koniec III kwartału około 30% stacji 
+funkcjonowało w modelu CODO, czyli były zarządzane 
+bezpośrednio przez Grupę UNIMOT. 
+ 
+Dzięki rozwojowi sieci Grupa notuje sukcesywne wzrosty sprzedaży paliw na stacjach i we wrześniu 2021 r. zanotowała rekordowe 
+wyniki sprzedanego wolumenu. Na działających w ramach Grupy UNIMOT stacjach sieci AVIA sprzedano we wrześniu 2021 r. niemal 
+17 mln litrów paliwa, czyli ponad 50% więcej niż w analogicznym okresie rok temu. 
+Grupa w 2019 r. rozpoczęła także rozwój sieci stacji AVIA na Ukrainie. Emitent wprowadza markę jako franczyzę na stacjach paliw, 
+zainicjowano także rozmowy na temat możliwości dostarczania na terenie Ukrainy paliw do stacji AVIA i innych partnerów 
+biznesowych. Doświadczenia pokazują, że marka AVIA została pozytywnie przyjęta przez rynek oraz, że daje wymierne korzyści 
+biznesowe firmom prowadzącym stacje paliw w tym kraju. 
+Na koniec III kwartału 2021 r. sieć AVIA na Ukrainie liczyła łącznie 13 stacji. Do 2022 r. Grupa podejmie decyzje odnośnie silniejszej 
+obecności w tym kraju. 
+5. Coroczna wypłata dywidendy w wysokości min. 30% zysku netto UNIMOT S.A. 
+Zgodnie z obowiązującą polityką dywidendową, w przypadku osiągnięcia w danym roku obrotowym zysku netto, Zarząd będzie 
+rekomendował Walnemu Zgromadzeniu Spółki corocznie wypłatę dywidendy w wysokości minimum 30% z wypracowanego w danym 
+roku obrotowym jednostkowego zysku netto. 
+Dywidenda z zysku za 2017 rok została wypłacona 19 września 2018 roku. Zwyczajne Walne Zgromadzenie Spółki zadecydowało o 
+wypłacie 13,9 mln zł dywidendy (1,70 zł na akcję), co stanowiło 55,1% jednostkowego zysku netto. 
+W 2018 roku jednostkowy wynik netto UNIMOT S.A. był ujemny. 
+Dywidenda z zysku za 2019 r. została wypłacona 9 lipca 2020 r. Zwyczajne Walne Zgromadzenie UNIMOT S.A zdecydowało o wypłacie 
+16,1 mln zł, czyli 1,97 zł na akcję, co stanowiło 30% jednostkowego zysku netto. 
+Dywidenda z zysku za 2020 r. została wypłacona 25 września 2021 r. Zwyczajne Walne Zgromadzenie UNIMOT S.A zdecydowało o 
+wypłacie 16,1 mln zł, czyli 1,97 zł na akcję, co stanowiło 50% jednostkowego zysku netto. 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+23 
+3.6. 
+AKCJE UNIMOT S.A. NA GPW W WARSZAWIE 
+Na Giełdzie Papierów Wartościowych w Warszawie w III kwartale 2021 r. indeks szerokiego rynku WIG wzrósł o 6,47%. Podobnie 
+zachowały się indeksy dużych spółek WIG20 i WIG30 zyskując odpowiednio: 4,14% i 5,45%. W odróżnieniu od poprzednich okresów 
+trochę słabiej zachował się indeks mniejszych spółek sWIG80 zyskując 2,55%. Lepiej od powyższych indeksów zachował się WIG-paliwa 
+zyskując 8,57%. Najwięcej zyskał WIG-telekomunikacja: 21,45%, a najwięcej stracił WIG-chemia: 12,48%. 
+Na tle głównych indeksów oraz indeksu sektorowego WIG-paliwa kurs akcji UNIMOT S.A. zachował się słabiej zyskując 1,28% w III 
+kwartale 2021 r. W tym czasie kurs maksymalny wyniósł 51,60 zł; kurs minimalny 40,50 zł. W III kwartale 2021 r. wartość obrotów 
+wyniosła 31,57 mln zł, a średni wolumen na sesję to 10 191 szt. Kapitalizacja UNIMOT S.A. na koniec okresu wyniosła 389,40 mln zł. 
+Wskaźniki giełdowe dla akcji UNIMOT S.A. na koniec III kwartału 2021 r.: 
+ 
+• 
+C/Z: 5,3 
+• 
+C/WK: 1,31 
+• 
+stopa dywidendy: 4,1%. 
+Akcje UNIMOT S.A. wchodzą w skład indeksów: WIG, WIG-PALIWA, sWIG80, sWIG80TR, WIG-Poland, InvestorMS, CEEplus. 
+UNIMOT 
+S.A. 
+jest 
+regularnie 
+wyceniany 
+przez 
+analityków 
+Domu 
+Maklerskiego 
+Banku 
+Ochrony 
+Środowiska 
+S.A. 
+W 2021 r. DM BOŚ wydał trzy rekomendacje: 
+ 
+Data wydania 
+Rekomendacja 
+fundamentalna 
+Rekomendacja 
+relatywna 
+Wycena w horyzoncie 
+12 miesięcy 
+Kurs z dnia 
+wydania 
+25-08 -2021 
+Kupuj 
+Przeważaj 
+67,00 zł 
+48,05 zł 
+27-04 -2021 
+Kupuj 
+Przeważaj 
+65,00 zł 
+47,65 zł 
+18-01-2021 
+Kupuj 
+Przeważaj 
+49,00 zł 
+38,00 zł 
+ 
+Kurs akcji UNIMOT w porównaniu do indeksów sWIG80 oraz WIG-Paliwa 
+ 
+ 
+źródło danych: gpw.pl, stockwatch.pl 
+* na różnice w podanych wartościach, a wartościami publikowanymi na niektórych portalach internetowych może mieć wpływ wartość wypłaconej 
+dywidendy. 
+86
+91
+96
+101
+106
+111
+Wolumen UNIMOT
+UNIMOT
+sWIG80
+WIG-PALIWA
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+24 
+ 
+ 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+25 
+4. PODSTAWOWE INFORMACJE O GRUPIE KAPITAŁOWEJ UNIMOT 
+4.1. 
+DANE JEDNOSTKI DOMINUJĄCEJ 
+UNIMOT Spółka Akcyjna (“UNIMOT”, “Spółka”, “Jednostka Dominująca”) z siedzibą w Zawadzkiem, przy ul. Świerklańskiej 2A, jest 
+Jednostką 
+Dominującą 
+w 
+Grupie 
+Kapitałowej 
+UNIMOT 
+("Grupa 
+Kapitałowa", 
+"Grupa"). 
+Spółka 
+została 
+wpisana 
+29 marca 2011 r. do Rejestru Przedsiębiorców Sądu Rejonowego w Opolu VIII Wydział Gospodarczy Krajowego Rejestru Sądowego pod 
+numerem KRS: 0000382244. 
+Akcje UNIMOT S.A. od 7 marca 2017 r. notowane są na Giełdzie Papierów Wartościowych. 
+Podstawowym przedmiotem działalności Grupy Kapitałowej jest sprzedaż detaliczna i hurtowa paliw gazowych, ciekłych, produktów 
+ropopochodnych, energii elektrycznej oraz rozwój i budowa sieci dystrybucji gazu ziemnego. 
+Na dzień sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego, skład organów 
+zarządczych i nadzorujących Jednostki Dominującej był następujący: 
+Skład Zarządu: 
+▪ 
+Adam Sikorski – Prezes Zarządu 
+▪ 
+Robert Brzozowski – Wiceprezes Zarządu 
+▪ 
+Filip Kuropatwa – Wiceprezes Zarządu 
+Skład Rady Nadzorczej: 
+▪ 
+Andreas Golombek – Przewodniczący Rady Nadzorczej 
+▪ 
+Bogusław Satława – Wiceprzewodniczący Rady Nadzorczej 
+▪ 
+Piotr Cieślak – Członek Rady Nadzorczej 
+▪ 
+Isaac Querub – Członek Rady Nadzorczej 
+▪ 
+Piotr Prusakiewicz – Członek Rady Nadzorczej 
+▪ 
+Ryszard Budzik – Członek Rady Nadzorczej 
+▪ 
+Lidia Banach-Hoheker – Członek Rady Nadzorczej 
+4.2. 
+SKŁAD GRUPY KAPITAŁOWEJ UNIMOT 
+Na dzień 30 września 2021 r. Jednostka Dominująca UNIMOT S.A. posiadała bezpośrednio i pośrednio udziały 
+w następujących spółkach zależnych: 
+Nazwa jednostki zależnej 
+Siedziba 
+Zakres podstawowej działalności jednostki 
+Posiadane 
+udziały 
+i prawa głosu 
+Data uzyskania 
+kontroli 
+UNIMOT System Sp. z o.o. 
+Polska 
+dystrybucja paliw gazowych w systemie sieciowym 
+100,00% 
+20.01.2014 
+Blue LNG Sp. z o.o. 
+Polska 
+dystrybucja paliw gazowych w systemie sieciowym 
+100,00% 
+04.07.2014 
+UNIMOT Paliwa Sp. z o.o. 
+Polska 
+dystrybucja paliw ciekłych 
+100,00% 
+16.11.2015 
+UNIMOT Energia i Gaz Sp. z o.o. 
+Polska 
+dystrybucja energii elektrycznej i paliw ciekłych 
+100,00% 
+30.12.2015 
+Tradea Sp. z o.o. 
+Polska 
+dystrybucja energii elektrycznej 
+100,00% 
+23.05.2016 
+UNIMOT Ukraine LLC 
+Ukraina 
+dystrybucja paliw ciekłych 
+100,00% 
+19.04.2018 
+UNIMOT Asia LLC 
+Chiny 
+dystrybucja paliw ciekłych 
+100,00% 
+04.09.2018 
+UNIMOT Energy LLC 
+Ukraina 
+dystrybucja energii elektrycznej 
+100,00% 
+02.04.2019 
+3 Seas Energy LLC 
+USA 
+dystrybucja ropy naftowej 
+75,00% 
+21.05.2020 
+Naturalna Energia Sp. z o.o. 
+Polska 
+wytwarzanie energii 
+80,00% 
+14.12.2020 
+Nasze Czyste Powietrze Sp. z o.o. 
+Polska 
+wytwarzanie energii 
+80,00% 
+14.12.2020 
+PV Energy Sp. z o.o. 
+Polska 
+wytwarzanie energii 
+80,00% 
+14.12.2020 
+Operator Klastra Energii Sp. z o.o. 
+Polska 
+fotowoltaika 
+80,00% 
+15.02.2021 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+26 
+ 
+W III kwartale 2021 r. nie wystąpiły zmiany w strukturze organizacyjnej Grupy Kapitałowej UNIMOT. 
+Zdarzenia po dniu bilansowym: 
+• 
+W dniu 8.10.2021 Unimot S.A. zakupiła ogół praw i obowiązków w Spółce Tradea Sp. z o.o Sp.K. w wysokości 1 000 zł. Unimot 
+S.A. pełni w tej Spółce funkcję komandytariusza z prawem do 99,99 % zysków tej Spółki. 
+• 
+W dnia 20.10.2021 r. w skład Grupy Kapitałowej weszła nowa spółka SPV, tj. UNIMOT Investments Sp. z o.o. z siedzibą w 
+Warszawie, w której Jednostka Dominująca posiada 100% udziałów, 
+• 
+W dnia 20.10.2021 r. w skład Grupy Kapitałowej weszła nowa spółka SPV, tj. UNIMOT B1 Sp. z o.o. z siedzibą w Warszawie, 
+w której Jednostka Dominująca posiada pośrednio poprzez UNIMOT Investments Sp. z o.o. 100% udziałów, 
+• 
+W dnia 20.10.2021 r. w skład Grupy Kapitałowej weszła nowa spółka SPV, tj. UNIMOT T1 Sp. z o.o. z siedzibą w Warszawie, 
+w której Jednostka Dominująca posiada pośrednio poprzez UNIMOT Investments Sp. z o.o. 100% udziałów. 
+Wskazane wyżej spółki nie prowadzą aktualnie działalności operacyjnej i nie podlegają konsolidacji w III kwartale 2021 roku. Nowe 
+SPV mogą posłużyć do prowadzenia rozwojowych projektów inwestycyjnych Jednostki Dominującej. 
+Emitent nie posiada zagranicznych i krajowych inwestycji w papiery wartościowe, wartości niematerialne i prawne oraz 
+nieruchomości. 
+4.3. 
+STRUKTURA AKCJONARIATU EMITENTA 
+Akcjonariusze posiadający bezpośrednio lub pośrednio poprzez podmioty zależne co najmniej 5% ogólnej liczby głosów na Walnym 
+Zgromadzeniu Emitenta na dzień 30.09.2021 r. i na dzień przekazania niniejszego raportu okresowego: 
+Akcjonariusz 
+ Liczba akcji 
+ Udział w kapitale % 
+ Liczba głosów 
+ Udział w głosach % 
+UNIMOT Express Sp. z o.o. 
+ 3 593 625 
+43,84% 
+ 3 593 625 
+42,04% 
+Zemadon Limited 
+ 1 616 661 
+19,72% 
+ 1 966 661 
+23,01% 
+Pozostali 
+ 2 987 532 
+36,44% 
+ 2 987 532 
+34,95% 
+ Razem 
+ 8 197 818 
+100,00% 
+ 8 547 818 
+100,00% 
+4.4. 
+ZESTAWIENIE STANU POSIADANIA AKCJI EMITENTA PRZEZ OSOBY ZARZĄDZAJĄCE I NADZORUJĄCE 
+Pan Adam Antoni Sikorski – Prezes Zarządu Emitenta, posiada pośrednio 100% udziałów w Zemadon Ltd. na Cyprze poprzez „Family 
+First Foundation” z siedzibą w Vaduz w Lichtensteinie, którą kontroluje i której beneficjentami jest rodzina Pana Adama Antoniego 
+Sikorskiego. 
+Spółka Zemadon Ltd. z siedzibą w Nikozji na Cyprze jest znaczącym akcjonariuszem Emitenta, która na dzień 30.09.2021 r. 
+i na dzień publikacji raportu okresowego posiada 19,72% w kapitale zakładowym Emitenta oraz 23,01% w głosach na Walnym 
+Zgromadzeniu Emitenta. 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+27 
+Spółka Zemadon Ltd. z siedzibą w Nikozji na Cyprze jest również udziałowcem w UNIMOT Express Sp. z o.o. (głównym akcjonariuszem 
+Emitenta), w której posiada 49,75% udziału w kapitale zakładowym i głosach na dzień 30.09.2021 r. i na dzień publikacji raportu 
+okresowego. Drugim wspólnikiem UNIMOT Express sp. z o.o. jest Pan Adam Władysław Sikorski (bratanek Pana Adama Antoniego 
+Sikorskiego) posiadający 49,75% w udziale i głosach na zgromadzeniu wspólników na dzień 30.09.2021 r. i na dzień publikacji raportu 
+okresowego. Pozostały mniejszościowy udział, stanowiący 0,5% w kapitale zakładowym i głosach w UNIMOT Express Sp. z o.o. na dzień 
+30.09.2021 r. i na dzień publikacji raportu okresowego, posiada Pani Magdalena Sikorska żona Adama Antoniego Sikorskiego – Prezesa 
+Zarządu. 
+Na dzień 30.09.2021 r. i na dzień publikacji raportu okresowego UNIMOT Express Sp. z o.o. posiadał 43,84% w kapitale zakładowym i 
+42,04% w głosach na Walnym Zgromadzeniu UNIMOT S.A. 
+Od dnia 5.12.2016 r. małżonkowie Adam Antoni Sikorski i Magdalena Sikorska, z uwagi na łączące ich ustne porozumienie co do 
+prowadzenia wspólnej polityki wobec UNIMOT Express sp. z o.o. oraz UNIMOT S.A., pośrednio poprzez UNIMOT Express 
+Sp. z o.o. oraz Zemadon Ltd. kontrolowali łącznie 63,56% kapitału zakładowego oraz 65,05% głosów na Walnym Zgromadzeniu 
+UNIMOT S.A. 
+Jednostką powiązaną z Emitentem, ze względu na podleganie wspólnej kontroli przez UNIMOT Express sp. z o.o. jest UNIMOT 
+-Truck Sp. z o.o. z siedzibą w Warszawie, w której UNIMOT Express sp. z o.o. posiada 52,02% udziału w kapitale zakładowym oraz 
+Ammerviel Ltd z siedzibą w Nikozji na Cyprze, w której UNIMOT Express sp. z o. o. posiada 100% udziałów. 
+Spółką powiązaną z Emitentem jest również PZL Sędziszów S.A. z siedzibą w Sędziszowie Małopolskim, w której Pan Adam Antoni 
+Sikorski posiada 48,78%, a UNIMOT Express sp. z o.o. posiada 48,78% udziału w kapitale zakładowym. 
+Jednostką powiązaną z Emitentem, ze względu na podleganie wspólnej kontroli przez Pana Adama Antoniego Sikorskiego (pośrednio 
+przez Zemadon Ltd.), jest U.C. Energy Ltd. z siedzibą na Cyprze. 
+Pan Robert Brzozowski – Wiceprezes Zarządu Emitenta na dzień 30.09.2021 r. posiadał 72 860 sztuk akcji Emitenta dających prawo do 
+72 860 głosów na Walnym Zgromadzeniu, których udział w kapitale zakładowym wynosił 0,89%, a udział w ogólnej liczbie głosów na 
+Walnym Zgromadzeniu stanowił 0,85%. Na dzień przekazania raportu Pan Robert Brzozowski posiada 72 860 sztuk akcji Emitenta 
+dających prawo do 72 860 głosów na Walnym Zgromadzeniu, których udział w kapitale zakładowym wynosi 0,89%, a udział w ogólnej 
+liczbie głosów na Walnym Zgromadzeniu stanowił 0,85%. 
+Pan Filip Kuropatwa - Wiceprezes Zarządu Emitenta na dzień 30.09.2021 r. posiadał 1 625 sztuk akcji Emitenta dających prawo do 1 
+625 głosów na Walnym Zgromadzeniu, których udział w kapitale zakładowym wynosił 0,02%, a udział w ogólnej liczbie głosów na 
+Walnym Zgromadzeniu stanowił 0,02%. Na dzień przekazania raportu Pan Filip Kuropatwa posiada 1 625 sztuk akcji Emitenta dających 
+prawo do 1 625 głosów na Walnym Zgromadzeniu, których udział w kapitale zakładowym wynosi 0,02%, a udział w ogólnej liczbie 
+głosów na Walnym Zgromadzeniu stanowi 0,02%. 
+4.5. 
+POSTĘPOWANIA SĄDOWE 
+Emitent ani żadna z jego jednostek zależnych nie jest stroną postępowania toczącego się przed sądem, organem właściwym dla 
+postępowania arbitrażowego lub organem administracji publicznej dotyczącego zobowiązań lub wierzytelności, które mogły by w 
+sposób istotny rzutować na wyniki finansowe. 
+Emitent ani żadna z jego jednostek zależnych nie jest stroną dwu lub więcej postępowań toczących się przed sądem, organem 
+właściwym dla postępowania arbitrażowego lub organem administracji publicznej dotyczących zobowiązań lub wierzytelności, które 
+mogłyby w sposób istotny rzutować na wyniki finansowe. 
+4.6. 
+SEZONOWOŚĆ DZIAŁALNOŚCI 
+Działalność Grupy podlega sezonowości. W odniesieniu do oleju napędowego (towaru dominującego w sprzedaży Grupy) sezonowość 
+przejawia się większym popytem w okresie letnim i mniejszym w okresie zimowym. 
+4.7. 
+OPIS CZYNNIKÓW I ZDARZEŃ, W TYM O NIETYPOWYM CHARAKTERZE, MAJĄCYCH ISTOTNY WPŁYW NA ŚRÓDROCZNE 
+SPRAWOZDANIE FINANSOWE 
+Najważniejsze czynniki wpływające na wyniki finansowe w segmentach działalności Grupy (ON i biopaliwa, LPG, gaz ziemny, energia 
+elektryczna, stacje paliw oraz inne produkty ropopochodne) przedstawiono w pkt. 3.4 niniejszego raportu. 
+4.8. 
+OPIS PODSTAWOWYCH ZAGROŻEŃ I RYZYK ZWIĄZANYCH Z POZOSTAŁYMI MIESIĄCAMI ROKU OBROTOWEGO 
+W ocenie Grupy jednym z najistotniejszych czynników, jaki może mieć wpływ na działalność w przyszłości, jest dostępność kapitału 
+obrotowego niezbędnego do sfinansowania dalszego wzrostu realizowanych obrotów, a także sfinansowanie zakupu zapasu 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+28 
+obowiązkowego w kolejnych okresach. Wysokość kapitału obrotowego niezbędnego do sfinansowania jest uzależniona od poziomu 
+cen paliw na rynkach (dotyczy szczególnie cen oleju napędowego). Istotne będzie również przedłużenie posiadanych kredytów 
+obrotowych oraz wygospodarowanie wolnych środków w wysokości umożliwiającej spłatę pożyczek od podmiotów powiązanych, lub 
+w optymalnym scenariuszu przedłużenie terminu zwrotu tych pożyczek. 
+Inne czynniki istotne dla rozwoju Grupy Kapitałowej: 
+▪ 
+Poziom stóp procentowych – Grupa korzysta z zewnętrznych źródeł finansowania (głównie kredyty i pożyczki w złotych polskich a 
+także w dolarach amerykańskich i euro), których koszt jest uzależniony od poziomu stóp procentowych. W kilku ostatnich latach 
+nastąpił znaczący spadek rynkowych stóp procentowych, co miało pozytywny wpływ na koszty obsługi zadłużenia. Negatywny 
+wpływ epidemii koronawirusa na gospodarkę spowodował obniżkę stóp procentowych do poziomu poniżej 1 % co wpływa na 
+spadek kosztów odsetkowych. W perspektywie do końca 2021 r. Grupa przewiduje utrzymanie tych poziomów, choć bierze również 
+pod uwagę możliwość wzrostu stóp procentowych. 
+▪ 
+Poziom kursów walutowych – Grupa prowadzi sprzedaż na rynku krajowym i na eksport, natomiast zakupy paliw dokonywane są 
+w większości na rynkach zagranicznych i rozliczane w walutach obcych. Głównymi walutami, w których realizowane są transakcje 
+eksportowe są EUR i USD. W przypadku nabycia walutami płatności są USD, EUR i PLN. Wpływ kursów walutowych na działalność 
+Grupy jest niwelowany przez stosowane instrumenty zabezpieczające. 
+▪ 
+Koszty wynajmu zbiorników w bazach paliwowych – w kilku poprzednich latach były na stabilnym poziomie, Grupa nie przewiduje 
+również istotnych zmian tych kosztów w przyszłości. Dalszy wzrost wolumenów sprzedaży paliw spowoduje jednak wzrost kosztów 
+ogółem. Stawki podatków i opłat oraz innych regulacji administracyjnych dotyczących rynku paliw – ich podwyższenie może 
+ograniczyć popyt ze strony klientów, a przez to wpłynąć na wzrost konkurencji i obniżenie przychodów lub marż Grupy. 
+▪ 
+Poziom cen surowca - model biznesowy Grupy w przeważającej części opiera się na zakupie paliw ciekłych i gazowych za granicą 
+lub w Polsce, ich dystrybucji i późniejszej sprzedaży. Brak stabilności cenowej paliw ciekłych oraz gazowych w kraju i za granicą ma 
+istotny wpływ na osiągane marże i w konsekwencji na uzyskane przez Grupę wyniki. Dodatkowo gwałtowny wzrost cen nośników 
+energii może skutkować spadkiem konsumpcji, co może przełożyć się na pogorszenie sytuacji finansowej Grupy. 
+▪ 
+Wysokość premii lądowej (różnicy pomiędzy ceną na lokalnym rynku a ceną w portach dostawy paliwa do kraju) dla oleju 
+napędowego – asortymentu dominującego w strukturze sprzedaży Grupy. W praktyce wysokość premii lądowej wynika z poziomu 
+marż realizowanych przez krajowe koncerny petrochemiczne w segmencie produkcji oraz handlu. Wysokość premii lądowej 
+wyznacza obszar możliwej do zrealizowania przez Emitenta marży handlowej pomniejszonej o koszty logistyki (koszty transportu, 
+obsługi przeładunkowej, badania jakości), koszty wynajmu pojemności baz paliw, koszty ubezpieczenia należności (w związku z 
+polityką bezpieczeństwa obrotu przyjętą przez Grupę), a także koszty realizacji obowiązku NCW. 
+▪ 
+Koszty realizacji Narodowego Celu Wskaźnikowego i Narodowego Celu Redukcyjnego - na działalność Grupy wpływa konieczność 
+realizacji w danym roku minimalnego udziału biokomponentów i innych paliw odnawialnych w ogólnej ilości paliw ciekłych i 
+biopaliw ciekłych sprzedawanych, zbywanych lub zużywanych w innej formie na potrzeby własne, zgodnie ze współczynnikami – 
+Narodowym Celem Wskaźnikowym oraz Narodowym Celem Redukcyjnym. Nowelizacja przepisów z 22 lipca 2016 r. wprowadziła 
+do ustawy o biokomponentach i biopaliwach ciekłych obowiązek realizacji Narodowego Celu Wskaźnikowego w co najmniej 50 
+proc. (liczonych według wartości opałowej) za pomocą biokomponentów zawartych w paliwach ciekłych. Powoduje to konieczność 
+korzystania z infrastruktury logistycznej i magazynowej w celu realizacji wymaganego blendowania (fizyczne mieszanie paliwa z 
+biokomponentami). Wymagane w ustawie czynności usługowo wykonują operatorzy baz paliw z których korzysta Emitent. Koszty 
+wykonania NCW, na które składają się poziom Narodowego Celu Wskaźnikowego, poziom Narodowego Współczynnika 
+Redukcyjnego, koszty usług blendowania paliwa, wpływają na uzyskiwaną marżę handlową co ma bezpośredni wpływ na wyniki 
+Grupy. 
+▪ 
+Wycena i utrzymywanie zapasu obowiązkowego – na wyniki finansowe Grupy wpływa również koszt utrzymywania oraz wycena 
+zapasu obowiązkowego paliw płynnych. Zgodnie z Ustawą o Zapasach Obowiązkowych (ustawa z dnia 16 lutego 2007 r. o zapasach 
+ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa 
+paliwowego państwa i zakłóceń na rynku naftowym, tj. Dz.U. 2014 poz. 1695, z późn. zm.). Spółka jest zobowiązana do 
+utrzymywania zapasów obowiązkowych paliw. Spółka realizuje ten obowiązek w przeważającej części w postaci fizycznego 
+utrzymywania zapasów paliw (niewielka ilość realizowana jest w postaci opłat (biletów) dla firm zewnętrznych realizujących ten 
+obowiązek w imieniu Spółki. Spółka pozyskała i odnawia okresowo kredyt niezbędny do zakupu oleju napędowego 
+magazynowanego pod samodzielne utworzenie zapasu obowiązkowego, a także współpracuje z operatorami baz paliw, które 
+umożliwiają Emitentowi korzystanie z pojemności magazynowych na ten cel. Zawarcie wyżej wymienionych umów i samodzielne 
+utrzymywanie zapasu obowiązkowego, w połączeniu z zawarciem transakcji zabezpieczających cenę rynkową oleju napędowego, 
+znacznie zmniejsza koszty utrzymywania zapasów obowiązkowych w porównaniu do opłat (biletów) dla firm zewnętrznych. 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+29 
+Natomiast kształtowanie się wyceny utrzymywanego zapasu zależy od różnicy pomiędzy ceną natychmiastową (po takiej Grupa 
+obowiązana jest wyceniać stany magazynowe) a ceną terminową (po takiej Grupa obowiązana jest wyceniać zabezpieczające 
+transakcje finansowe). W dniu zapadalności transakcji ceny terminowe zrównają się z cenami spot i wpływ wycen będzie neutralny. 
+W związku z powyższym oraz w związku z sytuacją rynkową – wyniki księgowe uzyskiwane przez Grupę zawierają wpływ wyceny 
+zapasów wynikający ze zmiany różnicy pomiędzy ceną natychmiastową a ceną terminową. W przyszłości, przy założeniu fizycznego 
+utrzymywania zapasu obowiązkowego, także należy spodziewać się korekt wyniku księgowego z tego tytułu (w długim terminie, w 
+momencie zapadalności zabezpieczających kontraktów terminowych, różnice w wycenie zapasu oraz kontraktów zostaną 
+zniwelowane). 
+▪ 
+Plany nabycia akcji Grupy LOTOS S.A. przez PKN ORLEN S.A. – w dniu 26 sierpnia 2019 r. zostało podpisane porozumienie 
+pomiędzy PKN ORLEN S.A. a Skarbem Państwa oraz Grupą LOTOS S.A. dotyczące realizacji transakcji nabycia akcji Grupy LOTOS S.A. 
+przez PKN ORLEN S.A. od Skarbu Państwa. W dniu 14 lipca 2020 r. PKN ORLEN S.A. otrzymał pozytywną warunkową decyzję Komisji 
+Europejskiej w przedmiocie zgody na przejęcie kontroli nad Grupą Lotos S.A. Decyzja Komisji Europejskiej uwarunkowana jest 
+wypełnieniem przez PKN ORLEN S.A. szeregu środków zaradczych, które mają zapewnić zapobieżeniu wystąpieniu negatywnych 
+skutków dla zachowania konkurencji przede wszystkim na rynku polskim. PKN ORLEN uzyskał od Komisji Europejskiej wydłużenie 
+terminu do 14 stycznia 2022 r. na przedstawienie rozwiązań wypełniających środki zaradcze. Grupa UNIMOT bacznie obserwuje 
+i analizuje możliwości i implikacji dla Grupy UNIMOT zawiązanych z zapowiadaną Transakcją. 
+4.9. 
+SPOŁECZNA ODPOWIEDZIALNOŚĆ BIZNESU 
+We wszystkich obszarach działalności Grupa przestrzega zasad profesjonalizmu i uczciwości biznesowej dbając jednocześnie o jakość 
+i bezpieczeństwo produktów, którymi handluje. Sumiennie dbamy także o relacje z klientami, dostawcami, pracownikami, 
+społecznością lokalną oraz inwestorami, opierając je na szacunku i wzajemnym zaufaniu. 
+Grupa UNIMOT dokłada także wszelkich starań w celu poszanowania środowiska oraz otoczenia, w którym działa. Jako spółka paliwowa 
+stara się zminimalizować negatywny wpływ na środowisko naturalne m.in. poprzez sumienne wykonywanie Narodowego Celu 
+Wskaźnikowego oraz rozwój alternatywnych środków transportu opartych na energii elektrycznej. 
+Grupa, będąc jednocześnie także sprzedawcą energii elektrycznej, stara się dbać, by pochodziła ona w jak największym stopniu ze 
+źródeł odnawialnych. Całość energii elektrycznej sprzedawanej przez naszą spółkę UNIMOT Energia i Gaz to „zielona” energia 
+pochodząca ze źródeł: Towarowa Giełda Energii i OZE z rynku OTC. 
+Sieć stacji AVIA w nowym koncepcie gastronomicznym Eat&Go oferuje kawę z certyfikatem Fairtrade. System certyfikacji Fairtrade 
+dąży do poprawy sytuacji drobnych rolników w krajach globalnego Południa, zajmujących się między innymi uprawą kawy. Rolnicy 
+zrzeszeni w spółdzielniach Fairtrade otrzymują co najmniej cenę minimalną skupu plonów, która chroni ich przed gwałtownymi 
+spadkami cen na światowym rynku. Za każdy sprzedany funt kawy otrzymują premię Fairtrade na projekty rozwojowe. Oprócz kwestii 
+ekonomicznych Fairtrade kładzie duży nacisk na odpowiednie warunki socjalne – równe prawa kobiet oraz zwalczanie pracy 
+przymusowej i pracy dzieci. 
+Od kilku lat wspiera edukację wybitnych, młodych Polaków na najlepszych amerykańskich i europejskich uczelniach (takich jak: 
+Harvard, Stanford, Yale, Oxford czy Cambridge) współpracując z Fundacją IVY Poland. Fundacja promuje edukację oraz prowadzi 
+program doradztwa edukacyjnego. Wytypowanym przez fundację kandydatom Grupa UNIMOT przekazuje nieoprocentowane pożyczki 
+na pokrycie kosztów studiów. W sumie Grupa udzieliła pożyczek dla ponad 10 uczestników na ponad 200 tys. zł. 
+Grupa UNIMOT podejmuje także szereg działań kształtujących pozytywne i odpowiedzialne relacje z grupami społecznymi, które nas 
+otaczają. 
+Angażuje się w lokalną społeczność poprzez promocję aktywności sportowych. W ramach podejmowanych działań m.in. sponsoruje 
+klub kolarski Kolejarz-Jura Częstochowa, który każdego roku w maju organizuje wyścig kolarski dla młodzieży i dorosłych o Puchar 
+Prezydenta Miasta Częstochowa. Wieloletnim sponsoringiem objęte jest też Stowarzyszenie Speedway Fan Club Częstochowa. 
+Stowarzyszenie prowadzi klub Lwy AVIA Częstochowa, który zrzesza młodych ludzi uprawiających dyscyplinę speedrower. Wsparcie 
+UNIMOT pozwoliło klubowi zdobyć Klubowe Mistrzostwo Europy oraz Drużynowy Puchar Polski i osiągnąć wiele innych sukcesów 
+sportowych w rywalizacji indywidualnej jak i drużynowej. Pod koniec 2019 r., Grupa UNIMOT nawiązała współpracę z gminą Zawadzkie, 
+w której zlokalizowana jest siedziba spółki UNIMOT S.A. W ramach współpracy w roku 2020 UNIMOT przekazał na rzecz gminy kwotę 
+100 tysięcy złotych, która w roku 2021 zostanie spożytkowana na wsparcie młodzieżowych klubów sportowych m.in: Klub Karate Nidan 
+oraz Autonomiczna Sekcja Piłki Ręcznej. W tym roku przekazał kolejne 100 tysięcy złotych z przeznaczeniem na gminny plac zabaw w 
+Zawadzkiem. 
+Grupa UNIMOT aktywnie zaangażowała się społecznie w okresie trwania pandemii COVID-19. W 2020 r. wsparła polskie ministerstwo 
+zdrowia i przeznaczyła ponad 1,5 miliona złotych na zakup szybkich testów na koronawirusa SARS-CoV-2, które zostały dostarczone do 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+30 
+Centralnej Bazy Rezerw Sanitarno-Przeciwepidemicznych w Porębach. Ufundowane zostało 10 tysięcy sztuk maseczek ochronnych 
+wielokrotnego użytku dla seniorów z powiatu Strzelce Opolskie i gminy Zawadzkie. Do różnych instytucji państwowych z województwa 
+opolskiego trafiło ponad 750 sztuk płynów do dezynfekcji rąk. Wsparcie to dotarło m.in. do oddziału Narodowego Fundusz Zdrowia 
+w Opolu oraz Starostwa Powiatowego w Strzelcach Opolskich. 
+4.10. 
+TRANSAKCJE Z PODMIOTAMI POWIĄZANYMI 
+Transakcje zawarte przez Emitenta i jednostki od niego zależne z podmiotami powiązanymi przeprowadzone były na warunkach 
+rynkowych. 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+31 
+ 
+ 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+32 
+5. ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+Śródroczne skrócone skonsolidowane sprawozdanie z sytuacji finansowej 
+w tysiącach złotych 
+Nota 
+30.09.2021 
+(niebadane) 
+31.12.2020 
+Aktywa trwałe 
+ 
+ 
+ 
+ Rzeczowe aktywa trwałe 
+7.6 
+43 701 
+35 834 
+ Prawo do użytkowania aktywów 
+7.7 
+65 117 
+54 278 
+ Wartości niematerialne 
+ 
+21 334 
+21 714 
+ Pozostałe aktywa finansowe 
+7.8 
+260 
+260 
+ Pozostałe należności długoterminowe 
+7.10 
+15 722 
+9 899 
+ Pochodne instrumenty finansowe 
+7.8 
+- 
+13 247 
+ Aktywa z tytułu umów z klientami 
+ 
+7 262 
+5 233 
+ Aktywa z tytułu odroczonego podatku dochodowego 
+ 
+19 945 
+8 267 
+Aktywa trwałe razem 
+ 
+173 341 
+148 732 
+Aktywa obrotowe 
+ 
+ 
+ 
+ Zapasy 
+7.9 
+356 422 
+166 695 
+ Aktywa z tytułu umów z klientami 
+ 
+1 670 
+1 322 
+ Należności handlowe oraz pozostałe należności 
+7.11 
+608 173 
+332 671 
+ Pozostałe aktywa finansowe 
+7.8 
+65 102 
+194 
+ Pochodne instrumenty finansowe 
+7.13 
+26 796 
+14 885 
+ Środki pieniężne i ich ekwiwalenty 
+ 
+64 825 
+116 063 
+ Pozostałe aktywa obrotowe 
+ 
+14 945 
+9 773 
+Aktywa obrotowe razem 
+ 
+1 137 933 
+641 603 
+AKTYWA RAZEM 
+ 
+1 311 274 
+790 335 
+ 
+ 
+Prezes Zarządu 
+ 
+Wiceprezes Zarządu 
+ 
+Wiceprezes Zarządu 
+ 
+ 
+ 
+ 
+Adam Sikorski 
+ 
+Robert Brzozowski 
+ 
+Filip Kuropatwa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Osoba sporządzająca sprawozdanie 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Małgorzata Walnik 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+33 
+Śródroczne skrócone skonsolidowane sprawozdanie z sytuacji finansowej (ciąg dalszy) 
+w tysiącach złotych 
+Nota 
+30.09.2021 
+(niebadane) 
+31.12.2020 
+Kapitał własny 
+ 
+ 
+ Kapitał zakładowy 
+ 
+8 198 
+8 198 
+ Pozostałe kapitały 
+ 
+234 946 
+218 816 
+ Różnice kursowe z przeliczenia jednostek zagranicznych 
+ 
+131 
+16 
+ Wynik z lat ubiegłych i wynik roku bieżącego 
+ 
+57 642 
+38 950 
+Kapitał własny akcjonariuszy jednostki dominującej 
+ 
+300 917 
+265 980 
+ Udziały niekontrolujące 
+ 
+(141) 
+(99) 
+Kapitał własny ogółem 
+ 
+300 776 
+265 881 
+Zobowiązania długoterminowe 
+ 
+ 
+ Zobowiązania z tytułu kredytów, pożyczek oraz innych 
+7.12 
+59 141 
+48 996 
+ instrumentów dłużnych 
+ 
+ 
+ 
+ Zobowiązania z tytułu świadczeń pracowniczych 
+ 
+256 
+256 
+ Pochodne instrumenty finansowe 
+7.13 
+12 860 
+3 438 
+ Rezerwa z tytułu odroczonego podatku dochodowego 
+ 
+- 
+- 
+Zobowiązania długoterminowe razem 
+ 
+72 257 
+52 690 
+Zobowiązania krótkoterminowe 
+ 
+ 
+ Kredyty w rachunku bieżącym 
+7.12 
+332 563 
+172 440 
+ Zobowiązania z tytułu kredytów, pożyczek oraz innych 
+7.12 
+9 588 
+9 401 
+ instrumentów dłużnych 
+ 
+ 
+ 
+ Pochodne instrumenty finansowe 
+7.13 
+81 940 
+17 700 
+ Zobowiązania z tytułu świadczeń pracowniczych 
+ 
+539 
+539 
+ Zobowiązania z tytułu podatku dochodowego 
+ 
+4 106 
+2 621 
+ Zobowiązania z tytułu umów z klientami 
+ 
+741 
+4 130 
+ Zobowiązania z tytułu dostaw i usług oraz pozostałe 
+ 
+508 764 
+264 933 
+Zobowiązania krótkoterminowe razem 
+ 
+938 241 
+471 764 
+Zobowiązania razem 
+ 
+1 010 498 
+524 454 
+PASYWA RAZEM 
+ 
+1 311 274 
+790 335 
+Prezes Zarządu 
+ 
+Wiceprezes Zarządu 
+ 
+Wiceprezes Zarządu 
+ 
+ 
+ 
+ 
+Adam Sikorski 
+ 
+Robert Brzozowski 
+ 
+Filip Kuropatwa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Osoba sporządzająca sprawozdanie 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Małgorzata Walnik 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Śródroczne skrócone skonsolidowane sprawozdanie z całkowitych dochodów 
+ 
+ 
+ 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+34 
+w tysiącach złotych 
+Nota 
+01.01.202130.09.2021 
+01.07.202130.09.2021 
+01.01.202030.09.2020 
+01.07.202030.09.2020 
+niebadane 
+niebadane 
+niebadane 
+niebadane 
+ Przychody ze sprzedaży* 
+ 7.1 
+5 353 200 
+2 088 218 
+3 569 437 
+1 341 873 
+ Zyski/(straty) z instrumentów finansowych dotyczących obrotu 
+paliwem 
+ 7.1 
+31 541 
+(6 984) 
+(44 830) 
+(3 579) 
+ Koszty sprzedanych produktów, towarów i materiałów 
+7.3 
+(5 142 104) 
+(2 012 320) 
+(3 369 894) 
+(1 292 800) 
+Zysk/(strata) brutto ze sprzedaży 
+ 
+242 637 
+68 914 
+154 713 
+45 494 
+ Pozostałe przychody operacyjne 
+ 
+1 050 
+284 
+2 819 
+1 372 
+ Koszty sprzedaży 
+7.2 
+(145 517) 
+(50 763) 
+(114 404) 
+(38 514) 
+ Koszty ogólnego zarządu 
+7.2 
+(26 324) 
+(9 977) 
+(22 203) 
+(6 397) 
+ Pozostałe zyski/(straty) netto 
+ 
+384 
+100 
+204 
+58 
+ Pozostałe koszty operacyjne 
+7.4 
+(896) 
+(244) 
+(6 138) 
+(46) 
+Zysk/(strata) na działalności operacyjnej 
+ 
+71 334 
+8 314 
+14 991 
+1 967 
+ Przychody finansowe 
+ 
+415 
+186 
+756 
+399 
+ Koszty finansowe 
+ 
+(5 536) 
+(2 443) 
+(4 485) 
+(1 384) 
+Przychody/(koszty) finansowe netto 
+ 
+(5 121) 
+(2 257) 
+(3 729) 
+(985) 
+ 
+ 
+ 
+ 
+ 
+ 
+Zysk/(strata) przed opodatkowaniem 
+ 
+66 213 
+6 057 
+11 262 
+982 
+ Podatek dochodowy 
+7.5 
+(15 400) 
+(2 043)) 
+(2 403) 
+(68) 
+Zysk/(strata) netto za okres sprawozdawczy 
+ 
+50 813 
+4 014 
+8 859 
+914 
+w tym przypadający na: 
+ 
+ 
+ 
+ 
+ 
+ Właścicieli jednostki dominującej 
+ 
+50 971 
+4 022 
+8 856 
+911 
+ Udziały niekontrolujące 
+ 
+(158) 
+(8) 
+3 
+ 3 
+Zysk/(strata) netto za okres sprawozdawczy 
+ 
+50 813 
+4 014 
+8 859 
+914 
+Inne całkowite dochody netto za okres sprawozdawczy 
+ 
+- 
+- 
+- 
+- 
+Całkowite dochody ogółem za okres sprawozdawczy 
+ 
+50 813 
+4 014 
+8 859 
+914 
+w tym przypadające na: 
+ 
+ 
+ 
+ 
+ 
+ Właścicieli jednostki dominującej 
+ 
+50 971 
+4 022 
+8 856 
+911 
+Udziały niekontrolujące 
+ 
+(158) 
+(8) 
+3 
+3 
+Całkowite dochody ogółem za okres sprawozdawczy 
+ 
+50 813 
+4 014 
+8 859 
+914 
+Zysk/(strata) przypadająca na 1 akcję przypisana właścicielom 
+jednostki dominującej (w zł) 
+ 
+ 
+6,22 
+ 
+0,49 
+ 
+1,08 
+ 
+0,11 
+Rozwodniona zysk/(strata) przypadająca na 1 akcję przypisana 
+właścicielom jednostki dominującej (w zł) 
+ 
+ 
+6,22 
+ 
+0,49 
+ 
+1,08 
+ 
+0,11 
+*pozycja uwzględnia reklasyfikację zysków z tytułu działalności traidingowej dotyczącej energii elektrycznej z przychodów finansowych w wysokości 8 708 zł za okres od 
+01.01.2020-30.09.2020 roku. 
+Prezes Zarządu 
+ 
+Wiceprezes Zarządu 
+ 
+Wiceprezes Zarządu 
+ 
+ 
+ 
+ 
+Adam Sikorski 
+ 
+Robert Brzozowski 
+ 
+Filip Kuropatwa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Osoba sporządzająca sprawozdanie 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Małgorzata Walnik 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Śródroczne skrócone skonsolidowane sprawozdanie z przepływów pieniężnych 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+35 
+w tysiącach złotych 
+01.01.2021 - 
+30.09.2021 
+01.07.2021 - 
+30.09.2021 
+01.01.2020 - 
+30.09.2020 
+01.07.2020 - 
+30.09.2020 
+(niebadane) 
+(niebadane) 
+(niebadane) 
+(niebadane) 
+Przepływy pieniężne z działalności operacyjnej 
+ 
+ 
+ 
+ 
+Zysk/(strata) przed opodatkowaniem 
+66 213 
+6 057 
+11 262 
+982 
+Korekty 
+ 
+ 
+ 
+ 
+Amortyzacja rzeczowych aktywów trwałych 
+8 904 
+2 719 
+6 034 
+2 654 
+Amortyzacja wartości niematerialnych 
+735 
+256 
+208 
+75 
+Strata/(zysk) z tytułu różnic kursowych 
+12 123 
+10 220 
+5 943 
+759 
+(Zysk)/strata ze sprzedaży rzeczowych aktywów trwałych 
+(384) 
+(100) 
+(204) 
+(58) 
+Odsetki, koszty transakcyjne (dotyczące kredytów i pożyczek) i dywidendy, netto 
+5 401 
+2 375 
+3 497 
+931 
+Zmiana stanu należności 
+(297 972) 
+(165 976) 
+(25 846) 
+(8 987) 
+Zmiana stanu zapasów 
+(189 727) 
+1 685 
+65 019 
+25 955 
+Zmiana stanu aktywów z tytułu umów z klientami 
+(2 377) 
+(115) 
+4 059 
+4 179 
+Zmiana stanu zobowiązań z tytułu umów z klientami 
+(3 389) 
+(11 617) 
+2 245 
+(1 105) 
+Zmiana stanu zobowiązań krótkoterminowych z tytułu dostaw i usług oraz 
+pozostałych 
+245 788 
+51 115 
+49 032 
+(27 826) 
+Zmiana stanu aktywów/(zobowiązań) z tytułu instrumentów pochodnych 
+23 888 
+24 402 
+(20 990) 
+(2 604) 
+Zmiana stanu rezerw 
+- 
+(25) 
+(2 078) 
+- 
+Utworzenie/odwrócenie odpisów aktualizujących 
+- 
+- 
+4 000 
+- 
+Podatek dochodowy zapłacony/zwrócony 
+(15 400) 
+(2 043) 
+(2 403) 
+(68) 
+Przepływy pieniężne z działalności operacyjnej 
+(146 197) 
+(81 047) 
+99 778 
+(5 113) 
+Przepływy pieniężne z działalności inwestycyjnej 
+ 
+ 
+ 
+ 
+Wpływy z tytułu sprzedaży rzeczowych aktywów trwałych 
+1 029 
+489 
+915 
+408 
+Odsetki otrzymane 
+91 
+6 
+710 
+277 
+Wpływy z tytułu pożyczek 
+28 947 
+21 135 
+8 601 
+12 
+Nabycie rzeczowych aktywów trwałych 
+(9 842) 
+(1 537) 
+(2 973) 
+(2 018) 
+Nabycie wartości niematerialnych 
+(355) 
+(31) 
+(209) 
+(1) 
+Udzielone pożyczki 
+(42 384) 
+(34 622) 
+(11 936) 
+(2 871) 
+Przepływy pieniężne netto z działalności inwestycyjnej 
+(22 514) 
+(14 560) 
+(4 892) 
+(4 193) 
+Przepływy pieniężne z działalności finansowej 
+ 
+ 
+ 
+ 
+Zaciągnięcie kredytów, pożyczek oraz innych instrumentów dłużnych 
+6 835 
+- 
+107 
+26 
+Spłata zaciągniętych kredytów, pożyczek oraz innych instrumentów dłużnych 
+(8 069) 
+(414) 
+(1 573) 
+(415) 
+Dywidendy wypłacone 
+(16 149) 
+- 
+(16 149) 
+- 
+Płatność zobowiązań z tytułu umów leasingu finansowego 
+(6 874) 
+(2 171) 
+(4 388) 
+(2 065) 
+Odsetki oraz koszty transakcyjne (dotyczące kredytów i pożyczek) zapłacone 
+(5 955) 
+(2 383) 
+(4 702) 
+(1 207) 
+Przepływy pieniężne netto z działalności finansowej 
+(30 212) 
+(4 968) 
+(26 705) 
+(3 661) 
+Zmiana stanu środków pieniężnych i ich ekwiwalentów 
+(198 923) 
+(100 575) 
+68 181 
+(12 967) 
+Wpływ zmian z tytułu różnic kursowych dotyczących środków pieniężnych i ich 
+ekwiwalentów 
+(12 438) 
+(10 520) 
+(5 844) 
+(762) 
+Zmiana stanu środków pieniężnych i ich ekwiwalentów 
+(211 361) 
+(111 095) 
+62 337 
+(13 729) 
+Środki pieniężne i ich ekwiwalenty po pomniejszeniu o kredyty w rachunku 
+bieżącym na dzień 1 stycznia 
+(56 377) 
+(156 643) 
+(166 514) 
+(90 448) 
+Środki pieniężne i ich ekwiwalenty po pomniejszeniu o kredyty w rachunku 
+bieżącym na dzień 30 września 
+(267 738) 
+(267 738) 
+(104 177) 
+(104 177) 
+Prezes Zarządu 
+ 
+Wiceprezes Zarządu 
+ 
+Wiceprezes Zarządu 
+ 
+ 
+ 
+ 
+Adam Sikorski 
+ 
+Robert Brzozowski 
+ 
+Filip Kuropatwa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Osoba sporządzająca sprawozdanie 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Małgorzata Walnik 
+ 
+ 
+ 
+ 
+Skonsolidowane sprawozdanie ze zmian w kapitale własnym 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+36 
+w tysiącach złotych 
+Kapitał 
+zakładowy 
+Pozostałe 
+kapitały (w 
+tym akcje 
+własne) 
+Różnice 
+kursowe z 
+przeliczenia 
+jednostek 
+zagranicznych 
+Wynik z lat 
+ubiegłych 
+Wynik roku 
+bieżącego 
+Suma 
+Udziały 
+niekontrolujące 
+Kapitał 
+własny 
+razem 
+Kapitał własny na dzień 1 stycznia 2020 r. 
+8 198 
+181 140 
+(127) 
+(2 682) 
+60 407 
+246 936 
+ - 
+246 936 
+Całkowite dochody za rok obrotowy 
+ - 
+ - - 
+ - 
+8 856 
+8 856 
+3 
+8 859 
+ - Zysk/(strata) netto za okres 
+ - 
+ - - 
+ - 
+8 856 
+8 856 
+3 
+8 859 
+Dopłaty od i wypłaty do właścicieli 
+- 
+- 
+- 
+- 
+(16 149) 
+(16 149) 
+ - 
+(16 149) 
+Dywidenda 
+ - 
+ - - 
+ - 
+(16 149) 
+(16 149) 
+ - 
+(16 149) 
+Objęcie kontroli nad jednostkami zależnymi 
+ - 
+ - - 
+(104) 
+ - 
+(104) 
+104 
+- 
+Składniki innych całkowitych dochodów 
+ - 
+ - 
+98 
+ - 
+ - 
+98 
+ - 
+98 
+Przeniesienie zysku 
+ - 
+37 676 
+ - 
+6 582 
+(44 258) 
+- 
+ - 
+- 
+Kapitał własny na dzień 30 września 2020 r. 
+8 198 
+218 816 
+(29) 
+3 796 
+8 856 
+239 637 
+107 
+239 744 
+ 
+w tysiącach złotych 
+Kapitał 
+zakładowy 
+Pozostałe 
+kapitały (w 
+tym akcje 
+własne) 
+Różnice 
+kursowe z 
+przeliczenia 
+jednostek 
+zagranicznych 
+Wynik z 
+lat 
+ubiegłych 
+Wynik 
+roku 
+bieżącego 
+Suma 
+Udziały 
+niekontrolujące 
+Kapitał 
+własny 
+razem 
+Kapitał własny na dzień 1 stycznia 2020 r. 
+8 198 
+181 140 
+(127) 
+(2 682) 
+60 407 
+246 936 
+ - 
+246 936 
+Całkowite dochody za rok obrotowy 
+ - 
+ - - - 
+35 156 
+35 156 
+(421) 
+34 735 
+ - Zysk/(strata) netto za okres 
+ - 
+ - - - 
+35 156 
+35 156 
+(421) 
+34 735 
+Transakcje z właścicielami Jednostki Dominującej, ujęte bezpośrednio w kapitale własnym 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dopłaty od i wypłaty do właścicieli 
+ - 
+ - - - 
+(16 149) 
+(16 149) 
+ - 
+(16 149) 
+Dywidenda 
+ - 
+ - - - 
+(16 149) 
+(16 149) 
+ - 
+(16 149) 
+Objęcie kontroli nad jednostkami zależnymi 
+ - 
+ - - 
+(106) 
+ - 
+(106) 
+322 
+216 
+Składniki innych całkowitych dochodów 
+ - 
+ - 
+143 
+ - 
+ - 
+143 
+ - 
+143 
+Przeniesienie zysku 
+ - 
+37 676 
+ - 
+6 582 
+(44 258) 
+ - 
+ - 
+ - 
+Kapitał własny na 31 grudnia 2020 r. 
+8 198 
+218 816 
+16 
+3 794 
+35 156 
+265 980 
+(99) 
+265 881 
+w tysiącach złotych 
+Kapitał 
+zakładowy 
+Pozostałe 
+kapitały (w 
+tym akcje 
+własne) 
+Różnice 
+kursowe z 
+przeliczenia 
+jednostek 
+zagranicznych 
+Wynik z lat 
+ubiegłych 
+Wynik roku 
+bieżącego 
+Suma 
+Udziały 
+niekontrolujące 
+Kapitał 
+własny 
+razem 
+Kapitał własny na 1 stycznia 2021 r. 
+8 198 
+218 816 
+16 
+3 794 
+35 156 
+265 980 
+(99) 
+265 881 
+Całkowite dochody za rok obrotowy 
+ - 
+ - - 
+ - 
+50 971 
+50 971 
+(158) 
+50 813 
+ - Zysk/(strata) netto za okres 
+ - 
+ - - 
+ - 
+50 971 
+50 971 
+(158) 
+50 813 
+Transakcje z właścicielami Jednostki Dominującej, ujęte bezpośrednio 
+w kapitale własnym 
+ 
+ 
+ 
+ 
+ 
+- 
+ 
+- 
+Dopłaty od i wypłaty do właścicieli 
+ - 
+ - - 
+ - 
+(16 149) 
+(16 149) 
+ - 
+(16 149) 
+Dywidenda 
+ - 
+ - - 
+ - 
+(16 149) 
+(16 149) 
+ - 
+(16 149) 
+Objęcie kontroli nad jednostkami zależnymi 
+ - 
+ - - 
+ - 
+ - 
+- 
+116 
+116 
+Składniki innych całkowitych dochodów 
+ - 
+ - 
+115 
+ - 
+ - 
+115 
+ - 
+115 
+Przeniesienie zysku 
+ - 
+16 130 
+ - 
+2 877 
+(19 007) 
+- 
+ - 
+- 
+Kapitał własny na 30 września 2021 r.. 
+8 198 
+234 946 
+131 
+6 671 
+50 971 
+300 917 
+(141) 
+300 776 
+Prezes Zarządu 
+ 
+Wiceprezes Zarządu 
+ 
+Wiceprezes Zarządu 
+Adam Sikorski 
+ 
+Robert Brzozowski 
+ 
+Filip Kuropatwa 
+ 
+ 
+ 
+ 
+Osoba sporządzająca sprawozdanie 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Małgorzata Walnik 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+37 
+ 
+ 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+38 
+6. INFORMACJE OBJAŚNIAJĄCE DO ŚRÓDROCZNEGO SKRÓCONEGO SKONSOLIDOWANEGO 
+SPRAWOZDANIA FINANSOWEGO 
+6.1. 
+INFORMACJE O ZASADACH PRZYJĘTYCH PRZY SPORZĄDZANIU ŚRÓDROCZNEGO SKRÓCONEGO SKONSOLIDOWANEGO 
+SPRAWOZDANIA FINANSOWEGO 
+a) Oświadczenie zgodności 
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe ("skonsolidowane sprawozdanie finansowe") zostało 
+sporządzone zgodnie z wymaganiami MSR 34 „Śródroczna sprawozdawczość finansowa” oraz z Rozporządzeniem Ministra Finansów z 
+29 marca 2018 r. w sprawie informacji bieżących i okresowych przekazywanych przez emitentów papierów wartościowych oraz 
+warunków uznawania za równoważne informacji wymaganych przepisami prawa państwa niebędącego państwem członkowskim (tekst 
+jednolity: Dz. U. 2018 r. poz. 757 z dnia 20 kwietnia 2018 r.) („Rozporządzenie”) i przedstawia sytuację finansową Grupy Kapitałowej 
+UNIMOT („Grupa”, „Grupa UNIMOT”) na dzień 30 września 2021 r. oraz 31 grudnia 2020 r., wyniki jej działalności oraz przepływy 
+pieniężne za okres 9 i 3 miesięcy zakończony 30 września 2021 r. i 30 września 2020 r. 
+b) Zasada kontynuacji działalności 
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe na dzień i za okres zakończony 30 września 2021 r. zostało sporządzone 
+przy założeniu kontynuowania działalności gospodarczej przez Grupę UNIMOT w dającej się przewidzieć przyszłości. Na dzień 
+sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego nie stwierdza się istnienia 
+okoliczności wskazujących na zagrożenia kontynuowania działalności przez Grupę UNIMOT. Czas trwania Jednostki Dominującej oraz 
+jednostek wchodzących w skład Grupy UNIMOT jest nieoznaczony. 
+c) Istotne zasady rachunkowości 
+Do sporządzenia niniejszego śródrocznego skonsolidowanego sprawozdania finansowego zastosowano zasady rachunkowości w 
+zakresie niezmienionym w odniesieniu do zasad zastosowanych przy sporządzeniu rocznego skonsolidowanego sprawozdania 
+finansowego za 2020 r. 
+d) Istotne oszacowania i osądy 
+Sporządzenie sprawozdania finansowego zgodnie z MSSF UE wymaga od Zarządu Jednostki Dominującej dokonania profesjonalnych 
+osądów, szacunków i założeń, które mają wpływ na przyjęte zasady rachunkowości oraz prezentowane wartości aktywów, pasywów, 
+przychodów oraz kosztów. Szacunki oraz związane z nimi założenia opierają się na doświadczeniu historycznym oraz innych czynnikach, 
+które są uznawane za racjonalne w danych okolicznościach, a ich wyniki dają podstawę profesjonalnego osądu, co do wartości 
+księgowej aktywów i zobowiązań, która nie wynika bezpośrednio z innych źródeł. Faktyczna wartość może różnić się od wartości 
+szacowanej. Istotne szacunki i zasady rachunkowości, a także oszacowanie niepewności zastosowane przez Zarząd Jednostki 
+Dominującej przy sporządzaniu niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego są takie same jak 
+te zastosowane podczas sporządzania rocznego skonsolidowanego sprawozdania finansowego za 2020 r. 
+Nowe lub zmienione standardy oraz interpretacje, które mają zastosowanie po raz pierwszy w 2021 r., nie mają istotnego wpływu na 
+śródroczne skrócone skonsolidowane sprawozdanie finansowe Grupy. 
+6.1.1. ZMIANA PREZENTACJI DANYCH PORÓWNYWALNYCH NA DZIEŃ 30 WRZEŚNIA 2020 R. 
+Grupa dokonała zmian prezentacyjnych w danych porównywalnych na dzień 30 września 2020 r. 
+1. 
+Skrócone skonsolidowane sprawozdanie z całkowitych dochodów 
+- zmiana prezentacji zysków z tytułu działalności tradingowej dotyczącej energii elektrycznej z przychodów finansowych do przychodów 
+ze sprzedaży w wysokości 8 708 tys. zł
+
+UNIMOT 
+39 
+ 
+ 
+ 
+6.2. 
+SEGMENTY SPRAWOZDAWCZE 
+Identyfikacja segmentów operacyjnych nie uległa zmianie i jest zgodna z zasadami opisanymi w skonsolidowanym sprawozdaniu finansowym na dzień i za rok obrotowy kończący się 
+31 grudnia 2020 r. 
+Dane porównawcze za 3 kwartały 2020 r. zostały dostosowane do układu przyjętego za 3 kwartały 2021. 
+w tysiącach złotych 
+Obrót paliwami 
+ciekłymi 
+Obrót 
+paliwami 
+gazowymi 
+Energia 
+elektryczna 
+Fotowoltaika 
+Dział. 
+pozostała 
+Nieprzypisane 
+Eliminacje 
+transakcji w 
+Grupie 
+Skonsolidowane 
+razem 
+za okres 01.01.2021 - 30.09.2021 
+Przychody od odbiorców zewnętrznych 
+4 774 585 
+202 068 
+148 064 
+12 034 
+222 090 
+892 
+- 
+5 359 733 
+Zyski/(straty) z tytułu działalności tradingowej dotyczącej 
+energii elektrycznej 
+- 
+- 
+(6 533) 
+- 
+- 
+- 
+- 
+(6 533) 
+Zyski/(straty) z tytułu instrumentów finansowych 
+dotyczących obrotu paliwem 
+31 541 
+- 
+- 
+- 
+- 
+- 
+- 
+31 541 
+Przychody od odbiorców z Grupy* 
+76 299 
+13 203 
+28 597 
+10 
+4 116 
+- 
+(122 225) 
+- 
+Przychody ogółem 
+4 882 425 
+215 271 
+170 128 
+12 044 
+226 206 
+892 
+(122 225) 
+5 384 741 
+Koszt sprzedanych towarów, produktów 
+(4 605 178) 
+(189 124) 
+(136 240) 
+(11 313) 
+(200 249) 
+- 
+- 
+(5 142 104) 
+i materiałów do odbiorców zewnętrznych 
+Koszt sprzedanych towarów, produktów 
+(76 107) 
+(12 046) 
+(27 992) 
+- 
+(4 108) 
+- 
+120 253 
+- 
+i mat. do odbiorców z Grupy* 
+Koszt sprzedanych towarów, produktów i materiałów, 
+ogółem 
+(4 681 285) 
+(201 170) 
+(164 232) 
+(11 313) 
+(204 357) 
+- 
+120 253 
+(5 142 104) 
+Wynik segmentu 
+201 140 
+14 101 
+5 896 
+731 
+21 849 
+892 
+(1 972) 
+242 637 
+Pozostałe przychody operacyjne 
+609 
+153 
+156 
+- 
+55 
+81 
+(4) 
+1 050 
+Koszty sprzedaży i ogólnego zarządu 
+(107 316) 
+(12 239) 
+(7 336) 
+(7 942) 
+(24 290) 
+(15 130) 
+2 412 
+(171 841) 
+Pozostałe zyski/(straty) netto 
+143 
+39 
+162 
+19 
+- 
+- 
+21 
+384 
+Pozostałe koszty operacyjne 
+(927) 
+(136) 
+(80) 
+- 
+(68) 
+(140) 
+455 
+(896) 
+Wynik na działalności operacyjnej 
+93 649 
+1 918 
+(1 202) 
+(7 192) 
+(2 454) 
+(14 297) 
+912 
+71 334 
+Przychody finansowe 
+172 
+8 
+185 
+319 
+39 
+3 688 
+(3 996) 
+415 
+Koszty finansowe 
+(4 389) 
+(554) 
+(55) 
+(30) 
+(559) 
+(189) 
+240 
+(5 536) 
+Podatek dochodowy 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+(15 400) 
+Zysk/(strata) za okres 
+89 432 
+1 372 
+(1 072) 
+(6 903) 
+(2 974) 
+(10 798) 
+(2 844) 
+50 813 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Amortyzacja 
+(3 075) 
+(1 133) 
+(173) 
+(926) 
+(2 979) 
+(1 353) 
+- 
+(9 639) 
+Odsetki 
+(5 437) 
+(523) 
+223 
+740 
+(501) 
+4 391 
+(3 756) 
+(4 863) 
+EBITDA* 
+97 944 
+3 028 
+(1 122) 
+(6 717) 
+506 
+(13 836) 
+912 
+80 715 
+ 
+ 
+ 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+40 
+w tysiącach złotych 
+Obrót 
+paliwami 
+ciekłymi 
+Obrót 
+paliwami 
+gazowymi 
+Energia 
+elektryczna 
+ 
+Fotowoltaika 
+Działalność 
+pozostała 
+Nieprzypisane 
+Eliminacje 
+transakcji w 
+Grupie 
+Skonsolidowane 
+razem 
+za okres 01.07.2021 - 30.09.2021 
+Przychody do odbiorców zewnętrznych 
+1 834 646 
+90 522 
+61 726 
+4 672 
+101 948 
+359 
+- 
+2 093 873 
+Zyski/(straty) z tytułu działalności tradingowej dotyczącej energii elektrycznej 
+- 
+- 
+(5 655) 
+- 
+- 
+- 
+- 
+(5 655) 
+Zyski/(straty) z tytułu instrumentów finansowych dotyczących obrotu paliwem 
+(6 984) 
+- 
+- 
+- 
+- 
+- 
+- 
+(6 984) 
+Przychody do odbiorców z Grupy* 
+31 085 
+5 531 
+9 999 
+- 
+- 
+- 
+(46 615) 
+- 
+Przychody ogółem 
+1 858 747 
+96 053 
+66 070 
+4 672 
+101 948 
+359 
+(46 615) 
+2 081 234 
+Koszt sprzedanych towarów, produktów 
+(1 771 365) 
+(87 077) 
+(58 294) 
+(4 097) 
+(91 487) 
+- 
+- 
+(2 012 320) 
+i materiałów do odbiorców zewnętrznych 
+Koszt sprzedanych towarów, produktów 
+(30 998) 
+(4 951) 
+(9 977) 
+- 
+- 
+- 
+45 926 
+- 
+i mat. do odbiorców z Grupy* 
+Koszt sprzedanych towarów, produktów 
+(1 802 363) 
+(92 028) 
+(68 271) 
+(4 097) 
+(91 487) 
+- 
+45 926 
+(2 012 320) 
+i materiałów, ogółem 
+Wynik segmentu 
+56 384 
+4 025 
+(2 201) 
+575 
+10 461 
+359 
+(689) 
+68 914 
+Pozostałe przychody operacyjne 
+319 
+2 
+(23) 
+- 
+45 
+(58) 
+(1) 
+284 
+Koszty sprzedaży i ogólnego zarządu 
+(36 954) 
+(4 497) 
+(1 551) 
+(1 565) 
+(10 585) 
+(7 116) 
+1 528 
+(60 740) 
+Pozostałe zyski/(straty) netto 
+81 
+39 
+(39) 
+19 
+- 
+- 
+- 
+100 
+Pozostałe koszty operacyjne 
+(761) 
+(55) 
+87 
+- 
+(34) 
+678 
+(159) 
+(244) 
+Wynik na działalności operacyjnej 
+19 069 
+(486) 
+(3 727) 
+(971) 
+(113) 
+(6 137) 
+679 
+8 314 
+Przychody finansowe 
+(47) 
+- 
+- 
+130 
+19 
+139 
+(55) 
+186 
+Koszty finansowe 
+(1 588) 
+(344) 
+(18) 
+(30) 
+(524) 
+(5) 
+66 
+(2 443) 
+Podatek dochodowy 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+(2 043) 
+Zysk/(strata) za okres 
+17 434 
+(830) 
+(3 745) 
+(871) 
+(618) 
+(6 003) 
+690 
+4 014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Amortyzacja 
+(677) 
+(385) 
+(56) 
+(302) 
+(1 142) 
+(413) 
+- 
+(2 975) 
+Odsetki 
+(2 633) 
+491 
+(864) 
+230 
+(27) 
+702 
+ 12 
+(2 089) 
+EBITDA* 
+20 744 
+(936) 
+(2 825) 
+(799) 
+551 
+(6 292) 
+678 
+11 121 
+ 
+ 
+ 
+ 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+41 
+w tysiącach złotych 
+Obrót 
+paliwami 
+ciekłymi 
+Obrót 
+paliwami 
+gazowymi 
+Energia 
+elektryczna 
+Fotowoltaika 
+Działalność 
+pozostała 
+Nieprzypisane 
+Eliminacje 
+transakcji w 
+Grupie 
+Skonsolidowane 
+razem 
+za okres 01.01.2020 - 30.09.2020 
+ 
+Przychody od odbiorców zewnętrznych 
+3 106 416 
+37 036 
+85 440 
+1 202 
+327 110 
+3 525 
+- 
+3 560 729 
+Zyski/(straty) z tytułu działalności tradingowej dotyczącej energii elektrycznej 
+- 
+- 
+8 708 
+- 
+- 
+- 
+- 
+8 708 
+Zyski/(straty) z tytułu instrumentów finansowych dotyczących obrotu paliwem 
+(44 830) 
+- 
+- 
+- 
+- 
+- 
+- 
+(44 830) 
+Przychody od odbiorców z Grupy* 
+52 
+8 548 
+31 043 
+- 
+88 119 
+- 
+(127 762) 
+- 
+Przychody ogółem 
+3 061 638 
+45 584 
+125 191 
+1 202 
+415 229 
+3 525 
+(127 762) 
+3 524 607 
+Koszt sprzedanych towarów, produktów i mat. do odbiorców zewnętrznych 
+(2 941 413) 
+(28 194) 
+(82 557) 
+(1 108) 
+(316 622) 
+- 
+- 
+(3 369 894) 
+Koszt sprzedanych towarów, produktów i mat. do odbiorców z Grupy* 
+(40) 
+(8 275) 
+(28 097) 
+- 
+(88 086) 
+- 
+124 498 
+- 
+Koszt sprzedanych towarów, produktów 
+(2 941 453) 
+(36 469) 
+(110 654) 
+(1 108) 
+(404 708) 
+- 
+124 498 
+(3 369 894) 
+i materiałów, ogółem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wynik segmentu 
+120 185 
+9 115 
+14 537 
+94 
+10 521 
+3 525 
+(3 264) 
+154 713 
+Pozostałe przychody operacyjne 
+2 210 
+112 
+245 
+5 
+180 
+66 
+1 
+2 819 
+Koszty sprzedaży i ogólnego zarządu 
+(91 008) 
+(7 419) 
+(12 423) 
+(729) 
+(12 542) 
+(15 454) 
+2 968 
+(136 607) 
+Pozostałe zyski/straty netto 
+193 
+11 
+- 
+- 
+- 
+- 
+- 
+204 
+Pozostałe koszty operacyjne 
+(190) 
+(28) 
+(7) 
+- 
+(14) 
+(5 890) 
+(9) 
+(6 138) 
+Wynik na działalności operacyjnej 
+31 390 
+1 791 
+2 352 
+(630) 
+(1 855) 
+(17 753) 
+(304) 
+14 991 
+Przychody finansowe 
+498 
+4 
+412 
+- 
+31 
+63 
+(252) 
+756 
+Koszty finansowe 
+(3 855) 
+(407) 
+(339) 
+(12) 
+(6) 
+(8) 
+142 
+(4 485) 
+Podatek dochodowy 
+- 
+- 
+- 
+- 
+- 
+- 
+(204) 
+(2 403) 
+Zysk/(strata) za okres 
+28 033 
+1 388 
+2 425 
+(642) 
+(1 830) 
+(17 698) 
+(618) 
+8 859 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Amortyzacja 
+(2 289) 
+(1 154) 
+(316) 
+(12) 
+(1 095) 
+(1 376) 
+- 
+(6 242) 
+Odsetki 
+(3 151) 
+(289) 
+349 
+(35) 
+244 
+61 
+(414) 
+(3 234) 
+EBITDA* 
+33 473 
+2 830 
+2 392 
+(595) 
+(979) 
+(16 383) 
+- 
+20 738 
+ 
+ 
+ 
+ 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+42 
+w tysiącach złotych 
+Obrót 
+paliwami 
+ciekłymi 
+Obrót 
+paliwami 
+gazowymi 
+Energia 
+elektryczna 
+Fotowoltaika 
+Działalność 
+pozostała 
+Nieprzypisane 
+Eliminacje 
+transakcji w 
+Grupie 
+Skonsolidowane 
+razem 
+za okres 01.07.2020 - 30.09.2020 
+ 
+Przychody od odbiorców zewnętrznych 
+1 055 271 
+6 551 
+33 043 
+1 202 
+245 396 
+1 053 
+- 
+1 342 516 
+Zyski/(straty) z tytułu działalności tradingowej dotyczącej energii elektrycznej 
+- 
+- 
+(643) 
+- 
+- 
+- 
+- 
+(643) 
+Zyski/(straty) z tytułu instrumentów finansowych dotyczących obrotu paliwem 
+(3 579) 
+- 
+- 
+- 
+- 
+- 
+- 
+(3 579) 
+Przychody od odbiorców z Grupy* 
+4 
+2 313 
+10 560 
+- 
+87 719 
+- 
+(100 596) 
+- 
+Przychody ogółem 
+1 051 696 
+8 864 
+42 960 
+1 202 
+333 115 
+1 053 
+(100 596) 
+1 338 294 
+Koszt sprzedanych towarów, produktów i mat. do odbiorców zewnętrznych 
+(1 014 656) 
+(4 516) 
+(31 756) 
+(1 108) 
+(240 764) 
+- 
+- 
+(1 292 800) 
+Koszt sprzedanych towarów, produktów i mat. do odbiorców z Grupy* 
+- 
+(2 144) 
+(9 741) 
+- 
+(87 712) 
+- 
+99 597 
+- 
+Koszt sprzedanych towarów, produktów 
+(1 014 656) 
+(6 660) 
+(41 497) 
+(1 108) 
+(328 476) 
+- 
+99 597 
+(1 292 800) 
+i materiałów, ogółem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wynik segmentu 
+37 040 
+2 204 
+1 463 
+94 
+4 639 
+1 053 
+(999) 
+45 494 
+Pozostałe przychody operacyjne 
+928 
+95 
+178 
+5 
+166 
+- 
+- 
+1 372 
+Koszty sprzedaży i ogólnego zarządu 
+(29 410) 
+(3 231) 
+(2 843) 
+(729) 
+(5 622) 
+(4 435) 
+1 359 
+(44 911) 
+Pozostałe zyski/straty netto 
+47 
+11 
+- 
+- 
+- 
+- 
+- 
+58 
+Pozostałe koszty operacyjne 
+(115) 
+(9) 
+(5) 
+- 
+- 
+84 
+(1) 
+(46) 
+Wynik na działalności operacyjnej 
+8 490 
+(930) 
+(1 207) 
+(630) 
+(817) 
+(3 298) 
+359 
+1 967 
+Przychody finansowe 
+269 
+1 
+302 
+- 
+6 
+6 
+(185) 
+399 
+Koszty finansowe 
+(1 191) 
+(138) 
+(127) 
+(12) 
+(2) 
+48 
+38 
+(1 384) 
+Podatek dochodowy 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+(68) 
+Zysk/(strata) za okres 
+7 568 
+(1 067) 
+(1 032) 
+(642) 
+(813) 
+(3 244) 
+212 
+914 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Amortyzacja 
+(1 175) 
+(398) 
+(152) 
+(12) 
+(562) 
+(479) 
+49 
+(2 729) 
+Odsetki 
+(1 050) 
+(360) 
+599 
+(35) 
+212 
+(232) 
+163 
+(703) 
+EBITDA* 
+9 793 
+(309) 
+(1 479) 
+(595) 
+(463) 
+(2 533) 
+ 
+4 414 
+*Pozycje: „Przychody od odbiorców z Grupy” oraz „Koszt sprzedanych towarów, produktów i mat. do odbiorców z Grupy” dotyczą przeprowadzanych transakcji wewnątrzgrupowych w ramach 
+poszczególnych segmentów 
+ 
+ 
+
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021 
+ 
+43 
+Główne pozycje niepieniężne na dzień 30.09.2021 r. 
+Obrót paliwami ciekłymi 
+Obrót 
+paliwami 
+gazowymi 
+Energia 
+Fotowoltaika 
+Działalność 
+pozostała 
+Nieprzypisane 
+ 
+Amortyzacja 
+ (3 075) 
+ 
+(1 133) 
+ 
+(173) 
+ 
+(926) 
+ (2 979) 
+ (1 353) 
+ 
+(9 639) 
+Wycena zapasów do wartości godziwej 
+ 88 708 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+88 708 
+Wycena bilansowa instrumentów pochodnych do wartości godziwej 
+ (69 610) 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+(69 610) 
+Wycena bilansowa kredytów 
+ 11 830 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+11 830 
+Wycena bilansowa rozrachunków 
+ (18 102) 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+(18 102) 
+Główne pozycje niepieniężne ogółem 
+ 9 751 
+ 
+(1 133) 
+ 
+(173) 
+ 
+(926) 
+ (2 979) 
+ (1 353) 
+ 
+3 187 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Główne pozycje niepieniężne na dzień 31.12.2020 r. 
+Obrót paliwami ciekłymi 
+Obrót 
+paliwami 
+gazowymi 
+Energia 
+Fotowoltaika 
+Działalność 
+pozostała 
+Nieprzypisane 
+ 
+Amortyzacja 
+ (3 464) 
+ 
+(1 525) 
+ 
+(336) 
+ 
+(171) 
+ (1 693) 
+ (1 836) 
+ 
+(9 025) 
+Wycena zapasów do wartości godziwej 
+ (30 340) 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+(30 340) 
+Wycena bilansowa instrumentów pochodnych do wartości godziwej 
+ 2 939 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+2 939 
+Wycena bilansowa kredytów 
+ (3 284) 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+(3 284) 
+Wycena bilansowa rozrachunków 
+ 714 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+714 
+Główne pozycje niepieniężne ogółem 
+ (33 435) 
+ 
+(1 525) 
+ 
+(336) 
+ 
+(171) 
+ (1 693) 
+ (1 836) 
+ 
+(38 996) 
+
+UNIMOT 
+44 
+ 
+ 
+Przychody ze sprzedaży - podział geograficzny według lokalizacji finalnych odbiorców 
+w tysiącach złotych 
+01.01.2021 
+01.01.2020 
+-30.09.2021 
+-30.09.2020 
+Polska 
+4 639 714 
+2 666 944 
+Czechy 
+257 865 
+296 978 
+Szwajcaria 
+3 916 
+2 060 
+Słowacja 
+10 617 
+5 138 
+Ukraina 
+14 310 
+5 957 
+Węgry 
+49 575 
+15 253 
+Serbia 
+ - 
+1 570 
+Wielka Brytania 
+31 928 
+272 461 
+Austria 
+14 476 
+22 038 
+Estonia 
+ - 
+13 748 
+Belgia 
+8 405 
+14 472 
+Niemcy 
+50 004 
+139 538 
+Tajwan 
+317 
+556 
+Holandia 
+248 086 
+ - 
+Chiny 
+4 108 
+659 
+Cypr 
+12 
+61 
+Rumunia 
+ - 
+122 
+Bułgaria 
+46 665 
+63 299 
+Litwa 
+4 743 
+3 722 
+Szwecja 
+ - 
+31 
+Razem 
+5 384 741 
+3 524 607 
+ 
+Główni odbiorcy 
+W okresie 9m-cy 2021 r. i 9 m-cy 2020 r. żaden z odbiorców Grupy nie przekroczył 10% przychodów. 
+ 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+45 
+ 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+46 
+7. DODATKOWE NOTY OBJAŚNIAJĄCE DO ŚRÓDROCZNEGO SKRÓCONEGO SKONSOLIDOWANEGO 
+SPRAWOZDANIA FINANSOWEGO 
+7.1. 
+PRZYCHODY ZE SPRZEDAŻY 
+w tysiącach złotych 
+01.01.202130.09.2021 
+01.01.202030.09.2020 
+Przychody ze sprzedaży usług 
+22 206 
+7 367 
+Przychody ze sprzedaży towarów 
+5 337 527 
+3 553 362 
+Zyski/(straty) z tytułu działalności tradingowej dotyczącej energii elektrycznej* 
+(6 533) 
+8 708 
+Zyski/(straty) z tytułu instrumentów finansowych dotyczących obrotu paliwem 
+31 541 
+(44 830) 
+Razem 
+5 384 741 
+3 524 607 
+*reklasyfikacji zysków z tytułu działalności tradingowej dotyczącej energii elektrycznej z przychodów finansowych w wysokości 8 708 zł za okres od 1.01.2020 do 
+30.09.2020 
+7.2. 
+KOSZTY WEDŁUG RODZAJU 
+w tysiącach złotych 
+01.01.202130.09.2021 
+01.01.202030.09.2020 
+Amortyzacja rzeczowych aktywów trwałych i wartości niematerialnych 
+(4 684) 
+(3 555) 
+Amortyzacja aktywa z tytułu prawa do użytkowania aktywów 
+(4 955) 
+(2 687) 
+Zużycie materiałów i energii 
+(8 495) 
+(2 806) 
+Usługi obce 
+(130 378) 
+(101 832) 
+Podatki i opłaty 
+(1 558) 
+(1 007) 
+Wynagrodzenia 
+(20 800) 
+(15 874) 
+Ubezpieczenia społeczne i inne świadczenia 
+(2 506) 
+(1 850) 
+Pozostałe koszty rodzajowe 
+(12 958) 
+(5 237) 
+Koszty według rodzaju razem 
+(186 334) 
+(134 848) 
+Koszt sprzedanych produktów, towarów i materiałów 
+(5 130 818) 
+(3 368 786) 
+Zmiana stanu zapasów i rozliczeń międzyokresowych kosztów 
+(620) 
+214 
+Pozostałe 
+3 827 
+(3 081) 
+Koszty sprzedanych produktów, towarów i materiałów, koszty sprzedaży i 
+ogólnego zarządu 
+(5 313 945) 
+(3 506 501) 
+7.3. 
+KOSZTY SPRZEDANYCH PRODUKTÓW, TOWARÓW I MATERIAŁÓW 
+w tysiącach złotych 
+01.01.202130.09.2021 
+01.01.202030.09.2020 
+Wartość sprzedanych towarów i materiałów w cenie zakupu 
+(5 077 531) 
+(3 396 425) 
+Wycena zapasów obowiązkowych do wartości godziwej na dzień 30.06.2021 r. 
+88 708 
+(57 770) 
+Wycena bilansowa instrumentów pochodnych dotycząca zapasu obowiązkowego 
+(69 610) 
+20 990 
+Efekt realizacji instrumentów zabezpieczających dotyczących zapasu obowiązkowego 
+(55 413) 
+60 920 
+Zrealizowane różnice kursowe od kredytów 
+(12 618) 
+5 962 
+Wycena bilansowa kredytów 
+11 830 
+(3 510) 
+Zrealizowane różnice kursowe od rozrachunków 
+1 918 
+3 343 
+Wycena bilansowa rozrachunków 
+(18 102) 
+(2 296) 
+Razem 
+(5 130 818) 
+(3 368 786) 
+Koszt wytworzenia sprzedanych produktów 
+(11 286) 
+(1 108) 
+Koszty sprzedanych produktów, towarów i materiałów 
+(5 142 104) 
+(3 369 894) 
+ 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+47 
+7.4. 
+POZOSTAŁE KOSZTY OPERACYJNE 
+w tysiącach złotych 
+01.01.202130.09.2021 
+01.01.202030.09.2020 
+Koszty odsetkowe od zobowiązań niefinansowych 
+(131) 
+(50) 
+Koszty postępowania sądowego 
+(16) 
+(105) 
+Darowizny 
+(132) 
+(1 888) 
+Odpis aktualizujący wartość inwestycji 
+- 
+(4 000) 
+Odszkodowania 
+(20) 
+(26) 
+Pozostałe 
+(597) 
+(69) 
+Razem 
+(896) 
+(6 138) 
+7.5. 
+PODATEK DOCHODOWY 
+w tysiącach złotych 
+01.01.202130.09.2021 
+01.01.202030.09.2020 
+Podatek dochodowy bieżący 
+ 
+ 
+Podatek dochodowy za rok bieżący 
+(27 078) 
+(12 113) 
+Podatek odroczony 
+ 
+ 
+Powstanie/(odwrócenie) różnic przejściowych 
+11 678 
+9 710 
+Podatek dochodowy wykazany w skróconym śródrocznym sprawozdaniu z 
+całkowitych dochodów 
+(15 400) 
+(2 403) 
+Efektywna stopa podatkowa 
+w tysiącach złotych 
+01.01.2021 – 
+30.09.2021 
+01.01.2020 - 
+30.09.2020 
+Zysk/(strata) przed opodatkowaniem 
+66 213 
+11 262 
+Podatek w oparciu o obowiązującą stawkę podatkową 
+ (12 580) 
+ (2 140) 
+Koszty trwale niestanowiące kosztów uzyskania przychodów* 
+ (2 820) 
+ (263) 
+Razem 
+ (15 400) 
+ (2 403) 
+Efektywna stopa podatkowa 
+23,3% 
+21,3% 
+7.6. 
+RZECZOWE AKTYWA TRWAŁE 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Grunty 
+3 339 
+1 333 
+Budynki i budowle 
+27 672 
+25 129 
+Maszyny i urządzenia 
+6 078 
+5 004 
+Środki transportu 
+564 
+394 
+Pozostałe aktywa obrotowe 
+2 128 
+1 542 
+Środki trwałe w budowie 
+3 920 
+2 432 
+Razem 
+43 701 
+35 834 
+Grupa na sprzedaży rzeczowych aktywów trwałych zrealizowała zysk netto w wysokości 384 tys. zł (za 9 m-cy 2021 r.) i zysk 
+netto w wysokości 204 tys. zł (za 9 m-cy 2020 r.). 
+Grupa w okresie 9 m-cy 2021 r. poniosła nakłady inwestycyjne w wysokości 10 103 tys. zł, głównie na: zakup nowej stacji paliw, 
+modernizację i dostosowanie do marki Avia dzierżawionych oraz własnych stacji paliw, sprzętu komputerowego oraz 
+wyposażenia. 
+Grupa w okresie 9 m-cy 2020 r. poniosła nakłady inwestycyjne w wysokości 2 973 tys zł, głównie na modernizację i dostosowanie 
+do marki Avia dzierżawionych oraz własnych stacji paliw, zakupu środków transportowych, sprzętu komputerowego oraz 
+wyposażenia. 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+48 
+7.7. 
+PRAWO DO UŻYTKOWANIA AKTYWÓW 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Budynki i budowle 
+56 511 
+46 564 
+Środki transportu 
+8 606 
+7 714 
+Razem 
+65 117 
+54 278 
+Grupa w okresie 9 m-cy 2021 r. nabyła prawa do użytkowania aktywów w wysokości 18 397 tys. zł. 
+Grupa w okresie 9 m-cy 2020 r. nabyła prawa do użytkowania aktywów w wysokości 29 082 tys. zł. 
+7.8. POZOSTAŁE AKTYWA FINANSOWE 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Inwestycje długoterminowe 
+260 
+260 
+Udziały w jednostkach powiązanych nie objętych konsolidacją 
+260 
+260 
+Inwestycje krótkoterminowe 
+65 102 
+194 
+Pożyczki 
+13 992 
+194 
+Środki pieniężne o ograniczonym dostępie zabezpieczające przyszłe transakcje 
+hedgingowe 
+51 110 
+- 
+Razem 
+65 362 
+454 
+7.9. ZAPASY 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Materiały 
+3 528 
+2 231 
+Półprodukty i produkcja w toku 
+487 
+673 
+Towary – zapas obowiązkowy 
+229 853 
+132 886 
+Towary – zapas operacyjny 
+122 554 
+30 905 
+Razem 
+356 422 
+166 695 
+Wycena zapasów według wartości godziwej – poziom 1 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Koszt nabycia zapasów operacyjnych 
+65 968 
+21 452 
+Koszt nabycia zapasów obowiązkowych i operacyjnych wycenianych w wartości 
+godziwej 
+191 863 
+135 360 
+Wycena zapasów do wartości godziwej 
+98 591 
+9 883 
+Razem 
+356 422 
+166 695 
+7.10. POZOSTAŁE NALEŻNOŚCI DŁUGOTERMINOWE 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Pozostałe należności długoterminowe 
+ 
+Należności z tytułu pozostałych kaucji 
+15 722 
+9 899 
+Razem pozostałe należności długoterminowe 
+15 722 
+9 899 
+7.11. NALEŻNOŚCI HANDLOWE ORAZ POZOSTAŁE NALEŻNOŚCI 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Należności handlowe oraz pozostałe należności 
+ 
+Należności handlowe 
+456 162 
+225 835 
+Należności z tytułu podatków, dotacji, ceł, ubezpieczeń, z wyjątkiem należności z 
+tytułu podatku dochodowego 
+15 644 
+6 951 
+Zaliczki na poczet dostaw i usług 
+94 797 
+39 930 
+Należności z tytułu zabezpieczenia akcyzowego 
+15 575 
+23 061 
+Należności z tytułu pozostałych kaucji 
+24 937 
+35 762 
+Pozostałe należności 
+1 058 
+1 132 
+Razem należności 
+608 173 
+332 671 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+49 
+7.12. 
+ZOBOWIĄZANIA Z TYTUŁU KREDYTÓW, POŻYCZEK ORAZ INNYCH INSTRUMENTÓW DŁUŻNYCH ORAZ KREDYTÓW 
+W RACHUNKACH BIEŻĄCYCH 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Zobowiązania długoterminowe 
+ 
+ 
+Kredyty i pożyczki zabezpieczone na majątku Grupy 
+2 477 
+3 667 
+Zobowiązania z tytułu leasingu 
+56 664 
+45 329 
+Razem zobowiązania długoterminowe 
+59 141 
+48 996 
+Zobowiązania krótkoterminowe 
+ 
+ 
+Krótkoterminowa część kredytów i pożyczek zabezpieczonych na majątku Grupy 
+1 553 
+1 552 
+Zobowiązania z tytułu leasingu 
+8 035 
+7 847 
+Razem zobowiązania krótkoterminowe 
+9 588 
+9 401 
+Kredyt w rachunku bieżącym 
+332 563 
+172 440 
+Razem 
+401 292 
+230 837 
+W okresie objętym niniejszym śródrocznym skróconym skonsolidowanym sprawozdaniem finansowym, jak również po dniu 
+sprawozdawczym, nie wystąpiły przypadki niewywiązania się ze spłaty kapitału bądź odsetek. 
+Nie wystąpiły naruszenia innych warunków zawartych w umowach kredytowych. 
+7.13. POCHODNE INSTRUMENTY FINANSOWE 
+Pochodne instrumenty finansowe - aktywa finansowe 
+w tysiącach złotych 
+30.09.2021 
+30.09.2020 
+Długoterminowe aktywa finansowe 
+ 
+ 
+Kontrakty futures 
+ - 
+13 247 
+Razem 
+ - 
+13 247 
+Krótkoterminowe aktywa finansowe 
+ 
+ 
+Kontrakty futures 
+26 796 
+14 885 
+Razem 
+26 796 
+14 885 
+Pochodne instrumenty finansowe - zobowiązania finansowe 
+w tysiącach złotych 
+30.09.2021 
+30.09.2020 
+Długoterminowe zobowiązania finansowe 
+ 
+ 
+Kontrakty futures 
+12 860 
+3 438 
+Razem 
+12 860 
+3 438 
+Krótkoterminowe zobowiązania finansowe 
+ 
+ 
+Kontrakty futures 
+81 940 
+17 700 
+Razem 
+81 940 
+17 700 
+Zmiana wyceny instrumentów finansowych (kontrakty futures) na 30.09.2021 r. względem 31.12.2020 r. wynikała z istotnej 
+zmiany notowań produktów ropopochodnych na rynkach międzynarodowych. Wzrost cen z jednej strony wpływa na dodatnią 
+wycenę zapasów oleju napędowego, a z drugiej na ujemną wycenę kontraktów terminowych, zawartych przy niższych 
+poziomach cen. Ujemna wycena kontraktów terminowych odnoszona jest po stronie pasywów, dodatnia zaś ma 
+odzwierciedlenie po stronie aktywów, całość odpowiednio rozdzielone na część krótko- oraz długo terminową. 
+7.14. 
+TRANSAKCJE ORAZ STAN ROZRACHUNKÓW SPÓŁEK GRUPY Z PODMIOTAMI POWIĄZANYMI 
+NIEKONSOLIDOWANYMI 
+Jednostki powiązane niekonsolidowane: 
+- UNIMOT Express Sp. z o.o. (jednostka dominująca) 
+ 
+- Zemadon Limited (jednostka powiązana z UNIMOT Express Sp. z o.o.) 
+ 
+- Ammerviel Limited (jednostka powiązana z UNIMOT Express Sp. z o.o.) 
+ 
+- UNIMOT Truck Sp. z o.o. (jednostka powiązana z UNIMOT Express Sp. z o.o.) 
+ 
+ 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+50 
+ 
+Sprzedaż 
+Zakup 
+w tysiącach złotych 
+01.01.202130.09.2021 
+01.01.202030.09.2020 
+01.01.202130.09.2021 
+01.01.202030.09.2020 
+Jednostki powiązane niekonsolidowane 
+ 277 
+ 447 
+ 603 
+ 527 
+Razem 
+ 277 
+ 447 
+ 603 
+ 527 
+ 
+ 
+Sprzedaż 
+Zakup 
+w tysiącach złotych 
+01.07.202130.09.2021 
+01.07.202030.09.2020 
+01.07.202130.09.2021 
+01.07.202030.09.2020 
+Jednostki powiązane niekonsolidowane 
+109 
+327 
+285 
+208 
+Razem 
+109 
+327 
+285 
+208 
+ 
+ 
+Należności handlowe, z tytułu 
+pożyczek oraz pozostałe należności 
+Zobowiązania z tytułu dostaw 
+i usług, z tytułu pożyczek oraz 
+pozostałe zobowiązania 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+30.09.2021 
+31.12.2020 
+Jednostki powiązane niekonsolidowane 
+ 37 
+ 83 
+ 145 
+ 324 
+Razem 
+ 37 
+ 83 
+ 145 
+ 324 
+W okresie 9 miesięcy zakończonym 30 września 2021 r. i 30 września 2020 r. w Grupie nie wystąpiły transakcje zawarte 
+z podmiotami powiązanymi na warunkach innych niż rynkowe. Transakcje te dotyczyły głównie zakupu towarów i usług na 
+potrzeby bieżącej działalności operacyjnej. 
+7.15. 
+GWARANCJE, PORĘCZENIA ORAZ ZOBOWIĄZANIA WARUNKOWE 
+7.15.1. ZOBOWIĄZANIA WARUNKOWE 
+Wartość zobowiązań warunkowych na dzień 30 września 2021 roku oraz na dzień 31 grudnia 2020 roku wyniosła 17 mln zł. 
+Wartość akredytyw standby wystawionych na zlecenie spółki Unimot S.A., w ING Genewa (zabezpieczone kaucją) na dzień 30 
+września 2021 roku oraz na dzień 31.12.2020 roku wyniosła odpowiednio 6,2 mln USD i 0 mln USD. 
+7.15.2. PORĘCZENIA ORAZ GWARANCJE 
+Kwota gwarancji bankowych oraz ubezpieczeniowych dotyczących zobowiązań spółki Unimot S.A. wobec osób trzecich, 
+wystawionych w toku bieżącej działalności na dzień 30 września 2021 roku oraz na dzień 31 grudnia 2020 roku wyniosła 
+odpowiednio 36,7 mln PLN i 8,2 mln EUR oraz 32 mln PLN i 6,8 mln EUR. Dotyczyły one głównie: gwarancji cywilnoprawnych 
+związanych z zabezpieczeniem należytego wykonania umów oraz gwarancji publicznoprawnych, wynikających z przepisów 
+powszechnie obowiązujących zabezpieczających prawidłowość prowadzenia działalności koncesjonowanych w sektorze paliw 
+ciekłych i wynikających z tej działalności należności podatkowych, celnych itp. 
+Spółka Unimot S.A. wystawiła gwarancje, poręczenia cywilne i poręczenia wekslowe za zobowiązania jednostek powiązanych 
+konsolidowanych w kwotach na dzień 30 września 2021 roku oraz na dzień 31 grudnia 2020 roku wyniosła odpowiednio 21,5 
+mln PLN i 21,4 mln PLN. 
+7.16. 
+INNE INFORMACJE, KTÓRE ZDANIEM EMITENTA SĄ ISTOTNE DLA OCENY JEGO SYTUACJI KADROWEJ, 
+MAJĄTKOWEJ, FINANSOWEJ, WYNIKU FINANSOWEGO I ICH ZMIAN, ORAZ INFORMACJE, KTÓRE SĄ ISTOTNE DLA OCENY 
+MOŻLIWOŚCI REALIZACJI ZOBOWIĄZAŃ EMITENTA. 
+Brak zdarzeń wymagających ujawnienia. 
+7.17. 
+SZACUNEK WPŁYWU EPIDEMII KORONAWIRUSA COVID-19 NA DZIAŁALNOŚĆ I SYTUACJĘ FINANSOWĄ GRUPY 
+KAPITAŁOWEJ 
+Zarząd Jednostki Dominującej na bieżąco analizuje informacje dotyczące rozprzestrzeniania się koronawirusa COVID-19 na 
+świecie, a zwłaszcza w Polsce i regionie, co wynika z geograficznego podstawowego zakresu działalności Grupy Kapitałowej 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+51 
+UNIMOT. Największe znaczenie Zarząd przywiązuje do informacji przekazywanych przez Rząd Polski, Narodowy Bank Polski 
+i inne naczelne krajowe instytucje państwowe. 
+W oparciu o obecnie dostępne informacje Zarząd Jednostki Dominującej nie widzi zagrożenia w kontynuacji dostaw klientom 
+naszych podstawowych produktów tj. oleju napędowego, biopaliw, LPG, gazu ziemnego, energii elektrycznej 
+i pozostałych produktów ropopochodnych. Dostęp do paliw, obok żywności i lekarstw, wydaje się mieć kluczowe znaczenie dla 
+władz państwowych i społeczeństwa. Grupa jest czołowym importerem zarówno oleju napędowego, jak i LPG oraz asfaltów i 
+jest przygotowana do dalszej działalności w tych segmentach. 
+Na chwilę obecną, z uwagi na dynamicznie zmieniające się otoczenie, Zarząd Jednostki Dominującej nie jest w stanie 
+w sposób precyzyjny określić ostatecznego wpływu epidemii koronawirusa COVID-19 oraz ograniczeń wprowadzanych przez 
+Rząd Polski oraz Unię Europejską na działalność i perspektywy Grupy Kapitałowej UNIMOT. Zakres wpływu uzależniony będzie, 
+przede wszystkim, od czasu trwania epidemii oraz stopnia jej intensywności, co bezpośrednio wpływać będzie na ograniczenia 
+handlowe i zmiany popytowo-podażowe, co z kolei jest kluczowe dla działalności spółek handlowych. 
+7.18. 
+ZDARZENIA PO DNIU SPRAWOZDAWCZYM 
+W dniu 8.10.2021 Unimot S.A. zakupiła ogół praw i obowiązków w Spółce Tradea Sp. z o.o Sp.K. w wysokości 1 000 zł. Unimot 
+S.A. pełni w tej Spółce funkcję komandytariusza z prawem do 99,99 % zysków tej Spółki. 
+ 
+W dnia 20.10.2021 r. w skład Grupy Kapitałowej weszły trzy nowe spółki SPV, tj.: 
+• 
+UNIMOT Investments Sp. z o.o. z siedzibą w Warszawie, w której Jednostka Dominująca posiada 100% udziałów, 
+• 
+UNIMOT B1 Sp. z o.o. z siedzibą w Warszawie, w której Jednostka Dominująca posiada pośrednio poprzez UNIMOT 
+Investments Sp. z o.o. 100% udziałów, 
+• 
+UNIMOT T1 Sp. z o.o. z siedzibą w Warszawie, w której Jednostka Dominująca posiada pośrednio poprzez UNIMOT 
+Investments Sp. z o.o. 100% udziałów. 
+Wskazane wyżej spółki nie prowadzą aktualnie działalności operacyjnej i nie podlegają konsolidacji w III kwartale 2021 roku. 
+Nowe SPV mogą posłużyć do prowadzenia rozwojowych projektów inwestycyjnych Jednostki Dominującej. 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+52 
+ 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+53 
+8. ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE 
+Śródroczne skrócone jednostkowe sprawozdanie z sytuacji finansowej 
+w tysiącach złotych 
+Nota 
+30.09.2021 
+(niebadane) 
+31.12.2020 
+Aktywa trwałe 
+ 
+ 
+ 
+ Rzeczowe aktywa trwałe 
+10.7 
+19 476 
+11 036 
+ Prawo do użytkowania aktywów 
+10.8 
+62 196 
+52 459 
+ Wartości niematerialne 
+ 
+14 297 
+14 315 
+ Inwestycje w jednostki zależne 
+ 
+52 488 
+48 338 
+ Pozostałe aktywa finansowe 
+10.9 
+260 
+260 
+ Pochodne instrumenty finansowe 
+ 7.13 
+- 
+13 247 
+ Pozostałe należności długoterminowe 
+10.11 
+15 722 
+9 899 
+ Aktywa z tytułu umów z klientami 
+ 
+5 610 
+3 628 
+ Aktywa z tytułu odroczonego podatku dochodowego 
+ 
+18 517 
+6 027 
+ Pozostałe aktywa 
+ 
+- 
+- 
+Aktywa trwałe razem 
+ 
+188 566 
+159 209 
+Aktywa obrotowe 
+ 
+ 
+ 
+ Zapasy 
+10.10 
+348 679 
+163 145 
+ Aktywa z tytułu umów z klientami 
+ 
+1 670 
+1 322 
+ Należności handlowe oraz pozostałe należności 
+10.12 
+560 600 
+304 527 
+ Pozostałe aktywa finansowe 
+10.9 
+57 443 
+2 765 
+ Pochodne instrumenty finansowe 
+7.13 
+26 796 
+14 885 
+ Środki pieniężne i ich ekwiwalenty 
+ 
+51 391 
+92 806 
+ Pozostałe aktywa obrotowe 
+ 
+6 314 
+4 815 
+Aktywa obrotowe razem 
+ 
+1 052 893 
+584 265 
+AKTYWA RAZEM 
+ 
+1 241 459 
+743 474 
+Prezes Zarządu 
+ 
+Wiceprezes Zarządu 
+ 
+Wiceprezes Zarządu 
+ 
+ 
+ 
+ 
+Adam Sikorski 
+ 
+Robert Brzozowski 
+ 
+Filip Kuropatwa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Osoba sporządzająca sprawozdanie 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Małgorzata Walnik 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+54 
+Śródroczne skrócone jednostkowe sprawozdanie z sytuacji finansowej (ciąg dalszy) 
+w tysiącach złotych 
+Nota 
+30.09.2021 
+(niebadane) 
+31.12.2020 
+Kapitał własny 
+ 
+ 
+ Kapitał zakładowy 
+ 
+8 198 
+8 198 
+ Pozostałe kapitały 
+ 
+234 946 
+218 816 
+ Wynik z lat ubiegłych i wynik roku bieżącego 
+ 
+63 018 
+32 723 
+Kapitał własny ogółem 
+ 
+306 162 
+259 737 
+Zobowiązania długoterminowe 
+ 
+ 
+ Zobowiązania z tytułu kredytów, pożyczek oraz innych instrumentów dłużnych 
+10.13 
+54 742 
+44 284 
+ Zobowiązania z tytułu świadczeń pracowniczych 
+ 
+256 
+256 
+ Pochodne instrumenty finansowe 
+7.13 
+12 860 
+3 438 
+Zobowiązania długoterminowe razem 
+ 
+67 858 
+47 978 
+Zobowiązania krótkoterminowe 
+ 
+ 
+ Kredyty w rachunku bieżącym 
+10.13 
+329 408 
+172 440 
+ Zobowiązania z tytułu kredytów, pożyczek oraz innych instrumentów dłużnych 
+10.13 
+7 205 
+17 876 
+ Pochodne instrumenty finansowe 
+7.13 
+81 940 
+17 700 
+ Zobowiązania z tytułu świadczeń pracowniczych 
+ 
+539 
+539 
+ Zobowiązania z tytułu podatku dochodowego 
+ 
+4 067 
+2 558 
+ Zobowiązania z tytułu umów z klientami 
+ 
+736 
+1 981 
+ Zobowiązania z tytułu dostaw i usług oraz pozostałe 
+ 
+443 544 
+222 665 
+Zobowiązania krótkoterminowe razem 
+ 
+867 439 
+435 759 
+Zobowiązania razem 
+ 
+935 297 
+483 737 
+PASYWA RAZEM 
+ 
+1 241 459 
+743 474 
+ 
+Prezes Zarządu 
+ 
+Wiceprezes Zarządu 
+ 
+Wiceprezes Zarządu 
+ 
+ 
+ 
+ 
+Adam Sikorski 
+ 
+Robert Brzozowski 
+ 
+Filip Kuropatwa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Osoba sporządzająca sprawozdanie 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Małgorzata Walnik 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+55 
+Śródroczne skrócone jednostkowe sprawozdanie z całkowitych dochodów 
+w tysiącach złotych 
+Nota 
+01.01.2021 - 
+30.09.2021 
+01.07.2021 - 
+30.09.2021 
+01.01.2020 - 
+30.09.2020 
+01.07.2020 - 
+30.09.2020 
+niebadane 
+niebadane 
+niebadane 
+niebadane 
+ Przychody ze sprzedaży 
+8.1 
+5 189 439 
+2 025 338 
+3 443 433 
+1 283 464 
+ Zyski/(straty) z instrumentów finansowych dotyczących obrotu 
+paliwem 
+ 
+31 541 
+(6 984) 
+(44 830) 
+(3 579) 
+ Koszty sprzedanych produktów, towarów i materiałów 
+10.2 
+(4 989 070) 
+(1 948 268) 
+(3 261 697) 
+(1 237 231) 
+Zysk/(strata) brutto ze sprzedaży 
+ 
+231 910 
+70 086 
+136 906 
+42 654 
+ Pozostałe przychody operacyjne 
+ 
+863 
+294 
+2 293 
+931 
+ Koszty sprzedaży 
+ 
+(131 805) 
+(48 652) 
+(103 657) 
+(35 473) 
+ Koszty ogólnego zarządu 
+ 
+(21 286) 
+(8 257) 
+(17 282) 
+(4 884) 
+ Pozostałe zyski/(straty) netto 
+ 
+143 
+81 
+193 
+47 
+ Pozostałe koszty operacyjne 
+10.4 
+(1 212) 
+(141) 
+(6 107) 
+(31) 
+Zysk/(strata) na działalności operacyjnej 
+ 
+78 613 
+13 411 
+12 346 
+3 244 
+ Przychody finansowe 
+ 10.5 
+3 828 
+62 
+592 
+281 
+ Koszty finansowe 
+ 10.5 
+ (5 421) 
+(2 332) 
+(3 869) 
+(1 149) 
+Przychody/(koszty) finansowe netto 
+ 10.5 
+(1 593) 
+(2 270) 
+(3 277) 
+(868) 
+Nadwyżka udziałów w aktywach netto ponad koszt nabycia 
+ 
+ 
+ 
+ 
+ 
+Zysk/(strata) przed opodatkowaniem 
+ 
+77 020 
+11 141 
+9 069 
+2 376 
+ Podatek dochodowy 
+10.6 
+(14 446) 
+(2 210) 
+(1 909) 
+(394) 
+Zysk/(strata) netto za okres sprawozdawczy 
+ 
+62 574 
+8 931 
+7 160 
+1 982 
+ 
+ 
+ 
+ 
+ 
+ 
+Pozostałe całkowite dochody netto 
+ 
+- 
+- 
+- 
+- 
+Całkowite dochody ogółem za okres sprawozdawczy 
+ 
+62 574 
+8 931 
+7 160 
+1 982 
+ 
+ 
+ 
+ 
+ 
+ 
+Podstawowy zysk/(strata) przypadająca na 1 akcję (w zł) 
+ 
+7,63 
+1,09 
+0,87 
+0,24 
+Rozwodniona zysk/(strata) przypadająca na 1 akcję 
+ 
+7,63 
+1,09 
+0,87 
+0,24 
+ 
+Prezes Zarządu 
+ 
+Wiceprezes Zarządu 
+ 
+Wiceprezes Zarządu 
+ 
+ 
+ 
+ 
+Adam Sikorski 
+ 
+Robert Brzozowski 
+ 
+Filip Kuropatwa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Osoba sporządzająca sprawozdanie 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Małgorzata Walnik 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+56 
+Śródroczne skrócone jednostkowe sprawozdanie ze zmian w kapitale własnym 
+w tysiącach złotych 
+Kapitał 
+zakładowy 
+Pozostałe 
+kapitały (w 
+tym akcje 
+własne) 
+Wynik z lat 
+ubiegłych 
+Wynik roku 
+bieżącego 
+Kapitał własny 
+razem 
+Kapitał własny na dzień 1 stycznia 2020 
+8 198 
+181 140 
+444 
+53 825 
+243 607 
+Całkowite dochody za rok obrotowy 
+- 
+- 
+- 
+7 160 
+7 160 
+ - Zysk/(strata) netto za okres 
+- 
+- 
+- 
+7 160 
+7 160 
+Transakcje z właścicielami, ujęte bezpośrednio w 
+kapitale własnym 
+ 
+ 
+ 
+ 
+ 
+Dopłaty od i wypłaty do właścicieli 
+- 
+- 
+- (16 149) (16 149) 
+Dywidenda 
+- 
+- 
+- (16 149) (16 149) 
+Przeniesienie zysku 
+- 
+37 676 
+- (37 676) 
+ - 
+Kapitał własny na dzień 30 września 2020 
+8 198 
+218 816 
+444 
+7 160 
+234 618 
+ 
+ 
+ 
+ 
+ 
+Kapitał własny na dzień 1 stycznia 2020 
+8 198 
+181 140 
+444 
+53 825 
+243 607 
+Całkowite dochody za rok obrotowy 
+- 
+- 
+- 32 279 32 279 
+ - Zysk/(strata) netto za okres 
+- 
+- 
+- 32 279 32 279 
+Transakcje z właścicielami, ujęte bezpośrednio w 
+kapitale własnym 
+ 
+ 
+ 
+Dopłaty od i wypłaty do właścicieli 
+- 
+- 
+- (16 149) (16 149) 
+Dywidenda 
+- 
+- 
+- (16 149) (16 149) 
+Przeniesienie zysku 
+- 
+37 676 
+ (37 676) 
+ - 
+Kapitał własny na dzień 31 grudnia 2020 
+8 198 
+218 816 
+444 
+32 279 
+259 737 
+ 
+ 
+ 
+ 
+ 
+Kapitał własny na dzień 1 stycznia 2021 
+8 198 
+218 816 
+444 
+32 279 
+259 737 
+Całkowite dochody za rok obrotowy 
+- 
+- 
+- 62 574 62 574 
+ - Zysk/(strata) netto za okres 
+- 
+- 
+- 62 574 62 574 
+Transakcje z właścicielami, ujęte bezpośrednio w 
+kapitale własnym 
+ 
+ 
+ 
+Dopłaty od i wypłaty do właścicieli 
+- 
+- 
+- (16 149) (16 149) 
+Dywidenda 
+- 
+- 
+- (16 149) (16 149) 
+Przeniesienie zysku 
+- 
+16 130 
+- (16 130) 
+ - 
+Kapitał własny na dzień 30 września 2021 
+8 198 
+234 946 
+444 
+62 574 
+306 162 
+ 
+Prezes Zarządu 
+ 
+Wiceprezes Zarządu 
+ 
+Wiceprezes Zarządu 
+ 
+ 
+ 
+ 
+Adam Sikorski 
+ 
+Robert Brzozowski 
+ 
+Filip Kuropatwa 
+ 
+Osoba sporządzająca sprawozdanie 
+ 
+Małgorzata Walnik 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+57 
+Śródroczne skrócone jednostkowe sprawozdanie z przepływów pieniężnych 
+w tysiącach złotych 
+01.01.2021 - 
+30.09.2021 
+(niebadane) 
+01.07.2021 - 
+30.09.2021 
+(niebadane) 
+01.01.2020- 
+30.09.2020 
+(niebadane) 
+01.072020 - 
+30.09.2020 
+(niebadane) 
+Zysk/(strata) przed opodatkowaniem 
+ 77 020 
+ 11 141 
+ 9 069 2 376 
+Korekty o pozycje: 
+ 
+ 
+Amortyzacja rzeczowych aktywów trwałych 
+ 7 158 
+ 2 141 
+ 4 538 2 140 
+Amortyzacja wartości niematerialnych 
+ 231 87 203 
+ 
+73 
+Strata/(zysk) z tytułu różnic kursowych 
+ 12 028 
+ 10 110 
+ 5 845 763 
+(Zysk)/strata ze sprzedaży rzeczowych aktywów trwałych 
+ (143) (81) 
+ (193) 
+ 
+(47) 
+Odsetki, koszty transakcyjne (dotyczące kredytów i pożyczek) i 
+dywidendy, netto 
+ 1 593 
+ 2 270 
+ 3 275 865 
+Zmiana stanu należności 
+ (275 727) 
+ (145 120) 
+ (37 987) (8 456) 
+Zmiana stanu zapasów 
+ (185 534) 
+ 3 263 
+ 66 882 
+ 27 600 
+Zmiana stanu aktywów z tytułu umów z klientami 
+ (2 330) 
+ (480) 
+ 605 587 
+Zmiana stanu zobowiązań z tytułu umów z klientami 
+ (1 245) 
+ (11 615) 
+ 2 700 
+ 
+(606) 
+Zmiana stanu zobowiązań krótkoterminowych z tytułu dostaw i 
+usług oraz pozostałych 
+ 222 926 
+ 38 362 
+ 46 386 (26 936) 
+Zmiana stanu aktywów/(zobowiązań) z tytułu instrumentów 
+pochodnych 
+ 36 737 
+ 25 678 
+ (20 990) (2 604) 
+Zmiana stanu rezerw 
+ - 
+ - (2 078) 
+ - 
+Utworzenie/odwrócenie odpisów aktualizujących 
+ 454 
+ - 
+ 4 000 
+ - 
+Podatek dochodowy zapłacony/zwrócony 
+ (14 446) 
+ (2 210) 
+ (1 909) 
+ 
+(394) 
+Przepływy pieniężne netto z działalności operacyjnej 
+ (121 278) 
+ (66 454) 
+ 80 346 (4 639) 
+Wpływy z tytułu sprzedaży rzeczowych aktywów trwałych 
+ 347 143 793 286 
+Odsetki otrzymane 
+ 219 46 690 295 
+Dywidendy otrzymane 
+ 3 747 
+ - 
+ - 
+ - 
+Wpływy z tytułu pożyczek 
+ 31 023 
+ 21 134 
+ 10 302 
+ 
+13 
+Nabycie rzeczowych aktywów trwałych 
+ (9 494) 
+ (3 511) 
+ (2 385) (1 612) 
+Nabycie wartości niematerialnych 
+ (212) (31) 
+ (209) 
+ 
+(1) 
+Udzielone pożyczki 
+ (47 167) 
+ (35 304) 
+ (13 935) (2 870) 
+Przepływy pieniężne netto z działalności inwestycyjnej 
+ (21 537) 
+ (17 523) 
+ (4 744) (3 889) 
+Zaciągnięcie kredytów, pożyczek oraz innych instrumentów 
+dłużnych 
+ 44 821 
+ 22 000 
+ 10 000 
+ - 
+Nabycie udziałów w posiadanych jednostkach zależnych 
+ (4 604) 
+ - (4 166) (2 750) 
+Spłata zaciągniętych kredytów, pożyczek oraz innych 
+instrumentów dłużnych 
+ (54 821) 
+ (22 000) 
+ - 
+ - 
+Dywidendy wypłacone 
+ (16 149) 
+ - 
+ (16 149) 
+ - 
+Płatność zobowiązań z tytułu umów leasingu finansowego 
+ (5 998) 
+ (1 712) 
+ (3 984) (1 925) 
+Odsetki oraz koszty transakcyjne (dotyczące kredytów i 
+pożyczek) zapłacone 
+ (6 379) 
+ (2 333) 
+ (4 443) (1 150) 
+Przepływy pieniężne netto z działalności finansowej 
+ (43 130) 
+ (4 045) 
+ (18 742) (5 825) 
+Zmiana stanu środków pieniężnych i ich ekwiwalentów 
+ (185 945) 
+ (88 022) 
+ 56 860 (14 353) 
+Wpływ zmian z tytułu różnic kursowych dotyczących środków 
+pieniężnych i ich ekwiwalentów 
+ (12 438) 
+ (10 520) 
+ (5 844) 
+ 
+(762) 
+Zmiana stanu środków pieniężnych i ich ekwiwalentów 
+ (198 383) 
+ (98 542) 
+ 51 016 (15 115) 
+Środki pieniężne i ich ekwiwalenty po pomniejszeniu o kredyty 
+w rachunku bieżącym na dzień 1 stycznia 
+ (79 634) 
+ (179 475) 
+ (176 728) 
+ (110 597) 
+Środki pieniężne i ich ekwiwalenty po pomniejszeniu o kredyty 
+w rachunku bieżącym na dzień 30 września 
+ (278 017) 
+ (278 017) 
+ (125 712) 
+ (125 712) 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+58 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+59 
+9. SKRÓCONA INFORMACJA DO ŚRÓDROCZNEGO JEDNOSTKOWEGO SPRAWOZDANIA 
+FINANSOWEGO 
+W skróconej informacji dodatkowej do śródrocznego skróconego jednostkowego sprawozdania finansowego Unimot S.A. 
+zaprezentowano jedynie noty, w których miała miejsce konsolidacja danych. Pozostałe noty, oparte wyłącznie na danych 
+Jednostki Dominującej (nr 7.10,7.13,7.15,7.16,7.17), zaprezentowane zostały w informacji dodatkowej do śródrocznego 
+skróconego skonsolidowanego sprawozdania finansowego. 
+9.1. 
+PRZYCHODY ZE SPRZEDAŻY 
+Przychody ze sprzedaży - podział według asortymentu 
+w tysiącach złotych 
+01.01.202130.09.2021 
+01.01.202030.09.2020 
+ON i BIOPALIWA 
+4 365 677 
+2 824 129 
+LPG 
+433 899 
+237 469 
+Paliwa gazowe 
+197 153 
+29 105 
+Pozostałe 
+224 251 
+307 900 
+Razem 
+5 220 980 
+3 398 603 
+Przychody ze sprzedaży - podział geograficzny według lokalizacji finalnych odbiorców 
+w tysiącach złotych 
+01.01.2021 - 
+30.09.2021 
+01.01.2020 - 
+30.09.2020 
+Polska 
+4 475 953 
+2 540 940 
+Czechy 
+257 865 
+296 978 
+Szwajcaria 
+3 916 
+2 060 
+Słowacja 
+10 617 
+5 138 
+Ukraina 
+14 310 
+5 957 
+Węgry 
+49 575 
+15 253 
+Serbia 
+- 
+1 570 
+Wielka Brytania 
+31 928 
+272 461 
+Austria 
+14 476 
+22 038 
+Estonia 
+- 
+13 748 
+Belgia 
+8 405 
+14 472 
+Niemcy 
+50 004 
+139 538 
+Tajwan 
+317 
+556 
+Holandia 
+248 086 
+- 
+Chiny 
+4 108 
+659 
+Cypr 
+12 
+61 
+Rumunia 
+- 
+122 
+Bułgaria 
+46 665 
+63 299 
+Litwa 
+4 743 
+3 722 
+Szwecja 
+- 
+31 
+Razem 
+5 220 980 
+3 398 603 
+Główni klienci 
+W okresie 9 m-cy 2021 r. i 9 m-cy 2020 r. żaden z odbiorców Spółki nie przekroczył 10% przychodów. 
+ 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+60 
+ 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+61 
+10. DODATKOWE NOTY OBJAŚNIAJĄCE DO ŚRÓDROCZNEGO SKRÓCONEGO JEDNOSTKOWEGO 
+SPRAWOZDANIA FINANSOWEGO 
+10.1. 
+KOSZTY WEDŁUG RODZAJU 
+w tysiącach złotych 
+01.01.202130.09.2021 
+01.01.202030.09.2020 
+Amortyzacja rzeczowych aktywów trwałych i wartości niematerialnych 
+(2 536) 
+(2 135) 
+Amortyzacja aktywa z tytułu prawa do użytkowania aktywów 
+(4 853) 
+(2 606) 
+Zużycie materiałów i energii 
+(2 359) 
+(1 594) 
+Usługi obce 
+(116 330) 
+(92 979) 
+Podatki i opłaty 
+(376) 
+(211) 
+Wynagrodzenia 
+(15 105) 
+(13 395) 
+Ubezpieczenia społeczne i inne świadczenia 
+(1 933) 
+(1 524) 
+Pozostałe koszty rodzajowe 
+(11 738) 
+(4 700) 
+Koszty według rodzaju razem 
+(155 230) 
+(119 144) 
+Koszt sprzedanych produktów, towarów i materiałów 
+(4 989 070) 
+(3 261 697) 
+Zmiana stanu zapasów i rozliczeń międzyokresowych kosztów 
+2 409 
+(737) 
+Pozostałe 
+(270) 
+(1 058) 
+Koszty sprzedanych produktów, towarów i materiałów, koszty sprzedaży i 
+ogólnego zarządu 
+(5 142 161) 
+(3 382 636) 
+10.2. KOSZTY SPRZEDANYCH PRODUKTÓW, TOWARÓW I MATERIAŁÓW 
+w tysiącach złotych 
+01.01.202130.09.2021 
+01.01.202030.09.2020 
+Wartość sprzedanych towarów i materiałów w cenie zakupu 
+(4 935 783) 
+(3 289 336) 
+Wycena zapasów obowiązkowych do wartości godziwej na dzień 30.06.2021 r. 
+88 708 
+(57 770) 
+Wycena bilansowa instrumentów pochodnych dotycząca zapasu obowiązkowego 
+(69 610) 
+20 990 
+Efekt realizacji instrumentów zabezpieczających dotyczących zapasu obowiązkowego 
+(55 413) 
+60 920 
+Zrealizowane różnice kursowe od kredytów 
+(12 618) 
+5 962 
+Wycena bilansowa kredytów 
+11 830 
+(3 510) 
+Zrealizowane różnice kursowe od rozrachunków 
+1 918 
+3 343 
+Wycena bilansowa rozrachunków 
+(18 102) 
+(2 296) 
+Razem 
+(4 989 070) 
+(3 261 697) 
+10.3. 
+POZOSTAŁE PRZYCHODY OPERACYJNE 
+w tysiącach złotych 
+01.01.202130.09.2021 
+01.01.202030.09.2020 
+Otrzymane odszkodowania i kary 
+16 
+149 
+Koszty postępowania sądowego podlegające zwrotowi 
+14 
+105 
+Przychody odsetkowe, dotyczące należności handlowych 
+758 
+1 224 
+Pozostałe 
+75 
+815 
+Razem 
+863 
+2 293 
+10.4. 
+POZOSTAŁE KOSZTY OPERACYJNE 
+w tysiącach złotych 
+01.01.202130.09.2021 
+01.01.202030.09.2020 
+Koszty odsetkowe od zobowiązań niefinansowych 
+(50) 
+(36) 
+Koszty postępowania sądowego 
+(16) 
+(105) 
+odszkodowania i kary 
+(9) 
+(20) 
+Odpis aktualizujący wartość inwestycji 
+(454) 
+(4 000) 
+Darowizny 
+(132) 
+(1 888) 
+Pozostałe 
+(551) 
+(58) 
+Razem 
+(1 212) 
+(6 107) 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+62 
+10.5. 
+PRZYCHODY/(KOSZTY) FINANSOWE NETTO 
+w tysiącach złotych 
+01.01.202130.09.2021 
+01.01.202030.09.2020 
+Przychody finansowe 
+ 
+ 
+Odsetki od aktywów finansowych i prowizje finansowe 
+81 
+592 
+Dywidendy 
+3 747 
+- 
+Przychody finansowe, razem 
+3 828 
+592 
+Koszty finansowe 
+ 
+ 
+Odsetki, opłaty bankowe i koszty transakcyjne dotyczące kredytów i pożyczek 
+(5 421) 
+(3 869) 
+Koszty finansowe, razem 
+(5 421) 
+(3 869) 
+Koszty finansowe netto 
+(1 593) 
+(3 277) 
+10.6. 
+PODATEK DOCHODOWY 
+Podatek dochodowy wykazany w skróconym śródrocznym jednostkowym sprawozdaniu z całkowitych dochodów 
+w tysiącach złotych 
+01.01.202130.09.2021 
+01.01.202030.09.2020 
+Podatek dochodowy bieżący 
+ 
+ 
+Podatek dochodowy za rok bieżący 
+(26 936) 
+(11 387) 
+Podatek odroczony 
+ 
+ 
+Powstanie/(odwrócenie) różnic przejściowych 
+12 490 
+9 478 
+Podatek dochodowy wykazany w śródrocznym skróconym sprawozdaniu z 
+całkowitych dochodów 
+(14 446) 
+(1 909) 
+Efektywna stopa podatkowa 
+w tysiącach złotych 
+01.01.202130.09.2021 
+01.01.202030.09.2020 
+Zysk/(strata) przed opodatkowaniem 
+77 020 
+9 069 
+Podatek w oparciu o obowiązującą stawkę podatkową 
+(14 634) 
+(1 723) 
+Koszty trwale niestanowiące kosztów uzyskania przychodów 
+188 
+(186) 
+Razem 
+(14 446) 
+(1 909) 
+Efektywna stopa podatkowa 
+18,8% 
+21,0% 
+10.7. 
+RZECZOWE AKTYWA TRWAŁE 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Grunty 
+3 245 
+1 239 
+Budynki i budowle 
+6 961 
+3 842 
+Maszyny i urządzenia 
+4 553 
+3 344 
+Środki transportu 
+442 
+287 
+Pozostałe aktywa trwałe 
+1 969 
+1 421 
+Środki trwałe w budowie 
+2 306 
+903 
+Razem 
+19 476 
+11 036 
+Spółka na sprzedaży rzeczowych aktywów trwałych zrealizowała zysk netto w wysokości 143 tys. zł (za 9 m-cy 2021 r.) i zysk 
+netto w wysokości 193 tys. zł (za 9 m-cy 2020 r.). 
+Spółka w okresie 9 m-cy 2021 r. poniosła nakłady inwestycyjne w wysokości 9 456 tys. zł. głównie na: zakup nowej stacji paliw, 
+modernizację i dostosowanie do marki Avia dzierżawionych oraz własnych stacji paliw, sprzętu komputerowego oraz 
+wyposażenia. 
+Spółka w okresie 9 m-cy 2020 r. poniosła nakłady inwestycyjne w wysokości 2 384 tys. zł. głównie na: modernizację i 
+dostosowanie do marki Avia dzierżawionych oraz własnych stacji paliw, sprzętu komputerowego oraz wyposażenia. 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+63 
+10.8. 
+PRAWO DO UŻYTKOWANIA AKTYWÓW 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Budynki i budowle 
+56 154 
+46 548 
+Środki transportu 
+6 042 
+5 911 
+Razem 
+62 196 
+52 459 
+Spółka w okresie 9 m-cy 2021 r. nabyła prawa do użytkowania aktywów w wysokości 16 205 tys. zł. 
+Spółka w okresie 9 m-cy 2020 r. nabyła prawa do użytkowania aktywów w wysokości 28 221 tys. zł. 
+10.9. 
+POZOSTAŁE AKTYWA FINASOWE 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Długoterminowe 
+ 
+ 
+a) w pozostałych jednostkach 
+ 
+ 
+Nabycie, objęcie udziałów lub akcji 
+260 
+260 
+RAZEM 
+260 
+260 
+Krótkoterminowe 
+ 
+ 
+a) w jednostkach zależnych 
+ 
+ 
+Pożyczki udzielone 
+5 190 
+2 571 
+b) w pozostałych jednostkach 
+ 
+ 
+Pożyczki udzielone 
+13 992 
+194 
+Środki pieniężne o ograniczonym dostępie zabezpieczające przyszłe transakcje 
+hedgingowe 
+38 261 
+- 
+Razem 
+57 443 
+2 765 
+ Zmiana wyceny instrumentów finansowych (kontrakty futures) na 30.09.2021 r. względem 31.12.2020 r. wynikała z istotnej 
+zmiany notowań produktów ropopochodnych na rynkach międzynarodowych. Wzrost cen z jednej strony wpływa na dodatnią 
+wycenę zapasów oleju napędowego, a z drugiej na ujemną wycenę kontraktów terminowych, zawartych przy niższych 
+poziomach cen. Ujemna wycena kontraktów terminowych odnoszona jest po stronie pasywów, dodatnia zaś ma 
+odzwierciedlenie po stronie aktywów, całość odpowiednio rozdzielone na część krótko oraz długo terminową. 
+10.10. ZAPASY 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Towary – zapas obowiązkowy 
+229 853 
+132 886 
+Towary – zapas operacyjny 
+118 826 
+30 259 
+Razem 
+348 679 
+163 145 
+Wycena zapasów według wartości godziwej – poziom 1 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Koszt nabycia zapasów operacyjnych 
+58 225 
+17 902 
+Koszt nabycia zapasów obowiązkowych i operacyjnych wycenianych w wartości 
+godziwej 
+191 863 
+135 360 
+Wycena zapasów do wartości godziwej 
+98 591 
+9 883 
+Razem 
+348 679 
+163 145 
+10.11. POZOSTAŁE NALEŻNOŚCI DŁUGOTERMINOWE 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Pozostałe należności długoterminowe 
+ 
+a) od pozostałych jednostek 
+Należności z tytułu pozostałych kaucji 
+15 722 
+9 899 
+Razem pozostałe należności długoterminowe 
+15 722 
+9 899 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+64 
+10.12. NALEŻNOŚCI HANDLOWE ORAZ POZOSTAŁE NALEŻNOŚCI 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Należności krótkoterminowe 
+ 
+ 
+a) od jednostek powiązanych 
+ 
+ 
+Należności handlowe 
+15 542 
+7 430 
+Pozostałe należności 
+506 
+506 
+ 
+16 048 
+7 936 
+b) od pozostałych jednostek 
+ 
+ 
+Należności handlowe 
+420 255 
+197 623 
+Należności z tytułu podatków, dotacji, ceł, ubezpieczeń, 
+6 884 
+2 544 
+z wyjątkiem należności z tytułu podatku dochodowego 
+Zaliczki na poczet dostaw i usług 
+76 962 
+38 506 
+Należności z tytułu zabezpieczenia akcyzowego 
+15 575 
+23 061 
+Należności z tytułu pozostałych kaucji 
+24 166 
+34 730 
+Pozostałe należności 
+710 
+127 
+ 
+544 552 
+296 591 
+Razem należności 
+560 600 
+304 527 
+10.13. ZOBOWIĄZANIA Z TYTUŁU KREDYTÓW, POŻYCZEK ORAZ INNYCH INSTRUMENTÓW DŁUŻNYCH ORAZ KREDYTÓW W 
+RACHUNKACH BIEŻĄCYCH 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+Zobowiązania długoterminowe 
+ 
+ 
+Zobowiązania z tytułu leasingu finansowego 
+54 742 
+44 284 
+RAZEM 
+54 742 
+44 284 
+Zobowiązania krótkoterminowe 
+ 
+ 
+Inne pożyczki 
+- 
+10 420 
+Krótkoterminowa część zobowiązań z tytułu leasingu finansowego 
+7 205 
+7 456 
+RAZEM 
+7 205 
+17 876 
+Kredyty w rachunku bieżącym 
+329 408 
+172 440 
+ RAZEM 
+391 355 
+234 600 
+Nie wystąpiły naruszenia innych warunków zawartych w umowach kredytowych. 
+10.14. TRANSAKCJE ORAZ STAN ROZRACHUNKÓW SPÓŁKI Z PODMIOTAMI POWIĄZANYMI 
+Określenie podmiotów powiązanych 
+- Unimot System Sp. z o.o. - jednostka zależna 
+- Blue LNG Sp. z o.o. - jednostka zależna 
+- Unimot Paliwa Sp. z o.o.. - jednostka zależna 
+- Unimot Energia i Gaz Sp. z o.o - jednostka zależna 
+- Tradea Sp. z o.o. - jednostka zależna 
+- Unimot Ukraine LLC - jednostka zależna 
+- Unimot Ukraina - jednostka zależna 
+- Unimot Chiny - jednostka zależna 
+- 3 Seas Energy LLC - jednostka zależna 
+- Naturalna Energia Sp. z o.o. - jednostka zależna 
+- Nasze Czyste Powietrze Sp. z o.o. - jednostka zależna 
+- PV Energy Sp. z o.o. - jednostka zależna 
+- Operator Klastra Energia Sp. z o.o. - jednostka zależna 
+- Unimot Express Sp.z o.o. - jednostka dominująca 
+- Unimot Truck S.A. (jednostka powiązana z Unimot Express Sp. z o.o.) 
+- Zemadon Limited (jednostka powiązana z Unimot Express Sp. z o.o.) 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+65 
+ 
+Sprzedaż 
+Zakup 
+w tysiącach złotych 
+01.01.202130.09.2021 
+01.01.202030.09.2020 
+01.01.202130.09.2021 
+01.01.202030.09.2020 
+Jednostki powiązane 
+15 153 
+11 694 
+78 242 
+ 88 785 
+Razem 
+15 153 
+11 694 
+78 242 
+ 88 785 
+ 
+ 
+Sprzedaż 
+Zakup 
+w tysiącach złotych 
+01.07.202130.09.2021 
+01.07.202030.09.2020 
+01.07.202130.09.2021 
+01.07.202030.09.2020 
+Jednostki powiązane 
+3 925 
+3 537 
+31 692 
+ 87 827 
+Razem 
+3 925 
+3 537 
+31 692 
+ 87 827 
+ 
+ 
+Należności handlowe, z 
+tytułu pożyczek oraz 
+pozostałe należności 
+Zobowiązania z tytułu dostaw 
+i usług, z tytułu pożyczek oraz 
+pozostałe zobowiązania 
+w tysiącach złotych 
+30.09.2021 
+31.12.2020 
+30.09.2021 
+31.12.2020 
+Jednostki powiązane 
+21 237 
+9 654 
+4 794 
+ 11 158 
+Razem 
+21 237 
+9 654 
+4 794 
+11 128 
+W 
+okresie 
+9 
+miesięcy 
+zakończonym 
+30 
+września 
+2021 
+r. 
+w 
+Spółce 
+nie 
+wystąpiły 
+transakcje 
+zawarte 
+z podmiotami powiązanymi na warunkach innych niż rynkowe. Transakcje te dotyczyły głównie zakupu towarów i usług na 
+potrzeby bieżącej działalności operacyjnej. 
+10.15. ZDARZENIA PO DNIU SPRAWOZDAWCZYM 
+W dniu 8.10.2021 Unimot S.A. zakupiła ogół praw i obowiązków w Spółce Tradea Sp. z o.o Sp.K. w wysokości 1 000 zł. Unimot 
+S.A. pełni w tej Spółce funkcję komandytariusza z prawem do 99,99 % zysków tej Spółki. 
+Po dniu bilansowym, tj. dnia 20.10.2021 r. w skład Grupy Kapitałowej weszły trzy nowe spółki SPV, tj. 
+• 
+UNIMOT Investments sp. z o.o. z siedzibą w Warszawie, w której Jednostka Dominująca posiada 100% udziałów, 
+• 
+UNIMOT B1 sp. z o.o. z siedzibą w Warszawie, w której Jednostka Dominująca posiada pośrednio poprzez UNIMOT 
+Investments sp. z o.o. 100% udziałów, oraz 
+• 
+UNIMOT T1 sp. z o.o. z siedzibą w Warszawie, w której Jednostka Dominująca posiada pośrednio poprzez UNIMOT 
+Investments sp. z o.o. 100% udziałów. 
+Wskazane wyżej spółki nie prowadzą działalności operacyjnej i nie podlegają aktualnie konsolidacji. Nowe SPV mogą posłużyć 
+do prowadzenia rozwojowych projektów inwestycyjnych Jednostki Dominującej. 
+Zawadzkie, 16 listopada 2021 r. 
+ 
+…………………………………………………….. 
+ 
+ 
+ 
+ 
+ 
+…………………………………………………….. 
+Adam Sikorski 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Robert Brzozowski 
+Prezes Zarządu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wiceprezes Zarządu 
+ 
+ 
+…………………………………………………….. 
+ 
+ 
+ 
+ 
+ 
+…………………………………………………….. 
+Małgorzata Walnik 
+ 
+ 
+ 
+ 
+ 
+ 
+Filip Kuropatwa 
+Osoba sporządza sprawozdanie 
+ 
+ 
+ 
+ 
+ 
+Wiceprezes Zarządu 
+ 
+ 
+
+ 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA III KWARTAŁ 2021UNIMOT 
+ 
+66

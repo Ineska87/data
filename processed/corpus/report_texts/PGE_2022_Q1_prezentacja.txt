@@ -1,0 +1,2130 @@
+PREZENTACJA DLA INWESTORÓW
+24 maja 2022
+Wyniki finansowe i operacyjne za I kw. 2022 roku
+
+Dane finansowe
+
+3
+Kluczowe dane finansowe
+1Zestawienie zdarzeń jednorazowych zaprezentowane na następnej stronie,
+2Core NWC = zapasy + należności z tyt. dostaw i usług - zobowiązania z tyt. dostaw i usług (w odróżnieniu od NWC jako aktywa obrotowe minus zobowiązania krótkoterminowe)
+Dane skonsolidowane
+[MSR, mln PLN]
+I kw. 2022
+I kw. 2021
+r/r
+Przychody ze sprzedaży
+16 897
+11 942
+41%
+EBITDA raportowana
+2 615
+2 206
+19%
+EBITDA powtarzalna
+1
+2 596
+2 206
+18%
+EBIT raportowany
+1 550
+1 164
+33%
+EBIT powtarzalny
+1 537
+1 208
+27%
+Zysk (strata) netto dla akcjonariuszy 
+1 022
+808
+26%
+Zysk (strata) netto dla akcj. – bez odpisów
+1 027
+844
+22%
+CAPEX (po korektach) 
+895
+839
+7%
+Przepływy pieniężne netto z dział. operacyjnej 
+1 304
+-398
+Przepływy pieniężne netto z dział. inwestycyjnej 
+-913
+-845
+8%
+Marża EBITDA 
+15%
+18%
+Powtarzalna marża EBITDA 
+15%
+18%
+Majątek obrotowy netto („core NWC”)2
+5 362
+5 309
+1%
+Dług netto/12 mies. EBITDA raportowana
+0,42x
+1,36x
+Dług netto/12 mies. EBITDA powtarzalna
+0,49x
+1,32x
+
+4
+Zdarzenia jednorazowe
+1Rezerwa na prosumentów: łączny wpływ z tytułu rozwiązania rezerwy na prosumentów 19 mln PLN na wyniki Grupy Kapitałowej PGE oraz 24 mln PLN na wyniki segmentu Obrót.
+2Odpisy Rzeczowych Aktywów Trwałych, Wartości Niematerialnych oraz Praw do Użytkowania Aktywów. 
+Do wyliczenia wyników powtarzalnych:
+I kw. 2022
+I kw. 2021
+r/r
+Rozwiązanie rezerwy na prosumentów1
+19
+0
+Zdarzenia jednorazowe na poziomie EBITDA
+19
+0
+Odpisy RAT, WN i PDUA (brutto)2
+-6
+-44
+-86%
+Zdarzenia jednorazowe na poziomie EBIT
+13
+-44
+Do wyliczenia wyniku netto skorygowanego o odpisy:
+Odpisy RAT i WN (netto) oraz inwestycji
+-5
+-36
+-86%
+
++
+0
+3 466
+5
+163
+3 005
+245
+55
+5
+130
+18
+41
+2 596
+19
+I kw. 2021 EBITDA RAPORTOWANA
+Zdarzenia jednorazowe
+I kw. 2021 EBITDA POWTARZALNA
+Wynik ze sprzedaży en. elektrycznej u
+wytwórców
+Przychody ze sprzedaży ciepła
+Prawa majątkowe i wsparcie kogeneracji
+Uprawnienia do emisji CO2
+Koszty paliw
+Rynek Mocy
+Regulacyjne usługi systemowe
+Wynik na sprzedaży en. elektrycznej do
+odbiorców finalnych
+Wynik na dystrybucji*
+Koszty osobowe
+Pozostałe
+I kw. 2022 EBITDA POWTARZALNA
+Zdarzenia jednorazowe
+I kw. 2022 EBITDA RAPORTOWANA
+Wyższe ceny gazu (+27,5 PLN/GJ), wyższe ceny 
+węgla (+3,1 PLN/GJ)
+-
+-
+Efekt wzrostu płac
+Główne czynniki budowy EBITDA
++-
++
+Wyższy wolumen usług dystrybucyjnych
+Cena CO2 (-2 963) (+165 PLN/t)
+Niedobór uprawnień (- 42) (+0,4 mln t)
+Wyższa cena ciepła (+66) (+3,1 PLN/GJ)
+Niższy wolumen sprzedaży (-71) (-1,6 PJ)
+4 395
+2 206
+Cena sprzedaży (+3 417) (+201 PLN/MWh)
+Wolumen (+49) (+0,2 TWh)
+Niższe koszty aktywowane (-78)
++374
+-60
+Produkcja
+Usługi
+2 615
+2 206
+* Uwzględnia różnicę bilansową
+5
+5
+
+6
+Powtarzalny1 zysk EBITDA w I kw. 2022 – składniki i dynamika
+Wzrost cen sprzedaży 
+energii i niższe koszty 
+paliw skompensowały 
+wyższe koszty CO2 i 
+mniejsze wpływy z 
+usług systemowych 
+(RUS i rynek mocy 
+łącznie). Negatywny 
+wpływ wyższych 
+kosztów zarządzania 
+handlem.
+Negatywny efekt 
+istotnie wyższych cen 
+gazu i CO2 przeważa 
+nad wzrostem cen 
+ciepła i premią 
+kogeneracyjną.
+Znacznie wyższe ceny 
+energii elektrycznej na 
+rynku SPOT i wzrost 
+wolumenów produkcji. 
+Wzrost przychodów z 
+działalności wewnątrz 
+GK PGE, wynikający 
+głównie ze wzrostu 
+przychodów z tytułu 
+zarządzania 
+handlowego.
+Wyższy wolumen 
+dystrybuowanej energii, 
+wzrost taryf 
+dystrybucyjnych oraz 
+spadek kosztów energii 
+na pokrycie różnicy 
+bilansowej.
+1Powtarzalny = z wyłączeniem istotnych zdarzeń jednorazowych (opisanych na stronie 4 ).
+438
+2 596
+201
+500
+569
+798
+16
+74
+Energetyka 
+Konwencjonalna
+Ciepłownictwo
+Energetyka 
+Odnawialna
+Obrót
+Dystrybucja
+GOZ2
+Inne
+EBITDA
+I kw. 2022
+438
+201
+500
+569
+798
+16
+74
+2 596
+Udział w EBITDA (%)
+17%
+7%
+19%
+22%
+31%
+1%
+3%
+100%
+I kw. 2021
+511
+510
+193
+352
+658
+9
+-27
+2 206
+Zmiana (mln PLN)
+-73
+-309
+307
+217
+140
+7
+101
+390
+Zmiana (%)
+-14%
+-61%
+159%
+62%
+21%
+78%
+18%
+
+Struktura przychodu regulowanego*(mln PLN)
+Nadbudowa WRA (z WRA-AMI)* (mln PLN)
+7
+Fundamenty dystrybucji
+17 567
+18 929
+19 620
+2 361
+999
+2 631
+1 940
+WRA 2020 Uwzględnione nakłady Odliczenie
+WRA 2021 Uwzględnione nakłady Odliczenie
+WRA 2022
+975
+1 050
+1 140
+1 274
+1 313
+1 301
+1 245
+1 091
+1 132
+2 611
+3 721
+4 513
+2020
+2021
+2022
+Zwrot z WRA
+Amortyzacja
+Usługi przesyłowe
+Pozostałe koszty
+7 175
+8 086
+6 106
+WACC: 
+Faktyczny 
+zwrot z WRA**:
+2020
+2021
+2022
+5,507%
+5,321%
+4,676%
+2020
+2021
+2022
+5,552%
+5,549%
+5,782%
+* Na podstawie taryfy
+** Uwzględniając AMI, wskaźnik regulacyjny WR oraz premię za reinwestowanie
+
+Uprawnienia do emisji CO2 – regulacje i rozliczenia
+Standardy księgowe
+Darmowe uprawnienia otrzymane na własne potrzeby są rozpoznawane w ich wartości
+nominalnej
+–
+zero.
+Rezerwa
+na
+uprawnienia
+do
+emisji
+CO2
+jest
+zawiązywana
+w
+odniesieniu do ich aktualnego niedoboru w danym okresie. Poniesione koszty widoczne
+w rachunku zysków i strat w pozycji podatki i opłaty.
+Emisja CO2 i rozliczenia uprawnień do emisji
+W ciągu 3 miesięcy 2022 r. instalacje GK PGE wyemitowały 18,2 mln ton CO2. Koszty
+związane z emisją CO2 w powyższym okresie wyniosły 4 958 mln PLN.
+Instalacjom należącym do GK PGE nie przysługuje od 2020 r. przydział darmowych
+uprawnień do emisji z tytułu wytwarzania energii elektrycznej. Przyznawane są jedynie
+uprawnienia EUA na emisje CO2 związane z wytwarzaną energią cieplną.
+Bezpłatne EUA ujmowane w wartości zerowej (SSF, 
+nota 15)
+EUA
+Ilość
+(mln Mg)
+Wartość
+(mln PLN) 
+Stan na dzień 1 stycznia 2021
+21
+1 774
+Zakup/sprzedaż (na rynku spot)*
+80
+9 447
+Przyznane nieodpłatnie
+1
+Umorzenie
+-59
+-6 318
+Stan na dzień 31 grudnia 2021 
+43
+4 903
+Zakup/sprzedaż (na rynku spot)*
+23
+6 047
+Przyznane nieodpłatnie
+-
+Umorzenie
+-6
+-866
+Stan na dzień 31 marca 2022 
+60
+10 084
+Rezerwy na zakup uprawnień CO2 (SSF, nota 20), w 
+mln PLN 
+Stan na 1 stycznia 2022 r.
+11 553
+Umorzenie 
+-866
+Utworzenie rezerwy za I kw. 2022 r.
+4 958
+Stan na 31 marca 2022 r.
+15 645
+Wpływ na rachunek zysków i strat (mln PLN) –
+ilustracyjnie
+I kw. 2022 r.
+Koszty według rodzaju, w tym:
+10 709
+Podatki i opłaty
+5 646
+* GK PGE zabezpiecza koszt emisji CO2 także w oparciu o kontrakty 
+terminowe.
+8
+
+Dane finansowe –
+Segmenty Działalności
+
+10
+Przychody i koszty segmentu Energetyka Konwencjonalna
+[mln PLN]
+I kw. 
+2022
+I kw. 
+20201
+r/r
+Przychody ze sprzedaży, w tym:
+7 753
+5 889
+32%
+Przychody ze sprzedaży energii elektrycznej
+7 110
+4 145
+72%
+Przychody z rynku mocy
+530
+513
+3%
+Regulacyjne usługi systemowe
+39
+90
+-56%
+Przychody ze sprzedaży CO2
+0
+1 018
+-100%
+Koszty rodzajowe, w tym:
+6 877
+4 205
+64%
+Amortyzacja
+489
+471
+4%
+Zużycie materiałów
+705
+818
+-14%
+Zużycie energii
+10
+5
+127%
+Usługi obce
+434
+328
+32%
+Podatki i opłaty
+4 491
+1 833
+145%
+Koszty osobowe
+702
+705
+0%
+Pozostałe koszty
+47
+45
+4%
+Koszty aktywowane
+-43
+-86
+-50%
+Wartość sprzedanych towarów i 
+materiałów
+970
+1 808
+-46%
+Wynik na pozostałej działalności 
+operacyjnej
+-2
+79
+-102%
+EBIT
+-52
+41
+EBITDA
+438
+511
+-14%
+
+11
+Przychody i koszty segmentu Ciepłownictwo
+[mln PLN]
+I kw. 2022
+I kw. 2021
+r/r
+Przychody ze sprzedaży, w tym:
+2 460
+1 884
+31%
+Przychody ze sprzedaży energii elektrycznej
+1239
+821
+51%
+Przychody ze sprzedaży i dystrybucji ciepła
+970
+922
+5%
+Przychody z rynku mocy
+59
+77
+-23%
+Przychody ze sprzedaży CO2
+0
+28
+Koszty rodzajowe, w tym:
+2275
+1436
+-58%
+Amortyzacja
+173
+153
+-13%
+Zużycie materiałów
+1051
+667
+-58%
+Zużycie energii
+5
+2
+-150%
+Usługi obce
+138
+115
+-20%
+Podatki i opłaty
+766
+378
+-103%
+Koszty osobowe
+134
+113
+-19%
+Pozostałe koszty
+8
+8
+Koszty aktywowane
+-14
+-10
+40%
+Wartość sprzedanych towarów i materiałów
+181
+116
+-56%
+Wynik na pozostałej działalności operacyjnej
+10
+15
+-33%
+EBIT
+28
+357
+-92%
+EBITDA
+201
+510
+-61%
+
+12
+Przychody i koszty segmentu Energetyka Odnawialna
+[mln PLN]
+I kw. 
+2022
+I kw. 
+2021
+r/r
+Przychody ze sprzedaży, w tym:
+766
+323
+137%
+Przychody ze sprzedaży energii elektrycznej
+627
+204
+207%
+Przychody ze sprzedaży świadectw 
+pochodzenia
+72
+44
+64%
+Regulacyjne usługi systemowe
+3
+3
+Przychody z rynku mocy
+69
+71
+-3%
+Pozostałe przychody z podstawowej 
+działalności
+-5
+1
+-600%
+Koszty rodzajowe, w tym:
+360
+224
+61%
+Amortyzacja
+84
+89
+-6%
+Zużycie materiałów
+2
+2
+Zużycie energii
+183
+57
+221%
+Usługi obce
+37
+28
+32%
+Podatki i opłaty
+17
+18
+-6%
+Koszty osobowe
+31
+27
+15%
+Pozostałe koszty
+6
+3
+100%
+Koszty aktywowane
+-4
+-3
+33%
+Wartość sprzedanych towarów i 
+materiałów
+1
+0
+Wynik na pozostałej działalności 
+operacyjnej
+7
+2
+250%
+EBIT
+416
+104
+300%
+EBITDA
+500
+193
+159%
+
+13
+Przychody i koszty segmentu Dystrybucja
+[mln PLN]
+I kw. 
+2022
+I kw. 
+2021
+r/r
+Przychody ze sprzedaży, w tym:
+1 807
+1 677
+8%
+Przychody ze sprzedaży usług dystrybucyjnych
+1 693
+1 599
+6%
+Pozostałe przychody z podstawowej działalności
+80
+48
+67%
+Koszty rodzajowe, w tym:
+1 355
+1 361
+0%
+Amortyzacja
+303
+310
+-2%
+Zużycie materiałów
+20
+14
+43%
+Zużycie energii
+183
+221
+-17%
+Usługi obce
+372
+355
+5%
+Podatki i opłaty
+138
+134
+3%
+Koszty osobowe
+335
+324
+3%
+Pozostałe koszty
+4
+3
+33%
+Koszty aktywowane
+-32
+-15
+113%
+Wartość sprzedanych towarów i materiałów
+0
+0
+Wynik na pozostałej działalności operacyjnej
+13
+17
+-24%
+EBIT
+497
+348
+43%
+EBITDA
+798
+658
+21%
+
+14
+Przychody i koszty segmentu Obrót
+[mln PLN]
+I kw. 
+2022
+I kw. 
+2021
+r/r
+Przychody ze sprzedaży, w tym:
+11 853
+10 498
+13%
+Przychody ze sprzedaży energii elektrycznej
+5 256
+3 369
+56%
+Przychody ze sprzedaży uprawnień CO2
+5 413
+6 640
+-18%
+Przychody ze sprzedaży gazu
+292
+105
+178%
+Przychody ze sprzedaży innych paliw
+513
+132
+289%
+Koszty rodzajowe, w tym:
+556
+446
+25%
+Amortyzacja
+8
+8
+0%
+Zużycie materiałów
+1
+1
+0%
+Zużycie energii
+1
+1
+0%
+Usługi obce
+70
+66
+6%
+Podatki i opłaty
+352
+258
+36%
+Koszty osobowe
+102
+96
+6%
+Pozostałe koszty
+22
+16
+38%
+Wartość sprzedanych towarów i materiałów
+10 718
+9 710
+10%
+Wynik na pozostałej działalności 
+operacyjnej
+4
+1
+300%
+EBIT
+585
+343
+71%
+EBITDA
+593
+352
+68%
+
+EBITDA segmentu Energetyka Konwencjonalna I kw. 2022
+1Ujęcie zarządcze.
+2Koszty pomniejszone o odsprzedaż nadwyżek CO2 powstałych w wyniku redukcji Operatora i działań handlowych.
+EBITDA 
+I kw. 
+2021
+Produkcja 
+e.e. –
+Ilość
+Produkcja 
+e.e. –
+cena
+Rynek 
+Mocy1
+Przychody
+RUS
+Sprzedaż 
+ciepła
+Koszty 
+paliw
+Koszty
+CO2
+2
+Koszty
+ZHZW
+Koszty 
+osobowe
+Pozostałe
+EBITDA 
+I kw. 
+2022
+Odchylenie
+25
+2 762
+21
+-51
+-45
+127
+-2 687
+-94
+3
+-134
+EBITDA powtarzalna I kw. 2021
+511
+3 366
+509
+90
+74
+664
+1 577
+172
+705
+410
+EBITDA powtarzalna I kw. 2022
+6 153
+530
+39
+29
+537
+4 264
+266
+702
+544
+438
+15
+511
+568
+438
+438
+2 762
+21
+127
+3
+25
+51
+45
+2 687
+94
+134
+0
+500
+1 0 000
+1 5 500
+2 0 000
+2 5 500
+3 0 000
+3 5 500
+4 0 000
+
+EBITDA segmentu Ciepłownictwo I kw. 2022
+16
+1Skorygowane o koszty umorzenia praw majątkowych.
+2Skorygowane o wynik na odsprzedaży uprawnień do emisji CO2, przypisanych do danego okresu. 
+510
+201
+56
+403
+121
+14
+69
+18
+376
+385
+21
+6
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1 0 000
+EBITDA 
+I kw. 2021
+Produkcja 
+ciepła-ilość
+Produkcja 
+ciepła – cena1
+Produkcja e.e. 
+- ilość
+Produkcja e.e.
+- cena1
+Rynek 
+Mocy
+Przychody z 
+tytułu wsparcia 
+wysokospr. 
+kogeneracji
+Koszty
+paliw
+Koszty
+CO2
+2
+Koszty 
+osobowe
+Pozostałe
+EBITDA
+I kw. 2022
+Odchylenie
+-14
+56
+-69
+403
+-18
+121
+-376
+-385
+-21
+-6
+EBITDA 
+powtarzalna 
+I kw. 2021
+510
+922
+729
+77
+2
+654
+345
+113
+108
+EBITDA 
+powtarzalna 
+I kw. 2022
+964
+1 063
+59
+123
+1 030
+730
+134
+114
+201
+
+EBITDA segmentu Energetyka Odnawialna I kw. 2022
+EBITDA 
+I kw. 2021
+Przychody
+e.e. 
+Przychody
+PM
+Zakup e.e. 
+dla ESP
+Rynek
+Mocy
+Koszty 
+osobowe
+Pozostałe
+EBITDA 
+I kw. 2022
+Odchylenie 
+423
+28
+-125
+-2
+-4
+-13
+EBITDA powtarzalna I kw. 2021
+193
+204¹
+44
+57
+71
+27
+42
+EBITDA powtarzalna I kw. 2022
+627
+72
+182
+69
+31
+55
+500
+1Zmiana prezentacji wyników na przychodach ze sprzedaży energii elektrycznej.
+17
+193
+500
+423 
+2
+4
+13
+28
+125
+100
+200
+300
+400
+500
+600
+700
+
+EBITDA segmentu Dystrybucja I kw. 2022
+1Z wyłączeniem kosztów usług przesyłowych od PSE S.A.
+2Skorygowana o przychody z Rynku Bilansującego.
+EBITDA I 
+kw.
+2021
+Wolumen 
+dystrybuowanej 
+e.e.
+Zmiana
+taryfy 
+dystrybucyjnej1
+Różnica 
+bilansowa2
+Podatek 
+od 
+nieruchom
+ości
+Koszty 
+osobowe
+Pozostałe
+EBITDA I kw.
+2022
+Odchylenie
+34
+41
+45
+-3
+-11
+34
+EBITDA powtarzalna I kw. 2021
+658
+1 252
+209
+114
+324
+53
+EBITDA powtarzalna I kw. 2022
+1 327
+164
+117
+335
+87
+798
+18
+658
+798
+34
+45
+11
+34
+41
+3
+300
+400
+500
+600
+700
+800
+900
+
+EBITDA 
+I kw.
+2021
+Wynik na 
+e.e. 
+ilość
+Wynik na 
+e.e. 
+marża
+Przychody 
+z działalności 
+na rzecz 
+segmentów 
+w GK PGE
+Wynik na 
+sprzedaży 
+paliw
+Wynik na 
+sprzedaży 
+CO2
+Koszty osobowe
+Pozostałe1
+EBITDA 
+I kw.
+2022
+Odchylenie
+-15
+-62
+205
+36
+42
+-6
+17
+EBITDA raportowana I kw. 2021
+352
+Zdarzenia jednorazowe I kw. 2021
+0
+EBITDA powtarzalna I kw. 2021
+352
+286
+216
+-2
+2
+96
+-54
+EBITDA powtarzalna I kw. 2022
+209
+421
+34
+44
+102
+-37
+569
+Zdarzenia jednorazowe I kw. 2022
+24
+EBITDA raportowana I kw. 2022
+593
+EBITDA segmentu Obrót I kw. 2022
+Odwrócenie wpływu sumy zdarzeń jednorazowych powiększającej wynik raportowany.
+11Pozycja pozostałe bez uwzględnienia wpływu rezerwy na prosumentów (zdarzenie jednorazowe).
+19
+352
+569
+205
+36
+42
+17
+-15
+-62
+-6
+24
+0
+100
+200
+300
+400
+500
+600
+700
+
+Przepływy pieniężne i zadłużenie
+
+21
+Gotówka z operacji, inwestycje i zadłużenie netto
+Skonsolidowane przepływy pieniężne 
+mln PLN
+I kw. 2022
+I kw. 2021
+Operacyjne
+1 304
+-398
+Inwestycyjne
+-913
+-845
+Finansowe
+-978
+-36
+Zmiana środków pieniężnych i ich ekwiwalentów
+-587
+-1 279
+Dane z bilansu skonsolidowanego
+mln PLN
+B.Z. 
+I kw. 2022
+B.O. 
+I kw. 2022
+∆ 
+I kw. 2022
+Środki pieniężne i ekwiwalenty
+6 123
+6 733
+-610
+Lokaty, depozyty, pożyczki udzielone oraz obligacje
+0
+77
+-77
+Środki o ograniczonej możliwości dysponowania (korekta)
+-341
+-212
+-129
+Środki pieniężne w dyspozycji Grupy PGE
+5 782
+6 598
+-816
+Krótkoterminowe zadłużenie finansowe
+-2 072
+-2 160
+88
+Długoterminowe zadłużenie finansowe
+-7 904
+-8 666
+762
+Łącznie zadłużenie finansowe (brutto)
+-9 976
+-10 826
+850
+Zadłużenie netto1
+-4 194
+-4 228
+34
+1Zobowiązania zaprezentowane są ze znakiem ujemnym, przez wzgląd na arytmetyczną spójność między bilansem a cash flow
+
+22
+Struktura długu oraz zadłużenie (31.03.2022)
+Zadłużenie brutto i netto (w mln PLN)
+Stała
+92%
+Zmienna
+8%
+Zadłużenie ze stałą i 
+zmienna stopą 
+(rzeczywiste zadłużenie)
+Profil walutowy rzeczywistego 
+zadłużenia (po uwzględnieniu 
+transakcji zabezpieczających)
+7%
+93%
+EUR
+PLN
+-5 0 000
+0
+5 0 000
+10 0 000
+15 0 000
+20 0 000
+Dług brutto
+Dług netto
+
+Zapadalność zadłużenia oraz dostępność finansowania
+Wykorzystanie i dostępność zewnętrznego finansowania (w mln PLN) wg stanu na 31 marca 2022 r.
+Profil zapadalności zadłużenia (w mln PLN) na 31 marca 2022 r.
+0
+500
+1 0 000
+1 5 500
+2 0 000
+2 5 500
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+23
+0
+1 0 000
+2 0 000
+3 0 000
+4 0 000
+5 0 000
+6 0 000
+7 0 000
+8 0 000
+9 0 000
+10 0 000
+NFOŚ & WFOŚ & BOŚ
+NIB
+EBOiR
+EBI
+Kredyt w rachunku
+bieżącym
+Program polskich
+obligacji
+Program EMTN
+Kredyt konsorcjalny
+Kredyt obrotowy
+BGK
+Wykorzystane
+Niewykorzystane
+
+24
+Pozycja gotówkowa PGE zapewnia…
+Silna pozycja 
+finansowa 
+potwierdzona 
+przez agencje 
+ratingowe
+… komfortową 
+pozycję w 
+zakresie płynności
+I kw. 2022
+2021
+Zadłużenie brutto (mln PLN)
+9 976
+10 826
+Zadłużenie netto (mln PLN)
+4 194
+4 228
+Dług netto/12M EBITDA
+0,42x
+0,44x
+Dług netto/Kapitał własny
+0,08x
+0,09x
+MOODY’S
+FITCH
+Długoterminowy rating spółki (IDR)
+Baa1
+BBB+
+Perspektywa ratingu
+stabilna
+stabilna
+Data nadania ratingu
+2 września 2009
+2 września 2009
+Data ostatniego potwierdzenia ratingu
+30 czerwca 2021
+28 stycznia 2022
+Rating niezabezpieczonego zadłużenia
+BBB+
+Data ostatniej zmiany ratingu
+4 sierpnia 2011
+Data ostatniego potwierdzenia ratingu
+28 stycznia 2022
+Długoterminowy rating krajowy spółki
+AA (pol)
+Data nadania ratingu
+10 sierpnia 2012
+Data ostatniej zmiany ratingu
+3 sierpnia 2016
+
+Nakłady Inwestycyjne
+
+26
+Nakłady inwestycyjne w I kw. 2022 r.
+10%
+12%
+6%
+28%
+44%
+Kluczowe projekty
+CAPEX 
+w Q1 2022
+Budowa bloków gazowo-parowych w 
+Elektrowni Dolna Odra
+369 mln PLN
+Budowa Nowej EC Czechnica
+47 mln PLN
+Modernizacje aktywów dystrybucyjnych
+103 mln PLN
+Nowe projekty w segmencie Dystrybucji
+147 mln PLN
+74%
+26%
+Modernizacje 
+i remonty
+Nowe projekty
+Moce konwencjonalne – budowa nowych bloków w PGE Gryfino 2050 (bloki CCGT przy El. Dolna Odra) i Nowa EC Czechnica
+(łącznie ponad 400 mln PLN)
+•
+Dystrybucja – nakłady w kwocie 139 mln PLN poniesione na przyłączanie nowych odbiorców
+•
+Ciepłownictwo – wydatki na projekty rozwojowe w wysokości 76 mln PLN
+RAZEM 
+CAPEX
+~0,9 mld PLN
+(+7% r/r)
+399 mln PLN
+Obrót, GOZ i 
+inne*
+253 mln PLN
+Dystrybucja
+53 mln PLN
+Energia Odnawialna
+95 mln PLN
+EK modernizacje i inne
+CAPEX w Energetyce Konwencjonalnej, Ciepłownictwie, Energetyce Odnawialnej i Pozostałej 
+działalności (moce produkcyjne) oraz w Dystrybucji
+Wytwarzanie 
+Dystrybucja 
+110 mln PLN
+Ciepłownictwo
+* zawiera budowę nowych bloków w El. Dolna Odra
+
+27
+Nakłady inwestycyjne
+1Od IV kw. 2021 projekt budowy bloków w El. Dolna Odra został przeniesiony z EK do Pozostałej Działalności.
+Segment (mln PLN)
+I kw. 2022
+I kw. 2021
+r/r
+Energetyka Konwencjonalna
+95
+417
+-77%
+Ciepłownictwo
+110
+120
+-8%
+Dystrybucja, w tym:
+253
+287
+-12%
+Przyłączanie nowych odbiorców
+139
+129
+8%
+Linie i sieci dystrybucyjne
+62
+73
+-15%
+Energetyka Odnawialna, w tym:
+53
+20
+165%
+Modernizacje i odtworzenie
+6
+12
+-50%
+Obrót, GOZ i pozostałe1
+399
+25
+1 496%
+SUMA
+910
+869
+5%
+SUMA (w tym korekty konsolidacyjne)
+895
+839
+7%
+
+Dane Operacyjne
+
+Produkcja energii netto według paliw, sprzedaż do odbiorców finalnych oraz dystrybucja
+29
+Kluczowe dane operacyjne
+[TWh]
+I kw. 2022
+I kw. 2021
+r/r
+Produkcja energii el. netto, wg paliw:
+17,32
+17,27
+0%
+węgiel brunatny
+10,32
+8,78
+18%
+w tym Turów 7
+0,59
+0,18
+228%
+węgiel kamienny
+4,87
+6,20
+-21%
+w tym Energetyka Konwencjonalna
+3,31
+4,69
+-29%
+w tym Opole 5/6
+1,11
+1,71
+-35%
+w tym Ciepłownictwo
+1,56
+1,51
+3%
+gaz ziemny
+1,12
+1,45
+-22%
+el. szczytowo pompowe
+0,22
+0,20
+10%
+woda
+0,14
+0,14
+0%
+wiatr
+0,55
+0,39
+41%
+biomasa
+0,09
+0,10
+-10%
+odpady komunalne
+0,01
+0,01
+0%
+Sprzedaż ciepła [PJ]
+21,28
+22,96
+-7%
+w tym Energetyka Konwencjonalna
+0,93
+2,27
+-59%
+Sprzedaż energii el. do odbiorców finalnych
+9,10
+9,67
+-6%
+Dystrybucja energii el.
+9,79
+9,53
+3%
+Średnia zrealizowana hurtowa cena energii
+[PLN/MWh]
+I kw. 2022
+I kw. 2021
+r/r
+segment Energetyka Konwencjonalna (EK)
+457,00
+248,38
+84%
+segment Ciepłownictwo (EC)
+370,19
+243,35
+52%
+Ogółem (EK i Ciepłownictwo)
+443,37
+247,56
+79%
+(EK) średni koszt CO2 (PLN/t CO2)
+(EC) średni koszt CO2 (PLN/t CO2)
+283,06
+251,86
+108,07
+115,59
+162%
+118%
+Ogółem (EK i EC) średni koszt CO2 (PLN/t CO2)
+278,03
+109,35
+154%
+
+TWh
+Wolumen produkcji wg paliw – I kw. 2022 r/r 
+Sytuacja w KSE (r/r): Kontynuacja odbicia
+gospodarczego
+w
+I
+kw.
+2022
+r.
+po
+spowolnieniu
+pandemicznym.
+Krajowe
+zużycie energii wyższe o 0,4 TWh r/r. Wysokie
+ceny
+energii
+na
+rynkach
+zagranicznych.
+Eksport
+energii
+netto
+1,0
+TWh,
+→
+wyższe
+zapotrzebowanie na energię generowaną
+w jednostkach konwencjonalnych
+Węgiel brunatny: znaczny wzrost produkcji
+r/r
+ze
+względu
+na
+wyższe
+zapotrzebowanie.
+Produkcja w ELT 7 +0,4 TWh r/r.
+Węgiel kamienny: znaczny spadek produkcji
+r/r ze względu na niższą dostępność węgla i
+wzrost produkcji OZE
+Gaz ziemny: niższa produkcja w kogeneracji
+w EC Lublin Wrotków i Rzeszów ze względu na
+gwałtowny wzrost cen gazu ziemnego, awarię w
+EC Lublin oraz wyższe temperatury zewnętrzne.
+Wiatr: Znacznie lepsze warunki wietrzne.
+Woda: porównywalne warunki hydrologiczne.
+W I kw. 2022 r. i w I kw. 2021 r. wyprodukowane zostało 0,01 TWh z odpadów komunalnych (nieuwzględnione na wykresie)
+-22%
+10%
+0%
+41%
+-10%
+0%
+18%
+-21%
+-7%
+17,32
+10,32
+4,87
+2,13
+17,27
+8,78
+6,20
+2,29
+SUMA
+w. brunatny
+w. kamienny
+pozostałe
+I kw. 2022
+I kw. 2021
+1,12
+0,22
+0,14
+0,55
+0,09
+1,45
+0,20
+0,14
+0,39
+0,10
+gaz
+ESP
+woda
+wiatr
+biomasa
+30
+
+Gospodarka odrabia pandemiczne straty. Polska eksporterem energii netto w I kw. 2022 r. 
+Krajowe zużycie i produkcja energii elektrycznej
+31
+Rynek energii elektrycznej – bilans energii
+GWh
+Źródło: PSE
+I kw.: Zużycie
++0,9% (+0,4 TWh)
+I kw.: Produkcja
++8,1% (+3,5 TWh)
+Eksport netto
+na poziomie 1,0 TWh
+Wysoki wzrost PKB w I kw. 2022 r. 
+(+8,5% r/r). Eksport energii ze 
+względu na wyższe ceny na rynkach 
+zagranicznych.
+I kw.
+I kw.
+10 000
+11 000
+12 000
+13 000
+14 000
+15 000
+16 000
+17 000
+sty 20
+mar 20
+maj 20
+lip 20
+wrz 20
+lis 20
+sty 21
+mar 21
+maj 21
+lip 21
+wrz 21
+lis 21
+sty 22
+mar 22
+Produkcja og ogółem
+Krajowe zużycie en. 
+el.
+
+Gwałtowny wzrost cen CO2 napędza ceny energii. Wzrost uproszczonego CDS w efekcie 
+turbulentnej sytuacji rynkowej
+Kontrakt pasmowy 1Y Forward i ceny CO2
+Rynek energii elektrycznej – ceny
+32
+Źródło: TGE
+•
+BASE na 2022 wyższy o 153 PLN/MWh r/r 
+(2022: 385 PLN/MWh)
+I kw..
+•
+Wzrost cen CO2 pociąga za sobą 
+istotnie wyższą cenę BASE na rok 
+2023 o 266 PLN/MWh ~651 
+PLN/MWh
+232
+385
+651
+70
+170
+270
+370
+470
+570
+670
+770
+sty 20
+mar 20
+maj 20
+lip 20
+wrz 20
+lis 20
+sty 21
+mar 21
+maj 21
+lip 21
+wrz 21
+lis 21
+sty 22
+mar 22
+PLN/t C02
+
+•
+Istotnie wyższe obciążenie elektrowni 
+na węglu brunatnym wobec 
+zwiększonego zapotrzebowania KSE 
+oraz eksportu energii netto.
+•
+Mniejsze wykorzystanie 
+elektrociepłowni (spadek produkcji w 
+elektrociepłowniach gazowych oraz 
+wzrost produkcji w 
+elektrociepłowniach węglowych) ze 
+względu na wyższe temperatury 
+zewnętrzne, awarię w EC Lublin 
+Wrotków oraz wzrost cen gazu. 
+Wyższe obciążenie elektrowni na węglu brunatnym
+Aktywa wytwórcze - konwencjonalne
+87,2%
+92,7%
+81,6%
+83,3%
+92,9%
+87,1%
+68,3%
+79,6%
+38,8%
+29,7%
+66,1%
+56,0%
+I kw. 2021
+I kw. 2022
+I kw. 2021
+I kw. 2022
+I kw. 2021
+I kw. 2022
+EL. węgiel brunatny
+El. węgiel kamienny
+Elektrociepłownie
+Dyspozycyjność
+Współczynnik wykorzystania mocy
+ENERGETYKA 
+KONWENCJONALNA
+CIEPŁOWNICTWO
+33
+
+34
+Aktywa wytwórcze - wiatrowe
+Farmy wiatrowe
+•
+Znacznie wyższe wykorzystanie mocy ze 
+względu na lepsze warunki wietrzne w I 
+kw. 2022 r.
+•
+Poprawa dyspozycyjności.
+97,2%
+97,5%
+27,7%
+38,8%
+I kw. 2021
+I kw. 2022
+Dyspozycyjność
+Wpółczynnik wykorzystania mocy
+
+•
+Pozytywna
+dynamika
+wolumenu
+dystrybuowanej
+energii;
+zwiększony
+pobór
+energii przez grupy taryfowe biznesowe
+•
+Niższy
+poziom
+strat
+sieciowych
+na
+koniec
+marca br. (zmiana profilu odbiorców – niższe
+straty
+generowane
+na
+średnim
+i
+wysokim
+napięciu)
+•
+Część
+wskaźników
+CTP
+i
+CP
+nie
+spełniła
+indykowanego celu URE ze względu na warunki
+atmosferyczne.
+•
+Zrealizowany
+cel
+URE
+dotyczący
+czasu
+przyłączenia.
+Aktywa dystrybucyjne
+Czas trwania przerw*
+Częstość przerw*
+3%
+28%
+*Wskaźniki zgodnie z regulacją jakościową, wykonanie względem indykowanych celów URE na dany okres
+•
+Cel indykowany URE
+0%
+20%
+40%
+60%
+80%
+100%
+Duże
+miasta
+Miasta
+powiatowe
+Małe
+miasta
+Wsie
+0%
+20%
+40%
+60%
+80%
+100%
+Duże
+miasta
+Miasta
+powiatowe
+Małe
+miasta
+Wsie
+Czas przyłączenia*
+0%
+20%
+40%
+60%
+80%
+100%
+Grupa IV
+Grupa V
+5,32
+3,82
+3,60
+4,60
+5,60
+6,60
+7,60
+8,60
+sty 19
+kwi 19
+lip 19
+paź 19
+sty 20
+kwi 20
+lip 20
+paź 20
+sty 21
+kwi 21
+lip 21
+wrz 21
+gru 21
+Straty sieciowe [%]
+(krocząco ostatnie 12 miesięcy)
+8,96
+9,19
+9,30
+9,17
+9,53
+9,79
+I kw. 17 I kw. 18 I kw. 19 I kw. 20 I kw. 21 I kw. 22
+Wolumen dystrybuowanej energii 
+elektrycznej (TWh) 
+35
+
+Ilustracyjnie
+Produkcja i sprzedaż energii elektrycznej w I kw. 2022
+Gospodarstwa 
+domowe
+Klienci biznesowi
+13,61 TWh
+13,53 TWh
+(I kw. 2022)
+17,24 TWh
+17,58 TWh
+(I kw. 2022)
+29%
+71%
+* Sprzedaż Grupy PGE do odbiorcy finalnego po wyeliminowaniu sprzedaży wewnątrz Grupy PGE. Niektóre przepływy włączając rynek bilansujący, handel zagraniczny, 
+zakupy z giełdy oraz zużycie własne nie są uwzględnione. Źródło: PGE
+2,60 TWh
+2,74 TWh
+(I kw. 2022)
+6,50 TWh
+6,93 TWh
+(I kw. 2022)
+Wolumen na 
+pokrycie strat 
+sieciowych
+Energetyka 
+Odnawialna
+Energetyka 
+Konwencjonalna
+Rynek hurtowy i 
+bilansujący
+0,91 TWh
+0,73 TWh
+(I kw. 2022)
+Obrót
+9,10 TWh*
+9,67 TWh
+(I kw. 2022)
+Dystrybucja
+2,80 TWh
+3,01 TWh
+(I kw. 2022)
+Ciepłownictwo
+36
+
+12,0 12,0 
+11,8 11,8 
+11,5 11,3 11,4 11,4 
+13,5 
+Q1'20 Q2'20 Q3'20 Q4'20 Q1'21 Q2'21 Q3'21 Q4'21 Q1'22
+22,0
+21,3
+27,6
+26,6
+38,0
+50,7
+57,2
+68,2
+82,0
+Q1'20 Q2'20 Q3'20 Q4'20 Q1'21 Q2'21 Q3'21 Q4'21 Q1'22
+192 189
+244 
+272 287 318
+426
+731 691
+Q1'20 Q2'20 Q3'20 Q4'20 Q1'21 Q2'21 Q3'21 Q4'21 Q1'22
+175
+180
+233 250
+271
+310
+410
+623
+630
+Q1'20 Q2'20 Q3'20 Q4'20 Q1'21 Q2'21 Q3'21 Q4'21 Q1'22
+239 226 235 227
+277
+335 375
+515
+651
+1Q'20 2Q'20 3Q'20 4Q'20 1Q'21 2Q'21 3Q'21 4Q'21 1Q'22
+Średnie kwartalne ceny energii na TGE (w PLN/MWh)
+Uprawnienia do emisji CO2
+(EUA_Grudzień_Y)
+Wzrost cen energii na TGE r/r
+Węgiel kamienny (indeks PSCMI1)
+Kontrakty na kolejny rok –
+Base_Y+1
+Średnia cena hurtowa energii 
+zrealizowana przez PGE (segment EK*)
+Rynek dnia następnego – podstawa
+Rynek dnia następnego – szczyt
+Źródło: Bloomberg, ICE, PGE
+Źródło: TGE
+Źródło: ARP
+132%
+135%
+EUR/t
+PLN/GJ 
+PLN/MWh
+Źródło: TGE
+Źródło: TGE
+116%
+17%
+141%
+Średnia cena hurtowa energii 
+zrealizowana przez PGE (segment EK*)
+*średnia cena obliczona w oparciu o wolumen
+sprzedaży skorygowany o wolumen zakupu na
+rynku hurtowym.
+285 292 281 286
+248 261 282 290
+457
+1Q'20 2Q'20 3Q'20 4Q'20 1Q'21 2Q'21 3Q'21 4Q'21 1Q'22
+84%
+37
+
+38
+W imieniu
+Wojciecha Dąbrowskiego
+Prezesa Z Zarządu
+oraz
+Lechosława Rojewskiego
+Wiceprezesa Zarządu ds. 
+Finansowych
+zapraszamy na konferencję pośw
+poświęconą
+Wynikom finansowym za I kwartał 2022 r.,
+która odbędzie s się
+w środę, 25 maja 2022 r.
+o godzinie 10.00 (CEST)
+Transmisja konferencji wynikowej dostępna będzie pod 
+adresem: https://infostrefa.tv/pge/
+Wszelkie pytania prosimy kierować na adres 
+ir@gkpge.pl
+podczas trwania transmisji internetowej lub przed jej r
+rozpoczęciem,
+a także poprzez kwestionariusz na stronie transmisji.
+Zaproszenie na konferencję
+
+Analitycy sell-side pokrywający PGE
+Instytucja
+Analityk
+BDM
+Krystian Brymora
+BOŚ 
+Jakub Viscardi
+Citigroup
+Piotr Dzięciołowski
+IPOPEMA
+Robert Maj
+mBank
+Kamil Kliszcz
+Pekao
+Marcin Górnik
+PKO BP
+Andrzej Rembelski
+Santander Biuro Maklerskie
+Paweł Puchalski
+Societe Generale
+Bartłomiej Kubicki
+Trigon DM
+Michał Kozak
+Wood & Company
+Ondrej Slama
+39
+
+Zastrzeżenie
+Niniejsza prezentacja została przygotowana przez Zarząd PGE Polska Grupa Energetyczna S.A. (dalej
+„Spółkę” lub „PGE”) oraz inne jednostki. Niniejsza prezentacja nie stanowi rekomendacji, oferty czy
+zachęty do sprzedaży lub zakupu papierów wartościowych Spółki, ani spółek zależnych, w żadnej
+jurysdykcji. Żadna część niniejszej prezentacji, ani fakt jej dystrybuowania nie powinien tworzyć
+podstawy, ani wiązany z jakąkolwiek decyzją inwestycyjną, kontraktem czy zobowiązaniem.
+Działamy w sektorze dla którego trudno jest uzyskać precyzyjne informacje branżowe i rynkowe.
+Dane rynkowe i branżowe oraz prognozy i stwierdzenia użyte w niniejszej prezentacji dotyczące
+rynkowej pozycji PGE oparte są na założeniach, które uważamy za rozsądne i pochodzą z naszych
+wewnętrznych badań i analiz, wykonanych na nasze zamówienie przez podmioty zewnętrzne lub z
+publicznych źródeł i powszechnie dostępnych publikacji takich jak prasa.
+Niniejsza prezentacja ani żadne materiały dystrybuowane wraz z tą prezentacją nie są adresowane,
+ani przeznaczone do użytku przez obywateli lub rezydentów żadnego stanu, kraju czy jurysdykcji,
+gdzie taka dystrybucja, publikacja, udostępnienie lub użycie byłyby sprzeczne z prawem, regulacją
+lub podlegało rejestracji bądź licencjonowaniu.
+Prezentacja
+zwiera
+zwroty
+dotyczące
+przyszłości.
+Te
+zwroty
+zawierają
+słowa
+„antycypować”,
+„wierzyć”, „zamierzać”, „szacować”, „oczekiwać” oraz wyrazy bliskoznaczne. Wszystkie określenia inne
+niż informacje historyczne zawarte w niniejszej prezentacji, dotyczące m.in. finansów Spółki, strategii
+biznesowej, planów i celów Zarządu (także planów rozwoju i celów odnośnie produktów i usług) są
+zwrotami dotyczącymi przyszłości.
+40
+
+Filip Osadczuk
+Szef Relacji Inwestorskich
+filip.osadczuk@gkpge.pl
+Tel: (+48 22) 340 12 24
+Kom: +48 695 501 370
+Stanisław Ozga 
+CFA
+Krzysztof Dragan
+krzysztof.dragan@gkpge.pl
+Tel: (+48 22) 340 15 13
+Kom: +48 601 334 290
+stanislaw.ozga@gkpge.pl
+Tel: (+48 22) 340 12 69
+Kom: +48 887 171 324
+Kontakt dla inwestorów
+41

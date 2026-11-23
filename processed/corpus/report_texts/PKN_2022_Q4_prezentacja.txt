@@ -1,0 +1,2737 @@
+24 luty 2023r.
+#ORLEN4Q22@PKN_ORLEN
+Skonsolidowane wyniki finansowe Grupy ORLEN
+4 kwartał 2022r.
+
+Najważniejsze wydarzenia
+Otoczenie rynkowe
+Sytuacja finansowa
+Agenda
+Wyniki finansowe i operacyjne
+Perspektywy
+
+3
+Najważniejsze wydarzenia 4Q22
+Sfinalizowanie połączenia z Grupą PGNiG.
+Realizacja środków zaradczych w ramach przejęcia Grupy Lotos.
+Zabezpieczenie dostaw ropy z Saudi Aramco do rafinerii Grupy ORLEN.
+Porozumienie o współpracy z Saudi Aramco i SABIC przy potencjalnym projekcie petrochemicznym w Gdańsku.
+Zakup aktywów petrochemicznych od Basell Orlen Polyolefins (100 tys. ton polietylenu LDPE rocznie).
+Planowany wzrost wydobycia ropy naftowej o 46,6 mln boe i gazu o 9 mld m3 w Norwegii od 2027r.
+Uzyskanie udziałów w kolejnych 4 koncesjach poszukiwawczych przez PGNiG Upstream Norway i LOTOS Exploration & Production Norge.
+Wzmocnienie bezpieczeństwa dostaw LNG do Polski (własna flota 8 „gazowców” do końca 2025r.).
+20-letni kontrakt z Sempra Infrastructure na zakup amerykańskiego LNG (1,3 mld m3 LNG rocznie. Rozpoczęcie dostaw w 2027r.).
+Planowane inwestycje w aktywa logistyczne i produkcyjne w Gdańsku (terminal przeładunkowy na Martwej Wiśle oraz Hydrokrakingowy Blok Olejowy).
+Inwestycja funduszu ORLEN VC w innowacyjną technologię umożliwiającą tańsze, szybsze i bardziej ekologiczne wytworzenie półproduktów
+wykorzystywanych m.in. przy produkcji samochodów, leków, tworzyw sztucznych, czy też dodatków do paliw.
+Ustanowienie Rady ds. Klimatu i Zrównoważonego Rozwoju oraz powołanie Pełnomocnika Zarządu ds. Klimatu i Zrównoważonego Rozwoju.
+Publikacja całkowitego śladu węglowego (rozpoczęcie raportowania „Scope 3” pozwalającego na obliczenie emisji gazów cieplarnianych w całym łańcuchu
+wartości).
+Zakończenie budowy jednej z największych farm fotowoltaicznych w Polsce o łącznej mocy 62 MW.
+Planowane inwestycje ograniczające pobór wody z Wisły wykorzystywanej do procesów technologicznych w Płocku o 25%.
+Planowana budowa pierwszej w Polsce biogazowni w celu ograniczenia emisji CO2 w transporcie ciężarowym.
+Przedłużenie współpracy z PZPN na kolejne 4 lata.
+PKN ORLEN po raz 12 z rzędu wyróżniony tytułem Top Employer Polska, przyznawanym najlepszym pracodawcom w kraju. W prestiżowym zestawieniu firm
+spełniających najwyższe światowe standardy w polityce personalnej znalazły się również spółki z Grupy ORLEN - ANWIL i ORLEN Unipetrol.
+
+Najważniejsze wydarzenia
+Otoczenie rynkowe
+Sytuacja finansowa
+Agenda
+Wyniki finansowe i operacyjne
+Perspektywy
+
+Otoczenie makroekonomiczne 4Q22
+5
+4Q21
+3Q22
+4Q22
+Ropa Brent 
+USD/bbl
+80
+101
+89
+Modelowa marża rafineryjna1
+USD/bbl
+4,5
+16,4
+22,0
+Dyferencjał2
+USD/bbl
+1,7
+7,4
+6,4
+Modelowa marża petrochemiczna3
+EUR/t
+1 253
+1 155
+1 056
+Cena gazu ziemnego TTF month-ahead 
+PLN/MWh
+441
+965
+580
+Cena gazu ziemnego TGEgasDA 
+PLN/MWh
+453
+954
+474
+Cena energii elektrycznej TGeBase 
+PLN/MWh
+616
+1 067
+750
+ON
+USD/t
+84
+328
+383
+Benzyna
+USD/t
+178
+287
+251
+Ciężki olej opałowy
+USD/t
+-180
+-325
+-311
+Polietylen5
+EUR/t
+493
+471
+487
+Polipropylen5
+EUR/t
+698
+460
+438
+Etylen
+EUR/t
+715
+639
+606
+Propylen
+EUR/t
+730
+598
+514
+Paraksylen
+EUR/t
+344
+586
+593
+USD/PLN
+USD/PLN
+4,04
+4,71
+4,64
+EUR/PLN
+EUR/PLN
+4,62
+4,75
+4,73
+Produkty rafineryjne4 - marża (crack) z notowań
+Produkty petrochemiczne4 - marża (crack) z notowań
+Średnie kursy walut6
+(1) Modelowa marża rafineryjna = przychody (93,5% Produkty = 36% Benzyna + 43% Diesel + 14,5% Ciężki olej opałowy) - koszty (100% wsadu: ropa i pozostałe surowce). Notowania rynkowe spot. (do dnia 31.07.2022)
+Modelowa marża rafineryjna = przychody (93,6% Produkty = 33% Benzyna + 48% Diesel + 13% Ciężki olej opałowy) - koszty (100% wsadu: 98% ropa Brent + 2% gaz ziemny). Notowania rynkowe spot. (od dnia 01.08.2022)
+(2) Dyferencjał liczony na bazie rzeczywistego udziału przerobionych rop. Notowania spot. (od dnia 01.01.2022)
+(3) Modelowa marża petrochemiczna = przychody (98% Produkty = 44% HDPE + 7% LDPE + 35% PP Homo + 12% PP Copo) - koszty (100% wsadu = 75% nafty + 25% LS VGO). 
+Przychody notowania kontrakt; koszty notowania spot.
+(4) Marże (crack) dla produktów rafineryjnych i petrochemicznych (z wyjątkiem polimerów) wyliczone jako różnica pomiędzy notowaniem danego produktu, a notowaniem ropy Brent DTD.
+(5) Marża (crack) dla polimerów wyliczona jako różnica pomiędzy notowaniami polimerów a notowaniami monomerów.
+(6) Kursy średnie wg danych Narodowego Banku Polskiego.
+
+6
+PKB1
+Zmiana % (r/r)
+Konsumpcja paliw2
+mt
+Polska
+Niemcy
+Czechy
+Litwa
+Spadek konsumpcji paliw w efekcie spowolnienia gospodarczego
+1 4Q22 – szacunki: Polska (NBP) / Czechy, Niemcy, Litwa (KE)
+2 4Q22 – szacunki własne na bazie danych ARE, Litewskiego Urzędu Statystycznego, Czeskiego Urzędu Statystycznego i Niemieckiego Stowarzyszenia Przemysłu Naftowego
+4,98
+5,69
+6,37
+6,01
+5,66
+5,88
+6,08
+5,91
+-2%
+12,89
+14,26
+13,73
+12,24
+12,58
+13,90
+13,22
+10,85
+-4%
+1,37
+1,65
+1,89
+1,73
+1,60
+1,68
+1,73
+1,69
+-2%
+0,54
+0,60
+0,51
+0,43
+0,50
+0,54
+0,50
+1Q22
+4Q21
+4Q22
+2Q22
+2Q21
+3Q21
+1Q21
+3Q22
+0,40
+-2%
+2,8
+9,1
+5,6
+6,5
+4,8
+1,7
+1,8
+-0,4
+4Q22
+1Q22
+1Q21
+2Q21
+3Q21
+2Q22
+4Q21
+3Q22
+-2,3
+9,5
+3,5
+3,6
+4,8
+3,5
+1,6
+0,4
+-2,3
+10,6
+1,8
+1,2
+3,9
+1,7
+1,3
+0,5
+12,2
+6,5
+8,5
+8,6
+5,8
+3,6
+2,3
+0,2
+
+Najważniejsze wydarzenia
+Otoczenie rynkowe
+Sytuacja finansowa
+Agenda
+Wyniki finansowe i operacyjne
+7
+Perspektywy
+
+8
+Wyniki finansowe
+~ 280 mld PLN przychodów ze sprzedaży w 2022r.
+4Q21
+3Q22
+mln PLN
+12M21
+12M22
+Przychody
+EBITDA LIFO* 
+Wynik netto*
+4Q22
+4 259
+11 679
+16 063
++ 11,8 mld
+4 144
+6 826
+8 087
++ 3,9 mld
+11 188
+21 441
++ 10,3 mld
+14 154
+38 732
++ 24,6 mld
+Przychody: ~ 100 mld PLN przychodów w 4Q22 w efekcie wzrostu
+wolumenów sprzedaży dzięki konsolidacji przejętej Grupy Lotos i
+Grupy PGNiG oraz wzrostu notowań produktów rafineryjnych przy
+niższych notowaniach produktów petrochemicznych.
+EBITDA LIFO: wzrost o 11,8 mld PLN (r/r) głównie w efekcie
+konsolidacji wyników Grupy Lotos i Grupy PGNiG w wys. 7,4 mld PLN
+oraz
+pozytywnego
+wpływu
+makro.
+Powyższe
+efekty
+zostały
+ograniczone przez ujemny wpływ wyceny kontraktów terminowych
+CO2, wykorzystania historycznych warstw zapasów oraz wyższe
+koszty stałe i koszty pracy.
+Efekt LIFO: (-) 1,8 mld PLN wpływu zmian cen ropy naftowej na
+wycenę zapasów.
+Wynik na działalności finansowej: 0,5 mld PLN w efekcie nadwyżki
+dodatnich różnic kursowych oraz wyceny pochodnych instrumentów
+finansowych netto przy ujemnym wpływie kosztów odsetkowych.
+Wynik netto: 8,1 mld PLN zysku netto w 4Q22 (nie uwzględnia
+jednorazowego zysku z tytułu okazyjnego Grupy PGNiG w wys. 8,2
+mld PLN).
+40 914
+72 996
+102 262
++ 61,3 mld
+131 341
+278 509
++ 147,2 mld
+* Wyniki nie uwzględniają zysku z tytułu okazyjnego nabycia Grupy Lotos w wys. 5824 mln PLN w 3Q22 oraz Grupy PGNiG w wys. 8193 mln PLN w 4Q22
+Wyniki operacyjne przed odpisami aktualizującymi wartość aktywów trwałych: 4Q21 903 mln PLN / 3Q22 (-) 53 mln PLN / 4Q22 (-) 447 mln PLN / 12M21 811 mln PLN / 12M22 (-) 3387 mln PLN
+EBITDA*
+5 510
+11 126
+14 214
++ 8,7 mld
+18 400
+39 825
++ 21,4 mld
+
+9
+EBITDA LIFO
+7,4 mld PLN wpływu konsolidacji wyników przejętej Grupy Lotos i Grupy PGNiG 
+Detal: wzrost o 0,1 mld PLN (r/r) w efekcie dodatniego wpływu makro przy
+spadku wolumenów sprzedaży i wyższych kosztach funkcjonowania stacji
+paliw.
+Funkcje korporacyjne: wzrost kosztów o 0,4 mld PLN (r/r) ze względu na
+wzrost skali działalności Grupy ORLEN.
+Wydobycie: wzrost o 6,1 mld PLN (r/r) w efekcie konsolidacji wyników
+przejętej Grupy Lotos i Grupy PGNiG w wys. 6,1 mld PLN, pozytywnego
+wpływu makro oraz wyższych wolumenów sprzedaży.
+Wyniki segmentów
+mln PLN
+Zmiana wyników segmentów (r/r)
+mln PLN
+Energetyka: wzrost o 0,2 mld PLN (r/r) w efekcie dodatniego wpływu makro
+ograniczonego przez ujemny wpływ niższych wolumenów sprzedaży,
+konsolidacji wyników przejętej Grupy PGNiG, wyższych kosztów stałych i
+kosztów pracy oraz utworzenia rezerwy na realizację umów z odbiorcami
+energii elektrycznej z taryfy G w Grupie Energa w wys. (-) 0,9 mld PLN.
+Petrochemia: spadek o (-) 0,8 mld PLN (r/r) w efekcie ujemnego wpływu
+makro, niższych wolumenów sprzedaży, wyceny kontraktów terminowych
+CO2, wykorzystania historycznych warstw zapasów oraz wyższych kosztów
+stałych i kosztów pracy.
+Rafineria: wzrost o 8,8 mld PLN (r/r) w efekcie dodatniego wpływu makro
+oraz konsolidacji wyników przejętej Grupy Lotos w wys. 3,6 mld PLN.
+Powyższe efekty zostały ograniczone przez ujemny wpływ wyceny
+kontraktów
+terminowych
+CO2,
+wykorzystania
+historycznych
+warstw
+zapasów oraz wyższe koszty stałe i koszty pracy.
+10 907
+3 148
+583
+364
+665
+6 300
+4 229
+8 686
+16 063
+Petrochemia
+Energetyka
+Rafineria
+-6
+Detal
+Wydobycie
+-2 197
+Gaz
+-553
+Funkcje 
+korp.
+Wyłączenia
+EBITDA 
+LIFO 
+4Q22
+4 259
+3 148
+8 795
+200
+92
+6 117
+4 229
+8 686
+-2 197
+Gaz
+Funkcje 
+korp.
+EBITDA 
+LIFO 
+4Q21
+Petrochemia
+Rafineria
+-6
+EBITDA 
+LIFO 
+4Q22
+Energetyka
+-806
+4 259
+-391
+Detal Wydobycie
+Wyłączenia
+16 063
++11 804 mln PLN
+Gaz: (-) 2,2 mld PLN (r/r) w efekcie konsolidacji wyników przejętej Grupy
+PGNiG.
+exLotos
+exPGNiG
+Wyniki nie uwzględniają zysku z tytułu okazyjnego nabycia Grupy Lotos w wys. 5824 mln PLN w 3Q22 oraz Grupy PGNiG w wys. 8193 mln PLN w 4Q22
+Wyniki operacyjne przed odpisami aktualizującymi wartość aktywów trwałych: 4Q21 903 mln PLN / 3Q22 (-) 53 mln PLN / 4Q22 (-) 447 mln PLN / 12M21 811 mln PLN / 12M22 (-) 3387 mln PLN
+exLotos
+exPGNiG
+
+10
+10
+Rafineria – EBITDA LIFO
+Dodatni wpływ makro oraz konsolidacji wyników przejętej Grupy Lotos
+EBITDA LIFO
+mln PLN
+Wyniki operacyjne przed odpisami aktualizującymi wartość aktywów trwałych: 4Q21 14 mln PLN / 3Q22 (-) 3 mln PLN / 4Q22 (-) 123 mln PLN / 12M21 (-) 10 mln PLN / 12M22 (-) 2962 mln PLN 
+Makro: marże 2301 mln PLN, dyferencjał 1330 mln PLN, kurs 1118 mln PLN, hedging (-) 124 mln PLN, wycena kontraktów terminowych CO2 (-) 442 mln PLN, rezerwa CO2 1 mln PLN
+
+Dodatni wpływ makro (r/r) ograniczony przez ujemny wpływ wyceny kontraktów
+terminowych CO2 oraz wyższe koszty zużyć własnych w wyniku wzrostu cen
+ropy.
+
+Wzrost wolumenów sprzedaży o 43% (r/r), w tym:
+
+wyższa sprzedaż benzyny o 30%, oleju napędowego o 53%, LPG o 61%,
+paliwa lotniczego JET o 40% przy niższej sprzedaży COO o (-) 3%.
+
+wyższa sprzedaż w Polsce o 75%, w Czechach o 14% i na Litwie o 3%.
+
+ograniczenie przerobu REBCO i zastąpienie go przerobem droższych rop
+arabskich oraz rop z Morza Północnego.
+
+Pozostałe, w tym głównie: konsolidacja wyników przejętej Grupy Lotos, ujemny
+wpływ wykorzystania historycznych warstw zapasów oraz wyższe koszty stałe i
+koszty pracy.
+Modelowa marża rafineryjna z dyferencjałem
+USD/bbl
+2 112
+900
+4 656
+7 998
+10 907
+4Q21
+1Q22
+2Q22
+3Q22
+4Q22
+EBITDA LIFO – wpływ czynników
+mln PLN
+4,5
+16,4
+22,0
+1,7
+7,4
+6,4
+4Q21
+4Q22
+3Q22
+6,2
+23,8
+28,4
++22,2 USD/bbl
+dyferencjał
+marża
+2 112
+3 626
+4 184
+4 946
+7 281
+EBITDA 
+LIFO 4Q21
+Wolumeny
+Makro
+Pozostałe
+-335
+EBITDA 
+LIFO 4Q22
+10 907
++8 795 mln PLN
+exLotos
+
+Uzysk paliw
+%
+11
+11
+ORLEN Unipetrol
+PKN ORLEN
+ORLEN Lietuva
+50
+57
+45
+45
+44
+45
+32
+28
+37
+36
+33
+33
+4Q21
+4Q22
+4Q22
+4Q22
+4Q21
+4Q21
+82
+85
+82
+81
+77
+78
++3 pp
+-1 pp
++1 pp
+lekkie destylaty
+średnie destylaty
+Rafineria – dane operacyjne
+Wzrost przerobu i sprzedaży głównie w efekcie konsolidacji przejętej Grupy Lotos 
+Przerób (mt)
+4Q21
+3Q22
+4Q22
+(r/r)
+PKN ORLEN
+4,1
+6,0
+6,6
+2,6
+ORLEN Unipetrol
+1,9
+2,0
+2,1
+0,1
+ORLEN Lietuva
+2,5
+2,4
+2,5
+0,0
+Grupa ORLEN
+8,6
+10,5
+11,2
+2,7
+Wykorzystanie mocy (%)
+4Q21
+3Q22
+4Q22
+(r/r)
+PKN ORLEN
+99%
+102%
+98%
+-1 pp
+ORLEN Unipetrol
+88%
+93%
+94%
+6 pp
+ORLEN Lietuva
+96%
+91%
+96%
+0 pp
+Grupa ORLEN
+96%
+98%
+98%
+2 pp
+Wolumeny sprzedaży
+mt
+Przerób ropy i wykorzystanie mocy
+mt, %
+
+Przerób ropy wyniósł 11,2 mt tj. wzrost o 2,7 mt (r/r), w tym:
+
+PKN ORLEN – wzrost przerobu ropy o 2,6 mt (r/r) w efekcie ujęcia
+przerobu rafinerii w Gdańsku w wys. 2,8 mt przy niższym przerobie
+rafinerii w Płocku o (-) 0,2 mt (r/r) w efekcie postoju instalacji DRW VI
+(listopad-grudzień 2022) oraz niedostępności instalacji HOG w
+rezultacie awarii z dnia 27 września 2022r. Wyższy uzysk paliw o 3 pp
+(r/r) to głównie efekt wysokich uzysków rafinerii w Gdańsku przy
+niższym uzysku paliw rafinerii w Płocku na skutek postoju instalacji
+HOG.
+
+ORLEN Unipetrol – wzrost przerobu ropy o 0,1 mt (r/r) w efekcie
+korzystnego wpływu parametrów makro.
+
+ORLEN Lietuva – porównywalny przerób ropy
+(r/r). Brak istotnych
+postojów remontowych instalacji. Wyższy uzysk paliw o 1 pp (r/r) w
+efekcie niższego udziału rop zasiarczonych w strukturze przerobu (brak
+przerobu REBCO).
+6,8
+5,9
+5,9
+8,9
+9,7
+3Q22
+2Q22
+4Q21
+1Q22
+4Q22
++43%
+
+12
+12
+Petrochemia – EBITDA LIFO
+Ujemny wpływ makro oraz niższych wolumenów sprzedaży
+1 389
+1 643
+698
+583
+1Q22
+4Q21
+451
+3Q22
+2Q22
+4Q22
+1 389
+583
+-314
+EBITDA 
+LIFO 4Q21
+Makro
+-178
+Wolumeny
+-314
+Pozostałe
+EBITDA 
+LIFO 4Q22
+-806 mln PLN
+EBITDA LIFO
+mln PLN
+EBITDA LIFO – wpływ czynników
+mln PLN
+Modelowa marża petrochemiczna
+EUR/t
+
+Ujemny wpływ makro (r/r) w efekcie niższych marż na olefinach,
+poliolefinach i PCW, osłabienia EUR/USD oraz wyceny kontraktów
+terminowych CO2.
+
+Spadek wolumenów sprzedaży o (-) 12% (r/r), w tym: niższa sprzedaż
+olefin o (-) 23%, poliolefin o (-) 2%, nawozów o (-) 22%, PCW o (-) 26%
+przy wzroście sprzedaży PTA o 28%.
+
+Pozostałe, w tym głównie: ujemny wpływ wykorzystania historycznych
+warstw zapasów oraz wyższe koszty stałe i koszty pracy.
+
+EBITDA LIFO zawiera:
+
+168 mln PLN wyniku Anwil; spadek o (-) 40% (r/r).
+
+(-) 51 mln PLN wyniku PTA; wzrost o 11 mln PLN (r/r).
+Wyniki operacyjne przed odpisami aktualizującymi wartość aktywów trwałych: 4Q21 30 mln PLN / 3Q22 0 mln PLN / 4Q22 (-) 11 mln PLN / 12M21 30 mln PLN / 12M22 (-) 11 mln PLN 
+Makro: marże 397 mln PLN, kurs (-) 254 mln PLN, hedging 24 mln PLN, wycena kontraktów terminowych CO2 (-) 509 mln PLN, rezerwa CO2 27 mln PLN
+1 253
+1 155
+1 056
+4Q21
+3Q22
+4Q22
+-197 EUR/t
+
+Wolumeny sprzedaży – podział na produkty
+tys.t
+13
+Petrochemia – dane operacyjne
+Niższe wykorzystania mocy instalacji w efekcie ograniczeń rynkowych
+Wolumeny sprzedaży
+mt
+Wykorzystanie mocy
+%
+269
+206
+165 161
+99 96
+257
+201
+91 67
+94
+120
+4Q22
+4Q22
+4Q21
+4Q21
+4Q22
+4Q214Q22
+4Q21
+4Q22
+4Q214Q22
+4Q21
+-23%
+-2%
+-3%
+-22%
+-26%
++28%
+1,3
+1,4
+1,4
+1,1
+1,1
+4Q21
+2Q22
+1Q22
+3Q22
+4Q22
+-12%
+Monomery
+Polimery
+Aromaty
+Nawozy
+sztuczne
+Tworzywa
+sztuczne
+PTA
+
+Wykorzystanie mocy instalacji petrochemicznych:
+
+Olefiny (Płock) – mniejsze obciążenie instalacji ze względu na spadek popytu.
+
+BOP (Płock) – mniejsze obciążenie instalacji ze względu na spadek popytu.
+
+Metateza (Płock) – postój instalacji w październiku i listopadzie’22 ze względu
+na spadek popytu.
+
+Nawozy – ograniczona dostępność instalacji w październiku i listopadzie’22
+(Wytwórnia Amoniaku).
+
+PCW (Włocławek) – utrzymujący się spadek zapotrzebowania na PCW oraz
+wpływ przedłużonego postoju technologicznego z 3Q22.
+
+PTA (Włocławek) – mniejszy zakres postojów remontowych (r/r) przy
+ograniczonym popycie.
+
+Olefiny (Unipetrol) – praca dostosowana do dostępności instalacji PE2/PE3.
+
+Sprzedaż wyniosła 1,1 mt tj. spadek o (-) 12% (r/r), w tym: niższa sprzedaż w
+Polsce o (-) 12% głównie nawozów w efekcie postojów remontowych oraz PCW i
+olefin w efekcie ograniczonego popytu na produkty, w Czechach o (-) 11% w efekcie
+niższej sprzedaży benzenu, nawozów i PCW oraz na Litwie o (-) 50% w efekcie
+ograniczeń rynkowych.
+Instalacje petrochemiczne
+4Q21
+3Q22
+4Q22
+(r/r)
+Olefiny (Płock)
+93%
+72%
+78%
+-15 pp
+BOP (Płock)
+80%
+64%
+67%
+-13 pp
+Metateza (Płock)
+70%
+0%
+14%
+-56 pp
+Nawozy (Włocławek) 
+64%
+49%
+47%
+-17 pp
+PCW (Włocławek) 
+82%
+68%
+65%
+-17 pp
+PTA (Włocławek) 
+52%
+65%
+70%
+18 pp
+Olefiny (ORLEN Unipetrol) 
+92%
+73%
+77%
+-15 pp
+PPF Splitter (ORLEN Lietuva)
+96%
+80%
+89%
+-7 pp
+
+14
+14
+Energetyka – EBITDA
+Dodatni wpływ makro przy spadku wolumenów sprzedaży
+164
+970
+1 386
+-122
+Makro
+EBITDA
+4Q21
+-1 064
+Wolumeny
+364
+Pozostałe
+-454
+-152
+EBITDA
+4Q22
++200 mln PLN
+EBITDA
+mln PLN
+
+Dodatni wpływ makro (r/r) oraz niższe rezerwy na emisje CO2 przy ujemnym
+wpływie wyceny kontraktów terminowych CO2.
+
+Ujemny efekt wolumenowy (r/r) w efekcie niższej produkcji i sprzedaży energii
+elektrycznej w CCGT Włocławek i CCGT Płock z uwagi na wysokie notowania
+gazu ziemnego. Dodatkowo niższe wolumeny wytwarzania, sprzedaży i usług
+dystrybucji energii w Grupie Energa.
+
+Pozostałe, w tym głównie: utworzenia rezerwy na realizację umów z
+odbiorcami z grupy taryfowej G w Grupie Energa w związku z zatwierdzeniem
+przez Prezesa URE taryfy na 2023r. i wdrożenia regulacji w zakresie cen
+sprzedaży energii, konsolidacja wyników przejętej Grupy PGNiG oraz wyższe
+koszty
+stałe
+i
+koszty
+pracy
+częściowo
+skompensowane
+sprzedażą
+zakontraktowanego, a niezużytego gazu ziemnego.
+
+Ciepłownictwo: wzrost średnich cen sprzedaży ciepła PGNiG TERMIKA o 35%
+od 29 listopada’22 (zmiana taryf) przy wyższych kosztach wytwarzania (r/r).
+EBITDA – wpływ czynników 
+mln PLN
+164
+1 004
+1 176
+1 607
+4Q21
+1Q22
+2Q22
+3Q22
+364
+4Q22
+Wyniki operacyjne przed odpisami aktualizującymi wartość aktywów trwałych: 4Q21 (-) 17 mln PLN / 3Q22 (-) 7 mln PLN / 4Q22 (-) 2 mln PLN / 12M21 (-) 77 mln PLN / 12M22 (-) 24 mln PLN
+Makro: marże 1533 mln PLN, kurs 35 mln PLN, hedging 221 mln PLN, wycena kontraktów terminowych CO2 (-) 456 mln PLN, rezerwa CO2 53 mln PLN
+Cena energii i gazu 
+PLN/MWh
+449
+953 
+469
+4Q21
+3Q22
+4Q22
++4%
+616
+1 067 
+761
+4Q22
+4Q21
+3Q22
++24%
+Cena energii (TGE Base)
+Cena gazu ziemnego (TGE gasDA)
+Grupa Energa
+exPGNiG
+
+15
+15
+Energetyka – dane operacyjne
+~ 50% produkcji energii elektrycznej pochodzi ze źródeł zero i niskoemisyjnych
+Wolumeny energii elektrycznej
+TWh
+Produkcja energii elektrycznej – źródła wytwarzania
+%
+Moc zainstalowana
+GWe
+2,8
+3,4
+0,4
+4Q21
+4Q22
+0,4
+3,2
+3,8
++17%
+Produkcja
+Dystrybucja
+39%
+10%
+51% Pozostałe
+Gaz
+OZE
+6,9
+6,2
+4Q21
+4Q22
+-10%
+5,9
+5,8
+4Q21
+4Q22
+-1%
+Sprzedaż
+
+Moc zainstalowana: 5,1 GWe (energia elektryczna) / 13,5 GWt (ciepło).
+
+Produkcja: 3,8 TWh (energia elektryczna) / 23,9 PJ (ciepło).
+
+47% produkcji ciepła pochodzi z exPGNiG.
+
+Produkcja energii elektrycznej wzrosła o 17% (r/r) w efekcie uwzględnienia
+nowych źródeł wytwórczych. Sprzedaż energii elektrycznej z produkcji
+exPGNiG w 4Q22 wyniosła 1,2 TWh tj. porównywalny poziom (r/r) przy
+łącznej sprzedaży energii elektrycznej z produkcji w 2022r. na poziomie
+4,4 TWh.
+
+Sprzedaż energii elektrycznej spadła o (-) 10% (r/r) w efekcie niższej
+sprzedaży hurtowej i detalicznej w Grupie Energa.
+
+Dystrybucja energii elektrycznej na zbliżonym poziomie (r/r).
+
+Sprzedaż ciepła przez exPGNiG wyniosła 14,1 TWh tj. porównywalny
+poziom (r/r) przy wyżej o 1,4*C temperaturze w kwartale.
+0,7
+5,1
+1,7
+0,7
+1,9
+0,2
+OZE
+Gaz
+RAZEM
+Olej 
+opałowy
+Pozostałe
+Węgiel
+
+16
+16
+Detal – EBITDA
+Spadek wolumenów sprzedaży w efekcie niższego popytu na rynku niemieckim
+573
+665
+145
+67
+18
+Marża 
+paliwowa
+Pozostałe
+EBITDA
+4Q22
+EBITDA
+4Q21
+Marża 
+pozapaliwowa
+Wolumeny
+-138
++92 mln PLN
+EBITDA
+mln PLN
+Wyniki operacyjne przed odpisami aktualizującymi wartość aktywów trwałych: 4Q21 (-) 39 mln PLN / 3Q22 (-) 1 mln PLN / 4Q22 (-) 10 mln PLN / 12M21 (-) 47 mln PLN / 12M22 (-) 15 mln PLN
+EBITDA – wpływ czynników
+mln PLN
+573
+585
+697
+856
+665
+3Q22
+4Q21
+1Q22
+2Q22
+4Q22
+
+Spadek wolumenów sprzedaży o (-) 1% (r/r), w tym: wyższa sprzedaż
+benzyny o 2% oraz LPG o 6% przy niższej sprzedaży oleju napędowego o
+(-) 3%.
+
+Wzrost punktów sprzedaży pozapaliwowej o 169 (r/r).
+
+Wzrost punktów alternatywnego tankowania o 129 (r/r). Obecnie
+posiadamy 637 punktów alternatywnego tankowania, w tym: 589 punktów
+ładowania samochodów elektrycznych, 46 stacji CNG oraz 2 stacje
+wodorowe.
+
+Obecnie posiadamy 1847 automatów paczkowych; wzrost o 1471 (r/r).
+
+Pozostałe, w tym głównie: wzrost kosztów funkcjonowania stacji paliw (r/r).
+Punkty alternatywnego tankowania
+#
+508
+516
+567
+600
+637
+3Q22
+4Q22
+4Q21
+1Q22
+2Q22
++129
+
+17
+Detal – dane operacyjne
+Wejście na rynek węgierski w efekcie realizacji środków zaradczych w ramach przejęcia Grupy Lotos
+Liczba stacji i wolumenowe udziały rynkowe
+#, %
+Wolumeny sprzedaży
+mt
+2,3
+2,2
+2,3
+2,5
+2,3
+4Q22
+4Q21
+1Q22
+2Q22
+3Q22
+-1%
+
+Sprzedaż wyniosła 2,3 mt tj. spadek o (-) 1% (r/r), w tym: wyższa sprzedaż w
+Polsce o 6%, w Czechach o 5% i na Litwie o 2% przy niższej sprzedaży w
+Niemczech o (-) 19%.
+
+3097 stacji paliw, tj. wzrost o 216 (r/r), w tym głównie w Polsce i na Węgrzech w
+efekcie realizacji środków zaradczych w ramach przejęcia Grupy Lotos oraz na
+Słowacji w efekcie uruchomienia i rebrandingu samoobsługowych stacji
+przejętych od lokalnej sieci.
+
+Wzrost udziałów rynkowych w Polsce i na Słowacji przy spadku udziałów w
+Czechach (r/r).
+
+2459 punktów sprzedaży pozapaliwowej, w tym: 1847 w Polsce (w tym 19
+ORLEN w ruchu), 334 w Czechach, 173 w Niemczech, 29 na Litwie, 17 na
+Słowacji i 59 na Węgrzech.
+
+637 punktów alternatywnego tankowania, w tym: 493 w Polsce, 125 w Czechach
+i 19 w Niemczech.
+
+„ORLEN Paczka” obejmuje 7944 lokalizacji w Polsce, w tym: 1017 stacji ORLEN,
+780 kiosków RUCHu, 4300 punktów partnerskich, 1847 automatów paczkowych.
+2 290
+2 300
+2 309
+2 459
+1Q22
+2Q22
+4Q21
+3Q22
+4Q22
+2 323
++169
+Punkty sprzedaży pozapaliwowej 
+#
+* Docelowo 144 stacje paliw na Węgrzech. PKN ORLEN uzyska ponad 7% udział w rynku węgierskim i będzie czwartym koncernem na tym rynku pod względem liczby stacji. 
+
+18
+18
+Wydobycie – EBITDA
+Dodatni wpływ konsolidacji wyników przejętej Grupy Lotos i Grupy PGNiG
+183
+5 478
+25
+40
+6 052
+599
+223
+Makro
+EBITDA
+4Q21
+Wolumeny
+Pozostałe
+EBITDA
+4Q22
+6 300
++6 117 mln PLN
+EBITDA
+mln PLN
+183
+162
+336
+6 300
+4Q22
+4Q21
+1Q22
+2Q22
+3Q22
+842
+EBITDA – wpływ czynników
+mln PLN
+Cena ropy i gazu
+CAD/bbl, CAD/mcf, PLN/MWh
+93
+117 109
+4Q21 3Q22 4Q22
++17%
+4,6
+4,1
+5,1
+3Q22
+4Q21
+4Q22
++11%
+Cena ropy CLS
+(CAD/bbl)
+Cena gazu AECO
+(CAD/mcf)
+Wyniki operacyjne przed odpisami aktualizującymi wartość aktywów trwałych: 4Q21 918 mln PLN / 3Q22 (-) 40 mln PLN / 4Q22 (-) 250 mln PLN / 12M21 918 mln PLN / 12M22 (-) 322 mln PLN
+Makro: marże 15 mln PLN, kurs 0 mln PLN, hedging 10 mln PLN
+
+Dodatni wpływ makro (r/r).
+
+Wzrost sprzedaży o 73% (r/r), w tym: wyższa sprzedaż ropy 7x, gazu
+ziemnego o 3% oraz kondensatu gazowego (NGL) o 42%.
+
+Wzrost średniego wydobycia o 175,3 tys. boe/d (r/r) tj. 12x, w tym: wzrost
+wydobycia w Polsce o 82,1 tys. boe/d, w Norwegii o 88,1 tys. boe/d, w
+Pakistanie o 5,0 tys. boe/d i na Litwie o 0,4 tys. boe/d przy spadku
+wydobycia w Kanadzie o (-) 0,3 tys. boe/d.
+
+Pozostałe, w tym głównie: konsolidacja wyników przejętej Grupy Lotos i 
+Grupy PGNiG w wys. 6,1 mld PLN.
+exLotos
+exPGNiG
+Kanada
+453 
+954 
+469
+4Q21 3Q22 4Q22
++4%
+441
+965
+580
+4Q21 3Q22 4Q22
++32%
+Cena gazu 
+ziemnego TTF 
+month-Ahead
+(PLN/MWh)
+Cena gazu 
+ziemnego 
+TGEgasDA
+(PLN/MWh)
+Pozostałe
+
+Polska
+Zasoby 2P: 733,6 mln boe (19% ropa / 81% gaz)
+Średnie wydobycie: 83,1 tys. boe/d (23% ropa / 77% gaz)
+Norwegia
+Zasoby 2P: 346,6 mln boe (30% ropa / 70% gaz)
+Średnie wydobycie: 88,1 tys. boe/d (26% ropa / 74% gaz)
+Kanada
+Zasoby 2P: 158,0 mln boe (58% ropa + NGL / 42% gaz)
+Średnie wydobycie: 14,6 tys. boe/d (49% ropa + NGL / 51% gaz)
+Pakistan
+Zasoby 2P: 38,7 mln boe (100% gaz)
+Średnie wydobycie: 5,0 tys. boe/d (100% gaz)
+Litwa
+Zasoby 2P: 1,3 mln boe (100% ropa)
+Średnie wydobycie: 0,4 tys. boe/d (100% ropa)
+19
+19
+Wydobycie – dane operacyjne
+Wzrost skali segmentu wydobycia w efekcie przejęcia Grupy Lotos i Grupy PGNiG
+733,6
+1 278,2
+346,6
+158,0
+38,7
+Pakistan
+Polska
+Norwegia
+Kanada
+1,3
+Litwa
+RAZEM
+Zasoby ropy i gazu (2P)
+mln boe
+Średnie wydobycie 
+tys. boe/d
+15,8
+16,6
+18,6
+191,2
+1Q22
+4Q21
+2Q22
+3Q22
+30,2
+4Q22
++175,4
+Średnie wydobycie – udział węglowodorów
+%
+74%
+26%
+Ropa + NGL
+Gaz
+
+20
+20
+Gaz (dystrybucja oraz obrót i magazynowanie) – EBITDA
+Ujemny wpływ konsolidacji wyników przejętej Grupy PGNiG
+EBITDA
+mln PLN
+Ceny na rynku gazu
+PLN/MWh
+Wyniki operacyjne przed odpisami aktualizującymi wartość aktywów trwałych: 4Q21 n/a mln PLN / 3Q22 n/a mln PLN / 4Q22 (-) 44 mln PLN / 12M21 n/a mln PLN / 12M22 (-) 44 mln PLN
+441
+965
+580
++32%
+206
+372 
+390
++89%
+Średnioważona cena z transakcji na TGE
+Cena gazu ziemnego (TTF gasMA)
+4Q21
+3Q22
+4Q22
+4Q22
+4Q21
+3Q22
+
+EBITDA (obrót i magazynowanie) wyniosła (-) 3,2 mld PLN tj. spadek o (-)
+2,1 mld PLN (r/r).
+
+EBITDA (dystrybucja) wyniosła 1,0 mld PLN tj. wzrost o 0,4 mld PLN (r/r).
+
+Przychody ze sprzedaży segmentu w listopadzie i grudniu 2022r. wyniosły
+łącznie 30,7 mld PLN vs 23,7 mld PLN w porównywalnym okresie 2021r.
+
+Przychody ze sprzedaży gazu wyniosły 23,8 mld PLN vs 20,7 mld PLN,
+przy wzroście ceny sprzedaży i spadku wolumenu sprzedaży.
+995
+EBITDA
+4Q22
+-3 192
+-2 197
+dystrybucja
+obrót i magazynowanie
+* Wydzielenie segmentu Gaz (dystrybucja oraz obrót i
+magazynowanie) w efekcie konsolidacji wyników przejętej
+Grupy PGNiG od listopada 2022r.
+EBITDA 4Q22* = -2 197 mln PLN
+
+Obrót i magazynowanie
+
+Import gazu do Polski w 4Q22 wyniósł 39,7 TWh, w tym 52% stanowiło
+LNG. W terminalu LNG w Świnoujściu rozładowano 18 statków, w tym: 6
+w ramach kontraktów z Qatargas oraz 12 transakcji spot.
+
+Wolumen zmagazynowanego gazu przez Grupę ORLEN (w Polsce i za
+granicą)* na koniec 4Q22 wyniósł 28,7 TWh. Stan napełnienia instalacji
+magazynowych w Polsce na koniec 4Q22 wyniósł 97%.
+
+Taryfa detaliczna obowiązująca w 2022r. wyższa o 83,7% w porównaniu
+do poprzedniej taryfy; wpływ rekompensaty z Funduszu Wypłaty Różnicy
+Ceny dla PGNiG OD na przychody w okresie od 7 marca do 30 grudnia
+wyniósł 7,9 mld zł.
+
+Sprzedaż do największych odbiorców, małych i średnich przedsiębiorstw
+realizowana na podstawie kontraktów oraz cenników; sprzedaż do
+gospodarstw domowych i odbiorców chronionych – na podstawie taryfy.
+21
+21
+Gaz (dystrybucja oraz obrót i magazynowanie) – dane operacyjne
+Spadek wolumenów sprzedaży i dystrybucji - spadek popytu na skutek wysokich cen
+Wolumen dystrybuowanego gazu
+TWh
+Sprzedaż gazu, stan magazynów i wolumen importu
+TWh
+41,4
+46,3
+24,8
+18,4
+36,4
+4Q21
+1Q22
+2Q22
+3Q22
+4Q22
+-12%
+* Stan zapasów obejmuje gaz wysokometanowy, zaazotowany oraz LNG w terminalach. Dane nie obejmują wolumenu OSP GAZ-SYSTEM i Rządowej Agencji Rezerw Strategicznych.
+Dystrybucja
+
+36,4 TWh wolumenów dystrybuowanego gazu tj. spadek o (-) 12% (r/r)
+przy
+wyższej
+średniej
+temperaturze
+w
+kwartale
+o 1,4*C (r/r).
+
+Taryfa dystrybucyjna obowiązująca w 2022r. wyższa o 3,6% w
+porównaniu do obowiązującej w 2021r.
+
+Formuła kalkulacji taryfy dystrybucyjnej: koszt + zwrot z kapitału.
+32,8
+15,0
+28,8
+28,7
+114,4
+126,6
+77,7
+58,8
+83,7
+45,4
+44,4
+43,6
+39,7
+25,3
+3Q22
+36,6
+4Q21
+1Q22
+2Q22
+4Q22
+sprzedaż
+import
+magazyny
+
+Najważniejsze wydarzenia
+Otoczenie rynkowe
+Sytuacja finansowa
+Agenda
+Wyniki finansowe i operacyjne
+22
+Perspektywy
+
+23
+Przepływy pieniężne 
+38,7
+14,6
+1,1
+17,1
+4,6
+1,6
+7,0
+Zmiana stanu 
+zaliczek i 
+zobowiązań 
+inwestycyjnych
+-14,7
+2,7
+-6,4
+-5,0
+Płatności z 
+tytułu umów 
+leasingowych
+Otrzymane 
+dotacje
+Środki 
+pieniężne 
+przejętej 
+Grupy Lotos i 
+Grupy PGNIG
+Wypłata 
+dywidendy
+Pozostałe
+(***)
+-1,5
+CAPEX
+Wzrost 
+zapotrzebowania 
+na kapitał 
+pracujący
+Zakup 
+uprawnień
+CO2 i praw 
+majątkowych
+Efekt LIFO
+Wpływy ze 
+sprzedaży 
+akcji/udziałów 
+(realizacja 
+środków 
+zaradczych) 
+oraz zbycie 
+30% udziałów 
+w Rafinerii 
+Gdańskiej
+-11,0
+-19,6
+EBITDA LIFO
+12M22
+Zadłużenie 
+wynikające z 
+przejęcia 
+Grupy Lotos i 
+Grupy PGNIG
+Spadek 
+długu netto
+Przepływy z działalności operacyjnej 
+mld PLN
+Wolne przepływy pieniężne 12M22
+mld PLN
+Przepływy z działalności inwestycyjnej 
+mld PLN
+-8,8
+7,8
+17,3
+CAPEX
+4Q22
+Rozliczenie 
+instrumentów bez 
+rachunkowości 
+zabezpieczeń
+-0,7
+Pozostałe
+(**)
+Wpływy netto 
+z działalności 
+inwestycyjnej
+4Q22
+16,1
+13,2
+5,3
+Wzrost 
+zapotrzebowania 
+na kapitał 
+pracujący
+-1,8
+EBITDA LIFO
+4Q22
+Efekt LIFO
+Rozliczenie 
+depozytów 
+zabezpieczających 
+dla instrumentów 
+pochodnych
+-1,9
+-4,5
+Pozostałe
+(*)
+Wpływy netto 
+z działalności 
+operacyjnej
+1Q22
+*** głównie: zapłacony podatek dochodowy (-) 0,9 mld PLN, zapłacone odsetki (-) 0,9 mld PLN, nabycie akcji pomniejszone o środki pieniężne (-) 0,9 mld PLN, środki pieniężne na dzień ustalenia wspólnego
+działania w Rafinerii Gdańskiej 0,4 mld PLN, otrzymane dywidendy 0,5 mld PLN, rozliczenie i wycena pochodnych instrumentów finansowych 3,5 mld PLN, zwiększenia z tytułu praw do użytkowania aktywów 2,0
+mld PLN, korekty kapitałowe (-) 0,3 mld PLN, zmiana stanu rezerw 9,0 mld PLN, rezerwa na rekultywacje 1 mld PLN, rozliczenie dotacji na prawa majątkowe (-) 2,9 mld PLN, wycena i przeszacowanie zadłużenia z
+tytułu różnic kursowych netto (-) 0,8 mld PLN, rozliczenie otrzymanych rekompensat do cen gazu (-) 3,9 mld PLN, wynik na sprzedaży 30% rafinerii Gdańsk 0,5 mld PLN
+Łączny wpływ gotówkowy na hedgingu
+* głównie: zapłacony podatek dochodowy (-) 3,2 mld PLN, zmiana stanu rezerw 3,7 mld PLN, oraz
+rozliczone rekompensaty do cen gazu (-) 3,9 mld PLN
+** głównie: zakup uprawnień CO2 i praw majątkowych (-) 3,5 mld PLN, środki pieniężne przejętej Grupy
+PGNiG 12,8 mld PLN, wpływy ze sprzedaży akcji/udziałów w związku z realizacją środków zaradczych
+oraz zbycie 30% udziałów w Rafinerii Gdańskiej 4,6 mld PLN
+
+24
+24
+3,6
+Kredyty i pożyczki
+Euroobligacje
+PKN ORLEN
+Obligacje korporacyjne ESG
+PKN ORLEN
+2,3
+Zielone euroobligacje
+PKN ORLEN
+Euroobligacje
+ENERGA
+2,0
+1,1
+1,4
+Obligacje hybrydowe
+ENERGA
+8,5
+0,2
+Obligacje senioralne
+exLOTOS
+Zadłużenie
+0,61
+0,73
+0,42
+0,09
+-0,08
+-0,5
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+3,5
+2Q22
+4Q22
+4Q21
+1Q22
+3Q22
+Dług netto
+mld PLN
+Dług netto/EBITDA*
+Dług brutto – źródła finansowania
+mld PLN
+11,0
+14,2
+10,2
+3,5
+-3,7
+4Q21
+1,4
+1,4
+1,3
+1Q22
+1,4
+2Q22
+3Q22
+1,4
+4,9
+4Q22
+12,3
+15,6
+11,6
+-2,3
+-14,6 mld PLN
+Obligacje hybrydowe + Project finance bez regresu
+Zobowiązanie finansowe netto
+
+Struktura walutowa długu brutto: EUR 58%, PLN 37%, USD 5%.
+
+Średnioważony termin zapadalności zadłużenia: 2025r.
+
+Rating
+inwestycyjny:
+A3
+perspektywa
+stabilna
+(Moody’s),
+BBB+
+perspektywa stabilna (Fitch). Rating Moody’s i Fitch najwyższy w historii
+Koncernu w efekcie skutecznej realizacji procesów połączeniowych oraz
+mocnych fundamentów finansowych Grupy ORLEN.
+
+Spadek długu netto o 7,2 mld PLN (kw/kw) głównie w efekcie dodatniego
+wpływu środków pieniężnych netto z działalności operacyjnej w wys. 13,2
+mld PLN oraz z działalności inwestycyjnej w wys. 7,8 mld PLN przy
+ujemnym wpływie spłaty kredytów i pożyczek w wys. (-) 12,6 mld PLN oraz
+wypłaconej dywidendy w wys. (-) 1,5 mld PLN.
+
+Zapasy obowiązkowe w bilansie na koniec 4Q22 wyniosły 11,9 mld PLN, w
+tym: 11,1 mld PLN w PKN ORLEN oraz 0,9 mld PLN w ORLEN Lietuva.
+* Poziom długu netto przyjęty do obliczenia wskaźnika nie uwzględnia zadłużenia z tytułu project finance bez regresu i emisji obligacji hybrydowych
+Maksymalny poziom kowenantu bankowego = 3,5x
+Maksymalny poziom określony w Strategii 2030 = 2,5x
+
+25
+25
+Nakłady inwestycyjne
+Planowany CAPEX*
+mld PLN, %
+Zrealizowany CAPEX 12M22** – podział na segmenty 
+mld PLN
+Zrealizowany CAPEX 12M22** – podział wg krajów
+%
+5,8
+5,1
+4,5
+10,7
+CAPEX
+2022
+15,2
+Rozwój
+Utrzymanie
+19%
+31%
+6%
+Rafineria
+Detal
+41%
+Energetyka
+Petrochemia
+Wydobycie
+3%
+72%
+8%
+6%
+8%
+2%
+1%
+* Planowany CAPEX nie uwzględnia planu przejętej Grupy Lotos i PGNIG. ** Zrealizowany CAPEX z uwzględnieniem przejętej Grupy Lotos i Grupy PGNIG.
+CAPEX 4Q22 wyniósł 8 836 mln PLN: Rafineria 1 594 mln PLN, Petrochemia 1 247 mln PLN, Energetyka 1 704 mln PLN, Detal 614 mln PLN, Wydobycie 1 661 mln PLN, Gaz 1 809 mln PLN, FK 207 mln PLN.
+Nakłady inwestycyjne uwzględniają leasingi z tytułu MSSF16.
+Główne projekty rozwojowe w 2022 
+Rafineria
+
+Budowa instalacji Hydrokrakingu – Litwa
+
+Budowa instalacji Bioetanolu 2 Gen. – ORLEN Południe
+
+Budowa instalacji HVO (uwodornienia olejów roślinnych) – Płock
+
+Budowa instalacji Visbreakingu – Płock
+Petrochemia
+
+Rozbudowa zdolności produkcyjnych olefin – Płock
+
+Rozbudowa zdolności produkcyjnych nawozów – Anwil
+Energetyka
+
+Modernizacja aktywów oraz przyłączenie nowych odbiorców – Grupa ENERGA 
+
+Budowa CCGT Ostrołęka i CCGT Grudziądz 
+
+Projekt budowy farmy wiatrowej na Bałtyku
+Detal
+
+Rozwój sieci stacji paliw oraz sieci sprzedaży pozapaliwowej
+
+Wprowadzanie nowych usług i produktów
+Wydobycie
+
+Polska / Kanada – koncentracja na najbardziej obiecujących złożach
+3%
+4,3
+19,6
+5,1
+4,3
+1,4
+2,2
+1,8
+0,5
+Rafineria Petrochemia
+Energetyka Detal Wydobycie Gaz
+Funkcje
+korp.
+CAPEX
+12M22**
+
+Najważniejsze wydarzenia
+Otoczenie rynkowe
+Sytuacja finansowa
+Agenda
+Wyniki finansowe i operacyjne
+Perspektywy
+
+27
+27
+Planowane nakłady inwestycyjne w 2023r.
+Planowany CAPEX
+mld PLN
+Planowany CAPEX – podział wg krajów
+%
+Nakłady inwestycyjne uwzględniają leasingi z tytułu MSSF16.
+Główne projekty rozwojowe w 2023r. 
+Rafineria
+Budowa instalacji Hydrokrakingu – Litwa
+Budowa instalacji Bioetanolu 2 Gen. – ORLEN Południe
+Budowa instalacji Visbreakingu – Płock
+Budowa instalacji HVO – Płock
+Budowa instalacji Hydrokrakingowego Bloku Olejowego – Gdańsk
+Budowa morskiego terminala przeładunkowego produktów ropopochodnych na 
+Martwej Wiśle – Gdańsk
+Pet Petrochemia
+Rozbudowa zdolności produkcyjnych olefin – Płock
+Rozbudowa zdolności produkcyjnych nawozów – Anwil
+Energetyka
+Modernizacja aktywów oraz przyłączenie nowych odbiorców – Grupa ENERGA 
+Budowa CCGT Ostrołęka i CCGT Grudziądz 
+Budowa farm fotowoltaicznych 
+Projekt budowy morskiej farmy wiatrowej na Bałtyku
+Detal
+Rozwój sieci stacji paliw oraz sprzedaży pozapaliwowej
+Rozwój sieci paliw alternatywnych
+Automaty paczkowe
+Wydobycie
+Projekty PGNiG Upstream Norway i Lotos Norge
+Projekty ORLEN Upstream w Polsce i Kanadzie
+Gaz
+Budowa i modernizacja przyłączy odbiorców do sieci – PSG
+9,0
+10,0
+6,5
+7,0
+1,9
+6,4
+4,0
+1,4
+26,2
+Gaz
+Rafineria
+CAPEX
+2023
+Petrochemia
+Energetyka Detal Wydobycie
+Funkcje
+korp.
+36,2
+Rozwój
+Utrzymanie
+
+Otoczenie makroekonomiczne 1Q23
+Dane za 1Q23 do dnia 17 lutego 2023r.
+28
+1Q22
+4Q22
+1Q23
+Ropa Brent 
+USD/bbl
+102
+89
+83
+Modelowa marża rafineryjna1
+USD/bbl
+6,0
+22,0
+19,2
+Dyferencjał2
+USD/bbl
+7,8
+6,4
+6,2
+Modelowa marża petrochemiczna3
+EUR/t
+1 166
+1 056
+999
+Cena gazu ziemnego TTF month-ahead 
+PLN/MWh
+465
+580
+281
+Cena gazu ziemnego TGEgasDA 
+PLN/MWh
+477
+474
+305
+Cena energii elektrycznej TGeBase 
+PLN/MWh
+625
+750
+651
+ON
+USD/t
+148
+383
+275
+Benzyna
+USD/t
+187
+251
+291
+Ciężki olej opałowy
+USD/t
+-247
+-311
+-255
+Polietylen5
+EUR/t
+466
+487
+485
+Polipropylen5
+EUR/t
+655
+438
+442
+Etylen
+EUR/t
+664
+606
+628
+Propylen
+EUR/t
+679
+514
+526
+Paraksylen
+EUR/t
+262
+593
+579
+USD/PLN
+USD/PLN
+4,13
+4,64
+4,38
+EUR/PLN
+EUR/PLN
+4,63
+4,73
+4,72
+Produkty rafineryjne4 - marża (crack) z notowań
+Produkty petrochemiczne4 - marża (crack) z notowań
+Średnie kursy walut6
+(1) Modelowa marża rafineryjna = przychody (93,5% Produkty = 36% Benzyna + 43% Diesel + 14,5% Ciężki olej opałowy) - koszty (100% wsadu: ropa i pozostałe surowce). Notowania rynkowe spot. (do dnia 31.07.2022)
+Modelowa marża rafineryjna = przychody (93,6% Produkty = 33% Benzyna + 48% Diesel + 13% Ciężki olej opałowy) - koszty (100% wsadu: 98% ropa Brent + 2% gaz ziemny). Notowania rynkowe spot. (od dnia 01.08.2022)
+(2) Dyferencjał liczony na bazie rzeczywistego udziału przerobionych rop. Notowania spot. (od dnia 01.01.2022)
+(3) Modelowa marża petrochemiczna = przychody (98% Produkty = 44% HDPE + 7% LDPE + 35% PP Homo + 12% PP Copo) - koszty (100% wsadu = 75% nafty + 25% LS VGO). 
+Przychody notowania kontrakt; koszty notowania spot.
+(4) Marże (crack) dla produktów rafineryjnych i petrochemicznych (z wyjątkiem polimerów) wyliczone jako różnica pomiędzy notowaniem danego produktu, a notowaniem ropy Brent DTD.
+(5) Marża (crack) dla polimerów wyliczona jako różnica pomiędzy notowaniami polimerów a notowaniami monomerów.
+(6) Kursy średnie wg danych Narodowego Banku Polskiego.
+
+29
+29
+Otoczenie rynkowe
+Makro
+Ropa Brent – w 2023r. oczekujemy spadku cen ropy (r/r) do poziomu 85-95 USD/bbl. W scenariuszu bazowym przyjmuje się, że OPEC+ zarządza
+podażą, aby wspierać ceny powyżej 80 USD/bbl, a Chiny kontynentalne wracają na ścieżkę wzrostu. S&P szacuje, że światowy wzrost popytu na
+ropę wyniesie 1,9 mbd w 2023 r., z czego Chiny kontynentalne odpowiadają za 1,1 mbd.
+Marża rafineryjna – w 2023r. oczekujemy spadku marż rafineryjnych (r/r) do poziomu ok. 11 USD/bbl. W ciągu kolejnych kwartałów na rynki paliw
+powróci równowaga, do której przyczyni się spowolnienie aktywności gospodarczej w skali globalnej oraz stopniowy wzrost podaży paliw z
+sukcesywnie oddawanych do użytku nowych rafinerii w USA, w Afryce, na Bliskim Wschodzie i w Azji. Przewaga mocy rafineryjnych nad popytem
+przywróci rafineriom elastyczność reagowania na zmiany marż rafineryjnych.
+Dyferencjał – w 2023r. oczekujemy spadku dyferencjału (r/r) do poziomu ok. 5 USD/bbl w efekcie ograniczenia udziału REBCO w przerobie Grupy
+ORLEN.
+Marża petrochemiczna – w 2023r. oczekujemy spadku marż petrochemicznych (r/r) do poziomu ok. 1100 EUR/t w efekcie spadku popytu na
+produkty petrochemiczne na skutek spowolnienia gospodarczego oraz utrzymującej się inflacji.
+Gaz ziemny – w 2023r. oczekujemy spadku cen gazu (r/r) do poziomu ok. 200 PLN/MWh. Ceny gazu w najbliższych kwartałach będą uzależnione
+od warunków atmosferycznych oraz ryzyk geopolitycznych.
+Energia elektryczna – w 2023r. oczekujemy spadku cen energii elektrycznej (r/r) do poziomu ok. 450 PLN/MWh. Rynek energii elektrycznej
+charakteryzuje się dużą niepewnością – sytuacja geopolityczna, regulacje, pogoda są głównymi czynnikami kształtującymi ceny energii.
+Gospodarka
+PKB* – Polska 0,4%, Czechy 0,1%, Litwa 0,3%, Niemcy 0,2% (projekcje Komisji Europejskiej z dn. 15.02.2023).
+Konsumpcja paliw – spadek popytu na paliwa i produkty petrochemiczne w efekcie spowolnienia gospodarczego.
+Regulacje
+Unijne embargo dotyczące importu paliw z Rosji od 5 lutego 2023r.
+Ustawa o szczególnej ochronie niektórych odbiorców paliw gazowych – gazowy odpis na Fundusz Wypłaty Różnicy Ceny w obszarze wydobycia 
+gazu ziemnego w Polsce (ujemny wpływ na wynik segmentu Upstream) oraz wpływy z tytułu rekompensat w obszarze sprzedaży i dystrybucji 
+gazu w Polsce wynikające z ustalenia ceny maksymalnej poniżej taryfy (dodatni wpływ na wynik segmentu Gaz).
+Narodowy Cel Wskaźnikowy – wzrost poziomu bazowego z 8,8 do 8,9% (zredukowany wskaźnik dla Grupy ORLEN wynosi 5,8%).
+Podatki
+39,1 mld PLN – zapłacone podatki przez PKN ORLEN S.A. w całym 2022r. 
+
+Dziękujemy za uwagę
+W przypadku pytań prosimy o kontakt z Biurem Relacji Inwestorskich:
+telefon:
++ 48 24 256 81 80
+e-mail:
+ir@orlen.pl
+www.orlen.pl
+
+Agenda
+Slajdy pomocnicze
+
+32
+32
+Wyniki – podział na kwartały
+mln PLN
+1Q21
+2Q21
+3Q21
+4Q21
+12M21
+1Q22
+2Q22
+3Q22
+4Q22
+12M22
+4Q/4Q
+12M/12M
+Przychody
+24 562
+29 423
+36 442
+40 914
+131 341
+45 447
+57 804
+72 996
+102 262
+278 509
+61 348
+147 168
+EBITDA LIFO
+2 425
+3 171
+4 299
+4 259
+14 154
+2 786
+8 204
+17 503
+24 256
+52 749
+19 997
+38 595
+efekt LIFO
+1 142
+963
+890
+1 251
+4 246
+2 174
+1 321
+-553
+-1 849
+1 093
+-3 100
+-3 153
+EBITDA
+3 567
+4 134
+5 189
+5 510
+18 400
+4 960
+9 525
+16 950
+22 407
+53 842
+16 897
+35 442
+Amortyzacja 
+-1 311
+-1 294
+-1 328
+-1 408
+-5 341
+-1 400
+-1 447
+-1 518
+-2 529
+-6 894
+-1 121
+-1 553
+EBIT LIFO
+1 114
+1 877
+2 971
+2 851
+8 813
+1 386
+6 757
+15 985
+21 727
+45 855
+18 876
+37 042
+EBIT
+2 256
+2 840
+3 861
+4 102
+13 059
+3 560
+8 078
+15 432
+19 878
+46 948
+15 776
+33 889
+Wynik netto
+1 872
+2 244
+2 928
+4 144
+11 188
+2 845
+3 683
+12 650
+16 280
+35 458
+12 136
+24 270
+Wyniki uwzględniają zysk z tytułu okazyjnego nabycia Grupy Lotos w wys. 5824 mln PLN w 3Q22 oraz Grupy PGNiG w wys. 8193 mln PLN w 4Q22.
+Wyniki operacyjne przed odpisami aktualizującymi wartość aktywów trwałych: 1Q21 (-) 4 mln / PLN 2Q21 (-) 85 mln / PLN / 3Q21 (-) 3 mln PLN / 4Q21 903 mln PLN / 12M21 811 mln PLN / 1Q22 (-) 27 mln 
+PLN / 2Q22 (-) 2860 mln PLN / 3Q22 (-) 53 mln PLN / 4Q22 (-) 447 mln PLN / 12M22 (-) 3387 mln PLN.
+
+33
+33
+EBITDA LIFO – podział na segmenty
+mln PLN
+1Q21
+2Q21
+3Q21
+4Q21
+12M21
+1Q22
+2Q22
+3Q22
+4Q22
+12M22
+4Q/4Q
+12M/12M
+Rafineria, w tym:
+22
+282
+1 198
+2 112
+3 614
+900
+4 656
+7 998
+10 907
+24 461
+8 795
+20 847
+NRV
+157
+15
+1
+0
+173
+-4
+3
+-30
+14
+-17
+14
+-190
+hedging
+-402
+-395
+-193
+-66
+-1 056
+-1 911
+-2 558
+729
+-80
+-3 820
+-14
+-2 764
+wycena kontraktów terminowych CO2 
+193
+260
+159
+567
+1 179
+-568
+21
+-175
+125
+-597
+-442
+-1 776
+Petrochemia, w tym:
+872
+1 021
+1 013
+1 389
+4 295
+451
+1 643
+698
+583
+3 375
+-806
+-920
+NRV
+36
+-1
+2
+1
+38
+0
+0
+0
+0
+0
+-1
+-38
+hedging 
+14
+22
+33
+35
+104
+48
+58
+63
+57
+226
+22
+122
+wycena kontraktów terminowych CO2 
+213
+287
+135
+593
+1 228
+-614
+23
+-84
+84
+-591
+-509
+-1 819
+Energetyka, w tym:
+1 259
+1 215
+1 042
+164
+3 680
+1 004
+1 176
+1 607
+364
+4 151
+200
+471
+hedging 
+0
+0
+0
+-99
+-99
+50
+-62
+134
+123
+245
+222
+344
+wycena kontraktów terminowych CO2 
+162
+217
+197
+524
+1 100
+-543
+21
+128
+68
+-326
+-456
+-1 426
+Detal
+548
+828
+948
+573
+2 897
+585
+697
+856
+665
+2 803
+92
+-94
+Wydobycie, w tym:
+14
+60
+130
+183
+387
+162
+336
+841
+6 300
+7 639
+6 117
+7 252
+hedging 
+-63
+-60
+-11
+-7
+-141
+-81
+-24
+15
+3
+-87
+10
+54
+Gaz, w tym:
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+-2 197
+-2 197
+-2 197
+-2 197
+hedging 
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+141
+141
+141
+141
+wycena kontraktów terminowych CO2 
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+116
+116
+116
+116
+Funkcje korporacyjne
+-290
+-235
+-32
+-162
+-719
+-316
+-304
+5 508
+7 640
+12 528
+7 802
+13 247
+Wyłączenia
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+-5
+-6
+-11
+-6
+-11
+EBITDA LIFO, w tym:
+2 425
+3 171
+4 299
+4 259
+14 154
+2 786
+8 204
+17 503
+24 256
+52 749
+19 997
+38 595
+NRV
+193
+14
+3
+1
+211
+-4
+3
+-30
+14
+-17
+13
+-228
+hedging 
+-451
+-433
+-171
+-137
+-1 192
+-1 894
+-2 586
+941
+244
+-3 295
+381
+-2 103
+wycena kontraktów terminowych CO2 
+568
+764
+491
+1 684
+3 507
+-1 725
+65
+-131
+393
+-1 398
+-1 291
+-4 905
+Wyniki uwzględniają zysk z tytułu okazyjnego nabycia Grupy Lotos w wys. 5824 mln PLN w 3Q22 oraz Grupy PGNiG w wys. 8193 mln PLN w 4Q22.
+Wyniki operacyjne przed odpisami aktualizującymi wartość aktywów trwałych: 1Q21 (-) 4 mln / PLN 2Q21 (-) 85 mln / PLN / 3Q21 (-) 3 mln PLN / 4Q21 903 mln PLN / 12M21 811 mln PLN / 1Q22 (-) 27 mln 
+PLN / 2Q22 (-) 2860 mln PLN / 3Q22 (-) 53 mln PLN / 4Q22 (-) 447 mln PLN / 12M22 (-) 3387 mln PLN.
+
+Wyniki – podział na spółki
+34
+4Q22
+mln PLN
+PKN ORLEN
+ORLEN
+ Lietuva
+ORLEN
+Unipetrol
+Grupa
+ENERGA
+Pozostałe
+Grupa 
+ORLEN
+Przychody
+77 530
+10 023
+10 113
+5 268
+-673
+102 261
+EBITDA LIFO
+18 173
+782
+1 678
+-454
+4 077
+24 256
+Efekt LIFO
+-1 149
+-303
+-354
+-
+-43
+-1 849
+EBITDA
+17 024
+479
+1 324
+-454
+4 034
+22 407
+Amortyzacja
+650
+49
+313
+292
+1 225
+2 529
+EBIT
+16 374
+430
+1 011
+-746
+2 809
+19 878
+EBIT LIFO
+17 523
+733
+1 365
+-746
+2 852
+21 727
+Wynik netto
+15 263
+355
+818
+-787
+631
+16 280
+
+ORLEN Lietuva – wzrost EBITDA LIFO o 603 mln PLN (r/r) w efekcie dodatniego wpływu (r/r) makro, w tym głównie wzrostu marż na lekkich i średnich
+destylatach. Ujemny wpływ ograniczenia przerobu ropy REBCO o 80 pp (r/r) i zastąpienia go przerobem droższych rop oraz wykorzystania historycznych
+warstw zapasów, niższych marż handlowych, a także wzrostu (r/r) kosztów ogólnych, pracy i emisji CO2.
+
+ORLEN Unipetrol – wzrost EBITDA LIFO o 1 375 mln PLN (r/r) w efekcie dodatniego wpływu (r/r) makro, w tym głównie dyferencjału U/B i marż na lekkich i
+średnich destylatach oraz nawozach. Dodatkowo pozytywny wpływ wyższych marż handlowych częściowo ograniczony ujemnym wpływem (r/r)
+wykorzystania historycznych warstw zapasów oraz wzrostem kosztów ogólnych i pracy.
+
+Grupa ENERGA – niższa EBITDA o (-) 932 mln PLN (r/r) na skutek utworzenia rezerwy na kontrakty rodzące obciążenia w kwocie 916 mln zł (Linia
+Biznesowa Sprzedaż) w związku z wdrożeniem regulacji w zakresie cen sprzedaży energii elektrycznej do odbiorców końcowych oraz zatwierdzeniem przez
+Prezesa Urzędu Regulacji Energetyki taryfy dla gospodarstw domowych na 2023r.
+
+Grupa PGNiG – brak możliwości kalkulacji efektów biznesowych z uwagi na nieporównywalność okresów konsolidacji – ujęcie wyników dawnej Grupy
+PGNiG w konsolidacji Grupy ORLEN od listopada 2022 roku w wys. 3148 mln PLN.
+Wyniki wg MSSF przed uwzględnieniem korekt dokonanych na potrzeby konsolidacji Grupy ORLEN.
+Wyniki uwzględniają zysk z tytułu okazyjnego nabycia Grupy PGNiG w wys. 8193 mln PLN.
+Wyniki operacyjne przed odpisami aktualizującymi wartość aktywów trwałych w wys. (-) 447 mln PLN.
+
+35
+35
+35
+1 Moce przerobowe PKN ORLEN wynoszą 26,8 mt/r [Płock (16,3 mt/r) i Gdańsk (10,5 mt/r)]. Konsolidacja Grupy Lotos od sierpnia 2022r. 
+2 Moce przerobowe ORLEN Unipetrol wynoszą 8,7 mt/r [Litvinov (5,4 mt/r) i Kralupy (3,3 mt/r)].
+3 Moce przerobowe ORLEN Lietuva wynoszą 10,2 mt/r.
+4 Uzysk paliw to suma uzysku średnich destylatów i uzysku lekkich destylatów. 
+5 Uzysk lekkich destylatów to relacja ilości wyprodukowanej benzyny, nafty i LPG wyłączając BIO i transfery wewnątrz Grupy do ilości przerobu ropy.
+6 Uzysk średnich destylatów to relacja ilości wyprodukowanego ON, LOO i JET wyłączając BIO i transfery wewnątrz Grupy do ilości przerobu ropy.
+Grupa ORLEN
+4Q21
+3Q22
+4Q22
+(r/r)
+(kw/kw)
+12M21
+12M22
+∆
+Przerób ropy naftowej (tys.t)
+8 553
+10 449
+11 234
+31%
+8%
+29 919
+37 090
+24%
+Wykorzystanie mocy przerobowych 
+96%
+98%
+98%
+2 pp
+0 pp
+85%
+94%
+9 pp
+PKN ORLEN 
+1
+Przerób ropy naftowej (tys.t)
+4 064
+5 990
+6 629
+63%
+11%
+14 529
+21 056
+45%
+Wykorzystanie mocy przerobowych
+99%
+102%
+98%
+-1 pp
+-4 pp
+89%
+102%
+13 pp
+Uzysk paliw 
+4
+82%
+84%
+85%
+3 pp
+1 pp
+82%
+84%
+2 pp
+Uzysk lekkich destylatów 
+5
+32%
+29%
+28%
+-4 pp
+-1 pp
+32%
+30%
+-2 pp
+Uzysk średnich destylatów 
+6
+50%
+55%
+57%
+7 pp
+2 pp
+50%
+54%
+4 pp
+ORLEN Unipetrol 
+2
+Przerób ropy naftowej (tys.t)
+1 933
+2 040
+2 054
+6%
+1%
+7 123
+7 467
+5%
+Wykorzystanie mocy przerobowych
+88%
+93%
+94%
+6 pp
+1 pp
+82%
+86%
+4 pp
+Uzysk paliw 
+4
+82%
+81%
+81%
+-1 pp
+0 pp
+82%
+81%
+-1 pp
+Uzysk lekkich destylatów 
+5
+37%
+35%
+36%
+-1 pp
+1 pp
+37%
+36%
+-1 pp
+Uzysk średnich destylatów 
+6
+45%
+46%
+45%
+0 pp
+-1 pp
+45%
+45%
+0 pp
+ORLEN Lietuva 
+3
+Przerób ropy naftowej (tys.t)
+2 470
+2 350
+2 465
+0%
+5%
+7 954
+8 241
+4%
+Wykorzystanie mocy przerobowych
+96%
+91%
+96%
+0 pp
+5 pp
+78%
+81%
+3 pp
+Uzysk paliw 
+4
+77%
+79%
+78%
+1 pp
+-1 pp
+79%
+80%
+1 pp
+Uzysk lekkich destylatów 
+5
+33%
+31%
+33%
+0 pp
+2 pp
+33%
+32%
+-1 pp
+Uzysk średnich destylatów 
+6
+44%
+48%
+45%
+1 pp
+-3 pp
+46%
+48%
+2 pp
+Dane produkcyjne
+
+36
+36
+Wpływ operacji związanych z rezerwą na CO2 oraz wyceny kontraktów 
+terminowych na CO2 na skonsolidowany wynik Grupy ORLEN 
+Portfel kontraktów na zakup praw do emisji CO2 w Grupie ORLEN i stan EUA na rachunkach Grupy ORLEN 
+(mln ton)
+* Portfel „własny” ujmowane są w nim transakcje zakupu EUA na potrzeby własne, które są realizowane w formie fizycznej dostawy w związku z czym nie podlegają wycenie.
+** Portfel „transakcyjny” podlega wycenie zgodnie z wymogami MSSF 9. Od 1 lipca 2022 roku Grupa zaczęła stosować rachunkowość zabezpieczeń w odniesieniu do zakupu uprawnień do 
+emisji CO2, w związku z czym portfel ten został podzielony na instrumenty bez HA, których wycena i rozliczenie ujmowane jest w pozostałej działalności operacyjnej oraz z HA, których wycena 
+zgodnie z zasadami wynikającymi z MSSF 9 jest ujmowana w ramach kapitałów własnych, a efekt rozliczenia koryguje docelowo cenę nabycia uprawnień do emisji CO2. 
+*** EUA ujmowane są jako wartości niematerialne, nie podlegają amortyzacji, analizie pod kątem utraty wartości. Zakupione uprawnienia wycenia są według ceny nabycia, otrzymane 
+nieodpłatnie w wartości godziwej ustalonej na dzień zarejestrowania na rachunku, pomniejszone o ewentualne odpisy z tytułu utraty wartości.
+0
+161
+-354
+0
+0
+-2 019
+-1 838
+-1 672
+-1 611
+-2 087
+796
+754
+701
+674
+725
+1 684
+-1 724
+65
+-131
+394
+4Q2021
+1Q2022
+2Q2022
+3Q2022
+4Q2022
+Wpływ działań związanych z CO2 na skonsolidowany wynik finansowy Grupy ORLEN
+(mln PLN)
+Rozliczenie i wycena portfela "transakcyjnego" kontraktów terminowych
+na CO2 bez HA
+(pozycja: pozostałe przychody i koszty operacyjne)
+Rozliczenie dotacji z tytułu otrzymanych nieodpłatnie CO2
+(pozycja: koszty wg rodzaju podatki i opłaty)
+Utworzenie/rozwiązanie rezerwy na szacowane emisje CO2
+(pozycja: koszty wg rodzaju podatki i opłaty)
+Przeszacowanie rezerwy CO2
+(pozycja: koszty wg rodzaju podatki i opłaty)
+Portfele
+Podejście do wyceny
+31.12.2021
+31.03.2022
+30.06.2022
+30.09.2022
+31.12.2022
+Portfel „własny” kontraktów 
+na zakup uprawnień do 
+emisji*
+Nie podlega wycenie do wartości godziwej na dzień 
+bilansowy
+2,30
+1,52
+2,04
+0,14
+3,74
+Portfel "transakcyjny„ 
+kontraktów na zakup 
+uprawnień do emisji**
+Podlega wycenie do 
+wartości godziwej na 
+dzień bilansowy
+z rachunkowością 
+zabezpieczeń (HA) 
+20,72
+0,00
+2,33
+3,07
+2,37
+bez rachunkowości 
+zabezpieczeń (noHA)
+3,91
+1,66
+Portfel EUA na rachunkach 
+GK (wartości 
+niematerialne)***
+Nie podlega wycenie do wartości godziwej na dzień 
+bilansowy
+9,63
+16,05
+5,24
+9,37
+22,56
+
+37
+Wpływ rozliczeń depozytu zabezpieczającego oraz realizacji kontraktów 
+na CO2 na cash flow
+Wpływ na cash flow
+(mln PLN)
+Wpływ na cash flow z rozliczenia depozytu zabezpieczającego oraz 
+rozliczenia transakcji vs notowania kontraktów na CO2
+1 365
+-927
+-11
+-476
+728
+-181
+-796
+-688
+-1 023
+-3 447
+4Q2021
+1Q2022
+2Q2022
+3Q2022
+4Q2022
+Realizacja kontraktu (nabycie uprawnień)
+Rozliczenie depozytu zabezpieczającego i transakcji
+
+38
+38
+Słownik pojęć
+Modelowa marża rafineryjna = przychody (93,6% Produkty = 33% Benzyna + 48% Diesel + 13% Ciężki olej opałowy) - koszty 
+(100% wsadu: 98% ropa Brent + 2% gaz ziemny). Notowania rynkowe spot. (od dnia 01.08.2022)
+Modelowa marża rafineryjna = przychody (93,5% Produkty = 36% Benzyna + 43% Diesel + 14,5% Ciężki olej opałowy) - koszty 
+(100% wsadu: ropa i pozostałe surowce). Notowania rynkowe spot. (do dnia 31.07.2022)
+Dyferencjał liczony na bazie rzeczywistego udziału przerobionych rop. Notowania spot. (od dnia 01.01.2022) 
+Modelowa marża petrochemiczna = przychody (98% Produkty = 44% HDPE + 7% LDPE + 35% PP Homo + 12% PP Copo) koszty (100% wsadu = 75% nafty + 25% LS VGO). Przychody notowania kontrakt; koszty notowania spot. 
+Uzysk paliw = uzysk średnich destylatów + uzysk benzyn. Uzyski liczone są do przerobu ropy.
+Kapitał pracujący (ujęcie bilansowe) = zapasy + należności z tytułu dostaw i usług oraz pozostałe - zobowiązania z tytułu dostaw i 
+usług oraz pozostałe
+Zmiana kapitału pracującego (ujęcie cash flow) = zmiana stanu należności + zmiana stanu zapasów + zmiana stanu zobowiązań
+Dług netto = (krótkoterminowe + długoterminowe zobowiązania z tytułu kredytów, pożyczek i dłużne pap. wart.) – środki pieniężne
+
+39
+39
+Niniejsza prezentacja została przygotowana przez PKN ORLEN („PKN ORLEN” lub "Spółka"). Ani niniejsza Prezentacja, ani jakakolwiek kopia niniejszej Prezentacji nie może
+być powielona, rozpowszechniona ani przekazana, bezpośrednio lub pośrednio, jakiejkolwiek osobie w jakimkolwiek celu bez wiedzy i zgody PKN ORLEN. Powielanie,
+rozpowszechnianie i przekazywanie niniejszej Prezentacji w innych jurysdykcjach może podlegać ograniczeniom prawnym, a osoby do których może ona dotrzeć, powinny
+zapoznać się z wszelkimi tego rodzaju ograniczeniami oraz stosować się do nich. Nieprzestrzeganie tych ograniczeń może stanowić naruszenie obowiązującego prawa.
+Niniejsza Prezentacja nie zawiera kompletnej ani całościowej analizy finansowej lub handlowej PKN ORLEN ani Grupy PKN ORLEN, jak również nie przedstawia jej pozycji i
+perspektyw w kompletny ani całościowy sposób. PKN ORLEN przygotował Prezentację z należytą starannością, jednak może ona zawierać pewne nieścisłości lub
+opuszczenia. Dlatego zaleca się, aby każda osoba zamierzająca podjąć decyzję inwestycyjną odnośnie jakichkolwiek papierów wartościowych wyemitowanych przez PKN
+ORLEN lub jej spółkę zależną opierała się na informacjach ujawnionych w oficjalnych komunikatach PKN ORLEN zgodnie z przepisami prawa obowiązującymi PKN ORLEN.
+Niniejsza Prezentacja oraz związane z nią slajdy oraz ich opisy mogą zawierać stwierdzenia dotyczące przyszłości. Jednakże, takie prognozy nie mogą być odbierane jako
+zapewnienie czy projekcje co do oczekiwanych przyszłych wyników PKN ORLEN lub spółek grupy PKN ORLEN. Prezentacja nie może być rozumiana jako prognoza
+przyszłych wyników PKN ORLEN i Grupy PKN ORLEN.
+Należy zauważyć, że tego rodzaju stwierdzenia, w tym stwierdzenia dotyczące oczekiwań co do przyszłych wyników finansowych, nie stanowią gwarancji czy zapewnienia, że
+takie zostaną osiągnięte w przyszłości. Prognozy Zarządu są oparte na bieżących oczekiwaniach lub poglądach członków Zarządu Spółki i są zależne od szeregu czynników,
+które mogą powodować, że faktyczne wyniki osiągnięte przez PKN ORLEN będą w sposób istotny różnić się od wyników opisanych w tym dokumencie. Wiele spośród tych
+czynników pozostaje poza wiedzą, świadomością i/lub kontrolą Spółki czy możliwością ich przewidzenia przez Spółkę.
+W odniesieniu do wyczerpującego charakteru lub rzetelności informacji przedstawionych w niniejszej Prezentacji nie mogą być udzielone żadne zapewnienia ani oświadczenia.
+Ani PKN ORLEN, ani jej dyrektorzy, członkowie kierownictwa, doradcy lub przedstawiciele takich osób nie ponoszą żadnej odpowiedzialności z jakiegokolwiek powodu
+wynikającego z dowolnego wykorzystania niniejszej Prezentacji. Ponadto, żadne informacje zawarte w niniejszej Prezentacji nie stanowią zobowiązania ani oświadczenia ze
+strony PKN ORLEN, jej kierownictwa czy dyrektorów, Akcjonariuszy, podmiotów zależnych, doradców lub przedstawicieli takich osób.
+Niniejsza Prezentacja została sporządzona wyłącznie w celach informacyjnych i nie stanowi oferty kupna bądź sprzedaży ani oferty mającej na celu pozyskanie oferty kupna
+lub sprzedaży jakichkolwiek papierów wartościowych bądź instrumentów lub uczestnictwa w jakiejkolwiek przedsięwzięciu handlowym. Niniejsza Prezentacja nie stanowi oferty
+ani zaproszenia do dokonania zakupu bądź zapisu na jakiekolwiek papiery wartościowe w dowolnej jurysdykcji i żadne postanowienia w niej zawarte nie będą stanowić
+podstawy żadnej umowy, zobowiązania lub decyzji inwestycyjnej, ani też nie należy na niej polegać w związku z jakąkolwiek umową, zobowiązaniem lub decyzją inwestycyjną.
+Zastrzeżenia prawne
+
+W przypadku pytań prosimy o kontakt z Biurem Relacji Inwestorskich:
+telefon:
++ 48 24 256 81 80
+e-mail:
+ir@orlen.pl
+www.orlen.pl

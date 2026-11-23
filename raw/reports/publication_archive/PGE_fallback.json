@@ -1,0 +1,18 @@
+[
+  {
+    "file": "PGE_2019_Q3_sprawozdanie.pdf",
+    "url": "https://www.gkpge.pl/content/download/85cda48c56139fb802e530216435346c/file/df4fdb1731f214188b873cf64042e4fb.pdf?contentId=82228&inLanguage=pol-PL&version=2",
+    "credits": 1,
+    "status": "downloaded",
+    "bytes": 1764697,
+    "sha256": "e26ce55f50d8d17e50b27e3a792271dcd234e5afc11be5f69f6fa1dc84cabd52"
+  },
+  {
+    "file": "PGE_2019_Q3_sprawozdanie-zarzadu.pdf",
+    "url": "https://www.gkpge.pl/content/download/9f1046957c4b0da130dbe289cc2a14c3/file/0e69fc9b39a52ae037adf994ef8ffac9.pdf?contentId=82231&inLanguage=pol-PL&version=2",
+    "credits": 1,
+    "status": "downloaded",
+    "bytes": 2354000,
+    "sha256": "88bccc46a5dfbe9e49c6a9b52adceaa8a14cb58743360585dc49c958d869d305"
+  }
+]

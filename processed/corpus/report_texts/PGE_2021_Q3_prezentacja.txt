@@ -1,0 +1,3541 @@
+PREZENTACJA DLA INWESTORÓW
+23 listopada 2021
+Wyniki finansowe i operacyjne za III kwartał 2021 
+
+Dane Finansowe
+
+Kluczowe dane finansowe
+Dane skonsolidowane
+[MSR, mln PLN]
+III kw. 2021
+III kw. 2020
+r/r
+9 mies. 2021
+9 mies. 2020
+r/r
+Przychody ze sprzedaży
+10 942
+10 320
+6%
+32 850
+33 096
+-1%
+w tym rekompensaty KDT*
+1
+0
+5
+41
+-88%
+EBITDA 
+2 110
+1 546
+36%
+7 364
+4 351
+69%
+EBITDA powtarzalna** 
+1 941
+1 574
+23%
+6 160
+4 691
+31%
+EBIT 
+972
+469
+107%
+4 130
+740
+458%
+EBIT powtarzalny** 
+866
+620
+40%
+3 058
+1 827
+67%
+Zysk (strata) netto dla akcjonariuszy 
+561
+273
+105%
+3 251
+-415
+Zysk (strata) netto dla akcj. – bez odpisów**
+612
+201
+204%
+3 358
+501
+570%
+CAPEX (po korektach) 
+822
+1 264
+-35%
+3 069
+3 768
+-19%
+Przepływy pieniężne netto z dział. operacyjnej 
+4 515
+2 866
+58%
+7 805
+8 175
+-5%
+Przepływy pieniężne netto z dział. inwestycyjnej 
+-978
+-1 233
+-
+-3 054
+-4 682
+Marża EBITDA 
+19%
+15%
+4 p.p.
+22%
+13%
+9 p.p.
+Powtarzalna marża EBITDA 
+18%
+15%
+3 p.p.
+19%
+14%
+5 p.p.
+Majątek obrotowy netto („core NWC”)***
+4 681
+5 140
+4 681
+5 140
+Dług netto/12 mies. EBITDA
+0,29 x
+1,51 x
+3
+*Przychody KDT (bez sporów sądowych), **zestawienie zdarzeń jednorazowych prezentujemy na następnej stronie, ***Core NWC = zapasy + należności
+z tyt.
+dostaw i usług - zobowiązania z tyt. dostaw i usług (w odróżnieniu od NWC jako aktywa obrotowe minus zobowiązania krótkoterminowe)
+
+Zdarzenia jednorazowe i przejściowe 
+Do wyliczenia wyników powtarzalnych:
+[mln PLN]
+III kw. 2021
+III kw. 2020
+r/r
+9 mies. 2021
+9 mies. 2020
+r/r
+Rekompensaty KDT
+1
+0
+5
+41
+-88%
+Zmiana rezerwy rekultywacyjnej
+-508*
+0
+424
+-434
+Zmiana rezerwy aktuarialnej
+35
+0
+52
+-40
+Rozwiązanie rezerwy na ryzyko zwrotu równowartości 
+otrzymanych uprawnień do emisji CO2 w ZEDO
+0
+0
+0
+121
+Rozwiązanie rezerwy na Program Dobrowolnych Odejść
+0
+-28
+11
+-28
+Zdarzenia przejściowe -rolowanie kontraktów CO2****
+641
+0
+712
+0
+Zdarzenia jednorazowe na poziomie EBITDA
+169
+-28
+1 204
+-340
+Odpisy RAT i WN (brutto)**
+-63
+-123
+-
+-132
+-747
+Zdarzenia jednorazowe na poziomie EBIT
+106
+-151
+1 072
+-1 087
+Do wyniku netto skorygowanego o odpisy:
+Odpisy RAT i WN (netto) oraz inwestycji***
+-51
+72
+-
+-107
+-916
+4
+*W tym efekt zmiany założeń technicznych -1 069 mln PLN oraz efekt zmiany stopy dyskonta +561 mln PLN.
+**Odpisy Rzeczowych Aktywów Trwałych, Wartości Niematerialnych oraz Praw do Użytkowania Aktywów. Uwzględniając wpływ wyniku testów na utratę wartości w segmencie Energetyka Konwencjonalna 
+dokonanych w II kw. 2020 r. (530 mln PLN).
+***Odpisy Rzeczowych Aktywów Trwałych, Wartości Niematerialnych, Praw do Użytkowania Aktywów oraz Inwestycji. Uwzględniając wpływ wyniku testów na utratę wartości dokonanych w II kw. 2020 r. w 
+segmencie Energetyka Konwencjonalna (429 mln PLN) oraz testów na utratę wartości akcji PGG S.A. (310 mln PLN).
+**** Rezultat zamiany kontraktów EUA DEC-21 na JAN-22 bez wpływu na wyniki pełnego roku sprawozdawczego. Efekt powiększający wyniki w II i III kwartale zostanie odwrócony w IV kwartale 2021 r.
+
+Zdarzenia jednorazowe i przejściowe w segmentach
+Energetyka 
+Konwencjonalna
+Ciepłownictwo
+Energetyka 
+Odnawialna
+Dystrybucja
+Obrót
+(mln PLN)
+III kw.
+21
+9 mies.
+21
+III kw.
+21
+9 mies.
+21
+III kw.
+21
+9 mies.
+21
+III kw.
+21
+9 mies.
+21
+III kw.
+21
+9 mies.
+21
+EBITDA raportowana
+754
+2 803
+152
+867
+214
+596
+665
+2 047
+316
+1 022
+Zdarzenia jednorazowe i przejściowe, w tym:
+69
+1 077
+81
+88
+1
+1
+16
+24
+2
+14
+Przychody z rekompensat KDT
+-
+1
+5
+-
+-
+-
+-
+-
+Zmiana rezerwy rekultywacyjnej
+-516
+414
+8
+10
+-
+-
+-
+-
+-
+Zmiana rezerwy aktuarialnej 
+15
+22
+1
+2
+1
+1
+16
+24
+2
+3
+Zdarzenia przejściowe -rolowanie kontraktów CO2
+570
+641
+71
+71
+-
+-
+-
+-
+-
+Rozwiązanie rezerwy PDO
+-
+-
+-
+-
+-
+-
+-
+-
+11
+EBITDA powtarzalna
+685
+1 726
+71
+779
+213
+595
+649
+2 023
+314
+1 008
+5
+
+Główne czynniki budowy EBITDA
+6
+28
+890
+38
+28
+853
+208
+728
+139
+121
+35
+18
+291
+1 941
+169
+III kw. 2020 EBITDA RAPORTOWANA
+Zdarzenia jednorazowe
+III kw. 2020 EBITDA POWTARZALNA
+Wynik ze sprzedaży en. elektrycznej u
+wytwórców
+Przychody ze sprzedaży ciepła
+Prawa majątkowe
+Uprawnienia do emisji CO2
+Koszty paliw
+Rynek Mocy
+Regulacyjne usługi systemowe
+Wynik na sprzedaży en. elektrycznej do
+odbiorców finalnych
+Wynik na dystrybucji*
+Koszty osobowe
+Pozostałe
+III kw. 2021 EBITDA POWTARZALNA
+Zdarzenia jednorazowe
+III kw. 2021 EBITDA RAPORTOWANA
+Wyższe wolumeny produkcji na węglu 
+-
+Wyższa marża na sprzedaży energii elektrycznej 
+-
++-
++
+Wyższy wolumen usług dystrybucyjnych
+Cena CO2 (-527) (+30 PLN/t)
+Niedobór uprawnień (-339) (+3,3 mln t)
+Wyższa cena ciepła (+19) (+5,0 PLN/GJ); 
+Wyższy wolumen produkcji (+19) (+0,3 PJ)
++
+4 395
++
+1 546
+Cena sprzedaży (-53) (-3 PLN/MWh)
+Wolumen (+943) (+3,3 TWh)
+Niższe koszty aktywowane 
+-105
++589
+Produkcja
+Usługi
+2 110
+1 574
+
+Powtarzalny* zysk EBITDA w III kw. 2021 – składniki i dynamika
+7
+Energetyka 
+Konwencjonalna
+Ciepłownictwo
+Energetyka 
+Odnawialna
+Obrót
+Dystrybucja
+GOZ**
+Inne
+EBITDA
+III kw. 2021
+685 
+71 
+213 
+314 
+649 
+17 
+-8 
+1 941 
+Udział w EBITDA 
+w III kw. 2021 (%)
+35%
+4%
+11%
+16%
+33%
+1%
+0%
+III kw. 2020
+484 
+115 
+110 
+320 
+611 
+0 
+-66 
+1 574 
+Zmiana (mln PLN)
+201 
+-44 
+103 
+-6 
+38 
+17 
+58 
+367 
+Zmiana (%)
+42%
+-38%
+94%
+-2%
+6%
+-
+23%
+Rekordowo wysokie 
+wolumeny produkcji i 
+przychody z Rynku 
+Mocy przeważają nad 
+wzrostem kosztów 
+CO2 i kosztów paliw.
+Negatywny efekt 
+spadku wolumenu 
+produkcji energii 
+elektrycznej ze 
+względu na 
+wyższe ceny gazu.
+Znacznie wyższe 
+ceny energii 
+elektrycznej na 
+rynku SPOT. 
+Wysokość 
+przychodów z 
+Rynku Mocy 
+przewyższa 
+wcześniejsze 
+przychody z 
+Regulacyjnych 
+Usług 
+Systemowych.
+Wzrost marży na 
+energii 
+elektrycznej 
+sprzedawanej do 
+odbiorców 
+końcowych 
+równoważony 
+wpływem salda 
+rezerw na umowy 
+rodzące 
+obciążenia w 2020 
+r.
+Znacznie wyższy 
+wolumen 
+dystrybucji oraz 
+spadek kosztów 
+różnicy 
+bilansowej.
+*Powtarzalny = z wyłączeniem istotnych zdarzeń jednorazowych (strona 4). 
+** Gospodarka Obiegu Zamkniętego, segment wydzielony w roku 2021
+685
+1 941
+71
+213
+314
+649
+17
+-8
+
+Energetyka 
+Konwencjonalna
+Ciepłownictwo
+Energetyka 
+Odnawialna
+Obrót
+Dystrybucja
+GOZ**
+Inne
+EBITDA
+9 mies. 2021
+1 726 
+779 
+595 
+1 008 
+2 023 
+41 
+-12 
+6 160 
+Udział w EBITDA 
+w 9 mies. 2021 (%)
+28%
+12%
+10%
+16%
+33%
+1%
+0%
+9 mies. 2020
+1 581 
+577 
+412 
+509 
+1 755 
+0 
+-143 
+4 691 
+Zmiana (mln PLN)
+145 
+202 
+183 
+499 
+268 
+41 
+131 
+1 469 
+Zmiana (%)
+9%
+35%
+44%
+98%
+15%
+-
+31%
+1 726
+6 160
+779
+595
+1 008
+2 023
+41
+-12
+Powtarzalny* zysk EBITDA za 9 mies. 2021 – składniki i dynamika
+8
+Pozytywny efekt 
+wysokich 
+wolumenów 
+produkcji oraz 
+przychodów z 
+Rynku Mocy 
+przeważył nad 
+negatywnym 
+efektem niższej 
+marży.
+Wyższy wolumen 
+sprzedaży ciepła, 
+wsparty wyższymi 
+taryfami na ciepło 
+oraz przychodami z 
+Rynku Mocy z 
+nadwyżką 
+kompensują wzrost 
+kosztów paliw oraz 
+kosztów CO2.
+Istotnie wyższe 
+ceny energii 
+elektrycznej na 
+rynku SPOT. Niska 
+produkcja z wiatru 
+pomimo produkcji 
+farm 
+Starza/Rybice i 
+Karnice II oraz 
+Skoczykłody.
+Wzrost marży na 
+energii 
+elektrycznej 
+sprzedawanej do 
+odbiorców 
+końcowych wobec 
+zaniżonej bazy i 
+konieczności 
+odsprzedaży 
+energii na rynku 
+SPOT poniżej 
+kosztu zakupu w 
+roku 2020.
+*Powtarzalny = z wyłączeniem istotnych zdarzeń jednorazowych (strona 4).
+** Gospodarka Obiegu Zamkniętego, segment wydzielony w roku 2021
+Znacznie wyższy 
+wolumen 
+dystrybucji oraz 
+spadek kosztów 
+różnicy 
+bilansowej.
+
+Fundamenty dystrybucji 2021
+9
+Nadbudowa WRA (z WRA-AMI)* (mln PLN)
+WACC: 
+2019
+2020
+2021
+6,015%
+5,507%
+5,321%
+Faktyczny 
+zwrot z WRA**:
+16 884
+17 567
+18 929
+1 877
+1 194
+2 361
+999
+WRA 2019
+Uwzględnione nakłady
+Odliczenie
+WRA 2020
+Uwzględnione nakłady
+Odliczenie
+WRA 2021
+1 016
+975
+1 050
+1 231
+1 274
+1 313
+1 226
+1 245
+1 091
+2 514
+2 611
+3 721
+2019
+2020
+2021
+Struktura przychodu regulowanego*
+(mln PLN)
+Zwrot z WRA
+Amortyzacja
+Usługi przesyłowe
+Pozostałe koszty
+6 106
+7 175
+5 987
+2019
+2020
+2021
+6,018%
+5,552%
+5,549%
+* Na podstawie taryfy
+** Uwzględniając AMI oraz wskaźnik regulacyjny WR
+
+Uprawnienia do emisji CO2 – regulacje i rozliczenia
+Regulacje w III Okresie Rozliczeniowym
+Począwszy od 2013 roku jedynie uprawnienia emisyjne na produkcję ciepła są
+przyznawane nieodpłatnie. Uprawnienia do emisji
+CO2 z produkcji
+energii
+elektrycznej są przyznawane
+nieodpłatnie pod warunkiem realizacji zadań
+inwestycyjnych ujętych w Krajowym Planie Inwestycyjnym.
+Standardy księgowe
+Darmowe uprawnienia otrzymane na własne potrzeby są rozpoznawane w ich
+wartości nominalnej – zero. Rezerwa na uprawnienia do emisji CO2 jest
+zawiązywana w odniesieniu do ich aktualnego niedoboru w danym okresie.
+Poniesione koszty widoczne w rachunku zysków i strat w pozycji podatki i
+opłaty.
+Emisja CO2 i rozliczenia uprawnień do emisji
+W ciągu 9 miesięcy 2021 r. instalacje GK PGE wyemitowały 51,8 mln ton CO2. Koszty
+związane
+z
+emisją
+CO2
+w
+powyższym
+okresie
+wyniosły
+8
+421
+mln
+PLN. Wzrost
+jednostkowego kosztu CO2 wynika z rolowania kontraktów na EUA wygasających w
+grudniu 21 na kontrakty wygasające w styczniu 22 (łącznie 19,6 mln ton CO2).
+Jednocześnie Grupa wygenerowała przychód wynikający z różnicy cen kontraktów w
+wysokości 2 778 mln PLN. W ujęciu zarządczym koszt emisji wyniósł ok. 6,3 mld PLN.
+Instalacjom należącym do GK PGE nie przysługuje od 2020 r. przydział darmowych
+uprawnień do emisji z tytułu wytwarzania energii elektrycznej. W przypadku uprawnień
+EUA na emisje CO2 związane z wytwarzaną energią cieplną harmonogram przydziału na
+2021 r. nie został jeszcze wydany, w lutym 2020 roku zostały wydane uprawnienia EUA,
+które posłużyły na pokrycie emisji CO2 za 2020 rok (1 mln EUA).
+Bezpłatne EUA ujmowane w wartości zerowej (SSF, 
+nota 16)
+EUA
+Ilość
+(mln Mg)
+Wartość
+(mln PLN) 
+Stan na dzień 1 stycznia 2020
+21
+1 205
+Zakup (na rynku spot)*
+78
+6 629
+Przyznane nieodpłatnie
+13
+Umorzenie
+-61
+-3 414
+Sprzedaż
+-30
+-2 646
+Stan na dzień 31 grudnia 2020 
+21
+1 774
+Zakup (na rynku spot)*
+49
+5 620
+Przyznane nieodpłatnie
+-
+Umorzenie
+-59
+-6 318
+Sprzedaż
+-10
+-1 035
+Stan na dzień 30 września 2021 
+1
+41
+10
+Rezerwy na zakup uprawnień CO2 (SSF, nota 21), w 
+mln PLN 
+Stan na 1 stycznia 2021 r.
+6 318
+Umorzenie 
+-6 318
+Rozwiązanie
+-2
+Utworzenie rezerwy za 2021 r.
+8 423
+Pozostałe zmiany
+Stan na 30 września 2021 r.
+8 421
+Wpływ na rachunek zysków i strat (mln PLN) –
+ilustracyjnie
+9 mies. 2021 r.
+Koszty według rodzaju, w tym:
+23 452
+Podatki i opłaty
+10 243
+* GK PGE zabezpiecza koszt emisji CO2 także w oparciu o kontrakty 
+termin.
+
+Dane finansowe –
+Segmenty Działalności
+
+Przychody i koszty segmentu Energetyka Konwencjonalna
+12
+[mln PLN]
+III kw. 2021
+III kw. 2020
+r/r
+9M 2021
+9M 2020
+r/r
+Przychody ze sprzedaży, w tym:
+5 935
+5 636
+5%
+16 674
+18 203
+-8%
+Przychody ze sprzedaży energii elektrycznej
+5 259
+5 426
+-3%
+13 541
+16 020
+-15%
+Przychody z rynku mocy
+576
+0
+1 621
+0
+Regulacyjne usługi systemowe
+33
+134
+-75%
+193
+355
+-46%
+Przychody ze sprzedaży CO2
+0
+0
+1 019
+1 535
+-34%
+Koszty rodzajowe, w tym:
+6 866
+3 911
+76%
+15 444
+12 039
+28%
+Amortyzacja
+563
+459
+23%
+1 540
+1 907
+-19%
+Zużycie materiałów
+945
+770
+23%
+2 515
+2 245
+12%
+Zużycie energii
+8
+2
+300%
+17
+7
+143%
+Usługi obce
+414
+358
+16%
+1 103
+1 081
+2%
+Podatki i opłaty
+4 281
+1 631
+162%
+8 128
+4 540
+79%
+Koszty osobowe
+603
+644
+-6%
+1 994
+2 137
+-7%
+Pozostałe koszty
+52
+47
+11%
+147
+122
+20%
+Koszty aktywowane
+-94
+-199
+-53%
+-301
+-507
+-41%
+Wartość sprzedanych towarów i materiałów
+907
+1 993
+-54%
+3 426
+7 067
+-52%
+Wynik na pozostałej działalności operacyjnej
+1 938
+106
+1 728%
+3 162
+-235
+EBIT
+193
+37
+422%
+1 266
+-630
+EBITDA
+754
+484
+56%
+2 803
+1 258
+123%
+
+Przychody i koszty segmentu Ciepłownictwo
+13
+[mln PLN]
+III kw. 2021
+III kw. 2020
+r/r
+9M 2021
+9M 2020
+r/r
+Przychody ze sprzedaży, w tym:
+860
+779
+10%
+3 809
+3 396
+12%
+Przychody ze sprzedaży energii elektrycznej
+430
+463
+-7%
+1 768
+1 659
+7%
+Przychody ze sprzedaży i dystrybucji ciepła
+299
+256
+17%
+1 673
+1 322
+27%
+Przychody z rynku mocy
+61
+0
+200
+0
+Przychody ze sprzedaży CO2
+0
+0
+-100%
+28
+202
+-86%
+Koszty rodzajowe, w tym:
+1 019
+793
+28%
+3 451
+2 999
+15%
+Amortyzacja
+161
+162
+-1%
+480
+462
+4%
+Zużycie paliw
+292
+254
+15%
+1 324
+1 187
+12%
+Zużycie materiałów
+11
+17
+-38%
+34
+48
+-30%
+Zużycie energii
+3
+3
+-8%
+7
+9
+-28%
+Usługi obce
+98
+83
+18%
+311
+259
+20%
+Podatki i opłaty, w tym:
+329
+150
+119%
+933
+632
+48%
+Koszty osobowe
+117
+116
+0%
+338
+378
+-11%
+Pozostałe koszty
+9
+8
+16%
+25
+24
+5%
+Koszty aktywowane
+-11
+-16
+-33%
+-31
+-38
+-17%
+Wartość sprzedanych towarów i materiałów
+112
+55
+105%
+300
+317
+-5%
+Wynik na pozostałej działalności operacyjnej
+252
+6
+4043%
+298
+28
+957%
+EBIT
+-9
+-47
+-81%
+387
+146
+166%
+EBITDA 
+152
+115
+32%
+867
+608
+43%
+
+Przychody i koszty segmentu Energetyka Odnawialna
+14
+[mln PLN]
+III kw. 2021
+III kw. 2020
+r/r
+9M 2021
+9M 2020
+r/r
+Przychody ze sprzedaży, w tym:
+360
+228
+58%
+1 001
+749
+34%
+Przychody ze sprzedaży energii elektrycznej
+220
+129
+71%
+610
+397
+54%
+Przychody ze sprzedaży świadectw pochodzenia
+46
+34
+35%
+128
+154
+-17%
+Przychody z RUS*
+12
+61
+-80%
+30
+189
+-84%
+Przychody z Rynku Mocy
+83
+0
+228
+0
+Pozostałe przychody z podstawowej działalności
+-1
+4
+-125%
+5
+9
+-44%
+Koszty rodzajowe, w tym:
+247
+207
+19%
+661
+586
+13%
+Amortyzacja
+92
+86
+7%
+237
+235
+1%
+Zużycie materiałów
+3
+3
+0%
+7
+7
+0%
+Zużycie energii
+71
+49
+45%
+182
+148
+23%
+Usługi obce
+32
+22
+45%
+89
+59
+51%
+Podatki i opłaty
+18
+16
+13%
+54
+48
+13%
+Koszty osobowe
+26
+26
+0%
+80
+79
+1%
+Pozostałe koszty
+5
+5
+0%
+12
+10
+20%
+Koszty aktywowane
+-6
+-3
+100%
+-12
+-9
+33%
+Wartość sprzedanych towarów i materiałów
+0
+0
+1
+0
+Wynik na pozostałej działalności operacyjnej
+3
+0
+8
+4
+100%
+EBIT
+122
+24
+408%
+359
+176
+104%
+EBITDA
+214
+110
+95%
+596
+411
+45%
+
+Przychody i koszty segmentu Dystrybucja
+15
+[mln PLN]
+III kw. 2021 III kw. 2020
+r/r
+9M 2021
+9M 2020
+r/r
+Przychody ze sprzedaży, w tym:
+1 554
+1 566
+-1%
+4 779
+4 701
+2%
+Przychody ze sprzedaży usług dystrybucyjnych
+1 478
+1 487
+-1%
+4 548
+4 459
+2%
+Pozostałe przychody z podstawowej działalności
+49
+53
+-8%
+146
+160
+-9%
+Koszty rodzajowe, w tym:
+1 222
+1 277
+-4%
+3 744
+3 946
+-5%
+Amortyzacja
+306
+301
+2%
+922
+927
+-1%
+Zużycie materiałów
+16
+16
+0%
+45
+47
+-4%
+Zużycie energii
+111
+130
+-15%
+382
+438
+-13%
+Usługi obce
+376
+402
+-6%
+1 094
+1 186
+-8%
+Podatki i opłaty
+125
+119
+5%
+379
+365
+4%
+Koszty osobowe
+283
+307
+-8%
+907
+973
+-7%
+Pozostałe koszty
+6
+2
+200%
+15
+10
+50%
+Koszty aktywowane
+-19
+-13
+46%
+-52
+-35
+49%
+Wartość sprzedanych towarów i materiałów
+0
+0
+0
+0
+Wynik na pozostałej działalności operacyjnej
+9
+9
+0%
+40
+23
+74%
+EBIT
+360
+311
+16%
+1 127
+813
+39%
+EBITDA
+665
+611
+9%
+2 047
+1 738
+18%
+
+Przychody i koszty segmentu Obrót
+16
+[mln PLN]
+III kw. 2021
+III kw. 2020
+r/r
+9M 2021
+9M 2020
+r/r
+Przychody ze sprzedaży, w tym:
+3 815
+4 415
+-14%
+17 742
+20 101
+-12%
+Przychody ze sprzedaży energii elektrycznej
+3 339
+3 930
+-15%
+9 750
+11 571
+-16%
+Przychody ze sprzedaży uprawnień CO2
+0
+0
+0%
+6 640
+7 086
+-6%
+Przychody ze sprzedaży gazu
+93
+49
+90%
+269
+204
+32%
+Przychody ze sprzedaży innych paliw
+107
+138
+-22%
+322
+525
+-39%
+Koszty rodzajowe, w tym:
+400
+394
+2%
+1 233
+1 264
+-2%
+Amortyzacja
+8
+9
+-11%
+25
+26
+-4%
+Zużycie materiałów
+1
+1
+0%
+3
+3
+0%
+Zużycie energii
+0
+0
+0%
+2
+2
+0%
+Usługi obce
+59
+75
+-21%
+179
+239
+-25%
+Podatki i opłaty
+231
+192
+20%
+718
+661
+9%
+Koszty osobowe
+87
+102
+-15%
+264
+292
+-10%
+Pozostałe koszty
+13
+15
+-13%
+42
+40
+5%
+Koszt wytworzenia sprzedanych 
+produktów 
+3 058
+3 817
+-20%
+15 461
+18 595
+-17%
+Koszt własny sprzedaży
+-50
+87
+-
+-52
+218
+EBIT
+307
+291
+5%
+997
+460
+117%
+EBITDA
+316
+299
+6%
+1 022
+486
+110%
+
+EBITDA segmentu Energetyka Konwencjonalna III kw. 2021
+17
+484
+685
+118
+576
+11
+26
+993
+192
+101
+169
+853
+208
+69
+0
+500
+1 0 000
+1 5 500
+2 0 000
+2 5 500
+EBITDA 
+III kw. 
+2020
+Produkcja 
+e.e. –
+ilość
+Produkcja 
+e.e. –
+cena
+Wynik na 
+opt. 
+portfela 
+e.e.
+Rynek 
+Mocy1
+Wynik na 
+sprzedaży 
+uprawnień 
+CO2
+Przychody
+RUS
+Koszty
+paliw
+Koszty
+CO2
+2
+Koszty 
+osobowe3
+Pozostałe4
+EBITDA 
+III kw. 
+2021
+Odchylenie
+993
+118
+-192
+576
+11
+-101
+-169
+-853
+26
+-208
+EBITDA raportowana III kw. 2020
+484
+Zdarzenia jednorazowe III kw. 2020
+0
+EBITDA powtarzalna III kw. 2020
+484
+3 241
+200
+0
+0
+134
+618
+1 376
+644
+453
+EBITDA powtarzalna III kw. 2021
+4 352
+8
+576
+11
+33
+787
+2 229
+618
+661
+685
+Zdarzenia jednorazowe III kw. 2021
+69
+EBITDA raportowana III kw. 2021
+754
+Odwrócenie wpływu sumy zdarzeń jednorazowych powiększającej wynik raportowany
+1Ujęcie zarządcze.
+2Koszty pomniejszone o odsprzedaż nadwyżek CO2 powstałych w wyniku redukcji Operatora i działań handlowych.
+3Koszty osobowe bez uwzględnienia wpływu zmiany rezerwy aktuarialnej (zdarzenia jednorazowe).
+4Pozycja Pozostałe bez uwzględnienia wpływu zmiany rezerwy rekultywacyjnej (zdarzenie jednorazowe) oraz wyniku na rolowaniu CO2 dla przyszłych okresów (zdarzenia przejściowe).
+
+EBITDA segmentu Energetyka Konwencjonalna 9M 2021
+18
+EBITDA 
+2020
+Produkcja 
+e.e. –
+ilość
+Produkcja 
+e.e. –
+cena
+Wynik na 
+opt. 
+portfela 
+e.e.
+Rynek 
+Mocy1
+Wynik na 
+sprzedaży 
+uprawnień 
+CO2
+Przychody
+RUS
+Koszty
+paliw
+Koszty
+CO2
+2
+Koszty 
+osobowe3
+Pozostałe4
+EBITDA 
+2021
+Odchylenie
+2 137
+-329
+-943
+1 614
+-241
+-162
+-280
+-1 471
+101
+-281
+EBITDA raportowana 9M 2020
+1 258
+Zdarzenia jednorazowe 9M 2020
+-323
+EBITDA powtarzalna 9M 2020
+1 581
+9 194
+1 104
+0
+255
+355
+1 784
+4 062
+2 118
+1 363
+EBITDA powtarzalna 9M 2021
+11 002
+161
+1 614
+14
+193
+2 064
+5 533
+2 017
+1 644
+1 726
+Zdarzenia jednorazowe 9M 2021
+1 077
+EBITDA raportowana 9M 2021
+2 803
+Odwrócenie wpływu sumy zdarzeń jednorazowych pomniejszającej wynik raportowany
+Odwrócenie wpływu sumy zdarzeń jednorazowych powiększającej wynik raportowany
+1Ujęcie zarządcze.
+2Koszty pomniejszone o odsprzedaż nadwyżek CO2 powstałych w wyniku redukcji Operatora i działań handlowych.
+3Koszty osobowe bez uwzględnienia wpływu zmiany rezerwy aktuarialnej (zdarzenia jednorazowe).
+4Pozycja Pozostałe bez uwzględnienia wpływu zmiany rezerwy rekultywacyjnej (zdarzenie jednorazowe) oraz wyniku na rolowaniu CO2 dla przyszłych okresów (zdarzenia przejściowe).
+1 258
+1 726
+1 614
+101
+2 137
+329
+943
+241
+162
+280
+1 471
+281
+323
+1 077
+0
+500
+1 0 000
+1 5 500
+2 0 000
+2 5 500
+3 0 000
+3 5 500
+4 0 000
+4 5 500
+
+EBITDA segmentu Ciepłownictwo III kw. 2021
+19
+Odwrócenie wpływu sumy zdarzeń jednorazowych powiększającej wynik raportowany
+1Ujęcie zarządcze.
+2Skorygowane o wynik na odsprzedaży uprawnień do emisji CO2 , przypisanych do danego okresu.
+3Koszty osobowe bez uwzględnienia wpływu zmiany rezerwy aktuarialnej (zdarzenia jednorazowe).
+4Pozycja Pozostałe bez uwzględnienia wpływu zmiany rezerwy rekultywacyjnej oraz rekompensat KDT (zdarzenia jednorazowe) oraz wyniku na rolowaniu CO2 dla przyszłych okresów (zdarzenia przejściowe).
+EBITDA
+III kw. 2020
+Produkcja 
+ciepła ilość
+Produkcja 
+ciepła –
+cena1
+Produkcja 
+e.e. 
+- ilość
+Produkcja 
+e.e.
+- cena1
+Przychody
+z Rynku 
+Mocy
+Koszty
+paliw
+Koszty
+CO2
+2
+Koszty 
+osobowe3
+Pozostałe4
+EBITDA
+III kw.
+2021
+Odchylenie
+14
+27
+-84
+-5
+61
+-38
+-14
+-2
+-5
+EBITDA raportowana 
+III kw. 2020
+115
+Zdarzenia jednorazowe III kw. 2020
+0
+EBITDA powtarzalna III kw. 2020
+115
+255
+410
+0
+254
+122
+116
+57
+EBITDA powtarzalna III kw. 2021
+296
+321
+61
+292
+136
+118
+62
+71
+Zdarzenia jednorazowe III kw. 2021
+81
+EBITDA raportowana III kw. 2021
+152
+115
+70
+14
+27
+61
+-84
+-5
+-38
+-14
+-2
+-5
+81
+0
+50
+100
+150
+200
+
+EBITDA segmentu Ciepłownictwo 9M 2021
+20
+577
+779
+184
+164
+200
+37
+31
+7
+137
+127
+80
+31
+88
+300
+400
+500
+600
+700
+800
+900
+1 0 000
+1 1 100
+1 2 200
+EBITDA
+9M 2020
+Produkcja 
+ciepła ilość
+Produkcja 
+ciepła –
+cena1
+Produkcja 
+e.e. 
+- ilość
+Produkcja 
+e.e.
+- cena1
+Przychody
+z Rynku 
+Mocy
+Koszty
+paliw
+Koszty
+CO22
+Koszty 
+osobowe3
+Pozostałe4
+EBITDA 
+9M 2021
+Odchylenie
+184
+164
+-31
+-7
+200
+-137
+-127
+37
+-80
+EBITDA raportowana 9M 2020
+608
+Zdarzenia jednorazowe 9M 2020
+31
+EBITDA powtarzalna 9M 2020
+577
+1 320
+1 537
+0
+1 187
+544
+377
+172
+EBITDA powtarzalna 9M 2021
+1 667
+1 499
+200
+1 324
+671
+340
+252
+779
+Zdarzenia jednorazowe 9M 2021
+88
+EBITDA raportowana 9M 2021
+867
+Odwrócenie wpływu sumy zdarzeń jednorazowych powiększającej wynik raportowany
+1Ujęcie zarządcze.
+2Skorygowane o wynik na odsprzedaży uprawnień do emisji CO2 , przypisanych do danego okresu.
+3Koszty osobowe bez uwzględnienia wpływu zmiany rezerwy aktuarialnej (zdarzenia jednorazowe).
+4Pozycja Pozostałe bez uwzględnienia wpływu zmiany rezerwy rekultywacyjnej oraz rekompensat KDT (zdarzenia jednorazowe) oraz wyniku na rolowaniu CO2 dla przyszłych okresów (zdarzenia przejściowe).
+
+EBITDA segmentu Energetyka Odnawialna III kw. 2021
+21
+EBITDA 
+III kw. 
+2020
+Przychody
+e.e. 
+Przychody
+PM
+Przychody 
+RUS
+Przychody 
+Rynek Mocy
+Koszty osobowe
+Pozostałe
+EBITDA
+III kw. 
+2021
+Odchylenie 
+91
+12
+-49
+83
+-1
+-33
+EBITDA raportowana III kw. 2020
+110
+Zdarzenia jednorazowe III kw. 2020
+0
+EBITDA powtarzalna III kw. 2020
+110
+129
+34
+61
+0
+26
+88
+EBITDA powtarzalna III kw. 2021
+220
+46
+12
+83
+27
+121
+213
+Zdarzenia jednorazowe III kw. 2021
+1
+EBITDA raportowana III kw. 2021
+214
+Odwrócenie wpływu sumy zdarzeń jednorazowych powiększającej wynik raportowany
+110
+213
+1
+91 
+12 
+83
+-1
+-49
+-33
+80
+100
+120
+140
+160
+180
+200
+220
+240
+260
+
+EBITDA segmentu Energetyka Odnawialna 9M 2021
+22
+EBITDA 
+9M 2020
+Przychody
+e.e. 
+Przychody
+PM
+Przychody 
+RUS
+Przychody 
+Rynek Mocy
+Koszty osobowe
+Pozostałe
+EBITDA
+9M 2021
+Odchylenie 
+213
+-26
+-159
+228
+-3
+-70
+EBITDA raportowana 9M 2020
+411
+Zdarzenia jednorazowe 9M 2020
+-1
+EBITDA powtarzalna 9M 2020
+412
+397
+154
+189
+0
+78
+250
+EBITDA powtarzalna 9M 2021
+610
+128
+30
+228
+81
+320
+595
+Zdarzenia jednorazowe 9M 2021
+1
+EBITDA raportowana 9M 2021
+596
+412
+594
+595
+-1
+1 
+213
+-26
+-159
+-3
+-70
+228
+250
+300
+350
+400
+450
+500
+550
+600
+650
+700
+Odwrócenie wpływu sumy zdarzeń jednorazowych pomniejszającej wynik raportowany
+Odwrócenie wpływu sumy zdarzeń jednorazowych powiększającej wynik raportowany
+
+EBITDA segmentu Dystrybucja III kw. 2021
+23
+EBITDA
+III kw. 2020
+Wolumen 
+dystrybuowanej 
+e.e.
+Zmiana
+taryfy 
+dystrybucyjnej*
+Różnica 
+bilansowa**
+Podatek od 
+nieruchomości
+Koszty 
+osobowe
+Pozostałe
+EBITDA
+III kw. 2021
+Odchylenie
+38
+-43
+20
+-6
+8
+21
+EBITDA raportowana III kw. 2020
+611
+Zdarzenia jednorazowe III kw. 2020
+0
+EBITDA powtarzalna III kw. 2020
+611
+1 114
+126
+108
+307
+38
+EBITDA powtarzalna III kw. 2021
+1 109
+106
+114
+299
+59
+649
+Zdarzenia jednorazowe III kw. 2021
+16
+EBITDA raportowana III kw. 2021
+665
+* Z wyłączeniem kosztów usług przesyłowych od PSE 
+S.A.
+** Skorygowana o przychody z Rynku Bilansującego.
+Odwrócenie wpływu sumy zdarzeń jednorazowych pomniejszającej wynik 
+raportowany.
+Odwrócenie wpływu sumy zdarzeń jednorazowych powiększających wynik 
+raportowany.
+611
+649
+38
+20
+8
+21
+-43
+-6
+16
+300
+400
+500
+600
+700
+
+EBITDA segmentu Dystrybucja 9M 2021
+24
+EBITDA
+9M 2020
+Wolumen 
+dystrybuowanej 
+e.e.
+Zmiana
+taryfy
+dystrybucyjnej*
+Różnica 
+bilansowa**
+Podatek od 
+nieruchomości
+Koszty 
+osobowe***
+Pozostałe
+EBITDA
+9M 2021
+Odchylenie
+214
+-97
+58
+-11
+25
+79
+EBITDA raportowana 9M 2020
+1 738
+Zdarzenia jednorazowe 9M 2020
+-17
+EBITDA powtarzalna 9M 2020
+1 755
+3 355
+418
+326
+956
+100
+EBITDA powtarzalna 9M 2021
+3 472
+360
+337
+931
+179
+2 023
+Zdarzenia jednorazowe 9M 2021
+24
+EBITDA raportowana 9M 2021
+2 047
+* Z wyłączeniem kosztów usług przesyłowych od PSE S.A.
+** Skorygowana o przychody z Rynku Bilansującego.
+***Koszty osobowe bez uwzględnienia wpływu zmiany rezerwy aktuarialnej (zdarzenia jednorazowe).
+Odwrócenie wpływu sumy zdarzeń jednorazowych pomniejszającej wynik raportowany.
+Odwrócenie wpływu sumy zdarzeń jednorazowych powiększających wynik raportowany.
+1 738
+2 023
+214
+58
+25
+79
+-97
+-11
+-17
+24
+800
+900
+1 0 000
+1 1 100
+1 2 200
+1 3 300
+1 4 400
+1 5 500
+1 6 600
+1 7 700
+1 8 800
+1 9 900
+2 0 000
+2 1 100
+2 2 200
+
+EBITDA segmentu Obrót III kw. 2021
+25
+299
+314
+143
+46
+-17
+-6
+-5
+-132
+-35
+-21
+2
+0
+100
+200
+300
+400
+500
+600
+EBITDA
+III kw. 2020
+Wynik na 
+e.e. 
+ilość
+Wynik na 
+e.e. 
+marża
+Przychody 
+z usług 
+świadczonych 
+na rzecz 
+segmentów 
+w GK PGE
+Wynik na 
+sprzedaży paliw
+Koszty 
+osobowe
+Saldo rezerw 
+na umowy 
+rodzące 
+obciążenia
+Pozostałe 
+EBITDA
+III kw. 2021
+Odchylenie
+-17
+143
+46
+-6
+-5
+-132
+-35
+EBITDA raportowana III kw. 2020
+299
+-299
+Zdarzenia jednorazowe III kw. 2020
+-21
+EBITDA powtarzalna III kw. 2020
+320
+160
+213
+9
+81
+81
+62
+EBITDA powtarzalna III kw. 2021
+286
+259
+3
+86
+-51
+97
+314
+Zdarzenia jednorazowe III kw. 2021
+2
+EBITDA raportowana III kw. 2021
+316
+Odwrócenie wpływu sumy zdarzeń jednorazowych powiększającej wynik raportowany
+Odwrócenie wpływu sumy zdarzeń jednorazowych pomniejszającej wynik raportowany
+
+EBITDA segmentu Obrót 9M 2021
+26
+486
+1 008
+806
+43
+-10
+-0,1
+-5
+-306
+-29
+-23
+14
+0
+200
+400
+600
+800
+1 0 000
+1 2 200
+1 4 400
+1 6 600
+EBITDA
+9M 2020
+Wynik na 
+e.e. 
+ilość
+Wynik na 
+e.e. 
+marża
+Przychody 
+z usług 
+świadczonych na 
+rzecz segmentów 
+w GK PGE
+Wynik na 
+sprzedaży paliw
+Koszty osobowe
+Saldo rezerw na 
+umowy rodzące 
+obciążenia
+Pozostałe 
+EBITDA
+9M 2021
+Odchylenie
+-10
+806
+43
+-0,1
+-5
+-306
+-29
+EBITDA raportowana 9M 2020
+486
+-486
+Zdarzenia jednorazowe 9M 2020
+-23
+EBITDA powtarzalna 9M 2020
+509
+36
+659
+15
+269
+255
+187
+EBITDA powtarzalna 9M 2021
+832
+702
+15
+274
+-51
+215
+1 008
+Zdarzenia jednorazowe 9M 2021
+14
+EBITDA raportowana 9M 2021
+1 022
+Odwrócenie wpływu sumy zdarzeń jednorazowych powiększającej wynik raportowany
+Odwrócenie wpływu sumy zdarzeń jednorazowych pomniejszającej wynik raportowany
+
+Przepływy pieniężne i 
+zadłużenie
+27
+
+28
+Skonsolidowane przepływy pieniężne 
+mln PLN
+III kw. 2021
+III kw. 2020
+9 mies. 2021
+9 mies. 2020
+Operacyjne
+4 515
+2 866
+7 805
+8 175 
+Inwestycyjne
+-978
+-1 233 
+-3 054
+-4 682 
+Finansowe
+-689 
+-310 
+-677 
+-1 463 
+Zmiana środków pieniężnych i ich ekwiwalentów
+2 848 
+1 323
+4 074
+2 030
+Dane z bilansu skonsolidowanego
+mln PLN
+B.Z. III kw. 2021 B.O. III kw. 2021
+∆ III kw. 
+2021
+B.Z. 
+9 mies. 2021
+B.O.
+9 mies. 2021 
+∆ 9 mies.
+2021
+Środki pieniężne i ekwiwalenty
+8 274
+5 396
+2 878
+8 274
+4 189
+4 085
+Lokaty, depozyty i pożyczki krótkoterminowe
+77
+77
+0
+77
+46
+31
+Środki o ograniczonej możliwości dysponowania 
+(korekta)
+-264
+-181
+-83
+-264
+-93
+-171
+Środki pieniężne w dyspozycji Grupy PGE
+8 087
+5 292
+2 795
+8 087
+4 142
+3 945
+Krótkoterminowe zadłużenie finansowe
+-2 117
+-2 039
+-78
+-2 117
+-1 384
+-733
+Długoterminowe zadłużenie finansowe
+-8 548
+-9 201
+653
+-8 548
+-10 025
+1 477
+Łącznie zadłużenie finansowe (brutto)
+-10 665
+-11 240
+575
+-10 665
+-11 409
+744
+Zadłużenie netto*
+-2 578
+-5 948
+3 370
+-2 578
+-7 267
+4 689
+Gotówka z operacji, inwestycje i zadłużenie netto
+*Zobowiązania zaprezentowane są ze znakiem ujemnym, przez wzgląd na arytmetyczną spójność między bilansem a cash flow
+
+29 Struktura długu oraz zadłużenie na 30.09.2021
+Stała
+92%
+Zmienna
+8%
+Zadłużenie ze stałą i 
+zmienna stopą 
+(rzeczywiste zadłużenie)
+Profil walutowy rzeczywistego 
+zadłużenia (po uwzględnieniu 
+transakcji zabezpieczających)
+7%
+92%
+1%
+EUR
+PLN
+USD
+Zadłużenie brutto i netto (w mln PLN)
+-5 0 000
+0
+5 0 000
+10 0 000
+15 0 000
+20 0 000
+Dług brutto
+Dług netto
+
+0
+500
+1 0 000
+1 5 500
+2 0 000
+2 5 500
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+30 Zapadalność zadłużenia oraz dostępność finansowania
+Profil zapadalności zadłużenia (w mln PLN) na 30 września 2021 r.
+Wykorzystanie i dostępność zewnętrznego finansowania (w mln PLN) wg stanu na 30 września 2021 r.
+0
+1 0 000
+2 0 000
+3 0 000
+4 0 000
+5 0 000
+6 0 000
+7 0 000
+8 0 000
+9 0 000
+10 0 000
+NFOŚ & WFOŚ & BOŚ
+NIB
+EBOiR
+EBI
+Kredyt w rachunku
+bieżącym
+Program polskich
+obligacji
+Program EMTN
+Kredyt konsorcjalny
+Kredyt obrotowy
+BGK
+Wykorzystane
+Niewykorzystane
+
+31 Pozycja gotówkowa PGE zapewnia…
+Silna pozycja 
+finansowa 
+potwierdzona 
+przez agencje 
+ratingowe
+… komfortową 
+pozycję w 
+zakresie płynności
+III kw. 2021
+I pół. 2021
+Zadłużenie brutto (mln PLN)
+10 665
+11 240
+Zadłużenie netto (mln PLN)
+2 578
+5 948
+Dług netto/12M EBITDA
+0,29x
+0,71x
+Dług netto/Kapitał własny
+0,05x
+0,13x
+MOODY’S
+FITCH
+Długoterminowy rating spółki (IDR)
+Baa1
+BBB+
+Perspektywa ratingu
+stabilna
+stabilna
+Data nadania ratingu
+2 września 2009
+2 września 2009
+Data ostatniego potwierdzenia ratingu
+30 czerwca 2021
+8 lutego 2021
+Rating niezabezpieczonego zadłużenia
+BBB+
+Data ostatniej zmiany ratingu
+4 sierpnia 2011
+Data ostatniego potwierdzenia ratingu
+8 lutego 2021
+Długoterminowy rating krajowy spółki
+AA (pol)
+Data nadania ratingu
+10 sierpnia 2012
+Data ostatniej zmiany ratingu
+3 sierpnia 2016
+
+Nakłady Inwestycyjne
+
+33 Nakłady inwestycyjne w 9M 2021 r.
+23%
+31%
+12%
+3%
+29%
+2%
+Kluczowe projekty
+CAPEX 
+w 9M 2021
+Budowa bloku nr 7 w Elektrowni 
+Turów
+540 mln PLN
+Budowa bloków gazowo-parowych w 
+Elektrowni Dolna Odra
+390 mln PLN
+Modernizacje aktywów 
+dystrybucyjnych
+470 mln PLN
+Nowe projekty w segmencie 
+Dystrybucji
+447 mln PLN
+55%
+45%
+Modernizacja i remonty
+Nowe projekty
+•
+Energetyka Konwencjonalna – budowa nowych bloków w Elektrowni Dolna Odra i w Turowie (łącznie 930 mln zł)
+•
+Dystrybucja – nakłady w kwocie 416 mln PLN poniesione na przyłączanie nowych odbiorców
+•
+Ciepłownictwo – wydatki na projekty rozwojowe w wysokości 193 mln zł
+RAZEM 
+CAPEX
+3,2 mld PLN
+(-18% r/r)
+918 mln PLN
+Dystrybucja
+104 mln PLN
+En. Odnawialna
+52 mln PLN
+Obrót, GOZ i inne
+995 mln PLN
+EK nowe projekty
+714 mln PLN
+EK modernizacje i inne
+CAPEX w Energetyce Konwencjonalnej, Ciepłownictwie, Energetyce 
+Odnawialnej (moce produkcyjne) i Dystrybucji
+Wytwarzanie 
+Dystrybucja 
+374 mln PLN
+Ciepłownictwo
+
+34 Nakłady inwestycyjne
+Segment [mln PLN]
+III kw. 2021
+III kw. 2020
+r/r
+9M 2021
+9M 2020
+r/r
+Energetyka Konwencjonalna
+322
+663
+-51%
+1 709
+1 476
+16%
+Ciepłownictwo
+170
+156
+9%
+374
+334
+12%
+Dystrybucja, w tym:
+312
+407
+-23%
+918
+1 232
+-25%
+Przyłączanie nowych odbiorców
+137
+149
+-8%
+416
+499
+-17%
+Linie i sieci dystrybucyjne
+87
+122
+-29%
+225
+414
+-46%
+Energetyka Odnawialna, w tym:
+27
+27
+0%
+104
+676
+-85%
+Modernizacje i odtworzenie
+8
+18
+-56%
+59
+31
+90%
+Obrót, GOZ i pozostałe
+22
+45
+-51%
+52
+138
+-62%
+SUMA
+853
+1 298
+-34%
+3 157
+3 856
+-18%
+SUMA (w tym korekty konsolidacyjne)
+822
+1 264
+-35%
+3 069
+3 768
+-19%
+
+Dane Operacyjne
+
+Produkcja energii netto według źródeł, sprzedaż do odbiorców 
+finalnych oraz dystrybucja
+36
+*Prezentowany wolumen w el. Turów nie obejmuje prac rozruchowych bloku ELT7 w I kw. 2021 = 0,18 TWh.
+** Od III kw. 2021 segment Ciepłownictwo obejmuje przeniesione z Energetyki Konwencjonalnej węglową EC Pomorzany oraz biomasową EC Szczecin
+[TWh]
+III kw. 2021
+III kw. 2020
+r/r
+9 mies. 2021
+9 mies. 2020
+r/r
+Produkcja energii el. netto, wg paliw:
+17,60
+14,27
+23%
+50,54
+42,85
+18%
+węgiel brunatny
+9,74
+7,73
+26%
+27,35
+22,45
+22%
+w tym Turów 7*
+0,38
+0,00
+0,83
+0,00
+węgiel kamienny: 
+6,59
+4,77
+38%
+17,93
+14,60
+23%
+w tym Energetyka Konwencjonalna
+6,08
+4,41
+38%
+15,20
+12,17
+25%
+w tym Opole 5/6
+2,60
+1,90
+37%
+6,42
+5,23
+23%
+w tym Ciepłownictwo**
+0,51
+0,36
+42%
+2,73
+2,43
+12%
+gaz ziemny
+0,63
+1,23
+-49%
+3,09
+3,62
+-15%
+el. szczytowo pompowe
+0,14
+0,13
+8%
+0,50
+0,50
+0%
+woda
+0,09
+0,08
+13%
+0,37
+0,33
+12%
+wiatr
+0,27
+0,27
+0%
+0,98
+1,05
+-7%
+biomasa
+0,13
+0,05
+160%
+0,29
+0,27
+7%
+odpady komunalne
+0,01
+0,01
+0%
+0,03
+0,03
+0%
+Sprzedaż ciepła [PJ]
+4,05
+3,79
+7%
+36,16
+31,54
+15%
+w tym Energetyka Konwencjonalna
+0,38
+0,43
+-12%
+3,64
+3,11
+17%
+Sprzedaż energii el. do odbiorców finalnych
+9,17
+10,34
+-11%
+27,92
+30,46
+-8%
+Dystrybucja energii el.
+9,30
+8,98
+4%
+27,94
+26,27
+6%
+Średnia zrealizowana hurtowa cena energii
+[PLN/MWh]
+III kw. 2021
+III kw. 2020
+r/r
+9 mies. 2021
+9 mies. 2020
+r/r
+segment Energetyka Konwencjonalna (EK)
+281,55
+281,26
+0%
+264,45
+286,10
+-8%
+segment Ciepłownictwo
+242,43
+253,75
+-4%
+245,77
+247,88
+-1%
+Ogółem (EK i Ciepłownictwo)
+278,96
+278,37
+0%
+262,34
+281,11
+-7%
+
+TWh
+Wolumen produkcji wg paliw – III kw. 2021 r/r 
+37
+Sytuacja w KSE (r/r): Kontynuacja odbicia
+gospodarczego w III kw. 2021 r. Krajowe
+zużycie energii wyższe o 2,0 TWh r/r. Wysokie
+ceny
+energii
+na
+rynkach
+zagranicznych.
+Eksport
+energii
+netto
++1
+TWh,
+→
+wyższe
+zapotrzebowanie na energię generowaną
+w jednostkach konwencjonalnych
+Węgiel brunatny: znaczny wzrost produkcji
+r/r
+ze
+względu
+na
+wyższe
+zapotrzebowanie.
+Produkcja w ELT 7 +0,38 TWh r/r.
+Węgiel kamienny: znaczny wzrost produkcji
+r/r
+ze
+względu
+na
+wyższe
+zapotrzebowanie.
+Produkcja w ELO 5/6 +0,7 TWh r/r.
+Gaz ziemny: niższa produkcja w kogeneracji
+w EC Lublin Wrotków i Rzeszów ze względu na
+gwałtowny wzrost cen gazu ziemnego.
+Wiatr:
+wzrost
+zainstalowanych
+mocy
+(uruchomienie
+nowych
+projektów:
+Starza/Rybice, Karnice II oraz nabycie farmy
+Skoczykłody). Porównywalne warunki wietrzne.
+Woda: poprawa warunków hydrologicznych.
+W III kw. 2021 r. i w III kw. 2020 r. wyprodukowane zostało 0,01 TWh z odpadów komunalnych (nieuwzględnione na wykresie)
+-49%
+8%
+13%
+0%
+160%
+23%
+26%
+38%
+-28%
+17,60
+9,74
+6,59
+1,27
+14,27
+7,73
+4,77
+1,77
+SUMA
+w. brunatny
+w. kamienny
+pozostałe
+III kw. 2021
+III kw. 2020
+0,63
+0,14
+0,09
+0,27
+0,13
+1,23
+0,13
+0,08
+0,27
+0,05
+gaz
+ESP
+woda
+wiatr
+biomasa
+)
+
+TWh
+Wolumen produkcji wg paliw – 9 mies. 2021 r/r 
+38
+W 9 mies. 2021 i 9 mies. 2020 wyprodukowane zostało 0,03 TWh z odpadów komunalnych (nieuwzględnione na wykresie)
+-15%
+0%
+12%
+-7%
+7%
+18%
+22%
+23%
+-9%
+50,54
+27,35
+17,93
+5,26
+42,85
+22,45
+14,6
+5,8
+SUMA
+w. brunatny
+w. kamienny
+pozostałe
+9 mies. 2021
+9 mies. 2020
+3,09
+0,5
+0,37
+0,98
+0,29
+3,62
+0,5
+0,33
+1,05
+0,27
+gaz
+ESP
+woda
+wiatr
+biomasa
+Energetyka Konwencjonalna
+Produkcja
+energii:
+Wzrost
+produkcji
+w
+elektrowniach konwencjonalnych ze względu
+na skokowy wzrost zapotrzebowania.
+Węgiel brunatny: wyższa produkcja w ELT
+o ok. 3,5 TWh r/r.
+Węgiel
+kamienny:
+wzrost
+produkcji
+ze
+względu na pracę bloków 5/6
+w ELO (+1,2
+TWh r/r) oraz ELR (+1,9 TWh r/r).
+Ciepłownictwo
+Spadek
+produkcji
+(-0,1
+TWh
+r/r)
+ze
+względu
+na
+spadek
+produkcji
+w
+elektrociepłowniach gazowych.
+Gaz ziemny: spadek produkcji o (-0,5 TWh
+r/r) ze wzrost cen gazu o 5,1 PLN/GJ.
+Ciepło: Wzrost sprzedaży ciepła o
+4,6 PJ
+ze względu na niższe średnie temperatury
+dobowe (-1,9 oC) w okresie.
+OZE
+Wiatr:
+Spadek
+produkcji
+ze
+względu
+na
+słabsze warunki wietrzne. Load factor na
+poziomie 23% wobec 24% w 9 mies.
+Woda: lepsze warunki hydrologiczne.
+
+Rynek energii elektrycznej – bilans energii
+39
+Gospodarka odrabia pandemiczne straty. Wzrost krajowej konsumpcji i produkcji. 
+Krajowe zużycie i produkcja energii elektrycznej
+11 0 000
+12 0 000
+13 0 000
+14 0 000
+15 0 000
+16 0 000
+17 0 000
+mar 19
+maj 19
+lip 19
+wrz 19
+lis 19
+sty 20
+mar 20
+maj 20
+lip 20
+wrz 20
+lis 20
+sty 21
+mar 21
+maj 21
+lip 21
+wrz 21
+Produkcja ogółem
+Krajowe zużycie en. el.
+III kw.
+GWh
+Źródło: PSE
+III kw.: Zużycie
++4,9% (+2,0 TWh)
+III kw.: Produkcja
++18,5% (+6,7 TWh)
+Zmiana salda wymiany 
+międzynarodowej +4,7 TWh
+Wysoki wzrost PKB w III kw. 2021 r. 
+(+5,1% r/r). Eksport energii ze 
+względu na wyższe ceny na rynkach 
+zagranicznych.
+III kw.
+
+Rynek energii elektrycznej – ceny
+40
+Gwałtowny wzrost cen CO2 napędza ceny energii. Wzrost uproszczonego CDS w efekcie 
+dynamicznej sytuacji rynkowej
+Kontrakt pasmowy 1Y Forward i ceny CO2
+60
+110
+160
+210
+260
+310
+360
+410
+sty 19
+mar 19
+maj 19
+lip 19
+wrz 19
+lis 19
+sty 20
+mar 20
+maj 20
+lip 20
+wrz 20
+lis 20
+sty 21
+mar 21
+maj 21
+lip 21
+wrz 21
+lis 21
+266
+Źródło: TGE
+232
+•
+BASE na 2021 niższy o 34 PLN r/r
+(2021: 232 PLN/MWh)
+III 
+kw.
+PLN/t C02
+354
+•
+Aktualny wzrost cen CO2 pociąga za sobą istotnie 
+wyższą cenę BASE na rok 2022 o 122 PLN ~354 
+PLN/MWh
+
+•
+Istotnie wyższe obciążenie elektrowni 
+wobec zwiększonego zapotrzebowania 
+KSE oraz eksport energii netto.
+•
+Porównywalne wykorzystanie 
+elektrociepłowni (spadek produkcji w 
+elektrociepłowniach gazowych oraz 
+wzrost produkcji w 
+elektrociepłowniach węglowych). 
+Wyższe obciążenie kluczowych elektrowni i elektrociepłowni
+Aktywa wytwórcze - konwencjonalne
+41
+* Bez uwzględniania bloków nr 1-2 w Elektrowni Dolna Odra (interwencyjna rezerwa zimna w roku 2020 , bloki wyłączone z eksploatacji od stycznia 2021 r.) i bloków nr 1-2 w Rybniku
+(pracujących w rezerwie szczytowej)
+82,6%
+83,2%
+81,4%
+77,0%
+75,7%
+77,6%
+58,7%
+69,7%
+33,3%
+42,3%
+39,7%
+39,5%
+9 mies. 2020
+9 mies. 2021
+9 mies. 2020
+9 mies. 2021
+9 mies. 2020
+9 mies. 2021
+EL. węgiel brunatny*
+El. węgiel kamienny*
+Elektrociepłownie
+Dyspozycyjność
+Współczynnik wykorzystania mocy
+79,2%
+83,0%
+83,1%
+75,6%
+64,0%
+69,0%
+60,2%
+73,5%
+36,5%
+51,3%
+34,0%
+28,0%
+III kw. 2020
+III kw. 2021
+III kw. 2020
+III kw. 2021
+III kw. 2020
+III kw. 2021
+EL. węgiel brunatny*
+El. węgiel kamienny*
+Elektrociepłownie
+ENERGETYKA 
+KONWENCJONALNA
+CIEPŁOWNICTWO
+
+•
+Spadek wykorzystania mocy ze względu na 
+słabsze warunki wietrzne w I pół. 2021 r.
+•
+Niższa dyspozycyjność w okresie.
+•
+Niewielki wzrost wykorzystania mocy.
+•
+Nieco wyższa dyspozycyjność r/r
+Niższa wietrzność w 2021 r., porównywalna produkcja w kwartale
+Aktywa wytwórcze - wiatrowe
+42
+97,3%
+96,7%
+24,2%
+23,2%
+9 mies. 2020
+9 mies 2021
+Farmy Wiatrowe
+Dyspozycyjność
+Współczynnik wykorzystania mocy
+96,2%
+96,5%
+18,8%
+19,1%
+III kw. 2020
+III kw. 2021
+
+5,20
+5,00
+4,96
+4,75
+4,60
+4,80
+5,00
+5,20
+5,40
+5,60
+kwi 18
+lip 18
+paź 18
+sty 19
+kwi 19
+lip 19
+wrz 19
+gru 19
+mar 20
+cze 20
+wrz 20
+gru 20
+mar 21
+cze 21
+wrz 21
+Straty sieciowe [%]
+(krocząco ostatnie 12 miesięcy)
+•
+Pozytywna
+dynamika
+wolumenu
+dystrybuowanej energii; zwiększony pobór
+energii przez wszystkie grupy taryfowe
+•
+Niższy poziom strat sieciowych na koniec
+września br. (zmiana profilu odbiorców –
+niższe straty generowane na średnim i
+wysokim napięciu)
+•
+Wskaźniki jakościowe SAIDI w zakresie
+indykowanego celu URE za trzy kwartały
+2021.
+•
+Część
+wskaźników
+SAIFI
+nie
+spełnia
+indykowanego celu URE ze względu na
+warunki atmosferyczne.
+•
+Wypełniany
+cel
+URE
+dotyczący
+czasu
+przyłączenia.
+Aktywa dystrybucyjne
+43
+Czas trwania przerw*
+Częstość przerw*
+6%
+4%
+*Wskaźniki zgodnie z regulacją jakościową, wykonanie względem indykowanych celów URE na dany okres
+•
+Cel indykowany URE
+0%
+20%
+40%
+60%
+80%
+100%
+Duże
+miasta
+Miasta
+powiatowe
+Małe
+miasta
+Wsie
+0%
+20%
+40%
+60%
+80%
+100%
+Duże
+miasta
+Miasta
+powiatowe
+Małe
+miasta
+Wsie
+Czas przyłączenia*
+60%
+80%
+100%
+Grupa IV
+Grupa V
+26,20
+27,08
+27,12
+26,27
+27,94
+2017
+2018
+2019
+2020
+2021
+Wolumen dystrybuowanej energii 
+elektrycznej w 9 mies. (TWh) 
+
+Ilustracyjnie
+Produkcja i sprzedaż energii elektrycznej w III kw. 2021
+44
+Gospodarstwa 
+domowe
+Klienci biznesowi
+15,82 TWh
+12,18 TWh
+(III kw. 2020)
+18,11 TWh
+18,37 TWh
+(III kw. 2020)
+25%
+75%
+2,29 TWh
+2,39 TWh
+(III kw. 2020)
+6,88 TWh
+7,95 TWh
+(III kw. 2020)
+Wolumen na 
+pokrycie strat 
+sieciowych
+Energetyka 
+Odnawialna
+Energetyka 
+Konwencjonalna
+Rynek hurtowy i 
+bilansujący
+0,50 TWh
+0,48 TWh
+(III kw. 2020)
+Obrót
+9,17 TWh*
+10,34 TWh
+(III kw. 2020)
+Dystrybucja
+1,28 TWh
+1,61 TWh
+(III kw. 2020)
+Ciepłownictwo
+* Sprzedaż Grupy PGE do odbiorcy finalnego po wyeliminowaniu sprzedaży wewnątrz Grupy PGE. Niektóre przepływy włączając rynek bilansujący, handel 
+zagraniczny, zakupy z giełdy oraz zużycie własne nie są uwzględnione. Źródło: PGE; 
+
+Ilustracyjnie
+Produkcja i sprzedaż energii elektrycznej w 9 mies. 2021
+45
+Gospodarstwa 
+domowe
+Klienci biznesowi
+42,64 TWh
+34,80 TWh
+(9 mies. 2020)
+51,74 TWh
+55,76 TWh
+(9 mies. 2020)
+27%
+73%
+* Sprzedaż Grupy PGE do odbiorcy finalnego po wyeliminowaniu sprzedaży wewnątrz Grupy PGE. Niektóre przepływy włączając rynek bilansujący, handel zagraniczny, 
+zakupy z giełdy oraz zużycie własne nie są uwzględnione. Źródło: PGE; 
+7,53 TWh
+7,30 TWh
+(9 mies. 2020)
+20,39 TWh
+23,16 TWh
+(9 mies. 2020)
+Wolumen na 
+pokrycie strat 
+sieciowych
+Energetyka 
+Odnawialna
+Energetyka 
+Konwencjonalna
+Rynek hurtowy i 
+bilansujący
+1,85 TWh
+1,88 TWh
+(9 mies. 2020)
+Obrót
+27,92 TWh*
+30,46 TWh
+(9 mies. 2020)
+Dystrybucja
+6,05 TWh
+6,17 TWh
+(9 mies. 2020)
+Ciepłownictwo
+
+12,0 
+12,1 
+12,0 12,0 
+11,8 11,8 
+11,5 
+11,3 
+11,4 
+Q3'19 Q4'19 Q1'20 Q2'20 Q3'20 Q4'20 Q1'21 Q2'21 Q3,21
+26,9
+24,6
+22,0
+21,3
+27,6
+26,6
+38,0
+50,7
+57,2
+Q3'19 Q4'19 Q1'20 Q2'20 Q3'20 Q4'20 Q1'21 Q2'21 Q3'21
+263
+226
+192 189
+244 
+272 287
+318
+426
+Q3'19 Q4'19 Q1'20 Q2'20 Q3'20 Q4'20 Q1'21 Q2'21 Q3'21
+250
+209
+175 180
+233 250 271
+310
+410
+3Q'19 4Q'19 Q1'20 Q2'20 Q3'20 Q4'20 Q1'21 Q2'21 Q3'21
+276 257 239 226 235 227
+277
+335
+375
+3Q'19 4Q'19 1Q'20 2Q'20 3Q'20 4Q'20 1Q'21 2Q'21 3Q'21
+Średnie kwartalne ceny energii na TGE (w PLN/MWh)
+Uprawnienia do emisji CO2
+(EUA_Grudzień_Y)
+Wzrost cen energii na TGE r/r
+46
+Węgiel kamienny (indeks PSCMI1)
+Kontrakty na kolejny rok –
+Base_Y+1
+Średnia cena hurtowa energii 
+zrealizowana przez PGE (segment EK*)
+Rynek dnia następnego – podstawa
+Rynek dnia następnego – szczyt
+Źródło: Bloomberg, ICE, PGE
+Źródło: TGE
+Źródło: ARP
+76%
+60%
+EUR/t
+PLN/GJ 
+PLN/MWh
+Źródło: TGE
+Źródło: TGE
+107%
+-3%
+74%
+Średnia cena hurtowa energii 
+zrealizowana przez PGE (segment EK*)
+*średnia cena obliczona w oparciu o wolumen
+sprzedaży skorygowany o wolumen zakupu na
+rynku hurtowym.
+246 251
+285
+292
+281
+286
+248
+261
+282
+3Q'19 4Q'19 1Q'20 2Q'20 3Q'20 4Q'20 1Q'21 2Q'21 3Q'21
+0%
+
+Zaproszenie na konferencję
+47
+W imieniu
+Wojciecha Dąbrowskiego
+Prezesa Zarządu
+oraz
+Lechosława Rojewskiego
+Wiceprezesa Zarządu ds. Finansowych
+zapraszamy na konferencję poświęconą
+Wynikom finansowym za III kwartał 2021 r.,
+która odbędzie się
+w środę, 24 listopada 2021 r.
+o godzinie 10.00 (CET)
+W celu rejestracji prosimy o wizytę na stronie https://infostrefa.tv/pge/
+Po dokonaniu rejestracji otrzymają Państwo link dostępu do transmisji.
+Zalecamy rejestrację co najmniej 15 minut przed planowaną 
+transmisją.
+Wszelkie pytania prosimy kierować na adres ir@gkpge.pl
+podczas trwania transmisji internetowej lub przed jej rozpoczęciem,
+a także poprzez kwestionariusz na stronie transmisji.
+
+Analitycy sell-side pokrywający PGE
+48
+Instytucja
+Analityk
+BDM
+Krystian Brymora
+BOŚ 
+Jakub Viscardi
+Citigroup
+Piotr Dzięciołowski
+IPOPEMA
+Robert Maj
+mBank
+Kamil Kliszcz
+Pekao
+Marcin Górnik
+PKO BP
+Andrzej Rembelski
+Santander Biuro Maklerskie
+Paweł Puchalski
+Societe Generale
+Bartłomiej Kubicki
+Trigon DM
+Michał Kozak
+Wood & Company
+Ondrej Slama
+
+Zastrzeżenie
+49
+Niniejsza prezentacja została przygotowana przez Zarząd PGE Polska Grupa Energetyczna S.A. (dalej „Spółkę” lub „PGE”)
+oraz inne jednostki. Niniejsza prezentacja nie stanowi rekomendacji, oferty czy zachęty do sprzedaży lub zakupu papierów
+wartościowych
+Spółki,
+ani
+spółek
+zależnych,
+w
+żadnej
+jurysdykcji.
+Żadna
+część
+niniejszej
+prezentacji,
+ani
+fakt
+jej
+dystrybuowania
+nie
+powinien
+tworzyć
+podstawy,
+ani
+wiązany
+z
+jakąkolwiek
+decyzją
+inwestycyjną,
+kontraktem
+czy
+zobowiązaniem.
+Działamy w sektorze dla którego trudno jest uzyskać precyzyjne informacje branżowe i rynkowe. Dane rynkowe i branżowe
+oraz prognozy i stwierdzenia użyte w niniejszej prezentacji dotyczące rynkowej pozycji PGE oparte są na założeniach, które
+uważamy za rozsądne i pochodzą z naszych wewnętrznych badań i analiz, wykonanych na nasze zamówienie przez podmioty
+zewnętrzne lub z publicznych źródeł i powszechnie dostępnych publikacji takich jak prasa.
+Niniejsza prezentacja ani żadne materiały dystrybuowane wraz z tą prezentacją nie są adresowane, ani przeznaczone do
+użytku
+przez
+obywateli
+lub
+rezydentów
+żadnego
+stanu,
+kraju
+czy
+jurysdykcji,
+gdzie
+taka
+dystrybucja,
+publikacja,
+udostępnienie lub użycie byłyby sprzeczne z prawem, regulacją lub podlegało rejestracji bądź licencjonowaniu.
+Prezentacja
+zwiera
+zwroty
+dotyczące
+przyszłości. Te
+zwroty
+zawierają
+słowa
+„antycypować”,
+„wierzyć”, „zamierzać”,
+„szacować”, „oczekiwać” oraz wyrazy bliskoznaczne. Wszystkie określenia inne niż informacje historyczne zawarte w niniejszej
+prezentacji, dotyczące m.in. finansów Spółki, strategii biznesowej, planów i celów Zarządu (także planów rozwoju i celów
+odnośnie produktów i usług) są zwrotami dotyczącymi przyszłości.
+
+Filip Osadczuk
+Szef Relacji Inwestorskich
+filip.osadczuk@gkpge.pl
+Tel: (+48 22) 340 12 24
+Kom: +48 695 501 370
+Stanisław Ozga 
+CFA
+Krzysztof Dragan
+krzysztof.dragan@gkpge.pl
+Tel: (+48 22) 340 15 13
+Kom: +48 601 334 290
+stanislaw.ozga@gkpge.pl
+Tel: (+48 22) 340 12 69
+Kom: +48 887 171 324
+Kontakt dla inwestorów
+50

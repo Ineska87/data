@@ -1,0 +1,785 @@
+Wyniki 
+1Q 2025
+2 czerwca 2025
+
+2
+Podsumowanie 1Q 2025
+Kluczowe dane operacyjne i finansowe
+1Q 2025
+Zmiana r/r
+Sprzedaż energii elektrycznej:
+0,46
+TWh
+-8,00%
+• sprzedaż energii elektrycznej z własnej produkcji:
+0,41
+TWh
++51,85%
+• sprzedaż energii elektrycznej z obrotu:
+0,05
+TWh
+-78,26%
+Uzyskana średnia cena sprzedaży energii elektrycznej(1): 
+597,07
+zł/MWh
+-14,19%
+Średnia cena zakupu EUA:
+274,62
+zł/EUA
+-32,37%
+Przychody ze sprzedaży:
+309
+mln zł
+-40,46%
+EBITDA:
+(5)
+mln zł
+-120,33%
+Wynik netto:
+(14)
+mln zł
+-197,03%
+Nakłady inwestycyjne:
+220
+mln zł
+2 150,25%
+Środki pieniężne(2):
+412
+mln zł
+-38,98%
+(1) Średnia cena liczona jako przychody ze sprzedaży energii (razem z usługami systemowymi) podzielone przez wolumen sprzedaży.
+(2) Środki pieniężne i ich ekwiwalenty oraz pozostałe aktywa finansowe krótkoterminowe.
+
+3
+EBITDA
+WYNIK NETTO
+PRZYCHODY
+Podsumowanie 1Q 2025 [mln zł]
+252 
+205 
+22 
+142 
+35 
+173 
+309 
+520 
+1Q 2025
+1Q 2024
+Pozostałe
+Energia elektryczna z obrotu
+Energia elektryczna z własnej produkcji
+-5 
+27 
+1Q 2025
+1Q 2024
+(14) 
+(5) 
+1Q 2025
+1Q 2024
+Warunki prowadzenia działalności Grupy ZE PAK w 2025 roku uległy istotnej zmianie w stosunku do 2024 roku:
+• wytwarzanie energii przy wykorzystaniu jednego bloku energetycznego – blok o mocy 474 MW 
+• brak wygranych aukcji głównych na rynek mocy (przychody jedynie z rynku wtórnego)
+• brak przychodów z KDT
+• wzrost znaczenia usług bilansujących 
+• zakończona działalność związana z dostarczaniem biomasy do PAK – PCE Biopaliwa i Wodór 
+
+WYBRANE DANE 
+Z RYNKU ENERGII
+4
+
+5
+Ceny energii elektrycznej
+Ceny energii (TGeBase)
+Ceny kontraktu terminowego na dostawę energii elektrycznej (pasmo z dostawą roczną)
+356,28
+392,57
+433,80
+472,68
+480,40
+-100
+100
+300
+500
+700
+900
+1Q 2024
+2Q 2024
+3Q 2024
+4Q 2024
+1Q 2025
+złoty/MWh
+maks.
+min.
+średnia ważona
+454,49
+473,08
+456,41
+427,96
+446,48
+400
+420
+440
+460
+480
+500
+520
+540
+2.sty.2024
+22.sty.2024
+11.lut.2024
+2.mar.2024
+22.mar.2024
+11.kwi.2024
+1.maj.2024
+21.maj.2024
+10.cze.2024
+30.cze.2024
+20.lip.2024
+9.sie.2024
+29.sie.2024
+18.wrz.2024
+8.paź.2024
+28.paź.2024
+17.lis.2024
+7.gru.2024
+27.gru.2024
+16.sty.2025
+5.lut.2025
+25.lut.2025
+17.mar.2025
+złoty/MWh
+cena
+średnia kwartalna
+
+6
+Ceny kontraktu terminowego na dostawę EUA
+Ceny kontraktu terminowego na dostawę EUA
+61,97
+69,43
+68,36
+66,45
+75,25
+50
+55
+60
+65
+70
+75
+80
+85
+2.sty.2024
+22.sty.2024
+11.lut.2024
+2.mar.2024
+22.mar.2024
+11.kwi.2024
+1.maj.2024
+21.maj.2024
+10.cze.2024
+30.cze.2024
+20.lip.2024
+9.sie.2024
+29.sie.2024
+18.wrz.2024
+8.paź.2024
+28.paź.2024
+17.lis.2024
+7.gru.2024
+27.gru.2024
+16.sty.2025
+5.lut.2025
+25.lut.2025
+17.mar.2025
+EUR/EUA
+cena
+średnia kwartalna
+
+INFORMACJE 
+OPERACYJNE
+7
+
+8
+SPRZEDAŻ ENERGII ELEKTRYCZNEJ [TWh]
+PRODUKCJA NETTO [TWh]
+Kwartalna produkcja netto i sprzedaż energii elektrycznej
+0,06
+0,15
+0,12
+0,26
+0,23
+0,34
+0,32 
+0,38 
+0,46 
+2Q 2024
+3Q 2024
+4Q 2024
+Bloki 1, 2 i 5 (PI)
+Blok 9 (PII)
+0,32
+0,38
+0,46
+0,19
+0,11
+0,09
+0,51
+0,49
+0,55
+2Q 2024
+3Q 2024
+4Q 2024
+Z produkcji własnej
+Z obrotu
+0,10
+0,41
+0,17
+0,41 
+0,27 
+1Q 2025
+1Q 2024
+Bloki 1, 2 i 5 (PI)
+Blok 9 (PII)
+0,41
+0,27
+0,05
+0,23
+0,46
+0,50
+1Q 2025
+1Q 2024
+Z produkcji własnej
+Z obrotu
+
+9
+0,40 
+0,50 
+0,60 
+2Q 2024
+3Q 2024
+4Q 2024
+EMISJA CO2 [mln ton]
+0,39 
+0,52 
+0,63 
+2Q 2024
+3Q 2024
+4Q 2024
+ZUŻYCIE WĘGLA [mln ton]
+Kwartalne zużycie węgla i emisja CO2
+0,51 
+0,36 
+1Q 2025
+1Q 2024
+0,49 
+0,35 
+1Q 2025
+1Q 2024
+CO2
+
+10
+398,06 
+349,55 
+288,28 
+2Q 2024
+3Q 2024
+4Q 2024
+Cena zakupu pozwoleń do emisji CO2 (EUA) [zł/EUA]
+731,10 
+737,98 
+836,41 
+2Q 2024
+3Q 2024
+4Q 2024
+Cena sprzedaży energii elektrycznej [zł/MWh]
+Kwartalne średnie ceny sprzedaży energii elektrycznej 
+i zakupu CO2
+597,07 
+695,81 
+1Q 2025
+1Q 2024
+98,74
+274,62 
+406,07 
+1Q 2025
+1Q 2024
+131,45
+
+ZATRUDNIENIE
+11
+
+12
+RAZEM
+WEDŁUG SEGMENTÓW
+Stan zatrudnienia
+[etaty]
+0
+200
+400
+600
+800
+Segment
+WYTWARZANIE
+Segment
+WYDOBYCIE
+Segment
+REMONTY
+Pozostałe
+segmenty
+31.03.2025
+31.12.2024
+31.03.2024
+2 340 
+2 412 
+2 557 
+31.03.2025
+31.12.2024
+31.03.2024
+
+INFORMACJE
+FINANSOWE
+13
+
+14
+Przychody 
+[mln PLN]
+252
+22
+7
+0
+0
+3
+6
+19
+205
+142
+39
+80
+19
+5
+13
+17
+Energia elektryczna z
+produkcji własnej
+Energia elektryczna z
+obrotu
+Przychody z rynku
+mocy
+Przychody ze
+sprzedaży biomasy
+Rekompensaty z
+tytułu rozwiązania
+KDT
+Energia cieplna
+Przychody z umów o
+usługi budowlane
+Pozostałe
+1Q 2025
+1Q 2024
+Za wzrost o 46,6 mln zł przychodów ze sprzedaży 
+wyprodukowanej energii elektrycznej odpowiada wyższy wolumen 
+energii o 51,85%, pomimo niższej średniej ceny sprzedaży.
+Za zmniejszenie o 120,0 mln zł przychodów z energii elektrycznej 
+zakupionej odpowiada zmniejszenie zrealizowanego wolumenu 
+o 78,26% i niższa średnia cena sprzedaży.
+Za niższe o 32,1 mln zł przychody z rynku mocy odpowiada fakt 
+nie objęcia obowiązkiem mocowym w ramach wygranych aukcji 
+głównych i dodatkowych, a uzyskane przychody pochodziły 
+w całości z rynku wtórnego.
+Brak przychodów ze sprzedaży biomasy wynika z faktu, 
+że od 2025 roku ZE PAK SA nie prowadzi handlu biomasą.
+Spółka nie wykazała przychodów z tytułu rozwiązania KDT 
+w związku z wyczerpaniem w 2024 roku całej puli dostępnych 
+środków w ramach przyznanej pomocy.
+Spadek przychodów z ciepła o 1,9 mln zł wynika z mniejszego 
+zapotrzebowania na ciepło ze strony odbiorcy.
+Spadek o 7,5 mln zł przychodów z umów o usługi budowlane 
+jest rezultatem mniejszego zakresu realizacji tego rodzaju usług 
+w spółce PAK Serwis w segmencie remontowym.
+
+15
+Koszty rodzajowe 
+[mln PLN]
+62 
+27 
+134 
+92 
+29 
+36 
+4 
+-39 
+5 
+161
+64
+141
+93
+35
+33
+4
+0
+4
+Wartość
+sprzedanych
+towarów i
+materiałów oraz
+sprzedanej energii
+zakupionej z
+obrotu
+Zużycie
+materiałów
+Koszty
+emisji CO2
+Koszty świadczeń
+pracowniczych
+Usługi obce
+Podatki i opłaty
+(z wyłączeniem
+podatku
+akcyzowego)
+Amortyzacja
+i odpisy
+aktualizujące
+wartość środków
+trwałych
+Odpisy
+aktualizujące
+wartość zapasów
+Pozostałe
+1Q 2025
+1Q 2024
+Za spadek o 98,8 mln zł wartości zakupionej energii do odsprzedaży 
+i pozostałych materiałów odpowiada przede wszystkim brak 
+sprzedawanej biomasy w 1Q 2025 roku oraz mniejszy wolumen 
+obrotu energią i niższa cena zakupu energii.
+Za spadek o 37,1 mln zł zużycia materiałów przede wszystkim 
+odpowiada brak kosztów zużycia zakupionego węgla oraz spadek 
+ceny kupowanej energii elektrycznej na własne potrzeby.
+Niższe o 7,2 mln zł koszty emisji są wynikiem obniżenia ceny 
+uprawnień o 32,37% pomimo wzrostu wolumenu emisji o 40,00%.
+Za niższe o 1,6 mln zł koszty świadczeń pracowniczych odpowiada 
+wyższy poziom średniego wynagrodzenia przy jednoczesnym spadku 
+stanu zatrudnienia o 217 etatów.
+Niższe o 6,2 mln zł usługi obce to rezultat mniejszego zakresu 
+wykorzystania usług związanych z eksploatacją urządzeń w wyniku 
+wyłączeni z eksploatacji bloków 1 i 2 w elektrowni Pątnów. 
+Za wzrost o 2,6 mln zł wysokości podatków odpowiadają wyższe 
+opłaty koncesyjne i wyższa opłata eksploatacyjna związane z większą 
+produkcją energii elektrycznej i wydobyciem węgla. 
+Ujemna wartość odpisu aktualizującego zapasy wynika z faktu 
+rozwiązania odpisu w wyniku sprzedaży materiałów objętych 
+odpisem.
+
+16
+EBITDA 1Q 2025
+[mln zł]
+(1) 
+EBITDA niższa o 32 mln zł (-120,33%) -> po doprowadzeniu do porównywalności niższa o 16 mln zł 
+(-253,42%)
+porównywalna EBITDA za 1Q 2025 wyniosła minus (22) mln zł -> wartość minus (5) mln zł uwzględnia udział 
+w stracie jednostek stowarzyszonych wycenianych metodą praw własności (-3) oraz efekt zmniejszenia salda 
+rezerwy na przyszłą rekultywację eksploatowanych odkrywek węgla (+20)
+porównywalna EBITDA za 1Q 2024 wyniosła minus (6) mln zł -> wartość 27 mln zł uwzględnia udział w zysku 
+jednostek stowarzyszonych wycenianych metodą praw własności (+2) oraz efekt zmniejszenia salda rezerwy 
+na przyszłą rekultywację eksploatowanych odkrywek węgla (+31)
+(-12)
+nowe przychody z usług bilansujących, wyższe przychody z energii własnej, niższe przychody z ciepła, 
+niższe przychody z usług systemowych, niższy wynik zrealizowany na sprzedaży energii zakupionej,
+(-51)
+niższe przychody z Rynku Mocy, brak przychodów z KDT, 
+(+32) brak kosztów węgla zakupionego, niższe koszty energii (w kopalniach), niższe koszty pozostałych 
+paliw i materiałów (mazut, olej opałowy, sorbent, pozostałe materiały chemiczne do produkcji)
+(+7) 
+niższe koszty emisji CO2
+(+8) 
+lepszy wynik na pozostałej działalności operacyjnej, wyższe pozostałe przychody, niższe koszty usług 
+obcych i świadczeń pracowniczych oraz zużycia pozostałych materiałów, ale mniejsze przychody 
+z umów budowlanych i wyższe podatki
+1Q 2025
+1Q 2024
+Przychody ze sprzedaży
+309
+520
+Zmiana %
+(54,88)% 
+(54,88)% 
+Koszt własny sprzedaży
+(267)
+(464)
+Zysk brutto ze sprzedaży
+42
+55
+Marża %
+13,54% 
+10,62% 
+Pozostałe przychody operacyjne
+6 
+18 
+Koszty sprzedaży
+(0)
+(0)
+Koszty ogólnego zarządu
+(50)
+(30)
+Pozostałe koszty operacyjne
+(4)
+(22)
+Udział w zysku jednostek stowarzyszonych 
+wycenionych metodą praw własności
+(3)
+2
+EBIT
+(9)
+23
+Marża %
+(3,05)% 
+4,46% 
+Amortyzacja i odpisy aktualizujące
+4
+4
+EBITDA(1)
+(5)
+27
+Marża %
+(1,76)% 
+5,15% 
+
+17
+Działalność finansowa, podatek i wynik netto
+[mln PLN]
+EBIT --˃ zysk netto
+(1) Za wysokość przychodów finansowych odpowiadają przede wszystkim zrealizowane przychody 
+odsetkowe wyższe od zrealizowanych w 1Q 2024 roku.
+(3) Za wysokość kosztów finansowych przede wszystkim odpowiadają odwrócona wartość dyskonta 
+rezerwy na rekultywację, zrealizowane ujemne różnice kursowe oraz koszty odsetkowe. 
+(4) Na wartość podatku dochodowego w wysokości 21,4 milionów złotych składa się głównie bieżący 
+podatek w wysokości 0,5 mln zł.
+1Q 2025
+1Q 2024
+EBIT
+(9)
+23
+Przychody finansowe (1)
+8 
+6 
+Koszty finansowe (2)
+(12)
+(21)
+Zysk (Strata) brutto
+(13)
+8
+Podatek dochodowy (obciążenie podatkowe)(3)
+(1)
+(13)
+Efektywna stopa podatkowa
+3,56% 
+(155,13)%
+Zysk (Strata) netto
+(14)
+(5)
+Marża %
+(4,46)% 
+(0,89)% 
+
+18
+Skonsolidowany rachunek przepływów pieniężnych
+[mln PLN]
+(1)
+Za wyższą dodatnią zmianą kapitału obrotowego odpowiada przede
+wszystkim zwiększenie poziomu rezerw na umorzenie EUA.
+(2)
+W 1Q 2025 nie realizowano transakcji związanych z wykupem kontraktów 
+terminowych na zakup uprawnień do emisji dwutlenku węgla.
+(3)
+Na wydatki inwestycyjne składają się głównie wydatki na rozwój projektu 
+budowy bloku gazowo-parowego w Turku.
+1Q 2025
+1Q 2024
+zysk (strata) brutto
+(13) 
+8 
+amortyzacja
+4 
+4 
+wynik na działalności inwestycyjnej i finansowej
+2
+14 
+zmiany kapitału obrotowego(1)
+105
+188 
+podatek dochodowy
+(2)
+(20)
+nabycie uprawnień do emisji CO2 
+(2)
+-
+(90)
+Środki pieniężne netto z działalności operacyjnej
+96 
+104
+wydatki inwestycyjne w rzeczowe aktywa trwałe oraz wartości 
+niematerialne i prawne(3)
+(187)
+(3)
+pozostałe wpływy i wydatki
+(3) 
+40
+Środki pieniężne netto z działalności inwestycyjnej
+(190)
+37
+odsetki zapłacone
+(0)
+(0)
+Środki pieniężne netto z działalności finansowej
+(0) 
+(0) 
+Zmiana stanu środków pieniężnych i ekwiwalentów
+(94)
+141 
+Stan środków na początek
+506
+534
+Stan środków na koniec
+412 
+675
+
+INWESTYCJE
+19
+
+20
+Projekt budowy bloku gazowo-parowego 
+(CCGT – Combined Cycle Gas Turbine) w Turku
+KLUCZOWE PARAMETRY
+NAZWA PROJEKTU
+FAZA PROJEKTU
+PRODUKCJA
+LOKALIZACJA
+CCGT Adamów
+Realizacja
+3 kw. 2027
+MOC 
+ZAINSTALOWANA 
+562 MW
+Blok: miasto Turek, woj. wielkopolskie
+Gazociągi: gmina Turek, gmina 
+Przykona
+w miejscu nieistniejącej węglowej elektrowni Adamów
+Jednostka jednowałowa: z jedną turbiną gazową 
+SGT4 4000F, generatorem SGEN5-3000W, kotłem 
+odzyskowym (HRSG), turbozespołem parowym 
+kondensacyjnym SST5-5000 i chłodnią 
+wentylatorową mokrą
+»
+Moc zainstalowana netto: 562 MW
+»
+Wygrana aukcja rynku mocy: 400 390 
+PLN/MW/rok (przez 17 lat), 493 MW
+»
+Oczekiwany czas eksploatacji: 25 lat
+
+21
+STATUS PRAC (aktualizacja maj 2025)
+
+Produkcja wszystkich kluczowych urządzeń 
+elektrowni (turbina gazowa, turbina parowa, 
+generator, skraplacz, moduły kotła 
+odzysknicowego, transformator blokowy) 
+jest zakończona i odebrana. 
+
+Turbina parowa, skraplacz, pierwsze moduły 
+kotła dotarły już na plac budowy – są 
+składowane zgodnie z wymogami DTR-ek.
+
+Transport turbiny gazowej, generatora 
+planowany jest na koniec czerwca 2025, 
+transformator jest w trakcie transportu 
+morskiego z Chin). 
+Plac budowy (12 maj 2025) - przyszłej elektrowni 
+CCGT Adamów
+Projekt budowy bloku gazowo-parowego 
+(CCGT – Combined Cycle Gas Turbine) w Turku
+Roboty fundamentowe (przygotowanie 
+do betonowania) głównych budynków 
+bloku CCGT Adamów
+
+W lutym 2025 zakończono badania geotechniczne gruntu w związku 
+ze zidentyfikowanymi ryzykami terenu budowy (podziemne nieciągłości w gruncie). 
+Po analizie wyników badań, prace fundamentowe zostały wznowione. Jeszcze w maju 
+2025 rozpocznie się betonowanie fundamentu kotła, a następnie fundamentu 
+turbozespołu. 
+
+Zaawansowanie realizacji umowy EPC na 31.03.2025: 49,6%.
+
+Oddanie elektrowni do eksploatacji przewidywane jest w trzecim kwartale 2027 roku.
+
+22
+
+Projekt został nabyty w czerwcu 2024 r. poprzez przejęcie udziałów 
+w spółkach Energia Przykona sp. z o.o. i Neo Energia Przykona X sp. z o.o.
+
+W ramach projektu planowana jest budowa farm wiatrowych o łącznej 
+mocy ok. 500 MW, na obszarze trzech powiatów województwa 
+opolskiego.
+
+Projekt posiada ważne warunki przyłączeniowe.
+
+Aktualnie trwają prace deweloperskie w celu przygotowania projektu 
+do budowy.
+Farma Wiatrowa Opole
+STATUS PRAC
+FW Opole
+Dewelopment
+2030 r.
+ok. 500 MW
+Województwo: opolskie
+Powiat: kędzierzyńskokozielski, prudnicki, 
+głubczycki
+ok. 130
+PRODUKCJA
+NAZWA 
+PROJEKTU
+LOKALIZACJA
+ETAP 
+PROJEKTU
+ILOŚĆ 
+TURBIN
+MOC 
+
+23
+Niniejsza prezentacja („Prezentacja”) ma charakter wyłącznie informacyjny i nie należy jej traktować jako porady inwestycyjnej.
+Prezentacja została sporządzona przez ZE PAK SA („Spółka”).
+Odbiorcy Prezentacji ponoszą wyłączną odpowiedzialność za własne analizy i oceny rynku oraz sytuacji rynkowej Spółki
+i potencjalnych wyników Spółki w przyszłości, dokonane w oparciu o informacje zawarte w Prezentacji.
+Spółka
+ani
+żaden
+jej
+podmiot
+zależny
+nie
+ponosi
+odpowiedzialności
+za
+skutki
+decyzji
+podjętych
+na
+podstawie
+lub w oparciu o informacje zawarte w Prezentacji.
+Spółka
+ani
+żaden
+jej
+podmiot
+zależny
+nie
+ma
+obowiązku
+przekazywania
+do
+publicznej
+wiadomości
+aktualizacji
+i zmian informacji, danych oraz oświadczeń znajdujących się w Prezentacji.
+Spółka zwraca uwagę osobom zapoznającym się z Prezentacją, że jedynym wiarygodnym źródłem danych dotyczących wyników
+finansowych Spółki, a także prognoz, zdarzeń oraz wskaźników jej dotyczących są raporty bieżące i okresowe przekazywane przez
+Spółkę w ramach wykonywania obowiązków informacyjnych spółki publicznej.
+Zastrzeżenie

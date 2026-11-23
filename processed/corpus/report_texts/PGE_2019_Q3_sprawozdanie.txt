@@ -1,0 +1,7292 @@
+1 z 50 
+ 
+y 
+ 
+PGE Polska Grupa Energetyczna S.A. 
+Kwartalny raport finansowy 
+za okres 3 i 9 miesięcy 
+ 
+ 
+ 
+zakończony dnia 30 września 2019 roku 
+zgodny z MSSF UE (w milionach złotych) 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 2 z 50 
+ 
+SPIS TREŚCI 
+I. 
+SKRÓCONE ŚRÓDROCZNE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK PGE ZA OKRES 3 I 9 
+MIESIĘCY ZAKOŃCZONY 30 WRZEŚNIA 2019 ROKU ZGODNE Z MSSF UE ............................................................... 4 
+SKONSOLIDOWANE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW .................................................................... 4 
+SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ ............................................................................ 5 
+SKONSOLIDOWANE SPRAWOZDANIE ZE ZMIAN W KAPITAŁACH WŁASNYCH ........................................................ 6 
+SKONSOLIDOWANE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH .................................................................... 7 
+INFORMACJE OGÓLNE, PODSTAWY SPORZĄDZENIA SPRAWOZDANIA FINANSOWEGO I INNE INFORMACJE 
+OBJAŚNIAJĄCE ....................................................................................................................................................... 8 
+1. 
+Informacje ogólne ......................................................................................................................................... 8 
+1.1 
+Informacje o jednostce dominującej ................................................................................................................................................................ 8 
+1.2 
+Informacje o Grupie Kapitałowej PGE.............................................................................................................................................................. 8 
+1.3 
+Skład Grupy Kapitałowej PGE .......................................................................................................................................................................... 9 
+2. 
+Podstawa sporządzenia sprawozdania finansowego .................................................................................... 11 
+2.1 
+Oświadczenie o zgodności ............................................................................................................................................................................. 11 
+2.2 
+Waluta prezentacji i waluta funkcjonalna ..................................................................................................................................................... 12 
+2.3 
+Nowe standardy i interpretacje, które zostały opublikowane, a nie weszły jeszcze w życie .......................................................................... 12 
+2.4 
+Profesjonalny osąd kierownictwa oraz szacunki ............................................................................................................................................ 12 
+3. 
+Zmiana zasad rachunkowości i prezentacji danych ....................................................................................... 13 
+4. 
+Hierarchia wartości godziwej ....................................................................................................................... 17 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO ............................................ 18 
+NOTY OBJAŚNIAJĄCE DO SEGMENTÓW OPERACYJNYCH ...................................................................................... 18 
+5. 
+Informacje dotyczące segmentów działalności ............................................................................................. 18 
+5.1 
+Informacje dotyczące segmentów branżowych ............................................................................................................................................. 19 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z CAŁKOWITYCH DOCHODÓW ...................... 21 
+6. 
+Przychody i koszty ........................................................................................................................................ 21 
+6.1 
+Przychody ze sprzedaży ................................................................................................................................................................................. 21 
+6.2 
+Koszty w układzie rodzajowym i kalkulacyjnym ............................................................................................................................................ 22 
+6.3 
+Pozostałe przychody i koszty operacyjne ....................................................................................................................................................... 23 
+6.4 
+Przychody i koszty finansowe ........................................................................................................................................................................ 24 
+6.5 
+Udział w zysku jednostek wykazywanych metodą praw własności ............................................................................................................... 24 
+7. 
+Odpisy aktualizujące wartość aktywów ........................................................................................................ 25 
+8. 
+Podatek w sprawozdaniu z całkowitych dochodów ...................................................................................... 25 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z SYTUACJI FINANSOWEJ .............................. 26 
+9. 
+Istotne zwiększenia i zmniejszenia rzeczowych aktywów trwałych i wartości niematerialnych .................... 26 
+10. Przyszłe zobowiązania inwestycyjne ............................................................................................................ 26 
+11. Udziały i akcje wykazywane metodą praw własności ................................................................................... 27 
+12. Podatek odroczony w sprawozdaniu z sytuacji finansowej ........................................................................... 27 
+12.1 Aktywa z tytułu podatku odroczonego .......................................................................................................................................................... 27 
+12.2 Zobowiązania z tytułu podatku odroczonego ................................................................................................................................................ 28 
+13. Zapasy .......................................................................................................................................................... 28 
+14. Uprawnienia do emisji CO2 na własne potrzeby ........................................................................................... 29 
+15. Wybrane aktywa finansowe ......................................................................................................................... 29 
+15.1 Należności z tytułu dostaw i usług i pozostałe należności finansowe ............................................................................................................ 29 
+15.2 Środki pieniężne i ich ekwiwalenty ................................................................................................................................................................ 30 
+16. Instrumenty pochodne i inne aktywa wyceniane w wartości godziwej przez wynik ..................................... 30 
+17. Kapitały własne ............................................................................................................................................ 31 
+17.1 Kapitał podstawowy ...................................................................................................................................................................................... 31 
+17.2 Kapitał z wyceny instrumentów finansowych ................................................................................................................................................ 32 
+17.3 Dywidendy wypłacone i zaproponowane do zapłaty ..................................................................................................................................... 32 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 3 z 50 
+ 
+18. Rezerwy ....................................................................................................................................................... 32 
+18.1 Rezerwa na świadczenia pracownicze ........................................................................................................................................................... 33 
+18.2 Rezerwa na koszty rekultywacji ..................................................................................................................................................................... 33 
+18.3 Rezerwa na niedobór uprawnień do emisji CO2 ............................................................................................................................................. 34 
+18.4 Rezerwa na prawa majątkowe przeznaczone do umorzenia ......................................................................................................................... 34 
+18.5 Rezerwa na roszczenia z tytułu bezumownego korzystania z nieruchomości ................................................................................................ 34 
+19. Zobowiązania finansowe .............................................................................................................................. 34 
+19.1 Kredyty bankowe, pożyczki, obligacje i leasing ............................................................................................................................................. 34 
+19.2 Zobowiązania z tytułu dostaw i usług i pozostałe zobowiązania finansowe .................................................................................................. 36 
+20. Pozostałe zobowiązania niefinansowe ......................................................................................................... 36 
+POZOSTAŁE NOTY OBJAŚNIAJĄCE ......................................................................................................................... 37 
+21. Zobowiązania i należności warunkowe. Sprawy sądowe .............................................................................. 37 
+21.1 Zobowiązania warunkowe ............................................................................................................................................................................ 37 
+21.2 Pozostałe istotne kwestie związane ze zobowiązaniami warunkowymi ........................................................................................................ 38 
+21.3 Należności warunkowe .................................................................................................................................................................................. 38 
+21.4 Inne sprawy sądowe i sporne ........................................................................................................................................................................ 38 
+22. Rozliczenia podatkowe ................................................................................................................................. 39 
+23. Informacja o podmiotach powiązanych ........................................................................................................ 40 
+23.1 Jednostki stowarzyszone i współkontrolowane ............................................................................................................................................. 41 
+23.2 Spółki zależne od Skarbu Państwa ................................................................................................................................................................. 41 
+23.3 Wynagrodzenie kadry kierowniczej ............................................................................................................................................................... 41 
+24. Istotne zdarzenia oraz zdarzenia po zakończeniu okresu sprawozdawczego ................................................ 42 
+24.1 Ustawa o zmianie ustawy o podatku akcyzowym oraz niektórych ustaw ..................................................................................................... 42 
+24.2 Przyznanie dodatkowych uprawnień do emisji CO2 dla instalacji PGE ........................................................................................................... 43 
+24.3 Utworzenie Funduszu Eko-Inwestycje............................................................................................................................................................ 43 
+II. 
+KWARTALNA INFORMACJA FINANSOWA PGE POLSKA GRUPA ENERGETYCZNA S.A. ZA OKRES 3 I 9 
+MIESIĘCY ZAKOŃCZONY 30 WRZEŚNIA 2019 ROKU ZGODNA Z MSSF UE .............................................................. 44 
+JEDNOSTKOWE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW .......................................................................... 44 
+JEDNOSTKOWE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ .................................................................................. 45 
+JEDNOSTKOWE SPRAWOZDANIE ZE ZMIAN W KAPITAŁACH WŁASNYCH.............................................................. 46 
+JEDNOSTKOWE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH .......................................................................... 47 
+1. 
+Zmiana zasad rachunkowości i prezentacji danych ....................................................................................... 48 
+III. 
+ZATWIERDZENIE KWARTALNEGO RAPORTU FINANSOWEGO ....................................................................... 50 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 4 z 50 
+ 
+I. SKRÓCONE ŚRÓDROCZNE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK PGE 
+ZA OKRES 3 i 9 MIESIĘCY ZAKOŃCZONY 30 WRZEŚNIA 2019 ROKU ZGODNE Z MSSF UE 
+SKONSOLIDOWANE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW 
+ 
+ 
+3 m-ce 
+zakończone 
+9 m-cy 
+zakończone 
+3 m-ce 
+zakończone 
+9 m-cy 
+zakończone 
+ 
+Nota 
+30 września 2019 
+30 września 2019 
+30 września 2018 
+30 września 2018 
+ 
+ 
+(niebadane) 
+(niebadane) 
+(niebadane) 
+dane przekształcone 
+(niebadane) 
+dane przekształcone 
+RACHUNEK ZYSKÓW I STRAT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRZYCHODY ZE SPRZEDAŻY 
+6.1 
+9.696 
+27.932 
+6.091 
+18.962 
+Koszt własny sprzedaży 
+6.2 
+(8.661) 
+(24.509) 
+(5.065) 
+(14.963) 
+ZYSK BRUTTO ZE SPRZEDAŻY 
+1.035 
+3.423 
+1.026 
+3.999 
+Koszty sprzedaży i dystrybucji 
+6.2 
+(383) 
+(965) 
+(280) 
+(991) 
+Koszty ogólnego zarządu 
+6.2 
+(253) 
+(761) 
+(225) 
+(736) 
+Pozostałe przychody/ (koszty) operacyjne netto 
+6.3 
+222 
+1.370 
+(14) 
+94 
+ZYSK Z DZIAŁALNOŚCI OPERACYJNEJ 
+621 
+3.067 
+507 
+2.366 
+Koszty finansowe netto 
+6.4 
+(109) 
+(337) 
+(29) 
+(265) 
+Udział w zysku jednostek wykazywanych metodą praw 
+własności 
+6.5 
+12 
+34 
+15 
+58 
+ZYSK BRUTTO 
+524 
+2.764 
+493 
+2.159 
+Bieżący podatek dochodowy 
+8. 
+(53) 
+(393) 
+(74) 
+(396) 
+Odroczony podatek dochodowy 
+8. 
+(44) 
+(179) 
+(16) 
+(64) 
+ZYSK NETTO ZA OKRES SPRAWOZDAWCZY 
+ 
+427 
+2.192 
+403 
+1.699 
+ 
+ 
+ 
+ 
+ 
+ 
+INNE CAŁKOWITE DOCHODY 
+ 
+ 
+ 
+ 
+ 
+Pozycje, które mogą w przyszłości zostać rozliczone 
+z wynikiem: 
+ 
+ 
+ 
+ 
+ 
+Wycena dłużnych instrumentów finansowych 
+(4) 
+(1) 
+(4) 
+(5) 
+Wycena instrumentów zabezpieczających 
+80 
+(66) 
+(72) 
+(37) 
+Różnice kursowe z przeliczenia jednostek działających za 
+granicą 
+ 
+3 
+2 
+(1) 
+3 
+Podatek odroczony 
+8. 
+(14) 
+13 
+14 
+8 
+Pozycje, które nie będą mogły w przyszłości zostać rozliczone 
+z wynikiem: 
+ 
+ 
+ 
+ 
+ 
+Zyski i straty aktuarialne z wyceny rezerw na świadczenia 
+pracownicze 
+ 
+(1) 
+(143) 
+- 
+- 
+Podatek odroczony 
+8. 
+- 
+27 
+- 
+- 
+Udział w (stracie)/zysku jednostek wykazywanych metodą 
+praw własności 
+ 
+- 
+(1) 
+(1) 
+- 
+INNE DOCHODY ZA OKRES SPRAWOZDAWCZY, NETTO 
+ 
+64 
+(169) 
+(64) 
+(31) 
+ 
+ 
+ 
+ 
+ 
+ 
+RAZEM CAŁKOWITE DOCHODY 
+ 
+491 
+2.023 
+339 
+1.668 
+ 
+ 
+ 
+ 
+ 
+ 
+ZYSK NETTO PRZYPADAJĄCY NA: 
+ 
+ 
+ 
+ 
+ 
+– akcjonariuszy jednostki dominującej 
+ 
+471 
+2.173 
+416 
+1.697 
+– udziały niekontrolujące 
+ 
+(44) 
+19 
+(13) 
+2 
+ 
+ 
+ 
+ 
+ 
+CAŁKOWITE DOCHODY PRZYPADAJĄCE NA: 
+ 
+ 
+ 
+ 
+ 
+– akcjonariuszy jednostki dominującej 
+ 
+535 
+2.004 
+352 
+1.666 
+– udziały niekontrolujące 
+ 
+(44) 
+19 
+(13) 
+2 
+ 
+ 
+ 
+ 
+ 
+ZYSK NETTO I ROZWODNIONY ZYSK NETTO NA JEDNĄ AKCJĘ 
+PRZYPADAJĄCY AKCJONARIUSZOM JEDNOSTKI 
+DOMINUJĄCEJ (W ZŁOTYCH) 
+ 
+0,25 
+1,16 
+0,22 
+0,91 
+* przekształcenie danych porównawczych zostało opisane w nocie 3 niniejszego sprawozdania finansowego 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 5 z 50 
+ 
+SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ 
+ 
+ 
+Stan na dzień 
+Stan na dzień 
+ 
+Nota 
+30 września 2019 
+31 grudnia 2018 
+ 
+ 
+(niebadane) 
+ 
+badane 
+dane przekształcone* 
+AKTYWA TRWAŁE 
+ 
+ 
+ 
+Rzeczowe aktywa trwałe 
+ 
+64.317 
+62.274 
+Nieruchomości inwestycyjne 
+ 
+48 
+48 
+Wartości niematerialne 
+ 
+720 
+1.046 
+Prawa do użytkowania składników aktywów 
+ 
+1.244 
+- 
+Należności finansowe 
+15.1 
+179 
+168 
+Instrumenty pochodne i inne aktywa wyceniane w wartości godziwej przez wynik 
+finansowy 
+16. 
+152 
+117 
+Udziały i akcje oraz pozostałe instrumenty kapitałowe 
+ 
+57 
+53 
+Udziały i akcje wykazywane metodą praw własności 
+11. 
+811 
+776 
+Pozostałe aktywa długoterminowe 
+ 
+520 
+528 
+Uprawnienia do emisji CO2 na własne potrzeby 
+14. 
+240 
+1.203 
+Aktywa z tytułu podatku odroczonego 
+12.1 
+627 
+552 
+ 
+ 
+68.915 
+66.765 
+AKTYWA OBROTOWE 
+ 
+ 
+ 
+Zapasy 
+13. 
+4.479 
+2.699 
+Uprawnienia do emisji CO2 na własne potrzeby 
+14. 
+1.019 
+408 
+Należności z tytułu podatku dochodowego 
+ 
+98 
+69 
+Instrumenty pochodne i inne aktywa wyceniane w wartości godziwej przez wynik 
+finansowy 
+16. 
+296 
+114 
+Należności z tytułu dostaw i usług i pozostałe należności finansowe 
+15.1 
+4.815 
+4.102 
+Udziały i akcje oraz pozostałe instrumenty kapitałowe 
+ 
+1 
+1 
+Pozostałe aktywa krótkoterminowe 
+ 
+764 
+457 
+Środki pieniężne i ich ekwiwalenty 
+15.2 
+1.741 
+1.281 
+ 
+ 
+13.213 
+9.131 
+AKTYWA ZAKLASYFIKOWANE JAKO PRZEZNACZONE DO SPRZEDAŻY 
+ 
+2 
+9 
+SUMA AKTYWÓW 
+ 
+82.130 
+75.905 
+KAPITAŁ WŁASNY 
+ 
+ 
+ 
+Kapitał podstawowy 
+17.1 
+19.165 
+19.165 
+Kapitał zapasowy 
+ 
+19.669 
+19.872 
+Kapitał z wyceny instrumentów finansowych 
+17.2 
+(106) 
+(52) 
+Różnice kursowe z przeliczenia 
+ 
+1 
+(1) 
+Zyski zatrzymane 
+ 
+9.982 
+7.743 
+KAPITAŁ WŁASNY PRZYPISANY AKCJONARIUSZOM JEDNOSTKI DOMINUJĄCEJ 
+ 
+48.711 
+46.727 
+Kapitał własny przypadający udziałom niekontrolującym 
+ 
+842 
+1.074 
+RAZEM KAPITAŁ WŁASNY 
+ 
+49.553 
+47.801 
+ZOBOWIĄZANIA DŁUGOTERMINOWE 
+ 
+ 
+ 
+Rezerwy długoterminowe 
+18. 
+7.617 
+6.428 
+Kredyty bankowe, pożyczki, obligacje i leasing 
+19.1 
+10.974 
+6.361 
+Instrumenty pochodne 
+16. 
+159 
+26 
+Zobowiązania z tytułu odroczonego podatku dochodowego 
+12.2 
+1.831 
+1.616 
+Rozliczenia międzyokresowe przychodów i dotacje rządowe 
+ 
+595 
+611 
+Pozostałe zobowiązania finansowe 
+19.2 
+491 
+521 
+Pozostałe zobowiązania niefinansowe 
+20. 
+38 
+15 
+ 
+ 
+21.705 
+15.578 
+ZOBOWIĄZANIA KRÓTKOTERMINOWE 
+ 
+ 
+ 
+Rezerwy krótkoterminowe 
+18. 
+3.569 
+2.608 
+Kredyty bankowe, pożyczki, obligacje i leasing 
+19.1 
+1.696 
+4.347 
+Instrumenty pochodne 
+16. 
+146 
+110 
+Zobowiązania z tytułu dostaw i usług i pozostałe zobowiązania finansowe 
+19.2 
+3.626 
+3.613 
+Zobowiązania z tytułu podatku dochodowego 
+ 
+54 
+14 
+Rozliczenia międzyokresowe przychodów i dotacje rządowe 
+ 
+80 
+87 
+Pozostałe zobowiązania niefinansowe 
+20. 
+1.701 
+1.747 
+ 
+ 
+10.872 
+12.526 
+RAZEM ZOBOWIĄZANIA 
+ 
+32.577 
+28.104 
+SUMA KAPITAŁÓW I ZOBOWIĄZAŃ 
+ 
+82.130 
+75.905 
+* przekształcenie danych porównawczych zostało opisane w nocie 3 niniejszego sprawozdania finansowego 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 6 z 50 
+ 
+ 
+SKONSOLIDOWANE SPRAWOZDANIE ZE ZMIAN W KAPITAŁACH WŁASNYCH 
+ 
+Kapitał 
+podstawowy 
+Kapitał 
+zapasowy 
+Kapitał 
+z wyceny 
+instrumentów 
+finansowych 
+Różnice 
+kursowe 
+z przeliczenia 
+Zyski 
+zatrzymane 
+Razem 
+Udziały 
+niekontrolujące 
+Razem 
+kapitał własny 
+Nota 
+17.1 
+ 
+17.2 
+ 
+ 
+NA DZIEŃ 1 STYCZNIA 2019 ROKU 
+19.165 
+19.872 
+(52) 
+(1) 
+7.743 
+46.727 
+1.074 
+47.801 
+Zysk netto za okres sprawozdawczy 
+- 
+- 
+- 
+- 
+2.173 
+2.173 
+19 
+2.192 
+Inne całkowite dochody 
+- 
+- 
+(54) 
+2 
+(117) 
+(169) 
+- 
+(169) 
+CAŁKOWITE DOCHODY ZA OKRES 
+- 
+- 
+(54) 
+2 
+2.056 
+2.004 
+19 
+2.023 
+Podział zysków lat ubiegłych 
+- 
+(203) 
+- 
+- 
+203 
+- 
+- 
+- 
+Dywidenda 
+- 
+- 
+- 
+- 
+- 
+- 
+(4) 
+(4) 
+Rozliczenie zakupu dodatkowych udziałów 
+w spółkach zależnych 
+- 
+- 
+- 
+- 
+(21) 
+(21) 
+(254) 
+(275) 
+Nabycie nowej spółki zależnej 
+- 
+- 
+- 
+- 
+- 
+- 
+8 
+8 
+Pozostałe zmiany 
+- 
+- 
+- 
+- 
+1 
+1 
+(1) 
+- 
+TRANSAKCJE Z WŁAŚCICIELAMI 
+- 
+(203) 
+- 
+- 
+183 
+(20) 
+(251) 
+(271) 
+NA DZIEŃ 30 WRZEŚNIA 2019 ROKU 
+19.165 
+19.669 
+(106) 
+1 
+9.982 
+48.711 
+842 
+49.553 
+ 
+ 
+ 
+Kapitał 
+podstawowy 
+Kapitał 
+zapasowy 
+Kapitał 
+z wyceny 
+instrumentów 
+finansowych 
+Różnice 
+kursowe 
+z przeliczenia 
+Zyski 
+zatrzymane 
+Razem 
+Udziały 
+niekontrolujące 
+Razem 
+kapitał własny 
+Nota 
+17.1 
+ 
+17.2 
+ 
+ 
+ 
+ 
+ 
+NA DZIEŃ 31 GRUDNIA 2017 ROKU 
+19.165 
+15.328 
+83 
+(4) 
+10.556 
+45.128 
+1.250 
+46.378 
+Wpływ wdrożenia MSSF 15 
+- 
+- 
+- 
+- 
+340 
+340 
+- 
+340 
+NA DZIEŃ 1 STYCZNIA 2018 ROKU 
+19.165 
+15.328 
+83 
+(4) 
+10.896 
+45.468 
+1.250 
+46.718 
+Zysk netto za okres sprawozdawczy 
+- 
+- 
+- 
+- 
+1.697 
+1.697 
+2 
+1.699 
+Inne całkowite dochody 
+- 
+- 
+(34) 
+3 
+- 
+(31) 
+- 
+(31) 
+CAŁKOWITE DOCHODY 
+- 
+- 
+(34) 
+3 
+1.697 
+1.666 
+2 
+1.668 
+Podział zysków lat ubiegłych 
+- 
+4.544 
+- 
+- 
+(4.544) 
+- 
+- 
+- 
+Dywidenda 
+- 
+- 
+- 
+- 
+- 
+- 
+(39) 
+(39) 
+Włączenie spółek do konsolidacji 
+- 
+- 
+- 
+- 
+27 
+27 
+20 
+47 
+Rozliczenie zakupu dodatkowych udziałów 
+w spółkach zależnych 
+- 
+- 
+- 
+- 
+34 
+34 
+(142) 
+(108) 
+Podwyższenie kapitału przez udziałowców 
+mniejszościowych 
+- 
+- 
+- 
+- 
+- 
+- 
+18 
+18 
+Pozostałe zmiany 
+- 
+- 
+- 
+- 
+1 
+1 
+(2) 
+(1) 
+TRANSAKCJE Z WŁAŚCICIELAMI 
+- 
+4.544 
+- 
+- 
+(4.482) 
+62 
+(145) 
+(83) 
+NA DZIEŃ 30 WRZEŚNIA 2018 ROKU 
+19.165 
+19.872 
+49 
+(1) 
+8.111 
+47.196 
+1.107 
+48.303 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 7 z 50 
+ 
+SKONSOLIDOWANE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH 
+ 
+ 
+Okres zakończony 
+Okres zakończony 
+ 
+Nota 
+30 września 2019 
+(niebadane) 
+30 września 2018 
+(niebadane) 
+PRZEPŁYWY ŚRODKÓW PIENIĘŻNYCH Z DZIAŁALNOŚCI OPERACYJNEJ 
+ 
+ 
+ 
+Zysk brutto 
+ 
+2.764 
+2.159 
+Podatek dochodowy zapłacony 
+ 
+(424) 
+(473) 
+ 
+ 
+ 
+ 
+Korekty o pozycje: 
+ 
+ 
+ 
+Udział w zysku jednostek wykazywanych metodą praw własności 
+ 
+(34) 
+(58) 
+Amortyzacja, likwidacja oraz odpisy aktualizujące 
+ 
+3.005 
+2.778 
+Odsetki i dywidendy, netto 
+ 
+167 
+163 
+Zysk/(strata) na działalności inwestycyjnej 
+ 
+(159) 
+(18) 
+Zmiana stanu należności 
+ 
+(727) 
+(679) 
+Zmiana stanu zapasów 
+ 
+(1.780) 
+(410) 
+Zmiana stanu zobowiązań z wyjątkiem kredytów i pożyczek 
+ 
+557 
+(207) 
+Zmiana stanu pozostałych aktywów niefinansowych, 
+rozliczeń międzyokresowych i uprawnień do emisji CO2 
+ 
+(5) 
+(478) 
+Zmiana stanu rezerw 
+ 
+1.362 
+(92) 
+Pozostałe 
+ 
+39 
+(17) 
+ŚRODKI PIENIĘŻNE NETTO Z DZIAŁALNOŚCI OPERACYJNEJ 
+ 
+4.765 
+2.668 
+ 
+ 
+ 
+ 
+PRZEPŁYWY ŚRODKÓW PIENIĘŻNYCH Z DZIAŁALNOŚCI INWESTYCYJNEJ 
+ 
+ 
+ 
+Nabycie rzeczowych aktywów trwałych i wartości niematerialnych 
+ 
+(4.833) 
+(4.270) 
+Założenie lokat powyżej 3 m-cy 
+ 
+(256) 
+(372) 
+Rozwiązanie lokat powyżej 3 m-cy 
+ 
+243 
+358 
+Nabycie aktywów finansowych 
+ 
+(31) 
+(103) 
+Objęcie spółek konsolidacją 
+ 
+- 
+18 
+Pozostałe 
+ 
+26 
+30 
+ŚRODKI PIENIĘŻNE NETTO Z DZIAŁALNOŚCI INWESTYCYJNEJ 
+ 
+(4.851) 
+(4.339) 
+ 
+ 
+ 
+ 
+PRZEPŁYWY ŚRODKÓW PIENIĘŻNYCH Z DZIAŁALNOŚCI FINANSOWEJ 
+ 
+ 
+ 
+Wpływy z tytułu emisji akcji akcjonariuszy niekontrolujących 
+ 
+- 
+18 
+Wpływy z tytułu zaciągnięcia pożyczek, kredytów 
+ 
+5.050 
+1.979 
+Wpływy z tytułu emisji obligacji 
+ 
+1.400 
+- 
+Spłata pożyczek, kredytów i leasingu finansowego 
+ 
+(3.236) 
+(223) 
+Wykup wyemitowanych obligacji 
+ 
+(2.139) 
+(1.000) 
+Zapłacone odsetki i prowizje 
+ 
+(258) 
+(201) 
+Zwiększenie udziału w spółkach GK 
+ 
+(275) 
+(111) 
+Pozostałe 
+ 
+4 
+(17) 
+ŚRODKI PIENIĘŻNE NETTO Z DZIAŁALNOŚCI FINANSOWEJ 
+ 
+546 
+445 
+ 
+ 
+ 
+ 
+ZMIANA NETTO STANU ŚRODKÓW PIENIĘŻNYCH I ICH EKWIWALENTÓW 
+ 
+460 
+(1.226) 
+Różnice kursowe netto 
+ 
+(1) 
+- 
+ŚRODKI PIENIĘŻNE NA POCZĄTEK OKRESU 
+15.2 
+1.279 
+2.551 
+ŚRODKI PIENIĘŻNE NA KONIEC OKRESU 
+15.2 
+1.739 
+1.325 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 8 z 50 
+ 
+INFORMACJE OGÓLNE, PODSTAWY SPORZĄDZENIA SPRAWOZDANIA FINANSOWEGO 
+I INNE INFORMACJE OBJAŚNIAJĄCE 
+1. Informacje ogólne 
+1.1 
+Informacje o jednostce dominującej 
+PGE Polska Grupa Energetyczna S.A. („jednostka dominująca”, „Spółka”, „PGE S.A.”) została utworzona aktem notarialnym z dnia 
+2 sierpnia 1990 roku i zarejestrowana w Sądzie Rejonowym w Warszawie, XVI Wydział Gospodarczy, w dniu 28 września 1990 roku. 
+Spółka została wpisana do Krajowego Rejestru Sądowego prowadzonego przez Sąd Rejonowy dla miasta st. Warszawy, XII Wydział 
+Gospodarczy Krajowego Rejestru Sądowego, pod numerem KRS 0000059307. Siedziba jednostki dominującej znajduje się w Warszawie 
+przy ul. Mysiej 2. 
+W skład Zarządu Spółki na dzień 1 stycznia 2019 roku, na dzień 30 września 2019 roku oraz na dzień publikacji niniejszego sprawozdania 
+finansowego wchodzili: 
+ 
+Henryk Baranowski – Prezes Zarządu, 
+ 
+Wojciech Kowalczyk – Wiceprezes Zarządu, 
+ 
+Marek Pastuszko – Wiceprezes Zarządu, 
+ 
+Paweł Śliwa – Wiceprezes Zarządu, 
+ 
+Ryszard Wasiłek – Wiceprezes Zarządu, 
+ 
+Emil Wojtowicz – Wiceprezes Zarządu. 
+Struktura własnościowa 
+Według stanu na dzień 30 września 2019 roku struktura akcjonariatu jednostki dominującej jest następująca: 
+ 
+Skarb Państwa 
+Pozostali 
+akcjonariusze 
+Razem 
+Stan na dzień 31 grudnia 2018 roku 
+57,39% 
+42,61% 
+100,00% 
+Stan na dzień 30 września 2019 roku 
+57,39% 
+42,61% 
+100,00% 
+ 
+Struktura własnościowa na poszczególne dni sprawozdawcze została zaprezentowana na podstawie informacji dostępnych Spółce. 
+Według informacji dostępnych Spółce na dzień publikacji niniejszego sprawozdania finansowego jedynym akcjonariuszem posiadającym 
+co najmniej 5% ogólnej liczby głosów na Walnym Zgromadzeniu PGE S.A. był Skarb Państwa. 
+1.2 
+Informacje o Grupie Kapitałowej PGE 
+Grupa Kapitałowa PGE Polska Grupa Energetyczna S.A. („Grupa Kapitałowa PGE”, „Grupa PGE”, „Grupa”, „GK PGE”) składa się 
+z jednostki dominującej, którą jest PGE Polska Grupa Energetyczna S.A., 58 jednostek zależnych objętych konsolidacją oraz 4 jednostek 
+stowarzyszonych i 1 jednostki współkontrolowanej. Dodatkowe informacje na temat jednostek podporządkowanych objętych 
+skonsolidowanym sprawozdaniem finansowym zostały zamieszczone w nocie 1.3. 
+Niniejsze skonsolidowane sprawozdanie finansowe Grupy Kapitałowej PGE obejmuje okres od 1 stycznia 2019 roku do 30 września 
+2019 roku („sprawozdanie finansowe”, „skonsolidowane sprawozdanie finansowe”) oraz zawiera dane porównawcze za okres od 
+1 stycznia 2018 roku do 30 września 2018 roku oraz na dzień 31 grudnia 2018 roku. 
+Śródroczne skonsolidowane skrócone sprawozdanie finansowe nie obejmuje wszystkich informacji oraz ujawnień wymaganych 
+w rocznym sprawozdaniu finansowym i należy je czytać łącznie ze skonsolidowanym sprawozdaniem finansowym Grupy za rok 
+zakończony 31 grudnia 2018 roku zatwierdzonym do publikacji w dniu 8 marca 2019 roku. 
+Sprawozdania finansowe wszystkich jednostek podporządkowanych sporządzone zostały za ten sam okres sprawozdawczy co 
+sprawozdanie finansowe jednostki dominującej, przy zastosowaniu spójnych zasad rachunkowości. 
+Podstawowym przedmiotem działania spółek Grupy Kapitałowej PGE jest prowadzenie działalności obejmującej: 
+ 
+wytwarzanie energii elektrycznej, 
+ 
+dystrybucję energii elektrycznej, 
+ 
+obrót hurtowy i detaliczny energią elektryczną, prawami majątkowymi, uprawnieniami do emisji CO2 oraz gazem, 
+ 
+wytwarzanie i dystrybucję ciepła, 
+ 
+świadczenie innych usług związanych z realizacją zadań, o których mowa powyżej. 
+Działalność prowadzona jest na podstawie odpowiednich koncesji przyznanych poszczególnym jednostkom wchodzącym w skład Grupy 
+Kapitałowej PGE. 
+Kontynuacja działalności 
+Niniejsze skonsolidowane sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania działalności gospodarczej przez 
+istotne spółki Grupy w dającej się przewidzieć przyszłości. Na dzień zatwierdzenia niniejszego skonsolidowanego sprawozdania 
+finansowego nie stwierdza się istnienia okoliczności wskazujących na zagrożenie kontynuowania działalności przez istotne spółki Grupy. 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 9 z 50 
+ 
+Zmiany polityki rachunkowości 
+W niniejszym sprawozdaniu finansowym przestrzegano tych samych zasad (polityki) rachunkowości i metod kalkulacji, co w ostatnim 
+rocznym sprawozdaniu, z wyjątkiem zmian wynikających z wejścia w życie MSSF 16 Leasing oraz zmian prezentacyjnych opisanych 
+szczegółowo w nocie 3. Niniejsze sprawozdanie należy czytać łącznie ze zbadanym skonsolidowanym sprawozdaniem finansowym 
+GK PGE sporządzonym za rok zakończony 31 grudnia 2018 roku zatwierdzonym do publikacji w dniu 8 marca 2019 roku. 
+1.3 
+Skład Grupy Kapitałowej PGE 
+W okresie sprawozdawczym Grupę Kapitałową PGE tworzyły następujące spółki bezpośrednio i pośrednio zależne objęte konsolidacją: 
+ 
+Nazwa jednostki 
+Jednostka posiadająca udziały 
+Udział spółek 
+GK PGE na dzień 
+30 września 2019 
+Udział spółek 
+GK PGE na dzień 
+31 grudnia 2018 
+ 
+SEGMENT: OBRÓT 
+ 
+ 
+ 
+1. 
+PGE Polska Grupa Energetyczna S.A. 
+Warszawa 
+Jednostka dominująca 
+ 
+ 
+2. 
+PGE Dom Maklerski S.A. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+3. 
+PGE Trading GmbH 
+Berlin 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+4. 
+PGE Obrót S.A. 
+Rzeszów 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+5. 
+ENESTA sp. z o.o. 
+Stalowa Wola 
+PGE Obrót S.A. 
+87,33% 
+87,33% 
+6. 
+PGE Centrum sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+7. 
+PGE Paliwa sp. z o.o. 
+Kraków 
+PGE Energia Ciepła S.A. 
+100,00% 
+100,00% 
+ 
+SEGMENT: ENERGETYKA KONWENCJONALNA 
+ 
+ 
+ 
+8. 
+PGE Górnictwo i Energetyka Konwencjonalna S.A. 
+Bełchatów 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+9. 
+ELBIS sp. z o.o. 
+Rogowiec 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+10. 
+MegaSerwis sp. z o.o. 
+Bogatynia 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+11. 
+„ELMEN” sp. z o.o. 
+Rogowiec 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+12. 
+"Przedsiębiorstwo Usługowo-Produkcyjne 
+„ELTUR-SERWIS” sp. z o.o. 
+Bogatynia" 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+13. 
+Przedsiębiorstwo Transportowo-Sprzętowe 
+„BETRANS” sp. z o.o. 
+Bełchatów 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+14. 
+Przedsiębiorstwo Wulkanizacji Taśm i Produkcji Wyrobów 
+Gumowych BESTGUM POLSKA sp. z o.o. 
+Rogowiec 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+15. 
+RAMB sp. z o.o. 
+Piaski 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+16. 
+EPORE sp. z o.o. 
+Bogatynia 
+PGE Górnictwo i Energetyka 
+Konwencjonalna S.A. 
+85,38% 
+85,38% 
+17. 
+„Energoserwis – Kleszczów” sp. z o.o. 
+Rogowiec 
+PGE Górnictwo i Energetyka 
+Konwencjonalna S.A. 
+51,00% 
+51,00% 
+ 
+SEGMENT: CIEPŁOWNICTWO 
+ 
+ 
+ 
+18. 
+PGE Energia Ciepła S.A. * 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+19. 
+PGE Toruń S.A. 
+Toruń 
+PGE Energia Ciepła S.A. 
+95,22% 
+95,22% 
+20. 
+PGE Gaz Toruń sp. z o.o. 
+Warszawa 
+PGE Energia Ciepła S.A. 
+100,00% 
+50,04% 
+21. 
+Zespół Elektrociepłowni Wrocławskich 
+KOGENERACJA S.A. 
+Wrocław 
+PGE Energia Ciepła S.A. 
+58,07% 
+58,07% 
+22. 
+Elektrociepłownia Zielona Góra S.A. 
+Zielona Góra 
+Zespół Elektrociepłowni Wrocławskich 
+KOGENERACJA S.A. 
+98,40% 
+98,40% 
+23. 
+MEGAZEC sp. z o.o. 
+Bydgoszcz 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+24. 
+Przedsiębiorstwo Energetyki Cieplnej sp. z o.o. 
+Zgierz 
+ 
+PGE Górnictwo i Energetyka 
+Konwencjonalna S.A. 
+50,98% 
+50,98% 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 10 z 50 
+ 
+ 
+Nazwa jednostki 
+Jednostka posiadająca udziały 
+Udział spółek 
+GK PGE na dzień 
+30 września 2019 
+Udział spółek 
+GK PGE na dzień 
+31 grudnia 2018 
+25. 
+PGE Ekoserwis sp. z o.o. 
+Wrocław 
+PGE Energia Ciepła S.A. 
+84,15% 
+84,15% 
+ 
+SEGMENT: ENERGETYKA ODNAWIALNA 
+ 
+ 
+ 
+26. 
+PGE Energia Odnawialna S.A. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+27. 
+Elektrownia Wiatrowa Baltica-1 sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+28. 
+Elektrownia Wiatrowa Baltica-2 sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+29. 
+Elektrownia Wiatrowa Baltica-3 sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+30. 
+PGE Baltica sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+31. 
+PGE Klaster sp. z o.o. 
+Warszawa 
+PGE Energia Odnawialna S.A. 
+100,00% 
+100,00% 
+ 
+SEGMENT: DYSTRYBUCJA 
+ 
+ 
+ 
+32. 
+PGE Dystrybucja S.A. 
+Lublin 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+ 
+SEGMENT: DZIAŁALNOŚĆ POZOSTAŁA 
+ 
+ 
+ 
+33. 
+PGE EJ 1 sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+70,00% 
+70,00% 
+34. 
+PGE Systemy S.A. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+35. 
+PGE Sweden AB (publ) 
+Sztokholm 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+36. 
+PGE Synergia sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+37. 
+„Elbest” sp. z o.o. 
+Bełchatów 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+38. 
+Elbest Security sp. z o.o. 
+Bełchatów 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+39. 
+PGE Inwest 2 sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+40. 
+PGE Ventures sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+41. 
+PGE Inwest 8 sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+42. 
+PGE Inwest 9 sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+43. 
+PGE Inwest 10 sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+44. 
+PGE Inwest 11 sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+45. 
+PGE Inwest 12 sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+46. 
+PGE Inwest 13 S.A. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+47. 
+PGE Inwest 14 sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+48. 
+PGE Nowa Energia sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+49. 
+PGE Inwest 16 sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+50. 
+PGE Inwest 17 sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+51. 
+PGE Inwest 18 sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+52. 
+PGE Inwest 19 sp. z o.o. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+53. 
+Towarzystwo Funduszy Inwestycyjnych Energia S.A. 
+Warszawa 
+PGE Polska Grupa Energetyczna S.A. 
+100,00% 
+100,00% 
+54. 
+BIO-ENERGIA sp. z o.o. 
+Warszawa 
+PGE Energia Odnawialna S.A. 
+100,00% 
+100,00% 
+55. 
+Przedsiębiorstwo Transportowo-Usługowe 
+„ETRA” sp. z o.o. 
+Białystok 
+PGE Dystrybucja S.A. 
+100,00% 
+100,00% 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 11 z 50 
+ 
+ 
+Nazwa jednostki 
+Jednostka posiadająca udziały 
+Udział spółek 
+GK PGE na dzień 
+30 września 2019 
+Udział spółek 
+GK PGE na dzień 
+31 grudnia 2018 
+56. 
+Energetyczne Systemy Pomiarowe sp. z o.o. 
+Białystok 
+PGE Dystrybucja S.A. 
+100,00% 
+100,00% 
+57. 
+ZOWER sp. z o.o. 
+Czerwionka-Leszczyny 
+PGE Energia Ciepła S.A. 
+100,00% 
+100,00% 
+58. 
+Przedsiębiorstwo Usługowo-Handlowe TOREC sp. z o.o. 
+Toruń 
+PGE Toruń S.A. 
+50,04% 
+50,04% 
+59. 
+4Mobility S.A. 
+Warszawa 
+PGE Nowa Energia sp. z o.o. 
+51,47% 
+- 
+* Elektrownia Rybnik wchodząca w skład PGE Energia Ciepła S.A. w nocie 5 niniejszego sprawozdania jest prezentowana w segmencie Energetyka Konwencjonalna. 
+ 
+W powyższej tabeli ujęto między innymi następujące zmiany w strukturze spółek Grupy Kapitałowej PGE, podlegających konsolidacji 
+metodą pełną, które miały miejsce w ciągu okresu zakończonego dnia 30 września 2019 roku: 
+ 
+2 stycznia 2019 roku został zarejestrowany w KRS podział PGE Górnictwo i Energetyka Konwencjonalna S.A. poprzez 
+wydzielenie z PGE Górnictwo i Energetyka Konwencjonalna S.A. do PGE Energia Ciepła S.A. następujących oddziałów: 
+ 
+Elektrociepłownia Kielce, 
+ 
+Elektrociepłownia Gorzów, 
+ 
+Elektrociepłownia Rzeszów, 
+ 
+Elektrociepłownia Lublin Wrotków, 
+ 
+Elektrociepłownia Zgierz, 
+ 
+Zespół Elektrociepłowni Bydgoszcz. 
+Transakcja nie miała wpływu na niniejsze skonsolidowane sprawozdanie finansowe. 
+ 
+17 kwietnia 2019 roku PGE S.A. podjęła decyzję o odstąpieniu od procesu nabycia udziałów będących w posiadaniu pozostałych 
+wspólników PGE EJ1 sp. z o.o. Tym samym PGE S.A. pozostanie posiadaczem 70% udziałów w spółce PGE EJ1 sp. z o.o. 
+ 
+24 kwietnia 2019 roku PGE Nowa Energia sp. z o.o. objęła nowo wyemitowane akcje w podwyższonym kapitale spółki 
+4Mobility S.A. Objęte akcje stanowią 51,47% udziału w podwyższonym kapitale. W wyniku rozliczenia nabycia Grupa 
+Kapitałowa PGE rozpoznała wartość firmy w wysokości 7 mln PLN. 
+ 
+14 czerwca 2019 roku PGE Energia Ciepła S.A. kupiła 49,96% udziałów w PGE Gaz Toruń sp. z o.o. i została jedynym 
+udziałowcem tej spółki. W efekcie przeprowadzenia transakcji kapitał własny Grupy uległ zmniejszeniu o 275 mln PLN, w tym 
+kapitał przynależny udziałom niekontrolującym uległ zmniejszeniu o 254 mln PLN. 
+ 
+Dodatkowo w dniu 10 października 2019 roku Nadzwyczajne Walne Zgromadzenie spółek PGE Górnictwo i Energetyka 
+Konwencjonalna S.A. oraz PGE Energia Ciepła S.A. podjęły uchwały w sprawie podziału PGE Energia Ciepła S.A. (spółka dzielona) 
+poprzez wydzielenie w trybie art. 529 § 1 pkt 4 Kodeksu spółek handlowych w drodze przeniesienia na PGE Górnictwo i Energetyka 
+Konwencjonalna S.A. (spółka przejmująca) części majątku spółki dzielonej w postaci zorganizowanej części przedsiębiorstwa 
+obejmującej działalność prowadzoną przez PGE Energia Ciepła S.A. Oddział w Rybniku związaną z wytwarzaniem energii elektrycznej 
+i ciepła, jak również dystrybucją energii elektrycznej i ciepła. 
+Na dzień zatwierdzenia do udostępnienia niniejszego sprawozdania finansowego podział nie został zarejestrowany w KRS. 
+2. Podstawa sporządzenia sprawozdania finansowego 
+2.1 
+Oświadczenie o zgodności 
+Niniejsze sprawozdanie finansowe zostało sporządzone zgodnie z Międzynarodowym Standardem Rachunkowości 34 Śródroczna 
+Sprawozdawczość Finansowa oraz zgodnie z Rozporządzeniem Ministra Finansów z dnia 29 marca 2018 roku w sprawie informacji 
+bieżących i okresowych przekazywanych przez emitentów papierów wartościowych oraz warunków uznawania za równoważne 
+informacji wymaganych przepisami prawa państwa niebędącego państwem członkowskim (Dz. U. 2018, poz. 512 i 685). 
+Międzynarodowe Standardy Sprawozdawczości Finansowej („MSSF”) obejmują standardy i interpretacje zaakceptowane przez Radę 
+Międzynarodowych Standardów Rachunkowości („RMSR”) oraz Komitet ds. Interpretacji Międzynarodowej Sprawozdawczości 
+Finansowej („KIMSF”). 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 12 z 50 
+ 
+2.2 
+Waluta prezentacji i waluta funkcjonalna 
+Walutą funkcjonalną jednostki dominującej i walutą prezentacji niniejszego skonsolidowanego sprawozdania finansowego jest polski 
+złoty („PLN”). Wszystkie wartości liczbowe podano w milionach złotych („mln PLN”), o ile nie zaznaczono inaczej. 
+Następujące kursy zostały przyjęte dla potrzeb wyceny pozycji wyrażonych w walutach innych niż PLN na dzień sprawozdawczy: 
+ 
+30 września 2019 
+31 grudnia 2018 
+30 września 2018 
+USD 
+4,0000 
+3,7597 
+3,6754 
+EUR 
+4,3736 
+4,3000 
+4,2714 
+2.3 
+Nowe standardy i interpretacje, które zostały opublikowane, a nie weszły jeszcze w życie 
+Następujące standardy, zmiany w obowiązujących standardach oraz interpretacje nie zostały przyjęte przez Unię Europejską lub nie są 
+obowiązujące na dzień 1 stycznia 2019 roku: 
+Standard 
+Opis zmian 
+Data obowiązywania 
+MSSF 14 Regulacyjne pozycje 
+odroczone 
+Zasady rachunkowości i ujawnień dla regulacyjnych pozycji odroczonych 
+Standard w obecnej 
+wersji nie będzie 
+obowiązywał w UE 
+Zmiany do MSSF 10 i MSR 28 
+Zawiera wytyczne dotyczące sprzedaży lub wniesienia aktywów przez inwestora 
+do spółki stowarzyszonej lub wspólnego przedsięwzięcia 
+Prace nad 
+zatwierdzeniem zostały 
+odłożone bezterminowo 
+Zmiany do Założeń koncepcyjnych 
+Zmiany dotyczą ujednolicenia Założeń Koncepcyjnych 
+1 stycznia 2020 
+MSSF 17 Umowy ubezpieczeniowe 
+Definiuje nowe podejście do rozpoznawania przychodów oraz zysku/ strat 
+w okresie świadczenia usług ubezpieczeniowych 
+1 stycznia 2021 
+Zmiany do MSSF 3 
+Zmiany dotyczą doprecyzowania definicji działalności gospodarczej 
+1 stycznia 2020 
+Zmiany do MSR 1 i MSR 8 
+Zmiany dotyczą definicji terminu „istotny” 
+1 stycznia 2020 
+Zmiany do MSSF 9, MSR 39 i MSSF 7 
+Zmiany dotyczą wskaźnika stopy procentowej 
+1 stycznia 2020 
+ 
+Grupa Kapitałowa PGE zamierza przyjąć wymienione powyżej nowe standardy oraz zmiany standardów i interpretacji MSSF 
+opublikowane przez Radę Międzynarodowych Standardów Rachunkowości, lecz nieobowiązujące na dzień sprawozdawczy, zgodnie 
+z datą ich wejścia w życie. 
+Powyższe regulacje nie będą miały istotnego wpływu na przyszłe sprawozdania finansowe Grupy Kapitałowej PGE. 
+2.4 
+Profesjonalny osąd kierownictwa oraz szacunki 
+W procesie stosowania polityki rachunkowości wobec zagadnień podanych poniżej, największe znaczenie, oprócz szacunków 
+księgowych, miał profesjonalny osąd kierownictwa, który wpływa na wielkości wykazywane w skonsolidowanym sprawozdaniu 
+finansowym, w tym w dodatkowych notach objaśniających. Założenia tych szacunków opierają się na najlepszej wiedzy Zarządu 
+odnośnie bieżących i przyszłych działań i zdarzeń w poszczególnych obszarach. Szczegółowe informacje na temat przyjętych założeń 
+zostały przedstawione poniżej lub w odpowiednich notach objaśniających. 
+ 
+W poprzednich okresach sprawozdawczych Grupa utworzyła odpisy aktualizujące wartość aktywów, w tym w szczególności 
+rzeczowych aktywów trwałych. W bieżącym okresie sprawozdawczym Grupa nie zidentyfikowała przesłanek odnośnie 
+dokonania testów na utratę wartości, ani odwrócenia odpisów ujętych w poprzednich okresach. Szacunek wartości 
+odzyskiwalnej rzeczowych aktywów trwałych opiera się na szeregu istotnych założeń, których realizacja w przyszłości jest 
+niepewna i znajduje się w istotnej części poza kontrolą Grupy Kapitałowej PGE. Grupa przyjęła najbardziej właściwe jej zdaniem 
+wielkości i wartości, tym niemniej nie można wykluczyć, iż realizacja poszczególnych założeń będzie odbiegać od przyjętych 
+przez Grupę. 
+ 
+W dniu 28 grudnia 2018 roku została uchwalona ustawa o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw 
+(„Ustawa o cenach prądu”). Ustawa wraz z późniejszymi nowelizacjami uregulowała ceny dla odbiorców końcowych energii 
+elektrycznej na 2019 rok i wprowadziła system rekompensat dla przedsiębiorstw energetycznych stosujących obniżone ceny. 
+W związku z przepisami ustawy Grupa dokonała szacunków przychodów z tytułu należnych rekompensat oraz szacunków 
+obniżenia przychodów. Szczegóły opisano w nocie 24.1 niniejszego sprawozdania. 
+ 
+Rezerwy są zobowiązaniami, których kwota lub termin zapłaty nie są pewne. W ciągu okresu sprawozdawczego Grupa zmieniła 
+szacunki odnośnie zasadności lub wysokości niektórych rezerw. 
+W szczególności, w ciągu okresu sprawozdawczego dokonano aktualizacji rezerwy na koszty rekultywacji oraz rezerwy na 
+świadczenia pracownicze ze względu na spadek stopy dyskonta. Szczegóły przedstawione są w nocie 18 niniejszego 
+sprawozdania finansowego. 
+ 
+Niepewności związane z rozliczeniami podatkowymi zostały opisane w nocie 22 skonsolidowanego sprawozdania finansowego. 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 13 z 50 
+ 
+3. Zmiana zasad rachunkowości i prezentacji danych 
+Nowe standardy i interpretacje, które weszły w życie 1 stycznia 2019 roku 
+Zasady (polityki) rachunkowości zastosowane do sporządzenia niniejszego skonsolidowanego sprawozdania finansowego są spójne 
+z tymi, które zastosowano przy sporządzaniu skonsolidowanego sprawozdania finansowego Grupy za 2018 rok, za wyjątkiem 
+przedstawionych poniżej. Zmiany do MSSF zostały zastosowane w niniejszym sprawozdaniu finansowym zgodnie z ich datą wejścia 
+w życie. Zmiany związane z wejście w życie MSSF 16 zostały opisane poniżej. Pozostałe zmiany nie miały istotnego wpływu na 
+zaprezentowane i ujawnione informacje finansowe lub nie miały zastosowania do transakcji zawieranych przez Grupę: 
+ 
+Zmiany do MSSF 9 – Zmiany dotyczące prawa wcześniejszej spłaty z negatywnym wynagrodzeniem; 
+ 
+Zmiany do KIMSF 23 – Interpretacja stosowana do ustalenia dochodu do opodatkowania, podstawy opodatkowania, 
+nierozliczonych strat podatkowych, niewykorzystanych ulg podatkowych i stawek podatkowych; 
+ 
+Zmiany wynikające z przeglądu MSSF cykl 2015-2017 – zmiany do MSSF 3, MSSF 11, MSSF 12; MSR 23; 
+ 
+Zmiany do MSR 28 – Zmiana dotyczy wyceny inwestycji długoterminowych w jednostkach stowarzyszonych; 
+ 
+Zmiany do MSR 19 – Zmiany dotyczą programu określonych świadczeń. 
+MSSF 16 Leasing 
+Grupa PGE wdrożyła nowy standard MSSF 16 Leasing począwszy od sprawozdań finansowych sporządzanych za okresy rozpoczynające 
+się po 1 stycznia 2019 roku. Grupa wybrała opcję wdrożenia standardu określoną w paragrafie C5.b) MSSF 16, tj. retrospektywnie 
+z łącznym efektem pierwszego zastosowania standardu ujętym na dzień 1 stycznia 2019 roku jako korekta bilansu otwarcia zysków 
+zatrzymanych. 
+Nowy standard MSSF 16 Leasing zmienił zasady ujmowania umów, spełniających definicję leasingu. Główną zmianą jest odejście od 
+podziału na leasing finansowy i operacyjny dla leasingobiorcy. Wszystkie umowy spełniające definicję leasingu są obecnie ujmowane co 
+do zasady jak leasing finansowy. 
+MSSF 16 miał największy wpływ w odniesieniu do poniższych rodzajów umów: 
+ 
+prawo wieczystego użytkowania gruntu („PWUG”) – zarówno zakupione, jak i otrzymane w aporcie lub otrzymane nieodpłatnie 
+na podstawie decyzji administracyjnej, 
+ 
+służebności gruntowe i przesyłu, 
+ 
+umowy najmu, dzierżawy itp. związane z umieszczeniem infrastruktury liniowej i technicznej (węzły ciepłownicze, 
+transformatory), 
+ 
+umowy najmu, dzierżawy itp. pomieszczeń biurowych, 
+ 
+umowy najmu, dzierżawy itp. budynków, budowli i urządzeń technicznych. 
+Po dokonanej analizie Grupa uznała, iż następujące rodzaje umów są poza zakresem MSSF 16: 
+ 
+umowy najmu, dzierżawy, służebności, które nie są uciążliwe dla właściciela nieruchomości (np. ustanowienie służebności na 
+potrzeby linii napowietrznej) 
+ 
+umowy o zajęcie pasa drogowego na potrzeby umieszczenia infrastruktury energetycznej. 
+W przypadku powyższych umów nie jest spełniona definicja leasingu, gdyż Grupa nie czerpie zasadniczo wszystkich korzyści 
+ekonomicznych i nie dysponuje prawem do kierowania użytkowaniem zidentyfikowanego składnika aktywów. 
+Grupa nie rozpoznała leasingu w zakresie ujęcia umów/decyzji dotyczących użytkowania części gruntów służących infrastrukturze 
+podziemnej. Na dzień sporządzenia niniejszego sprawozdania praktyka rynkowa w tym zakresie jest niejednolita, a dodatkowo 
+w czerwcu 2019 roku ukazała się decyzja Komitetu ds. Interpretacji MSSF dotycząca podobnego przypadku, w którym uznano że umowa 
+spełnia definicję leasingu. Obecnie Grupa jest w trakcie ponownej analizy tego zagadnienia. 
+W przypadku umów dzierżawy łączy/światłowodów/kanalizacji kablowej Grupa nie wykorzystuje większości zdolności produkcyjnych 
+składnika aktywów. W związku z tym, składnik aktywów nie spełnia kryteriów zidentyfikowanego składnika aktywów w myśl regulacji 
+MSSF 16, a powyższe umowy (np. umowa na dzierżawę przepustowości w linii światłowodowej) nie spełniają definicji leasingu. 
+Zgodnie z wybraną opcją wdrożenia Grupa nie dokonała przekształcenia danych porównawczych. Na moment wdrożenia MSSF 16 
+Grupa ujęła składnik aktywów z tytułu prawa do użytkowania w przypadku leasingów wcześniej sklasyfikowanych jako leasingi 
+operacyjne zgodnie z MSR 17 Leasing w kwocie równej zobowiązaniu z tytułu leasingu skorygowanej o kwoty wszelkich przedpłat lub 
+naliczonych opłat leasingowych odnoszących się do tego leasingu, ujętych w sprawozdaniu z sytuacji finansowej bezpośrednio sprzed 
+dnia pierwszego zastosowania, zgodnie z paragrafem C8.b.ii). 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 14 z 50 
+ 
+Ponadto Grupa PGE zdecydowała się na skorzystanie z następujących rozwiązań praktycznych na dzień 1 stycznia 2019 roku 
+przewidzianych w paragrafie C10 MSSF 16 w odniesieniu do leasingów wcześniej sklasyfikowanych jako leasingi operacyjne zgodnie 
+z MSR 17: 
+ 
+Grupa PGE zastosowała pojedynczą stopę dyskontową do portfela leasingów o podobnych cechach (takich jak nieruchomości). 
+ 
+Grupa PGE zdecydowała o niestosowaniu wymogów, o których mowa w paragrafie C8 do leasingów, których okres leasingu 
+kończy się przed upływem 12 miesięcy od dnia pierwszego zastosowania, tj. 1 stycznia 2019 roku. Grupa ujęła te leasingi jako 
+leasingi krótkoterminowe. 
+ 
+Grupa PGE zdecydowała o wyłączeniu początkowych kosztów bezpośrednich z wyceny składnika aktywów z tytułu prawa do 
+użytkowania składników aktywów w dniu pierwszego zastosowania. 
+ 
+Grupa PGE wykorzystała wiedzę zdobytą po fakcie, w przypadku określenia okresu leasingu, dla umów które przewidywały 
+okres przedłużenia leasingu lub opcję wypowiedzenia leasingu. 
+W efekcie zastosowania MSSF 16: 
+ 
+Prawa do użytkowania składników aktywów z tytułu nowo rozpoznanych umów leasingowych oraz zobowiązania finansowe na 
+dzień 1 stycznia 2019 roku wzrosły o 887 mln PLN. 
+ 
+Na skutek reklasyfikacji umów spełniających definicję leasingu, a wykazywanych przed 1 stycznia 2019 roku w wartościach 
+niematerialnych i rzeczowych aktywach trwałych, prawa do użytkowania składników aktywów wzrosły, a wartości 
+niematerialne i rzeczowe aktywa trwałe uległy zmniejszeniu, o 367 mln PLN. 
+ 
+Zyski zatrzymane na 1 stycznia 2019 roku nie uległy zmianie. 
+ 
+Wynik finansowy brutto za trzy kwartały 2019 roku jest niższy o szacunkowo 27 mln PLN. 
+ 
+EBITDA za trzy kwartały 2019 roku jest wyższa o szacunkowo 37 mln PLN. 
+Polityka rachunkowości 
+Zgodnie z definicją z MSSF 16 umowa jest leasingiem lub zawiera leasing, jeżeli na jej mocy przekazuje się prawo do kontroli 
+użytkowania zidentyfikowanego składnika aktywów na dany okres w zamian za wynagrodzenie. 
+Z zakresu stosowania MSSF 16 wyłączone są umowy leasingu dotyczące poszukiwania lub wykorzystywania złóż węgla brunatnego, 
+w tym szczególności umowy o ustanowienie użytkowania górniczego oraz PWUG, umowy dzierżawy i im podobne umowy leasingu 
+gruntów dotyczące wyrobisk górniczych, przedpól i zwałowisk. Zgodnie z interpretacją Grupy z zakresu stosowania MSSF 16 wyłączone 
+są umowy dotyczące eksploatacji złóż węgla brunatnego. 
+Grupa określa okres leasingu jako nieodwołalny okres, przez który leasingobiorca ma prawo do użytkowania bazowego składnika 
+aktywów, wraz z: 
+ 
+okresami, na które można przedłużyć leasing, jeżeli można z wystarczającą pewnością założyć, że leasingobiorca skorzysta 
+z tego prawa; oraz 
+ 
+okresami, w których można wypowiedzieć leasing, jeżeli można z wystarczającą pewnością założyć, że leasingobiorca nie 
+skorzysta z tego prawa. 
+Określając okres leasingu i szacując długość nieodwołalnego okresu leasingu, Grupa stosuje definicję umowy i określa okres 
+egzekwowalności umowy. Leasing przestaje być egzekwowalny gdy zarówno leasingobiorca, jak i leasingodawca ma prawo 
+wypowiedzenia leasingu bez konieczności uzyskania zezwolenia drugiej strony, czego konsekwencją jest najwyżej nieznaczna kara. 
+Pojęcie kary obejmuje wszelkiego rodzaju „niekorzyści" o charakterze ekonomicznym, tworzące bariery wyjścia z umowy. 
+Jeżeli tylko leasingobiorca ma prawo wypowiedzenia leasingu, prawo to uznaje się za opcję wypowiedzenia leasingu przysługującą 
+leasingobiorcy, którą jednostka uwzględnia przy określaniu okresu leasingu. Jeżeli tylko leasingodawca ma prawo wypowiedzenia 
+leasingu, nieodwołalny okres leasingu obejmuje okres objęty opcją wypowiedzenia leasingu. 
+Okres leasingu rozpoczyna się w dacie rozpoczęcia (udostępnienia bazowego składnika aktywów do użytkowania przez leasingobiorcę) 
+i obejmuje wszelkie okresy bezczynszowe przyznane leasingobiorcy przez leasingodawcę. 
+W dacie rozpoczęcia leasingu Grupa uwzględnia wszelkie istotne fakty i okoliczności, które tworzą zachętę ekonomiczną dla 
+leasingobiorcy do skorzystania lub nieskorzystania z opcji przedłużenia leasingu, opcji nabycia bazowego składnika aktywów, bądź też 
+nie skorzystania z opcji wypowiedzenia leasingu. 
+Stopa procentowa leasingu jest stopą procentową, która powoduje, że wartość bieżąca opłat leasingowych oraz niegwarantowanej 
+wartości końcowej równa się sumie wartości godziwej bazowego składnika aktywów oraz wszelkich początkowych kosztów 
+bezpośrednich poniesionych przez leasingodawcę. 
+Krańcowa stopa procentowa leasingobiorcy jest stopą procentową, jaką leasingobiorca musiałby zapłacić, aby na podobny okres i przy 
+podobnych zabezpieczeniach pożyczyć środki niezbędne do zakupu składnika aktywów o podobnej wartości co składnik aktywów 
+z tytułu prawa do użytkowania w podobnym środowisku gospodarczym. 
+Leasingobiorca ujmuje składnik aktywów z tytułu prawa do użytkowania w dacie rozpoczęcia. 
+Grupa jako leasingobiorca stosuje zwolnienie w zakresie ujęcia, wyceny oraz prezentacji w odniesieniu do: 
+ 
+leasingów krótkoterminowych, tj. leasingów, których okres leasingu jest nie dłuższy niż 12 miesięcy i które nie zawierają opcji 
+kupna, 
+ 
+leasingów, w odniesieniu do których bazowy składnik aktywów ma niską wartość i które nie są przedmiotem dalszego 
+subleasingu. Grupa uznaje, że wartość bazowego składnika aktywów jest niskiej wartości (wartość nowego składnika aktywów 
+bez względu na wiek składnika aktywów objętego leasingiem) jeżeli nie przekracza 18.000 PLN. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 15 z 50 
+ 
+Wyboru zwolnienia dla leasingu krótkoterminowego dokonuje według klasy bazowego składnika aktywów, do którego odnosi się prawo 
+użytkowania. Wybór zwolnienia dla leasingów, w przypadku których bazowy składnik aktywów ma niską wartość, dokonuje 
+w odniesieniu do poszczególnych leasingów. 
+W dacie rozpoczęcia leasingobiorca wycenia składnik aktywów z tytułu prawa do użytkowania według kosztu. 
+Koszt składnika aktywów z tytułu prawa do użytkowania powinien obejmować: 
+ 
+kwotę początkowej wyceny zobowiązania z tytułu leasingu, 
+ 
+wszelkie opłaty leasingowe zapłacone w dacie rozpoczęcia lub przed tą datą, pomniejszone o wszelkie otrzymane zachęty 
+leasingowe, 
+ 
+wszelkie początkowe koszty bezpośrednie poniesione przez leasingobiorcę, oraz 
+ 
+szacunek kosztów, które mają zostać poniesione przez leasingobiorcę w związku z demontażem i usunięciem bazowego 
+składnika aktywów, przeprowadzeniem renowacji miejsca, w którym się znajdował, lub przeprowadzeniem renowacji 
+bazowego składnika aktywów do stanu wymaganego przez warunki leasingu, chyba że te koszty są ponoszone w celu 
+wytworzenia zapasów. Leasingobiorca przyjmuje na siebie obowiązek pokrycia tych kosztów w dacie rozpoczęcia albo 
+w wyniku używania bazowego składnika aktywów przez dany okres. 
+Leasingobiorca po dacie rozpoczęcia wycenia składnik aktywów z tytułu prawa do użytkowania stosując model kosztu. Leasingobiorca 
+wycenia składnik aktywów z tytułu prawa do użytkowania według kosztu: 
+ 
+pomniejszonego o łączne odpisy amortyzacyjne (umorzenie) i łączne straty z tytułu utraty wartości. Odpisy amortyzacyjne są 
+dokonywane przez cały okres trwania leasingu, od momentu przekazania składnika do użytkowania. Nie dokonuje się odpisów 
+amortyzacyjnych od prawa do użytkowania zakwalifikowanego jako aktywa trwałe przeznaczone do sprzedaży. 
+ 
+skorygowanego z tytułu aktualizacji wyceny zobowiązania (np. w wyniku zmiany opłat leasingowych). 
+Zobowiązanie z tytułu leasingu leasingobiorca ujmuje w dacie rozpoczęcia. 
+W dacie rozpoczęcia leasingobiorca wycenia zobowiązanie z tytułu leasingu w wysokości wartości bieżącej opłat leasingowych 
+pozostających do zapłaty w tej dacie. Opłaty leasingowe dyskontuje się z zastosowaniem stopy procentowej leasingu, jeżeli stopę tę 
+można z łatwością ustalić. W przeciwnym razie leasingobiorca stosuje krańcową stopę procentową leasingobiorcy. 
+W dacie rozpoczęcia opłaty leasingowe zawarte w wycenie zobowiązania z tytułu leasingu obejmują następujące opłaty za prawo do 
+użytkowania bazowego składnika aktywów podczas okresu leasingu, które pozostają do zapłaty w tej dacie: 
+ 
+stałe opłaty leasingowe (w tym zasadniczo stałe opłaty leasingowe) pomniejszone o wszelkie należne zachęty leasingowe; 
+ 
+zmienne opłaty leasingowe, które zależą od indeksu lub stawki, wycenione początkowo z zastosowaniem tego indeksu lub tej 
+stawki zgodnie z ich wartością w dacie rozpoczęcia, 
+ 
+kwoty, których zapłaty przez leasingobiorcę oczekuje się w ramach gwarantowanej wartości końcowej, 
+ 
+cenę wykonania opcji kupna, jeżeli można z wystarczającą pewnością założyć, że leasingobiorca skorzysta z tej opcji, oraz 
+ 
+kary pieniężne za wypowiedzenie leasingu, jeżeli w warunkach leasingu przewidziano, że leasingobiorca może skorzystać z opcji 
+wypowiedzenia leasingu. 
+Leasingobiorca po dacie rozpoczęcia wycenia zobowiązanie z tytułu leasingu poprzez: 
+ 
+zwiększenie wartości bilansowej w celu odzwierciedlenia odsetek od zobowiązania z tytułu leasingu, które w każdym terminie 
+w ciągu okresu leasingu są kwotą, w ramach której uzyskuje się stałą okresową stopę procentową w stosunku do 
+nieuregulowanego salda zobowiązania z tytułu leasingu, 
+ 
+zmniejszenie wartości bilansowej w celu uwzględnienia zapłaconych opłat leasingowych oraz 
+ 
+zaktualizowanie wyceny wartości bilansowej w celu uwzględnienia wszelkiej ponownej oceny lub zmiany leasingu lub w celu 
+uwzględnienia zaktualizowanych zasadniczo stałych opłat leasingowych. 
+Zmiany stosowanych zasad rachunkowości i prezentacji danych 
+W sprawozdaniu z całkowitych dochodów zaprezentowano netto odpowiednio: pozostałe przychody operacyjne i pozostałe koszty 
+operacyjne oraz przychody i koszty finansowe. 
+W bieżącym okresie Grupa zdecydowała o zmianie prezentacji z działalności finansowej do pozostałej działalności operacyjnej wycen 
+forwardów walutowych związanych z zakupem i sprzedażą uprawnień do emisji CO2 na własne potrzeby Grupy, a także o zmianie 
+prezentacji z działalności operacyjnej do pozostałej działalności operacyjnej wycen instrumentów pochodnych związanych 
+z transakcjami obrotu węglem. Zmieniona prezentacja lepiej odzwierciedla charakter prowadzonej przez Grupę działalności – 
+w szczególności całość transakcji związanej z obrotem CO2 oraz węgla jest ujęta w tej samej części sprawozdania. 
+Grupa zdecydowała także o zmianie sposobu podziału zobowiązań z tytułu kredytów, pożyczek i obligacji na część długo 
+i krótkoterminową. Dotychczasową wartość bieżącą generowanych przepływów pieniężnych zastąpiono metodą terminu płatności. 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 16 z 50 
+ 
+W związku z opisanymi zmianami Grupa przekształciła dane porównawcze. Przekształcenie zostało przedstawione w poniższych 
+tabelach. 
+ 
+SKONSOLIDOWANE SPRAWOZDANIE 
+Z CAŁKOWITYCH DOCHODÓW 
+3 m-ce 
+zakończone 
+30 września 2018 
+(niebadane) 
+dane publikowane 
+Prezentacja netto 
+pozostałej działalności 
+operacyjnej i 
+działalności finansowej 
+Zmiana ujęcia wyceny 
+transakcji terminowych 
+dotyczących obrotu 
+węglem i CO2 
+3 m-ce 
+ zakończone 
+30 września 2018 
+(niebadane) 
+dane przekształcone 
+PRZYCHODY ZE SPRZEDAŻY 
+6.091 
+- 
+- 
+6.091 
+Koszt własny sprzedaży 
+(5.068) 
+- 
+3 
+(5.065) 
+ZYSK BRUTTO ZE SPRZEDAŻY 
+1.023 
+- 
+3 
+1.026 
+Koszty sprzedaży i dystrybucji 
+(280) 
+- 
+- 
+(280) 
+Koszty ogólnego zarządu 
+(225) 
+- 
+- 
+(225) 
+Pozostałe przychody operacyjne 
+64 
+(64) 
+- 
+- 
+Pozostałe koszty operacyjne 
+(50) 
+50 
+- 
+- 
+Pozostałe przychody/ (koszty) operacyjne 
+netto 
+- 
+14 
+(28) 
+(14) 
+ZYSK Z DZIAŁALNOŚCI OPERACYJNEJ 
+532 
+- 
+(25) 
+507 
+Przychody finansowe 
+19 
+(19) 
+- 
+- 
+Koszty finansowe 
+(73) 
+73 
+- 
+- 
+Koszty finansowe netto 
+- 
+(54) 
+25 
+(29) 
+Udział w zysku jednostek wykazywanych 
+metodą praw własności 
+15 
+- 
+- 
+15 
+ZYSK BRUTTO 
+493 
+- 
+- 
+493 
+ 
+ 
+SKONSOLIDOWANE SPRAWOZDANIE 
+Z CAŁKOWITYCH DOCHODÓW 
+9 m-cy 
+zakończone 
+30 września 2018 
+(niebadane) 
+dane publikowane 
+Prezentacja netto 
+pozostałej działalności 
+operacyjnej i 
+działalności finansowej 
+Zmiana ujęcia wyceny 
+transakcji terminowych 
+dotyczących obrotu 
+węglem i CO2 
+9 m-cy 
+ zakończone 
+30 września 2018 
+(niebadane) 
+dane przekształcone 
+PRZYCHODY ZE SPRZEDAŻY 
+18.962 
+- 
+- 
+18.962 
+Koszt własny sprzedaży 
+(14.922) 
+- 
+(41) 
+(14.963) 
+ZYSK BRUTTO ZE SPRZEDAŻY 
+4.040 
+- 
+(41) 
+3.999 
+Koszty sprzedaży i dystrybucji 
+(991) 
+- 
+- 
+(991) 
+Koszty ogólnego zarządu 
+(736) 
+- 
+- 
+(736) 
+Pozostałe przychody operacyjne 
+271 
+(271) 
+- 
+- 
+Pozostałe koszty operacyjne 
+(221) 
+221 
+- 
+- 
+Pozostałe przychody/(koszty) operacyjne 
+netto 
+- 
+50 
+44 
+94 
+ZYSK Z DZIAŁALNOŚCI OPERACYJNEJ 
+2.363 
+- 
+3 
+2.366 
+Przychody finansowe 
+116 
+(116) 
+- 
+ 
+Koszty finansowe 
+(378) 
+378 
+- 
+ 
+Koszty finansowe netto 
+- 
+(262) 
+(3) 
+(265) 
+Udział w zysku jednostek wykazywanych 
+metodą praw własności 
+58 
+- 
+- 
+58 
+ZYSK BRUTTO 
+2.159 
+- 
+- 
+2.159 
+ 
+ 
+ 
+ 
+SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ 
+Stan na dzień 
+31 grudnia 2018 
+Zmiana 
+prezentacji 
+Stan na dzień 
+31 grudnia 2018 
+dane publikowane 
+ 
+dane przekształcone 
+ZOBOWIĄZANIA DŁUGOTERMINOWE, w tym: 
+ 
+ 
+ 
+Kredyty bankowe, pożyczki, obligacje i leasing 
+6.247 
+114 
+6.361 
+ZOBOWIĄZANIA DŁUGOTERMINOWE ŁĄCZNIE 
+15.464 
+114 
+15.578 
+ 
+ 
+ 
+ 
+ZOBOWIĄZANIA KRÓTKOTERMINOWE, w tym: 
+ 
+ 
+ 
+Kredyty bankowe, pożyczki, obligacje i leasing 
+4.461 
+(114) 
+4.347 
+ZOBOWIĄZANIA KRÓTKOTERMINOWE ŁĄCZNIE 
+12.640 
+(114) 
+12.526 
+ 
+ 
+ 
+ 
+RAZEM ZOBOWIĄZANIA 
+28.104 
+- 
+28.104 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 17 z 50 
+ 
+4. Hierarchia wartości godziwej 
+Zasady wyceny zapasów, instrumentów pochodnych, udziałów i akcji oraz instrumentów nienotowanych na aktywnych rynkach, dla 
+których wiarygodne ustalenie wartości godziwej nie jest możliwe, są analogiczne jak w sprawozdaniu finansowym za rok zakończony 
+dnia 31 grudnia 2018 roku. 
+Grupa wycenia instrumenty pochodne w wartości godziwej przy zastosowaniu modeli wyceny instrumentów finansowych, 
+wykorzystując ogólnie dostępne kursy walutowe, stopy procentowe, krzywe dyskontowe w poszczególnych walutach (obowiązujące 
+również dla towarów, których ceny wyrażone są w tych walutach) pochodzące z aktywnych rynków. Wartość godziwa instrumentów 
+pochodnych ustalana jest w oparciu o zdyskontowane przyszłe przepływy z tytułu zawartych transakcji kalkulowane w oparciu o różnicę 
+między ceną terminową a transakcyjną. Terminowych kursów wymiany walut nie modeluje się jako osobnego czynnika ryzyka, ale 
+wyprowadza z kursu spot i odpowiedniej terminowej stopy procentowej dla waluty obcej w stosunku do PLN. 
+ 
+ 
+Stan na dzień 30 września 2019 
+Stan na dzień 31 grudnia 2018 
+HIERARCHIA WARTOŚCI GODZIWEJ 
+Poziom 1 
+Poziom 2 
+Poziom 1 
+Poziom 2 
+Węgiel kamienny w działalności 
+tradingowej 
+87 
+- 
+140 
+- 
+Uprawnienia do emisji CO2 w działalności 
+tradingowej 
+1.350 
+- 
+4 
+- 
+Zapasy 
+1.437 
+- 
+144 
+- 
+Forward walutowy 
+- 
+94 
+- 
+24 
+Forward towarowy 
+- 
+203 
+- 
+6 
+Kontrakty na zakup/ sprzedaż węgla 
+w działalności tradingowej 
+- 
+5 
+- 
+2 
+Wycena transakcji CCIRS 
+- 
+47 
+- 
+113 
+Wycena transakcji IRS 
+- 
+- 
+- 
+4 
+SWAP towarowy 
+- 
+9 
+- 
+4 
+Opcje 
+- 
+6 
+- 
+12 
+Jednostki uczestnictwa i certyfikaty 
+- 
+84 
+- 
+66 
+Aktywa finansowe 
+- 
+448 
+- 
+231 
+Forward walutowy 
+- 
+94 
+ 
+59 
+Forward towarowy 
+- 
+2 
+ 
+- 
+SWAP towarowy 
+- 
+49 
+- 
+46 
+Kontrakty na zakup/ sprzedaż węgla 
+w działalności tradingowej 
+- 
+2 
+- 
+7 
+Wycena transakcji IRS 
+- 
+158 
+- 
+24 
+Zobowiązania finansowe 
+- 
+305 
+- 
+136 
+ 
+W okresie sprawozdawczym i okresie porównawczym nie wystąpiły przesunięcia instrumentów finansowych pomiędzy pierwszym 
+i drugim poziomem hierarchii wartości godziwej. 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 18 z 50 
+ 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO 
+NOTY OBJAŚNIAJĄCE DO SEGMENTÓW OPERACYJNYCH 
+5. Informacje dotyczące segmentów działalności 
+Spółki Grupy Kapitałowej PGE prowadzą działalność na podstawie odpowiednich koncesji, w tym przede wszystkim koncesji na: 
+wytwarzanie, obrót i dystrybucję energii elektrycznej, wytwarzanie, przesył i dystrybucję ciepła, przyznawane przez Prezesa Urzędu 
+Regulacji Energetyki oraz koncesji na wydobywanie węgla brunatnego ze złóż, udzielanych przez Ministra Środowiska. Koncesje są 
+z reguły wydawane na okres pomiędzy 10 a 50 lat. 
+Do koncesji na wydobycie węgla, wytwarzanie energii elektrycznej i ciepła oraz dystrybucję energii elektrycznej i ciepła przypisane są 
+odpowiednie aktywa, przedstawione w szczegółowych informacjach na temat segmentów operacyjnych. W związku z posiadanymi 
+koncesjami dotyczącymi energii elektrycznej i ciepła ponoszone są roczne opłaty zależne od poziomu obrotów. W przypadku 
+prowadzenia działalności koncesjonowanej związanej z wydobyciem węgla brunatnego ponoszone są opłaty eksploatacyjne zależne od 
+obowiązującej stawki i wielkości wydobycia, a także opłaty za użytkowanie górnicze. 
+Grupa Kapitałowa PGE prezentuje informacje dotyczące segmentów działalności za bieżący oraz porównawczy okres sprawozdawczy 
+zgodnie z MSSF 8 Segmenty operacyjne. Podział sprawozdawczości Grupy Kapitałowej PGE oparty jest na segmentach branżowych: 
+ 
+Energetyka Konwencjonalna obejmuje poszukiwanie i wydobycie węgla brunatnego oraz produkcję energii w elektrowniach 
+a także działalność pomocniczą w powyższym zakresie. 
+ 
+Ciepłownictwo obejmuje wytwarzanie energii elektrycznej i ciepła w źródłach kogeneracyjnych oraz przesyłanie i dystrybucję 
+ciepła. 
+ 
+Energetyka Odnawialna obejmuje wytwarzanie energii elektrycznej w elektrowniach szczytowo-pompowych oraz ze źródeł 
+odnawialnych. 
+ 
+Obrót obejmuje sprzedaż i zakup energii elektrycznej oraz gazu na rynku hurtowym, obrót uprawnieniami do emisji oraz 
+prawami majątkowymi wynikającymi ze świadectw pochodzenia oraz zakup i dostawy paliw a także sprzedaż energii 
+elektrycznej oraz świadczenie usług odbiorcom końcowym. 
+ 
+Dystrybucja obejmuje zarządzanie lokalnymi sieciami dystrybucyjnymi oraz przesyłanie energii elektrycznej. 
+ 
+Działalność pozostała obejmuje świadczenie usług przez spółki zależne na rzecz Grupy Kapitałowej np. organizacja pozyskiwania 
+finansowania, świadczenie usług informatycznych, księgowo-kadrowych, transportowych. Dodatkowo segment działalności 
+pozostałej obejmuje działalność spółek zależnych, których głównym przedmiotem działalności jest przygotowanie i realizacja 
+projektu budowy elektrowni jądrowej oraz inwestycje w start-upy. 
+Organizacja i zarządzanie Grupą Kapitałową PGE odbywa się w podziale na segmenty uwzględniające rodzaj oferowanych produktów 
+i usług. Każdy z segmentów stanowi strategiczną jednostkę gospodarczą, oferującą inne wyroby i obsługującą inne rynki. Przypisanie 
+poszczególnych jednostek do segmentów działalności zostało przedstawione w nocie 1.3 niniejszego skonsolidowanego sprawozdania 
+finansowego. Grupa Kapitałowa PGE rozlicza transakcje między segmentami w taki sposób, jakby dotyczyły one podmiotów 
+niepowiązanych – na warunkach rynkowych. Analizując wyniki poszczególnych segmentów działalności kierownictwo Grupy Kapitałowej 
+PGE zwraca przede wszystkim uwagę na osiągany wynik EBITDA. 
+Począwszy od 2019 roku GK PGE wydzieliła nowy segment Ciepłownictwo – w poprzednich okresach aktywa i wyniki tego segmentu 
+były ujmowane i analizowane w ramach segmentu Energetyka Konwencjonalna. Dane porównawcze prezentowane w nocie 
+segmentowej zostały odpowiednio przekształcone. 
+Nowy układ prezentacyjny ma na celu poprawić transparentność oraz wzmocnić nadzór nad realizacją Strategii Ciepłownictwa, która 
+stanowi jeden z kluczowych obszarów rozwoju Grupy. 
+Sezonowość segmentów działalności 
+Główne czynniki wpływające na zapotrzebowanie na energię elektryczną i ciepło to: czynniki atmosferyczne - temperatura powietrza, 
+siła wiatru, wielkość opadów, czynniki socjoekonomiczne – liczba odbiorców energii, ceny nośników energii, rozwój gospodarczy PKB 
+oraz czynniki technologiczne – postęp technologiczny, technologia wytwarzania produktów. Każdy z tych czynników ma wpływ na 
+techniczne i ekonomiczne warunki wytwarzania i dystrybucji nośników energii, a tym samym wpływa na wyniki uzyskiwane przez spółki 
+Grupy Kapitałowej PGE. 
+Poziom sprzedaży energii elektrycznej w ciągu roku jest zmienny i zależy przede wszystkim od czynników atmosferycznych – 
+temperatura powietrza, długość dnia. Wzrost zapotrzebowania na energię elektryczną jest szczególnie widoczny w okresach zimowych, 
+natomiast niższe zapotrzebowanie obserwujemy w okresach letnich. Ponadto, zmiany sezonowe widoczne są wśród wybranych grup 
+odbiorców końcowych. Efekty sezonowości są bardziej znaczące dla gospodarstw domowych, niż dla sektora przemysłowego. 
+W segmencie Energetyka Odnawialna energia elektryczna wytwarzana jest z zasobów środowiska naturalnego takich jak woda, wiatr, 
+słońce. Warunki meteorologiczne są istotnym czynnikiem wpływającym na produkcję energii elektrycznej w tym segmencie. 
+Sprzedaż ciepła zależy w szczególności od temperatury powietrza i jest większa w okresie zimowym, a mniejsza w okresie letnim. 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 19 z 50 
+ 
+5.1 
+Informacje dotyczące segmentów branżowych 
+Informacje dotyczące segmentów branżowych za okres zakończony 30 września 2019 roku 
+ 
+ 
+Energetyka 
+Konwencjonalna 
+Ciepłownictwo 
+Energetyka 
+Odnawialna 
+Obrót 
+Dystrybucja 
+Działalność 
+pozostała 
+Korekty 
+Razem 
+RACHUNEK ZYSKÓW I STRAT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sprzedaż na rzecz klientów 
+zewnętrznych 
+9.442 
+2.987 
+719 
+10.222 
+4.470 
+87 
+5 
+27.932 
+Sprzedaż między segmentami 
+4.810 
+1.234 
+52 
+3.278 
+68 
+273 
+(9.715) 
+- 
+PRZYCHODY SEGMENTU, RAZEM 
+14.252 
+4.221 
+771 
+13.500 
+4.538 
+360 
+(9.710) 
+27.932 
+Koszt własny sprzedaży 
+(12.976) 
+(3.777) 
+(508) 
+(12.226) 
+(3.448) 
+(312) 
+8.738 
+(24.509) 
+EBIT *) 
+1.346 
+429 
+214 
+507 
+909 
+(13) 
+(325) 
+3.067 
+Amortyzacja, likwidacja oraz odpisy 
+ujęte w wyniku finansowym 
+1.419 
+436 
+196 
+25 
+901 
+63 
+(35) 
+3.005 
+EBITDA **) 
+2.765 
+865 
+410 
+532 
+1.810 
+50 
+(360) 
+6.072 
+AKTYWA I ZOBOWIĄZANIA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aktywa z wyłączeniem należności 
+z tytułu dostaw i usług 
+40.507 
+7.858 
+3.355 
+2.141 
+18.418 
+764 
+308 
+73.351 
+Należności z tytułu dostaw i usług 
+771 
+342 
+198 
+3.513 
+848 
+69 
+(2.646) 
+3.095 
+Udziały i akcje wykazywane metodą 
+praw własności 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+811 
+Aktywa nieprzypisane 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.873 
+AKTYWA, RAZEM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+82.130 
+Zobowiązania z wyłączeniem 
+zobowiązań z tytułu dostaw i usług 
+10.429 
+1.674 
+393 
+3.351 
+1.913 
+105 
+(1.486) 
+16.379 
+Zobowiązania z tytułu dostaw i usług 
+1.060 
+314 
+35 
+2.157 
+193 
+45 
+(2.466) 
+1.338 
+Zobowiązania nieprzypisane 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14.860 
+ZOBOWIĄZANIA, RAZEM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+32.577 
+POZOSTAŁE INFORMACJE DOTYCZĄCE 
+SEGMENTU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nakłady inwestycyjne RAT i WN 
+2.752 
+264 
+57 
+14 
+1.352 
+135 
+(133) 
+4.441 
+Zwiększenia PDUA 
+1 
+- 
+2 
+4 
+8 
+12 
+- 
+27 
+Razem nakłady inwestycyjne 
+2.753 
+264 
+59 
+18 
+1.360 
+147 
+(133) 
+4.468 
+Odpisy aktualizujące wartość aktywów 
+finansowych i niefinansowych 
+181 
+77 
+1 
+11 
+13 
+- 
+- 
+283 
+Pozostałe koszty niepieniężne ***) 
+3.052 
+356 
+41 
+413 
+174 
+27 
+189 
+4.252 
+*) EBIT = zysk (strata) z działalności operacyjnej 
+**) EBITDA = EBIT + amortyzacja, likwidacja oraz odpisy (rzeczowe aktywa trwałe („RAT”), wartości niematerialne („WN”), prawa do 
+użytkowania składników aktywów („PDUA”), nieruchomości inwestycyjne („NI”) oraz wartość firmy ujęte w wyniku finansowym. 
+***) Zmiany o charakterze niepieniężnym dotyczą rezerw m.in. na rekultywację, uprawnienia do emisji CO2, nagrody jubileuszowe, taryfę 
+pracowniczą i zobowiązań niefinansowych z tyt. świadczeń pracowniczych ujętych w wyniku oraz innych całkowitych dochodach. 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 20 z 50 
+ 
+Informacje dotyczące segmentów branżowych za okres zakończony 30 września 2018 roku 
+ 
+dane przekształcone 
+Energetyka 
+Konwencjonalna 
+Ciepłownictwo 
+Energetyka 
+Odnawialna 
+Obrót 
+Dystrybucja 
+Działalność 
+pozostała 
+Korekty 
+Razem 
+RACHUNEK ZYSKÓW I STRAT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sprzedaż na rzecz klientów 
+zewnętrznych 
+3.129 
+3.137 
+442 
+7.829 
+4.278 
+137 
+10 
+18.962 
+Sprzedaż między segmentami 
+5.985 
+773 
+176 
+2.384 
+74 
+252 
+(9.644) 
+- 
+PRZYCHODY SEGMENTU, RAZEM 
+9.114 
+3.910 
+618 
+10.213 
+4.352 
+389 
+(9.634) 
+18.962 
+Koszt własny sprzedaży 
+(7.776) 
+(3.565) 
+(434) 
+(8.812) 
+(3.175) 
+(338) 
+9.137 
+(14.963) 
+EBIT *) 
+640 
+78 
+163 
+401 
+1.016 
+(9) 
+77 
+2.366 
+Amortyzacja, likwidacja oraz odpisy 
+ujęte w wyniku finansowym 
+1.161 
+499 
+191 
+19 
+876 
+62 
+(30) 
+2.778 
+EBITDA **) 
+1.801 
+577 
+354 
+420 
+1.892 
+53 
+47 
+5.144 
+AKTYWA I ZOBOWIĄZANIA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aktywa z wyłączeniem należności 
+z tytułu dostaw i usług 
+36.060 
+7.677 
+3.110 
+2.148 
+17.312 
+627 
+(853) 
+66.081 
+Należności z tytułu dostaw i usług 
+810 
+338 
+61 
+3.066 
+838 
+98 
+(2.247) 
+2.964 
+Udziały i akcje wykazywane metodą 
+praw własności 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+752 
+Aktywa nieprzypisane 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.706 
+AKTYWA, RAZEM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+73.503 
+Zobowiązania z wyłączeniem 
+zobowiązań z tytułu dostaw i usług 
+7.169 
+1.265 
+338 
+1.144 
+1.727 
+105 
+(178) 
+11.570 
+Zobowiązania z tytułu dostaw i usług 
+778 
+297 
+27 
+1.906 
+234 
+36 
+(2.152) 
+1.126 
+Zobowiązania nieprzypisane 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12.504 
+ZOBOWIĄZANIA, RAZEM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25.200 
+POZOSTAŁE INFORMACJE DOTYCZĄCE 
+SEGMENTU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nakłady inwestycyjne 
+2.106 
+510 
+64 
+8 
+1.069 
+115 
+(113) 
+3.759 
+Odpisy aktualizujące wartość aktywów 
+finansowych i niefinansowych 
+143 
+74 
+- 
+24 
+9 
+- 
+- 
+250 
+Pozostałe koszty niepieniężne ***) 
+1.373 
+208 
+13 
+610 
+100 
+21 
+(146) 
+2.179 
+*) EBIT = zysk (strata) z działalności operacyjnej 
+**) EBITDA = EBIT + amortyzacja, likwidacja oraz odpisy (rzeczowe aktywa trwałe („RAT”), wartości niematerialne („WN”), nieruchomości 
+inwestycyjne („NI”) oraz wartość firmy ujęte w wyniku finansowym. 
+***) Zmiany o charakterze niepieniężnym dotyczą rezerw m.in. na rekultywację, uprawnienia do emisji CO2, nagrody jubileuszowe, taryfę 
+pracowniczą i zobowiązań niefinansowych z tyt. świadczeń pracowniczych ujętych w wyniku oraz innych całkowitych dochodach. 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 21 z 50 
+ 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z CAŁKOWITYCH 
+DOCHODÓW 
+6. Przychody i koszty 
+6.1 
+Przychody ze sprzedaży 
+Przychody ze sprzedaży za okres zakończony 30 września 2019 w podziale na kategorie 
+Poniżej przedstawiono uzgodnienie między ujawnieniem przychodów w podziale na kategorie a informacjami o przychodach, które 
+jednostka ujawnia dla każdego segmentu sprawozdawczego. 
+ 
+ 
+Energetyka 
+Konwencjonalna 
+Ciepłownictwo 
+Energetyka 
+Odnawialna 
+Obrót 
+Dystrybucja 
+Działalność 
+pozostała 
+Korekty 
+Razem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Przychody z umów z klientami 
+14.237 
+4.196 
+626 
+12.519 
+4.503 
+358 
+(9.695) 
+26.744 
+Przychody z tytułu rozpoznanych 
+rekompensat na podstawie Ustawy 
+o cenach prądu 
+4 
+26 
+- 
+977 
+- 
+- 
+- 
+1.007 
+Przychody z leasingu 
+11 
+13 
+145 
+4 
+35 
+2 
+(15) 
+195 
+Rekomp
+ensat
+y KDT 
+- 
+(14) 
+- 
+- 
+- 
+- 
+- 
+(14) 
+PRZYCHODY ZE SPRZEDAŻY, RAZEM 
+14.252 
+4.221 
+771 
+13.500 
+4.538 
+360 
+(9.710) 
+27.932 
+ 
+Poniżej przedstawiono przychody z umów z klientami w podziale na kategorie, które odzwierciedlają sposób, w jaki czynniki 
+ekonomiczne wpływają na charakter, kwotę, termin płatności oraz niepewność przychodów i przepływów pieniężnych. 
+ 
+Rodzaj dobra lub usługi 
+Energetyka 
+Konwencjonalna 
+Ciepłownictwo 
+Energetyka 
+Odnawialna 
+Obrót 
+Dystrybucja 
+Działalność 
+pozostała 
+Korekty 
+Razem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Przychody ze sprzedaży towarów i 
+produktów bez wyłączenia podatków i opłat 
+14.149 
+4.120 
+625 
+11.970 
+4.515 
+76 
+(8.696) 
+26.759 
+Podatki i opłaty pobrane w imieniu stron 
+trzecich 
+(2) 
+(7) 
+- 
+(106) 
+(54) 
+- 
+- 
+(169) 
+Przychody ze sprzedaży towarów i 
+produktów, w tym: 
+14.147 
+4.113 
+625 
+11.864 
+4.461 
+76 
+(8.696) 
+26.590 
+Sprzedaż energii elektrycznej 
+13.528 
+2.772 
+450 
+8.775 
+3 
+- 
+(6.604) 
+18.924 
+Sprzedaż usług dystrybucyjnych 
+11 
+9 
+- 
+36 
+4.302 
+- 
+(64) 
+4.294 
+Sprzedaż ciepła 
+109 
+1.265 
+- 
+7 
+- 
+- 
+- 
+1.381 
+Sprzedaż praw majątkowych 
+pochodzenia energii 
+24 
+16 
+132 
+8 
+- 
+- 
+(10) 
+170 
+Regulacyjne usługi systemowe 
+266 
+- 
+39 
+- 
+- 
+- 
+- 
+305 
+Sprzedaż gazu 
+- 
+- 
+- 
+392 
+- 
+- 
+(35) 
+357 
+Sprzedaż paliw 
+- 
+- 
+- 
+917 
+- 
+- 
+(605) 
+312 
+Pozostała sprzedaż towarów i 
+materiałów 
+209 
+51 
+4 
+1.729 
+156 
+76 
+(1.378) 
+847 
+Przychody ze sprzedaży usług 
+90 
+83 
+1 
+655 
+42 
+282 
+(999) 
+154 
+PRZYCHODY Z UMÓW Z KLIENTAMI, 
+RAZEM 
+14.237 
+4.196 
+626 
+12.519 
+4.503 
+358 
+(9.695) 
+26.744 
+ 
+Przychody ze sprzedaży za okres zakończony 30 września 2018 w podziale na kategorie 
+Poniżej przedstawiono uzgodnienie między ujawnieniem przychodów w podziale na kategorie a informacjami o przychodach, które 
+jednostka ujawnia dla każdego segmentu sprawozdawczego. 
+ 
+ 
+Energetyka 
+Konwencjonalna 
+Ciepłownictwo 
+Energetyka 
+Odnawialna 
+Obrót 
+Dystrybucja 
+Działalność 
+pozostała 
+Korekty 
+Razem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Przychody z umów z klientami 
+9.103 
+3.979 
+456 
+10.210 
+4.323 
+386 
+(9.616) 
+18.841 
+Przychody z leasingu 
+11 
+13 
+162 
+3 
+29 
+3 
+(18) 
+203 
+Rekomp
+ensaty
+ KDT 
+- 
+(82) 
+- 
+- 
+- 
+- 
+- 
+(82) 
+PRZYCHODY ZE SPRZEDAŻY, RAZEM 
+9.114 
+3.910 
+618 
+10.213 
+4.352 
+389 
+(9.634) 
+18.962 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 22 z 50 
+ 
+Poniżej przedstawiono przychody z umów z klientami w podziale na kategorie, które odzwierciedlają sposób, w jaki czynniki 
+ekonomiczne wpływają na charakter, kwotę, termin płatności oraz niepewność przychodów i przepływów pieniężnych. 
+ 
+Rodzaj dobra lub usługi 
+Energetyka 
+Konwencjonalna 
+Ciepłownictwo 
+Energetyka 
+Odnawialna 
+Obrót 
+Dystrybucja 
+Działalność 
+pozostała 
+Korekty 
+Razem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Przychody ze sprzedaży towarów i produktów 
+bez wyłączenia podatków i opłat 
+9.007 
+3.938 
+455 
+10.103 
+4.728 
+84 
+(8.819) 
+19.496 
+Podatki i opłaty pobrane w imieniu stron 
+trzecich 
+(1) 
+(24) 
+- 
+(346) 
+(452) 
+- 
+- 
+(823) 
+Przychody ze sprzedaży towarów i 
+produktów, w tym: 
+9.006 
+3.914 
+455 
+9.757 
+4.276 
+84 
+(8.819) 
+18.673 
+Sprzedaż energii elektrycznej 
+8.483 
+2.194 
+317 
+7.466 
+2 
+- 
+(7.233
+) 
+11.229 
+Sprzedaż usług dystrybucyjnych 
+11 
+9 
+- 
+35 
+4.142 
+- 
+(66) 
+4.131 
+Sprzedaż ciepła 
+115 
+1.242 
+- 
+8 
+- 
+- 
+- 
+1.365 
+Sprzedaż praw majątkowych pochodzenia 
+energii 
+21 
+248 
+98 
+- 
+- 
+- 
+(26) 
+341 
+Regulacyjne usługi systemowe 
+246 
+- 
+40 
+- 
+- 
+- 
+- 
+286 
+Sprzedaż gazu 
+- 
+2 
+- 
+427 
+- 
+- 
+(32) 
+397 
+Sprzedaż paliw 
+- 
+- 
+- 
+1.461 
+- 
+- 
+(931) 
+530 
+Pozostała sprzedaż towarów i materiałów 
+130 
+219 
+- 
+360 
+132 
+84 
+(531) 
+394 
+Przychody ze sprzedaży usług 
+97 
+65 
+1 
+453 
+47 
+302 
+(797) 
+168 
+PRZYCHODY Z UMÓW Z KLIENTAMI, 
+RAZEM 
+9.103 
+3.979 
+456 
+10.210 
+4.323 
+386 
+(9.616) 
+18.841 
+6.2 
+Koszty w układzie rodzajowym i kalkulacyjnym 
+ 
+ 
+ 
+3 m-ce zakończone 
+30 września 2019 
+9 m-cy zakończone 
+30 września 2019 
+3 m-ce zakończone 
+30 września 2018 
+dane przekształcone 
+9 m-cy zakończone 
+30 września 2018 
+dane przekształcone 
+KOSZTY W UKŁADZIE RODZAJOWYM 
+ 
+ 
+ 
+ 
+Amortyzacja i odpisy aktualizujące 
+1.082 
+3.076 
+955 
+2.854 
+Zużycie materiałów i energii 
+1.139 
+3.799 
+1.117 
+3.461 
+Usługi obce 
+647 
+1.802 
+611 
+1.807 
+Podatki i opłaty 
+1.385 
+4.168 
+1.028 
+2.763 
+Koszty świadczeń pracowniczych 
+1.269 
+3.948 
+1.187 
+3.654 
+Pozostałe koszty rodzajowe 
+85 
+224 
+82 
+228 
+KOSZTY WEDŁUG RODZAJU, RAZEM 
+5.607 
+17.017 
+4.980 
+14.767 
+Zmiana stanu produktów 
+3 
+(17) 
+(7) 
+(15) 
+Koszt wytworzenia świadczeń na własne potrzeby jednostki 
+(318) 
+(887) 
+(323) 
+(815) 
+Koszty sprzedaży i dystrybucji 
+(383) 
+(965) 
+(280) 
+(991) 
+Koszty ogólnego zarządu 
+(253) 
+(761) 
+(225) 
+(736) 
+Wartość sprzedanych towarów i materiałów 
+4.005 
+10.122 
+920 
+2.753 
+KOSZT WŁASNY SPRZEDAŻY 
+8.661 
+24.509 
+5.065 
+14.963 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 23 z 50 
+ 
+6.2.1 
+Koszty amortyzacji, likwidacji oraz odpisy aktualizujące 
+Poniżej przedstawiono ujęcie amortyzacji i likwidacji oraz odpisów aktualizujących rzeczowe aktywa trwałe („RAT”), wartości 
+niematerialne („WN”), prawa do użytkowania składników aktywów („PDUA”) oraz nieruchomości inwestycyjne („NI”) w sprawozdaniu 
+z całkowitych dochodów. 
+ 
+Okres zakończony 
+Amortyzacja i likwidacja 
+Odpisy aktualizujące 
+30 września 2019 
+RAT 
+WN 
+PDUA 
+RAZEM 
+RAT 
+PDUA 
+RAZEM 
+Koszt własny sprzedaży 
+2.675 
+60 
+26 
+2.761 
+180 
+5 
+185 
+Koszty sprzedaży i dystrybucji 
+9 
+2 
+2 
+13 
+- 
+- 
+- 
+Koszty ogólnego zarządu 
+23 
+15 
+5 
+43 
+3 
+- 
+3 
+ODNIESIONE W WYNIK 
+FINANSOWY 
+2.707 
+77 
+33 
+2.817 
+183 
+5 
+188 
+Zmiana stanu produktów 
+2 
+- 
+- 
+2 
+- 
+- 
+- 
+Koszt wytworzenia świadczeń na 
+własne potrzeby jednostki 
+69 
+- 
+- 
+69 
+- 
+- 
+- 
+RAZEM 
+2.778 
+77 
+33 
+2.888 
+183 
+5 
+188 
+Pozostałe przychody operacyjne 
+- 
+- 
+- 
+- 
+(1) 
+- 
+(1) 
+ 
+ 
+Okres zakończony 
+Amortyzacja i likwidacja 
+Odpisy aktualizujące 
+30 września 2018 
+RAT 
+WN 
+NI 
+RAZEM 
+RAT 
+WN 
+RAZEM 
+Koszt własny sprzedaży 
+2.450 
+69 
+1 
+2.520 
+202 
+- 
+202 
+Koszty sprzedaży i dystrybucji 
+8 
+2 
+- 
+10 
+- 
+- 
+- 
+Koszty ogólnego zarządu 
+29 
+15 
+- 
+44 
+2 
+- 
+2 
+ODNIESIONE W WYNIK 
+FINANSOWY 
+2.487 
+86 
+1 
+2.574 
+204 
+- 
+204 
+Koszt wytworzenia świadczeń na 
+własne potrzeby jednostki 
+76 
+- 
+- 
+76 
+- 
+- 
+- 
+RAZEM 
+2.563 
+86 
+1 
+2.650 
+204 
+- 
+204 
+Pozostałe przychody operacyjne 
+- 
+- 
+- 
+- 
+(2) 
+- 
+(2) 
+ 
+Odpisy aktualizujące ujęte w okresie sprawozdawczym dotyczą nakładów inwestycyjnych poniesionych w jednostkach, dla których 
+stwierdzono utratę wartości w poprzednich okresach. 
+W pozycji Amortyzacja i likwidacja Grupa ujęła w bieżącym okresie kwotę 37 mln PLN oraz 23 mln PLN w okresie porównawczym 
+z tytułu wartości netto likwidacji RAT i WN. 
+6.3 
+Pozostałe przychody i koszty operacyjne 
+ 
+ 
+Okres zakończony 
+Okres zakończony 
+ 
+30 września 2019 
+30 września 2018 
+dane przekształcone 
+POZOSTAŁE PRZYCHODY/(KOSZTY) OPERACYJNE 
+ 
+ 
+Przychody z tytułu dodatkowych uprawnień do emisji CO2 
+1.348 
+- 
+Efekt zmiany wyceny rezerw na koszty rekultywacji 
+(246) 
+(17) 
+Wycena i realizacja instrumentów pochodnych w tym: 
+187 
+43 
+ - CO2 
+158 
+22 
+ - Węgiel 
+29 
+21 
+Kary, grzywny, odszkodowania 
+151 
+90 
+(Utworzenie)/Rozwiązanie odpisów aktualizujących należności 
+(93) 
+(44) 
+Przekazane darowizny 
+(22) 
+(11) 
+Dotacje 
+21 
+18 
+Rozwiązanie/(Utworzenie) pozostałych rezerw 
+11 
+(42) 
+Zysk ze zbycia RAT/WN 
+11 
+13 
+Pozostałe 
+2 
+44 
+RAZEM POZOSTAŁE PRZYCHODY/(KOSZTY) OPERACYJNE NETTO 
+1.370 
+94 
+ 
+Kwestia Przychodów z tytułu dodatkowych uprawnień do emisji CO2 została opisana w nocie 24.2 niniejszego sprawozdania 
+finansowego. 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 24 z 50 
+ 
+6.4 
+Przychody i koszty finansowe 
+ 
+ 
+ 
+Okres zakończony 
+30 września 2019 
+Okres zakończony 
+30 września 2018 
+dane przekształcone 
+PRZYCHODY/(KOSZTY) FINANSOWE Z TYTUŁU INSTRUMENTÓW FINANSOWYCH 
+ 
+ 
+Dywidendy 
+1 
+1 
+Odsetki 
+(152) 
+(112) 
+Aktualizacja wyceny 
+(6) 
+9 
+Różnice kursowe 
+(20) 
+(12) 
+Strata na zbyciu inwestycji 
+- 
+(1) 
+RAZEM PRZYCHODY/(KOSZTY) FINANSOWE Z TYTUŁU INSTRUMENTÓW FINANSOWYCH NETTO 
+(177) 
+(115) 
+POZOSTAŁE PRZYCHODY/(KOSZTY) FINANSOWE 
+ 
+ 
+Koszty odsetkowe, w tym efekt zwijania dyskonta 
+(149) 
+(137) 
+Odsetki od należności budżetowych 
+(2) 
+1 
+Rozwiązanie rezerw 
+(4) 
+(9) 
+Pozostałe 
+(5) 
+(5) 
+RAZEM POZOSTAŁE PRZYCHODY/(KOSZTY) FINANSOWE NETTO 
+(160) 
+(150) 
+RAZEM PRZYCHODY/(KOSZTY) FINANSOWE NETTO 
+(337) 
+(265) 
+ 
+Koszty odsetek dotyczą głównie wyemitowanych obligacji, zaciągniętych kredytów, pożyczek, zobowiązań z tytułu leasingów. Koszt 
+odsetkowy (efekt zwijania dyskonta) od pozycji niefinansowych dotyczy w głównej mierze rezerwy na koszty rekultywacji oraz rezerwy 
+na świadczenia pracownicze. 
+6.5 
+Udział w zysku jednostek wykazywanych metodą praw własności 
+ 
+ 
+Polska Grupa 
+Górnicza 
+Polimex 
+Mostostal 
+ElectroMobility 
+Poland 
+PEC Bogatynia 
+Energopomiar 
+UDZIAŁ W GŁOSACH 
+15,32% 
+16,48% 
+25,00% 
+34,93% 
+49,79% 
+Okres zakończony 30 września 2019 
+ 
+ 
+ 
+ 
+ 
+Przychody 
+6.805 
+1.022 
+- 
+10 
+50 
+Wynik z działalności kontynuowanej 
+181 
+13 
+(4) 
+(1) 
+2 
+Udział w wyniku jednostek wykazywanych metodą 
+praw własności 
+28 
+2 
+(1) 
+- 
+1 
+Eliminacja zysków i strat niezrealizowanych 
+4 
+- 
+- 
+- 
+- 
+UDZIAŁ W WYNIKU JEDNOSTEK WYKAZYWANYCH 
+METODĄ PRAW WŁASNOŚCI 
+32 
+2 
+(1) 
+- 
+1 
+Pozostałe całkowite dochody 
+(9) 
+- 
+- 
+- 
+- 
+UDZIAŁ W WYNIKU JEDNOSTEK WYKAZYWANYCH 
+METODĄ PRAW WŁASNOŚCI W INNYCH CAŁKOWITYCH 
+DOCHODACH 
+(1) 
+- 
+- 
+- 
+- 
+ 
+ 
+Polska Grupa 
+Górnicza 
+Polimex Mostostal 
+ElectroMobility 
+Poland 
+PEC Bogatynia 
+UDZIAŁ W GŁOSACH 
+15,32% 
+16,48% 
+25,00% 
+34,93% 
+Okres zakończony 30 września 2018 
+ 
+ 
+ 
+ 
+Przychody 
+7.078 
+1.106 
+- 
+10 
+Wynik z działalności kontynuowanej 
+435 
+112 
+(5) 
+(1) 
+Udział w wyniku jednostek wykazywanych metodą praw 
+własności 
+67 
+17 
+(1) 
+- 
+Eliminacja zysków i strat niezrealizowanych 
+(28) 
+3 
+- 
+- 
+UDZIAŁ W WYNIKU JEDNOSTEK WYKAZYWANYCH METODĄ 
+PRAW WŁASNOŚCI 
+39 
+20 
+(1) 
+- 
+Pozostałe całkowite dochody 
+5 
+- 
+- 
+- 
+UDZIAŁ W WYNIKU JEDNOSTEK WYKAZYWANYCH METODĄ 
+PRAW WŁASNOŚCI W INNYCH CAŁKOWITYCH DOCHODACH 
+1 
+- 
+- 
+- 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 25 z 50 
+ 
+7. Odpisy aktualizujące wartość aktywów 
+ 
+ 
+Okres zakończony 
+Okres zakończony 
+ 
+30 września 2019 
+30 września 2018 
+ODPISY AKTUALIZUJĄCE WARTOŚĆ RZECZOWYCH AKTYWÓW TRWAŁYCH 
+ 
+ 
+Zawiązanie odpisu 
+379 
+204 
+Rozwiązanie odpisu 
+197 
+2 
+ODPISY AKTUALIZUJĄCE WARTOŚĆ PRAWA DO UŻYTKOWANIA SKŁADNIKÓW 
+AKTYWÓW 
+ 
+ 
+Zawiązanie odpisu 
+5 
+- 
+Rozwiązanie odpisu 
+- 
+- 
+ODPISY AKTUALIZUJĄCE WARTOŚĆ ZAPASÓW 
+ 
+ 
+Zawiązanie odpisu 
+43 
+6 
+Rozwiązanie odpisu 
+5 
+1 
+ 
+8. Podatek w sprawozdaniu z całkowitych dochodów 
+Główne składniki obciążenia podatkowego za okres zakończony dnia 30 września 2019 roku oraz dnia 30 września 2018 roku 
+przedstawiają się następująco: 
+ 
+ 
+Okres zakończony 
+Okres zakończony 
+ 
+30 września 2019 
+30 września 2018 
+PODATEK DOCHODOWY WYKAZYWANY W RACHUNKU ZYSKÓW I STRAT 
+ 
+ 
+Bieżący podatek dochodowy 
+382 
+395 
+Korekty dotyczące bieżącego podatku dochodowego z lat ubiegłych 
+11 
+1 
+Odroczony podatek dochodowy 
+189 
+88 
+Korekty odroczonego podatku dochodowego 
+(10) 
+(24) 
+OBCIĄŻENIA PODATKOWE WYKAZYWANE W RACHUNKU ZYSKÓW I STRAT 
+572 
+460 
+PODATEK DOCHODOWY WYKAZYWANY W INNYCH CAŁKOWITYCH DOCHODACH 
+ 
+ 
+Od zysków i strat aktuarialnych z wyceny rezerw na świadczenia pracownicze 
+(27) 
+- 
+Od wyceny instrumentów zabezpieczających 
+(13) 
+(8) 
+KORZYŚĆ PODATKOWA UJĘTA W INNYCH CAŁKOWITYCH DOCHODACH 
+(40) 
+(8) 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 26 z 50 
+ 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z SYTUACJI 
+FINANSOWEJ 
+9. Istotne zwiększenia i zmniejszenia rzeczowych aktywów trwałych i wartości 
+niematerialnych 
+W bieżącym okresie sprawozdawczym Grupa Kapitałowa PGE zakupiła rzeczowe aktywa trwałe oraz wartości niematerialne o wartości 
+4.441 mln PLN oraz prawa do użytkowania składników aktywów o wartości 27 mln PLN. Największe nakłady poniesione zostały przez 
+segment Energetyka Konwencjonalna (2.753 mln PLN) oraz segment Dystrybucja (1.360 mln PLN). Główne pozycje nakładów stanowiły: 
+budowa bloków 5 – 6 w Elektrowni Opole (902 mln PLN), budowa nowego bloku w Elektrowni Turów (318 mln PLN); przyłączenie 
+nowych odbiorców (527 mln PLN). 
+W bieżącym okresie sprawozdawczym nastąpił wzrost wartości rzeczowych aktywów trwałych z tytułu aktywowania rezerwy na koszty 
+rekultywacji o 644 mln PLN, z czego 582 mln PLN to kwota wynikająca ze zmiany stopy dyskonta. 
+W bieżącym okresie nie miały miejsca istotne transakcje sprzedaży rzeczowych aktywów trwałych. 
+10. Przyszłe zobowiązania inwestycyjne 
+Na dzień 30 września 2019 roku Grupa Kapitałowa PGE zobowiązała się ponieść nakłady na rzeczowe aktywa trwałe w kwocie około 
+4.888 mln PLN. Kwoty te przeznaczone będą głównie na budowę nowych bloków energetycznych, farm wiatrowych, na modernizację 
+majątku jednostek Grupy oraz zakup maszyn i urządzeń. 
+ 
+ 
+Stan na dzień 
+30 września 2019 
+Stan na dzień 
+31 grudnia 2018 
+* dane przekształcone 
+Energetyka Konwencjonalna 
+2.426 
+3.694 
+Dystrybucja 
+1.661 
+1.199 
+Energetyka Odnawialna 
+434 
+177 
+Ciepłownictwo 
+199 
+114 
+Działalność pozostała 
+168 
+187 
+PRZYSZŁE ZOBOWIĄZANIA INWESTYCYJNE, RAZEM 
+4.888 
+5.371 
+*przekształcenie związane głównie z wydzieleniem segmentu Ciepłownictwo 
+ 
+ 
+ 
+Najbardziej istotne przyszłe zobowiązania inwestycyjne dotyczą: 
+ 
+Energetyka Konwencjonalna: 
+ 
+Oddział Elektrownia Turów – budowa nowego bloku nr 7 – około 1.072 mln PLN, 
+ 
+Oddział Elektrownia Turów – modernizacja bloków nr 1-3 – około 158 mln PLN, 
+ 
+Oddział Elektrownia Opole – modernizacja bloków nr 1-4 – około 246 mln PLN, 
+ 
+Oddział Elektrownia Bełchatów – modernizacja instalacji odsiarczania spalin – około 341 mln PLN. 
+ 
+Dystrybucja – zobowiązania inwestycyjne związane głównie z majątkiem sieciowym w łącznej wysokości około 1.661 mln PLN, 
+ 
+Energetyka Odnawialna – zobowiązania inwestycyjne związane głównie z zaprojektowaniem i budową farm wiatrowych Starza, 
+Rybice i Karnice II – około 362 mln PLN, 
+ 
+Działalność pozostała, PGE EJ 1 sp. z o.o. – umowa na usługi doradztwa technicznego w procesie inwestycyjnym związanym 
+z budową pierwszej polskiej elektrowni jądrowej, zakres podstawowy 157 mln PLN. Opcjonalny zakres umowy uwzględnia 
+kwotę około 1.120 mln PLN. 
+PGE EJ 1 sp. z o.o. jest spółką Grupy Kapitałowej PGE, odpowiadającą za bezpośrednie przygotowanie procesu inwestycyjnego 
+polegające na przeprowadzeniu badań środowiskowych i lokalizacyjnych oraz uzyskaniu wszelkich niezbędnych decyzji warunkujących 
+budowę pierwszej polskiej elektrowni jądrowej oraz realizację inwestycji. 
+Decyzje o realizacji Programu budowy pierwszej polskiej elektrowni jądrowej będą podejmowane w kontekście decyzji Ministerstwa 
+Energii dotyczących modelu pozyskania technologii dla elektrowni jądrowej, modelu finansowania inwestycji oraz kształtu 
+zaktualizowanego Programu Polskiej Energetyki Jądrowej. 
+Aktualny zakres Programu prowadzonego przez PGE EJ 1 sp. z o.o. zakłada przeprowadzenie prac badań lokalizacyjnych 
+i środowiskowych w dwóch potencjalnych lokalizacjach Lubiatowo – Kopalino, Żarnowiec oraz wykonanie Raportu Oceny Oddziaływania 
+na Środowisko oraz Raportu Lokalizacyjnego. Grupa PGE zamierza w dalszym ciągu udzielać wsparcia finansowego spółce 
+PGE EJ 1 sp. z o.o. niezbędnego do kontynuowania prac w ramach aktualnego zakresu prac przygotowawczych Programu. Decyzja 
+o samej realizacji inwestycji polegającej na wybudowaniu elektrowni jądrowej uzależniona jest m.in. od przygotowania dedykowanego 
+modelu finansowania takiej inwestycji. 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 27 z 50 
+ 
+11. Udziały i akcje wykazywane metodą praw własności 
+ 
+Stan na dzień 
+30 września 2019 
+Stan na dzień 
+31 grudnia 2018 
+Polska Grupa Górnicza sp. z o.o., Katowice 
+667 
+640 
+Polimex - Mostostal S.A., Warszawa 
+110 
+108 
+ElectroMobility Poland S.A., Warszawa, 
+14 
+15 
+PEC Bogatynia sp. z o.o., Bogatynia 
+8 
+8 
+Energopomiar sp. z o.o., Gliwice 
+12 
+5 
+UDZIAŁY I AKCJE WYKAZYWANE METODĄ PRAW WŁASNOŚCI 
+811 
+776 
+ 
+ 
+Polska Grupa 
+Górnicza 
+Polimex 
+Mostostal 
+ElectroMobility 
+Poland 
+PEC Bogatynia 
+Energopomiar 
+UDZIAŁ W GŁOSACH 
+15,32% 
+16,48% 
+25,00% 
+34,93% 
+49,79% 
+STAN NA DZIEŃ 30 WRZEŚNIA 2019 
+ 
+ 
+ 
+ 
+ 
+Aktywa obrotowe 
+2.499 
+911 
+44 
+3 
+25 
+Aktywa trwałe 
+10.546 
+711 
+14 
+21 
+17 
+Zobowiązania krótkoterminowe 
+3.852 
+642 
+1 
+1 
+8 
+Zobowiązania długoterminowe 
+4.840 
+407 
+- 
+- 
+10 
+AKTYWA NETTO 
+4.353 
+573 
+57 
+23 
+24 
+Udział w aktywach netto 
+666 
+94 
+14 
+8 
+12 
+Wartość firmy 
+1 
+16 
+- 
+- 
+- 
+UDZIAŁY I AKCJE WYKAZYWANE METODĄ PRAW 
+WŁASNOŚCI 
+667 
+110 
+14 
+8 
+12 
+ 
+ 
+Polska Grupa 
+Górnicza 
+Polimex 
+Mostostal 
+ElectroMobility 
+Poland 
+PEC Bogatynia 
+Energopomiar 
+UDZIAŁ W GŁOSACH 
+15,32% 
+16,48% 
+25,00% 
+34,93% 
+47,30% 
+STAN NA DZIEŃ 31 GRUDNIA 2018 
+ 
+ 
+ 
+ 
+ 
+Aktywa obrotowe 
+2.759 
+1.223 
+52 
+5 
+31 
+Aktywa trwałe 
+9.528 
+713 
+9 
+22 
+19 
+Zobowiązania krótkoterminowe 
+3.679 
+840 
+2 
+2 
+18 
+Zobowiązania długoterminowe 
+4.435 
+538 
+- 
+1 
+9 
+AKTYWA NETTO 
+4.173 
+558 
+59 
+24 
+23 
+Udział w aktywach netto 
+639 
+92 
+15 
+8 
+11 
+Wartość firmy 
+1 
+16 
+- 
+- 
+(6) 
+UDZIAŁY I AKCJE WYKAZYWANE METODĄ PRAW 
+WŁASNOŚCI 
+640 
+108 
+15 
+8 
+5 
+ 
+12. Podatek odroczony w sprawozdaniu z sytuacji finansowej 
+12.1 
+Aktywa z tytułu podatku odroczonego 
+ 
+ 
+Stan na dzień 
+Stan na dzień 
+ 
+30 września 2019 
+31 grudnia 2018 
+Różnica pomiędzy podatkową a bieżącą wartością księgową rzeczowych aktywów 
+trwałych 
+1.978 
+1.985 
+Różnica między podatkową a bieżącą wartością praw do użytkowania 
+161 
+- 
+Różnica pomiędzy podatkową a bieżącą wartością księgową aktywów 
+finansowych 
+124 
+65 
+Różnica pomiędzy podatkową a bieżącą wartością księgową zobowiązań 
+342 
+301 
+Różnica pomiędzy podatkową a bieżącą wartością księgową zapasów 
+20 
+24 
+Rekompensaty z tytułu rozwiązania KDT 
+90 
+61 
+Zobowiązania z tytułu szacunku obniżenia przychodów – Ustawa o cenach prądu 
+58 
+- 
+Rezerwa na koszty rekultywacji 
+691 
+549 
+Rezerwa na zakup uprawnień do emisji CO2 
+528 
+365 
+Rezerwy na świadczenia pracownicze 
+670 
+604 
+Pozostałe rezerwy 
+148 
+131 
+Nieodpłatnie otrzymana infrastruktura i otrzymane opłaty przyłączeniowe 
+32 
+34 
+Pozostałe 
+76 
+49 
+AKTYWA Z TYTUŁU ODROCZONEGO PODATKU DOCHODOWEGO 
+4.918 
+4.168 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 28 z 50 
+ 
+12.2 
+Zobowiązania z tytułu podatku odroczonego 
+ 
+ 
+Stan na dzień 
+Stan na dzień 
+ 
+30 września 2019 
+31 grudnia 2018 
+Różnica pomiędzy podatkową a bieżącą wartością księgową rzeczowych aktywów 
+trwałych 
+4.674 
+4.265 
+Różnica między podatkową a bieżącą wartością zobowiązań leasingowych 
+167 
+- 
+Różnica pomiędzy podatkową a bieżącą wartością księgową praw majątkowych 
+pochodzenia energii 
+24 
+48 
+Różnica pomiędzy podatkową a bieżącą wartością księgową aktywów 
+finansowych 
+471 
+399 
+Różnica pomiędzy podatkową a bieżącą wartością księgową zobowiązań 
+14 
+47 
+Uprawnienia do emisji CO2 
+484 
+302 
+Rekompensaty z tytułu rozwiązania KDT 
+- 
+23 
+Należności z tytułu rozpoznanych rekompensat – Ustawa o cenach prądu 
+189 
+- 
+Pozostałe 
+99 
+148 
+ZOBOWIĄZANIE Z TYTUŁU PODATKU ODROCZONEGO 
+6.122 
+5.232 
+ 
+PO SKOMPENSOWANIU AKTYWA I REZERWY W POSZCZEGÓLNYCH SPÓŁKACH PODATEK ODROCZONY GRUPY PREZENTOWANY JEST JAKO: 
+Aktywa z tytułu podatku odroczonego 
+627 
+552 
+Zobowiązania z tytułu podatku odroczonego 
+(1.831) 
+(1.616) 
+ 
+13. Zapasy 
+ 
+Stan na dzień 
+Stan na dzień 
+ 
+30 września 2019 
+31 grudnia 2018 
+Materiały remontowo-eksploatacyjne 
+644 
+640 
+Węgiel kamienny 
+1.046 
+959 
+Mazut 
+37 
+52 
+Pozostałe materiały 
+58 
+62 
+RAZEM MATERIAŁY 
+1.785 
+1.713 
+Prawa majątkowe zielone 
+1.093 
+576 
+Prawa majątkowe żółte 
+- 
+169 
+Prawa majątkowe białe 
+52 
+1 
+Pozostałe prawa majątkowe 
+8 
+13 
+RAZEM PRAWA POCHODZENIA ENERGII 
+1.153 
+759 
+Węgiel kamienny 
+87 
+140 
+Uprawnienia do emisji CO2 
+1.350 
+4 
+Pozostałe towary 
+30 
+15 
+RAZEM TOWARY 
+1.467 
+159 
+POZOSTAŁE ZAPASY 
+74 
+68 
+RAZEM ZAPASY 
+4.479 
+2.699 
+ 
+Jak opisano w nocie 24.2 niniejszego skonsolidowanego sprawozdania finansowego w pozycji Uprawnienia do emisji CO2 zostały ujęte 
+EUA z dodatkowego przydziału uprawnień do emisji CO2 za lata 2013-2017. Uprawnienia wyceniane są na każdy dzień sprawozdawczy 
+do wartości godziwej. Ich wartość godziwa wynosi na 30 września 2019 roku 1.348 mln PLN. Uprawnienia te są przeznaczone do 
+działalności tradingowej. 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 29 z 50 
+ 
+14. Uprawnienia do emisji CO2 na własne potrzeby 
+Uprawnienia do emisji CO2 (EUA) otrzymują jednostki wytwórcze należące do Grupy Kapitałowej PGE, które są objęte postanowieniami 
+ustawy z dnia 12 czerwca 2015 roku o systemie handlu uprawnieniami do emisji gazów cieplarnianych. Począwszy od 2013 roku 
+bezwarunkowo przyznawana jest tylko część uprawnień EUA na emisje CO2 wynikające z produkcji energii cieplnej, natomiast na emisje 
+CO2 wynikające z produkcji energii elektrycznej co do zasady nie ma bezpłatnych EUA. Na mocy art. 10c Dyrektywy 2009/29/WE 
+wprowadzono możliwość czasowego odstępstwa (derogacji) od zasady braku nieodpłatnych przydziałów EUA na emisje CO2 związane 
+z wytwarzaną energią elektryczną, pod warunkiem realizacji zadań inwestycyjnych ujętych w Krajowym Planie Inwestycyjnym (KPI). 
+Warunkiem otrzymania bezpłatnych uprawnień EUA na pokrycie emisji CO2 związanych z wytwarzaną energią elektryczną jest coroczne 
+przedstawienie sprawozdań rzeczowo-finansowych z realizacji zadań wymienionych w KPI. 
+We wrześniu 2018 roku Grupa Kapitałowa PGE złożyła sprawozdania z realizacji inwestycji ujętych w KPI w celu uzyskania przydziałów 
+EUA na emisje CO2 związane z wytwarzaną energią elektryczną w 2018 roku. Uprawnienia zostały wydane w kwietniu 2019 roku. Grupa 
+otrzymała 14 mln EUA dla roku 2018 oraz dodatkowy przydział uprawnień za lata 2013-2017 w ilości 11 mln EUA (przeznaczone do 
+działalności tradingowej), co zostało opisane w nocie 24.2 niniejszego sprawozdania finansowego. 
+W przypadku uprawnień EUA na emisje CO2 związane z wytwarzaną energią cieplną harmonogram przydziału jest odmienny – w lutym 
+2019 roku zostały wydane uprawnienia EUA, które posłużą na pokrycie emisji CO2 za 2019 rok (1 mln EUA). 
+We wrześniu 2019 roku Grupa Kapitałowa PGE złożyła kolejne sprawozdania z realizacji inwestycji ujętych w KPI w celu uzyskania 
+przydziałów EUA na emisje CO2 dla instalacji wytwarzających energię elektryczną, uzasadnionych wydatkami poniesionymi na realizację 
+zadań inwestycyjnych ujętych w KPI w okresie od 1 lipca 2018 roku do 30 czerwca 2019 roku. Ocena formalna złożonych dokumentów 
+powinna zakończyć się do 30 listopada 2019 roku. 
+ 
+ 
+Stan na dzień 30 września 2019 
+Stan na dzień 31 grudnia 2018 
+EUA 
+Długoterminowe 
+Krótkoterminowe 
+Długoterminowe 
+Krótkoterminowe 
+Ilość (mln Mg) 
+3 
+18 
+18 
+19 
+Wartość 
+240 
+1.019 
+1.203 
+408 
+ 
+Zmiana stanu uprawnień do emisji CO2 na własne potrzeby 
+EUA 
+ 
+Ilość (mln Mg) 
+ 
+Wartość 
+STAN NA DZIEŃ 1 STYCZNIA 2018 
+ 
+62 
+ 
+1.442 
+Zakup 
+ 
+39 
+ 
+1.714 
+Przyznane nieodpłatnie 
+ 
+17 
+ 
+- 
+Umorzenie 
+ 
+(70) 
+ 
+(1.311) 
+Sprzedaż 
+ 
+(11) 
+ 
+(234) 
+STAN NA DZIEŃ 31 GRUDNIA 2018 
+ 
+37 
+ 
+1.611 
+Zakup 
+ 
+40 
+ 
+1.531 
+Przyznane nieodpłatnie 
+ 
+15 
+ 
+- 
+Umorzenie 
+ 
+(70) 
+ 
+(1.803) 
+Reklasyfikacja do zapasów 
+ 
+(1) 
+ 
+(80) 
+STAN NA DZIEŃ 30 WRZEŚNIA 2019 
+ 
+21 
+ 
+1.259 
+ 
+15. Wybrane aktywa finansowe 
+Wartość księgowa aktywów finansowych wycenianych wg zamortyzowanego kosztu nie odbiega istotnie od ich wartości godziwej. 
+15.1 
+Należności z tytułu dostaw i usług i pozostałe należności finansowe 
+ 
+ 
+Stan na dzień 30 września 2019 
+Stan na dzień 31 grudnia 2018 
+ 
+Długoterminowe 
+Krótkoterminowe 
+Długoterminowe 
+Krótkoterminowe 
+Należności z tytułu dostaw i usług 
+- 
+3.095 
+- 
+3.155 
+Należności z tytułu rozpoznanych rekompensat na 
+podstawie Ustawy o cenach prądu 
+- 
+1.007 
+- 
+- 
+Lokaty i depozyty 
+173 
+6 
+161 
+7 
+Kaucje, wadia i zabezpieczenia 
+- 
+533 
+1 
+694 
+Odszkodowania i kary 
+- 
+109 
+- 
+193 
+Pozostałe należności finansowe 
+6 
+65 
+6 
+53 
+NALEŻNOŚCI FINANSOWE, RAZEM 
+179 
+4.815 
+168 
+4.102 
+ 
+Kaucje, wadia i zabezpieczenia dotyczą głównie depozytów zabezpieczających i transakcyjnych oraz funduszu gwarancyjnego związane 
+z transakcjami na rynku energii elektrycznej i CO2. 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 30 z 50 
+ 
+15.2 
+Środki pieniężne i ich ekwiwalenty 
+Lokaty krótkoterminowe są dokonywane na różne okresy, z reguły od jednego dnia do jednego miesiąca, w zależności od aktualnego 
+zapotrzebowania Grupy na środki pieniężne. 
+Saldo środków pieniężnych i ich ekwiwalentów składa się z następujących pozycji: 
+ 
+ 
+ 
+Stan na dzień 
+30 września 2019 
+Stan na dzień 
+31 grudnia 2018 
+Środki pieniężne w banku i kasie 
+1.478 
+1.023 
+Lokaty typu overnight 
+18 
+33 
+Lokaty krótkoterminowe 
+184 
+156 
+Środki na rachunkach VAT 
+61 
+69 
+RAZEM 
+1.741 
+1.281 
+Odsetki naliczone od środków pieniężnych, nie otrzymane na dzień sprawozdawczy 
+- 
+- 
+Różnice kursowe od środków pieniężnych w walutach 
+(2) 
+(2) 
+Saldo środków pieniężnych i ekwiwalentów wykazanych w rachunku przepływów 
+1.739 
+1.279 
+ 
+ 
+ 
+Pozostające do dyspozycji limity kredytowe 
+4.689 
+8.312 
+w tym limity kredytowe w rachunku bieżącym 
+347 
+934 
+ 
+Szczegółowy opis zawartych umów kredytowych został opisany w nocie 19.1 niniejszego sprawozdania finansowego. 
+W wartości środków pieniężnych zawarte są środki pieniężne o ograniczonej możliwości dysponowania w kwocie 699 mln PLN (98 mln 
+PLN w okresie porównawczym) na rachunkach klientów PGE Dom Maklerski S.A. stanowiące zabezpieczenie rozliczeń z Izbą 
+Rozliczeniową Giełd Towarowych S.A., środki na rachunkach VAT w kwocie 61 mln PLN (69 mln PLN w okresie porównawczym) oraz 
+20 mln z tytułu kaucji i wadiów (13 mln PLN w okresie porównawczym). 
+16. Instrumenty pochodne i inne aktywa wyceniane w wartości godziwej przez wynik 
+ 
+ 
+Stan na dzień 30 września 2019 
+Stan na dzień 31 grudnia 2018 
+ 
+Aktywa 
+Zobowiązania 
+Aktywa 
+Zobowiązania 
+INSTRUMENTY FINANSOWE WYCENIANE 
+W WARTOŚCI GODZIWEJ 
+ 
+ 
+ 
+ 
+Forward walutowy 
+33 
+47 
+18 
+11 
+Forward towarowy na zakup CO2 
+203 
+2 
+6 
+- 
+SWAP towarowy 
+9 
+49 
+4 
+46 
+Kontrakty na zakup/sprzedaż węgla 
+5 
+2 
+2 
+7 
+Opcje 
+6 
+- 
+12 
+- 
+INSTRUMENTY POCHODNE ZABEZPIECZAJĄCE 
+ 
+ 
+ 
+ 
+Transakcje zabezpieczające CCIRS 
+47 
+- 
+113 
+- 
+Transakcje zabezpieczające IRS 
+- 
+158 
+4 
+24 
+Forward walutowy USD 
+- 
+- 
+2 
+- 
+Forward walutowy EUR 
+61 
+47 
+4 
+48 
+POZOSTAŁE AKTYWA WYCENIANE W WARTOŚCI 
+GODZIWEJ PRZEZ WYNIK FINANSOWY 
+ 
+ 
+ 
+ 
+Jednostki uczestnictwa i certyfikaty 
+84 
+- 
+66 
+- 
+INSTRUMENTY POCHODNE, RAZEM 
+448 
+305 
+231 
+136 
+część krótkoterminowa 
+296 
+146 
+114 
+110 
+część długoterminowa 
+152 
+159 
+117 
+26 
+ 
+Forwardy towarowe i walutowe 
+Transakcje terminowe towarowe i walutowe związane są przede wszystkim z handlem uprawnieniami do emisji CO2 oraz zakupem 
+i sprzedażą węgla. 
+Opcje 
+20 stycznia 2017 roku PGE S.A. nabyła od Towarzystwa Finansowego Silesia sp. z o.o. opcję call na zakup akcji Polimex-Mostostal S.A. 
+Opcja została wyceniona z wykorzystaniem metody Blacka-Scholesa. Terminy realizacji opcji ustalono na: 30 lipca 2020 roku, 30 lipca 
+2021 roku i 30 lipca 2022 roku. 
+Swapy na węgiel 
+PGE Paliwa sp. z o.o. w celu zabezpieczenia swojego ryzyka towarowego na cenę węgla importowanego, zawiera transakcje 
+zabezpieczające to ryzyko za pomocą swapów towarowych na węgiel. Ilość i wartość transakcji jest skorelowana z ilością i wartością 
+importowanego węgla. Zmiana z tytułu wartości godziwej ujmowana jest w rachunku zysków i strat. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 31 z 50 
+ 
+Kontrakty zakupowe i sprzedażowe z fizyczną dostawą węgla 
+PGE Paliwa sp. z o.o. wycenia wszystkie kontrakty na sprzedaż i zakup węgla z fizyczną dostawą w modelu tradera-brokera do wartości 
+godziwej. Na dzień sprawozdawczy spółka posiada kontrakty, których terminy realizacji przypadają do grudnia 2020 roku. 
+Transakcje IRS 
+PGE S.A. zawarła transakcje IRS zabezpieczające stopę procentową od zaciągniętych kredytów o łącznej wartości nominalnej 6.130 mln 
+PLN. Dla ujęcia powyższych transakcji IRS Grupa stosuje rachunkowość zabezpieczeń. Wpływ rachunkowości zabezpieczeń na kapitał 
+z aktualizacji wyceny został przedstawiony w nocie 17.2 niniejszego skonsolidowanego sprawozdania finansowego. 
+Transakcje zabezpieczające CCIRS 
+W związku z zawarciem pożyczek ze spółką PGE Sweden AB (publ), PGE S.A. zawarła transakcje CCIRS, zabezpieczające kurs walutowy 
+spłaty kapitału i odsetek oraz stopę procentową. W transakcjach tych banki-kontrahenci płacą PGE S.A. odsetki oparte na stopie stałej 
+w EUR, a PGE S.A. płaci odsetki oparte na stopie stałej w PLN. W skonsolidowanym sprawozdaniu finansowym odpowiednia część 
+transakcji CCIRS traktowana jest jako zabezpieczenie obligacji wyemitowanych przez PGE Sweden AB (publ). 
+W bieżącym okresie nastąpił częściowy wykup obligacji PGE Sweden i transakcja ją zabezpieczająca CCIRS została rozliczona. 
+Dla ujęcia powyższej transakcji CCIRS Grupa Kapitałowa PGE stosuje rachunkowość zabezpieczeń. Wpływ rachunkowości zabezpieczeń 
+na kapitał z aktualizacji wyceny został przedstawiony w nocie 17.2 niniejszego sprawozdania finansowego. 
+17. Kapitały własne 
+Podstawowym założeniem polityki Grupy w zakresie zarządzania kapitałami jest utrzymanie optymalnej struktury kapitału w długim 
+okresie, zapewnienie dobrego standingu finansowego i bezpiecznych wskaźników struktury kapitału, które wspierałyby działalność 
+operacyjną Grupy Kapitałowej PGE. Istotne jest także utrzymanie silnej bazy kapitałowej, będącej podstawą budowania zaufania 
+ze strony przyszłych inwestorów, kredytodawców oraz rynku i zapewniającej przyszły rozwój Grupy Kapitałowej. 
+17.1 
+Kapitał podstawowy 
+ 
+ 
+Stan na dzień 
+Stan na dzień 
+ 
+30 września 2019 
+31 grudnia 2018 
+1.470.576.500 akcji zwykłych serii A o wartości nominalnej 10,25 złotych każda 
+15.073 
+15.073 
+259.513.500 akcji zwykłych serii B o wartości nominalnej 10,25 złotych każda 
+2.660 
+2.660 
+73.228.888 akcji zwykłych serii C o wartości nominalnej 10,25 złotych każda 
+751 
+751 
+66.441.941 akcji zwykłych serii D o wartości nominalnej 10,25 złotych każda 
+681 
+681 
+RAZEM KAPITAŁ PODSTAWOWY 
+19.165 
+19.165 
+ 
+Wszystkie akcje Spółki zostały opłacone. 
+Po dniu sprawozdawczym do dnia sporządzenia niniejszego skonsolidowanego sprawozdania finansowego nie wystąpiły zmiany 
+w wysokości kapitału podstawowego Spółki. 
+Prawa akcjonariuszy - Uprawnienia Skarbu Państwa dotyczące działalności Spółki 
+Spółka wchodzi w skład Grupy Kapitałowej PGE Polska Grupa Energetyczna S.A., w stosunku do której Skarb Państwa posiada szczególne 
+uprawnienia, dopóki pozostaje jej akcjonariuszem. 
+Szczególne uprawnienia Skarbu Państwa, które mogą mieć zastosowanie do spółek z Grupy Kapitałowej PGE, przewiduje ustawa z dnia 
+18 marca 2010 roku o szczególnych uprawnieniach ministra właściwego do spraw energii oraz ich wykonywaniu w niektórych spółkach 
+kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych 
+(tj. Dz. U. z 2016 roku, poz. 2012). Ustawa określa szczególne uprawnienia przysługujące ministrowi właściwemu do spraw energii 
+w spółkach kapitałowych lub grupach kapitałowych, prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz 
+paliw gazowych, których mienie zostało ujawnione w jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących w skład 
+infrastruktury krytycznej. 
+Na podstawie przedmiotowych przepisów minister właściwy do spraw energii, może wyrazić sprzeciw wobec podjętej przez Zarząd 
+uchwały lub innej dokonanej przez Zarząd czynności prawnej, której przedmiotem jest rozporządzenie składnikiem mienia stanowiące 
+zagrożenie dla funkcjonowania, ciągłości działania oraz integralności infrastruktury krytycznej. Sprzeciwem mogą być objęte również 
+uchwały organu spółki dotyczące: 
+ 
+rozwiązania spółki, 
+ 
+zmiany przeznaczenia lub zaniechania eksploatacji składnika mienia wchodzącego w skład infrastruktury krytycznej, 
+ 
+zmiany przedmiotu przedsiębiorstwa spółki, 
+ 
+zbycia albo wydzierżawienia przedsiębiorstwa lub jego zorganizowanej części oraz ustanowienia na nich ograniczonego prawa 
+rzeczowego, 
+ 
+przyjęcia planu rzeczowo-finansowego, planu działalności inwestycyjnej lub wieloletniego planu strategicznego, 
+ 
+przeniesienia siedziby spółki za granicę, 
+jeżeli wykonanie takiej uchwały stanowiłoby rzeczywiste zagrożenie dla funkcjonowania, ciągłości działania oraz integralności 
+infrastruktury krytycznej. Sprzeciw wyrażany jest w formie decyzji administracyjnej. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 32 z 50 
+ 
+17.2 
+Kapitał z wyceny instrumentów finansowych 
+ 
+ 
+Okres zakończony 
+30 września 2019 
+Rok zakończony 
+31 grudnia 2018 
+NA DZIEŃ 1 STYCZNIA 
+(52) 
+83 
+Zmiana kapitału z wyceny instrumentów finansowych: 
+(67) 
+(166) 
+ Wycena instrumentów zabezpieczających w tym: 
+(66) 
+(158) 
+ 
+ 
+Odroczenie zmian wartości godziwej zabezpieczających instrumentów finansowych 
+w części uznanej za skuteczne zabezpieczenie 
+(149) 
+(62) 
+ 
+ 
+Naliczone odsetki na instrumencie pochodnym przeniesione z kapitału 
+z wyceny i ujęte w kosztach odsetkowych 
+1 
+(10) 
+ 
+ 
+Rewaluacja walutowa transakcji CCIRS przeniesiona z kapitału i ujęta w wyniku 
+z różnic kursowych 
+74 
+(85) 
+ 
+ 
+Nieefektywna część zmiany wyceny do wartości godziwej transakcji 
+zabezpieczających zaprezentowana w rachunku zysków i strat 
+8 
+(1) 
+ Wycena pozostałych instrumentów finansowych 
+(1) 
+(8) 
+Podatek odroczony 
+13 
+31 
+KAPITAŁ Z WYCENY INSTRUMENTÓW FINANSOWYCH 
+PO UWZGLĘDNIENIU PODATKU ODROCZONEGO 
+(106) 
+(52) 
+ 
+Na kapitał z wyceny instrumentów finansowych składa się w głównej mierze wycena z tytułu wdrożonej rachunkowości zabezpieczeń 
+przepływów pieniężnych. 
+17.3 
+Dywidendy wypłacone i zaproponowane do zapłaty 
+11 maja 2017 roku Zarząd Spółki podjął decyzję o zmianie polityki dywidendy. Wobec konieczności finansowania ambitnego programu 
+rozwoju, mając na względzie ograniczenie wzrostu poziomu zadłużenia, Zarząd Spółki rekomendował zawieszenie wypłaty dywidendy 
+z zysków za lata 2016, 2017 i 2018. 
+Po tym okresie Zarząd Spółki zamierza rekomendować Walnemu Zgromadzeniu Spółki wypłatę dywidendy dla akcjonariuszy na 
+poziomie 40-50% skonsolidowanego zysku netto przypadającego dla akcjonariuszy jednostki dominującej, korygowanego o wielkość 
+odpisów aktualizujących wartość rzeczowych aktywów trwałych oraz wartości niematerialnych. Wypłata każdej dywidendy będzie 
+uzależniona w szczególności od ogólnej wysokości zadłużenia Spółki, spodziewanych nakładów kapitałowych i potencjalnych akwizycji. 
+18. Rezerwy 
+Wartość księgowa rezerw przedstawia się następująco: 
+ 
+ 
+Stan na dzień 30 września 2019 
+Stan na dzień 31 grudnia 2018 
+ 
+Długoterminowe 
+Krótkoterminowe Długoterminowe 
+Krótkoterminowe 
+Świadczenia pracownicze 
+2.631 
+237 
+2.460 
+245 
+Rezerwa na koszty rekultywacji 
+4.778 
+2 
+3.763 
+3 
+Rezerwa na niedobór uprawnień do emisji CO2 
+123 
+2.655 
+119 
+1.802 
+Rezerwy na wartość praw majątkowych 
+przeznaczonych do umorzenia 
+- 
+557 
+- 
+423 
+Roszczenia z tytułu bezumownego korzystania 
+z nieruchomości 
+62 
+10 
+63 
+10 
+Pozostałe rezerwy 
+23 
+108 
+23 
+125 
+RAZEM REZERWY 
+7.617 
+3.569 
+6.428 
+2.608 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 33 z 50 
+ 
+Zmiany stanu rezerw 
+ 
+Świadczenia 
+pracownicze 
+Rezerwa na 
+koszty 
+rekultywacji 
+Rezerwa na 
+niedobór 
+uprawnień 
+do emisji CO2 
+Rezerwa 
+na prawa 
+majątkowe 
+przeznaczone 
+do umorzenia 
+Rezerwa na 
+bezumowne 
+korzystanie z 
+nieruchomości 
+Pozostałe 
+Razem 
+1 STYCZNIA 2019 
+2.705 
+3.766 
+1.921 
+423 
+73 
+148 
+9.036 
+Koszty bieżącego zatrudnienia 
+67 
+- 
+- 
+- 
+- 
+- 
+67 
+Koszty przeszłego zatrudnienia 
+(3) 
+- 
+- 
+- 
+- 
+- 
+(3) 
+Koszty odsetek 
+59 
+90 
+- 
+- 
+- 
+- 
+149 
+Zmiana stopy dyskontowej 
+178 
+828 
+- 
+- 
+- 
+- 
+1.006 
+Wypłacone świadczenia / 
+Wykorzystane rezerwy 
+(138) 
+(1) 
+(1.803) 
+(420) 
+- 
+(18) 
+(2.380) 
+Rozwiązane rezerwy 
+- 
+(1) 
+(4) 
+(5) 
+(8) 
+(31) 
+(49) 
+Utworzone rezerwy - koszty 
+- 
+32 
+2.663 
+548 
+7 
+35 
+3.285 
+Utworzone rezerwy - nakłady 
+- 
+63 
+- 
+- 
+- 
+- 
+63 
+Pozostałe zmiany 
+- 
+3 
+1 
+11 
+- 
+(3) 
+12 
+30 WRZEŚNIA 2019 
+2.868 
+4.780 
+2.778 
+557 
+72 
+131 
+11.186 
+Z uwagi na zmianę rynkowych stóp procentowych Grupa Kapitałowa PGE zaktualizowała w bieżącym okresie stopę dyskonta użytą do 
+wyceny rezerwy na koszty rekultywacji oraz rezerwy na świadczenia pracownicze. Stopa dyskonta dla rezerwy na koszty rekultywacji 
+wyrobisk kopalnianych wynosi 3,0% (względem 3,7% na 31 grudnia 2018 roku). Natomiast stopa dyskonta dla rezerwy na świadczenia 
+pracownicze oraz pozostałych rezerw na koszty rekultywacji wynosi 2,4% (względem 3,0% na 31 grudnia 2018 roku). Zmiany stopy 
+dyskonta spowodowały: 
+ 
+Zwiększenie rezerwy na koszty rekultywacji ujętej drugostronnie w pozostałe koszty operacyjne w wysokości 246 mln PLN; 
+ 
+Zwiększenie rezerwy na koszty rekultywacji ujętej drugostronnie jako zwiększenie rzeczowych aktywów trwałych 
+w wysokości 582 mln PLN; 
+ 
+Zwiększenie rezerw po okresie zatrudnienia ujętych drugostronnie jako zmniejszenie innych całkowitych dochodów 
+w wysokości 142 mln PLN; 
+ 
+Zwiększenie rezerw na nagrody jubileuszowe ujętych drugostronnie w kosztach operacyjnych w wysokości 36 mln PLN. 
+ 
+ 
+ 
+Świadczenia 
+pracownicze 
+Rezerwa 
+na koszty 
+rekultywacji 
+Rezerwa 
+na niedobór 
+uprawnień 
+do emisji CO2 
+Rezerwa 
+na prawa 
+majątkowe 
+przeznaczone 
+do umorzenia 
+Rezerwa na 
+bezumowne 
+korzystanie z 
+nieruchomości 
+Pozostałe 
+Razem 
+1 STYCZNIA 2018 
+2.529 
+3.086 
+1.453 
+340 
+83 
+151 
+7.642 
+Zyski i straty aktuarialne 
+179 
+- 
+- 
+- 
+- 
+- 
+179 
+Koszty bieżącego zatrudnienia 
+94 
+- 
+- 
+- 
+- 
+- 
+94 
+Koszty przeszłego zatrudnienia 
+(105) 
+- 
+- 
+- 
+- 
+- 
+(105) 
+Koszty odsetek 
+86 
+103 
+- 
+- 
+- 
+- 
+189 
+Zmiana stopy dyskontowej i innych 
+założeń 
+100 
+242 
+- 
+- 
+- 
+- 
+342 
+Wypłacone świadczenia / Wykorzystane 
+rezerwy 
+(181) 
+(1) 
+(1.311) 
+(769) 
+- 
+(17) 
+(2.279) 
+Rozwiązane rezerwy 
+- 
+(1) 
+(29) 
+(9) 
+(18) 
+(85) 
+(142) 
+Utworzone rezerwy - koszty 
+- 
+276 
+1.808 
+861 
+8 
+94 
+3.047 
+Utworzone rezerwy - nakłady 
+- 
+58 
+- 
+- 
+- 
+- 
+58 
+Nabycie nowych spółek zależnych 
+1 
+- 
+- 
+- 
+- 
+6 
+7 
+Pozostałe zmiany 
+2 
+3 
+- 
+- 
+- 
+(1) 
+4 
+31 GRUDNIA 2018 
+2.705 
+3.766 
+1.921 
+423 
+73 
+148 
+9.036 
+18.1 
+Rezerwa na świadczenia pracownicze 
+Rezerwy na świadczenia pracownicze obejmują głównie: 
+ 
+świadczenia pracownicze po okresie zatrudnienia – 2.004 mln PLN (1.845 mln PLN na 31 grudnia 2018 roku), 
+ 
+nagrody jubileuszowe - 864 mln PLN (860 mln PLN na 31 grudnia 2018 roku). 
+18.2 
+Rezerwa na koszty rekultywacji 
+Rezerwa na rekultywację wyrobisk kopalnianych 
+Grupa Kapitałowa PGE tworzy rezerwy na rekultywację wyrobisk końcowych. Kwota rezerwy prezentowana w sprawozdaniu 
+finansowym obejmuje również wartość Funduszu Likwidacji Zakładu Górniczego tworzonego zgodnie z ustawą Prawo geologiczne 
+i górnicze. Wartość rezerwy na dzień 30 września 2019 roku wynosi 4.288 mln PLN, a na dzień 31 grudnia 2018 roku 3.338 mln PLN. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 34 z 50 
+ 
+Rezerwa na rekultywację składowisk popiołów 
+Jednostki wytwórcze tworzą rezerwę na rekultywację składowisk odpadów paleniskowych. Wartość rezerwy na dzień sprawozdawczy 
+wynosi 233 mln PLN, a na dzień 31 grudnia 2018 roku 195 mln PLN. 
+Rezerwa na rekultywację terenów po farmach wiatrowych 
+Spółki będące właścicielami farm wiatrowych tworzą rezerwy na rekultywację terenów. Wartość rezerwy na dzień sprawozdawczy 
+wynosi 56 mln PLN, a na 31 grudnia 2018 roku 49 mln PLN. 
+Koszty likwidacji rzeczowych aktywów trwałych 
+Obowiązek przeprowadzenia likwidacji i rekultywacji terenu wynika z „Pozwolenia zintegrowanego na prowadzenie instalacji 
+produkującej energię elektryczną oraz energię cieplną”, w którym określono sposób restytucji terenu. Wartość rezerwy na dzień 
+sprawozdawczy wynosi 203 mln PLN (184 mln PLN na dzień 31 grudnia 2018 roku) i dotyczy niektórych aktywów segmentu Energetyka 
+Konwencjonalna i Energetyka Odnawialna. 
+18.3 
+Rezerwa na niedobór uprawnień do emisji CO2 
+Jak opisano w nocie 14 niniejszego skonsolidowanego sprawozdania finansowego Grupa Kapitałowa PGE jest uprawniona do 
+otrzymania nieodpłatnych uprawnień do emisji CO2 w związku z poniesionymi nakładami na inwestycje zgłoszone do Krajowego Planu 
+Inwestycyjnego. Przy kalkulacji rezerwy uwzględniane są również te uprawnienia. 
+18.4 
+Rezerwa na prawa majątkowe przeznaczone do umorzenia 
+Spółki wchodzące w skład Grupy Kapitałowej PGE tworzą rezerwę na wartość praw pochodzenia energii, dotyczących sprzedaży 
+zrealizowanej w okresie sprawozdawczym lub w okresach poprzednich, w części nieumorzonej do dnia sprawozdawczego. Wartość 
+rezerwy na 30 września 2019 roku wynosi 557 mln PLN (423 mln PLN w okresie porównawczym) i tworzona jest głównie przez 
+PGE Obrót S.A. 
+18.5 
+Rezerwa na roszczenia z tytułu bezumownego korzystania z nieruchomości 
+Spółki Grupy Kapitałowej PGE tworzą rezerwę na zgłoszone roszczenia z tytułu bezumownego korzystania z nieruchomości. Kwestia ta 
+dotyczy głównie spółki dystrybucyjnej, posiadającej majątek sieciowy. Rezerwa ujęta na dzień sprawozdawczy wynosi łącznie około 
+72 mln PLN (w tym 31 mln PLN na sprawy rozpatrywane w postępowaniu sądowym). W okresie porównawczym wartość rezerwy 
+wyniosła 73 mln PLN (w tym 34 mln PLN na sprawy rozpatrywane w postępowaniu sądowym). 
+19. Zobowiązania finansowe 
+Wartość zobowiązań finansowych wycenianych według zamortyzowanego kosztu stanowi racjonalne przybliżenie ich wartości 
+godziwych, za wyjątkiem obligacji wyemitowanych przez spółkę PGE Sweden AB (publ). 
+Obligacje wyemitowane przez PGE Sweden AB (publ) są oparte o stałą stopę procentową. Ich wartość wg zamortyzowanego kosztu 
+wykazywana w niniejszym skonsolidowanym sprawozdaniu finansowym na dzień 30 września 2019 roku wynosi 606 mln PLN, a wartość 
+godziwa 683 mln PLN. 
+19.1 
+Kredyty bankowe, pożyczki, obligacje i leasing 
+ 
+ 
+Stan na dzień 30 września 2019 
+Stan na dzień 31 grudnia 2018 
+ 
+Długoterminowe 
+Krótkoterminowe 
+Długoterminowe 
+Krótkoterminowe 
+ 
+dane przekształcone 
+Kredyty i pożyczki 
+8.107 
+1.654 
+5.768 
+2.168 
+Wyemitowane obligacje 
+2.001 
+19 
+592 
+2.177 
+Leasing 
+866 
+23 
+1 
+2 
+RAZEM KREDYTY BANKOWE, POŻYCZKI, OBLIGACJE 
+I LEASING 
+10.974 
+1.696 
+6.361 
+4.347 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 35 z 50 
+ 
+Kredyty i pożyczki 
+W ramach kredytów i pożyczek na dzień 30 września 2019 roku i 31 grudnia 2018 roku Grupa Kapitałowa PGE wykazuje: 
+ 
+Kredytodawca 
+Data zawarcia 
+Data zapadalności Limit w 
+walucie 
+Waluta 
+Stopa 
+procentowa 
+Zobowiązanie 
+na 30.09.2019 
+Zobowiązanie 
+na 31.12.2018 
+Bank Gospodarstwa 
+Krajowego 
+2014-12-17 
+2027-12-31 
+1.000 
+ PLN 
+Zmienna 
+1.008 
+1.001 
+Bank Gospodarstwa 
+Krajowego 
+2015-12-04 
+2028-12-31 
+500 
+ PLN 
+Zmienna 
+504 
+500 
+Konsorcjum banków 
+2015-09-07 
+2023-09-30 
+3.630 
+ PLN 
+Zmienna 
+3.627 
+3.648 
+Konsorcjum banków 
+2015-09-07 
+2019-04-30 
+1.870 
+ PLN 
+Zmienna 
+- 
+1.171 
+Europejski Bank 
+Inwestycyjny 
+2015-10-27 
+2032-10-26 
+1.500 
+ PLN 
+Zmienna 
+1.516 
+- 
+Europejski Bank 
+Inwestycyjny 
+2015-10-27 
+2032-10-26 
+490 
+ PLN 
+Zmienna 
+496 
+- 
+Europejski Bank 
+Odbudowy i Rozwoju 
+2017-06-07 
+2028-06-06 
+500 
+ PLN 
+Zmienna 
+506 
+- 
+Kredyt Rewolwingowy 
+2018-09-17 
+2023-12-17 
+4.100 
+ PLN 
+Zmienna 
+- 
+- 
+Bank Pekao 
+2018-07-05 
+2021-07-03 
+500 
+ PLN 
+Zmienna 
+353 
+148 
+PKO BP 
+2018-04-30 
+2020-04-29 
+500 
+ PLN 
+Zmienna 
+352 
+- 
+Bank Gospodarstwa 
+Krajowego 
+2018-06-01 
+2021-05-31 
+500 
+ PLN 
+Zmienna 
+477 
+420 
+Millennium 
+2014-06-08 
+2021-06-16 
+7 
+PLN 
+Zmienna 
+2 
+2 
+Bank Pekao 
+2017-09-21 
+2020-09-21 
+40 
+USD 
+Zmienna 
+153 
+149 
+Bank Ochrony 
+Środowiska 
+2006-05-30 
+2020-10-01 
+136 
+PLN 
+Zmienna 
+8 
+16 
+Nordic Investment Bank 
+2005-10-10 
+2024-06-20 
+150 
+EUR 
+Zmienna 
+348 
+387 
+Nordic Investment Bank 
+1999-11-30 
+2019-05-28 
+80 
+USD 
+Zmienna 
+- 
+30 
+Bank Ochrony 
+Środowiska 
+2007-05-18 
+2019-03-31 
+20 
+PLN 
+Zmienna 
+- 
+1 
+Pożyczka wspólników 
+2017-11-08 
+2020-11-06 
+9 
+PLN 
+Stała 
+9 
+9 
+Pożyczka wspólników 
+2018-03-02 
+2021-03-02 
+14 
+PLN 
+Stała 
+15 
+15 
+NFOŚiGW 
+2014-06-01 
+listopad 2020 - 
+grudzień 2028 
+250 
+PLN 
+Stała 
+214 
+203 
+NFOŚiGW 
+grudzień 2013 - 
+wrzesień 2017 
+wrzesień 2021 - 
+wrzesień 2024 
+212 
+PLN 
+Zmienna 
+107 
+127 
+WFOŚiGW 
+maj 2012 – 
+czerwiec 2014 
+lipiec 2019 - 
+grudzień 2020 
+370 
+PLN 
+Stała 
+21 
+69 
+WFOŚiGW 
+kwiecień 2013 – 
+grudzień 2018 
+styczeń 2019 - 
+wrzesień 2026 
+157 
+PLN 
+Zmienna 
+45 
+40 
+RAZEM KREDYTY BANKOWE I POŻYCZKI 
+ 
+ 
+ 
+9.761 
+7.936 
+ 
+Na 30 września 2019 roku wartość pozostających do dyspozycji limitów kredytowych w rachunku bieżącym istotnych spółek Grupy 
+Kapitałowej PGE wyniosła 347 mln PLN. 
+W ciągu trzech kwartałów 2019 roku ani po dniu sprawozdawczym nie wystąpiły przypadki niewywiązania się ze spłat lub naruszenia 
+innych warunków umów kredytowych. 
+Wyemitowane obligacje 
+Emitent 
+Inwestor 
+Data 
+zawarcia 
+programu 
+Data 
+zapadalności 
+programu 
+Limit w 
+walucie 
+programu 
+Waluta 
+Stopa 
+procentowa 
+Data 
+emisji 
+transzy 
+Data 
+wykupu 
+transzy 
+Zobowiązanie 
+na 30.09.2019 
+Zobowiązanie 
+na 31.12.2018 
+PGE SA 
+Obligatariusze 
+2013-06-27 
+bezterminowy 
+5.000 
+PLN 
+Zmienna 
+2019-05-21 
+2029-05-21 
+1.010 
+- 
+2019-05-21 
+2026-05-21 
+404 
+PGE Sweden 
+AB (publ) 
+Obligatariusze 
+2014-05-22 
+bezterminowy 
+2.000 
+EUR 
+Stała 
+2014-06-09 
+2019-06-09 
+- 
+2.168 
+2014-08-01 
+2029-08-01 
+606 
+601 
+RAZEM WYEMITOWANE OBLIGACJE 
+2.020 
+2.769 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 36 z 50 
+ 
+Leasing 
+Rozpoznanie zobowiązań leasingowych wynika z wdrożenia MSSF 16 Leasing. W związku z tym na dzień 1 stycznia 2019 roku Grupa 
+ujęła zobowiązania z tytułu umów leasingu wysokości 887 mln PLN. Standard został wdrożony przy zastosowaniu zmodyfikowanego 
+podejścia retrospektywnego z łącznym efektem pierwszego zastosowania ujętym na dzień 1 stycznia 2019 roku, w związku z czym dane 
+za okres porównawczy nie podlegały przekształceniu. Szczegóły związane z wdrożeniem MSSF 16 opisano w nocie 3 niniejszego 
+sprawozdania finansowego. 
+19.2 
+Zobowiązania z tytułu dostaw i usług i pozostałe zobowiązania finansowe 
+ 
+ 
+Stan na dzień 30 września 2019 
+Stan na dzień 31 grudnia 2018 
+ 
+Długoterminowe 
+Krótkoterminowe 
+Długoterminowe 
+Krótkoterminowe 
+Zobowiązania z tytułu dostaw i usług 
+- 
+1.338 
+- 
+1.511 
+Szacunek obniżenia przychodów 
+ 
+757 
+- 
+- 
+Zakup rzeczowych aktywów trwałych i wartości 
+niematerialnych 
+ 
+1.087 
+6 
+1.622 
+Rozrachunki związane z transakcjami giełdowymi 
+- 
+261 
+- 
+278 
+Otrzymane kaucje i wadia 
+26 
+91 
+38 
+83 
+Ubezpieczenia 
+- 
+1 
+- 
+17 
+Zobowiązania z tytułu KDT 
+446 
+- 
+455 
+11 
+Inne 
+19 
+91 
+22 
+91 
+ZOBOWIĄZANIA Z TYTUŁU DOSTAW I USŁUG 
+I POZOSTAŁE ZOBOWIĄZANIA FINANSOWE 
+491 
+3.626 
+521 
+3.613 
+ 
+Szacunek obniżenia przychodów dotyczy obniżenia przychodów w 2019 roku zgodnie z przepisami Ustawy o cenach prądu, co zostało 
+szerzej opisane w punkcie 24.1 niniejszego sprawozdania finansowego. 
+Pozycja „Inne” obejmuje m.in. zobowiązania PGE Dom Maklerski S.A. wobec klientów z tytułu wpłaconych środków pieniężnych. 
+20. Pozostałe zobowiązania niefinansowe 
+Główne składniki pozostałych zobowiązań niefinansowych na poszczególne dni sprawozdawcze 
+ 
+ 
+Stan na dzień 
+30 września 2019 
+Stan na dzień 
+31 grudnia 2018 
+POZOSTAŁE ZOBOWIĄZANIA DŁUGOTERMINOWE 
+ 
+ 
+Zobowiązania z tytułu umowy 
+36 
+10 
+Szacunki na zobowiązania z tytułu Programu Dobrowolnych Odejść 
+2 
+5 
+POZOSTAŁE ZOBOWIĄZANIA DŁUGOTERMINOWE, RAZEM 
+38 
+15 
+POZOSTAŁE ZOBOWIĄZANIA KRÓTKOTERMINOWE 
+ 
+ 
+Opłaty za korzystanie ze środowiska 
+162 
+266 
+Zobowiązania z tytułu należnego VAT 
+169 
+173 
+Zobowiązania z tytułu podatku akcyzowego 
+33 
+36 
+Zobowiązania z tytułu wynagrodzeń 
+187 
+279 
+Premie dla pracowników 
+293 
+214 
+Niewykorzystane urlopy 
+131 
+132 
+Inne świadczenia pracownicze 
+139 
+47 
+Podatek dochodowy od osób fizycznych 
+74 
+88 
+Zobowiązania z tytułu ubezpieczeń społecznych 
+209 
+258 
+Zobowiązania z tytułu umowy 
+213 
+186 
+Inne 
+91 
+68 
+POZOSTAŁE ZOBOWIĄZANIA KRÓTKOTERMINOWE, RAZEM 
+1.701 
+1.747 
+POZOSTAŁE ZOBOWIĄZANIA, RAZEM 
+1.739 
+1.762 
+ 
+Opłaty za korzystanie ze środowiska dotyczą przede wszystkim opłat za zużycie wody oraz emisję gazów w elektrowniach 
+konwencjonalnych oraz opłat eksploatacyjnych wnoszonych przez kopalnie węgla brunatnego. 
+Pozycja „Inne” w głównej mierze obejmuje wpłaty na Pracowniczy Program Emerytalny, Państwowy Fundusz Rehabilitacji Osób 
+Niepełnosprawnych oraz potracenia z wynagrodzeń pracowników. 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 37 z 50 
+ 
+POZOSTAŁE NOTY OBJAŚNIAJĄCE 
+21. Zobowiązania i należności warunkowe. Sprawy sądowe 
+21.1 
+Zobowiązania warunkowe 
+ 
+ 
+Stan na dzień 
+Stan na dzień 
+ 
+30 września 2019 
+31 grudnia 2018 
+Zabezpieczenie zwrotu dotacji z funduszy środowiskowych 
+690 
+756 
+Zobowiązania z tytułu pozwów sądowych 
+247 
+222 
+Zobowiązania z tytułu gwarancji bankowych 
+219 
+177 
+Roszczenia pracowników 
+- 
+1 
+Inne zobowiązania warunkowe 
+35 
+36 
+ZOBOWIĄZANIA WARUNKOWE, RAZEM 
+1.191 
+1.192 
+ 
+Zabezpieczenie zwrotu dotacji z funduszy środowiskowych 
+Zobowiązania przedstawiają wartość możliwych przyszłych zwrotów środków otrzymanych przez spółki Grupy Kapitałowej PGE 
+z funduszy środowiskowych na wybrane inwestycje. Zwrot środków będzie musiał nastąpić, jeżeli inwestycje, na które otrzymano 
+dofinansowanie, nie przyniosą oczekiwanego efektu środowiskowego. 
+Zobowiązania z tytułu pozwów sądowych 
+Spór z WorleyParsons 
+Zobowiązanie warunkowe dotyczy głównie sporu z WorleyParsons, który wystąpił z pozwem o zapłatę kwoty 59 mln PLN tytułem 
+należnego w ocenie powoda wynagrodzenia oraz zwrotu kwoty, zdaniem powoda nienależnie pobranej przez PGE EJ 1 sp. z o.o. 
+z gwarancji bankowej, a następnie rozszerzył powództwo do kwoty 104 mln PLN (tj. o kwotę 45 mln PLN). W dniu 31 marca 2018 roku 
+spółka złożyła odpowiedź na rozszerzone powództwo WorleyParsons. 
+2 września 2019 roku PGE EJ 1 sp. z o.o. zostało doręczone pismo procesowe zawierające rozszerzenie powództwa WorleyParsons 
+o kwotę 24 mln PLN tytułem skapitalizowanych odsetek. 
+18 września 2019 roku PGE EJ 1 sp. z o.o. złożyła pismo zawierające rozszerzenie powództwa o kwotę 52 mln PLN tytułem 
+odszkodowania (alternatywnie-bezpodstawnego wzbogacenia) w związku z niewykonaniem przez WorleyParsons zadań określonych 
+w Umowie. 
+Grupa nie uznaje zgłoszonych w stosunku do niej roszczeń, a ewentualne ich zasądzenie przez sąd uważa za mało prawdopodobne. 
+Roszczenia dotyczące umów sprzedaży praw majątkowych zawartych z Energa-Obrót S.A. 
+W październiku 2017 roku PGE Energia Odnawialna S.A. oraz PGE Energia Natury sp. z o. o. (przejęta przez PGE Energia Odnawialna S.A.) 
+otrzymały pozwy, w których Energa-Obrót S.A. wnosiła o ustalenie nieistnienia stosunków prawnych, które powstały wskutek zawarcia 
+w 2009 roku ramowych umów sprzedaży praw majątkowych wynikających ze świadectw pochodzenia energii elektrycznej 
+z FW Kisielice, FW Koniecwałd (Malbork) oraz FW Galicja. Żądania wszystkich pozwów Energa-Obrót S.A. opierała na zarzucie 
+zawierania umów wykonawczych (umów sprzedaży konkretnych praw majątkowych) z pominięciem ustawy Prawo zamówień 
+publicznych. Alternatywnie, w przypadku uznania, że umowy ramowe są umowami o udzielenie zamówienia publicznego, Energa-Obrót 
+S.A. zarzucała w pozwie bezwzględną nieważność umów, gdyż zostały one zawarte z naruszeniem ustawy Prawo zamówień publicznych. 
+W listopadzie 2017 roku spółki PGE złożyły odpowiedzi na pozwy, w których wskazały na bezpodstawność zarzutów Energa-Obrót S.A. 
+Postępowania w tych sprawach są w toku. We wszystkich sprawach Sądy skierowały strony do mediacji, która zakończyła się 15 grudnia 
+2018 roku wobec niedojścia do porozumienia przez strony. W sprawie dotyczącej FW Galicja Sąd zmienił termin pierwszej rozprawy 
+z października 2019 roku na listopad 2019 roku. W sprawie FW Kisielice w październiku odbyła się rozprawa, na której Sąd wyznaczył 
+termin kolejnej rozprawy na kwiecień 2020 roku. W sprawie dotyczącej FW Koniecwałd (Malbork) w maju i w lipcu 2019 roku odbyły 
+rozprawy, a kolejna rozprawa wyznaczona na wrzesień 2019 roku została przez Sąd odroczona. 
+Dodatkowo wnioskami z września 2017 roku Energa-Obrót S.A. wezwała PGE Energia Odnawialna S.A. i PGE Energia Natury sp. z o. o. 
+(obecnie przejęta przez PGE Energia Odnawialna S.A.) do ugodowego rozwiązania sporów o zapłatę roszczenia z tytułu nienależnie 
+uiszczonych świadczeń na podstawie nieważnych umów z 2009 roku. Na posiedzeniach, które odbyły się w listopadzie i grudniu 2017 
+roku nie doszło do zawarcia ugód. W związku z tym w niniejszym sprawozdaniu roszczenia o wartości 71 mln PLN zostały wykazane jako 
+zobowiązania warunkowe. Grupa nie uznaje zgłoszonych w stosunku do niej roszczeń, a ewentualne ich zasądzenie przez sąd uważa za 
+mało prawdopodobne. 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 38 z 50 
+ 
+Energa-Obrót S.A. powołując się na nieważność umów z 2009 roku odmówiła nabycia praw majątkowych powstałych w związku 
+z produkcją energii elektrycznej odnawialnej w FW Kisielice, FW Koniecwałd (Malbork) oraz FW Galicja, co stanowiło naruszenie 
+postanowień umów ramowych i spowodowało powstanie roszczeń z tytułu kar umownych w wysokości 69 mln PLN (z tego 24 mln PLN 
+ujęte jako przychody w bieżącym okresie, a 45 mln PLN jako przychody w latach poprzednich). Wobec odmowy zapłaty kar umownych, 
+PGE Energia Odnawialna S.A. dochodzi ich zapłaty w toku postępowań sądowych. PGE Energia Odnawialna S.A. we wszystkich sprawach 
+złożyła powództwa wzajemne o zapłatę kwot należności głównych oraz skapitalizowanych odsetek, powiększonych o odsetki ustawowe 
+za opóźnienie, z tytułu naliczenia kar umownych w związku z niewykonaniem ramowych umów sprzedaży praw majątkowych: 
+w zakresie FW Kisielice (w kwietniu 2018 roku), FW Koniecwałd (Malbork) (w maju 2019 roku) oraz FW Galicja (w sierpniu 2019 roku). 
+W sierpniu 2019 roku PGE Energia Odnawialna S.A. rozszerzyła o kolejne okresy powództwa wzajemne o zapłatę kwot należności 
+głównych oraz skapitalizowanych odsetek, powiększonych o odsetki ustawowe za opóźnienie, z tytułu naliczenia kar umownych 
+w związku z niewykonaniem umowy w zakresie FW Kisielice oraz FW Koniecwałd (Malbork). 
+Szacowany wolumen zielonych certyfikatów, objętych ww. umowami z Energa-Obrót S.A. wynosi 805 tys. MWh. Powyższa wielkość 
+została obliczona według wielkości produkcji za okres od lipca 2017 roku (FW Koniecwałd/Malbork) lub od sierpnia 2017 roku (pozostałe 
+farmy) do końca zakładanych okresów wsparcia dla poszczególnych farm wiatrowych. 
+Zobowiązania z tytułu gwarancji bankowych 
+Zobowiązania w znacznej mierze przedstawiają wystawione przez banki gwarancje wniesione jako depozyt celem zabezpieczenia 
+transakcji giełdowych wynikających z członkostwa w Giełdowej Izbie Rozrachunkowej. Na dzień 30 września 2019 roku łączna kwota 
+gwarancji wystawionych przez banki wynosiła 219 mln PLN (177 mln PLN w okresie porównawczym). 
+Inne zobowiązania warunkowe 
+Na inne zobowiązania warunkowe składa się w głównej mierze wartość potencjalnego powództwa WorleyParsons (ponad roszczenie już 
+zgłoszone, co opisano powyżej), w wysokości 33 mln PLN. 
+21.2 
+Pozostałe istotne kwestie związane ze zobowiązaniami warunkowymi 
+Bezumowne korzystanie z nieruchomości 
+Jak zostało przedstawione w nocie 18.5 Grupa Kapitałowa PGE tworzy rezerwę na spory dotyczące bezumownego korzystania 
+z nieruchomości służących działalności dystrybucyjnej, które zostały zgłoszone w postępowaniu sądowym. Ponadto w Grupie 
+Kapitałowej PGE występują spory na wcześniejszych etapach postępowania, a także nie można wykluczyć zwiększenia liczby i wartości 
+podobnych roszczeń w przyszłości. 
+Zobowiązania kontraktowe dotyczące zakupu paliw 
+Zgodnie z zawartymi umowami na zakup paliw (głównie węgla i gazu), Grupa Kapitałowa PGE zobowiązana jest do odebrania określonej 
+minimalnej ilości paliw, a także do nieprzekroczenia określonej wielkości maksymalnej poboru gazu. Brak odebrania minimalnych ilości 
+paliw określonych w umowach może skutkować koniecznością uiszczenia dodatkowych opłat. W ocenie Grupy Kapitałowej PGE warunki 
+dostaw paliw do jednostek wytwórczych w przytoczonym powyżej zakresie nie odbiegają od warunków stosowanych na polskim rynku 
+dla dostaw do innych elektrociepłowni. 
+21.3 
+Należności warunkowe 
+Na dzień sprawozdawczy Grupa Kapitałowa posiada należności warunkowe na kwotę 26 mln PLN z tytułu niezbilansowania zakupu 
+i sprzedaży energii na rynku krajowym (27 mln PLN w okresie porównawczym). 
+21.4 
+Inne sprawy sądowe i sporne 
+Kwestia odszkodowania dotyczącego konwersji akcji 
+Byli akcjonariusze PGE Górnictwo i Energetyka S.A. występowali do sądów z wnioskami o zawezwanie PGE S.A. do prób ugodowych 
+o zapłatę odszkodowania z tytułu nieprawidłowego (ich zdaniem) ustalenia parytetu wymiany akcji spółki PGE Górnictwo 
+i Energetyka S.A. na akcje PGE S.A. w procesie konsolidacji, jaki miał miejsce w 2010 roku. Łączna wartość dotychczasowych roszczeń 
+wynikających z zawezwań do prób ugodowych skierowanych przez byłych akcjonariuszy PGE Górnictwo i Energetyka S.A. wynosi ponad 
+10 mln PLN. 
+Niezależnie od powyższego 12 listopada 2014 roku spółka Socrates Investment S.A. (nabywca wierzytelności od byłych akcjonariuszy 
+PGE Górnictwo i Energetyka S.A.) złożyła pozew sądowy o zasądzenie odszkodowania w łącznej kwocie ponad 493 mln PLN (plus 
+odsetki) za szkodę poniesioną w związku z nieprawidłowym (jej zdaniem) ustaleniem parytetu wymiany akcji w procesie połączenia 
+spółki PGE Górnictwo i Energetyka S.A. z PGE S.A. Spółka złożyła odpowiedź na pozew. Obecnie toczy się postępowanie sądowe 
+w pierwszej instancji. W dniu 19 kwietnia 2019 roku sąd wskazał biegłych do sporządzenia opinii w w/w sprawie. 
+Na dzień sporządzenia niniejszego sprawozdania finansowego nie ma wyznaczonego terminu następnego posiedzenia sadu. 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 39 z 50 
+ 
+Ponadto z podobnym roszczeniem wystąpiła spółka Pozwy sp. z o.o., nabywca wierzytelności byłych akcjonariuszy spółki 
+PGE Elektrownia Opole S.A. Spółka Pozwy sp. z o.o. pozwem wniesionym do Sądu Okręgowego w Warszawie przeciwko PGE GiEK S.A., 
+PGE S.A. oraz PwC Polska sp. z o.o. (dalej jako Pozwani) wniosła o zasądzenie od Pozwanych na zasadzie in solidum, ewentualnie 
+solidarnie na rzecz Pozwy sp. z o.o., odszkodowania w łącznej kwocie ponad 260 mln PLN wraz z odsetkami z tytułu rzekomo 
+nieprawidłowego (jej zdaniem) ustalenia stosunku wymiany akcji PGE Elektrownia Opole S.A. na akcje PGE GiEK S.A. w procesie łączenia 
+tych spółek. Pozew ten został do PGE S.A. doręczony 9 marca 2017 roku, zaś termin na złożenie odpowiedzi na pozew został 
+wyznaczony przez sąd do 9 lipca 2017 roku. Spółki: PGE S.A. i PGE GiEK S.A. 8 lipca 2017 roku złożyły odpowiedź na pozew. Sąd 
+Okręgowy w Warszawie w dniu 28 września 2018 roku ogłosił wyrok w pierwszej instancji - pozew spółki Pozwy sp. z o.o. skierowany 
+przeciwko PGE S.A., PGE GiEK S.A. oraz PWC Polska sp. z o.o. został oddalony. W dniu 8 kwietnia 2019 roku do PGE S.A. wpłynął odpis 
+apelacji złożonej przez powoda w dniu 7 grudnia 2018 roku. 
+Spółki z Grupy PGE nie uznają żądań Socrates Investment S.A., Pozwy sp. z o.o. oraz pozostałych akcjonariuszy występujących 
+z zawezwaniami do prób ugodowych. Zdaniem PGE S.A. roszczenia te są bezzasadne, a cały proces konsolidacji był przeprowadzony 
+rzetelnie i prawidłowo. Sama wartość akcji spółek podlegających połączeniu została określona przez niezależną spółkę 
+PwC Polska sp. z o.o. Dodatkowo plany połączenia ww. spółek, w tym parytety wymiany akcji, były badane w zakresie poprawności 
+i rzetelności przez wyznaczonego przez sąd rejestrowy biegłego, który nie stwierdził żadnych nieprawidłowości. Następnie sąd 
+zarejestrował połączenia ww. spółek. Na zgłoszone roszczenie Grupa PGE nie utworzyła rezerwy. 
+Pozwy o stwierdzenie nieważności uchwał Walnych Zgromadzeń 
+W dniu 29 stycznia 2019 roku do PGE S.A. wpłynął odpis pozwu wniesionego przez jednego z akcjonariuszy do Sądu Okręgowego 
+w Warszawie. Akcjonariusz w pozwie wnosi o uchylenie uchwał nr 7, 9 oraz 20 Zwyczajnego Walnego Zgromadzenia Spółki podjętych 
+w dniu 19 lipca 2018 roku. Spółka nie zgadza się z pozwem. Odpowiedź na pozew została wysłana w dniu 28 lutego 2019 roku. Obecnie 
+toczy się postępowanie sądowe w pierwszej instancji – jedna rozprawa odbyła się w dniu 31 maja 2019 roku druga zaś, dotycząca 
+przesłuchania świadków w dniu 13 sierpnia 2019 roku. 
+Kolejna rozprawa celem kontynuowania postępowania dowodowego została wyznaczona na dzień 27 listopada 2019 roku. 
+Wypowiedzenie umów na zakup praw majątkowych przez Enea S.A. 
+W październiku i listopadzie 2016 roku spółki PGE Górnictwo i Energetyka Konwencjonalna S.A., PGE Energia Odnawialna S.A. oraz 
+PGE Energia Natury PEW sp. z o.o. (przejęta przez PGE Energia Odnawialna S.A.) otrzymały z Enea S.A. oświadczenia o wypowiedzeniu 
+długoterminowych umów sprzedaży praw majątkowych wynikających ze świadectw pochodzenia energii z odnawialnych źródeł 
+tzw. „zielonych certyfikatów”. W uzasadnieniu wypowiedzeń Enea S.A. twierdziła, że spółki poważnie naruszyły postanowienia tych 
+umów w postaci nieprzystąpienia do renegocjacji postanowień umów w trybie kontraktowym zgodnie z klauzulą adaptacyjną, o których 
+przeprowadzenie wystąpiła Enea S.A. w lipcu 2015 roku w związku z rzekomą zmianą regulacji prawnych mających wpływ na 
+wykonywanie tych umów. 
+Zdaniem Grupy Kapitałowej PGE, oświadczenia o wypowiedzeniu umów przedstawione przez Enea S.A. zostały złożone z naruszeniem 
+warunków umownych. Spółki podjęły stosowne kroki w celu dochodzenia swoich praw. Wobec odmowy wykonywania 
+długoterminowych umów przez Enea S.A. w postaci nabywania praw majątkowych wynikających ze świadectw pochodzenia 
+otrzymanych przez spółki z Grupy PGE w związku z produkcją energii elektrycznej odnawialnej, PGE Górnictwo i Energetyka 
+Konwencjonalna S.A. oraz PGE Energia Natury PEW sp. z o.o. wystąpiły przeciwko Enea S.A. z żądaniem zapłaty kar umownych, 
+a PGE Energia Odnawialna S.A. z żądaniem zapłaty odszkodowania z tytułu poniesionej z tego tytułu szkody. Postępowania we 
+wszystkich sprawach są w toku. 
+W związku z tym, że zdaniem Grupy Kapitałowej PGE, oświadczenia o wypowiedzeniu umów przedstawione przez Enea S.A. zostały 
+złożone z naruszeniem warunków umownych, na dzień 30 września 2019 roku Grupa rozpoznała należności z tytułu kar umownych 
+i odszkodowań w wysokości 148 mln PLN (z tego 13 mln PLN ujęto w przychodach bieżącego okresu). Zdaniem spółek Grupy 
+Kapitałowej PGE, opierając się między innymi na dostępnych opiniach prawnych, korzystne rozstrzygnięcie powyższych sporów jest 
+bardziej prawdopodobne niż rozstrzygnięcie niekorzystne. 
+Szacowany wolumen zielonych certyfikatów, objętych umowami z Enea S.A., wynosi około 2.663 tys. MWh. Powyższa wielkość została 
+obliczona za okres od daty wypowiedzenia umów do końca pierwotnie zakładanego okresu obowiązywania umów. 
+Dodatkowo, PGE Górnictwo i Energetyka Konwencjonalna S.A., PGE Energia Natury PEW sp. z o.o. (przejęta przez PGE Energia 
+Odnawialna S.A.) oraz PGE Energia Odnawialna S.A. wystąpiły z powództwami przeciwko Enea S.A. o zapłatę należności w łącznej 
+wysokości 47 mln PLN z tytułu wystawionych na rzecz Enea S.A. faktur sprzedaży praw majątkowych na podstawie umów. Enea S.A. 
+odmówiła zapłaty tych należności twierdząc, że je skutecznie potrąciła ze swoimi wierzytelnościami wobec spółek z Grupy z tytułu 
+odszkodowania naliczonego w związku z rzekomą szkodą powstałą wskutek nieprzystąpienia przez spółki do renegocjacji umowy 
+w trybie kontraktowym. Zdaniem spółek Grupy potrącenia są bezskuteczne, ponieważ wierzytelności Enea S.A. o zapłatę 
+odszkodowania nigdy nie powstały, brak jest również podstaw do uznania stanowiska Enea S.A., że doszło do naruszenia przez spółki 
+jakichkolwiek postanowień umownych. Postępowania są w toku, a kolejne rozprawy zostały wyznaczone na listopad 2019 roku. 
+22. Rozliczenia podatkowe 
+Obowiązki i uprawnienia podatkowe są określone w Konstytucji, ustawach podatkowych oraz ratyfikowanych umowach 
+międzynarodowych. Zgodnie z ordynacją podatkową podatek definiuje się jako publicznoprawne, nieodpłatne przymusowe oraz 
+bezzwrotne świadczenie pieniężne na rzecz Skarbu Państwa, województwa, powiatu lub gminy, wynikające z ustawy podatkowej. 
+Uwzględniając kryterium przedmiotowe, obowiązujące w Polsce podatki można uszeregować w pięciu grupach: opodatkowanie 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 40 z 50 
+ 
+dochodów, opodatkowanie obrotu, opodatkowanie majątku, opodatkowanie czynności, oraz inne opłaty, nie zaklasyfikowane gdzie 
+indziej. 
+Z punktu widzenia działalności podmiotów gospodarczych zasadnicze znaczenie ma opodatkowanie dochodów (podatek dochodowy od 
+osób prawnych), opodatkowanie obrotów (podatek od towarów i usług VAT, podatek akcyzowy) oraz opodatkowanie majątku (podatek 
+od nieruchomości i od środków transportowych). Nie można pominąć innych opłat i wpłat, które zaklasyfikować można jako quasi – 
+podatki. Wśród nich wymienić należy między innymi składki na ubezpieczenia społeczne. 
+Podstawowe stawki podatkowe kształtowały się następująco: w 2019 roku stawka podatku dochodowego od osób prawnych – 19%, dla 
+małych przedsiębiorców możliwa jest stawka 9%, podstawowa stawka podatku VAT - 23%, obniżone: 8%, 5%, 0%, ponadto, niektóre 
+towary i usługi są objęte zwolnieniem z podatku VAT. 
+System podatkowy w Polsce charakteryzuje duża zmienność przepisów podatkowych, wysoki stopień ich skomplikowania, wysokie 
+potencjalne kary przewidziane w razie popełnienia przestępstwa lub wykroczenia skarbowego. Rozliczenia podatkowe oraz inne obszary 
+działalności, podlegające regulacjom (kontroli celnej, czy dewizowej) mogą być przedmiotem kontroli odpowiednich władz, które 
+uprawnione są do nakładania kar i sankcji wraz z odsetkami karnymi. Kontrolą mogą być objęte rozliczenia podatkowe przez okres 5 lat 
+od końca roku kalendarzowego, w którym upłynął termin płatności podatku. 
+Podatkowa Grupa Kapitałowa 
+18 września 2014 roku została zawarta na okres 25 lat umowa podatkowej grupy kapitałowej pod nazwą „PGK PGE 2015”, dla której 
+PGE S.A. jest spółką reprezentującą. 
+Spółki tworzące podatkową grupę kapitałową muszą spełnić szereg wymogów, obejmujących między innymi: odpowiedni poziom 
+kapitałów, udział spółki dominującej w kapitałach spółek tworzących PGK na poziomie minimum 75%, brak powiązań kapitałowych 
+między spółkami zależnymi, brak zaległości podatkowych, osiągnięcie udziału dochodu w przychodach na poziomie przynajmniej 2% 
+(liczonego dla całej PGK) oraz zawieranie transakcji z podmiotami spoza PGK wyłącznie na warunkach rynkowych. Naruszenie 
+powyższych wymogów będzie oznaczać rozwiązanie podatkowej grupy kapitałowej i utratę przez nią statusu podatnika. Od momentu 
+rozwiązania każda ze spółek wchodzących w skład podatkowej grupy kapitałowej staje się samodzielnym podatnikiem dla podatku CIT. 
+Mechanizm podzielonej płatności w VAT 
+Grupa Kapitałowa wykorzystuje środki otrzymywane od kontrahentów na rachunkach VAT do płatności swoich zobowiązań 
+zawierających podatek VAT. Wysokość środków na rachunkach VAT w danym dniu zależy w głównej mierze od tego, jak wielu 
+kontrahentów Grupy Kapitałowej skorzysta z mechanizmu oraz relacji między terminami płatności należności i zobowiązań. Według 
+stanu na dzień 30 września 2019 roku saldo środków pieniężnych na rachunkach VAT wynosiło 61 mln PLN. 
+Podatek akcyzowy 
+W związku z nieprawidłową implementacją przepisów unijnych do polskiego systemu prawnego w spółce PGE GiEK S.A. w 2009 roku 
+rozpoczęły się postępowania w zakresie uzyskania zwrotu nienależnie uiszczanego podatku akcyzowego w okresie styczeń 2006 – luty 
+2009 roku. Nieprawidłowość polegała na opodatkowaniu energii elektrycznej na pierwszym etapie jej sprzedaży, tj. przez producentów, 
+podczas gdy powinna być opodatkowana sprzedaż na rzecz tzw. nabywców końcowych. 
+Sądy administracyjne rozpatrując skargi spółki w zakresie roszczeń restytucyjnych na wydawane przez organy podatkowe decyzje 
+odmawiające stwierdzenia nadpłaty akcyzy orzekały, iż spółka nie poniosła ciężaru ekonomicznego nienależnie uiszczanego podatku 
+akcyzowego (co w świetle uchwały NSA z dnia 22 czerwca 2011 roku sygn. akt I GPS 1/11 wyklucza możliwość zwrotu nadpłaty). 
+Zdaniem NSA roszczenia, które spółka wykazywała, w szczególności za pomocą analiz ekonomicznych, mają charakter kompensacyjny 
+i w związku z tym mogą być dochodzone wyłącznie przed sądami cywilnymi. W związku z powyższym PGE GiEK S.A. podjęła decyzję 
+o wycofaniu się z postępowań w zakresie roszczeń restytucyjnych. Obecnie działania w zakresie nadpłaty podatku akcyzowego 
+prowadzone są na drodze cywilnej. 
+Z uwagi na istotną niepewność odnośnie ostatecznego rozstrzygnięcia powyższej kwestii Grupa nie ujmuje w sprawozdaniu finansowym 
+żadnych skutków związanych z ewentualnym uzyskaniem odszkodowania na drodze cywilnej w związku z nienależnie uiszczanym 
+podatkiem akcyzowym. 
+Podatek od nieruchomości 
+Podatek od nieruchomości stanowi istotne obciążenie niektórych spółek Grupy Kapitałowej PGE. Regulacje dotyczące podatku od 
+nieruchomości w niektórych obszarach są niejasne i budzą szereg wątpliwości interpretacyjnych. Organy podatkowe, którym jest wójt, 
+burmistrz lub prezydent miasta, często wydają niespójne interpretacje podatkowe w podobnych merytorycznie sprawach. Powyższe 
+powoduje, iż spółki Grupy Kapitałowej PGE były i mogą być stronami postępowań dotyczących podatku od nieruchomości. Jeżeli Grupa 
+uznaje, że w wyniku postępowania korekta rozliczeń jest prawdopodobna, tworzy odpowiednią rezerwę. 
+23. Informacja o podmiotach powiązanych 
+Transakcje Grupy Kapitałowej PGE z jednostkami powiązanymi są dokonywane w oparciu o ceny rynkowe dostarczanych towarów, 
+produktów i usług lub oparte są o koszt ich wytworzenia. 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 41 z 50 
+ 
+23.1 
+Jednostki stowarzyszone i współkontrolowane 
+Łączna wartość transakcji, sald z jednostkami stowarzyszonymi i współkontrolowanymi została przedstawiona w tabeli poniżej. 
+ 
+ 
+ 
+Okres zakończony 
+30 września 2019 
+Okres zakończony 
+30 września 2018 
+Sprzedaż do jednostek stowarzyszonych i współkontrolowanych 
+10 
+14 
+Zakupy od jednostek stowarzyszonych i współkontrolowanych 
+1.846 
+1.472 
+ 
+ 
+ 
+Stan na dzień 
+30 września 2019 
+Stan na dzień 
+31 grudnia 2018 
+Należności handlowe od jednostek stowarzyszonych i współkontrolowanych 
+1 
+7 
+Zobowiązania handlowe wobec jednostek stowarzyszonych i współkontrolowanych 
+234 
+120 
+ 
+Powyższe obroty i salda uwzględniają transakcje z Polską Grupą Górniczą S.A. oraz Polimex-Mostostal S.A. 
+23.2 
+Spółki zależne od Skarbu Państwa 
+Dominującym właścicielem PGE Polskiej Grupy Energetycznej S.A. jest Skarb Państwa, w związku z tym zgodnie z MSR 24 Ujawnianie 
+informacji na temat podmiotów powiązanych spółki Skarbu Państwa są traktowane jako podmioty powiązane. Spółki Grupy PGE 
+identyfikują szczegółowo transakcje z około 40 najważniejszymi spółkami zależnymi od Skarbu Państwa. 
+Łączna wartość transakcji, sald z powyższymi jednostkami została przedstawiona w tabeli poniżej. 
+ 
+ 
+ 
+Okres zakończony 
+30 września 2019 
+Okres zakończony 
+30 września 2018 
+Sprzedaż na rzecz podmiotów powiązanych 
+1.545 
+1.402 
+Zakupy od podmiotów powiązanych 
+4.095 
+3.415 
+ 
+ 
+ 
+ 
+Stan na dzień 
+30 września 2019 
+Stan na dzień 
+31 grudnia 2018 
+Należności handlowe od podmiotów powiązanych 
+351 
+230 
+Zobowiązania handlowe wobec podmiotów powiązanych 
+555 
+682 
+ 
+Największe transakcje z udziałem spółek Skarbu Państwa dotyczą spółek Polskie Sieci Elektroenergetyczne S.A., Polskie Górnictwo 
+Naftowe i Gazownictwo S.A., Jastrzębska Spółka Węglowa S.A., PKP Cargo S.A., Zakłady Azotowe PUŁAWY S.A., PKO Bank Polski S.A., 
+Grupa LOTOS S.A., PKN Orlen S.A., TAURON Dystrybucja S.A.. 
+Ponadto Grupa Kapitałowa PGE dokonuje istotnych transakcji na rynku energii za pośrednictwem Towarowej Giełdy Energii S.A. Z uwagi 
+na fakt, iż jednostka ta zajmuje się jedynie organizacją obrotu giełdowego, zakup i sprzedaż za jej pośrednictwem nie są traktowane jako 
+transakcje z podmiotem powiązanym. 
+23.3 
+Wynagrodzenie kadry kierowniczej 
+Główna kadra kierownicza obejmuje Zarząd i Radę Nadzorczą jednostki dominującej oraz istotnych spółek zależnych. 
+ 
+ 
+tys. PLN 
+Okres zakończony 
+30 września 2019 
+Okres zakończony 
+30 września 2018 
+Krótkoterminowe świadczenia pracownicze (wynagrodzenia i narzuty) 
+26.776 
+27.603 
+Świadczenia po okresie zatrudnienia 
+1.373 
+3.325 
+ŁĄCZNA KWOTA WYNAGRODZENIA GŁÓWNEJ KADRY KIEROWNICZEJ 
+28.149 
+30.928 
+Wynagrodzenie kadry kierowniczej spółek działalności pozostałej 
+15.042 
+15.611 
+ŁĄCZNA KWOTA WYNAGRODZENIA KADRY KIEROWNICZEJ 
+43.191 
+46.539 
+ 
+ 
+tys. PLN 
+Okres zakończony 
+30 września 2019 
+Okres zakończony 
+30 września 2018 
+Zarząd jednostki dominującej 
+5.857 
+5.847 
+Rada Nadzorcza jednostki dominującej 
+563 
+507 
+Zarządy - jednostki zależne 
+19.058 
+22.354 
+Rady Nadzorcze - jednostki zależne 
+2.671 
+2.220 
+RAZEM 
+28.149 
+30.928 
+Wynagrodzenie kadry kierowniczej spółek działalności pozostałej 
+15.042 
+15.611 
+ŁĄCZNA KWOTA WYNAGRODZENIA KADRY KIEROWNICZEJ 
+43.191 
+46.539 
+ 
+W spółkach GK PGE (pośrednio i bezpośrednio zależnych) realizowana jest zasada, że członkowie zarządów zatrudniani są na podstawie 
+umowy o świadczenie usług zarządzania. W nocie 6.2 Koszty w układzie rodzajowym i kalkulacyjnym wynagrodzenia z tego tytułu są 
+prezentowane w pozycji pozostałe koszty rodzajowe. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 42 z 50 
+ 
+24. Istotne zdarzenia oraz zdarzenia po zakończeniu okresu sprawozdawczego 
+24.1 
+Ustawa o zmianie ustawy o podatku akcyzowym oraz niektórych ustaw 
+W dniu 28 grudnia 2018 roku została uchwalona ustawa o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw 
+(„Ustawa o cenach prądu”). Ustawa ta ma na celu ustabilizowanie cen sprzedaży energii elektrycznej do odbiorcy końcowego w 2019 
+roku. Ustawa o cenach prądu została dwukrotnie znowelizowana: ustawą z dnia 21 lutego 2019 roku oraz ustawą z dnia 13 czerwca 
+2019 roku. Ponadto w dniu 19 lipca 2019 roku została uchwalona ustawa o systemie rekompensat dla sektorów i podsektorów 
+energochłonnych, która wpływa na Ustawę. 
+Kluczowe postanowienia znowelizowanej Ustawy o cenach prądu są następujące: 
+ 
+Z dniem 1 stycznia 2019 roku podatek akcyzowy na energię elektryczną został obniżony z 20 zł do 5 zł za MWh. Obniżona 
+została również o 95% opłata przejściowa, płacona co miesiąc przez odbiorców energii elektrycznej. 
+ 
+Spółki obrotu zostały zobowiązane do oferowania w 2019 roku odbiorcom końcowym energii elektrycznej w cenach ustalonych 
+zgodnie z Ustawą. Zasady ustalania cen i krąg beneficjentów Ustawy są odmienne w pierwszym i drugim półroczu 2019 roku. 
+ 
+W okresie od 1 stycznia do 30 czerwca 2019 roku ceny za energię elektryczną dla odbiorcy końcowego mają odpowiadać 
+cenom stosowanym w dniu 31 grudnia 2018 roku ustalonym w taryfie zatwierdzonej przez Prezesa Urzędu Regulacji Energetyki 
+(„Prezes URE”) albo cenom stosowanym 30 czerwca 2018 roku – jeżeli ceny dla odbiorców końcowych zostały określone 
+w sposób inny niż w taryfie. Do utrzymania cen z 2018 roku uprawnieni są wszyscy odbiorcy końcowi. Wyjątek od tej zasady 
+dotyczy przedsiębiorstw energochłonnych, które w terminie do 12 września 2019 roku złożyły stosowne oświadczenie 
+o zrzeczeniu się do uprawnienia do korzystania z obniżonych cen i opłat za energię elektryczną z Ustawy. 
+ 
+W okresie od 1 lipca do 31 grudnia 2019 roku: 
+ 
+Dla gospodarstw domowych (w tym również budynków mieszkalnych, garaży, domków letniskowych i ogródków 
+działkowych) obowiązują ceny z 2018 roku. Z kolei dla mikro i małych przedsiębiorców, szpitali, jednostek finansów 
+publicznych, państwowych jednostek organizacyjnych warunkiem obowiązywania cen z 2018 roku jest złożenie 
+odpowiedniego oświadczenia przez beneficjenta. Termin składania oświadczeń upłynął 13 sierpnia 2019 roku. 
+ 
+Średnie i duże przedsiębiorstwa – nie są uprawnione do utrzymania cen z 2018. Podmioty te mogą wystąpić z wnioskiem 
+o dofinansowanie z tytułu wzrostu cen energii elektrycznej do Zarządcy Rozliczeń S.A. zgodnie z zasadami udzielania 
+pomocy publicznej de minimis. 
+ 
+Przedsiębiorstwa energochłonne – nie są beneficjantami Ustawy o cenach prądu w tym okresie. Przedsiębiorstwa 
+energochłonne mogą skorzystać ze wsparcia na podstawie ustawy o systemie rekompensat dla sektorów i podsektorów 
+energochłonnych. 
+ 
+Przedsiębiorstwa sprzedaży detalicznej (jak PGE Obrót S.A.) są uprawnione do otrzymania rekompensat z tytułu obniżenia 
+ceny. Wysokość rekompensat zależy przede wszystkim od średnioważonych cen energii elektrycznej i pozostałych kosztów 
+jednostkowych przedsiębiorstw obrotu publikowanych przez Prezesa URE – oraz zrealizowanego wolumenu. Rekompensaty 
+przyznawane są na wniosek przedsiębiorstwa. 
+W okresie sprawozdawczym Grupa Kapitałowa PGE dostosowała ceny sprzedaży energii elektrycznej dla gospodarstw domowych 
+korzystających z cen taryfowych lub pochodnych oraz w cennikach taryfowych A, B, C, R zgodnie z Ustawą. W przypadku innych 
+beneficjantów Ustawy o cenach prądu, w pierwszym półroczu 2019 roku Grupa Kapitałowa PGE stosowała ceny wynikające z zawartych 
+umów, ponieważ zmiana ceny sprzedaży dla tych beneficjentów Ustawy jest uzależniona od wydania przepisów wykonawczych, które 
+zostały opublikowane po 30 czerwca 2019 roku. W konsekwencji spółki obrotu zostały zobowiązane do dostosowania cen dla 
+wszystkich odbiorców końcowych do dnia 13 września 2019 roku ze skutkiem od 1 stycznia 2019 roku. 
+Skutki sprawozdawcze 
+Oceniając skutki sprawozdawcze dla skonsolidowanego sprawozdania finansowego Grupa uwzględniła w swojej analizie w 
+szczególności: 
+ 
+Różnicę pomiędzy przychodami oszacowanymi zgodnie z Ustawą i nieuniknionymi kosztami wypełnienia obowiązku 
+wypełnienia kontraktów na poziomie poszczególnych spółek – w tym głównie PGE Obrót S.A. 
+ 
+Dodatni bilans energetyczny pomiędzy wartością wytworzenia energii elektrycznej i sprzedaży do odbiorcy końcowego. 
+ 
+Wartość należnych rekompensat zarówno za pierwsze jak i drugie półrocze 2019 roku. 
+ 
+Niepewności związane z oszacowaniem obniżki przychodów oraz należnych rekompensat. 
+Część skutków Ustawy jest szacunkiem Grupy Kapitałowej PGE i ostateczne rozliczenie obniżenia przychodów i otrzymane 
+rekompensaty mogą się różnić od wartości ujętych w niniejszym sprawozdaniu finansowym. 
+Analizując kwestię tzw. umów rodzących obciążenia w rozumieniu MSR 37 w segmencie Obrót różnica pomiędzy przychodami 
+oszacowanymi zgodnie z Ustawą i nieuniknionymi kosztami wypełnienia obowiązku wypełnienia kontraktów na dzień 30 września 2019 
+roku wynosi 71 mln PLN (nadwyżka kosztów nad przychodami). Przy czym do kosztów co do zasady zalicza się wyłącznie koszty 
+bezpośrednio związane z kontraktem, których jednostka by uniknęła, gdyby nie realizowała kontraktu. Ustalenie straty na kontrakcie 
+w rozumieniu MSR 37 nie obejmuje przyszłych strat operacyjnych. W odniesieniu do rekompensat należnych za czwarty kwartał 2019 
+roku Grupa przyjęła założenie, iż rekompensaty są jej bezwzględnie należne i należy je uwzględnić w sprawozdaniu finansowym w celu 
+prawidłowego odzwierciedlenia efektów Ustawy. W konsekwencji zgodnie z MSR 37 w segmencie Obrót ujęto oczekiwany zwrot 
+wydatków w postaci części rekompensat należnych za czwarty kwartał 2019 roku. Wysokość ujętego zwrotu wynosi 66 mln PLN. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 43 z 50 
+ 
+Oczekiwany zwrot wydatków został oszacowany dla poszczególnych grup kontraktów zgodnie z najlepszą wiedzą Grupy, w wysokości 
+nie wyższej niż wartość rezerwy utworzonej dla danej grupy kontraktów. Ostateczna wysokość rekompensat będzie zależeć od publikacji 
+kolejnych parametrów przez Prezesa URE i może różnić się od szacunków Grupy. 
+Z kolei zdaniem Grupy umowy rodzące obciążenia nie występują na poziomie skonsolidowanego sprawozdania finansowego z uwagi na 
+dodatnią marżę realizowaną pomiędzy kosztem wytworzenia energii a jej sprzedażą do odbiorcy końcowego. 
+Na dzień 30 września 2019 roku Grupa PGE wykazuje należności z tytułu należnych rekompensat za okres od 1 stycznia 2019 roku do 
+30 września 2019 roku w wysokości 1.007 mln PLN. 
+24.2 
+Przyznanie dodatkowych uprawnień do emisji CO2 dla instalacji PGE 
+W wyniku rozliczenia nakładów inwestycyjnych dokonanych w Grupie PGE, aktywa wytwórcze nabyte od grupy EDF w 2017 roku 
+otrzymały w kwietniu 2019 roku dodatkowy przydział uprawnień do emisji CO2 za lata 2013-2017 w wysokości około 11 mln ton 
+uprawnień. Uprawnienia te są przeznaczone do działalności tradingowej. 
+Otrzymane uprawnienia zostały ujęte w pozycji Zapasy (nota 13) oraz Pozostałe przychody operacyjne (nota 6.3). Uprawnienia 
+wyceniane są na każdy dzień sprawozdawczy do wartości godziwej. Ich wartość godziwa wynosi na 30 września 2019 roku 1.348 mln 
+PLN a wycena związanych z nimi kontraktów terminowych (towarowych i walutowych) wynosi łącznie 87 mln PLN. 
+24.3 
+Utworzenie Funduszu Eko-Inwestycje 
+W dniu 30 lipca 2019 roku spółki PGE S.A., PGE Energia Ciepła S.A., PGE GiEK S.A. oraz PGE Energia Odnawialna S.A. zawarły umowę 
+inwestycyjną z Towarzystwem Funduszy Inwestycyjnych Energia S.A. które planuje utworzyć fundusz inwestycyjny zamknięty aktywów 
+niepublicznych pod nazwą „Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych Eko-Inwestycje”. 
+Fundusz będzie koncentrował działania na realizacji projektów inwestycyjnych o charakterze komplementarnym w stosunku do 
+podstawowej działalności GK PGE, zgodnych z jej strategią, nakierowane na rozwój nowych linii biznesowych. Polityka inwestycyjna 
+Funduszu przewiduje określone kategorie lokat Funduszu, obszary rynkowe oraz kryteria, jakimi będą się kierować zarządzający 
+aktywami Funduszu przy wyborze tychże lokat. Fundusz będzie realizować cel inwestycyjny przez lokowanie środków w podmioty 
+działające w obszarach rynkowych związanych z: 
+ 
+elektromobilnością, 
+ 
+zwiększeniem elastyczności i optymalizacją systemów energetycznych, 
+ 
+usługami efektywności energetycznej, 
+ 
+ograniczaniem emisyjności energetyki, poprawą jej sprawności, niezawodności i elastyczności wytwarzania, w tym inwestycje 
+w wysokowydajne źródła wytwarzania, 
+ 
+wykorzystaniem technologii cyfrowych do poprawy efektywności kosztowej procesów produkcyjnych i wspierających 
+w energetyce. 
+Zakładany horyzont inwestycyjny obejmuje okres co najmniej 5 lat, o ile szczegółowe warunki inwestycji nie będą uzasadniały krótszego 
+okresu. 
+Inwestorzy zobowiązani będą do dokonania wpłat do Funduszu w łącznej kwocie nie mniejszej niż 1,5 mld PLN do końca okresu 
+dostosowawczego Funduszu, tj. do końca 36 miesiąca od daty rejestracji Funduszu, na podstawie harmonogramu określonego 
+w umowie, przy czym większość wpłat przypadałaby na rok 2020. Środki przekazywane do Funduszu będą pochodziły między innymi ze 
+sprzedaży części dodatkowych uprawnień do emisji CO2. Fundusz zostanie utworzony na czas nieokreślony. Rozwiązanie Funduszu może 
+nastąpić nie wcześniej niż po upływie 7 lat od wpisania Funduszu do rejestru funduszy inwestycyjnych. 
+
+Kwartalna informacja finansowa PGE Polska Grupa Energetyczna S.A. 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodna z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 44 z 50 
+ 
+II. KWARTALNA INFORMACJA FINANSOWA PGE POLSKA GRUPA ENERGETYCZNA S.A. ZA 
+OKRES 3 i 9 MIESIĘCY ZAKOŃCZONY 30 WRZEŚNIA 2019 ROKU ZGODNA Z MSSF UE 
+JEDNOSTKOWE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW 
+ 
+3 m-ce 
+zakończone 
+9 m-cy 
+zakończone 
+3 m-ce 
+zakończone 
+9 m-cy 
+zakończone 
+30 września 
+2019 
+30 września 
+2019 
+30 września 
+2018 
+30 września 
+2018 
+(niebadane) 
+(niebadane) 
+(niebadane) 
+dane przekształcone 
+(niebadane) 
+dane przekształcone 
+RACHUNEK ZYSKÓW I STRAT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRZYCHODY ZE SPRZEDAŻY 
+3.824 
+11.872 
+2.779 
+7.958 
+Koszt własny sprzedaży 
+(3.663) 
+(11.151) 
+(2.566) 
+(7.393) 
+ZYSK BRUTTO ZE SPRZEDAŻY 
+161 
+721 
+213 
+565 
+Koszty sprzedaży i dystrybucji 
+(3) 
+(11) 
+(4) 
+(13) 
+Koszty ogólnego zarządu 
+(52) 
+(154) 
+(51) 
+(155) 
+Pozostałe koszty operacyjne netto 
+(14) 
+(14) 
+- 
+(1) 
+ZYSK Z DZIAŁALNOŚCI OPERACYJNEJ 
+92 
+542 
+158 
+396 
+Przychody finansowe netto 
+42 
+1.063 
+43 
+107 
+ZYSK BRUTTO 
+134 
+1.605 
+201 
+503 
+Bieżący podatek dochodowy 
+88 
+44 
+3 
+(48) 
+Odroczony podatek dochodowy 
+(4) 
+(27) 
+(8) 
+(3) 
+ZYSK NETTO ZA OKRES SPRAWOZDAWCZY 
+218 
+1.622 
+196 
+452 
+ 
+ 
+ 
+ 
+ 
+INNE CAŁKOWITE DOCHODY 
+ 
+ 
+ 
+ 
+Pozycje, które mogą w przyszłości zostać rozliczone z wynikiem: 
+ 
+ 
+ 
+ 
+Wyceny instrumentów zabezpieczających 
+(92) 
+(131) 
+(7) 
+(32) 
+Podatek odroczony 
+18 
+25 
+1 
+6 
+INNE DOCHODY ZA OKRES SPRAWOZDAWCZY, NETTO 
+(74) 
+(106) 
+(6) 
+(26) 
+ 
+ 
+ 
+ 
+ 
+RAZEM CAŁKOWITE DOCHODY 
+144 
+1.516 
+190 
+426 
+ 
+ 
+ 
+ 
+ 
+ZYSK NETTO I ROZWODNIONY ZYSK NETTO NA JEDNĄ AKCJĘ 
+(W ZŁOTYCH) 
+0,12 
+0,87 
+0,10 
+0,24 
+* przekształcenie danych porównawczych zostało opisane w nocie 1. kwartalnej informacji finansowej 
+ 
+ 
+
+Kwartalna informacja finansowa PGE Polska Grupa Energetyczna S.A. 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodna z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 45 z 50 
+ 
+JEDNOSTKOWE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ 
+ 
+ 
+Stan na dzień 
+30 września 2019 
+(niebadane) 
+Stan na dzień 
+31 grudnia 2018 
+(badane) 
+dane przekształcone* 
+AKTYWA TRWAŁE 
+ 
+ 
+ 
+Rzeczowe aktywa trwałe 
+ 
+161 
+167 
+Wartości niematerialne 
+ 
+1 
+1 
+Prawo do użytkowania składników aktywów 
+ 
+20 
+- 
+Należności finansowe 
+ 
+12.960 
+13.000 
+Instrumenty pochodne i inne aktywa wyceniane w wartości godziwej przez wynik 
+finansowy 
+ 
+132 
+115 
+Udziały i akcje w jednostkach zależnych 
+ 
+33.025 
+32.024 
+Udziały i akcje w jednostkach stowarzyszonych i współkontrolowanych 
+ 
+101 
+101 
+Aktywa z tytułu odroczonego podatku dochodowego 
+ 
+16 
+19 
+ 
+ 
+46.416 
+45.427 
+AKTYWA OBROTOWE 
+ 
+ 
+ 
+Zapasy 
+ 
+57 
+4 
+Należności z tytułu podatku dochodowego 
+ 
+76 
+57 
+Należności z tytułu dostaw i usług i pozostałe należności 
+ 
+6.063 
+5.306 
+Instrumenty pochodne 
+ 
+324 
+231 
+Pozostałe aktywa krótkoterminowe 
+ 
+737 
+51 
+Środki pieniężne i ich ekwiwalenty 
+ 
+39 
+235 
+ 
+ 
+7.296 
+5.884 
+SUMA AKTYWÓW 
+ 
+53.712 
+51.311 
+KAPITAŁ WŁASNY 
+ 
+ 
+ 
+Kapitał podstawowy 
+ 
+19.165 
+19.165 
+Kapitał zapasowy 
+ 
+19.669 
+19.872 
+Kapitał z wyceny instrumentów finansowych 
+ 
+(106) 
+(2) 
+Zyski zatrzymane 
+ 
+1.622 
+(201) 
+ 
+ 
+40.350 
+38.834 
+ZOBOWIĄZANIA DŁUGOTERMINOWE 
+ 
+ 
+ 
+Rezerwy długoterminowe 
+ 
+18 
+16 
+Kredyty, pożyczki, obligacje 
+ 
+9.600 
+5.733 
+Instrumenty pochodne 
+ 
+158 
+24 
+Pozostałe zobowiązania 
+ 
+17 
+21 
+ 
+ 
+9.793 
+5.794 
+ZOBOWIĄZANIA KRÓTKOTERMINOWE 
+ 
+ 
+ 
+Rezerwy krótkoterminowe 
+ 
+1 
+9 
+Kredyty, pożyczki, obligacje, cash pooling 
+ 
+2.526 
+5.439 
+Instrumenty pochodne 
+ 
+274 
+164 
+Zobowiązania z tytułu dostaw i usług i pozostałe zobowiązania 
+ 
+698 
+840 
+Pozostałe zobowiązania niefinansowe 
+ 
+70 
+231 
+ 
+ 
+3.569 
+6.683 
+RAZEM ZOBOWIĄZANIA 
+ 
+13.362 
+12.477 
+SUMA KAPITAŁÓW I ZOBOWIĄZAŃ 
+ 
+53.712 
+51.311 
+* przekształcenie danych porównawczych zostało opisane w nocie 1. kwartalnej informacji finansowej 
+ 
+ 
+ 
+
+Kwartalna informacja finansowa PGE Polska Grupa Energetyczna S.A. 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodna z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 46 z 50 
+ 
+JEDNOSTKOWE SPRAWOZDANIE ZE ZMIAN W KAPITAŁACH WŁASNYCH 
+ 
+Kapitał 
+podstawowy 
+Kapitał 
+zapasowy 
+Kapitał 
+z wyceny 
+instrumentów 
+finansowych 
+Zyski 
+zatrzymane 
+Razem kapitał 
+własny 
+NA DZIEŃ 1 STYCZNIA 2019 ROKU 
+19.165 
+19.872 
+(2) 
+(201) 
+38.834 
+Zysk netto za okres sprawozdawczy 
+- 
+- 
+- 
+1.622 
+1.622 
+Inne całkowite dochody 
+- 
+- 
+(104) 
+(2) 
+(106) 
+CAŁKOWITE DOCHODY ZA OKRES 
+- 
+- 
+(104) 
+1.620 
+1.516 
+ 
+ 
+ 
+ 
+ 
+ 
+Podział zysków lat ubiegłych 
+- 
+(203) 
+- 
+203 
+- 
+Pozostałe zmiany 
+- 
+- 
+- 
+- 
+- 
+NA DZIEŃ 30 WRZEŚNIA 2019 ROKU 
+19.165 
+19.669 
+(106) 
+1.622 
+40.350 
+ 
+ 
+Kapitał 
+podstawowy 
+Kapitał 
+zapasowy 
+Kapitał 
+z wyceny 
+instrumentów 
+finansowych 
+Zyski 
+zatrzymane 
+Razem kapitał 
+własny 
+NA DZIEŃ 1 STYCZNIA 2018 ROKU 
+19.165 
+15.328 
+110 
+4.541 
+39.144 
+Zysk netto za okres sprawozdawczy 
+- 
+- 
+- 
+452 
+452 
+Inne całkowite dochody 
+- 
+- 
+(26) 
+- 
+(26) 
+CAŁKOWITE DOCHODY ZA OKRES 
+- 
+- 
+(26) 
+452 
+426 
+ 
+ 
+ 
+ 
+ 
+ 
+Podział zysków lat ubiegłych 
+- 
+4.544 
+- 
+(4.544) 
+- 
+Pozostałe zmiany 
+- 
+- 
+- 
+- 
+- 
+NA DZIEŃ 30 WRZEŚNIA 2018 ROKU 
+19.165 
+19.872 
+84 
+449 
+39.570 
+ 
+ 
+ 
+
+Kwartalna informacja finansowa PGE Polska Grupa Energetyczna S.A. 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodna z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 47 z 50 
+ 
+JEDNOSTKOWE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH 
+ 
+Okres zakończony 
+30 września 2019 
+(niebadane) 
+Okres zakończony 
+30 września 2018 
+(niebadane) 
+PRZEPŁYWY ŚRODKÓW PIENIĘŻNYCH Z DZIAŁALNOŚCI OPERACYJNEJ 
+ 
+ 
+Zysk brutto 
+1.605 
+503 
+Podatek dochodowy zapłacony 
+(168) 
+46 
+ 
+ 
+ 
+Korekty o pozycje: 
+ 
+ 
+Amortyzacja i odpisy aktualizujące 
+9 
+10 
+Odsetki i dywidendy, netto 
+(1.084) 
+(96) 
+Zysk/ strata na działalności inwestycyjnej 
+(55) 
+52 
+Zmiana stanu należności 
+(335) 
+(13) 
+Zmiana stanu zapasów 
+(53) 
+(861) 
+Zmiana stanu zobowiązań z wyjątkiem kredytów i pożyczek 
+(148) 
+(29) 
+Zmiana stanu pozostałych aktywów niefinansowych 
+(649) 
+26 
+Zmiana stanu rezerw 
+(8) 
+- 
+Różnice kursowe 
+11 
+- 
+ŚRODKI PIENIĘŻNE NETTO Z DZIAŁALNOŚCI OPERACYJNEJ 
+(875) 
+(362) 
+ 
+ 
+ 
+PRZEPŁYWY ŚRODKÓW PIENIĘŻNYCH Z DZIAŁALNOŚCI INWESTYCYJNEJ 
+ 
+ 
+Nabycie rzeczowych aktywów trwałych i wartości niematerialnych 
+(3) 
+(2) 
+(Nabycie)/wykup obligacji emitowanych przez spółki Grupy PGE 
+228 
+(1.695) 
+Dywidendy otrzymane 
+950 
+46 
+Nabycie udziałów i akcji spółek zależnych 
+(1.016) 
+(176) 
+Udzielenie/(spłaty) pożyczek w ramach usługi cash poolingu 
+(134) 
+662 
+Udzielenie pożyczek 
+(613) 
+(782) 
+Odsetki otrzymane 
+305 
+162 
+Spłata udzielonych pożyczek 
+2 
+260 
+ŚRODKI PIENIĘŻNE NETTO Z DZIAŁALNOŚCI INWESTYCYJNEJ 
+(281) 
+(1.525) 
+ 
+ 
+ 
+PRZEPŁYWY ŚRODKÓW PIENIĘŻNYCH Z DZIAŁALNOŚCI FINANSOWEJ 
+ 
+ 
+Wpływy z tytułu zaciągnięcia pożyczek, kredytów 
+5.033 
+1.870 
+Wpływy z tytułu emisji obligacji 
+1.400 
+- 
+Spłata pożyczek, kredytów i leasingu finansowego 
+(5.236) 
+- 
+Wykup wyemitowanych obligacji 
+- 
+(1.000) 
+Odsetki zapłacone 
+(236) 
+(180) 
+Pozostałe 
+(1) 
+(4) 
+ŚRODKI PIENIĘŻNE NETTO Z DZIAŁALNOŚCI FINANSOWEJ 
+960 
+686 
+ 
+ 
+ 
+ZMIANA NETTO STANU ŚRODKÓW PIENIĘŻNYCH I ICH EKWIWALENTÓW 
+(196) 
+(1.201) 
+Różnice kursowe netto 
+ 
+ 
+ŚRODKI PIENIĘŻNE NA POCZĄTEK OKRESU 
+233 
+1.831 
+ŚRODKI PIENIĘŻNE NA KONIEC OKRESU 
+37 
+630 
+ 
+ 
+ 
+
+Kwartalna informacja finansowa PGE Polska Grupa Energetyczna S.A. 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodna z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 48 z 50 
+ 
+1. Zmiana zasad rachunkowości i prezentacji danych 
+Nowe standardy i interpretacje, które weszły w życie 1 stycznia 2019 roku 
+Wpływ nowych standardów i interpretacji które weszły w życie 1 stycznia 2019 roku, a nie miały wpływu na jednostkowe sprawozdanie 
+finansowe Spółki, został opisany szerzej w nocie 3 skonsolidowanego sprawozdania finansowego. 
+Efekt zastosowania MSSF 16 na jednostkowe sprawozdanie finansowe: 
+ 
+Prawa do użytkowania składników aktywów oraz zobowiązania finansowe na dzień 1 stycznia 2019 roku wzrosły o 20 mln PLN. 
+ 
+Zyski zatrzymane na 1 stycznia 2019 roku nie uległy zmianie. 
+ 
+Wynik finansowy brutto za 9 miesięcy 2019 roku jest niższy o 188 tys. PLN. 
+ 
+EBITDA za 9 miesięcy 2019 roku jest wyższa o 699 tys. PLN. 
+Zmiany stosowanych zasad rachunkowości 
+W sprawozdaniu z całkowitych dochodów zaprezentowano netto przychody i koszty finansowe. 
+W bieżącym okresie Spółka zdecydowała o zmianie prezentacji z działalności finansowej do działalności operacyjnej wycen 
+instrumentów pochodnych związanych z handlem uprawnieniami do emisji CO2. Handel uprawnieniami do emisji CO2 na rzecz Grupy 
+PGE stanowi podstawową działalność Spółki, dlatego zmieniona prezentacja lepiej odzwierciedla charakter prowadzonej działalności. 
+Spółka zdecydowała także o zmianie sposobu podziału należności i zobowiązań z tytułu kredytów, pożyczek i obligacji na część długo 
+i krótkoterminową. Dotychczasową wartość bieżącą generowanych przepływów pieniężnych zastąpiono metodą terminu płatności. 
+Zdaniem Spółki zmieniona prezentacja w bardziej prawidłowy sposób przedstawia charakter tej pozycji. 
+Spółka przekształciła dane porównawcze prezentowane w sprawozdaniach z sytuacji finansowej oraz z całkowitych dochodów. 
+Przekształcenie zostało przedstawione w poniższych tabelach. 
+JEDNOSTKOWE SPRAWOZDANIE Z 
+CAŁKOWITYCH DOCHODÓW 
+3 m-ce 
+zakończone 
+30 września 2018 
+(niebadane) 
+dane publikowane 
+Prezentacja netto 
+pozostałej działalności 
+operacyjnej i 
+działalności 
+finansowej 
+Zmiana ujęcia wyceny 
+transakcji 
+terminowych 
+dotyczących obrotu 
+CO2 
+3 m-ce 
+ zakończone 
+30 września 2018 
+(niebadane) 
+dane przekształcone 
+RACHUNEK ZYSKÓW I STRAT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRZYCHODY ZE SPRZEDAŻY 
+2.779 
+- 
+- 
+2.779 
+Koszt własny sprzedaży 
+(2.560) 
+- 
+(6) 
+(2.566) 
+ZYSK BRUTTO ZE SPRZEDAŻY 
+219 
+- 
+(6) 
+213 
+Pozostałe przychody operacyjne 
+2 
+(2) 
+- 
+- 
+Pozostałe koszty operacyjne 
+(2) 
+2 
+- 
+- 
+Pozostałe koszty operacyjne netto 
+ 
+- 
+- 
+- 
+ZYSK Z DZIAŁALNOŚCI OPERACYJNEJ 
+164 
+- 
+(6) 
+158 
+Przychody finansowe 
+138 
+(138) 
+- 
+- 
+Koszty finansowe 
+(101) 
+101 
+- 
+- 
+Przychody finansowe netto 
+- 
+37 
+6 
+43 
+ZYSK BRUTTO 
+201 
+- 
+- 
+201 
+ZYSK NETTO ZA OKRES SPRAWOZDAWCZY 
+196 
+- 
+- 
+196 
+ 
+JEDNOSTKOWE SPRAWOZDANIE Z 
+CAŁKOWITYCH DOCHODÓW 
+9 m-cy 
+zakończone 
+30 września 2018 
+(niebadane) 
+dane publikowane 
+Prezentacja netto 
+pozostałej działalności 
+operacyjnej i 
+działalności 
+finansowej 
+Zmiana ujęcia wyceny 
+transakcji 
+terminowych 
+dotyczących obrotu 
+CO2 
+9 m-cy 
+zakończone 
+30 września 2018 
+(niebadane) 
+dane przekształcone 
+RACHUNEK ZYSKÓW I STRAT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRZYCHODY ZE SPRZEDAŻY 
+7.958 
+- 
+- 
+7.958 
+Koszt własny sprzedaży 
+(7.351) 
+- 
+(42) 
+(7.393) 
+ZYSK BRUTTO ZE SPRZEDAŻY 
+607 
+- 
+(42) 
+565 
+Pozostałe przychody operacyjne 
+5 
+(5) 
+- 
+- 
+Pozostałe koszty operacyjne 
+(6) 
+6 
+- 
+- 
+Pozostałe koszty operacyjne netto 
+ 
+(1) 
+- 
+(1) 
+ZYSK Z DZIAŁALNOŚCI OPERACYJNEJ 
+438 
+- 
+(42) 
+396 
+Przychody finansowe 
+377 
+(377) 
+- 
+- 
+Koszty finansowe 
+(312) 
+312 
+- 
+- 
+Przychody finansowe netto 
+- 
+65 
+42 
+107 
+ZYSK BRUTTO 
+503 
+- 
+- 
+503 
+ZYSK NETTO ZA OKRES SPRAWOZDAWCZY 
+452 
+- 
+- 
+452 
+ 
+ 
+ 
+
+Kwartalna informacja finansowa PGE Polska Grupa Energetyczna S.A. 
+za okres 3 i 9 miesięcy zakończony dnia 30 września 2019 roku zgodna z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 49 z 50 
+ 
+ 
+ 
+ 
+ 
+JEDNOSTKOWE SPRAWOZDANIE Z SYTUACJI 
+FINANSOWEJ 
+Stan na dzień 
+31 grudnia 2018 
+Zmiana 
+prezentacji 
+Stan na dzień 
+31 grudnia 2018 
+dane publikowane 
+dane przekształcone 
+AKTYWA TRWAŁE, w tym: 
+ 
+ 
+ 
+Należności finansowe 
+12.756 
+244 
+13.000 
+AKTYWA TRWAŁE ŁACZNIE 
+45.183 
+244 
+45.427 
+AKTYWA OBROTOWE, w tym: 
+ 
+ 
+ 
+Należności z tytułu dostaw i usług i pozostałe należności 
+5.550 
+(244) 
+5.306 
+AKTYWA OBROTOWE ŁĄCZNIE 
+6.128 
+(244) 
+5.884 
+SUMA AKTYWÓW 
+51.311 
+- 
+51.311 
+ 
+ 
+ 
+ 
+ZOBOWIĄZANIA DŁUGOTERMINOWE, w tym: 
+ 
+ 
+ 
+Kredyty, pożyczki, obligacje 
+5.628 
+105 
+5.733 
+ZOBOWIĄZANIA DŁUGOTERMINOWE ŁĄCZNIE 
+5.689 
+105 
+5.794 
+ZOBOWIĄZANIA KRÓTKOTERMINOWE, w tym: 
+ 
+ 
+ 
+Kredyty, pożyczki, obligacje, cash pooling 
+5.544 
+(105) 
+5.439 
+ZOBOWIĄZANIA KTÓTKOTERMINOWE ŁĄCZNIE 
+6.788 
+(105) 
+6.683 
+RAZEM ZOBOWIĄZANIA 
+12.477 
+- 
+12.477 
+SUMA KAPITAŁÓW I ZOBOWIĄZAŃ 
+51.311 
+- 
+51.311 
+
+Kwartalny raport finansowy za okres 3 i 9 miesięcy 
+zakończony dnia 30 września 2019 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+ 50 z 50 
+ 
+III. Zatwierdzenie kwartalnego raportu finansowego 
+Niniejszy raport finansowy zawierający śródroczne skonsolidowane sprawozdanie finansowe GK PGE oraz kwartalną informację 
+finansową PGE S.A. za okres 3 i 9 miesięcy zakończony 30 września 2019 roku został zatwierdzony do udostępnienia przez Zarząd 
+jednostki dominującej dnia 12 listopada 2019 roku. 
+ 
+Warszawa, 12 listopada 2019 roku 
+ 
+Podpisy Członków Zarządu PGE Polska Grupa Energetyczna S.A. 
+ 
+Prezes Zarządu 
+Henryk Baranowski 
+ 
+ 
+Wiceprezes Zarządu 
+Wojciech Kowalczyk 
+ 
+ 
+Wiceprezes Zarządu 
+Marek Pastuszko 
+ 
+ 
+Wiceprezes Zarządu 
+Paweł Śliwa 
+ 
+ 
+Wiceprezes Zarządu 
+Ryszard Wasiłek 
+ 
+ 
+Wiceprezes Zarządu 
+Emil Wojtowicz 
+ 
+ 
+ 
+Podpis osoby 
+odpowiedzialnej za 
+sporządzenie 
+sprawozdania 
+finansowego 
+Michał Skiba 
+Dyrektor 
+Departamentu 
+Sprawozdawczości 
+i Podatków

@@ -1,0 +1,627 @@
+1 PÓŁROCZNY RAPORT FINANSOWY PGE Polskiej Grupy Energetycznej S.A. za okres 6 miesięcy Zakończony dnia 30 czerwca 2025 roku zgodny z MSSF UE (w milionach złotych) 2 Spis treści I.
+
+Sprawy sądowe ............................................................................ 59 Zobowiązania warunkowe ..................................................................................................................... 59 Pozostałe istotne kwestie związane ze zobowiązaniami warunkowymi ........................................................ 60 Inne sprawy sądowe i sporne ................................................................................................................ 61 Rozliczenia podatkowe ......................................................................................................................... 65 Informacja o podmiotach powiązanych ................................................................................................... 67 Jednostki stowarzyszone i współkontrolowane ......................................................................................... 67 Spółki zależne od Skarbu Państwa ......................................................................................................... 68 Wynagrodzenie kadry kierowniczej ........................................................................................................ 68 Istotne zdarzenia oraz zdarzenia po zakończeniu okresu sprawozdawczego ................................................ 69 Projekt wydzielenia wytwórczych aktywów węglowych ............................................................................. 69 Zmiany regulacyjne ............................................................................................................................. 70 Zawarcie porozumienia i utworzenie spółki celowej na potrzeby związane z projektem budowy elektrowni jądrowej ............................................................................................................................. 71 Realizacja oraz finansowanie Projektu Baltica 2 ....................................................................................... 72 Podpisanie umów pożyczek z BGK w ramach Krajowego Planu Odbudowy i Zwiększenia Odporności .............. 73 4 II.
+
+ZATWIERDZENIE PÓŁROCZNEGO RAPORTU FINANSOWEGO ......................................... 103 SŁOWNIK POJĘĆ I SKRÓTÓW .............................................................................................. 104 Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 5 I.
+
+Grupa Kapitałowa PGE w ocenie sytuacji rynkowej posługuje się zarówno własnymi narzędziami analitycznymi, jak i wsparciem niezależnych ośrodków analitycznych.
+
+W poprzednich okresach sprawozdawczych Grupa Kapitałowa PGE dokonywała istotnych odpisów z tytułu utraty wartości aktywów trwałych segmentu Energetyka Węglowa, segmentu Ciepłownictwo oraz segmentu Energetyka Odnawialna, z wyłączeniem projektów Morskiej Energetyki Wiatrowej.
+
+W bieżącym okresie sprawozdawczym Grupa dokonała analizy przesłanek i zidentyfikowała czynniki, które w istotny sposób mogły przyczynić się do zmiany wartości posiadanych aktywów trwałych w powyżej wskazanych segmentach oraz w segmencie Energetyka Kolejowa i spółkach: PGE Gryfino Dolna Odra sp. z o.o., PGE Nowy Rybnik sp. z o.o., EW Baltica 2 sp. z o.o. i EW Baltica 3 sp. z o.o.
+
+Prognozy cen gazu ziemnego zakładają 11% spadek cen w 2026 roku w odniesieniu do cen z 2025 roku oraz utrzymanie cen w 2027 roku.
+
+Na przewidywane ceny gazu w Europie największy wpływ mają koszty importu LNG i związany z tym poziom inwestycji w instalacje do skraplania i regazyfikacji na całym świecie, a także dynamicznie rosnący popyt na LNG szczególnie w krajach azjatyckich, a także rosnące zapotrzebowanie na gaz w USA.
+
+W długim terminie prognoza cen gazu ziemnego zakłada wzrost, głównie ze względu na rosnące koszty wydobycia tego surowca.
+
+Z kolei na podstawie zmian proponowanych w dyrektywie budynkowej (EPBD) prognozy wskazują na spadek zapotrzebowania na ciepło w miejskich systemach ciepłowniczych.
+
+W czerwcu 2025 roku Grupa PGE ogłosiła strategię do 2035 roku, której jednym z założeń jest kompleksowa modernizacja posiadanych aktywów ciepłowniczych w oparciu o technologie nisko- i zeroemisyjne.
+
+Misja GK PGE opiera się o założenie bezpieczeństwa dostaw energii dzięki elastycznym źródłom i inteligentnej infrastrukturze sieciowej oraz magazynom energii.
+
+Do produkcji ciepła w nowych i zmodernizowanych jednostkach ciepłowniczych zostaną wykorzystane: gaz ziemny (jednostki kogeneracyjne i kotły wodne), geotermia, biomasa, technologie power to heat (kotły elektrodowe i wielkoskalowe pompy ciepła wykorzystujące ciepło odpadowe i energię otoczenia).
+
+Założenia do Planu Dekarbonizacji zostały uwzględnione przy szacowaniu wartości użytkowej aktywów wytwórczych segmentu Ciepłownictwo.
+
+Zgodnie z obowiązującą Strategią Grupy, ciepłownicze źródła węglowe zostaną zastąpione technologią nisko- i zeroemisyjną.
+
+Łącznie na inwestycje w ten segment do 2035 roku Grupa PGE planuje przeznaczyć około 18 mld PLN, z czego 15 mld PLN na inwestycje w nowe instalacje produkcyjne oraz utrzymanie majątku, a pozostałe 3 mld PLN trafi na potencjalne akwizycje sieci ciepłowniczych i następnie ich modernizację w szczególności we współpracy z samorządami.
+
+Nowe inwestycje i zastępowanie węgla kogeneracją gazową, OZE i Power-to-Heat, oraz podniesienie efektywności energetycznej sieci, pozwolą na obniżenie emisji CO2 w tym segmencie o 60% w stosunku do 2021 roku oraz obniżenie poziomu strat sieciowych o 3 punkty procentowe.
+
+W lipcu 2025 roku Komisja Europejska zaproponowała nowy cel redukcji emisji gazów cieplarnianych netto o 90% do roku 2040 względem poziomów z 1990 roku, rozpoczynając jednocześnie proces legislacyjny mający na celu aktualizację Europejskiego Prawa o Klimacie oraz konsultacje społeczne w tym zakresie.
+
+W związku z tym spodziewane jest dalsze ograniczanie roli źródeł węglowych w rynku energii w kolejnej dekadzie.
+
+Opisane powyżej zmiany powodują, że przewidywane jest zmniejszenie wolumenu produkcji ze źródeł konwencjonalnych, w konsekwencji skutkuje to ograniczeniem wydatków inwestycyjnych (CAPEX) i operacyjnych Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 20 (OPEX) na zadania utrzymaniowe majątku węglowego, co dodatkowo wpływa na przewidywany spadek rentowności poprzez stopniowe pogarszanie się dyspozycyjności tych jednostek.
+
+Równocześnie powyższe zmiany legislacyjne i rynkowe sprzyjają rozwojowi źródeł zero- oraz niskoemisyjnych.
+
+Należy mieć także na uwadze, że instalacje wytwórcze oparte o paliwa kopalne, w obliczu niepewności generacji z OZE (napędzanej czynnikami środowiska: woda, wiatr, słońce), są nadal potrzebne w systemie elektroenergetycznym, aby go zbilansować.
+
+Założenia szczegółowe segmentu Poniżej przedstawiono kluczowe założenia wpływające na oszacowanie wartości użytkowej testowanych CGU: • uznanie za jedno CGU z uwagi na powiązania technologiczne odpowiednio: o Oddziału Kopalnia Węgla Brunatnego Bełchatów oraz Oddziału Elektrownia Bełchatów (Kompleks Bełchatów), o Oddziału Kopalnia Węgla Brunatnego Turów oraz Oddziału Elektrownia Turów (Kompleks Turów), • uznanie za trzy oddzielne CGU Elektrowni Opole, Elektrowni Rybnik i Elektrowni Dolna Odra, • przyjęcie założenia o kontynuowaniu działalności w oparciu o uwarunkowania związane z przewidywanym stanem technicznym poszczególnych jednostek wytwórczych, • uwzględnienie optymalizacji kosztów pracy, wynikającej m.in. z aktualnych planów etatyzacji, • utrzymanie zdolności produkcyjnych w wyniku prowadzenia inwestycji o charakterze odtworzeniowym, • przyjęcie średniego ważonego kosztu kapitału po opodatkowaniu zróżnicowanego dla poszczególnych CGU, zgodnie z indywidualnie oszacowanym poziomem ryzyka oraz zróżnicowanego w czasie: o dla lat 2025-2026 na średniorocznym poziomie dla poszczególnych CGU od 8,48% do 10,19%, o dla lat 2027-2039 na średniorocznym poziomie dla poszczególnych CGU od 6,16% do 9,04%, o dla roku 2040 i kolejnych na średniorocznym poziomie dla poszczególnych CGU w wysokości 7,54%.
+
+W testach na utratę wartości aktywów na koniec 2024 roku średni ważony koszt kapitału po opodatkowaniu kształtował się następująco: o dla lat 2025-2026 na średniorocznym poziomie dla poszczególnych CGU od 7,60% do 9,48%, o dla lat 2027-2039 na średniorocznym poziomie dla poszczególnych CGU od 6,37% do 7,94%, o dla roku 2040 i kolejnych na średniorocznym poziomie dla poszczególnych CGU w wysokości 7,42%.
+
+Ostatecznie łączna wartość odpisów wyniosła 8.650 mln PLN i została przedstawiona w poniższej tabeli: Wartość testowana* Stwierdzona utrata wartości Wartość po odpisie Kompleks Bełchatów 1.878 (1.878) - Kompleks Turów 1.822 (1.822) - Elektrownia Opole 8.998 (4.950) 4.048 Elektrownia Dolna Odra - - - Elektrownia Rybnik - - - RAZEM 12.698 (8.650) 4.048 * łącznie z wartością aktywów trwałych rozpoznaną w czerwcu 2025 roku (głównie w wyniku zmiany szacunków rezerw rekultywacyjnych w kopalniach) W przypadku CGU odpisanych w pełni w poprzednich okresach sprawozdawczych (Elektrownia Dolna Odra, Elektrownia Rybnik) testy potwierdziły zasadność pełnego odpisu rzeczowych aktywów trwałych.
+
+Grupa utworzyła w tych oddziałach w pierwszym półroczu 2025 roku odpisy aktualizujące związane z dokonanymi nakładami inwestycyjnymi o wartości 26 mln PLN.
+
+Analiza wrażliwości Zgodnie z MSR 36 Utrata wartości aktywów Grupa przeprowadziła analizę wrażliwości dla poszczególnych jednostek wytwórczych.
+
+Zdaniem Grupy przyjęcie projekcji finansowych dłuższych niż pięcioletnie jest zasadne ze względu na fakt, iż rzeczowe aktywa trwałe wykorzystywane przez Grupę mają istotnie dłuższy okres ekonomicznej użyteczności oraz ze względu na istotny i długoterminowy wpływ szacowanych zmian w otoczeniu regulacyjnym ujętych w szczegółowej prognozie.
+
+Założenia szczegółowe Poniżej przedstawiono kluczowe założenia wpływające na oszacowanie wartości użytkowej testowanych CGU: • uznanie za odrębne CGU odpowiednio: o elektrowni szczytowo-pompowych (jedno CGU dla wszystkich elektrowni ze względu na wspólny ekonomiczny charakter), o elektrowni wodnych przepływowych (jedno CGU dla wszystkich elektrowni ze względu na wspólny ekonomiczny charakter), o poszczególnych elektrowni wiatrowych (oddzielne CGU dla poszczególnych elektrowni ze względu na różny okres eksploatacji elektrowni), o poszczególnych elektrowni fotowoltaicznych (oddzielne CGU dla poszczególnych elektrowni ze względu na różny okres eksploatacji elektrowni), • produkcja energii elektrycznej i praw majątkowych została założona na podstawie danych historycznych, z uwzględnieniem dyspozycyjności poszczególnych jednostek, • dyspozycyjność jednostek została oszacowana w oparciu o plany remontów z uwzględnieniem awaryjności, • dla ESP od połowy 2025 roku uwzględniono rozpoczęcie funkcjonowania rynkowego mechanizmu kontraktacji usług regulacyjnych, z którego przychody w pierwszych 5 latach zostały oszacowane na podstawie wewnętrznych analiz GK PGE a w długim terminie na podstawie opracowania zewnętrznego eksperta, • utrzymanie zdolności produkcyjnych w wyniku prowadzenia inwestycji o charakterze odtworzeniowym, Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 22 • przyjęcie skorygowanego średniego ważonego kosztu kapitału po opodatkowaniu zróżnicowanego w czasie: o dla lat 2025-2035 na średniorocznym poziomie 7,29%, o w latach 2036-2039 jest na średniorocznym poziomie 6,25%, o od 2040 roku na poziomie 6,54%.
+
+W testach na utratę wartości aktywów za I półrocze 2024 roku średni ważony koszt kapitału po podatkowaniu kształtował się następująco: o dla lat 2024-2029 na średniorocznym poziomie 7,28%, o od 2030 roku na poziomie 6,28%, • dodatkowo WACC dla farm wiatrowych uwzględnia oszacowany indywidualnie poziom ryzyka związany z uczestnictwem w różnych systemach wsparcia w okresie jego obowiązywania (zielone certyfikaty, aukcje), • dla farm wiatrowych nabytych w ramach akwizycji w 2022 roku WACC dodatkowo uwzględnia dyskonta za: o gwarancję wolumenu, o premię za zielone certyfikaty, o gwarancję ceny oraz o dyskonto za szczególne znaczenie strategiczne na poszczególne farmy wiatrowe, zgodnie z Polityką Inwestycji GK PGE.
+
+Łączna testowana wartość księgowa rzeczowych aktywów trwałych segmentu Energetyka Odnawialna wyniosła 5.034 mln PLN, w tym testowana wartość księgowa rzeczowych aktywów trwałych na 31 maja 2025 roku wynosiła 4.735 mln PLN oraz testowana wartość księgowa rzeczowych aktywów trwałych w budowie na 30 czerwca 2025 roku wynosiła 299 mln PLN.
+
+W wyniku przeprowadzonego testu na utratę wartości aktywów Grupa stwierdziła konieczność ujęcia odpisów aktualizujących wartość tych aktywów w łącznej wartości 402 mln PLN, co zostało przedstawione w poniższej tabeli. (mln PLN) Wartość testowana1 Stwierdzona utrata wartości Wartość po odpisie Elektrownie wiatrowe 620 (65) 555 Elektrownie fotowoltaiczne 1.078 (337) 741 w tym środki trwałe w budowie2 254 (64) 190 RAZEM 1.698 (402) 1.296 1dotyczy elektrowni oraz inwestycji, w których wystąpił odpis 2 z wyłączeniem 3 etapu budowy elektrowni Jeziórko, który testowany był na 31 maja 2025 roku łącznie z rzeczowymi aktywami trwałymi Analiza wrażliwości Analiza wrażliwości wykazała, że istotny wpływ na oszacowaną wartość użytkową mają takie czynniki jak WACC oraz ceny energii elektrycznej.
+
+Wyniki analizy wrażliwości dotyczą wszystkich CGU należących do PGE EO S.A. i nie uwzględniają środków trwałych w budowie, z wyjątkiem elektrowni Jeziórko 3.
+
+Poniżej został przedstawiony wpływ zmian czynników przy zastosowaniu zasady ceteris paribus mających istotny wpływ w całym okresie projekcji na prognozowane przepływy pieniężne, a w związku z tym również na oszacowaną wartość użytkową.
+
+W związku z powyższym Grupa nie zakłada skończonego okresu życia CGU z uwagi na otoczenie regulacyjne, które ogranicza możliwość zaprzestania działalności.
+
+Z uwagi na powyższe w testach na utratę wartości założono kontynuowanie działalności (w postaci wartości rezydualnej), przy zachowaniu nakładów na poziomie odtworzeniowym, w długiej perspektywie z uwagi m.in na interes społeczny w postaci zapewniana dostaw ciepła.
+
+W odniesieniu do aktywów wytwórczych objętych Planem Dekarbonizacji inwestycje o charakterze odtworzeniowym dotyczą transformacji mocy wytwórczych (na aktywa zasilane gazem) poprzez zastosowanie nowych nisko- lub zeroemisyjnych jednostek wytwórczych, co oznacza, że środki pieniężne generowane przez te aktywa uwzględniane są w testach na utratę wartości.
+
+Kwestie klimatyczne W dniu 2 marca 2021 roku Minister Klimatu i Środowiska ogłosił politykę energetyczną państwa do 2040 roku („PEP2040”).
+
+PEP2040 zawiera strategiczne kierunki w zakresie doboru technologii służących budowie niskoemisyjnego systemu energetycznego.
+
+Polityka uwzględnia skalę wyzwań związanych z dostosowaniem krajowej gospodarki do uwarunkowań regulacyjnych UE związanych z celami klimatyczno-energetycznymi na 2030 roku, Europejskim Zielonym Ładem, planem odbudowy gospodarczej po pandemii COVID i dążeniem do osiągnięcia neutralności klimatycznej zgodnie z krajowymi możliwościami.
+
+Ciepło systemowe powinno być wytwarzane przede wszystkim w CHP, w oparciu o niskoemisyjne źródła m.in. opalane paliwem gazowym.
+
+GK PGE jako największa grupa energetyczna w Polsce zobligowana jest do wdrażania założeń PEP2040, w tym w segmencie ciepłownictwo. 15 grudnia 2022 roku w segmencie Ciepłownictwo Grupy Kapitałowej PGE został przyjęty Plan Dekarbonizacji do roku 2050.
+
+Celem Planu Dekarbonizacji jest wypełnienie wymogów regulacyjnych stawianych przed energetyką oraz utrzymanie w długiej perspektywie obecnego potencjału wytwórczego w celu zaspokojenia potrzeb odbiorców.
+
+Potwierdzenie trwającego procesu dekarbonizacji stanowi również obowiązująca strategia GK PGE: • 12 czerwca 2025 roku PGE Polska Grupa Energetyczna opublikowała strategię do 2035 roku.
+
+Zakłada ona inwestycje w inteligentne sieci energetyczne, nowe wielkoskalowe i elastyczne elektrownie gazowe, odnawialne źródła energii, magazyny oraz zintegrowane systemy ciepłownicze. • Systemy ciepłownicze odgrywają istotną rolę w procesie dekarbonizacji, szczególnie w miastach i regionach o dużym zapotrzebowaniu na energię cieplną.
+
+Grupa PGE planuje kompleksową modernizację posiadanych jednostek i sieci w oparciu o technologie nisko- i zeroemisyjne.
+
+Ich miejsce zajmą nowoczesne źródła, które zapewnią bezpieczeństwo dostaw, efektywność energetyczną i pozwolą na ograniczenie emisji.
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 24 Na inwestycje w ten segment do 2035 roku Grupa PGE planuje przeznaczyć około 18 mld PLN, z czego: o 15 mld PLN zostanie przeznaczone na nowe jednostki wytwórcze, takie jak silniki gazowe, kotły elektrodowe, pompy ciepła, kotły wodne gazowe, kotły na biomasę oraz akumulatory ciepła, o 3 mld PLN trafi na potencjalne akwizycje sieci ciepłowniczych i następnie ich modernizację w szczególności we współpracy z samorządami. • 5 października 2023 roku Komitet Inwestycyjny PGE EC zaakceptował aktualizację Planu Dekarbonizacji aktywów wytwórczych zmierzającą do pełnej dekarbonizacji w perspektywie roku 2030 oraz zobligował zespół projektowy do cyklicznej aktualizacji Planu za względu na zmiany regulacyjne, dostępności nowych technologii oraz zmiany sytuacji geopolitycznej i gospodarczej.
+
+Obecnie trwają pracę nad kolejną aktualizacją Planu Dekarbonizacji uwzględniającą Strategię GK PGE.
+
+Założenia szczegółowe segmentu Poniżej przedstawiono kluczowe założenia wpływające na oszacowanie wartości użytkowej testowanych CGU: • uznanie za odrębne CGU poszczególnych oddziałów spółki PGE EC S.A. tj.
+
+Elektrociepłowni Wrocław, Elektrociepłowni Czechnica oraz Elektrociepłowni Zawidawie, • założono, iż w prognozowanym okresie wytwórcy z GK PGE nie uzyskują przydziałów bezpłatnych uprawnień CO2 na produkcję energii elektrycznej, • uwzględnienie przydziału darmowych uprawnień do emisji CO2 w okresie 2025-2030 dla ciepłownictwa systemowego i wysokosprawnej kogeneracji.
+
+Państwa członkowskie mogą ubiegać się o przydział bezpłatnych uprawnień do emisji na ciepło w wysokości 30% w okresie od 2021 do 2030, przy czym wartość 30% odnosi się do benchmarku gazowego i dostaw ciepła na potrzeby komunalne, • przyjęcie założenia dla elektrociepłowni, iż w okresie rezydualnym istnieje wsparcie z rynku mocy lub jego ekwiwalent, • uwzględnienie systemu wsparcia dla wysokosprawnej kogeneracji w horyzoncie prognoz oraz okresie rezydualnym: dla istniejących jednostek założono wsparcie w zakresie premii gwarantowanej oraz w przypadku spełnienia warunku luki finansowej, premii gwarantowanej indywidualnej, dla nowych jednostek gazowych założono przyznanie premii kogeneracyjnej, • utrzymanie zdolności produkcyjnych w wyniku prowadzenia inwestycji o charakterze odtworzeniowym.
+
+Dla aktywów wytwórczych, dla których podjęto działania zmierzające do realizacji Planu Dekarbonizacji, nakłady o charakterze odtworzeniowym oznaczają transformację majątku produkcyjnego na aktywa zasilane gazem.
+
+Plan Dekarbonizacji dotyczy następujących lokalizacji: Kraków, Gdańsk, Gdynia, Wrocław, Bydgoszcz, Kielce, • uwzględnienie inwestycji rozwojowych, dla projektów o wysokim poziomie zaawansowania, które zostały ujęte w zatwierdzonym planie inwestycyjnym spółki, • przyjęcie skorygowanego średniego ważonego kosztu kapitału po opodatkowaniu zróżnicowanego w czasie: o dla lat 2025-2026 na średniorocznym poziomie 8,84%, o dla lat 2027-2030 na średniorocznym poziomie 7,55%.
+
+W testach na utratę wartości aktywów za I półrocze 2024 roku średni ważony koszt kapitału po podatkowaniu kształtował się następująco: o dla lat 2024-2025 na średniorocznym poziomie 8,50%, o dla lat 2026-2030 na średniorocznym poziomie 6,59%.
+
+Zdaniem Grupy przyjęcie projekcji finansowych dłuższych niż pięcioletnie jest zasadne ze względu na długoterminowy okres życia aktywa oraz istotne prognozowane zmiany warunków rynkowych w przyszłości.
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 27 Poniżej przedstawiono kluczowe założenia wpływające na oszacowanie wartości użytkowej testowanych aktywów: • moc nominalna oraz średnia sprawność jednostek przyjęta zgodnie z parametrami gwarantowanymi w kontrakcie z wykonawcą oraz zakładany profil obciążenia, • okres eksploatacji: 25 lat (benchmarkowy techniczny okres życia jednostek CCGT), • nakłady inwestycyjne: realizacja inwestycji została zakończona w roku 2024.
+
+Założono nakłady inwestycyjne na dostosowanie do współspalania wodoru/zielonego gazu w wys. 200 mln PLN’22/jednostkę – do poniesienia w roku 2034 (szacunek ekspercki), • przyjęcie średniego ważonego kosztu kapitału po opodatkowaniu zróżnicowanego dla CGU, zgodnie z indywidualnie oszacowanym poziomem ryzyka oraz zróżnicowanego w czasie na średniorocznym poziomie 7,50% dla całego horyzontu eksploatacji jednostki, czyli do 2048 roku.
+
+W testach na utratę wartości za I półrocze 2024 roku średni ważony koszt kapitału po opodatkowaniu zróżnicowany dla CGU wynosił 6,84% dla całego horyzontu eksploatacji jednostki czyli do 2048 roku.
+
+Zdaniem Grupy przyjęcie projekcji finansowych dłuższych niż pięcioletnie jest zasadne ze względu na długoterminowy okres życia aktywa oraz istotne prognozowane zmiany warunków rynkowych w przyszłości.
+
+Poniżej przedstawiono kluczowe założenia wpływające na oszacowanie wartości użytkowej testowanych aktywów: • moc nominalna oraz średnia sprawność jednostek przyjęta zgodnie z parametrami gwarantowanymi w kontrakcie z wykonawcą oraz prognozowanym profilem obciążenia jednostek, wynikającym z projekcji wolumenu produkcji, • okres eksploatacji: 24 lata (projekcja do 2050 roku, natomiast okres benchmarkowej żywotności dla bloku gazowego wynosi 25 lat), Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 28 • nakłady inwestycyjne: na rok 2025 i dalej przyjęto zgodnie z Planem Inwestycyjnym GK PGE i zawartymi kontraktami na budowę jednostek, • przyjęcie średniego ważonego kosztu kapitału po opodatkowaniu zróżnicowanego dla CGU, zgodnie z indywidualnie oszacowanym poziomem ryzyka oraz zróżnicowanego w czasie na średniorocznym poziomie 7,31% dla całego horyzontu eksploatacji jednostki, czyli do 2050 roku.
+
+Na 31 maja 2025 roku testowana wartość księgowa rzeczowych aktywów trwałych należących do PGE Nowy Rybnik sp. z o.o. wyniosła 2.519 mln PLN.
+
+Dlatego powyższe oraz pozostałe założenia przyjęte do oszacowania wartości użytkowej aktywów podlegają okresowej analizie i weryfikacji.
+
+Analiza przesłanek dla projektu Morska Energetyka Wiatrowa W 2021 roku podmioty grupy Ørsted objęły udziały w podwyższonym kapitale spółek Elektrownia Wiatrowa Baltica – 2 i Elektrownia Wiatrowa Baltica – 3.
+
+Na podstawie umów zawartych pomiędzy GK PGE a spółkami z grupy Ørsted, EWB2 i EWB3 stanowią tzw. wspólną działalność w rozumieniu MSSF 11 Wspólne ustalenia umowne.
+
+Na 31 maja 2025 roku Grupa Kapitałowa PGE dokonała analizy przesłanek w celu weryfikacji czy mogła nastąpić utrata wartości firmy.
+
+Na jej podstawie, zdaniem Grupy PGE nie wystąpiły przesłanki do przeprowadzenia testu na utratę wartości firmy powstałej na projektach EWB2 i EWB3, z wnioskami aktualnymi na 30 czerwca 2025 roku.
+
+Najważniejsze czynniki analizy obejmowały: • analizę strony przychodowej zabezpieczonej kontraktem różnicowym, • wpływ wzrostu inflacji i średniego ważonego kosztu kapitału, • harmonogram projektów, • kamienie milowe osiągnięte przez projekty, • budżety fazy rozwoju (DEVEX) i realizacji projektu (CAPEX).
+
+Projektom EWB2 i EWB3 przysługuje wsparcie publiczne i w konsekwencji zabezpieczenie strony przychodowej, która podlega waloryzacji o inflację, co pozwala częściowo ograniczyć negatywne aspekty otoczenia makroekonomicznego.
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 29 Faza rozwoju projektu EWB3 jest realizowana z zatwierdzonego budżetu, zgodnie z zaktualizowanym harmonogramem projektu uwzględniającym przesunięcie terminu na wytworzenie i wprowadzenie do sieci po raz pierwszy energii elektrycznej, zgodnie z pozytywną decyzją Prezesa Urzędu Regulacji Energetyki (PURE).
+
+W styczniu 2025 roku została podjęta Finalna Decyzja Inwestycyjna (FID) dla projektu EWB2, skutkiem której faza rozwoju uległa zakończeniu wraz z rozpoczęciem fazy budowy, zgodnie z założonym harmonogramem.
+
+W związku z powyższym, zdaniem Grupy PGE na 31 maja 2025 roku nie występują przesłanki do przeprowadzenia testu z tytułu wartości firmy powstałej na projektach EWB2 i EWB3.
+
+Rzeczowe aktywa trwałe segmentu Dystrybucja Wartość księgowa rzeczowych aktywów trwałych związanych z działalnością dystrybucyjną na dzień sprawozdawczy wynosi około 28 mld PLN i stanowi około 43% sumy skonsolidowanych rzeczowych aktywów trwałych Grupy Kapitałowej PGE.
+
+Dyskontowanie przepływów pieniężnych wykonano przy wykorzystaniu wskaźnika WIBOR 1M, aby uzyskać wycenę Mark-to-Market.
+
+Biorąc pod uwagę standard MSSF 13 definiujący wartość godziwą, oraz standard MSSF 9 nakładający wymogi w zakresie uwzględniania ryzyka niewykonania obowiązku wynikającego z kontraktu przy determinowaniu wartości godziwej, do dyskontowania przepływów pieniężnych dodatkowo wprowadzono korektę odzwierciedlającą jakość i ryzyko kredytowe podmiotu bądź kontrahenta, w zależności od klasyfikacji instrumentu pochodnego jako instrument w pieniądzu bądź poza pieniądzem.
+
+Instrumenty pochodne wbudowane w kontrakt różnicowy CfD Wartość godziwa wbudowanych instrumentów pochodnych została ustalona zgodnie z MSSF 13 przy zastosowaniu technik wyceny opartych na danych nieobserwowalnych, co skutkuje klasyfikacją do poziomu 3 hierarchii wartości godziwej.
+
+Podział sprawozdawczości Grupy oparty jest na segmentach: • Energetyka Odnawialna obejmuje wytwarzanie energii elektrycznej w elektrowniach szczytowopompowych oraz ze źródeł odnawialnych.
+
+Ponadto w strukturach segmentu są spółki zajmujące się budową magazynów energii elektrycznej. • Energetyka Gazowa obejmuje wytwarzanie energii elektrycznej w źródłach gazowych. • Energetyka Węglowa (poprzednio Energetyka Konwencjonalna) obejmuje wydobycie węgla brunatnego oraz wytwarzanie energii elektrycznej w źródłach konwencjonalnych a także działalność pomocniczą w powyższym zakresie. • Ciepłownictwo obejmuje wytwarzanie energii cieplnej i elektrycznej w źródłach kogeneracyjnych oraz przesyłanie i dystrybucję ciepła. • Dystrybucja obejmuje zarządzanie lokalnymi sieciami dystrybucyjnymi oraz przesyłanie energii elektrycznej tymi sieciami. • Energetyka Kolejowa obejmuje przede wszystkim dystrybucję i sprzedaż energii elektrycznej do przewoźników kolejowych oraz klientów skupionych wokół linii kolejowych, sprzedaż paliw oraz utrzymanie i modernizację sieci trakcyjnej wraz z pozostałymi usługami elektroenergetycznymi. • Obrót obejmuje sprzedaż i zakup energii elektrycznej oraz gazu ziemnego na rynku hurtowym, obrót uprawnieniami do emisji CO2, prawami majątkowymi wynikającymi ze świadectw pochodzenia oraz zakup i dostawy paliw a także sprzedaż energii elektrycznej oraz świadczenie usług odbiorcom końcowym. • Działalność pozostała obejmuje świadczenie usług przez spółki zależne na rzecz Grupy Kapitałowej np. organizacja pozyskiwania finansowania, świadczenie usług informatycznych, transportowych oraz inwestycje w start-up’y.
+
+Przedmiotem działalności spółek z tego segmentu jest również zapewnienie kompleksowej obsługi w zakresie zarządzania Ubocznymi Produktami Spalania, świadczenie usług w obszarach pomocniczych dla wytwórców energii elektrycznej i ciepła oraz dostaw materiałów.
+
+Sprzedaż ciepła zależy w szczególności od temperatury powietrza i jest większa w okresie zimowym, a mniejsza w okresie letnim.
+
+Informacje dotyczące segmentów operacyjnych Informacje dotyczące segmentów operacyjnych za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku lub na dzień 30 czerwca 2025 roku Energetyka Odnawialna Energetyka Gazowa Energetyka Węglowa Ciepłownictwo Dystrybucja Energetyka Kolejowa Obrót Działalność pozostała Korekty Razem RACHUNEK ZYSKÓW I STRAT Sprzedaż na rzecz klientów zewnętrznych 1.119 227 6.773 3.383 5.441 2.582 11.283 159 4 30.971 Sprzedaż między segmentami 306 2.199 6.622 2.040 224 24 5.651 356 (17.422) - PRZYCHODY SEGMENTU, RAZEM 1.425 2.426 13.395 5.423 5.665 2.606 16.934 515 (17.418) 30.971 Koszt własny sprzedaży (858) (2.261) (21.328) (4.285) (3.657) (1.944) (15.084) (380) 16.697 (33.100) EBIT 362 102 (8.643) 864 1.864 446 1.242 73 168 (3.522) Amortyzacja, likwidacja oraz odpisy ujęte w wyniku finansowym 606 121 9.026 402 760 229 20 32 (28) 11.168 EBITDA 968 223 383 1.266 2.624 675 1.262 105 140 7.646 STRATA PRZED OPODATKOWANIEM - - - - - - - - - (3.724) Podatek dochodowy - - - - - - - - - (3.399) STRATA NETTO ZA OKRES SPRAWOZDAWCZY - - - - - - - - - (7.123) AKTYWA I ZOBOWIĄZANIA Aktywa segmentu bez RAT, WN, PDUA i należności z tytułu dostaw i usług 1.073 267 7.761 673 127 209 4.059 119 (3.465) 10.823 RAT, WN, PDUA 8.887 7.226 4.534 9.030 27.526 7.532 338 482 (621) 64.934 Należności z tytułu dostaw i usług 307 371 1.468 385 1.420 661 4.638 144 (3.898) 5.496 Udziały i akcje wykazywane metodą praw własności - - - - - - - - - 380 Aktywa nieprzypisane - - - - - - - - - 17.971 AKTYWA, RAZEM 99.604 Zobowiązania segmentu z wyłączeniem zobowiązań z tytułu dostaw i usług 3.776 719 25.873 3.047 8.387 785 2.505 245 (4.420) 40.917 Zobowiązania z tytułu dostaw i usług 94 326 792 245 460 2.321 3.808 79 (3.950) 4.175 Zobowiązania nieprzypisane 15.903 ZOBOWIĄZANIA, RAZEM 60.995 POZOSTAŁE INFORMACJE DOTYCZĄCE SEGMENTU Nakłady inwestycyjne / Zwiększenia PDUA 1.391 1.255 280 505 1.404 141 4 75 (141) 4.914 Odpisy aktualizujące wartość aktywów finansowych i niefinansowych 409 - 8.798 31 16 (1) 4 3 5 9.265 Pozostałe koszty niepieniężne* 35 248 7.080 1.298 176 71 163 19 (96) 8.994 *Zmiany o charakterze niepieniężnym dotyczą rezerw m.in. na rekultywację, uprawnienia do emisji CO2, nagrody jubileuszowe, taryfę pracowniczą i zobowiązań niefinansowych z tyt. świadczeń pracowniczych ujętych w wyniku oraz innych całkowitych dochodach.
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 35 Informacje dotyczące segmentów operacyjnych za okres 6 miesięcy zakończony dnia 30 czerwca 2024 roku lub na dzień 31 grudnia 2024 roku dane przekształcone Energetyka Odnawialna Energetyka Gazowa Energetyka Węglowa Ciepłownictwo Dystrybucja Energetyka Kolejowa Obrót Działalność pozostała Korekty Razem RACHUNEK ZYSKÓW I STRAT Sprzedaż na rzecz klientów zewnętrznych 685 181 7.820 3.101 5.289 2.528 11.558 130 2 31.294 Sprzedaż między segmentami 570 8 6.930 2.511 319 24 12.883 313 (23.558) - PRZYCHODY SEGMENTU, RAZEM 1.255 189 14.750 5.612 5.608 2.552 24.441 443 (23.556) 31.294 Koszt własny sprzedaży (706) (211) (15.396) (5.023) (3.909) (2.015) (22.973) (313) 22.573 (27.973) EBIT 451 (40) (992) 357 1.543 228 1.286 69 (43) 2.859 Amortyzacja, likwidacja oraz odpisy ujęte w wyniku finansowym 196 1 720 416 689 219 18 31 (9) 2.281 EBITDA 647 (39) (272) 773 2.232 447 1.304 100 (52) 5.140 ZYSK PRZED OPODATKOWANIEM - - - - - - - - 2.517 Podatek dochodowy - - - - - - - - (428) ZYSK NETTO ZA OKRES SPRAWOZDAWCZY - - - - - - - - 2.089 AKTYWA I ZOBOWIĄZANIA Aktywa segmentu bez RAT, WN, PDUA i należności z tytułu dostaw i usług 972 266 12.478 2.289 51 208 1.330 109 (1.452) 16.251.
+
+Okres zakończony 30 czerwca 2025 Amortyzacja i likwidacja Odpisy aktualizujące RAT WN PDUA NI RAZEM RAT WN PDUA RAZEM Koszt własny sprzedaży 1.900 62 64 1 2.027 8.922 20 65 9.007 Koszty sprzedaży i dystrybucji 6 1 2 - 9 - - - - Koszty ogólnego zarządu 22 7 6 - 35 90 - - 90 ODNIESIONE W WYNIK FINANSOWY 1.928 70 72 1 2.071 9.012 20 65 9.097 Zmiana stanu produktów (4) - - - (4) - - - - Koszt wytworzenia świadczeń na własne potrzeby jednostki 13 2 3 - 18 - - - - RAZEM 1.937 72 75 1 2.085 9.012 20 65 9.097 Okres zakończony 30 czerwca 2024 Amortyzacja i likwidacja Odpisy aktualizujące RAT WN PDUA NI RAZEM RAT WN PDUA RAZEM Koszt własny sprzedaży 1.984 47 50 1 2.082 100 - - 100 Koszty sprzedaży i dystrybucji 4 1 1 - 6 - - - - Koszty ogólnego zarządu 63 15 13 - 91 1 - 1 2 ODNIESIONE W WYNIK FINANSOWY 2.051 63 64 1 2.179 101 - 1 102 Zmiana stanu produktów (3) - - - (3) - - - - Koszt wytworzenia świadczeń na własne potrzeby jednostki 10 2 3 - 15 - - - - RAZEM 2.058 65 67 1 2.191 101 - 1 102 W bieżącym okresie Grupa przeprowadziła testy na utratę wartości aktywów trwałych, co skutkowało utworzeniem odpisów aktualizujących w segmentach Energetyka Węglowa oraz Energetyka Odnawialna w łącznej wartości 9.052 mln PLN.
+
+Pozostałe odpisy aktualizujące ujęte w okresie sprawozdawczym dotyczą nakładów inwestycyjnych poniesionych w jednostkach, dla których stwierdzono całkowitą utratę wartości w poprzednich okresach.
+
+W pozycji Amortyzacja i likwidacja Grupa ujęła w bieżącym okresie kwotę 19 mln PLN z tytułu wartości netto likwidacji RAT i WN (18 mln PLN w okresie porównawczym).
+
+Pozostałe przychody i koszty operacyjne Okres zakończony 30 czerwca 2025 Okres zakończony 30 czerwca 2024 dane przekształcone* POZOSTAŁE PRZYCHODY OPERACYJNE Rozwiązanie rezerwy na świadczenia pracownicze 187 - Rozwiązanie pozostałych rezerw 79 503 Otrzymane i naliczone kary, grzywny, odszkodowania 65 56 Rozwiązanie odpisów aktualizujących należności 43 45 Wycena i realizacja instrumentów pochodnych - węgiel 42 162 Dotacje 40 16 RAT/WN oraz pozostała infrastruktura otrzymana nieodpłatnie 20 17 Zysk ze zbycia RAT/WN 4 8 Efekt zmiany wyceny rezerw rekultywacyjnej - 392 Pozostałe 18 43 RAZEM POZOSTAŁE PRZYCHODY OPERACYJNE 498 1.242 *przekształcenie danych porównawczych zostało opisane w nocie 4 niniejszego skonsolidowanego sprawozdania finansowego Rozwiązanie rezerwy na świadczenia pracownicze odnosi się do zobowiązania wynikającego z tytułu tzw. nagrody konsolidacyjnej, ujętej w sprawozdaniu PGE GiEK S.A. na dzień 31 grudnia 2022 roku.
+
+Pozycja ta została ujęta w następstwie decyzji o rezygnacji z realizacji projektu wydzielenia aktywów węglowych, co zostało szczegółowo opisane w nocie 27.1.
+
+Rozwiązanie pozostałych rezerw dotyczy m.in. rezerw na umowy rodzące obciążenia z odbiorcami taryfy G spółki PGE Obrót S.A., co zostało opisane w nocie 21.5 niniejszego sprawozdania finansowego.
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 41 Okres zakończony 30 czerwca 2025 Okres zakończony 30 czerwca 2024 dane przekształcone* POZOSTAŁE KOSZTY OPERACYJNE Utworzenie odpisów aktualizujących wartość pozostałych aktywów 113 1 Efekt zmiany wyceny rezerw rekultywacyjnej 79 - Utworzenie pozostałych rezerw 76 80 Utworzenie odpisów aktualizujących należności 76 172 Darowizny 23 15 Likwidacja szkód i awarii 17 5 Odszkodowania, kary i grzywny 4 2 Pozostałe 36 62 RAZEM POZOSTAŁE KOSZTY OPERACYJNE 424 337 *przekształcenie danych porównawczych zostało opisane w nocie 4 niniejszego skonsolidowanego sprawozdania finansowego W pozycji Utworzenie odpisów aktualizujących wartość pozostałych aktywów został ujęty odpis aktualizujący zapasy strategiczne w Segmencie Energetyki Węglowej w wysokości 112 mln PLN.
+
+Przychody i koszty finansowe Okres zakończony 30 czerwca 2025 Okres zakończony 30 czerwca 2024 dane przekształcone* PRZYCHODY FINANSOWE Z TYTUŁU INSTRUMENTÓW FINANSOWYCH Dywidendy 1 - Odsetki 199 185 Aktualizacja wartości 227 206 Rozwiązanie odpisów aktualizujących 3 2 Zysk ze zbycia inwestycji 1 - Różnice kursowe 45 14 RAZEM PRZYCHODY FINANSOWE Z TYTUŁU INSTRUMENTÓW FINANSOWYCH 476 407 POZOSTAŁE PRZYCHODY FINANSOWE Odsetki od należności budżetowych 5 1 RAZEM POZOSTAŁE PRZYCHODY FINANSOWE 5 1 RAZEM PRZYCHODY FINANSOWE 481 408 *przekształcenie danych porównawczych zostało opisane w nocie 4 niniejszego skonsolidowanego sprawozdania finansowego Grupa wykazuje przychody z tytułu odsetek głównie od środków pieniężnych ulokowanych na rachunkach bankowych i lokatach oraz odsetek od obligacji.
+
+Przychody z tytułu aktualizacji wartości w bieżącym okresie sprawozdawczym wynikają głównie z wyceny instrumentów pochodnych oraz wbudowanych instrumentów pochodnych zawartych w umowach sprzedaży energii elektrycznej w segmencie Energetyki Odnawialnej.
+
+Okres zakończony 30 czerwca 2025 Okres zakończony 30 czerwca 2024 dane przekształcone* KOSZTY FINANSOWE Z TYTUŁU INSTRUMENTÓW FINANSOWYCH Odsetki 345 368 Aktualizacja wartości 6 38 Odpis aktualizujący z tytułu utraty wartości 8 4 Strata ze zbycia inwestycji 3 9 Różnice kursowe 43 43 RAZEM KOSZTY FINANSOWE Z TYTUŁU INSTRUMENTÓW FINANSOWYCH 405 462 POZOSTAŁE KOSZTY FINANSOWE Koszty odsetkowe od pozycji niefinansowych 264 256 Odsetki od zobowiązań budżetowych 3 2 Utworzenie rezerw 6 - Pozostałe 11 10 RAZEM POZOSTAŁE KOSZTY FINANSOWE 284 268 RAZEM KOSZTY FINANSOWE 689 730 *przekształcenie danych porównawczych zostało opisane w nocie 4 niniejszego skonsolidowanego sprawozdania finansowego Koszty odsetek dotyczą głównie zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji.
+
+Koszt odsetek od zobowiązań z tytułu leasingu w bieżącym okresie wyniósł 39 mln PLN (37 mln PLN w okresie porównawczym).
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 44 NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z SYTUACJI FINANSOWEJ Istotne transakcje nabycia i sprzedaży rzeczowych aktywów trwałych, wartości niematerialnych oraz praw do użytkowania składników aktywów W bieżącym okresie sprawozdawczym Grupa zakupiła RAT, WN oraz PDUA o wartości 4.914 mln PLN.
+
+Największe nakłady poniesione zostały przez segment Dystrybucja 1.404 mln PLN i segment Energetyka Odnawialna 1.391 mln PLN.
+
+Reszta nakładów poniesionych w poszczególnych segmentach przedstawia się następująco: segment Energetyka Gazowa 1.255 mln PLN, segment Ciepłownictwo 505 mln PLN, segment Energetyka Węglowa 280 mln PLN, segment Energetyka Kolejowa 141 mln PLN oraz segment Pozostałe 75 mln PLN.
+
+Główne pozycje nakładów w segmencie Dystrybucji stanowiły: przyłączenie nowych odbiorców do sieci dystrybucyjnej 566 mln PLN, Program Liczników Zdalnego Odczytu 313 mln PLN oraz Program Kablowania 79 mln PLN.
+
+W segmencie Energetyka Odnawialna istotne nakłady poniesiono na przygotowanie i realizację farm wiatrowych na morzu, odpowiednio EWB 1 - 22 mln PLN i EWB 3 14 mln PLN oraz EWB 2 – 1.002 mln PLN oraz modernizację i utrzymanie majątku wytwórczego 73 mln PLN, realizację Programu PV 72 mln PLN oraz Program Kompleksowej Modernizacji ESP Porąbka Żar 163 mln PLN.
+
+W ramach nakładów poniesionych w segmencie Energetyki Gazowej wydatki koncentrowały się na budowie bloku gazowo-parowego w PGE Nowy Rybnik 1.184 mln PLN.
+
+W segmencie Ciepłownictwo największe nakłady zostały poniesione na: budowę nowej elektrociepłowni EC Czechnica 196 mln PLN, program inwestycyjny w EC Gdynia 76 mln PLN, program inwestycyjny w EC Bydgoszcz 47 mln PLN oraz drugą linię ITPOE w Rzeszowie 26 mln PLN.
+
+W segmencie Energetyka Węglowa główne nakłady zostały poniesione w obszarze inwestycji modernizacyjnoutrzymaniowych 271 mln PLN, w tym największe wydatki poniósł oddział KWB Bełchatów 89 mln PLN, Elektrownia Bełchatów 44 mln PLN i Elektrownia Opole 51 mln PLN.
+
+W segmencie Energetyka Kolejowa największe nakłady zostały poniesione na: odtworzenie, rozbudowę i modernizację sieci dystrybucyjnej nietrakcyjnej 47 mln PLN, przyłączenie nowych odbiorców energii elektrycznej 19 mln PLN oraz odtworzenie, rozbudowę i modernizację sieci dystrybucyjnej trakcyjnej 18 mln PLN.
+
+W bieżącym okresie sprawozdawczym Grupa poniosła koszty finansowania zewnętrznego w kwocie 135 mln PLN aktywowane w wartości rzeczowych aktywów trwałych.
+
+Przyszłe zobowiązania inwestycyjne Na dzień 30 czerwca 2025 roku Grupa zobowiązała się ponieść nakłady na rzeczowe aktywa trwałe w kwocie około 16.731 mln PLN.
+
+Kwoty te przeznaczone będą głównie na budowę morskich farm wiatrowych, zaprojektowanie i budowę bateryjnego magazynu energii, budowę nowych bloków gazowych, modernizację majątku jednostek Grupy oraz zakup maszyn i urządzeń.
+
+Stan na dzień 30 czerwca 2025 Stan na dzień 31 grudnia 2024 Energetyka Odnawialna* 11.214 9.781 Energetyka Gazowa 1.386 2.383 Dystrybucja 2.295 1.542 Ciepłownictwo 945 1.083 Energetyka Węglowa 227 259 Energetyka Kolejowa** 651 586 Obrót 0 0 Działalność pozostała 13 21 PRZYSZŁE ZOBOWIĄZANIA INWESTYCYJNE, RAZEM 16.731 15.655 * Prezentowane kwoty ujmują 50% udział przypadający na GK PGE we wspólnej działalności w rozumieniu MSSF 11 Wspólne ustalenia umowne ** W okresie porównawczym skorygowano przyszłe zobowiązania inwestycyjne Segmentu Energetyki Kolejowej o 518 mln PLN Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 45 Najbardziej istotne przyszłe zobowiązania inwestycyjne dotyczą: • Energetyka Odnawialna – budowa na Morzu Bałtyckim farmy wiatrowej Baltica 2 – kwota około 8.798 mln PLN; zaprojektowanie i budowa bateryjnego magazynu energii Żarnowiec – kwota około 1.261 mln PLN; modernizacja zbiornika górnego ESP Porąbka-Żar – kwota około 744 mln PLN; • Energetyka Gazowa – budowa bloku w technologii gazowo-parowej (PGE Nowy Rybnik sp. z o.o.) – kwota około 591 mln PLN; umowa o świadczenie usług serwisowych dla dwóch turbin gazowych (PGE Gryfino Dolna Odra sp. z o.o.) – kwota około 761 mln PLN. • Dystrybucja – zobowiązania inwestycyjne związane głównie z majątkiem sieciowym w kwocie około 2.295 mln PLN. • Ciepłownictwo – budowa dla PGE EC S.A.
+
+Oddział Wybrzeże – EC Gdynia źródła kogeneracyjnego opartego na układzie zespołu silników gazowych o mocy do 50 MWe – kwota około 209 mln PLN oraz budowa biomasowego kotła wodnego o mocy do 30 MWt – kwota około 120 mln PLN; budowa II linii technologicznej Instalacji Termicznego Przetwarzania z Odzyskiem Energii w Rzeszowie – kwota około 71 mln PLN.
+
+Udziały i akcje wykazywane metodą praw własności Stan na dzień 30 czerwca 2025 Stan na dzień 31 grudnia 2024 Polimex - Mostostal S.A., Warszawa* 104 86 Energopomiar sp. z o.o., Gliwice 12 11 PGE Soleo Kleszczów sp. z o.o., Kleszczów 27 28 PGE PAK Energia Jądrowa S.A., Konin 6 10 PEC Bogatynia, Bogatynia 1 - Elester sp. z o.o., Łódź 230 236 UDZIAŁY I AKCJE WYKAZYWANE METODĄ PRAW WŁASNOŚCI 380 371 * ujawnienia dla spółki Polimex Mostostal zostały przedstawione zgodnie ze stanem na koniec maja 2025 roku, w okresie porównawczym na koniec listopada 2024 roku Polimex Mostostal* PEC Bogatynia Energopo- miar PGE Soleo Kleszczów PGE PAK Energia Jądrowa Elester UDZIAŁ W GŁOSACH 16,23% 34,93% 49,79% 50,00% 50,00% 89,96% STAN NA DZIEŃ 30 CZERWCA 2025 Aktywa obrotowe 2.149 11 26 12 2 89 Aktywa trwałe 829 20 23 84 17 12 Zobowiązania krótkoterminowe 2.249 3 20 2 7 14 Zobowiązania długoterminowe 186 5 5 40 - 14 AKTYWA NETTO 543 23 24 54 12 73 Udział w aktywach netto 88 8 12 27 6 66 Korekta wartości godziwej na moment nabycia 16 - - - 164 Odpis z tytułu utraty wartości - (7) - - - - UDZIAŁY I AKCJE WYKAZYWANE METODĄ PRAW WŁASNOŚCI 104 1 12 27 6 230 * ujawnienia dla spółki Polimex Mostostal zostały przedstawione zgodnie ze stanem na koniec maja 2025 roku Polimex Mostostal* PEC Bogatynia Energopo- miar PGE Soleo Kleszczów PGE PAK Energia Jądrowa Elester UDZIAŁ W GŁOSACH 16,33% 34,93% 49,79% 50,00% 50,00% 89,96% STAN NA DZIEŃ 31 GRUDNIA 2024 Aktywa obrotowe 2.169 11 27 13 7 105 Aktywa trwałe 889 21 23 75 15 11 Zobowiązania krótkoterminowe 2.288 7 24 13 2 22 Zobowiązania długoterminowe 192 5 5 20 - 14 AKTYWA NETTO 578 20 21 55 20 80 Udział w aktywach netto 94 7 11 28 10 72 Korekta wartości godziwej na moment nabycia 16 - - - - 164 Odpis z tytułu utraty wartości (24) (7) - - - - UDZIAŁY I AKCJE WYKAZYWANE METODĄ PRAW WŁASNOŚCI 86 - 11 28 10 236 * ujawnienia dla spółki Polimex Mostostal zostały przedstawione zgodnie ze stanem na koniec listopada 2024 roku Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 46 Wspólne działalności Na podstawie analizy umów zawartych pomiędzy GK PGE a spółkami z grupy Ørsted posiadającymi 50% udziałów, GK PGE oceniła, że EWB2 i EWB3 stanowią tzw. wspólną działalność w rozumieniu MSSF 11 Wspólne ustalenia umowne.
+
+W wartości środków pieniężnych zawarte są środki pieniężne o ograniczonej możliwości dysponowania w kwocie 218 mln PLN (207 mln PLN w okresie porównawczym) na rachunkach klientów PGE Dom Maklerski S.A. stanowiące zabezpieczenie rozliczeń z IRGiT.
+
+Pozostałe aktywa krótko i długoterminowe Pozostałe aktywa długoterminowe Stan na dzień 30 czerwca 2025 Stan na dzień 31 grudnia 2024 Zaliczki na rzeczowe aktywa trwałe w budowie 826 954 Koszty pozyskania klienta 80 88 Pozostałe aktywa długoterminowe 343 202 POZOSTAŁE AKTYWA, RAZEM 1.249 1.244 Zaliczki na rzeczowe aktywa trwałe w budowie związane są głównie z budową na Morzu Bałtyckim farm wiatrowych Baltica 1 (21 mln PLN) oraz Baltica 2 (385 mln PLN), budową bloku w technologii gazowo-parowej przez PGE Nowy Rybnik sp. z o.o. (69 mln PLN), modernizacją ESP Porąbka-Żar przez PGE EO S.A. (152 mln PLN).
+
+Koszty pozyskania klienta dotyczą współfinansowania przez PGE Energia Ciepła S.A. inwestycji w rozwój sieci ciepłowniczych oraz prowizji agencyjnych w PGE Obrót S.A.
+
+Pozostałe aktywa długoterminowe obejmują m.in. aktywowane koszty ubezpieczeń majątkowych oraz koszty pozyskania finansowania inwestycji realizowanych w segmencie Energetyki Odnawialnej.
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 49 Pozostałe aktywa krótkoterminowe Stan na dzień 30 czerwca 2025 Stan na dzień 31 grudnia 2024 KOSZTY ROZLICZANE W CZASIE ZFŚS 110 11 Ubezpieczenia majątkowe i deliktowe 80 27 Koszty pozyskania klienta 71 82 Usługi informatyczne 43 26 Opłaty za wyłączenie gruntów z produkcji rolnej, leśnej 27 - Opłaty za umieszczenie urządzeń i zajęcie pasa drogowego 26 - Podatek od nieruchomości 24 - Opłaty za użytkowanie górnicze 15 - Koszty logistyczne związane z zakupem węgla 11 14 Pozostałe koszty rozliczane w czasie 192 71 INNE AKTYWA KRÓTKOTERMINOWE Należności z tytułu naliczonego VAT 462 737 Należności z tytułu rozliczenia wpłat na FWRC 180 199 Zaliczki na dostawy 10 8 Należności z tytułu akcyzy 6 7 Pozostałe aktywa krótkoterminowe 23 23 POZOSTAŁE AKTYWA, RAZEM 1.280 1.205 Pozostałe koszty rozliczne w czasie obejmują m.in. koszty pozyskania finansowania inwestycji realizowanych w segmencie Energetyki Odnawialnej.
+
+Instrumenty pochodne i inne aktywa wyceniane w wartości godziwej przez wynik Stan na dzień 30 czerwca 2025 Stan na dzień 31 grudnia 2024 Aktywa Zobowiązania Aktywa Zobowiązania INSTRUMENTY POCHODNE WYCENIANE W WARTOŚCI GODZIWEJ PRZEZ WYNIK FINANSOWY Forward walutowy 7 15 - 9 SWAP towarowy 28 - 12 11 Kontrakty na zakup/sprzedaż węgla 33 2 31 1 Instrumenty pochodne wbudowane w umowy handlowe - 140 - 212 Instrumenty pochodne wbudowane w kontrakt różnicowy CfD 1.425 - - - Opcje 7 - 2 - INSTRUMENTY POCHODNE ZABEZPIECZAJĄCE Transakcje zabezpieczające CCIRS 12 - 36 - Transakcje zabezpieczające IRS 108 201 176 - Forward walutowy 7 755 2 383 Forward towarowy all-in-one-hedge 124 171 186 46 Instrumenty warunkowe DCS - - - 599 SWAP towarowy - 21 - 15 SWAP inflacyjny - 25 - 15 POZOSTAŁE AKTYWA WYCENIANE W WARTOŚCI GODZIWEJ PRZEZ WYNIK FINANSOWY Jednostki uczestnictwa w funduszu inwestycyjnym 35 - 34 - RAZEM 1.786 1.330 479 1.291 część krótkoterminowa 187 900 169 509 część długoterminowa 1.599 430 310 782 Forward’y walutowe Terminowe transakcje walutowe związane są przede wszystkim z handlem uprawnieniami do emisji CO2.
+
+W związku z powyższym w lutym 2025 roku zawarto transakcje nowacji instrumentów pochodnych IRS zabezpieczających ryzyko stopy procentowej umowy kredytu zawartej w formule Project Finance.
+
+Celem zabezpieczenia ryzyka w ramach niniejszego powiązania zabezpieczającego jest ograniczenie zmienności przepływów pieniężnych wpływających na wynik finansowy Grupy, wynikających z transakcji finansowania zewnętrznego dla projektu budowy morskich farm wiatrowych.
+
+SWAP inflacyjny i SWAP towarowy W październiku 2024 roku Grupa zawarła warunkowe transakcje zabezpieczające (SWAPy inflacyjne oraz SWAPy towarowe) w celu zabezpieczenia ryzyka inflacji oraz zabezpieczenia cen towarów (pozycji indeksów) w umowach na dostawy kluczowych komponentów, celem spełnienia wymagań finansowania udzielonego w formule Project Finance na rzecz projektu Baltica 2.
+
+W związku z podjęciem FID i zrealizowaniem się czynnika warunkowego, w lutym 2025 roku Grupa podpisała umowy nowacji do transakcji zabezpieczających ryzyko inflacji oraz ceny towarów będących czynnikami indeksacji (SWAPy inflacyjne i SWAPy towarowe).
+
+Tym niemniej w ramach kontraktu różnicowego Grupa PGE identyfikuje dwa instrumenty pochodne, które wymagają wyodrębnienia i wyceny zgodnie z MSSF 9: pochodny instrument inflacyjny oraz opcję walutową.
+
+Datą pierwszego ujęcia tych instrumentów jest data zbliżona do dnia, w którym budowa farmy wiatrowej została wystarczająco uprawdopodobniona poprzez uzyskanie wszystkich istotnych zgód korporacyjnych oraz zawarcie kluczowych umów związanych z finansowaniem projektu.
+
+Pochodny instrument inflacyjny został wydzielony z instrumentu CfD z wartością początkową równą 0 EUR.
+
+Kapitały własne Podstawowym założeniem polityki Grupy w zakresie zarządzania kapitałami jest utrzymanie optymalnej struktury kapitału w długim okresie, zapewnienie dobrego standingu finansowego i bezpiecznych wskaźników struktury kapitału, które wspierałyby działalność operacyjną Grupy Kapitałowej PGE.
+
+Istotne jest także utrzymanie silnej bazy kapitałowej, będącej podstawą budowania zaufania ze strony przyszłych inwestorów, kredytodawców oraz rynku i zapewniającej przyszły rozwój Grupy Kapitałowej.
+
+Kapitał podstawowy Stan na dzień 30 czerwca 2025 Stan na dzień 31 grudnia 2024 1.470.576.500 akcji zwykłych serii A o wartości nominalnej 8,55 złotych każda 12.574 12.574 259.513.500 akcji zwykłych serii B o wartości nominalnej 8,55 złotych każda 2.219 2.219 73.228.888 akcji zwykłych serii C o wartości nominalnej 8,55 złotych każda 626 626 66.441.941 akcji zwykłych serii D o wartości nominalnej 8,55 złotych każda 568 568 373.952.165 akcji zwykłych serii E o wartości nominalnej 8,55 złotych każda 3.197 3.197 RAZEM KAPITAŁ PODSTAWOWY 19.184 19.184 Wszystkie akcje Spółki zostały opłacone.
+
+Zmiana stopy dyskonta i pozostałych założeń spowodowały: • zwiększenie rezerwy na koszty rekultywacji ujętej drugostronnie w pozostałe koszty operacyjne w wysokości 79 mln PLN; • zwiększenie rezerwy na koszty rekultywacji ujętej drugostronnie jako zwiększenie rzeczowych aktywów trwałych w wysokości 172 mln PLN, • zwiększenia rezerw na świadczenia pracownicze po okresie zatrudnienia ujętych drugostronnie jako zmniejszenie innych całkowitych dochodów w wysokości 97 mln PLN, • zmniejszenie rezerw na nagrody jubileuszowe ujętych drugostronnie jako zwiększenie kosztów operacyjnych w wysokości 21 mln PLN.
+
+Zmiany stanu rezerw Świadczenia pracownicze Rezerwa na koszty rekultywacji Rezerwa na koszty emisji CO2 Rezerwa na prawa majątkowe przeznaczone do umorzenia Umowy rodzące obciążenie Pozostałe Razem 1 STYCZNIA 2025 3.433 6.015 17.098 454 161 423 27.584 Koszty bieżącego zatrudnienia 61 - - - - - 61 Koszty przeszłego zatrudnienia 8 - - - - - 8 Koszty odsetek 96 168 - - - - 264 Korekta stopy dyskontowej i innych założeń 118 251 - - - - 369 Wypłacone świadczenia / Wykorzystane rezerwy (143) - (7.298) (435) (13) (4) (7.893) Rozwiązane rezerwy - - - (15) (60) (19) (94) Utworzone rezerwy - koszty - 35 8.132 158 47 27 8.399 Utworzone rezerwy - nakłady - 25 - - - - 25 Pozostałe zmiany - 8 - - - - 8 30 CZERWCA 2025 3.573 6.502 17.932 162 135 427 28.731 Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 54 Świadczenia pracownicze Rezerwa na koszty rekultywacji Rezerwa na koszty emisji CO2 Rezerwa na prawa majątkowe przeznaczone do umorzenia Umowy rodzące obciążenie Pozostałe Razem 1 STYCZNIA 2024 3.701 6.370 21.211 526 835 366 33.009 Zyski i straty aktuarialne (39) - - - - - (39) Koszty bieżącego zatrudnienia 122 - - - - - 122 Koszty przeszłego zatrudnienia (15) - - - - - (15) Koszty odsetek 188 336 - - - - 524 Korekta stopy dyskontowej i innych założeń (192) (813) - - - - (1.005) Wypłacone świadczenia / Wykorzystane rezerwy (333) - (24.454) (450) (13) (92) (25.342) Rozwiązane rezerwy - - (3) (74) (835) (55) (967) Utworzone rezerwy - koszty - 55 20.344 452 131 244 21.226 Utworzone rezerwy - nakłady - 22 - - - - 22 Pozostałe zmiany 1 45 - - 43 (40) 49 31 GRUDNIA 2024 3.433 6.015 17.098 454 161 423 27.584 Rezerwa na świadczenia pracownicze Rezerwy na świadczenia pracownicze obejmują głównie: • świadczenia pracownicze po okresie zatrudnienia – 2.596 mln PLN na 30 czerwca 2025, 2.490 mln PLN w okresie porównawczym, • nagrody jubileuszowe – 977 mln PLN na 30 czerwca 2025 oraz 943 mln PLN w okresie porównawczym.
+
+Rezerwa na koszty rekultywacji Rezerwa na rekultywację wyrobisk kopalnianych Grupa Kapitałowa PGE tworzy rezerwy na rekultywację wyrobisk końcowych.
+
+Kredyty bankowe, pożyczki, obligacje i leasing Stan na dzień 30 czerwca 2025 Stan na dzień 31 grudnia 2024 Długoterminowe Krótkoterminowe Długoterminowe Krótkoterminowe Kredyty i pożyczki 8.196 834 7.057 2.581 Wyemitowane obligacje 1.585 425 1.989 18 Leasing 1.509 112 1.415 132 RAZEM KREDYTY BANKOWE, POŻYCZKI, OBLIGACJE I LEASING 11.290 1.371 10.461 2.731 Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 56 Kredyty i pożyczki W ramach zaprezentowanych powyżej kredytów i pożyczek na dzień 30 czerwca 2025 i 31 grudnia 2024 roku Grupa Kapitałowa PGE wykazuje: Kredytodawca Instrument zabezpieczający Data zapadalności Limit w walucie Waluta Stopa procentowa Zobowiązanie na 30-06-2025 Zobowiązanie na 31-12-2024 Europejski Bank Inwestycyjny - 2041-03-15 2.000 PLN Stała 2.041 2.041 Europejski Bank Inwestycyjny - 2034-08-25 1.500 PLN Stała 1.129 1.192 Europejski Bank Inwestycyjny - 2041-03-15 850 PLN Zmienna 867 868 Europejski Bank Inwestycyjny - 2041-03-15 550 PLN Stała 562 562 Industrial and Commercial Bank of China (Europe) S.A.
+
+Oddział w Polsce IRS 2027-12-31 500 PLN Zmienna 501 501 Europejski Bank Inwestycyjny - 2034-08-25 490 PLN Stała 370 390 Bank Gospodarstwa Krajowego IRS 2027-12-31 1.000 PLN Zmienna 313 376 Europejski Bank Inwestycyjny - 2038-10-16 273 PLN Stała 264 274 Europejski Bank Odbudowy i Rozwoju IRS 2028-06-07 500 PLN Zmienna 220 252 Bank Gospodarstwa Krajowego IRS 2028-12-31 500 PLN Zmienna 219 250 Bank Pekao S.A. - 2025-10-31 40 USD Zmienna 111 130 Bank Gospodarstwa Krajowego - 2027-02-19 1.500 PLN Zmienna - 900 Bank Pekao S.A. - 2027-12-31 750 PLN Zmienna - 752 PKO BP S.A. - 2025-12-31 300 PLN Zmienna - 84 Bank Pekao S.A. - 2027-12-31 750 PLN Zmienna - 64 Bank Gospodarstwa Krajowego - 2026-09-29 1.400 PLN Zmienna - 4 Bank Gospodarstwa Krajowego - 2036-12-20 3.300 PLN Zmienna - - Konsorcjum Banków - 2027-03-01 3.150 PLN Zmienna - - Europejski Bank Inwestycyjny - 2045-04-25 2.250 PLN Stała - - Europejski Bank Inwestycyjny - 2044-07-29 1.000 PLN Stała /Zmienna - - PKO BP S.A. - 2025-09-30 165 PLN Zmienna - - ING Bank Śląski S.A. - 2025-12-31 137 PLN Zmienna - - PKO BP S.A. - 2025-08-30 5 PLN Zmienna - - NFOŚiGW - XII 2028 - VI 2043 241 PLN Stała 63 88 NFOŚiGW - III 2031 - III 2044 1.131 PLN Zmienna 790 807 WFOŚiGW - IX 2026 9 PLN Stała 2 3 WFOŚiGW - III 2026 - XII 2029 213 PLN Zmienna 83 100 Zobowiązania finansowe w ramach Projektu Baltica 2 (Project Finance): Konsorcjum Banków IRS 2049-11-30 2.812* EUR Zmienna 212 - Bank Gospodarstwa Krajowego oraz Bank Pekao S.A. - 2028-12-31 436** PLN Zmienna - - Zobowiązania finansowe w ramach Krajowego Planu Odbudowy: Bank Gospodarstwa Krajowego - 2049-12-20 9.521 PLN Stała 1.283 - Bank Gospodarstwa Krajowego - 2036-12-20 3.900 PLN Zmienna - - Bank Gospodarstwa Krajowego - 2049-12-20 2.566 PLN Stała - - RAZEM KREDYTY BANKOWE 9.030 9.638 *Maksymalny limit na który składają się: Term loan, Standby Debt oraz DSRF (Debt Service Reserve Facility) **Maksymalny limit w linii VAT Facility Na dzień 30 czerwca 2025 roku wartość pozostających do dyspozycji limitów kredytowych w rachunku bieżącym istotnych spółek Grupy Kapitałowej PGE wyniosła 2.791 mln PLN.
+
+Terminy spłaty przyznanych linii kredytowych w rachunkach bieżących głównych spółek Grupy Kapitałowej przypadają w latach 2025 – 2027.
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 57 25 kwietnia 2025 roku PGE S.A. zawarła umowę kredytu terminowego z EBI.
+
+Wartość umowy kredytowej wynosi 2.250 mln PLN a kredyt zostanie przeznaczony na finansowanie nakładów inwestycyjnych poniesionych przez PGE EO S.A. na modernizację elektrowni szczytowo-pompowej Porąbka-Żar oraz rozbudowę portfela elektrowni fotowoltaicznych.
+
+W dniu 27 czerwca 2025 roku Grupa otrzymała pierwszą transzę pożyczki ze środków Krajowego Planu Odbudowy i Zwiększenia Odporności w ramach Projektu Dystrybucja w kwocie 3.598 mln PLN.
+
+W ocenie Grupy pożyczka ma charakter preferencyjny o umownej stopie procentowej poniżej rynkowych stóp procentowych.
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 59 POZOSTAŁE NOTY OBJAŚNIAJĄCE Zobowiązania i należności warunkowe.
+
+Sprawy sądowe Zobowiązania warunkowe Stan na dzień 30 czerwca 2025 Stan na dzień 31 grudnia 2024 Zabezpieczenie zwrotu dotacji z funduszy środowiskowych, badawczych i rozwojowych* 1.869 935 Zobowiązania z tytułu pozwów sądowych 642 154 Zobowiązanie z tytułu gwarancji bankowych zabezpieczających transakcje giełdowe 568 278 Użytkowanie wieczyste gruntów 70 70 Inne zobowiązania warunkowe 119 57 ZOBOWIĄZANIA WARUNKOWE, RAZEM 3.268 1.494 *zmiana prezentacji w okresie porównawczym wartości weksli in blanco zabezpieczających dotacje z funduszy środowiskowych otrzymane przez spółki z segmentu ciepłownictwo, wzrost o kwotę 87 mln PLN (poprzednia wartość wystawionych weksli była skorygowana o wartość otrzymanych transz dotacji) Zabezpieczenie zwrotu dotacji z funduszy środowiskowych, badawczych, rozwojowych Zobowiązania przedstawiają wartość możliwych przyszłych zwrotów środków otrzymanych przez spółki Grupy Kapitałowej PGE z funduszy środowiskowych i rozwojowych na wybrane inwestycje.
+
+Zwrot środków będzie musiał nastąpić, jeżeli inwestycje, na które otrzymano dofinansowanie, nie przyniosą oczekiwanego efektu.
+
+W pierwszym półroczu 2025 roku PGE Dystrybucja S.A. złożyła zobowiązania wekslowe zabezpieczające umowy o dofinansowanie z funduszy unijnych na łączną kwotę ok. 926 mln PLN.
+
+Nowo pozyskane środki z dotacji będą przeznaczone na realizację projektów inwestycyjnych dotyczących głównie: • Budowy i modernizacji inteligentnej sieci elektroenergetycznej, • Rozwoju inteligentnej sieci elektroenergetycznej, • Budowy sieci łączności specjalnej technologii LTE450, • Centralnej Dyspozycji Mocy dedykowanej do zarządzania liniami 110 kV.
+
+Na dzień 31 grudnia 2024 roku PGE Dystrybucja S.A. posiadała zobowiązania wekslowe na ok. 784 mln PLN zabezpieczające umowy o dofinansowanie z funduszy europejskich i krajowych.
+
+Pozyskane środki z dotacji są wykorzystywane na realizację projektów inwestycyjnych dotyczących m.in. • Rozwoju inteligentnej sieci elektroenergetycznej w wybranych oddziałach spółki, • Programu Liczniki Zdalnego Odczytu w PGE Dystrybucja S.A., • Zasilenia terenu Euro-Park Stalowa Wola w celu rozwoju elektromobilności.
+
+Zobowiązania z tytułu pozwów sądowych W związku ze sprzedażą udziałów PGE EJ1 sp. z o.o. do Skarbu Państwa, która miała miejsce w 2021 roku oraz zgodnie z zawartym Porozumieniem regulującym odpowiedzialność dotychczasowych Wspólników z tytułu kosztów sporu z Worley Parsons, PGE S.A. w razie przegrania sporu może być zobowiązana do pokrycia kosztów sporu w kwocie wynoszącej maksymalnie 98 mln PLN.
+
+W efekcie kwota 59 mln PLN została rozpoznana w zobowiązaniach warunkowych, zaś kwota 39 mln PLN w rezerwach krótkoterminowych.
+
+Zobowiązania przedstawiają również wartość sporów sądowych wynikających z realizacji inwestycji w PGE GiEK S.A.
+
+Zobowiązania z tytułu gwarancji bankowych Zobowiązania przedstawiają wystawione przez spółki gwarancje bankowe wniesione jako depozyt celem zabezpieczenia transakcji giełdowych wynikających z członkostwa w IRGiT.
+
+Wartość zobowiązania warunkowego została wyceniona jako różnica pomiędzy zdyskontowaną sumą zaktualizowanych opłat za wieczyste użytkowanie za cały okres na jaki wieczyste użytkowanie zostało ustanowione a zobowiązaniem z tytułu wieczystego użytkowania gruntu, które zostało ujęte w księgach na bazie poprzednich opłat.
+
+Inne zobowiązania warunkowe W sierpniu 2022 roku podpisana została „Umowa o zwrot kosztów” pomiędzy spółkami EWB1, EWB2 i EWB3 a spółką wykonującą budowę portu instalacyjnego.
+
+Umowa zapewnia wykonawcy prac zwrot poniesionych Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 60 kosztów związanych z budową portu instalacyjnego w przypadku nie kontunuowania przez w/w spółki przedmiotowej inwestycji.
+
+Wartość zobowiązania warunkowego szacuje się na kwotę 6,5 mln EUR oraz 10 mln PLN, a w podziale na spółki płatność z tytułu zwrotu kosztów nastąpi na zasadach po 33,33% każda ze spółek.
+
+Środki z podwyższenia kapitału zakładowego Spółki 5 kwietnia 2022 roku zawarta została umowa inwestycyjna pomiędzy PGE S.A. a Skarbem Państwa dotycząca objęcia przez Skarb Państwa akcji wyemitowanych w wyniku podwyższenia kapitału zakładowego.
+
+Zgodnie z postanowieniami umowy, środki pozyskane z emisji akcji w kwocie 3,2 mld PLN są wykorzystywane wyłącznie na inwestycje w obszarze energii odnawialnej, dekarbonizacji i dystrybucji.
+
+W dniu 26 kwietnia 2023 roku oraz 24 kwietnia 2025 roku aneksowano umowę ze względu na konieczność przesunięć w harmonogramie wydatków pomiędzy poszczególnymi zadaniami inwestycyjnymi.
+
+Wydatkowanie środków niezgodnie z postanowieniami umowy inwestycyjnej może skutkować karami pieniężnymi a w skrajnym wypadku nawet koniecznością zwrotu środków.
+
+Zobowiązania warunkowe związane z faktoringiem Na dzień 30 czerwca 2025 roku Grupa posiadała zobowiązania warunkowe w formie Oświadczeń o poddaniu się egzekucji w trybie art. 777 § 1 Kodeksu postępowania cywilnego stanowiących zabezpieczenie wierzytelności Grupy z tytułu prowadzonych umów na faktoring odwrotny, których łączna wartość na dzień sprawozdawczy wynosi 3.450 mln PLN.
+
+Zabezpieczenie transakcji finansowania MFW Baltica 2 W marcu 2025 roku, w związku z podpisaniem umów kredytowych mających na celu sfinansowanie budowy MFW Baltica 2, o których mowa w nocie 27.4, zostały ustanowione następujące zabezpieczenia transakcji finansowania projektu: • umowa zastawu rejestrowego i finansowego na udziałach PGE Baltica 6 zawarta pomiędzy PGE Baltica 2 a Deutsche Bank Luxembourg z dnia 3 lutego 2025 roku dotycząca 1 684 424 udziałów, zastaw rejestrowy na udziałach został wpisany do rejestru zastawów 31 lipca 2025 roku, • umowa zastawu rejestrowego i finansowego na nowych udziałach PGE Baltica 6 zawarta pomiędzy PGE Baltica 2 a Deutsche Bank Luxembourg z dnia 3 czerwca 2025 roku dotycząca 10 udziałów, zastaw rejestrowy na udziałach został wpisany do rejestru zastawów 30 lipca 2025 roku, • umowa zastawu rejestrowego i finansowego na udziałach EW Baltica 2 zawarta pomiędzy PGE Baltica 6 a Deutsche Bank Luxembourg z dnia 3 lutego 2025 roku dotycząca 200 065 udziałów, zastaw rejestrowy na udziałach został wpisany do rejestru zastawów 12 marca 2025 roku, • umowa zastawu rejestrowego i finansowego na nowych udziałach EW Baltica 2 zawarta pomiędzy PGE Baltica 6 a Deutsche Bank Luxembourg z dnia 18 marca 2025 roku dotycząca 10 udziałów, zastaw rejestrowy na udziałach został wpisany do rejestru zastawów 2 kwietnia 2025 roku, • umowa zastawu rejestrowego i finansowego na nowych udziałach EW Baltica 2 zawarta pomiędzy PGE Baltica 6 a Deutsche Bank Luxembourg z dnia 25 lipca 2025 roku dotycząca 20 udziałów, zastaw rejestrowy na udziałach został wpisany do rejestru zastawów 7 sierpnia 2025 roku, • umowa zastawów finansowych na rachunkach bankowych spółki PGE Baltica 6 z dnia 3 lutego 2025 roku, • umowa zastawu rejestrowego na aktywach spółki PGE Baltica 6 z dnia 3 lutego 2025 roku, • umowa zastawu rejestrowego na rachunkach bankowych spółki PGE Baltica 6 z dnia 3 lutego 2025 roku, • umowa zastawu rejestrowego i zastawów cywilnych na rachunku bankowym VAT spółki EW Baltica 2 z dnia 3 lutego 2025 roku, • umowa przelewu na zabezpieczenie pomiędzy PGE Baltica 6 (cedent) Deutsche Bank (cesjonariusz) z dnia 4 lutego 2025 roku (rachunek VAT), • umowa przelewu na zabezpieczenie pomiędzy PGE Baltica 2 a Deutsche Bank z dnia 3 lutego 2025 roku, • umowa przelewu na zabezpieczenie pomiędzy PGE Baltica 6 a Deutsche Bank z dnia 3 lutego 2025 roku, • umowa przelewu na zabezpieczenie pomiędzy PGE S.A. a Deutsche Bank z dnia 3 lutego 2025 roku.
+
+PGE Baltica 6 oraz Orsted Baltica 2 Holding sp. z o.o. w formie umowy zastawu rejestrowego i zastawów cywilnych na rachunku bankowym VAT EW Baltica 2 oraz w formie Oświadczeń o poddaniu się egzekucji.
+
+Dodatkowo plany połączenia ww. spółek, w tym parytety wymiany akcji, były badane w zakresie poprawności i rzetelności przez wyznaczonego przez sąd rejestrowy biegłego, który nie stwierdził żadnych nieprawidłowości.
+
+Kwestie związane z wnioskiem konsorcjum Polimex-Mostostal o podwyższenie wynagrodzenia za budowę elektrociepłowni w Siechnicach W dniu 23 czerwca 2021 roku została zawarta umowa dotycząca budowy elektrociepłowni gazowo – parowej dla KOGENERACJA S.A. z konsorcjum w składzie Polimex Mostostal S.A. oraz Polimex Energetyka sp. z o.o.
+
+Wartość wynagrodzenia w momencie podpisania umowy została ustalona na 1.159 mln PLN netto.
+
+Na zgodny wniosek Stron, Sąd Apelacyjny we Wrocławiu – postanowieniem z 30 października 2024 roku – zawiesił postępowanie w sprawie.
+
+W dniu 12 sierpnia 2024 roku wpłynął z Sądu Okręgowego we Wrocławiu X Wydział Gospodarczy odpis pozwu z dnia 30 października 2023 roku w sprawie z powództwa Polimex Mostostal S.A. o ukształtowanie stosunku prawnego i zmianę Umowy na budowę Elektrociepłowni gazowo-parowej dla Zespołu Elektrociepłowni Wrocławskich KOGENERACJA S.A. w Siechnicach.
+
+Żądana przez Polimex zmiana Umowy dotyczy oznaczenia wysokości wynagrodzenia umownego zwiększonego o kwotę 344 mln PLN netto tj. podwyższenia obecnej wartości Umowy w kwocie 1.159 mln PLN netto do kwoty 1.503 mln PLN netto.
+
+Zgodnie z w/w protokołem, zostanie zawarta ugoda częściowa, kończąca spór związany z roszczeniami finansowymi Konsorcjum o zwiększenie wynagrodzenia umownego.
+
+Zgodnie z projektem aneksu do umowy, wysokość wynagrodzenia umownego Konsorcjum ulegnie podwyższeniu - z tytułu waloryzacji pozaumownej (związanej ze zmianą stosunków), umownej oraz wykonania prac: dodatkowych, zamiennych, jak i usuwania ryzyk terenu budowy - o kwotę netto 157 mln PLN, tj. 194 mln PLN brutto.
+
+Warunkiem zawarcia ugody częściowej, a w konsekwencji aneksu do umowy, jest uzyskanie wymaganych zgód korporacyjnych, w szczególności zgody Walnego Zgromadzenia spółki.
+
+W dniu 25 lutego 2025 roku KOGENERACJA S.A. oraz Konsorcjum zawarły aneks do umowy o mediację, na mocy którego termin procesu mediacyjnego wydłużono do dnia 31 maja 2025 roku.
+
+W dniu 13 marca 2025 roku Nadzwyczajne Walne Zgromadzenie KOGENERACJA S.A. wyraziło zgodę na zawarcie ugody przed Mediatorami Stałymi z Sądu Polubownego przy Prokuratorii Generalnej Rzeczpospolitej Polskiej oraz podpisanie aneksu nr 1 do umowy z Konsorcjum w składzie: Polimex Mostostal S.A. i Polimex Energetyka Sp. z o.o. na budowę EC Czechnica 2, zwiększającego wynagrodzenie umowne o 157 mln PLN.
+
+W dniu 31 lipca 2025 roku KOGENERACJA S.A. powzięła informację o wydaniu postanowienia Sądu Okręgowego we Wrocławiu dotyczącego zatwierdzenia ugody mediacyjnej.
+
+System podatkowy w Polsce charakteryzuje duża zmienność przepisów podatkowych, wysoki stopień ich skomplikowania, wysokie potencjalne kary przewidziane w razie popełnienia przestępstwa lub wykroczenia skarbowego.
+
+Rozliczenia podatkowe oraz inne obszary działalności, podlegające regulacjom (kontroli celnej, czy dewizowej) mogą być przedmiotem kontroli odpowiednich władz, które uprawnione są do nakładania kar i sankcji wraz z odsetkami karnymi.
+
+Kontrolą mogą być objęte rozliczenia podatkowe przez okres 5 lat od końca roku kalendarzowego, w którym upłynął termin płatności podatku.
+
+Jeżeli Grupa uznaje, że w wyniku postępowania korekta rozliczeń jest prawdopodobna, tworzy odpowiednią rezerwę.
+
+Ze względu na zakwestionowanie konstytucyjności definicji budowli przez Trybunał Konstytucyjny została dokonana nowelizacja przepisów ustawy z 12 stycznia 1991 roku o podatkach i opłatach lokalnych, w której na nowo zdefiniowano przedmiot opodatkowania.
+
+Zmiana przepisów nie miała istotnego wpływu na obciążenie z tytułu podatku od nieruchomości w spółkach GK PGE.
+
+Obowiązujące przepisy zawierają również niejasności, które powodują różnice w opiniach, co do interpretacji prawnej przepisów podatkowych, zarówno pomiędzy organami państwowymi jak i organami państwowymi i przedsiębiorstwami.
+
+Rozliczenia podatkowe oraz inne obszary działalności (na przykład kwestie celne czy dewizowe) mogą być przedmiotem kontroli organów, które uprawnione są do nakładania wysokich kar i grzywien, a wszelkie dodatkowe zobowiązania podatkowe, wynikające z kontroli, muszą zostać zapłacone wraz z wysokimi odsetkami.
+
+Te warunki powodują, że ryzyko podatkowe w Polsce jest większe niż w krajach o bardziej stabilnym systemie podatkowym.
+
+W nocie 7.2 Koszty w układzie rodzajowym i kalkulacyjnym wynagrodzenia z tego tytułu są prezentowane w pozycji pozostałe koszty rodzajowe.
+
+Istotne zdarzenia oraz zdarzenia po zakończeniu okresu sprawozdawczego Projekt wydzielenia aktywów węglowych Dnia 9 maja 2024 roku zarządzeniem Ministra Aktywów Państwowych powołany został zespół do spraw wydzielenia aktywów węglowych ze spółek z udziałem Skarbu Państwa sektora energetycznego.
+
+Do zadań zespołu należało: • analiza uwarunkowań wydzielenia aktywów węglowych ze spółek z udziałem Skarbu Państwa sektora energetycznego, • współpraca ze spółkami z udziałem Skarbu Państwa sektora energetycznego w zakresie wypracowania założeń, kierunków oraz metod przeprowadzenia wydzielenia, • ustalenie kręgu podmiotów odpowiedzialnych za realizację wydzielenia oraz podziału zadań pomiędzy te podmioty.
+
+W dniu 9 lipca 2025 roku Ministerstwo Aktywów Państwowych poinformowało o zakończeniu prac zespołu oraz podjęciu decyzji o rezygnacji z realizacji projektu Narodowej Agencji Bezpieczeństwa Energetycznego (NABE).
+
+Brak planowanych działań zmierzających do konsolidacji aktywów węglowych w ramach NABE skutkuje pozostawieniem jednostek wytwórczych opartych na węglu w strukturach grup kapitałowych, w tym w Grupie PGE.
+
+Jednocześnie od 1 stycznia 2025 roku nie są już stosowane ceny maksymalne dla mikro, małych i średnich przedsiębiorców.
+
+Ponadto ustawa nakładała na przedsiębiorstwa obrotu energią elektryczną obowiązek złożenia wniosku o zmianę obowiązującej do 31 grudnia 2025 roku taryfy w terminie do 30 kwietnia 2025 roku, co mogłoby skutkować obniżeniem ceny energii elektrycznej w taryfie w kilku miesiącach 2025 roku.
+
+Przepisami ustawy z dnia 23 kwietnia 2025 roku o zmianie ustawy o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej, która weszła w życie 30 kwietnia 2025 roku, przesunięto termin na złożenie wniosku o zmianę taryfy na dzień 31 lipca 2025 roku, a taryfa ma obowiązywać od 1 października 2025 roku do 31 grudnia 2025 roku.
+
+W czerwcu 2025 roku Rada Ministrów podjęła decyzję o przedłużeniu stosowania ceny maksymalnej na poziomie 500 zł/MWh dla odbiorców w gospodarstwach domowych do 31 grudnia 2025 roku.
+
+Przepisy zmieniające ustawę z dnia 27 października 2022 roku o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w latach 2023–2025 wprowadzono do projektu o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektórych innych ustaw w formie poprawek na etapie procesu legislacyjnego w Sejmie.
+
+Dnia 21 sierpnia 2025 roku Prezydent RP zawetował ustawę, w związku z tym przedłużenie stosowania ceny maksymalnej od 1 października 2025 roku do 31 grudnia 2025 roku nie weszło w życie.
+
+Jednocześnie Prezydent RP skierował do Sejmu własny projekt ustawy o przedłużeniu stosowania ceny maksymalnej na ostatni kwartał 2025 roku zawierający rozwiązania tożsame z proponowanymi przez Radę Ministrów.
+
+W dniu 29 sierpnia 2025 roku na stronie Rządowego Centrum Legislacji opublikowany został projekt ustawy o bonie ciepłowniczym oraz o zmianie niektórych innych ustaw zawierający przepis, który przewiduje obowiązek stosowania ceny maksymalnej na poziomie 500 zł/MWh wobec odbiorców energii elektrycznej w gospodarstwach domowych do 31 grudnia 2025 roku.
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 71 Fundusz Wypłaty Różnicy Ceny Na sytuację finansową Grupy PGE począwszy od 1 grudnia 2022 roku wpływ miały także przepisy ustawy o środkach nadzwyczajnych w 2023 roku, które wprowadziły obowiązek przekazywania comiesięcznych odpisów na rachunek FWRC przez wytwórców energii elektrycznej oraz przedsiębiorstwa energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną.
+
+Grupa Kapitałowa PGE jest przekonana o prawidłowości zastosowanej wykładni przepisów i w związku z ewentualnym sporem nie utworzyła żadnych rezerw w niniejszym sprawozdaniu finansowym.
+
+Zawarcie porozumienia i utworzenie spółki celowej na potrzeby związane z projektem budowy elektrowni jądrowej 31 października 2022 roku PGE Polska Grupa Energetyczna S.A. podpisała z Korea Hydro & Nuclear Power Co.
+
+Ltd. oraz z ZE PAK S.A. list intencyjny, którego celem jest rozpoczęcie współpracy w ramach strategicznego polsko – koreańskiego projektu budowy elektrowni jądrowej w lokalizacji Pątnów-Konin.
+
+Planowana moc elektrowni to 2.800 MW z wykorzystaniem dwóch reaktorów jądrowych typu PWR (Pressurized Water Reactor) w oparciu o koreańską technologię APR 1400.
+
+Współpraca obejmuje również badania terenowe i środowiskowe, realizację studium wykonalności oraz uzyskanie niezbędnych decyzji administracyjnych.
+
+W Programie Polskiej Energetyki Jądrowej obszar Pątnów-Konin jest rekomendowany jako jedna z możliwych lokalizacji do budowy elektrowni jądrowej w Polsce.
+
+Inwestycja wpisuje się również w założenia rozwoju technologii jądrowych zawartych w Polityce Energetycznej Polski do 2040 roku.
+
+W 2023 roku PGE Polska Grupa Energetyczna S.A. i ZE PAK S.A. założyły spółkę PGE PAK Energia Jądrowa S.A., w której posiadają po 50% akcji. 16 sierpnia 2023 roku spółka PGE PAK Energia Jądrowa S.A. złożyła do Ministra Klimatu i Środowiska wniosek o wydanie decyzji zasadniczej dla budowy elektrowni jądrowej w regionie konińskim. 24 listopada 2023 roku Ministerstwo Klimatu i Środowiska wydało Decyzję Zasadniczą dla budowy elektrowni jądrowej w regionie konińskim. 23 stycznia 2025 roku Spółka zawarła z ZE PAK S.A. dokument Term Sheet w sprawie potencjalnej transakcji polegającej na nabyciu przez PGE S.A. od ZE PAK: - 100% udziałów w PAK CCGT sp. z o.o. („Udziały”) oraz - 50% akcji w PGE PAK Energia Jądrowa S.A. („Akcje”).
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 72 W Term Sheet strony uzgodniły podstawowe warunki ewentualnej transakcji nabycia Udziałów i Akcji oraz wyłączność dla PGE S.A. na prowadzenie negocjacji w tym zakresie do 30 czerwca 2025 roku (planowany termin zamknięcia transakcji), przy czym dokument nie zobowiązuje stron do realizacji transakcji.
+
+Jednocześnie PGE S.A. oraz ZE PAK deklarują zamiar rozmów w zakresie funkcjonowania PGE PAK Energia Jądrowa S.A.
+
+Realizacja oraz finansowanie Projektu Baltica 2 28 stycznia 2025 roku Rada Nadzorcza PGE podjęła uchwałę wyrażającą zgodę na budowę morskiej farmy wiatrowej o planowanej mocy maksymalnej 1 498 MW (Projekt Baltica 2) realizowanego przez Elektrownia Wiatrowa Baltica – 2 sp. z o.o. oraz zawarcia i wykonania przez PGE umów związanych z realizacją Projektu Baltica 2. 29 stycznia 2025 roku spółka EWB2 oraz odpowiednie podmioty z Grup Kapitałowych PGE i Ørsted zawarły szereg umów związanych z realizacją budowy morskiej farmy wiatrowej.
+
+Zawarcie powyższych umów jest związane z przygotowaniem do podjęcia przez wspólników spółki EWB2 uchwały w sprawie FID rozpoczynającej fazę budowy Projektu Baltica 2.
+
+Zawarte umowy obejmują m.in.: • zmienioną umowę wspólników regulującą między innymi zasady ładu korporacyjnego spółki w fazie budowy, zasady funkcjonowania zintegrowanego zespołu projektowego w fazie budowy, zobowiązania stron w zakresie finansowania i świadczenia innego rodzaju wsparcia na rzecz spółki w związku z budową, ograniczenia dotyczące zbywalności udziałów oraz skutki istotnego naruszenia zobowiązań i zmiany kontroli nad wspólnikami; • umowy regulujące świadczenie usług zarządzania pracami budowlanymi przez odpowiedni podmiot z grupy PGE – w obszarze lądowym (onshore) oraz przez odpowiedni podmiot z grupy Ørsted – w obszarze morskim (offshore); • umowy regulujące świadczenie usług obsługi i konserwacji farmy wiatrowej w ramach Projektu Baltica 2 po oddaniu jej do użytku, przez odpowiedni podmiot z grupy PGE oraz Ørsted; • umowy pożyczek wspólników, na podstawie których wspólnicy spółki udostępnią spółce finansowanie dłużne (oprócz finansowania kapitałowego); • umowy dotyczące sprzedaży energii elektrycznej wytworzonej przez morską farmę wiatrową w ramach Projektu Baltica 2 na rzecz wspólników spółki.
+
+Jednocześnie z zawarciem powyższych umów PGE Baltica 6 sp. z o.o. zawarła umowy kredytowe wraz z odpowiednimi umowami zabezpieczeń w celu finansowania budowy Projektu Baltica 2.
+
+Umowy kredytowe zostały zawarte z konsorcjum, w którego skład wchodzi 25 polskich i zagranicznych instytucji finansowych, w tym BGK, EBI oraz EBOR.
+
+Na podstawie Umów Kredytowych Grupa uzyska finansowanie w formule finansowania projektowego (project finance w modelu bez regresu) w wysokości ok. 11,1 mld PLN na okres budowy oraz 22 kolejnych lat, a także będzie miała możliwość skorzystania z dodatkowych oraz rezerwowych linii kredytowych w wysokości ok. 1,5 mld PLN.
+
+Spłata zobowiązań zaciągniętych na podstawie umów kredytowych oparta będzie na przyszłych przepływach pieniężnych generowanych przez spółkę EWB2. 29 stycznia 2025 roku wspólnicy EWB2 podjęli uchwałę w sprawie FID rozpoczynającej fazę budowy morskiej farmy wiatrowej Baltica 2.
+
+Pierwsza energia w projekcie powinna zostać wygenerowana w I półroczu 2027 roku a oddanie do użytkowania całego projektu planowane jest na II półrocze 2027 roku.
+
+Całkowity budżet projektu obejmujący wydatki inwestycyjne w fazie rozwoju i w fazie budowy oraz koszty operacyjne w fazie budowy szacowany jest na około 30 mld PLN, przy czym wspólnicy odpowiadają za zapewnienie jego finansowania w równych częściach.
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego stanowią jego integralną część 73 Podpisanie umów pożyczek z BGK w ramach Krajowego Planu Odbudowy i Zwiększenia Odporności W dniu 29 stycznia 2025 roku PGE S.A. podpisała z BGK umowę pożyczki ze środków KPO w ramach Inwestycji G3.1.5. „Budowa Morskich Farm Wiatrowych” do kwoty limitu 3.900 mln PLN.
+
+Środki z pożyczki przeznaczone zostaną na finansowanie lub refinansowanie kosztów kwalifikowalnych projektu morskiej farmy wiatrowej Baltica 2 poprzez wniesienie wkładu własnego do projektu.
+
+Pożyczka została udostępniona do wykorzystania od daty spełnienia standardowych dla finansowań bankowych warunków zawieszających określonych w Umowie.
+
+Pożyczka została udzielona na warunkach rynkowych i nie będzie stanowić pomocy publicznej.
+
+W dniu 31 marca 2025 roku PGE S.A. podpisała z BGK dwie umowy pożyczek ze środków KPO w łącznej kwocie limitu około 12,1 mld PLN, w tym odpowiednio: • około 9.521 mln PLN na finansowanie projektów realizowanych przez PGE Dystrybucja S.A. oraz • około 2.566 mln PLN na finansowanie projektów realizowanych przez PGE Energetyka Kolejowa S.A.
+
+Pożyczki udzielane są ze środków KPO w ramach Inwestycji G3.1.4 o nazwie „Wsparcie krajowego systemu energetycznego (Fundusz Wsparcia Energetyki)" zgodnie z „Zasadami Naboru Wniosków dla pożyczek na sieci elektroenergetyczne udzielanych przez BGK”.
+
+Środki pochodzące z pożyczek zostaną przeznaczone wyłącznie na finansowanie wydatków kwalifikowalnych związanych z realizacją następujących projektów: • PGE Dystrybucja S.A.: zwiększenie zdolności do integracji odnawialnych źródeł energii oraz poprawy bezpieczeństwa dostaw energii poprzez budowę i modernizację sieci elektroenergetycznej („Projekt Dystrybucja”), • PGE Energetyka Kolejowa S.A.: wzmocnienie bezpieczeństwa, poprawa jakości energii oraz zwiększenie możliwości przyłączania większej liczby źródeł OZE do sieci dystrybucyjnej zasilającej polską kolej i ekosystem towarzyszący („Projekt Energetyka Kolejowa”).
+
+Zgodnie z umowami pożyczek, PGE S.A. spełniła standardowe dla finansowań bankowych warunki zawieszające oraz zawarła wymaganą dokumentację z PGE Dystrybucja S.A. oraz PGE Energetyka Kolejowa S.A., w tym umowy pożyczek wewnątrzgrupowych.
+
+Pożyczki od BGK zabezpieczone są oświadczeniami o dobrowolnym poddaniu się egzekucji przez pożyczkobiorcę na rzecz pożyczkodawcy.
+
+Środki z umów pożyczek będą wypłacane sukcesywnie, w oparciu o składane wnioski o wypłatę, w miarę realizacji Projektu Dystrybucja oraz Projektu Energetyka Kolejowa, jednak nie później niż do dnia 20 grudnia 2036 roku i do wysokości środków przekazanych BGK na ten cel przez ministra właściwego ds. klimatu i środowiska.
+
+Pożyczki są oprocentowane według stałej stopy procentowej wynoszącej 0,5% w skali roku, a ich spłata została przewidziana w półrocznych ratach w okresie 2034-2049 (ostateczny termin spłaty to 20 grudnia 2049 roku).
+
+W dniu 27 czerwca 2025 roku Grupa otrzymała pierwszą transzę pożyczki w ramach Projektu Dystrybucja w kwocie 3.598 mln PLN.
+
+W ocenie Grupy pożyczka ma charakter preferencyjny o umownej stopie procentowej poniżej rynkowych stóp procentowych.
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego jednoskowego sprawozdania finansowego stanowią jego integralną część 83 Na wzrost kosztów według rodzaju w I półroczu 2025 roku w porównaniu do I półrocza 2024 roku wpływ miały następujące czynniki: • wzrost kosztów świadczeń pracowniczych, głównie w wyniku wzrostu wynagrodzeń na skutek zawartych porozumień płacowych w II połowie 2024 roku oraz wzrostu zatrudnienia w 2025 roku, • wzrost pozostałych kosztów rodzajowych, głównie kosztów poniesionych na działania marketingowe.
+
+Przychody i koszty finansowe Okres zakończony 30 czerwca 2025 Okres zakończony 30 czerwca 2024 dane przekształcone* PRZYCHODY FINANSOWE Z TYTUŁU INSTRUMENTÓW FINANSOWYCH Dywidendy 3.287 6 Odsetki 1.227 1.145 Aktualizacja wartości instrumentów finansowych 8 3 Rozwiązanie odpisów aktualizujących 20 51 Różnice kursowe 1 1 Zysk ze zbycia inwestycji 1 - Pozostałe 12 15 RAZEM PRZYCHODY FINANSOWE Z TYTUŁU INSTRUMENTÓW FINANSOWYCH 4.556 1.221 POZOSTAŁE PRZYCHODY FINANSOWE - - RAZEM PRZYCHODY FINANSOWE 4.556 1.221 * przekształcenie danych porównawczych zostało opisane w nocie 4 niniejszego sprawozdania finansowego W okresie zakończonym 30 czerwca 2025 roku Spółka wykazuje przychody z tytułu dywidendy w kwocie 3.287 mln PLN, co zostało szczegółowo opisane w nocie 12 skróconego śródrocznego jednostkowego sprawozdania finansowego.
+
+Spółka wykazuje przychody z tytułu odsetek głównie z tytułu finansowania udzielonego spółkom zależnym.
+
+Prognozy cen gazu ziemnego zakładają 11% spadek cen w 2026 roku w odniesieniu do cen z 2025 roku oraz utrzymanie cen w 2027 roku.
+
+Na przewidywane ceny gazu w Europie największy wpływ mają koszty importu LNG i związany z tym poziom inwestycji w instalacje do skraplania i regazyfikacji na całym świecie, a także dynamicznie rosnący popyt na LNG szczególnie w krajach azjatyckich, a także rosnące zapotrzebowanie na gaz w USA.
+
+W długim terminie prognoza cen gazu ziemnego zakłada wzrost, głównie ze względu na rosnące koszty wydobycia tego surowca.
+
+Z kolei na podstawie zmian proponowanych w dyrektywie budynkowej (EPBD) prognozy wskazują na spadek zapotrzebowania na ciepło w miejskich systemach ciepłowniczych.
+
+W czerwcu 2025 roku Grupa PGE ogłosiła strategię do 2035 roku, której jednym z założeń jest kompleksowa modernizacja posiadanych aktywów ciepłowniczych w oparciu o technologie nisko- i zeroemisyjne.
+
+Misja GK PGE opiera się o założenie bezpieczeństwa dostaw energii dzięki elastycznym źródłom i inteligentnej infrastrukturze sieciowej oraz magazynom energii.
+
+Do produkcji ciepła w nowych i zmodernizowanych jednostkach ciepłowniczych zostaną wykorzystane: gaz ziemny (jednostki kogeneracyjne i kotły wodne), geotermia, biomasa, technologie power to heat (kotły elektrodowe i wielkoskalowe pompy ciepła wykorzystujące ciepło odpadowe i energię otoczenia).
+
+Założenia do Planu Dekarbonizacji zostały uwzględnione przy szacowaniu wartości użytkowej aktywów wytwórczych segmentu Ciepłownictwo.
+
+Zgodnie z obowiązującą Strategią Grupy, ciepłownicze źródła węglowe zostaną zastąpione technologią nisko- i zeroemisyjną.
+
+Łącznie na inwestycje w ten segment do 2035 roku Grupa PGE planuje przeznaczyć około 18 mld PLN, z czego 15 mld PLN na inwestycje w nowe instalacje produkcyjne oraz utrzymanie majątku, a pozostałe 3 mld PLN trafi na potencjalne akwizycje sieci ciepłowniczych i następnie ich modernizację w szczególności we współpracy z samorządami.
+
+Nowe inwestycje i zastępowanie węgla kogeneracją gazową, OZE i Power-to-Heat oraz podniesienie efektywności energetycznej sieci, pozwolą na obniżenie emisji CO2 w tym segmencie o 60% w stosunku do 2021 roku oraz obniżenie poziomu strat sieciowych o 3 punkty procentowe.
+
+W lipcu 2025 roku Komisja Europejska zaproponowała nowy cel redukcji emisji gazów cieplarnianych netto o 90% do roku 2040 względem poziomów z 1990 roku, rozpoczynając jednocześnie proces legislacyjny mający na celu aktualizację Europejskiego Prawa o Klimacie oraz konsultacje społeczne w tym zakresie.
+
+W związku z tym spodziewane jest dalsze ograniczanie roli źródeł węglowych w rynku energii w kolejnej dekadzie.
+
+Opisane powyżej zmiany powodują, że przewidywane jest zmniejszenie wolumenu produkcji ze źródeł konwencjonalnych, w konsekwencji skutkuje to ograniczeniem wydatków inwestycyjnych (CAPEX) i operacyjnych (OPEX) na zadania utrzymaniowe majątku węglowego, co dodatkowo wpływa na przewidywany spadek rentowności poprzez stopniowe pogarszanie się dyspozycyjności tych jednostek.
+
+Równocześnie powyższe zmiany legislacyjne i rynkowe sprzyjają rozwojowi źródeł zero- oraz niskoemisyjnych.
+
+Należy mieć także na uwadze, że instalacje wytwórcze oparte o paliwa kopalne, w obliczu niepewności generacji z OZE (napędzanej czynnikami środowiska: woda, wiatr, słońce), są nadal potrzebne w systemie elektroenergetycznym, aby go zbilansować.
+
+Założenia szczegółowe Poniżej przedstawiono kluczowe założenia wpływające na oszacowanie wartości użytkowej testowanych CGU: • uznanie za jedno CGU z uwagi na powiązania technologiczne odpowiednio: o Oddziału Kopalnia Węgla Brunatnego Bełchatów oraz Oddziału Elektrownia Bełchatów, o Oddziału Kopalnia Węgla Brunatnego Turów oraz Oddziału Elektrownia Turów, • uznanie za trzy oddzielne CGU Elektrowni Opole, Elektrowni Rybnik i Elektrowni Dolna Odra, • przyjęcie założenia o kontynuowaniu działalności w oparciu o uwarunkowania związane z przewidywanym stanem technicznym poszczególnych jednostek wytwórczych, • uwzględnienie optymalizacji kosztów pracy, wynikającej m.in. z aktualnych planów etatyzacji, • utrzymanie zdolności produkcyjnych w wyniku prowadzenia inwestycji o charakterze odtworzeniowym, Skrócone śródroczne jednostkowe sprawozdanie finansowe PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego jednoskowego sprawozdania finansowego stanowią jego integralną część 88 • przyjęcie średniego ważonego kosztu kapitału po opodatkowaniu zróżnicowanego dla poszczególnych CGU, zgodnie z indywidualnie oszacowanym poziomem ryzyka oraz zróżnicowanego w czasie: o dla lat 2025-2026 na średniorocznym poziomie dla poszczególnych CGU od 8,48% do 10,19%, o dla lat 2027-2039 na średniorocznym poziomie dla poszczególnych CGU od 6,16% do 9,04%, o dla roku 2040 i kolejnych na średniorocznym poziomie dla poszczególnych CGU w wysokości 7,54%. • Na koniec 2024 roku średni ważony koszt kapitału po opodatkowaniu kształtował się następująco: o dla lat 2025-2026 na średniorocznym poziomie dla poszczególnych CGU od 7,60% do 9,48%, o dla lat 2027-2039 na średniorocznym poziomie dla poszczególnych CGU od 6,37% do 7,94%, o dla roku 2040 i kolejnych na średniorocznym poziomie dla poszczególnych CGU w wysokości 7,42%.
+
+Wycena wartości kapitału własnego PGE GiEK S.A. została przeprowadzona z uwzględnieniem wartości użytkowej poszczególnych CGU oszacowanej w ramach testów na utratę wartości rzeczowych aktywów trwałych oraz odpowiednich korekt, w tym korekty o wartość długu netto według stanu na 31 maja 2025 roku.
+
+Zdaniem Spółki przyjęcie projekcji finansowych dłuższych niż pięcioletnie jest zasadne ze względu na fakt, iż rzeczowe aktywa trwałe wykorzystywane przez Grupę mają istotnie dłuższy okres ekonomicznej użyteczności oraz ze względu na istotny i długoterminowy wpływ szacowanych zmian w otoczeniu regulacyjnym ujętych w szczegółowej prognozie.
+
+Założenia szczegółowe Poniżej przedstawiono kluczowe założenia wpływające na oszacowanie wartości użytkowej testowanych CGU: • uznanie za odrębne CGU odpowiednio: o elektrowni szczytowo-pompowych (jedno CGU dla wszystkich elektrowni ze względu na wspólny ekonomiczny charakter), o elektrowni wodnych przepływowych (jedno CGU dla wszystkich elektrowni ze względu na wspólny ekonomiczny charakter), o poszczególnych elektrowni wiatrowych (oddzielne CGU dla poszczególnych elektrowni ze względu na różny okres eksploatacji elektrowni), o poszczególnych elektrowni fotowoltaicznych (oddzielne CGU dla poszczególnych elektrowni ze względu na różny okres eksploatacji elektrowni), • produkcja energii elektrycznej i praw majątkowych została założona na podstawie danych historycznych, z uwzględnieniem dyspozycyjności poszczególnych jednostek, • dyspozycyjność jednostek została oszacowana w oparciu o plany remontów z uwzględnieniem awaryjności, • dla ESP od połowy 2025 roku uwzględniono rozpoczęcie funkcjonowania rynkowego mechanizmu kontraktacji usług regulacyjnych, z którego przychody w pierwszych 5 latach zostały oszacowane na podstawie wewnętrznych analiz GK PGE a w długim terminie na podstawie opracowania zewnętrznego eksperta, • utrzymanie zdolności produkcyjnych w wyniku prowadzenia inwestycji o charakterze odtworzeniowym, • przyjęcie skorygowanego średniego ważonego kosztu kapitału po opodatkowaniu zróżnicowanego w czasie: o dla lat 2025-2035 na średniorocznym poziomie 7,29%, o w latach 2036-2039 jest na średniorocznym poziomie 6,25%, o od 2040 roku na poziomie 6,54%. • na koniec I półrocza 2024 roku średni ważony koszt kapitału po podatkowaniu kształtował się następująco: o dla lat 2024-2029 na średniorocznym poziomie 7,28%, o od 2030 roku na poziomie 6,28%, • dodatkowo WACC dla farm wiatrowych uwzględnia oszacowany indywidualnie poziom ryzyka związany z uczestnictwem w różnych systemach wsparcia w okresie jego obowiązywania (zielone certyfikaty, aukcje), Skrócone śródroczne jednostkowe sprawozdanie finansowe PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego jednoskowego sprawozdania finansowego stanowią jego integralną część 90 • dla farm wiatrowych nabytych w ramach akwizycji w 2022 roku WACC dodatkowo uwzględnia dyskonta za: o gwarancję wolumenu, o premię za zielone certyfikaty, o gwarancję ceny oraz o dyskonto za szczególne znaczenie strategiczne na poszczególne farmy wiatrowe, zgodnie z Polityką Inwestycji GK PGE.
+
+Wycena wartości kapitału własnego PGE EO S.A. została przeprowadzona z uwzględnieniem wartości użytkowej poszczególnych CGU oszacowanej w ramach testów na utratę wartości rzeczowych aktywów trwałych i środków trwałych w budowie oraz odpowiednich korekt, w tym korekty o zobowiązania finansowe i aktywa obrotowe według stanu na 31 maja 2025 roku.
+
+Przeprowadzone testy nie wykazały konieczności dokonania odpisu aktualizującego wartość akcji spółki PGE EO S.A. posiadanych przez PGE S.A.
+
+W związku z powyższym Spółka nie zakłada skończonego okresu życia CGU z uwagi na otoczenie regulacyjne, które ogranicza możliwość zaprzestania działalności.
+
+Z uwagi na powyższe w testach na utratę wartości założono kontynuowanie działalności (w postaci wartości rezydualnej), przy zachowaniu nakładów na poziomie odtworzeniowym, w długiej perspektywie z uwagi m.in na interes społeczny w postaci zapewniana dostaw ciepła.
+
+W odniesieniu do aktywów wytwórczych objętych Planem Dekarbonizacji inwestycje o charakterze odtworzeniowym dotyczą transformacji mocy wytwórczych (na aktywa zasilane gazem) poprzez zastosowanie nowych nisko- lub zeroemisyjnych jednostek wytwórczych, co oznacza, że środki pieniężne generowane przez te aktywa uwzględniane są w testach na utratę wartości.
+
+Kwestie klimatyczne W dniu 2 marca 2021 roku Minister Klimatu i Środowiska ogłosił politykę energetyczną państwa do 2040 roku („PEP2040”).
+
+PEP2040 zawiera strategiczne kierunki w zakresie doboru technologii służących budowie niskoemisyjnego systemu energetycznego.
+
+Polityka uwzględnia skalę wyzwań związanych z dostosowaniem krajowej gospodarki do uwarunkowań regulacyjnych UE związanych z celami klimatyczno-energetycznymi na 2030 rok, Europejskim Zielonym Ładem, planem odbudowy gospodarczej po pandemii COVID i dążeniem do osiągnięcia neutralności klimatycznej zgodnie z krajowymi możliwościami.
+
+GK PGE jako największa grupa energetyczna w Polsce zobligowana jest do wdrażania założeń PEP2040, w tym w segmencie ciepłownictwo.
+
+W dniu 15 grudnia 2022 roku w segmencie Ciepłownictwo Grupy Kapitałowej PGE został przyjęty Plan Dekarbonizacji do roku 2050.
+
+Celem Planu Dekarbonizacji jest wypełnienie wymogów regulacyjnych stawianych przed energetyką oraz utrzymanie w długiej perspektywie obecnego potencjału wytwórczego w celu zaspokojenia potrzeb odbiorców.
+
+Potwierdzenie trwającego procesu dekarbonizacji stanowi również obowiązująca strategia GK PGE: • 12 czerwca 2025 roku PGE Polska Grupa Energetyczna opublikowała strategię do 2035 roku.
+
+Zakłada ona inwestycje w inteligentne sieci energetyczne, nowe wielkoskalowe i elastyczne elektrownie gazowe, odnawialne źródła energii, magazyny oraz zintegrowane systemy ciepłownicze. • Systemy ciepłownicze odgrywają istotną rolę w procesie dekarbonizacji, szczególnie w miastach i regionach o dużym zapotrzebowaniu na energię cieplną.
+
+Grupa PGE planuje kompleksową modernizację posiadanych jednostek i sieci w oparciu o technologie nisko- i zeroemisyjne.
+
+Ich miejsce zajmą nowoczesne źródła, które zapewnią bezpieczeństwo dostaw, efektywność energetyczną i pozwolą na ograniczenie emisji.
+
+Na inwestycje w ten segment do 2035 roku Grupa PGE planuje przeznaczyć około 18 mld PLN, z czego: o 15 mld PLN zostanie przeznaczone na nowe jednostki wytwórcze, takie jak silniki gazowe, kotły elektrodowe, pompy ciepła, kotły wodne gazowe, kotły na biomasę oraz akumulatory ciepła, o 3 mld PLN trafi na potencjalne akwizycje sieci ciepłowniczych i następnie ich modernizację w szczególności we współpracy z samorządami. • 5 października 2023 roku Komitet Inwestycyjny PGE EC zaakceptował aktualizację Planu Dekarbonizacji aktywów wytwórczych zmierzającą do pełnej dekarbonizacji w perspektywie roku 2030 oraz zobligował zespół projektowy do cyklicznej aktualizacji Planu za względu na zmiany regulacyjne, dostępności nowych technologii oraz zmiany sytuacji geopolitycznej i gospodarczej.
+
+Obecnie trwają pracę nad kolejną aktualizacją Planu Dekarbonizacji uwzględniającą Strategię GK PGE.
+
+Założenia szczegółowe segmentu Poniżej przedstawiono kluczowe założenia wpływające na oszacowanie wartości użytkowej testowanych CGU: • uznanie za odrębne CGU poszczególnych oddziałów spółki PGE EC S.A. tj.
+
+Elektrociepłowni Wrocław, Elektrociepłowni Czechnica oraz Elektrociepłowni Zawidawie, • założono, iż w prognozowanym okresie wytwórcy z GK PGE nie uzyskują przydziałów bezpłatnych uprawnień CO2 na produkcję energii elektrycznej, • uwzględnienie przydziału darmowych uprawnień do emisji CO2 w okresie 2025-2030 dla ciepłownictwa systemowego i wysokosprawnej kogeneracji.
+
+Państwa członkowskie mogą ubiegać się o przydział bezpłatnych uprawnień do emisji na ciepło w wysokości 30% w okresie od 2021 do 2030, przy czym wartość 30% odnosi się do benchmarku gazowego i dostaw ciepła na potrzeby komunalne, • przyjęcie założenia dla elektrociepłowni, iż w okresie rezydualnym istnieje wsparcie z rynku mocy lub jego ekwiwalent, • uwzględnienie systemu wsparcia dla wysokosprawnej kogeneracji w horyzoncie prognoz oraz okresie rezydualnym: dla istniejących jednostek założono wsparcie w zakresie premii gwarantowanej oraz w przypadku spełnienia warunku luki finansowej, premii gwarantowanej indywidualnej, dla nowych jednostek gazowych założono przyznanie premii kogeneracyjnej, • utrzymanie zdolności produkcyjnych w wyniku prowadzenia inwestycji o charakterze odtworzeniowym.
+
+Dla aktywów wytwórczych, dla których podjęto działania zmierzające do realizacji Planu Dekarbonizacji, nakłady o charakterze odtworzeniowym oznaczają transformację majątku produkcyjnego na aktywa zasilane gazem.
+
+Plan Dekarbonizacji dotyczy następujących lokalizacji: Kraków, Gdańsk, Gdynia, Wrocław, Bydgoszcz, Kielce, • uwzględnienie inwestycji rozwojowych, dla projektów o wysokim poziomie zaawansowania, które zostały ujęte w zatwierdzonym planie inwestycyjnym spółki, Skrócone śródroczne jednostkowe sprawozdanie finansowe PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego jednoskowego sprawozdania finansowego stanowią jego integralną część 92 • przyjęcie skorygowanego średniego ważonego kosztu kapitału po opodatkowaniu zróżnicowanego w czasie: o dla lat 2025-2026 na średniorocznym poziomie 8,84%, o dla lat 2027-2030 na średniorocznym poziomie 7,55%. • Na koniec I półrocza 2024 roku średni ważony koszt kapitału po podatkowaniu kształtował się następująco: o dla lat 2024-2025 na średniorocznym poziomie 8,50%, o dla lat 2026-2030 na średniorocznym poziomie 6,59%.
+
+Wycena wartości kapitału własnego PGE EC S.A. została przeprowadzona z uwzględnieniem wartości użytkowej poszczególnych CGU oszacowanej w ramach testów na utratę wartości rzeczowych aktywów trwałych oraz odpowiednich korekt, w tym korekty o zobowiązania finansowe i aktywa obrotowe według stanu na 31 maja 2025 roku.
+
+Zdaniem Spółki przyjęcie projekcji finansowych dłuższych niż pięcioletnie jest zasadne ze względu na długoterminowy okres życia aktywa oraz istotne prognozowane zmiany warunków rynkowych w przyszłości.
+
+Poniżej przedstawiono kluczowe założenia wpływające na oszacowanie wartości użytkowej testowanych aktywów: • moc nominalna oraz średnia sprawność jednostek przyjęta zgodnie z parametrami gwarantowanymi w kontrakcie z wykonawcą oraz zakładany profil obciążenia, • okres eksploatacji: 25 lat (benchmarkowy techniczny okres życia jednostek CCGT), • nakłady inwestycyjne: realizacja inwestycji została zakończona w roku 2024.
+
+Założono nakłady inwestycyjne na dostosowanie do współspalania wodoru/zielonego gazu w wys. 200 mln PLN’22/jednostkę – do poniesienia w roku 2034 (szacunek ekspercki), • przyjęcie średniego ważonego kosztu kapitału po opodatkowaniu zróżnicowanego dla CGU, zgodnie z indywidualnie oszacowanym poziomem ryzyka oraz zróżnicowanego w czasie na średniorocznym poziomie 7,50% dla całego horyzontu eksploatacji jednostki, czyli do 2048 roku. • na koniec I półrocza 2024 roku średni ważony koszt kapitału po opodatkowaniu zróżnicowany dla CGU wynosił 6,84% dla całego horyzontu eksploatacji jednostki czyli do 2048 roku.
+
+Wycena wartości kapitału własnego PGE Gryfino Dolna Odra sp. z o. o. została przeprowadzona z uwzględnieniem wartości użytkowej CGU oszacowanej w ramach testów na utratę wartości rzeczowych aktywów trwałych oraz odpowiednich korekt, w tym korekty o zobowiązania finansowe i środki pieniężne według stanu na 31 maja 2025 roku.
+
+Zdaniem Spółki przyjęcie projekcji finansowych dłuższych niż pięcioletnie jest zasadne ze względu na długoterminowy okres życia aktywa oraz istotne prognozowane zmiany warunków rynkowych w przyszłości.
+
+Poniżej przedstawiono kluczowe założenia wpływające na oszacowanie wartości użytkowej testowanych aktywów: • moc nominalna oraz średnia sprawność jednostek przyjęta zgodnie z parametrami gwarantowanymi w kontrakcie z wykonawcą oraz prognozowanym profilem obciążenia jednostek, wynikającym z projekcji wolumenu produkcji, • okres eksploatacji: 24 lata (projekcja do 2050 roku, natomiast okres benchmarkowej żywotności dla bloku gazowego wynosi 25 lat), • nakłady inwestycyjne: na rok 2025 i dalej przyjęto zgodnie z Planem Inwestycyjnym GK PGE i zawartymi kontraktami na budowę jednostek, • przyjęcie średniego ważonego kosztu kapitału po opodatkowaniu, zgodnie z indywidualnie oszacowanym poziomem ryzyka oraz zróżnicowanego w czasie na średniorocznym poziomie 7,31% dla całego horyzontu eksploatacji jednostki, czyli do 2050 roku.
+
+Wycena wartości kapitału własnego PGE Nowy Rybnik sp. z o. o. została przeprowadzona z uwzględnieniem wartości użytkowej CGU oszacowanej w ramach testów na utratę wartości rzeczowych aktywów trwałych oraz odpowiednich korekt, w tym korekty o zobowiązania finansowe i aktywa obrotowe według stanu na 31 maja 2025 roku.
+
+W bieżącym okresie sprawozdawczym Spółka dokonała analizy przesłanek w celu weryfikacji, czy mogła nastąpić utrata wartości udziałów.
+
+Najważniejsze czynniki analizy obejmowały: • analizę strony przychodowej zabezpieczonej kontraktem różnicowym, • wpływ wzrostu inflacji i średniego ważonego kosztu kapitału, • harmonogram projektów, • kamienie milowe osiągnięte przez projekty, • budżety fazy rozwoju (DEVEX) i realizacji projektu (CAPEX).
+
+Projektom EWB2 i EWB3 przysługuje wsparcie publiczne i w konsekwencji zabezpieczenie strony przychodowej, która podlega waloryzacji o inflację, co pozwala częściowo ograniczyć negatywne aspekty otoczenia makroekonomicznego.
+
+Faza rozwoju projektu EWB3 jest realizowana z zatwierdzonego budżetu, zgodnie z zaktualizowanym harmonogramem projektu uwzględniającym przesunięcie terminu na wytworzenie i wprowadzenie do sieci po raz pierwszy energii elektrycznej, zgodnie z pozytywną decyzją Prezesa Urzędu Regulacji Energetyki (PURE).
+
+W styczniu 2025 roku została podjęta Finalna Decyzja Inwestycyjna (FID) dla projektu EWB2, skutkiem której faza rozwoju uległa zakończeniu wraz z rozpoczęciem fazy budowy, zgodnie z założonym harmonogramem.
+
+W związku z powyższym zdaniem PGE S.A. na 30 czerwca 2025 roku nie występują przesłanki do przeprowadzenia testów utraty wartości udziałów tych spółek posiadanych przez PGE S.A.
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego jednoskowego sprawozdania finansowego stanowią jego integralną część 95 Pożyczki udzielone Stan na dzień 30 czerwca 2025 Stan na dzień 31 grudnia 2024 Długoterminowe Krótkoterminowe Długoterminowe Krótkoterminowe POŻYCZKI UDZIELONE - POŻYCZKOBIORCA PGE GiEK S.A. - 6.221 - 11.545 PGE Gryfino Dolna Odra sp. z o.o. 445 3.669 750 3.604 PGE Nowy Rybnik sp. z o.o. - 2.825 - 1.618 PGE Energia Odnawialna S.A. - 1.860 - 1.792 PGE Dystrybucja S.A. 1.283 324 - 4.835 PGE Obrót S.A. - 1.798 - 1.758 PGE Energetyka Kolejowa S.A. - 1.552 - 1.544 PGE Energetyka Kolejowa Holding sp. z o.o. - 1.300 - 1.307 PGE Energia Ciepła S.A. - 1.246 - 1.207 PGE Systemy S.A. - 331 - 289 PGE Baltica sp. z o.o. - 9 - 9 PGE Inwest 26 sp. z o.o. - 8 - - PGE Inwest 27 sp. z o.o. - 4 - - PGE Inwest 25 sp. z o.o. - 2 - - EW Baltica 4 sp z o.o. - 2 - 2 EW Baltica 5 sp. z o.o. - - - 12 EW Baltica 6 sp. z o.o. - - - 1 RAZEM POŻYCZKI UDZIELONE 1.728 21.151 750 29.523 Wybrane spółki mają możliwość prolongaty transz pożyczek na podstawie umowy.
+
+Wyjątkiem jest pożyczka udzielona spółce PGE Dystrybucja S.A. w ramach Projektu Dystrybucja ze środków otrzymanych z Krajowego Planu Odbudowy i Zwiększenia Odporności, której termin zapadalności został ustalony na 2049 rok.
+
+Pozostałe należności finansowe W pozycji Pozostałe należności finansowe Spółka wykazuje głównie rozrachunki z giełdami, związane przede wszystkim z zakupem uprawnień do emisji CO2 i dokonywane za pośrednictwem PGE Dom Maklerski S.A.
+
+Oddział w Polsce IRS 2024-11-20 2027-12-31 500 PLN Zmienna 501 501 Europejski Bank Inwestycyjny - 2015-10-27 2034-08-25 490 PLN Stała 370 390 Bank Gospodarstwa Krajowego IRS 2014-12-17 2027-12-31 1.000 PLN Zmienna 313 376 Europejski Bank Inwestycyjny - 2019-12-16 2038-10-16 273 PLN Stała 264 274 Europejski Bank Odbudowy i Rozwoju IRS 2017-06-07 2028-06-07 500 PLN Zmienna 220 252 Bank Gospodarstwa Krajowego IRS 2015-12-04 2028-12-31 500 PLN Zmienna 219 250 Bank Gospodarstwa Krajowego - 2024-02-21 2027-02-19 1.500 PLN Zmienna - 900 Bank Pekao S.A. - 2024-09-19 2027-12-31 750 PLN Zmienna - 752 PKO BP S.A. - 2018-04-30 2025-12-31 300 PLN Zmienna - 84 Bank Pekao S.A. - 2018-07-05 2027-12-31 750 PLN Zmienna - 64 Bank Gospodarstwa Krajowego - 2018-06-01 2026-09-29 1.400 PLN Zmienna - 4 Bank Gospodarstwa Krajowego - 2023-11-28 2036-12-20 3.300 PLN Zmienna - - Konsorcjum Banków - 2023-03-01 2027-03-01 3.150 PLN Zmienna - - Europejski Bank Inwestycyjny - 2025-04-25 2045-04-25 2.250 PLN Stała - - Europejski Bank Inwestycyjny - 2024-07-29 2044-07-29 1.000 PLN Stała/ Zmienna - - RAZEM KREDYTY BANKOWE 6.486 8.510 W okresie zakończonym 30 czerwca 2025 roku ani po dniu sprawozdawczym nie wystąpiły przypadki niewywiązania się ze spłat lub naruszenia innych warunków umów kredytowych. 25 kwietnia 2025 roku PGE S.A. zawarła umowę kredytu terminowego z EBI.
+
+Wartość umowy kredytowej wynosi 2.250 mln PLN a kredyt zostanie przeznaczony na finansowanie nakładów inwestycyjnych poniesionych przez PGE EO na modernizację elektrowni szczytowo-pompowej Porąbka-Żar oraz rozbudowę portfela elektrowni fotowoltaicznych.
+
+Otrzymane pożyczki Kredytodawca Instrument zabezpieczający Data zawarcia Data zapadalności Limit w walucie Waluta Stopa procentowa Zobowiązanie na 30-06-2025 Zobowiązanie na 31-12-2024 Bank Gospodarstwa Krajowego - 2025-03-31 2049-12-20 9.521 PLN Stała 1.283 - PGE Sweden AB CCIRS 2014-08-27 2029-07-31 143,5 EUR Stała 616 621 Bank Gospodarstwa Krajowego - 2025-01-29 2036-12-20 3.900 PLN Zmienna - - Bank Gospodarstwa Krajowego - 2025-03-31 2049-12-20 2.566 PLN Stała - - RAZEM OTRZYMANE POŻYCZKI 1.899 621 W 2014 roku PGE S.A. oraz PGE Sweden AB (publ) ustanowiły Program Emisji Euroobligacji Średnioterminowych, w ramach którego PGE Sweden AB (publ) może emitować euroobligacje do kwoty 2 mld EUR o minimalnym terminie zapadalności 1 roku.
+
+Środki pozyskane w ramach emisji euroobligacji spółka zależna przeznaczyła na pożyczki udzielone jednostce dominującej.
+
+W dniu 27 czerwca 2025 roku Spółka otrzymała pierwszą transzę pożyczki ze środków Krajowego Planu Odbudowy i Zwiększenia Odporności w ramach Projektu Dystrybucja w kwocie 3.598 mln PLN, co zostało szczegółowo opisane w nocie 27.5 skróconego śródrocznego skonsolidowanego sprawozdania finansowego.
+
+W ocenie Spółki pożyczka ma charakter preferencyjny o umownej stopie procentowej poniżej rynkowych stóp procentowych.
+
+Zgodnie z MSSF 9 pożyczka ujęta została na moment początkowego ujęcia w wartości godziwej w kwocie 1.283 mln PLN, natomiast różnica pomiędzy kwotą otrzymaną a wartością godziwą pożyczki wynikająca z zastosowania stopy procentowej niższej od stóp rynkowych w kwocie 2.315 mln PLN, ujęta została zgodnie z MSR 20 Dotacje rządowe oraz ujawnienie informacji na temat pomocy rządowej jako dotacja do aktywów.
+
+Spółka w ramach Projektu Dystrybucja udzieliła spółce zależnej PGE Dystrybucja S.A. pożyczkę wewnątrzgrupową na tożsamych warunkach (z umowną stopą procentową poniżej rynkowych stóp procentowych) co wyżej opisana pożyczka i ujęła w sprawozdaniu z sytuacji finansowej należność z tytułu pożyczki w wysokości 1.283 mln PLN (wartość godziwa na dzień początkowego ujęcia), a różnicę pomiędzy wartością godziwą udzielonej pożyczki wewnątrzgrupowej a kwotą przekazaną, w wysokości 2.315 mln PLN ujęła w rozliczeniach międzyokresowych kosztów.
+
+W ocenie Spółki zaistniały przesłanki, które pozwalają na prezentację netto przychodów i kosztów a także aktywów i zobowiązań z tytułu dotacji otrzymanej i przekazanej tj. rozliczeń międzyokresowych kosztów i przychodów oraz skutków ich rozliczeń w sprawozdaniu z całkowitych dochodów.
+
+Przesłanką jest konstrukcja Projektu oraz zapisy umowy pożyczki, które wskazuje, iż PGE S.A. pełni rolę agenta, a beneficjentami Projektu są spółki dystrybucyjne.
+
+PGE S.A. nie ponosi również kosztów udzielenia spółkom dystrybucyjnym pożyczek oprocentowanych poniżej warunków rynkowych.
+
+Dodatkowo w lipcu 2024 roku zawarty został aneks nr 4 do powyższej umowy poręczenia, w którym Spółka udzieliła poręczenia za zobowiązania Elektrociepłowni Zielona Góra S.A.
+
+Na dzień 30 czerwca 2025 roku wartość poręczeń wynikająca z niniejszej umowy wyniosła 1.485 mln PLN, z czego poręczenia na kwotę 1.334 mln PLN Skrócone śródroczne jednostkowe sprawozdanie finansowe PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego jednoskowego sprawozdania finansowego stanowią jego integralną część 100 obowiązują do 31 marca 2026 roku, pozostałe na kwotę 111 mln PLN i 40 mln PLN obowiązują odpowiednio do 31 października 2036 roku i 31 marca 2037 roku. 20 kwietnia 2023 roku PGE S.A. udzieliła poręczenia PGE Nowy Rybnik sp. z o.o. na kwotę 3.752 mln PLN tytułem zabezpieczenia zapłaty zobowiązań wynikających z Umowy na budowę bloku gazowo-parowego w Rybniku.
+
+W latach 2023-2025 ustanowione zostały poręczenia do zawartych przez spółkę projektową EWB2 kontraktów na realizację projektu MFW Baltica 2.
+
+Wartość udzielonych poręczeń na 30 czerwca 2025 roku wynosi 2.912 mln PLN, a na 31 grudnia 2024 roku wynosiła 4.705 mln PLN.
+
+W efekcie kwota 59 mln PLN została rozpoznana w zobowiązaniach warunkowych, zaś kwota 39 mln PLN w rezerwach krótkoterminowych.
+
+Promesa dotycząca zapewnienia finansowania nowych inwestycji w spółkach Grupy Kapitałowej PGE W związku z realizowanymi inwestycjami strategicznymi w GK PGE, Spółka udzieliła promesy swojej spółce zależnej PGE GiEK o/ELT, w której zobowiązała się do zapewnienia finansowania planowanych inwestycji.
+
+Promesa dotyczy ściśle określonych postępowań inwestycyjnych i może być wykorzystywana tylko w tych celach.
+
+Na dzień sprawozdawczy przybliżona wartość przyszłych zobowiązań inwestycyjnych dotycząca tych projektów wynosi około 221 mln PLN.
+
+Środki z podwyższenia kapitału zakładowego Spółki 5 kwietnia 2022 roku zawarta została umowa inwestycyjna pomiędzy PGE S.A. a Skarbem Państwa dotycząca objęcia przez Skarb Państwa akcji wyemitowanych w wyniku podwyższenia kapitału zakładowego.
+
+Zgodnie z postanowieniami umowy, środki pozyskane z emisji akcji w kwocie 3,2 mld PLN są wykorzystywane wyłącznie na inwestycje w obszarze energii odnawialnej, dekarbonizacji i dystrybucji.
+
+W dniu 26 kwietnia 2023 roku aneksowano umowę ze względu na konieczność przesunięć w harmonogramie wydatków pomiędzy poszczególnymi zadaniami inwestycyjnymi.
+
+Wydatkowanie środków niezgodnie z postanowieniami umowy inwestycyjnej może skutkować karami pieniężnymi a w skrajnym wypadku nawet koniecznością zwrotu środków.
+
+Na dzień 30 czerwca 2025 roku stan pozostałych do wydatkowania środków z emisji akcji wynosi ok. 415 mln PLN, a na 31 grudnia 2024 roku wynosił ok. 508 mln PLN.
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe PGE Polska Grupa Energetyczna S.A. za okres 6 miesięcy zakończony dnia 30 czerwca 2025 roku zgodne z MSSF UE (w mln PLN) Dodatkowe noty objaśniające do skróconego śródrocznego jednoskowego sprawozdania finansowego stanowią jego integralną część 101 Poręczenia wynikające z inwestycji prowadzonej przez Elektrownia Wiatrowa Baltica-2 sp. z o.o.
+
+W dniu 29 stycznia 2025 roku Elektrownia Wiatrowa Baltica – 2 sp. z o.o. oraz odpowiednie podmioty z grup kapitałowych PGE i Ørsted zawarły szereg umów związanych z realizacją przedsięwzięcia inwestycyjnego polegającego na budowie morskiej farmy wiatrowej o planowanej mocy maksymalnej 1 498 MW.
+
+Zawarte umowy obejmują m.in. gwarancje udzielone przez PGE S.A. na rzecz: PGE Baltica 6 sp. z o.o. (100% udział GK PGE), Elektrownia Wiatrowa Baltica-2 sp. z o.o. (50% udział GK PGE) oraz Ørsted Baltica 2 Holding sp. z o.o. (podmiot niepowiązany).
+
+PGE S.A. zobowiązała się nieodwołalnie i bezwarunkowo wobec beneficjentów jako wierzycieli solidarnych do wykonania gwarantowanych zobowiązań związanych z prowadzoną inwestycją, jeśli PGE Baltica 6 sp. z o.o. nie wywiąże się ze zobowiązań w terminie i sposób określony w zawartej umowie akcjonariuszy.
+
+Zabezpieczenia transakcji finansowania MFW Baltica 2 szerzej opisano w nocie 24.2 niniejszego skróconego śródrocznego skonsolidowanego sprawozdania finansowego.

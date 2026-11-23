@@ -1,0 +1,107 @@
+{
+  "firecrawl_credits": 2,
+  "files": {
+    "raw/reports/PKN/PKN_2019_Q3_sprawozdanie.zip": {
+      "report_id": "PKN-2019-Q3",
+      "filename": "PKN_2019_Q3_sprawozdanie.zip",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=340288",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2019/dokumenty/Sprawozdanie_3q2019.zip.coredownload.zip",
+      "resolved_url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2019/dokumenty/Sprawozdanie_3q2019.zip.coredownload.zip",
+      "bytes": 1972115,
+      "sha256": "e1630f335b09818cf9ff3fd6b43822074fbbcb53043d8fc360695a06b62ebe3a",
+      "status": "downloaded"
+    },
+    "raw/reports/PKN/PKN_2019_AR_skonsolidowany.zip": {
+      "report_id": "PKN-2019-AR",
+      "filename": "PKN_2019_AR_skonsolidowany.zip",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=348169",
+      "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2019/dokumenty/FY2019_Skonsolidowane.zip.coredownload.zip",
+      "resolved_url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2019/dokumenty/FY2019_Skonsolidowane.zip.coredownload.zip",
+      "bytes": 12708066,
+      "sha256": "bbe19aa508ac65cbd34c1aa17359af328506ec1c8b65d1f9e4389c3a27541ab3",
+      "status": "downloaded"
+    },
+    "raw/reports/TPE/TPE_2019_Q3_sprawozdanie.pdf": {
+      "report_id": "TPE-2019-Q3",
+      "filename": "TPE_2019_Q3_sprawozdanie.pdf",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=341304",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2019/iii-kwartal/rozszerzony-skonsolidowany-raport-kwartalny-za-iii-kwartal-2019r.ashx",
+      "resolved_url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2019/iii-kwartal/rozszerzony-skonsolidowany-raport-kwartalny-za-iii-kwartal-2019r.ashx",
+      "bytes": 5680637,
+      "sha256": "b325d65a9f3fd8159212b08be8cf4a5f4b935002a3a2bb507fe8fb3fce3584bc",
+      "status": "downloaded"
+    },
+    "raw/reports/TPE/TPE_2019_AR_skonsolidowany.pdf": {
+      "report_id": "TPE-2019-AR",
+      "filename": "TPE_2019_AR_skonsolidowany.pdf",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=349131",
+      "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2019/roczny/skonsolidowany_raport_roczny_za-2019_r.ashx",
+      "resolved_url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2019/roczny/skonsolidowany_raport_roczny_za-2019_r.ashx",
+      "bytes": 9550255,
+      "sha256": "a160e2daf38c0a7f1e763f02bb375d98cf565262b9ca510122cbe24b8bb3bddf",
+      "status": "downloaded"
+    },
+    "raw/reports/ENA/ENA_2019_Q3_sprawozdanie.pdf": {
+      "report_id": "ENA-2019-Q3",
+      "filename": "ENA_2019_Q3_sprawozdanie.pdf",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=341744",
+      "url": "https://cdn-netpr.pl/file/mediakit/2023649/ae/rozszerzony_skonsolidowany_raport_kwartalny_grupy_kapitalowej_enea_za_iii_kwartal_2019_r_1_.pdf",
+      "resolved_url": "https://cdn-netpr.pl/cached-files/0/2800/1526719/rozszerzony_skonsolidowany_raport_kwartalny_grupy_kapitalowej_enea_za_iii_kwartal_2019_r_.pdf?asAttachment=true&filename=rozszerzony_skonsolidowany_raport_kwartalny_grupy_kapitalowej_enea_za_iii_kwartal_2019_r_1_.pdf&Expires=1795382911&Signature=MEUCIQC8Ot1HucdzBsmsGLRgDjpvMqwzTAgquECqoyuUL5NZmAIga6Pkn1kzHtchhYnaPRRU5NBwojlUn0VgR2NGX2Q3C9k_&Key-Pair-Id=K3C1MSCX0H42VI",
+      "bytes": 4059633,
+      "sha256": "0c601c37b1b7be3c23138a0c87c662f39c0db3b964e81fbbd293dd53f48ff19f",
+      "status": "downloaded"
+    },
+    "raw/reports/ENA/ENA_2019_Q3_sprawozdanie-pozostale-informacje.pdf": {
+      "report_id": "ENA-2019-Q3",
+      "filename": "ENA_2019_Q3_sprawozdanie-pozostale-informacje.pdf",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=341744",
+      "url": "https://cdn-netpr.pl/file/mediakit/2023648/2f/pozostale_informacje_do_rozszerzonego_skonsolidowanego_raportu_enea_s_a_za_trzeci_kwartal_2019_r_.pdf",
+      "resolved_url": "https://cdn-netpr.pl/cached-files/0/2800/1526723/pozostale_informacje_do_rozszerzonego_skonsolidowanego_raportu_enea_s_a_za_trzeci_kwartal_2019_r_.pdf?asAttachment=true&filename=pozostale_informacje_do_rozszerzonego_skonsolidowanego_raportu_enea_s_a_za_trzeci_kwartal_2019_r_.pdf&Expires=1795382912&Signature=MEYCIQCY1PwZDKNFrfsa1fO7-MpsaKJnk-jDseND1S7ybv27GAIhALswoMZBuH5m6BQVbHhLYUPCTZ6OAbOzkwAfU6Yq07bW&Key-Pair-Id=K3C1MSCX0H42VI",
+      "bytes": 4049121,
+      "sha256": "0e452daa8f57dd6857ad5a432a07c5ba724c4d3722ee1668c75354069f6d329e",
+      "status": "downloaded"
+    },
+    "raw/reports/PGE/PGE_2019_Q3_sprawozdanie.pdf": {
+      "report_id": "PGE-2019-Q3",
+      "filename": "PGE_2019_Q3_sprawozdanie.pdf",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=341232",
+      "url": "https://www.gkpge.pl/content/download/85cda48c56139fb802e530216435346c/file/df4fdb1731f214188b873cf64042e4fb.pdf?contentId=82228&inLanguage=pol-PL&version=2",
+      "resolved_url": "https://www.gkpge.pl/content/download/85cda48c56139fb802e530216435346c/file/df4fdb1731f214188b873cf64042e4fb.pdf?contentId=82228&inLanguage=pol-PL&version=2",
+      "bytes": 1764697,
+      "sha256": "e26ce55f50d8d17e50b27e3a792271dcd234e5afc11be5f69f6fa1dc84cabd52",
+      "status": "downloaded",
+      "transport": "Firecrawl standard PDF bytes"
+    },
+    "raw/reports/PGE/PGE_2019_Q3_sprawozdanie-zarzadu.pdf": {
+      "report_id": "PGE-2019-Q3",
+      "filename": "PGE_2019_Q3_sprawozdanie-zarzadu.pdf",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=341232",
+      "url": "https://www.gkpge.pl/content/download/9f1046957c4b0da130dbe289cc2a14c3/file/0e69fc9b39a52ae037adf994ef8ffac9.pdf?contentId=82231&inLanguage=pol-PL&version=2",
+      "resolved_url": "https://www.gkpge.pl/content/download/9f1046957c4b0da130dbe289cc2a14c3/file/0e69fc9b39a52ae037adf994ef8ffac9.pdf?contentId=82231&inLanguage=pol-PL&version=2",
+      "bytes": 2354000,
+      "sha256": "88bccc46a5dfbe9e49c6a9b52adceaa8a14cb58743360585dc49c958d869d305",
+      "status": "downloaded",
+      "transport": "Firecrawl standard PDF bytes"
+    },
+    "raw/reports/ZEP/ZEP_2019_Q3_sprawozdanie.pdf": {
+      "report_id": "ZEP-2019-Q3",
+      "filename": "ZEP_2019_Q3_sprawozdanie.pdf",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=341377",
+      "url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2019-3Q_SKONSOLIDOWANE_SPRAWOZDANIE_FINANSOWE-sig-sig-sig-sig-sig.pdf",
+      "resolved_url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2019-3Q_SKONSOLIDOWANE_SPRAWOZDANIE_FINANSOWE-sig-sig-sig-sig-sig.pdf",
+      "bytes": 3292137,
+      "sha256": "3902d898f211d9ae741fa706ac58de91d53b29ca116c7195f631535de43d8f1b",
+      "status": "downloaded"
+    },
+    "raw/reports/ZEP/ZEP_2019_Q3_pozostale-informacje.pdf": {
+      "report_id": "ZEP-2019-Q3",
+      "filename": "ZEP_2019_Q3_pozostale-informacje.pdf",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=341377",
+      "url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2019-3Q_POZOSTAE_INFORMACJE-sig-sig-sig-sig-sig.pdf",
+      "resolved_url": "https://ri.zepak.com.pl/upload/files/ZEPAK_2019-3Q_POZOSTAE_INFORMACJE-sig-sig-sig-sig-sig.pdf",
+      "bytes": 1105722,
+      "sha256": "30a6eae79fe578746081c0b4db530bd05c41b5b1429e3e0d1a160f4061b306f3",
+      "status": "downloaded"
+    }
+  }
+}

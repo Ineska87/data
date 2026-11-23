@@ -1,0 +1,2490 @@
+{
+  "spolka": "ENEA S.A.",
+  "spolka_key": "enea",
+  "ticker": "ENA",
+  "typ": "biezace",
+  "zrodla": [
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=20&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=30&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=40&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=50&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=60&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=70&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=80&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=90&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=100&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=110&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=120&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=130&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=140&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=150&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=160&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=170&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=180&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=190&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=200&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=210&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=220&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=230&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=240&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=250&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=260&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=270&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=280&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=290&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=300&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=310&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=320&pageLimit=10",
+    "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=330&pageLimit=10"
+  ],
+  "data_scrapowania": "2026-11-22T19:56:53.382899+00:00",
+  "source_kind": "issuer_listing_reparse",
+  "period": {
+    "start": "2020-01-01",
+    "end": "2025-12-31"
+  },
+  "liczba_stron": 32,
+  "liczba_raportow": 304,
+  "reports_by_year": {
+    "2020": 57,
+    "2021": 43,
+    "2022": 78,
+    "2023": 44,
+    "2024": 38,
+    "2025": 44
+  },
+  "raporty": [
+    {
+      "numer": "44/2025",
+      "data": "2025-12-17",
+      "godzina": "21:44",
+      "tytul": "Informacja nt. zatwierdzenia przez Prezesa URE taryfy dla energii elektrycznej dla zespołu grup taryfowych G",
+      "url": "https://ir.enea.pl/pr/862434/informacja-nt-zatwierdzenia-przez-prezesa-ure-taryfy-dla-energii-elektrycznej-dla-zespolu-grup-taryfowych-g-2025-12-17",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=20&pageLimit=10"
+    },
+    {
+      "numer": "43/2025",
+      "data": "2025-12-15",
+      "godzina": "19:44",
+      "tytul": "Zawarcie umowy kredytów przez Enea Elkogaz",
+      "url": "https://ir.enea.pl/pr/862316/zawarcie-umowy-kredytow-przez-enea-elkogaz",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=20&pageLimit=10"
+    },
+    {
+      "numer": "42/2025",
+      "data": "2025-12-15",
+      "godzina": "16:27",
+      "tytul": "Informacja w sprawie ogłoszonych przez PSE wstępnych wyników aukcji rynku mocy na 2030 rok",
+      "url": "https://ir.enea.pl/pr/862308/informacja-w-sprawie-ogloszonych-przez-pse-wstepnych-wynikow-aukcji-rynku-mocy-na-2030-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=30&pageLimit=10"
+    },
+    {
+      "numer": "41/2025",
+      "data": "2025-12-11",
+      "godzina": "12:22",
+      "tytul": "Informacja w sprawie wyniku aukcji rynku mocy na 2030 rok",
+      "url": "https://ir.enea.pl/pr/862143/informacja-w-sprawie-wyniku-aukcji-rynku-mocy-na-2030-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=30&pageLimit=10"
+    },
+    {
+      "numer": "40/2025",
+      "data": "2025-12-10",
+      "godzina": "12:11",
+      "tytul": "Uzupełnienie informacji nt. nowego członka Rady Nadzorczej Enea S.A.",
+      "url": "https://ir.enea.pl/pr/862081/uzupelnienie-informacji-nt-nowego-czlonka-rady-nadzorczej-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=30&pageLimit=10"
+    },
+    {
+      "numer": "39/2025",
+      "data": "2025-12-08",
+      "godzina": "20:08",
+      "tytul": "Zmiany w składzie Rady Nadzorczej Enea S.A. dokonane przez Ministra Aktywów Państwowych",
+      "url": "https://ir.enea.pl/pr/862002/zmiany-w-skladzie-rady-nadzorczej-enea-s-a-dokonane-przez-ministra-aktywow-panstwowych-2025-12-08",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=30&pageLimit=10"
+    },
+    {
+      "numer": "38/2025",
+      "data": "2025-12-08",
+      "godzina": "16:04",
+      "tytul": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia Enea S.A. na dzień 8 stycznia 2026 roku",
+      "url": "https://ir.enea.pl/pr/861984/zwolanie-nadzwyczajnego-walnego-zgromadzenia-enea-s-a-na-dzien-8-stycznia-2026-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=30&pageLimit=10"
+    },
+    {
+      "numer": "37/2025",
+      "data": "2025-11-04",
+      "godzina": "17:15",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za okres 9 miesięcy 2025 roku oraz III kwartał 2025 roku",
+      "url": "https://ir.enea.pl/pr/860303/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-okres-9-miesiecy-2025-roku-oraz-iii-kwartal-2025-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=30&pageLimit=10"
+    },
+    {
+      "numer": "36/2025",
+      "data": "2025-10-23",
+      "godzina": "12:18",
+      "tytul": "Informacja o rezygnacji z pełnienia funkcji w Radzie Nadzorczej Enea S.A.",
+      "url": "https://ir.enea.pl/pr/859718/informacja-o-rezygnacji-z-pelnienia-funkcji-w-radzie-nadzorczej-enea-s-a-2025-10-23",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=30&pageLimit=10"
+    },
+    {
+      "numer": "35/2025",
+      "data": "2025-10-14",
+      "godzina": "12:23",
+      "tytul": "Drugie zawiadomienie o zamiarze podziału Enea S.A.",
+      "url": "https://ir.enea.pl/pr/859122/drugie-zawiadomienie-o-zamiarze-podzialu-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=30&pageLimit=10"
+    },
+    {
+      "numer": "34/2025",
+      "data": "2025-09-15",
+      "godzina": "20:15",
+      "tytul": "Uzgodnienie planu podziału Enea S.A. i pierwsze zawiadomienie o zamiarze podziału Enea S.A.",
+      "url": "https://ir.enea.pl/pr/857758/uzgodnienie-planu-podzialu-enea-s-a-i-pierwsze-zawiadomienie-o-zamiarze-podzialu-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=30&pageLimit=10"
+    },
+    {
+      "numer": "33/2025",
+      "data": "2025-09-15",
+      "godzina": "11:56",
+      "tytul": "Informacja w sprawie ogłoszonych przez PSE wstępnych wyników aukcji uzupełniającej rynku mocy na 2026 rok",
+      "url": "https://ir.enea.pl/pr/857726/informacja-w-sprawie-ogloszonych-przez-pse-wstepnych-wynikow-aukcji-uzupelniajacej-rynku-mocy-na-2026-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=30&pageLimit=10"
+    },
+    {
+      "numer": "32/2025",
+      "data": "2025-09-11",
+      "godzina": "14:53",
+      "tytul": "Informacja w sprawie wyniku aukcji uzupełniającej rynku mocy na 2026 rok",
+      "url": "https://ir.enea.pl/pr/857626/informacja-w-sprawie-wyniku-aukcji-uzupelniajacej-rynku-mocy-na-2026-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=40&pageLimit=10"
+    },
+    {
+      "numer": "31/2025",
+      "data": "2025-08-26",
+      "godzina": "17:30",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za I półrocze 2025 roku oraz II kwartał 2025 roku",
+      "url": "https://ir.enea.pl/pr/856879/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-i-polrocze-2025-roku-oraz-ii-kwartal-2025-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=40&pageLimit=10"
+    },
+    {
+      "numer": "30/2025",
+      "data": "2025-07-29",
+      "godzina": "18:58",
+      "tytul": "Zaległe zawiadomienie akcjonariusza o zmianie udziału w ogólnej liczbie głosów w Spółce.",
+      "url": "https://ir.enea.pl/pr/855776/zalegle-zawiadomienie-akcjonariusza-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-spolce",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=40&pageLimit=10"
+    },
+    {
+      "numer": "29/2025",
+      "data": "2025-07-18",
+      "godzina": "19:13",
+      "tytul": "Informacja w sprawie wyniku aukcji dogrywkowej rynku mocy na 2029 rok",
+      "url": "https://ir.enea.pl/pr/855306/informacja-w-sprawie-wyniku-aukcji-dogrywkowej-rynku-mocy-na-2029-rok-2025-07-18",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=40&pageLimit=10"
+    },
+    {
+      "numer": "28/2025",
+      "data": "2025-07-17",
+      "godzina": "14:44",
+      "tytul": "Podpisanie umowy na budowę bloków gazowo-parowych",
+      "url": "https://ir.enea.pl/pr/855237/podpisanie-umowy-na-budowe-blokow-gazowo-parowych",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=40&pageLimit=10"
+    },
+    {
+      "numer": "27/2025",
+      "data": "2025-07-17",
+      "godzina": "14:28",
+      "tytul": "Informacja w sprawie wyniku aukcji dogrywkowej rynku mocy na 2029 rok",
+      "url": "https://ir.enea.pl/pr/855234/informacja-w-sprawie-wyniku-aukcji-dogrywkowej-rynku-mocy-na-2029-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=40&pageLimit=10"
+    },
+    {
+      "numer": "26/2025",
+      "data": "2025-07-14",
+      "godzina": "19:56",
+      "tytul": "Rejestracja zmiany Statutu Enea S.A.",
+      "url": "https://ir.enea.pl/pr/855025/rejestracja-zmiany-statutu-enea-s-a-2025-07-14",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=40&pageLimit=10"
+    },
+    {
+      "numer": "25/2025",
+      "data": "2025-07-10",
+      "godzina": "15:16",
+      "tytul": "Informacje udzielone Akcjonariuszom poza Walnym Zgromadzeniem",
+      "url": "https://ir.enea.pl/pr/854906/informacje-udzielone-akcjonariuszom-poza-walnym-zgromadzeniem",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=40&pageLimit=10"
+    },
+    {
+      "numer": "24/2025",
+      "data": "2025-06-30",
+      "godzina": "14:11",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu Enea S.A.",
+      "url": "https://ir.enea.pl/pr/854388/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-zwyczajnym-walnym-zgromadzeniu-enea-s-a-2025-06-30",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=40&pageLimit=10"
+    },
+    {
+      "numer": "23/2025",
+      "data": "2025-06-26",
+      "godzina": "23:57",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie Enea S.A.",
+      "url": "https://ir.enea.pl/pr/854270/tresc-uchwal-podjetych-przez-zwyczajne-walne-zgromadzenie-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=40&pageLimit=10"
+    },
+    {
+      "numer": "22/2025",
+      "data": "2025-06-26",
+      "godzina": "20:29",
+      "tytul": "Decyzja Zwyczajnego Walnego Zgromadzenia Enea S.A. w sprawie wypłaty dywidendy za 2024 r.",
+      "url": "https://ir.enea.pl/pr/854266/decyzja-zwyczajnego-walnego-zgromadzenia-enea-s-a-w-sprawie-wyplaty-dywidendy-za-2024-r",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=50&pageLimit=10"
+    },
+    {
+      "numer": "21/2025",
+      "data": "2025-06-18",
+      "godzina": "20:15",
+      "tytul": "Projekty uchwał Akcjonariusza do rozszerzonego porządku obrad Zwyczajnego Walnego Zgromadzenia Enea S.A. zwołanego na dzień 26 czerwca 2025 roku",
+      "url": "https://ir.enea.pl/pr/853884/projekty-uchwal-akcjonariusza-do-rozszerzonego-porzadku-obrad-zwyczajnego-walnego-zgromadzenia-enea-s-a-zwolanego-na-dzien-26-czerwca-2025-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=50&pageLimit=10"
+    },
+    {
+      "numer": "20/2025",
+      "data": "2025-06-06",
+      "godzina": "10:51",
+      "tytul": "Rozszerzenie na wniosek Akcjonariusza porządku obrad Zwyczajnego Walnego Zgromadzenia Enea S.A. zwołanego na dzień 26 czerwca 2025 roku",
+      "url": "https://ir.enea.pl/pr/852955/rozszerzenie-na-wniosek-akcjonariusza-porzadku-obrad-zwyczajnego-walnego-zgromadzenia-enea-s-a-zwolanego-na-dzien-26-czerwca-2025-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=50&pageLimit=10"
+    },
+    {
+      "numer": "19/2025",
+      "data": "2025-05-30",
+      "godzina": "12:39",
+      "tytul": "Zwołanie Zwyczajnego Walnego Zgromadzenia Enea S.A. na dzień 26 czerwca 2025 roku",
+      "url": "https://ir.enea.pl/pr/852616/zwolanie-zwyczajnego-walnego-zgromadzenia-enea-s-a-na-dzien-26-czerwca-2025-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=50&pageLimit=10"
+    },
+    {
+      "numer": "18/2025",
+      "data": "2025-05-21",
+      "godzina": "10:53",
+      "tytul": "Podpisanie umowy pożyczki ze środków Krajowego Programu Odbudowy i Zwiększania Odporności",
+      "url": "https://ir.enea.pl/pr/852053/podpisanie-umowy-pozyczki-ze-srodkow-krajowego-programu-odbudowy-i-zwiekszania-odpornosci",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=50&pageLimit=10"
+    },
+    {
+      "numer": "17/2025",
+      "data": "2025-05-20",
+      "godzina": "14:35",
+      "tytul": "Opinia Rady Nadzorczej w sprawie propozycji pokrycia straty za rok 2023 oraz podziału zysku za rok 2024",
+      "url": "https://ir.enea.pl/pr/852002/opinia-rady-nadzorczej-w-sprawie-propozycji-pokrycia-straty-za-rok-2023-oraz-podzialu-zysku-za-rok-2024",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=50&pageLimit=10"
+    },
+    {
+      "numer": "16/2025",
+      "data": "2025-05-12",
+      "godzina": "13:20",
+      "tytul": "Informacja w sprawie propozycji pokrycia straty za rok 2023 oraz podziału zysku za rok 2024",
+      "url": "https://ir.enea.pl/pr/851584/informacja-w-sprawie-propozycji-pokrycia-straty-za-rok-2023-oraz-podzialu-zysku-za-rok-2024",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=50&pageLimit=10"
+    },
+    {
+      "numer": "15/2025",
+      "data": "2025-05-05",
+      "godzina": "17:42",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za I kwartał 2025 roku",
+      "url": "https://ir.enea.pl/pr/851240/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-i-kwartal-2025-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=50&pageLimit=10"
+    },
+    {
+      "numer": "14/2025",
+      "data": "2025-04-22",
+      "godzina": "14:58",
+      "tytul": "Akwizycja farmy wiatrowej",
+      "url": "https://ir.enea.pl/pr/850666/akwizycja-farmy-wiatrowej",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=50&pageLimit=10"
+    },
+    {
+      "numer": "13/2025",
+      "data": "2025-04-15",
+      "godzina": "15:04",
+      "tytul": "Podjęcie kierunkowej decyzji dotyczącej transformacji organizacyjnej obszaru handlu",
+      "url": "https://ir.enea.pl/pr/850402/podjecie-kierunkowej-decyzji-dotyczacej-transformacji-organizacyjnej-obszaru-handlu",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=50&pageLimit=10"
+    },
+    {
+      "numer": "12/2025",
+      "data": "2025-04-10",
+      "godzina": "18:55",
+      "tytul": "Rejestracja zmiany Statutu Enea S.A.",
+      "url": "https://ir.enea.pl/pr/850215/rejestracja-zmiany-statutu-enea-s-a-2025-04-10",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=60&pageLimit=10"
+    },
+    {
+      "numer": "11/2025",
+      "data": "2025-03-26",
+      "godzina": "13:27",
+      "tytul": "Akwizycja farm wiatrowych",
+      "url": "https://ir.enea.pl/pr/849387/akwizycja-farm-wiatrowych",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=60&pageLimit=10"
+    },
+    {
+      "numer": "10/2025",
+      "data": "2025-03-03",
+      "godzina": "17:59",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za 2024 rok oraz IV kwartał 2024 roku",
+      "url": "https://ir.enea.pl/pr/848287/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-2024-rok-oraz-iv-kwartal-2024-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=60&pageLimit=10"
+    },
+    {
+      "numer": "9/2025",
+      "data": "2025-02-20",
+      "godzina": "18:41",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za 2024 rok jednorazowych operacji o charakterze księgowym",
+      "url": "https://ir.enea.pl/pr/847856/informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-2024-rok-jednorazowych-operacji-o-charakterze-ksiegowym",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=60&pageLimit=10"
+    },
+    {
+      "numer": "8/2025",
+      "data": "2025-02-17",
+      "godzina": "12:55",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Enea S.A.",
+      "url": "https://ir.enea.pl/pr/847690/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-enea-s-a-2025-02-17",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=60&pageLimit=10"
+    },
+    {
+      "numer": "7/2025",
+      "data": "2025-02-13",
+      "godzina": "17:28",
+      "tytul": "Zmiany w składzie Rady Nadzorczej Enea S.A.",
+      "url": "https://ir.enea.pl/pr/847598/zmiany-w-skladzie-rady-nadzorczej-enea-s-a-2025-02-13",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=60&pageLimit=10"
+    },
+    {
+      "numer": "6/2025",
+      "data": "2025-02-13",
+      "godzina": "17:21",
+      "tytul": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie Enea S.A.",
+      "url": "https://ir.enea.pl/pr/847596/tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=60&pageLimit=10"
+    },
+    {
+      "numer": "5/2025",
+      "data": "2025-02-10",
+      "godzina": "12:16",
+      "tytul": "Informacja nt. zamiaru zgłoszenia kandydatury do składu Rady Nadzorczej Spółki",
+      "url": "https://ir.enea.pl/pr/847398/informacja-nt-zamiaru-zgloszenia-kandydatury-do-skladu-rady-nadzorczej-spolki-2025-02-10",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=60&pageLimit=10"
+    },
+    {
+      "numer": "4/2025",
+      "data": "2025-02-05",
+      "godzina": "15:51",
+      "tytul": "Informacja nt. zamiaru zgłoszenia kandydatury do składu Rady Nadzorczej Spółki",
+      "url": "https://ir.enea.pl/pr/847251/informacja-nt-zamiaru-zgloszenia-kandydatury-do-skladu-rady-nadzorczej-spolki-2025-02-05",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=60&pageLimit=10"
+    },
+    {
+      "numer": "3/2025",
+      "data": "2025-01-31",
+      "godzina": "10:06",
+      "tytul": "Terminy przekazywania raportów okresowych w 2025 roku",
+      "url": "https://ir.enea.pl/pr/847021/terminy-przekazywania-raportow-okresowych-w-2025-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=60&pageLimit=10"
+    },
+    {
+      "numer": "2/2025",
+      "data": "2025-01-22",
+      "godzina": "21:19",
+      "tytul": "Zawarcie aneksów do umów wieloletnich na dostawę węgla pomiędzy spółkami zależnymi ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/846624/zawarcie-aneksow-do-umow-wieloletnich-na-dostawe-wegla-pomiedzy-spolkami-zaleznymi-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=70&pageLimit=10"
+    },
+    {
+      "numer": "1/2025",
+      "data": "2025-01-17",
+      "godzina": "17:49",
+      "tytul": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. na dzień 13 lutego 2025 roku",
+      "url": "https://ir.enea.pl/pr/846435/zwolanie-nadzwyczajnego-walnego-zgromadzenia-enea-s-a-na-dzien-13-lutego-2025-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=70&pageLimit=10"
+    },
+    {
+      "numer": "38/2024",
+      "data": "2024-12-17",
+      "godzina": "15:20",
+      "tytul": "Informacja w sprawie ogłoszonych przez PSE wstępnych wyników aukcji rynku mocy na 2029 rok",
+      "url": "https://ir.enea.pl/pr/845463/informacja-w-sprawie-ogloszonych-przez-pse-wstepnych-wynikow-aukcji-rynku-mocy-na-2029-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=70&pageLimit=10"
+    },
+    {
+      "numer": "37/2024",
+      "data": "2024-12-12",
+      "godzina": "17:19",
+      "tytul": "Informacja w sprawie wyniku aukcji rynku mocy na 2029 rok",
+      "url": "https://ir.enea.pl/pr/845234/informacja-w-sprawie-wyniku-aukcji-rynku-mocy-na-2029-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=70&pageLimit=10"
+    },
+    {
+      "numer": "36/2024",
+      "data": "2024-12-09",
+      "godzina": "14:56",
+      "tytul": "Zawiadomienie o zmianie udziału w ogólnej liczbie głosów w ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/845035/zawiadomienie-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-enea-s-a-2024-12-09",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=70&pageLimit=10"
+    },
+    {
+      "numer": "35/2024",
+      "data": "2024-11-28",
+      "godzina": "19:24",
+      "tytul": "Zatwierdzenie Strategii Rozwoju Grupy Kapitałowej ENEA do 2035 roku",
+      "url": "https://ir.enea.pl/pr/844482/zatwierdzenie-strategii-rozwoju-grupy-kapitalowej-enea-do-2035-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=70&pageLimit=10"
+    },
+    {
+      "numer": "34/2024",
+      "data": "2024-11-04",
+      "godzina": "17:34",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za okres I - III kwartał 2024 roku",
+      "url": "https://ir.enea.pl/pr/842984/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-okres-i-iii-kwartal-2024-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=70&pageLimit=10"
+    },
+    {
+      "numer": "33/2024",
+      "data": "2024-11-01",
+      "godzina": "08:14",
+      "tytul": "Informacja o rezygnacji z pełnienia funkcji w Radzie Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/842900/informacja-o-rezygnacji-z-pelnienia-funkcji-w-radzie-nadzorczej-enea-s-a-2024-11-01",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=70&pageLimit=10"
+    },
+    {
+      "numer": "32/2024",
+      "data": "2024-09-02",
+      "godzina": "18:41",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za I półrocze 2024 roku",
+      "url": "https://ir.enea.pl/pr/839812/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-i-polrocze-2024-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=70&pageLimit=10"
+    },
+    {
+      "numer": "31/2024",
+      "data": "2024-07-26",
+      "godzina": "13:36",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/838097/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-zwyczajnym-walnym-zgromadzeniu-enea-s-a-2024-07-26",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=70&pageLimit=10"
+    },
+    {
+      "numer": "30/2024",
+      "data": "2024-07-23",
+      "godzina": "19:43",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie ENEA S.A. po wznowieniu obrad w dniu 23 lipca 2024 roku",
+      "url": "https://ir.enea.pl/pr/837934/tresc-uchwal-podjetych-przez-zwyczajne-walne-zgromadzenie-enea-s-a-po-wznowieniu-obrad-w-dniu-23-lipca-2024-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=80&pageLimit=10"
+    },
+    {
+      "numer": "29/2024",
+      "data": "2024-07-03",
+      "godzina": "20:51",
+      "tytul": "Rekomendacje Rady Nadzorczej ENEA S.A. w sprawie odmowy udzielenia absolutorium byłym Członkom Zarządu ENEA S.A. za rok obrotowy 2023",
+      "url": "https://ir.enea.pl/pr/836960/rekomendacje-rady-nadzorczej-enea-s-a-w-sprawie-odmowy-udzielenia-absolutorium-bylym-czlonkom-zarzadu-enea-s-a-za-rok-obrotowy-2023",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=80&pageLimit=10"
+    },
+    {
+      "numer": "28/2024",
+      "data": "2024-07-01",
+      "godzina": "16:48",
+      "tytul": "Informacja nt. zatwierdzenia przez Prezesa URE taryfy dla energii elektrycznej dla zespołu grup taryfowych G",
+      "url": "https://ir.enea.pl/pr/836817/informacja-nt-zatwierdzenia-przez-prezesa-ure-taryfy-dla-energii-elektrycznej-dla-zespolu-grup-taryfowych-g-2024-07-01",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=80&pageLimit=10"
+    },
+    {
+      "numer": "27/2024",
+      "data": "2024-06-24",
+      "godzina": "17:54",
+      "tytul": "Ogłoszenie przerwy w obradach Zwyczajnego Walnego Zgromadzenia ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/836405/ogloszenie-przerwy-w-obradach-zwyczajnego-walnego-zgromadzenia-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=80&pageLimit=10"
+    },
+    {
+      "numer": "26/2024",
+      "data": "2024-05-31",
+      "godzina": "12:22",
+      "tytul": "Informacja o rezygnacji z pełnienia funkcji w Radzie Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/834983/informacja-o-rezygnacji-z-pelnienia-funkcji-w-radzie-nadzorczej-enea-s-a-2024-05-31",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=80&pageLimit=10"
+    },
+    {
+      "numer": "25/2024",
+      "data": "2024-05-28",
+      "godzina": "14:54",
+      "tytul": "Zwołanie Zwyczajnego Walnego Zgromadzenia ENEA S.A. na dzień 24 czerwca 2024 roku",
+      "url": "https://ir.enea.pl/pr/834816/zwolanie-zwyczajnego-walnego-zgromadzenia-enea-s-a-na-dzien-24-czerwca-2024-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=80&pageLimit=10"
+    },
+    {
+      "numer": "24/2024",
+      "data": "2024-05-21",
+      "godzina": "19:09",
+      "tytul": "Umorzenie obligacji serii ENEA0624",
+      "url": "https://ir.enea.pl/pr/834316/umorzenie-obligacji-serii-enea0624",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=80&pageLimit=10"
+    },
+    {
+      "numer": "23/2024",
+      "data": "2024-05-13",
+      "godzina": "18:01",
+      "tytul": "Opinia Rady Nadzorczej w sprawie proponowanego pokrycia straty netto za rok 2023",
+      "url": "https://ir.enea.pl/pr/833806/opinia-rady-nadzorczej-w-sprawie-proponowanego-pokrycia-straty-netto-za-rok-2023",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=80&pageLimit=10"
+    },
+    {
+      "numer": "22/2024",
+      "data": "2024-05-10",
+      "godzina": "15:17",
+      "tytul": "Emisja obligacji w ramach umowy programowej dotyczącej programu emisji obligacji ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/833689/emisja-obligacji-w-ramach-umowy-programowej-dotyczacej-programu-emisji-obligacji-enea-s-a-2024-05-10",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=80&pageLimit=10"
+    },
+    {
+      "numer": "21/2024",
+      "data": "2024-05-08",
+      "godzina": "17:34",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za I kwartał 2024 roku",
+      "url": "https://ir.enea.pl/pr/833553/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-i-kwartal-2024-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=80&pageLimit=10"
+    },
+    {
+      "numer": "20/2024",
+      "data": "2024-05-06",
+      "godzina": "16:19",
+      "tytul": "Informacja w sprawie proponowanego pokrycia straty netto za rok 2023",
+      "url": "https://ir.enea.pl/pr/833407/informacja-w-sprawie-proponowanego-pokrycia-straty-netto-za-rok-2023",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=90&pageLimit=10"
+    },
+    {
+      "numer": "19/2024",
+      "data": "2024-04-25",
+      "godzina": "16:55",
+      "tytul": "Podjęcie decyzji o przeprowadzeniu przedterminowego odkupu obligacji serii ENEA0624",
+      "url": "https://ir.enea.pl/pr/832996/podjecie-decyzji-o-przeprowadzeniu-przedterminowego-odkupu-obligacji-serii-enea0624",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=90&pageLimit=10"
+    },
+    {
+      "numer": "18/2024",
+      "data": "2024-04-18",
+      "godzina": "21:55",
+      "tytul": "Podjęcie decyzji o zamiarze przeprowadzenia emisji obligacji w ramach programu emisji obligacji ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/832584/podjecie-decyzji-o-zamiarze-przeprowadzenia-emisji-obligacji-w-ramach-programu-emisji-obligacji-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=90&pageLimit=10"
+    },
+    {
+      "numer": "17/2024",
+      "data": "2024-04-03",
+      "godzina": "17:11",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za 2023 rok",
+      "url": "https://ir.enea.pl/pr/831766/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-2023-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=90&pageLimit=10"
+    },
+    {
+      "numer": "16/2024",
+      "data": "2024-03-18",
+      "godzina": "18:35",
+      "tytul": "Rejestracja zmiany Statutu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/830910/rejestracja-zmiany-statutu-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=90&pageLimit=10"
+    },
+    {
+      "numer": "15/2024",
+      "data": "2024-03-14",
+      "godzina": "17:53",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za 2023 rok jednorazowych operacji o charakterze księgowym",
+      "url": "https://ir.enea.pl/pr/830699/informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-2023-rok-jednorazowych-operacji-o-charakterze-ksiegowym",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=90&pageLimit=10"
+    },
+    {
+      "numer": "14/2024",
+      "data": "2024-03-04",
+      "godzina": "13:49",
+      "tytul": "Uzupełnienie informacji nt. osób powołanych w skład Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/830025/uzupelnienie-informacji-nt-osob-powolanych-w-sklad-zarzadu-enea-s-a-2024-03-04",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=90&pageLimit=10"
+    },
+    {
+      "numer": "13/2024",
+      "data": "2024-02-23",
+      "godzina": "17:25",
+      "tytul": "Zmiany w składzie Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/829434/zmiany-w-skladzie-zarzadu-enea-s-a-2024-02-23",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=90&pageLimit=10"
+    },
+    {
+      "numer": "12/2024",
+      "data": "2024-02-16",
+      "godzina": "12:26",
+      "tytul": "Zmiana terminu publikacji jednostkowego i skonsolidowanego raportu okresowego za 2023 rok",
+      "url": "https://ir.enea.pl/pr/829042/zmiana-terminu-publikacji-jednostkowego-i-skonsolidowanego-raportu-okresowego-za-2023-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=90&pageLimit=10"
+    },
+    {
+      "numer": "11/2024",
+      "data": "2024-02-02",
+      "godzina": "14:46",
+      "tytul": "Zmiany w składzie Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/828344/zmiany-w-skladzie-zarzadu-enea-s-a-2024-02-02",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=90&pageLimit=10"
+    },
+    {
+      "numer": "10/2024",
+      "data": "2024-02-01",
+      "godzina": "14:57",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/828290/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-enea-s-a-2024-02-01",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=100&pageLimit=10"
+    },
+    {
+      "numer": "9/2024",
+      "data": "2024-01-31",
+      "godzina": "15:27",
+      "tytul": "Uzupełnienie informacji nt. osób powołanych w skład Rady Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/828204/uzupelnienie-informacji-nt-osob-powolanych-w-sklad-rady-nadzorczej-enea-s-a-2024-01-31",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=100&pageLimit=10"
+    },
+    {
+      "numer": "8/2024",
+      "data": "2024-01-30",
+      "godzina": "22:04",
+      "tytul": "Zmiany w składzie Rady Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/828117/zmiany-w-skladzie-rady-nadzorczej-enea-s-a-2024-01-30",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=100&pageLimit=10"
+    },
+    {
+      "numer": "7/2024",
+      "data": "2024-01-30",
+      "godzina": "21:50",
+      "tytul": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie ENEA S.A. w dniu 30 stycznia 2024 roku",
+      "url": "https://ir.enea.pl/pr/828115/tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-enea-s-a-w-dniu-30-stycznia-2024-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=100&pageLimit=10"
+    },
+    {
+      "numer": "6/2024",
+      "data": "2024-01-29",
+      "godzina": "22:04",
+      "tytul": "Informacja nt. zamiaru zgłoszenia kandydatów do składu Rady Nadzorczej Spółki",
+      "url": "https://ir.enea.pl/pr/828035/informacja-nt-zamiaru-zgloszenia-kandydatow-do-skladu-rady-nadzorczej-spolki",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=100&pageLimit=10"
+    },
+    {
+      "numer": "5/2024",
+      "data": "2024-01-29",
+      "godzina": "18:56",
+      "tytul": "Powołanie w skład Rady Nadzorczej Spółki dokonane przez Ministra Aktywów Państwowych",
+      "url": "https://ir.enea.pl/pr/828031/powolanie-w-sklad-rady-nadzorczej-spolki-dokonane-przez-ministra-aktywow-panstwowych",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=100&pageLimit=10"
+    },
+    {
+      "numer": "4/2024",
+      "data": "2024-01-29",
+      "godzina": "14:12",
+      "tytul": "Zmiana w składzie Rady Nadzorczej ENEA S.A. dokonana przez Ministra Aktywów Państwowych",
+      "url": "https://ir.enea.pl/pr/828013/zmiana-w-skladzie-rady-nadzorczej-enea-s-a-dokonana-przez-ministra-aktywow-panstwowych",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=100&pageLimit=10"
+    },
+    {
+      "numer": "3/2024",
+      "data": "2024-01-25",
+      "godzina": "12:21",
+      "tytul": "Podpisanie umowy finansowania z Europejskim Bankiem Inwestycyjnym",
+      "url": "https://ir.enea.pl/pr/827798/podpisanie-umowy-finansowania-z-europejskim-bankiem-inwestycyjnym",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=100&pageLimit=10"
+    },
+    {
+      "numer": "2/2024",
+      "data": "2024-01-24",
+      "godzina": "16:38",
+      "tytul": "Terminy przekazywania raportów okresowych w 2024 roku",
+      "url": "https://ir.enea.pl/pr/827755/terminy-przekazywania-raportow-okresowych-w-2024-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=100&pageLimit=10"
+    },
+    {
+      "numer": "1/2024",
+      "data": "2024-01-18",
+      "godzina": "21:32",
+      "tytul": "Zmiana projektu uchwały Nadzwyczajnego Walnego Zgromadzenia",
+      "url": "https://ir.enea.pl/pr/827458/zmiana-projektu-uchwaly-nadzwyczajnego-walnego-zgromadzenia",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=100&pageLimit=10"
+    },
+    {
+      "numer": "44/2023",
+      "data": "2023-12-28",
+      "godzina": "19:58",
+      "tytul": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. na dzień 30 stycznia 2024 roku",
+      "url": "https://ir.enea.pl/pr/826475/zwolanie-nadzwyczajnego-walnego-zgromadzenia-enea-s-a-na-dzien-30-stycznia-2024-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=110&pageLimit=10"
+    },
+    {
+      "numer": "43/2023",
+      "data": "2023-12-18",
+      "godzina": "13:29",
+      "tytul": "Informacja w sprawie ogłoszonych przez PSE wstępnych wyników aukcji rynku mocy na 2028 rok",
+      "url": "https://ir.enea.pl/pr/825978/informacja-w-sprawie-ogloszonych-przez-pse-wstepnych-wynikow-aukcji-rynku-mocy-na-2028-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=110&pageLimit=10"
+    },
+    {
+      "numer": "42/2023",
+      "data": "2023-12-14",
+      "godzina": "15:18",
+      "tytul": "Informacja w sprawie wyniku aukcji rynku mocy na 2028 rok",
+      "url": "https://ir.enea.pl/pr/825776/informacja-w-sprawie-wyniku-aukcji-rynku-mocy-na-2028-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=110&pageLimit=10"
+    },
+    {
+      "numer": "41/2023",
+      "data": "2023-11-21",
+      "godzina": "14:52",
+      "tytul": "Odwołanie Członka Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/824359/odwolanie-czlonka-zarzadu-enea-s-a-2023-11-21",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=110&pageLimit=10"
+    },
+    {
+      "numer": "40/2023",
+      "data": "2023-11-17",
+      "godzina": "17:18",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za okres I - III kwartał 2023 roku",
+      "url": "https://ir.enea.pl/pr/824152/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-okres-i-iii-kwartal-2023-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=110&pageLimit=10"
+    },
+    {
+      "numer": "39/2023",
+      "data": "2023-10-20",
+      "godzina": "18:39",
+      "tytul": "Informacja o zamiarze ujęcia w skonsolidowanym sprawozdaniu finansowym za III kwartał 2023 roku jednorazowej operacji o charakterze księgowym",
+      "url": "https://ir.enea.pl/pr/822394/informacja-o-zamiarze-ujecia-w-skonsolidowanym-sprawozdaniu-finansowym-za-iii-kwartal-2023-roku-jednorazowej-operacji-o-charakterze-ksiegowym",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=110&pageLimit=10"
+    },
+    {
+      "numer": "38/2023",
+      "data": "2023-09-13",
+      "godzina": "19:59",
+      "tytul": "Informacja o zamiarze ujęcia w skonsolidowanym sprawozdaniu finansowym za I półrocze 2023 roku jednorazowej operacji o charakterze księgowym",
+      "url": "https://ir.enea.pl/pr/819636/informacja-o-zamiarze-ujecia-w-skonsolidowanym-sprawozdaniu-finansowym-za-i-polrocze-2023-roku-jednorazowej-operacji-o-charakterze-ksiegowym",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=110&pageLimit=10"
+    },
+    {
+      "numer": "37/2023",
+      "data": "2023-08-29",
+      "godzina": "19:26",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za I półrocze 2023 roku",
+      "url": "https://ir.enea.pl/pr/818741/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-i-polrocze-2023-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=110&pageLimit=10"
+    },
+    {
+      "numer": "36/2023",
+      "data": "2023-08-21",
+      "godzina": "14:25",
+      "tytul": "Otrzymanie oferty nabycia akcji spółki Lubelski Węgiel \"Bogdanka\" S.A.",
+      "url": "https://ir.enea.pl/pr/818351/otrzymanie-oferty-nabycia-akcji-spolki-lubelski-wegiel-bogdanka-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=110&pageLimit=10"
+    },
+    {
+      "numer": "35/2023",
+      "data": "2023-08-10",
+      "godzina": "11:05",
+      "tytul": "Podpisanie dokumentów zawierających podsumowanie warunków transakcji nabycia przez Skarb Państwa 100 proc. udziałów ENEA Wytwarzanie sp. z o.o. oraz akcji ENEA Elektrownia Połaniec S.A.",
+      "url": "https://ir.enea.pl/pr/817913/podpisanie-dokumentow-zawierajacych-podsumowanie-warunkow-transakcji-nabycia-przez-skarb-panstwa-100-proc-udzialow-enea-wytwarzanie-sp-z-o-o-oraz-akcj",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=110&pageLimit=10"
+    },
+    {
+      "numer": "34/2023",
+      "data": "2023-08-10",
+      "godzina": "10:12",
+      "tytul": "Akceptacja propozycji zawarcia podsumowań warunków transakcji nabycia przez Skarb Państwa udziałów ENEA Wytwarzanie sp. z o.o. oraz akcji ENEA Elektrownia Połaniec S.A.",
+      "url": "https://ir.enea.pl/pr/817901/akceptacja-propozycji-zawarcia-podsumowan-warunkow-transakcji-nabycia-przez-skarb-panstwa-udzialow-enea-wytwarzanie-sp-z-o-o-oraz-akcji-enea-elektrown",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=120&pageLimit=10"
+    },
+    {
+      "numer": "33/2023",
+      "data": "2023-08-09",
+      "godzina": "17:10",
+      "tytul": "Uzyskanie decyzji o pozwoleniu na wznoszenie i wykorzystywanie sztucznych wysp, konstrukcji i urządzeń w polskich obszarach morskich dla przedsięwzięć polegających na budowie morskich farm wiatrowych",
+      "url": "https://ir.enea.pl/pr/817871/uzyskanie-decyzji-o-pozwoleniu-na-wznoszenie-i-wykorzystywanie-sztucznych-wysp-konstrukcji-i-urzadzen-w-polskich-obszarach-morskich-dla-przedsiewziec-",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=120&pageLimit=10"
+    },
+    {
+      "numer": "32/2023",
+      "data": "2023-07-31",
+      "godzina": "15:42",
+      "tytul": "Informacja o rezygnacji z pełnienia funkcji w Radzie Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/817403/informacja-o-rezygnacji-z-pelnienia-funkcji-w-radzie-nadzorczej-enea-s-a-2023-07-31",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=120&pageLimit=10"
+    },
+    {
+      "numer": "31/2023",
+      "data": "2023-07-17",
+      "godzina": "15:25",
+      "tytul": "Uzupełnienie informacji nt. nowego Członka Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/816683/uzupelnienie-informacji-nt-nowego-czlonka-zarzadu-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=120&pageLimit=10"
+    },
+    {
+      "numer": "30/2023",
+      "data": "2023-07-15",
+      "godzina": "15:51",
+      "tytul": "Otrzymanie propozycji warunków transakcji nabycia przez Skarb Państwa udziałów ENEA Wytwarzanie sp. z o.o. oraz akcji ENEA Elektrownia Połaniec S.A.",
+      "url": "https://ir.enea.pl/pr/816603/otrzymanie-propozycji-warunkow-transakcji-nabycia-przez-skarb-panstwa-udzialow-enea-wytwarzanie-sp-z-o-o-oraz-akcji-enea-elektrownia-polaniec-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=120&pageLimit=10"
+    },
+    {
+      "numer": "29/2023",
+      "data": "2023-07-06",
+      "godzina": "17:24",
+      "tytul": "Powołanie Członka Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/815573/powolanie-czlonka-zarzadu-enea-s-a-2023-07-06",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=120&pageLimit=10"
+    },
+    {
+      "numer": "28/2023",
+      "data": "2023-07-04",
+      "godzina": "19:12",
+      "tytul": "Informacja o rezygnacji z pełnienia funkcji w Radzie Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/815198/informacja-o-rezygnacji-z-pelnienia-funkcji-w-radzie-nadzorczej-enea-s-a-2023-07-04",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=120&pageLimit=10"
+    },
+    {
+      "numer": "27/2023",
+      "data": "2023-06-26",
+      "godzina": "17:53",
+      "tytul": "Informacje udzielone Akcjonariuszowi poza Walnym Zgromadzeniem",
+      "url": "https://ir.enea.pl/pr/814022/informacje-udzielone-akcjonariuszowi-poza-walnym-zgromadzeniem",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=120&pageLimit=10"
+    },
+    {
+      "numer": "26/2023",
+      "data": "2023-06-14",
+      "godzina": "11:21",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/811775/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-zwyczajnym-walnym-zgromadzeniu-enea-s-a-2023-06-14",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=120&pageLimit=10"
+    },
+    {
+      "numer": "25/2023",
+      "data": "2023-06-13",
+      "godzina": "10:39",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie ENEA S.A. w dniu 12 czerwca 2023 roku",
+      "url": "https://ir.enea.pl/pr/811476/tresc-uchwal-podjetych-przez-zwyczajne-walne-zgromadzenie-enea-s-a-w-dniu-12-czerwca-2023-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=120&pageLimit=10"
+    },
+    {
+      "numer": "24/2023",
+      "data": "2023-05-16",
+      "godzina": "14:16",
+      "tytul": "Projekty uchwał Zwyczajnego Walnego Zgromadzenia ENEA S.A. zwołanego na dzień 12 czerwca 2023 roku",
+      "url": "https://ir.enea.pl/pr/806582/projekty-uchwal-zwyczajnego-walnego-zgromadzenia-enea-s-a-zwolanego-na-dzien-12-czerwca-2023-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=130&pageLimit=10"
+    },
+    {
+      "numer": "23/2023",
+      "data": "2023-05-16",
+      "godzina": "14:13",
+      "tytul": "Zwołanie Zwyczajnego Walnego Zgromadzenia ENEA S.A. na dzień 12 czerwca 2023 roku",
+      "url": "https://ir.enea.pl/pr/806576/zwolanie-zwyczajnego-walnego-zgromadzenia-enea-s-a-na-dzien-12-czerwca-2023-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=130&pageLimit=10"
+    },
+    {
+      "numer": "22/2023",
+      "data": "2023-05-16",
+      "godzina": "11:26",
+      "tytul": "Informacje w sprawie transakcji na instrumentach finansowych Emitenta",
+      "url": "https://ir.enea.pl/pr/806482/informacje-w-sprawie-transakcji-na-instrumentach-finansowych-emitenta-2023-05-16",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=130&pageLimit=10"
+    },
+    {
+      "numer": "21/2023",
+      "data": "2023-05-09",
+      "godzina": "21:03",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za I kwartał 2023 roku",
+      "url": "https://ir.enea.pl/pr/805346/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-i-kwartal-2023-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=130&pageLimit=10"
+    },
+    {
+      "numer": "20/2023",
+      "data": "2023-04-26",
+      "godzina": "15:18",
+      "tytul": "Opinia Rady Nadzorczej ENEA S.A. w sprawie propozycji podziału zysku za rok 2022",
+      "url": "https://ir.enea.pl/pr/803661/opinia-rady-nadzorczej-enea-s-a-w-sprawie-propozycji-podzialu-zysku-za-rok-2022",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=130&pageLimit=10"
+    },
+    {
+      "numer": "19/2023",
+      "data": "2023-04-18",
+      "godzina": "19:57",
+      "tytul": "Zmiana perspektywy i potwierdzenie oceny ratingowej ENEA S.A. przez Fitch Ratings",
+      "url": "https://ir.enea.pl/pr/802222/zmiana-perspektywy-i-potwierdzenie-oceny-ratingowej-enea-s-a-przez-fitch-ratings-2023-04-18",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=130&pageLimit=10"
+    },
+    {
+      "numer": "18/2023",
+      "data": "2023-04-18",
+      "godzina": "15:01",
+      "tytul": "Informacja w sprawie proponowanego podziału zysku netto za rok 2022",
+      "url": "https://ir.enea.pl/pr/802154/informacja-w-sprawie-proponowanego-podzialu-zysku-netto-za-rok-2022",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=130&pageLimit=10"
+    },
+    {
+      "numer": "17/2023",
+      "data": "2023-03-15",
+      "godzina": "11:53",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/796536/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-enea-s-a-2023-03-15",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=130&pageLimit=10"
+    },
+    {
+      "numer": "16/2023",
+      "data": "2023-03-13",
+      "godzina": "18:00",
+      "tytul": "Powołanie Członka Rady Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/796134/powolanie-czlonka-rady-nadzorczej-enea-s-a-2023-03-13",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=130&pageLimit=10"
+    },
+    {
+      "numer": "15/2023",
+      "data": "2023-03-13",
+      "godzina": "17:37",
+      "tytul": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie ENEA S.A. w dniu 13 marca 2023 roku",
+      "url": "https://ir.enea.pl/pr/796125/tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-enea-s-a-w-dniu-13-marca-2023-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=130&pageLimit=10"
+    },
+    {
+      "numer": "14/2023",
+      "data": "2023-03-09",
+      "godzina": "11:24",
+      "tytul": "Informacja nt. zamiaru zgłoszenia kandydatury do składu Rady Nadzorczej Spółki",
+      "url": "https://ir.enea.pl/pr/795650/informacja-nt-zamiaru-zgloszenia-kandydatury-do-skladu-rady-nadzorczej-spolki-2023-03-09",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=140&pageLimit=10"
+    },
+    {
+      "numer": "13/2023",
+      "data": "2023-03-07",
+      "godzina": "20:36",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za 2022 rok",
+      "url": "https://ir.enea.pl/pr/795369/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-2022-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=140&pageLimit=10"
+    },
+    {
+      "numer": "12/2023",
+      "data": "2023-03-02",
+      "godzina": "20:44",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za 2022 rok jednorazowych operacji o charakterze księgowym",
+      "url": "https://ir.enea.pl/pr/794700/informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-2022-rok-jednorazowych-operacji-o-charakterze-ksiegowym",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=140&pageLimit=10"
+    },
+    {
+      "numer": "11/2023",
+      "data": "2023-02-10",
+      "godzina": "12:36",
+      "tytul": "Informacje w sprawie transakcji na instrumentach finansowych Emitenta",
+      "url": "https://ir.enea.pl/pr/791624/informacje-w-sprawie-transakcji-na-instrumentach-finansowych-emitenta-2023-02-10",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=140&pageLimit=10"
+    },
+    {
+      "numer": "10/2023",
+      "data": "2023-02-09",
+      "godzina": "12:36",
+      "tytul": "Projekty uchwał Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. zwołanego na dzień 13 marca 2023 roku",
+      "url": "https://ir.enea.pl/pr/791416/projekty-uchwal-nadzwyczajnego-walnego-zgromadzenia-enea-s-a-zwolanego-na-dzien-13-marca-2023-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=140&pageLimit=10"
+    },
+    {
+      "numer": "9/2023",
+      "data": "2023-02-09",
+      "godzina": "12:32",
+      "tytul": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. na dzień 13 marca 2023 roku",
+      "url": "https://ir.enea.pl/pr/791404/zwolanie-nadzwyczajnego-walnego-zgromadzenia-enea-s-a-na-dzien-13-marca-2023-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=140&pageLimit=10"
+    },
+    {
+      "numer": "8/2023",
+      "data": "2023-02-06",
+      "godzina": "11:07",
+      "tytul": "Informacje w sprawie transakcji na instrumentach finansowych Emitenta",
+      "url": "https://ir.enea.pl/pr/790794/informacje-w-sprawie-transakcji-na-instrumentach-finansowych-emitenta-2023-02-06",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=140&pageLimit=10"
+    },
+    {
+      "numer": "7/2023",
+      "data": "2023-01-27",
+      "godzina": "22:10",
+      "tytul": "Podpisanie umowy finansowania konsorcjalnego powiązanego ze zrównoważonym rozwojem",
+      "url": "https://ir.enea.pl/pr/789413/podpisanie-umowy-finansowania-konsorcjalnego-powiazanego-ze-zrownowazonym-rozwojem",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=140&pageLimit=10"
+    },
+    {
+      "numer": "6/2023",
+      "data": "2023-01-25",
+      "godzina": "11:12",
+      "tytul": "Terminy przekazywania raportów okresowych w 2023 r.",
+      "url": "https://ir.enea.pl/pr/788872/terminy-przekazywania-raportow-okresowych-w-2023-r",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=140&pageLimit=10"
+    },
+    {
+      "numer": "5/2023",
+      "data": "2023-01-20",
+      "godzina": "10:13",
+      "tytul": "Informacje w sprawie transakcji na instrumentach finansowych Emitenta",
+      "url": "https://ir.enea.pl/pr/788120/informacje-w-sprawie-transakcji-na-instrumentach-finansowych-emitenta-2023-01-20",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=140&pageLimit=10"
+    },
+    {
+      "numer": "4/2023",
+      "data": "2023-01-16",
+      "godzina": "15:49",
+      "tytul": "Informacje w sprawie transakcji na instrumentach finansowych Emitenta",
+      "url": "https://ir.enea.pl/pr/787427/informacje-w-sprawie-transakcji-na-instrumentach-finansowych-emitenta-2023-01-16",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=150&pageLimit=10"
+    },
+    {
+      "numer": "3/2023",
+      "data": "2023-01-11",
+      "godzina": "11:06",
+      "tytul": "Informacje w sprawie transakcji na instrumentach finansowych Emitenta",
+      "url": "https://ir.enea.pl/pr/786650/informacje-w-sprawie-transakcji-na-instrumentach-finansowych-emitenta-2023-01-11",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=150&pageLimit=10"
+    },
+    {
+      "numer": "2/2023",
+      "data": "2023-01-04",
+      "godzina": "17:22",
+      "tytul": "Informacja o rezygnacji z pełnienia funkcji w Radzie Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/785958/informacja-o-rezygnacji-z-pelnienia-funkcji-w-radzie-nadzorczej-enea-s-a-2023-01-04",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=150&pageLimit=10"
+    },
+    {
+      "numer": "1/2023",
+      "data": "2023-01-04",
+      "godzina": "13:39",
+      "tytul": "Informacje w sprawie transakcji na instrumentach finansowych Emitenta",
+      "url": "https://ir.enea.pl/pr/785899/informacje-w-sprawie-transakcji-na-instrumentach-finansowych-emitenta-2023-01-04",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=150&pageLimit=10"
+    },
+    {
+      "numer": "78/2022",
+      "data": "2022-12-29",
+      "godzina": "11:31",
+      "tytul": "Informacje w sprawie transakcji na instrumentach finansowych Emitenta",
+      "url": "https://ir.enea.pl/pr/785127/informacje-w-sprawie-transakcji-na-instrumentach-finansowych-emitenta-2022-12-29",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=150&pageLimit=10"
+    },
+    {
+      "numer": "77/2022",
+      "data": "2022-12-21",
+      "godzina": "10:21",
+      "tytul": "Informacje w sprawie transakcji na instrumentach finansowych Emitenta",
+      "url": "https://ir.enea.pl/pr/784255/informacje-w-sprawie-transakcji-na-instrumentach-finansowych-emitenta",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=150&pageLimit=10"
+    },
+    {
+      "numer": "76/2022",
+      "data": "2022-12-20",
+      "godzina": "22:55",
+      "tytul": "Podpisanie porozumień dotyczących ugodowego załatwienia sporów związanych z umowami sprzedaży praw majątkowych",
+      "url": "https://ir.enea.pl/pr/784199/podpisanie-porozumien-dotyczacych-ugodowego-zalatwienia-sporow-zwiazanych-z-umowami-sprzedazy-praw-majatkowych",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=150&pageLimit=10"
+    },
+    {
+      "numer": "75/2022",
+      "data": "2022-12-20",
+      "godzina": "11:32",
+      "tytul": "Informacja w sprawie ogłoszonych przez PSE wstępnych wyników aukcji rynku mocy na 2027 rok",
+      "url": "https://ir.enea.pl/pr/784083/informacja-w-sprawie-ogloszonych-przez-pse-wstepnych-wynikow-aukcji-rynku-mocy-na-2027-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=150&pageLimit=10"
+    },
+    {
+      "numer": "74/2022",
+      "data": "2022-12-19",
+      "godzina": "15:08",
+      "tytul": "Odwołanie Członka Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/783937/odwolanie-czlonka-zarzadu-enea-s-a-2022-12-19",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=150&pageLimit=10"
+    },
+    {
+      "numer": "73/2022",
+      "data": "2022-12-17",
+      "godzina": "18:26",
+      "tytul": "Informacja nt. zatwierdzenia przez Prezesa URE taryfy dla energii elektrycznej dla zespołu grup taryfowych G",
+      "url": "https://ir.enea.pl/pr/783734/informacja-nt-zatwierdzenia-przez-prezesa-ure-taryfy-dla-energii-elektrycznej-dla-zespolu-grup-taryfowych-g",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=150&pageLimit=10"
+    },
+    {
+      "numer": "72/2022",
+      "data": "2022-12-15",
+      "godzina": "12:42",
+      "tytul": "Informacja w sprawie wyniku aukcji rynku mocy na 2027 rok",
+      "url": "https://ir.enea.pl/pr/783688/informacja-w-sprawie-wyniku-aukcji-rynku-mocy-na-2027-rok-2022-12-16",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=160&pageLimit=10"
+    },
+    {
+      "numer": "71/2022",
+      "data": "2022-11-29",
+      "godzina": "10:06",
+      "tytul": "Zmiana perspektywy i potwierdzenie oceny ratingowej ENEA S.A. przez Fitch Ratings",
+      "url": "https://ir.enea.pl/pr/780367/zmiana-perspektywy-i-potwierdzenie-oceny-ratingowej-enea-s-a-przez-fitch-ratings",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=160&pageLimit=10"
+    },
+    {
+      "numer": "70/2022",
+      "data": "2022-11-24",
+      "godzina": "21:42",
+      "tytul": "Udzielenie gwarancji korporacyjnej za zobowiązania ENEA Trading",
+      "url": "https://ir.enea.pl/pr/779731/udzielenie-gwarancji-korporacyjnej-za-zobowiazania-enea-trading",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=160&pageLimit=10"
+    },
+    {
+      "numer": "69/2022",
+      "data": "2022-11-23",
+      "godzina": "13:11",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/779359/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-enea-s-a-2022-11-23",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=160&pageLimit=10"
+    },
+    {
+      "numer": "68/2022",
+      "data": "2022-11-21",
+      "godzina": "18:53",
+      "tytul": "Uzupełnienie informacji nt. osoby powołanej w skład Rady Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/778957/uzupelnienie-informacji-nt-osoby-powolanej-w-sklad-rady-nadzorczej-enea-s-a-2022-11-21",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=160&pageLimit=10"
+    },
+    {
+      "numer": "67/2022",
+      "data": "2022-11-21",
+      "godzina": "16:58",
+      "tytul": "Informacja nt. oddalenia apelacji od wyroku oddalającego powództwo o uchylenie uchwał Zwyczajnego Walnego Zgromadzenia Spółki",
+      "url": "https://ir.enea.pl/pr/778931/informacja-nt-oddalenia-apelacji-od-wyroku-oddalajacego-powodztwo-o-uchylenie-uchwal-zwyczajnego-walnego-zgromadzenia-spolki",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=160&pageLimit=10"
+    },
+    {
+      "numer": "66/2022",
+      "data": "2022-11-18",
+      "godzina": "19:46",
+      "tytul": "Zmiany w składzie Rady Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/778624/zmiany-w-skladzie-rady-nadzorczej-enea-s-a-2022-11-18",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=160&pageLimit=10"
+    },
+    {
+      "numer": "65/2022",
+      "data": "2022-11-18",
+      "godzina": "19:31",
+      "tytul": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie ENEA S.A. po wznowieniu obrad w dniu 18 listopada 2022 roku",
+      "url": "https://ir.enea.pl/pr/778619/tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-enea-s-a-po-wznowieniu-obrad-w-dniu-18-listopada-2022-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=160&pageLimit=10"
+    },
+    {
+      "numer": "64/2022",
+      "data": "2022-11-08",
+      "godzina": "17:38",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za okres I - III kwartał 2022 roku",
+      "url": "https://ir.enea.pl/pr/776727/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-okres-i-iii-kwartal-2022-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=160&pageLimit=10"
+    },
+    {
+      "numer": "63/2022",
+      "data": "2022-11-07",
+      "godzina": "20:32",
+      "tytul": "Ogłoszenie przerwy w obradach Nadzwyczajnego Walnego Zgromadzenia ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/776503/ogloszenie-przerwy-w-obradach-nadzwyczajnego-walnego-zgromadzenia-enea-s-a-2022-11-07",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=160&pageLimit=10"
+    },
+    {
+      "numer": "62/2022",
+      "data": "2022-10-11",
+      "godzina": "19:21",
+      "tytul": "Projekty uchwał Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. zwołanego na dzień 7 listopada 2022 roku",
+      "url": "https://ir.enea.pl/pr/771814/projekty-uchwal-nadzwyczajnego-walnego-zgromadzenia-enea-s-a-zwolanego-na-dzien-7-listopada-2022-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=170&pageLimit=10"
+    },
+    {
+      "numer": "61/2022",
+      "data": "2022-10-11",
+      "godzina": "19:14",
+      "tytul": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. na dzień 7 listopada 2022 roku",
+      "url": "https://ir.enea.pl/pr/771812/zwolanie-nadzwyczajnego-walnego-zgromadzenia-enea-s-a-na-dzien-7-listopada-2022-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=170&pageLimit=10"
+    },
+    {
+      "numer": "60/2022",
+      "data": "2022-10-11",
+      "godzina": "18:44",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za III kwartał 2022 roku jednorazowej operacji o charakterze księgowym",
+      "url": "https://ir.enea.pl/pr/771808/informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-iii-kwartal-2022-roku-jednorazowej-operacji-o-charakterze-ksiegowym",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=170&pageLimit=10"
+    },
+    {
+      "numer": "59/2022",
+      "data": "2022-09-30",
+      "godzina": "22:10",
+      "tytul": "Informacja nt. skutków przyjęcia celu produkcyjnego na 2023 rok przez spółkę zależną Lubelski Węgiel \"Bogdanka\" S.A. dla podmiotów z GK ENEA",
+      "url": "https://ir.enea.pl/pr/769905/informacja-nt-skutkow-przyjecia-celu-produkcyjnego-na-2023-rok-przez-spolke-zalezna-lubelski-wegiel-bogdanka-s-a-dla-podmiotow-z-gk-enea",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=170&pageLimit=10"
+    },
+    {
+      "numer": "58/2022",
+      "data": "2022-09-30",
+      "godzina": "17:48",
+      "tytul": "Zawarcie aneksu do umowy poręczenia za zobowiązania ENEA Trading",
+      "url": "https://ir.enea.pl/pr/769888/zawarcie-aneksu-do-umowy-poreczenia-za-zobowiazania-enea-trading",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=170&pageLimit=10"
+    },
+    {
+      "numer": "57/2022",
+      "data": "2022-09-17",
+      "godzina": "11:58",
+      "tytul": "Informacja nt. skutków ograniczenia wydobycia węgla przez spółkę zależną Lubelski Węgiel \"Bogdanka\" S.A. dla podmiotów z GK ENEA",
+      "url": "https://ir.enea.pl/pr/767199/informacja-nt-skutkow-ograniczenia-wydobycia-wegla-przez-spolke-zalezna-lubelski-wegiel-bogdanka-s-a-dla-podmiotow-z-gk-enea",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=170&pageLimit=10"
+    },
+    {
+      "numer": "56/2022",
+      "data": "2022-09-16",
+      "godzina": "19:08",
+      "tytul": "Powołanie Członka Rady Nadzorczej dokonane przez Ministra Aktywów Państwowych",
+      "url": "https://ir.enea.pl/pr/767168/powolanie-czlonka-rady-nadzorczej-dokonane-przez-ministra-aktywow-panstwowych-2022-09-16",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=170&pageLimit=10"
+    },
+    {
+      "numer": "55/2022",
+      "data": "2022-09-02",
+      "godzina": "14:36",
+      "tytul": "Uzupełnienie informacji nt. zakończenia subskrypcji akcji serii D",
+      "url": "https://ir.enea.pl/pr/764425/uzupelnienie-informacji-nt-zakonczenia-subskrypcji-akcji-serii-d",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=170&pageLimit=10"
+    },
+    {
+      "numer": "54/2022",
+      "data": "2022-08-30",
+      "godzina": "17:30",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za I półrocze 2022 roku",
+      "url": "https://ir.enea.pl/pr/763650/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-i-polrocze-2022-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=170&pageLimit=10"
+    },
+    {
+      "numer": "53/2022",
+      "data": "2022-08-19",
+      "godzina": "15:37",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za I półrocze 2022 roku jednorazowych operacji o charakterze księgowym",
+      "url": "https://ir.enea.pl/pr/761966/informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-i-polrocze-2022-roku-jednorazowych-operacji-o-charakterze-ksiegowym",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=170&pageLimit=10"
+    },
+    {
+      "numer": "52/2022",
+      "data": "2022-08-05",
+      "godzina": "14:24",
+      "tytul": "Informacja o rezygnacji z pełnienia funkcji w Radzie Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/759795/informacja-o-rezygnacji-z-pelnienia-funkcji-w-radzie-nadzorczej-enea-s-a-2022-08-05",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=180&pageLimit=10"
+    },
+    {
+      "numer": "51/2022",
+      "data": "2022-08-03",
+      "godzina": "16:07",
+      "tytul": "Zawarcie warunkowej umowy sprzedaży akcji Polskiej Grupy Górniczej S.A.",
+      "url": "https://ir.enea.pl/pr/759330/zawarcie-warunkowej-umowy-sprzedazy-akcji-polskiej-grupy-gorniczej-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=180&pageLimit=10"
+    },
+    {
+      "numer": "50/2022",
+      "data": "2022-07-26",
+      "godzina": "18:18",
+      "tytul": "Zawarcie aneksu do umowy poręczenia za zobowiązania ENEA Elektrownia Połaniec",
+      "url": "https://ir.enea.pl/pr/757892/zawarcie-aneksu-do-umowy-poreczenia-za-zobowiazania-enea-elektrownia-polaniec",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=180&pageLimit=10"
+    },
+    {
+      "numer": "49/2022",
+      "data": "2022-07-11",
+      "godzina": "17:19",
+      "tytul": "Informacja o rezygnacji z zasiadania w Radzie Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/755432/informacja-o-rezygnacji-z-zasiadania-w-radzie-nadzorczej-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=180&pageLimit=10"
+    },
+    {
+      "numer": "48/2022",
+      "data": "2022-07-07",
+      "godzina": "19:19",
+      "tytul": "Zawarcie umowy poręczenia za zobowiązania ENEA Elektrownia Połaniec",
+      "url": "https://ir.enea.pl/pr/754896/zawarcie-umowy-poreczenia-za-zobowiazania-enea-elektrownia-polaniec",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=180&pageLimit=10"
+    },
+    {
+      "numer": "47/2022",
+      "data": "2022-06-30",
+      "godzina": "10:54",
+      "tytul": "Uzupełnienie informacji nt. osób powołanych w skład Rady Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/753371/uzupelnienie-informacji-nt-osob-powolanych-w-sklad-rady-nadzorczej-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=180&pageLimit=10"
+    },
+    {
+      "numer": "46/2022",
+      "data": "2022-06-28",
+      "godzina": "14:53",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/752958/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-zwyczajnym-walnym-zgromadzeniu-enea-s-a-2022-06-28",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=180&pageLimit=10"
+    },
+    {
+      "numer": "45/2022",
+      "data": "2022-06-24",
+      "godzina": "21:03",
+      "tytul": "Powołanie Członków Rady Nadzorczej ENEA S.A. nowej kadencji",
+      "url": "https://ir.enea.pl/pr/752441/powolanie-czlonkow-rady-nadzorczej-enea-s-a-nowej-kadencji",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=180&pageLimit=10"
+    },
+    {
+      "numer": "44/2022",
+      "data": "2022-06-24",
+      "godzina": "21:01",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie ENEA S.A. w dniu 24 czerwca 2022 roku",
+      "url": "https://ir.enea.pl/pr/752439/tresc-uchwal-podjetych-przez-zwyczajne-walne-zgromadzenie-enea-s-a-w-dniu-24-czerwca-2022-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=180&pageLimit=10"
+    },
+    {
+      "numer": "43/2022",
+      "data": "2022-06-24",
+      "godzina": "10:01",
+      "tytul": "Uzupełnienie informacji nt. osób powołanych w skład Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/752273/uzupelnienie-informacji-nt-osob-powolanych-w-sklad-zarzadu-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=180&pageLimit=10"
+    },
+    {
+      "numer": "42/2022",
+      "data": "2022-06-23",
+      "godzina": "15:58",
+      "tytul": "Informacja nt. zamiaru zgłoszenia kandydatur do składu Rady Nadzorczej Spółki",
+      "url": "https://ir.enea.pl/pr/752185/informacja-nt-zamiaru-zgloszenia-kandydatur-do-skladu-rady-nadzorczej-spolki",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=190&pageLimit=10"
+    },
+    {
+      "numer": "41/2022",
+      "data": "2022-06-21",
+      "godzina": "13:29",
+      "tytul": "Informacja nt. kandydatów do Rady Nadzorczej ENEA S.A. wybranych przez pracowników Grupy Kapitałowej ENEA",
+      "url": "https://ir.enea.pl/pr/751453/informacja-nt-kandydatow-do-rady-nadzorczej-enea-s-a-wybranych-przez-pracownikow-grupy-kapitalowej-enea",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=190&pageLimit=10"
+    },
+    {
+      "numer": "40/2022",
+      "data": "2022-06-18",
+      "godzina": "14:20",
+      "tytul": "Podpisanie listu intencyjnego w sprawie nabycia przez Skarb Państwa akcji spółki Lubelski Węgiel \"Bogdanka\" S.A.",
+      "url": "https://ir.enea.pl/pr/750973/podpisanie-listu-intencyjnego-w-sprawie-nabycia-przez-skarb-panstwa-akcji-spolki-lubelski-wegiel-bogdanka-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=190&pageLimit=10"
+    },
+    {
+      "numer": "39/2022",
+      "data": "2022-06-14",
+      "godzina": "20:45",
+      "tytul": "Powołanie Członków Zarządu ENEA S.A. nowej kadencji",
+      "url": "https://ir.enea.pl/pr/750485/powolanie-czlonkow-zarzadu-enea-s-a-nowej-kadencji-2022-06-14",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=190&pageLimit=10"
+    },
+    {
+      "numer": "38/2022",
+      "data": "2022-06-09",
+      "godzina": "15:24",
+      "tytul": "Komunikat Działu Operacyjnego KDPW w sprawie rejestracji akcji serii D",
+      "url": "https://ir.enea.pl/pr/749480/komunikat-dzialu-operacyjnego-kdpw-w-sprawie-rejestracji-akcji-serii-d",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=190&pageLimit=10"
+    },
+    {
+      "numer": "37/2022",
+      "data": "2022-06-08",
+      "godzina": "15:53",
+      "tytul": "Uchwały GPW o dopuszczeniu i warunkowym wprowadzeniu akcji serii D do obrotu giełdowego oraz wyznaczeniu ostatniego dnia notowania praw do akcji serii D",
+      "url": "https://ir.enea.pl/pr/749212/uchwaly-gpw-o-dopuszczeniu-i-warunkowym-wprowadzeniu-akcji-serii-d-do-obrotu-gieldowego-oraz-wyznaczeniu-ostatniego-dnia-notowania-praw-do-akcji-serii",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=190&pageLimit=10"
+    },
+    {
+      "numer": "36/2022",
+      "data": "2022-06-08",
+      "godzina": "14:01",
+      "tytul": "Oświadczenie Krajowego Depozytu Papierów Wartościowych S.A. w sprawie warunkowej rejestracji akcji zwykłych na okaziciela serii D",
+      "url": "https://ir.enea.pl/pr/749170/oswiadczenie-krajowego-depozytu-papierow-wartosciowych-s-a-w-sprawie-warunkowej-rejestracji-akcji-zwyklych-na-okaziciela-serii-d",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=190&pageLimit=10"
+    },
+    {
+      "numer": "35/2022",
+      "data": "2022-06-07",
+      "godzina": "13:54",
+      "tytul": "Zawiadomienie Skarbu Państwa o zmianie udziału w ogólnej liczbie głosów w ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/748871/zawiadomienie-skarbu-panstwa-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=190&pageLimit=10"
+    },
+    {
+      "numer": "34/2022",
+      "data": "2022-05-31",
+      "godzina": "15:04",
+      "tytul": "Rejestracja podwyższenia kapitału zakładowego i zmiany Statutu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/747394/rejestracja-podwyzszenia-kapitalu-zakladowego-i-zmiany-statutu-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=190&pageLimit=10"
+    },
+    {
+      "numer": "33/2022",
+      "data": "2022-05-27",
+      "godzina": "13:49",
+      "tytul": "Projekty uchwał Zwyczajnego Walnego Zgromadzenia ENEA S.A. zwołanego na dzień 24 czerwca 2022 roku",
+      "url": "https://ir.enea.pl/pr/746710/projekty-uchwal-zwyczajnego-walnego-zgromadzenia-enea-s-a-zwolanego-na-dzien-24-czerwca-2022-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=190&pageLimit=10"
+    },
+    {
+      "numer": "32/2022",
+      "data": "2022-05-27",
+      "godzina": "13:43",
+      "tytul": "Zwołanie Zwyczajnego Walnego Zgromadzenia ENEA S.A. na dzień 24 czerwca 2022 roku",
+      "url": "https://ir.enea.pl/pr/746640/zwolanie-zwyczajnego-walnego-zgromadzenia-enea-s-a-na-dzien-24-czerwca-2022-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=200&pageLimit=10"
+    },
+    {
+      "numer": "31/2022",
+      "data": "2022-05-12",
+      "godzina": "13:19",
+      "tytul": "Zakończenie subskrypcji akcji serii D",
+      "url": "https://ir.enea.pl/pr/743242/zakonczenie-subskrypcji-akcji-serii-d",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=200&pageLimit=10"
+    },
+    {
+      "numer": "30/2022",
+      "data": "2022-05-10",
+      "godzina": "17:21",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za I kwartał 2022 roku",
+      "url": "https://ir.enea.pl/pr/742747/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-i-kwartal-2022-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=200&pageLimit=10"
+    },
+    {
+      "numer": "29/2022",
+      "data": "2022-05-09",
+      "godzina": "14:35",
+      "tytul": "Komunikat Działu Operacyjnego KDPW w sprawie rejestracji praw do akcji serii D",
+      "url": "https://ir.enea.pl/pr/742430/komunikat-dzialu-operacyjnego-kdpw-w-sprawie-rejestracji-praw-do-akcji-serii-d",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=200&pageLimit=10"
+    },
+    {
+      "numer": "28/2022",
+      "data": "2022-05-06",
+      "godzina": "17:53",
+      "tytul": "Dopuszczenie i wprowadzenie do obrotu giełdowego praw do akcji serii D",
+      "url": "https://ir.enea.pl/pr/742166/dopuszczenie-i-wprowadzenie-do-obrotu-gieldowego-praw-do-akcji-serii-d",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=200&pageLimit=10"
+    },
+    {
+      "numer": "27/2022",
+      "data": "2022-05-06",
+      "godzina": "14:31",
+      "tytul": "Oświadczenie Krajowego Depozytu Papierów Wartościowych S.A. w sprawie rejestracji praw do akcji zwykłych na okaziciela serii D ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/742095/oswiadczenie-krajowego-depozytu-papierow-wartosciowych-s-a-w-sprawie-rejestracji-praw-do-akcji-zwyklych-na-okaziciela-serii-d-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=200&pageLimit=10"
+    },
+    {
+      "numer": "26/2022",
+      "data": "2022-04-28",
+      "godzina": "14:07",
+      "tytul": "Podjęcie uchwały w sprawie przydziału akcji serii D",
+      "url": "https://ir.enea.pl/pr/740730/podjecie-uchwaly-w-sprawie-przydzialu-akcji-serii-d",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=200&pageLimit=10"
+    },
+    {
+      "numer": "25/2022",
+      "data": "2022-04-27",
+      "godzina": "22:05",
+      "tytul": "Opinia Rady Nadzorczej ENEA S.A. w sprawie propozycji podziału zysku za rok 2021",
+      "url": "https://ir.enea.pl/pr/740548/opinia-rady-nadzorczej-enea-s-a-w-sprawie-propozycji-podzialu-zysku-za-rok-2021",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=200&pageLimit=10"
+    },
+    {
+      "numer": "24/2022",
+      "data": "2022-04-20",
+      "godzina": "22:19",
+      "tytul": "Powołanie Prezesa Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/738988/powolanie-prezesa-zarzadu-enea-s-a-2022-04-20",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=200&pageLimit=10"
+    },
+    {
+      "numer": "23/2022",
+      "data": "2022-04-14",
+      "godzina": "20:06",
+      "tytul": "Ustalenie ceny emisyjnej akcji serii D oraz ostatecznej liczby akcji serii D, które będą przedmiotem oferty",
+      "url": "https://ir.enea.pl/pr/738156/ustalenie-ceny-emisyjnej-akcji-serii-d-oraz-ostatecznej-liczby-akcji-serii-d-ktore-beda-przedmiotem-oferty",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=200&pageLimit=10"
+    },
+    {
+      "numer": "22/2022",
+      "data": "2022-04-12",
+      "godzina": "14:31",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/737524/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=210&pageLimit=10"
+    },
+    {
+      "numer": "21/2022",
+      "data": "2022-04-12",
+      "godzina": "12:48",
+      "tytul": "Informacja w sprawie proponowanego podziału zysku netto za rok 2021",
+      "url": "https://ir.enea.pl/pr/737467/informacja-w-sprawie-proponowanego-podzialu-zysku-netto-za-rok-2021",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=210&pageLimit=10"
+    },
+    {
+      "numer": "20/2022",
+      "data": "2022-04-08",
+      "godzina": "21:33",
+      "tytul": "Zawarcie umowy plasowania oraz rozpoczęcie procesu budowania księgi popytu w ramach oferty w trybie subskrypcji prywatnej akcji serii D",
+      "url": "https://ir.enea.pl/pr/737015/zawarcie-umowy-plasowania-oraz-rozpoczecie-procesu-budowania-ksiegi-popytu-w-ramach-oferty-w-trybie-subskrypcji-prywatnej-akcji-serii-d",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=210&pageLimit=10"
+    },
+    {
+      "numer": "19/2022",
+      "data": "2022-04-08",
+      "godzina": "19:47",
+      "tytul": "Treść uchwały podjętej przez Nadzwyczajne Walne Zgromadzenie ENEA S.A. po wznowieniu obrad w dniu 8 kwietnia 2022 r.",
+      "url": "https://ir.enea.pl/pr/737006/tresc-uchwaly-podjetej-przez-nadzwyczajne-walne-zgromadzenie-enea-s-a-po-wznowieniu-obrad-w-dniu-8-kwietnia-2022-r",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=210&pageLimit=10"
+    },
+    {
+      "numer": "18/2022",
+      "data": "2022-04-08",
+      "godzina": "10:05",
+      "tytul": "Podpisanie umowy inwestycyjnej ze Skarbem Państwa",
+      "url": "https://ir.enea.pl/pr/736808/podpisanie-umowy-inwestycyjnej-ze-skarbem-panstwa",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=210&pageLimit=10"
+    },
+    {
+      "numer": "17/2022",
+      "data": "2022-04-08",
+      "godzina": "08:25",
+      "tytul": "Informacja o rezygnacji z pełnienia funkcji w Zarządzie Spółki",
+      "url": "https://ir.enea.pl/pr/736778/informacja-o-rezygnacji-z-pelnienia-funkcji-w-zarzadzie-spolki",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=210&pageLimit=10"
+    },
+    {
+      "numer": "16/2022",
+      "data": "2022-04-01",
+      "godzina": "17:40",
+      "tytul": "Zakończenie procesu rozliczenia Projektu Węglowego z Generalnym Wykonawcą w ramach kontraktu dotyczącego budowy Elektrowni Ostrołęka \"C\"",
+      "url": "https://ir.enea.pl/pr/735584/zakonczenie-procesu-rozliczenia-projektu-weglowego-z-generalnym-wykonawca-w-ramach-kontraktu-dotyczacego-budowy-elektrowni-ostroleka-c",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=210&pageLimit=10"
+    },
+    {
+      "numer": "15/2022",
+      "data": "2022-03-11",
+      "godzina": "11:39",
+      "tytul": "Zawarcie umowy poręczenia za zobowiązania ENEA Trading",
+      "url": "https://ir.enea.pl/pr/730945/zawarcie-umowy-poreczenia-za-zobowiazania-enea-trading",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=210&pageLimit=10"
+    },
+    {
+      "numer": "14/2022",
+      "data": "2022-03-10",
+      "godzina": "17:13",
+      "tytul": "Powołanie Członka Rady Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/730808/powolanie-czlonka-rady-nadzorczej-enea-s-a-2022-03-10",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=210&pageLimit=10"
+    },
+    {
+      "numer": "13/2022",
+      "data": "2022-03-10",
+      "godzina": "17:04",
+      "tytul": "Ogłoszenie przerwy w obradach Nadzwyczajnego Walnego Zgromadzenia ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/730798/ogloszenie-przerwy-w-obradach-nadzwyczajnego-walnego-zgromadzenia-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=210&pageLimit=10"
+    },
+    {
+      "numer": "12/2022",
+      "data": "2022-03-07",
+      "godzina": "17:08",
+      "tytul": "Informacja dotycząca wniosku o zarządzenie przerwy w obradach walnego zgromadzenia",
+      "url": "https://ir.enea.pl/pr/729989/informacja-dotyczaca-wniosku-o-zarzadzenie-przerwy-w-obradach-walnego-zgromadzenia",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=220&pageLimit=10"
+    },
+    {
+      "numer": "11/2022",
+      "data": "2022-03-07",
+      "godzina": "12:57",
+      "tytul": "Informacja nt. zamiaru zgłoszenia kandydatury do składu Rady Nadzorczej Spółki",
+      "url": "https://ir.enea.pl/pr/729906/informacja-nt-zamiaru-zgloszenia-kandydatury-do-skladu-rady-nadzorczej-spolki-2022-03-07",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=220&pageLimit=10"
+    },
+    {
+      "numer": "10/2022",
+      "data": "2022-03-01",
+      "godzina": "18:57",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za 2021 rok",
+      "url": "https://ir.enea.pl/pr/728902/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-2021-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=220&pageLimit=10"
+    },
+    {
+      "numer": "9/2022",
+      "data": "2022-02-03",
+      "godzina": "17:13",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za rok 2021 jednorazowych operacji o charakterze księgowym",
+      "url": "https://ir.enea.pl/pr/724015/informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-rok-2021-jednorazowych-operacji-o-charakterze-ksiegowym",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=220&pageLimit=10"
+    },
+    {
+      "numer": "8/2022",
+      "data": "2022-02-02",
+      "godzina": "14:40",
+      "tytul": "Wniosek akcjonariusza o umieszczenie dodatkowego punktu w porządku obrad Nadzwyczajnego Walnego Zgromadzenia zwołanego na dzień 10 marca 2022 roku",
+      "url": "https://ir.enea.pl/pr/723686/wniosek-akcjonariusza-o-umieszczenie-dodatkowego-punktu-w-porzadku-obrad-nadzwyczajnego-walnego-zgromadzenia-zwolanego-na-dzien-10-marca-2022-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=220&pageLimit=10"
+    },
+    {
+      "numer": "7/2022",
+      "data": "2022-01-31",
+      "godzina": "14:04",
+      "tytul": "Rozwiązanie umowy mocowej zawartej przez spółkę Elektrownia Ostrołęka Sp. z o.o.",
+      "url": "https://ir.enea.pl/pr/723080/rozwiazanie-umowy-mocowej-zawartej-przez-spolke-elektrownia-ostroleka-sp-z-o-o",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=220&pageLimit=10"
+    },
+    {
+      "numer": "6/2022",
+      "data": "2022-01-27",
+      "godzina": "19:13",
+      "tytul": "Informacja nt. oddalenia powództwa o uchylenie uchwał Zwyczajnego Walnego Zgromadzenia Spółki",
+      "url": "https://ir.enea.pl/pr/722542/informacja-nt-oddalenia-powodztwa-o-uchylenie-uchwal-zwyczajnego-walnego-zgromadzenia-spolki",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=220&pageLimit=10"
+    },
+    {
+      "numer": "5/2022",
+      "data": "2022-01-26",
+      "godzina": "13:08",
+      "tytul": "Terminy przekazywania raportów okresowych w 2022 roku",
+      "url": "https://ir.enea.pl/pr/722106/terminy-przekazywania-raportow-okresowych-w-2022-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=220&pageLimit=10"
+    },
+    {
+      "numer": "4/2022",
+      "data": "2022-01-21",
+      "godzina": "15:20",
+      "tytul": "Złożenie wniosku o objęcie akcji Spółki przez Skarb Państwa ze środków Funduszu Reprywatyzacji",
+      "url": "https://ir.enea.pl/pr/721210/zlozenie-wniosku-o-objecie-akcji-spolki-przez-skarb-panstwa-ze-srodkow-funduszu-reprywatyzacji",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=220&pageLimit=10"
+    },
+    {
+      "numer": "3/2022",
+      "data": "2022-01-19",
+      "godzina": "02:54",
+      "tytul": "Projekty uchwał Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. zwołanego na dzień 10 marca 2022 roku",
+      "url": "https://ir.enea.pl/pr/720447/projekty-uchwal-nadzwyczajnego-walnego-zgromadzenia-enea-s-a-zwolanego-na-dzien-10-marca-2022-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=220&pageLimit=10"
+    },
+    {
+      "numer": "2/2022",
+      "data": "2022-01-19",
+      "godzina": "02:40",
+      "tytul": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. na dzień 10 marca 2022 roku",
+      "url": "https://ir.enea.pl/pr/720445/zwolanie-nadzwyczajnego-walnego-zgromadzenia-enea-s-a-na-dzien-10-marca-2022-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=230&pageLimit=10"
+    },
+    {
+      "numer": "1/2022",
+      "data": "2022-01-19",
+      "godzina": "01:46",
+      "tytul": "Podjęcie uchwały w sprawie zainicjowania procesu podwyższenia kapitału zakładowego Spółki w drodze emisji akcji",
+      "url": "https://ir.enea.pl/pr/720441/podjecie-uchwaly-w-sprawie-zainicjowania-procesu-podwyzszenia-kapitalu-zakladowego-spolki-w-drodze-emisji-akcji",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=230&pageLimit=10"
+    },
+    {
+      "numer": "43/2021",
+      "data": "2021-12-22",
+      "godzina": "14:51",
+      "tytul": "Podpisanie aneksu do porozumienia dotyczącego rozliczenia Projektu Węglowego w ramach kontraktu dotyczącego budowy Elektrowni Ostrołęka \"C\"",
+      "url": "https://ir.enea.pl/pr/716357/podpisanie-aneksu-do-porozumienia-dotyczacego-rozliczenia-projektu-weglowego-w-ramach-kontraktu-dotyczacego-budowy-elektrowni-ostroleka-c",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=230&pageLimit=10"
+    },
+    {
+      "numer": "42/2021",
+      "data": "2021-12-21",
+      "godzina": "13:03",
+      "tytul": "Informacja o rezygnacji z pełnienia funkcji w Radzie Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/716069/informacja-o-rezygnacji-z-pelnienia-funkcji-w-radzie-nadzorczej-enea-s-a-2021-12-21",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=230&pageLimit=10"
+    },
+    {
+      "numer": "41/2021",
+      "data": "2021-12-20",
+      "godzina": "17:48",
+      "tytul": "Informacja w sprawie ogłoszonych przez PSE wstępnych wyników aukcji rynku mocy na 2026 rok",
+      "url": "https://ir.enea.pl/pr/715869/informacja-w-sprawie-ogloszonych-przez-pse-wstepnych-wynikow-aukcji-rynku-mocy-na-2026-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=230&pageLimit=10"
+    },
+    {
+      "numer": "40/2021",
+      "data": "2021-12-17",
+      "godzina": "12:07",
+      "tytul": "Informacja w sprawie wyniku aukcji rynku mocy na 2026 rok",
+      "url": "https://ir.enea.pl/pr/715350/informacja-w-sprawie-wyniku-aukcji-rynku-mocy-na-2026-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=230&pageLimit=10"
+    },
+    {
+      "numer": "39/2021",
+      "data": "2021-12-15",
+      "godzina": "19:28",
+      "tytul": "Aktualizacja Strategii Rozwoju Grupy Kapitałowej ENEA do 2030 roku z perspektywą 2040 roku",
+      "url": "https://ir.enea.pl/pr/714973/aktualizacja-strategii-rozwoju-grupy-kapitalowej-enea-do-2030-roku-z-perspektywa-2040-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=230&pageLimit=10"
+    },
+    {
+      "numer": "38/2021",
+      "data": "2021-12-07",
+      "godzina": "13:47",
+      "tytul": "Zmiana adresu siedziby Spółki",
+      "url": "https://ir.enea.pl/pr/713224/zmiana-adresu-siedziby-spolki",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=230&pageLimit=10"
+    },
+    {
+      "numer": "37/2021",
+      "data": "2021-12-01",
+      "godzina": "21:16",
+      "tytul": "Potwierdzenie oceny ratingowej ENEA S.A. przez Fitch Ratings",
+      "url": "https://ir.enea.pl/pr/712055/potwierdzenie-oceny-ratingowej-enea-s-a-przez-fitch-ratings-2021-12-01",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=230&pageLimit=10"
+    },
+    {
+      "numer": "36/2021",
+      "data": "2021-12-01",
+      "godzina": "16:12",
+      "tytul": "Uzupełnienie informacji nt. Członka Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/712016/uzupelnienie-informacji-nt-czlonka-zarzadu-enea-s-a-2021-12-01",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=230&pageLimit=10"
+    },
+    {
+      "numer": "35/2021",
+      "data": "2021-11-29",
+      "godzina": "19:18",
+      "tytul": "Powołanie Członka Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/711484/powolanie-czlonka-zarzadu-enea-s-a-2021-11-29",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=240&pageLimit=10"
+    },
+    {
+      "numer": "34/2021",
+      "data": "2021-11-23",
+      "godzina": "14:12",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu ENEA S.A. w dniu 18 listopada 2021 roku",
+      "url": "https://ir.enea.pl/pr/710136/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-enea-s-a-w-dniu-18-listopada-2021-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=240&pageLimit=10"
+    },
+    {
+      "numer": "33/2021",
+      "data": "2021-11-18",
+      "godzina": "19:01",
+      "tytul": "Powołanie Członka Rady Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/708244/powolanie-czlonka-rady-nadzorczej-enea-s-a-2021-11-18",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=240&pageLimit=10"
+    },
+    {
+      "numer": "32/2021",
+      "data": "2021-11-18",
+      "godzina": "18:36",
+      "tytul": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie ENEA S.A. w dniu 18 listopada 2021 roku",
+      "url": "https://ir.enea.pl/pr/708241/tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-enea-s-a-w-dniu-18-listopada-2021-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=240&pageLimit=10"
+    },
+    {
+      "numer": "31/2021",
+      "data": "2021-11-16",
+      "godzina": "16:34",
+      "tytul": "Informacja nt. zamiaru zgłoszenia kandydatury do składu Rady Nadzorczej Spółki",
+      "url": "https://ir.enea.pl/pr/707655/informacja-nt-zamiaru-zgloszenia-kandydatury-do-skladu-rady-nadzorczej-spolki",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=240&pageLimit=10"
+    },
+    {
+      "numer": "30/2021",
+      "data": "2021-11-09",
+      "godzina": "17:58",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za okres I – III kwartał 2021 roku",
+      "url": "https://ir.enea.pl/pr/706448/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-okres-i-iii-kwartal-2021-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=240&pageLimit=10"
+    },
+    {
+      "numer": "29/2021",
+      "data": "2021-10-21",
+      "godzina": "13:26",
+      "tytul": "Projekty uchwał Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. zwołanego na dzień 18 listopada 2021 roku",
+      "url": "https://ir.enea.pl/pr/702408/projekty-uchwal-nadzwyczajnego-walnego-zgromadzenia-enea-s-a-zwolanego-na-dzien-18-listopada-2021-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=240&pageLimit=10"
+    },
+    {
+      "numer": "28/2021",
+      "data": "2021-10-21",
+      "godzina": "13:23",
+      "tytul": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. na dzień 18 listopada 2021 roku",
+      "url": "https://ir.enea.pl/pr/702405/zwolanie-nadzwyczajnego-walnego-zgromadzenia-enea-s-a-na-dzien-18-listopada-2021-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=240&pageLimit=10"
+    },
+    {
+      "numer": "27/2021",
+      "data": "2021-09-15",
+      "godzina": "17:25",
+      "tytul": "Informacja o rezygnacji z pełnienia funkcji w Radzie Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/694174/informacja-o-rezygnacji-z-pelnienia-funkcji-w-radzie-nadzorczej-enea-s-a-2021-09-15",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=240&pageLimit=10"
+    },
+    {
+      "numer": "26/2021",
+      "data": "2021-08-20",
+      "godzina": "17:23",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za I półrocze 2021 roku",
+      "url": "https://ir.enea.pl/pr/688761/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-i-polrocze-2021-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=240&pageLimit=10"
+    },
+    {
+      "numer": "25/2021",
+      "data": "2021-08-09",
+      "godzina": "19:11",
+      "tytul": "Rozstrzygnięcie w sprawie pomocy publicznej otrzymanej przez spółkę zależną ENEA Elektrownia Połaniec S.A.",
+      "url": "https://ir.enea.pl/pr/686412/rozstrzygniecie-w-sprawie-pomocy-publicznej-otrzymanej-przez-spolke-zalezna-enea-elektrownia-polaniec-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=250&pageLimit=10"
+    },
+    {
+      "numer": "24/2021",
+      "data": "2021-07-23",
+      "godzina": "14:42",
+      "tytul": "Zawarcie porozumienia dotyczącego współpracy w zakresie wydzielenia aktywów węglowych i ich integracji w ramach Narodowej Agencji Bezpieczeństwa Energetycznego",
+      "url": "https://ir.enea.pl/pr/683235/zawarcie-porozumienia-dotyczacego-wspolpracy-w-zakresie-wydzielenia-aktywow-weglowych-i-ich-integracji-w-ramach-narodowej-agencji-bezpieczenstwa-energ",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=250&pageLimit=10"
+    },
+    {
+      "numer": "23/2021",
+      "data": "2021-07-09",
+      "godzina": "17:56",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za I półrocze 2021 roku jednorazowej operacji o charakterze księgowym",
+      "url": "https://ir.enea.pl/pr/680385/informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-i-polrocze-2021-roku-jednorazowej-operacji-o-charakterze-ksiegowym",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=250&pageLimit=10"
+    },
+    {
+      "numer": "22/2021",
+      "data": "2021-06-30",
+      "godzina": "23:37",
+      "tytul": "Odpowiedzi na pytania Akcjonariusza złożone podczas obrad Zwyczajnego Walnego Zgromadzenia ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/678147/odpowiedzi-na-pytania-akcjonariusza-zlozone-podczas-obrad-zwyczajnego-walnego-zgromadzenia-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=250&pageLimit=10"
+    },
+    {
+      "numer": "21/2021",
+      "data": "2021-06-25",
+      "godzina": "11:42",
+      "tytul": "Podpisanie dokumentów dotyczących rozliczenia Projektu Węglowego w ramach Projektu Ostrołęka C oraz realizacji Projektu Gazowego w Ostrołęce",
+      "url": "https://ir.enea.pl/pr/676900/podpisanie-dokumentow-dotyczacych-rozliczenia-projektu-weglowego-w-ramach-projektu-ostroleka-c-oraz-realizacji-projektu-gazowego-w-ostrolece",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=250&pageLimit=10"
+    },
+    {
+      "numer": "20/2021",
+      "data": "2021-06-25",
+      "godzina": "11:33",
+      "tytul": "Wyodrębnienie Projektu Gazowego z Elektrowni Ostrołęka Sp. z o.o. w drodze jego sprzedaży na rzecz CCGT Ostrołęka Sp. z o.o.",
+      "url": "https://ir.enea.pl/pr/676892/wyodrebnienie-projektu-gazowego-z-elektrowni-ostroleka-sp-z-o-o-w-drodze-jego-sprzedazy-na-rzecz-ccgt-ostroleka-sp-z-o-o",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=250&pageLimit=10"
+    },
+    {
+      "numer": "19/2021",
+      "data": "2021-06-24",
+      "godzina": "17:03",
+      "tytul": "Informacja nt. wszczęcia przeciwko spółce zależnej ENEA Elektrownia Połaniec S.A. postępowania administracyjnego",
+      "url": "https://ir.enea.pl/pr/676722/informacja-nt-wszczecia-przeciwko-spolce-zaleznej-enea-elektrownia-polaniec-s-a-postepowania-administracyjnego",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=250&pageLimit=10"
+    },
+    {
+      "numer": "18/2021",
+      "data": "2021-06-22",
+      "godzina": "14:08",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu ENEA S.A. w dniu 17 czerwca 2021 roku",
+      "url": "https://ir.enea.pl/pr/676019/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-zwyczajnym-walnym-zgromadzeniu-enea-s-a-w-dniu-17-czerwca-2021-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=250&pageLimit=10"
+    },
+    {
+      "numer": "17/2021",
+      "data": "2021-06-17",
+      "godzina": "18:44",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie ENEA S.A. w dniu 17 czerwca 2021 roku",
+      "url": "https://ir.enea.pl/pr/675040/tresc-uchwal-podjetych-przez-zwyczajne-walne-zgromadzenie-enea-s-a-w-dniu-17-czerwca-2021-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=250&pageLimit=10"
+    },
+    {
+      "numer": "16/2021",
+      "data": "2021-05-27",
+      "godzina": "14:32",
+      "tytul": "Podpisanie Aneksu do Porozumienia w sprawie współpracy przy podziale Elektrowni Ostrołęka sp. z o.o.",
+      "url": "https://ir.enea.pl/pr/670166/podpisanie-aneksu-do-porozumienia-w-sprawie-wspolpracy-przy-podziale-elektrowni-ostroleka-sp-z-o-o",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=250&pageLimit=10"
+    },
+    {
+      "numer": "15/2021",
+      "data": "2021-05-20",
+      "godzina": "15:32",
+      "tytul": "Projekty uchwał Zwyczajnego Walnego Zgromadzenia ENEA S.A. zwołanego na dzień 17 czerwca 2021 roku",
+      "url": "https://ir.enea.pl/pr/668506/projekty-uchwal-zwyczajnego-walnego-zgromadzenia-enea-s-a-zwolanego-na-dzien-17-czerwca-2021-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=260&pageLimit=10"
+    },
+    {
+      "numer": "14/2021",
+      "data": "2021-05-20",
+      "godzina": "15:30",
+      "tytul": "Zwołanie Zwyczajnego Walnego Zgromadzenia ENEA S.A. na dzień 17 czerwca 2021 roku",
+      "url": "https://ir.enea.pl/pr/668493/zwolanie-zwyczajnego-walnego-zgromadzenia-enea-s-a-na-dzien-17-czerwca-2021-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=260&pageLimit=10"
+    },
+    {
+      "numer": "13/2021",
+      "data": "2021-05-12",
+      "godzina": "17:21",
+      "tytul": "Odpowiedzi na pytania Akcjonariusza złożone podczas obrad Nadzwyczajnego Walnego Zgromadzenia ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/666495/odpowiedzi-na-pytania-akcjonariusza-zlozone-podczas-obrad-nadzwyczajnego-walnego-zgromadzenia-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=260&pageLimit=10"
+    },
+    {
+      "numer": "12/2021",
+      "data": "2021-05-11",
+      "godzina": "17:19",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za I kwartał 2021 roku",
+      "url": "https://ir.enea.pl/pr/666181/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-i-kwartal-2021-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=260&pageLimit=10"
+    },
+    {
+      "numer": "11/2021",
+      "data": "2021-04-21",
+      "godzina": "18:14",
+      "tytul": "Opinia Rady Nadzorczej ENEA S.A. w sprawie pokrycia straty netto za rok 2020",
+      "url": "https://ir.enea.pl/pr/661849/opinia-rady-nadzorczej-enea-s-a-w-sprawie-pokrycia-straty-netto-za-rok-2020",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=260&pageLimit=10"
+    },
+    {
+      "numer": "10/2021",
+      "data": "2021-04-13",
+      "godzina": "15:20",
+      "tytul": "Informacja w sprawie proponowanego pokrycia straty netto za rok 2020",
+      "url": "https://ir.enea.pl/pr/659862/informacja-w-sprawie-proponowanego-pokrycia-straty-netto-za-rok-2020",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=260&pageLimit=10"
+    },
+    {
+      "numer": "9/2021",
+      "data": "2021-03-26",
+      "godzina": "18:15",
+      "tytul": "Podpisanie umowy sprzedaży udziałów w spółce PGE EJ 1 sp. z o.o.",
+      "url": "https://ir.enea.pl/pr/656433/podpisanie-umowy-sprzedazy-udzialow-w-spolce-pge-ej-1-sp-z-o-o",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=260&pageLimit=10"
+    },
+    {
+      "numer": "8/2021",
+      "data": "2021-03-12",
+      "godzina": "17:30",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za 2020 rok",
+      "url": "https://ir.enea.pl/pr/653086/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-2020-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=260&pageLimit=10"
+    },
+    {
+      "numer": "7/2021",
+      "data": "2021-02-25",
+      "godzina": "19:51",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za 2020 rok jednorazowych operacji o charakterze księgowym",
+      "url": "https://ir.enea.pl/pr/649262/informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-2020-rok-jednorazowych-operacji-o-charakterze-ksiegowym",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=260&pageLimit=10"
+    },
+    {
+      "numer": "6/2021",
+      "data": "2021-01-28",
+      "godzina": "13:20",
+      "tytul": "Terminy przekazywania raportów okresowych w 2021 roku",
+      "url": "https://ir.enea.pl/pr/638106/terminy-przekazywania-raportow-okresowych-w-2021-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=260&pageLimit=10"
+    },
+    {
+      "numer": "5/2021",
+      "data": "2021-01-12",
+      "godzina": "15:35",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu ENEA S.A. w dniu 7 stycznia 2021 roku",
+      "url": "https://ir.enea.pl/pr/630778/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-enea-s-a-w-dniu-7-stycznia-2021-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=270&pageLimit=10"
+    },
+    {
+      "numer": "4/2021",
+      "data": "2021-01-12",
+      "godzina": "08:46",
+      "tytul": "Uzupełnienie informacji nt. Członka Rady Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/630502/uzupelnienie-informacji-nt-czlonka-rady-nadzorczej-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=270&pageLimit=10"
+    },
+    {
+      "numer": "3/2021",
+      "data": "2021-01-07",
+      "godzina": "21:15",
+      "tytul": "Powołanie Członka Rady Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/628864/powolanie-czlonka-rady-nadzorczej-enea-s-a-2021-01-07",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=270&pageLimit=10"
+    },
+    {
+      "numer": "2/2021",
+      "data": "2021-01-07",
+      "godzina": "21:13",
+      "tytul": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie ENEA S.A. w dniu 7 stycznia 2021 roku",
+      "url": "https://ir.enea.pl/pr/628862/tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-enea-s-a-w-dniu-7-stycznia-2021-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=270&pageLimit=10"
+    },
+    {
+      "numer": "1/2021",
+      "data": "2021-01-04",
+      "godzina": "18:43",
+      "tytul": "Informacja o rezygnacji z pełnienia funkcji w Radzie Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/627555/informacja-o-rezygnacji-z-pelnienia-funkcji-w-radzie-nadzorczej-enea-s-a-2021-01-04",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=270&pageLimit=10"
+    },
+    {
+      "numer": "56/2020",
+      "data": "2020-12-22",
+      "godzina": "20:23",
+      "tytul": "Podpisanie porozumień dotyczących projektu Ostrołęka C",
+      "url": "https://ir.enea.pl/pr/623434/podpisanie-porozumien-dotyczacych-projektu-ostroleka-c",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=270&pageLimit=10"
+    },
+    {
+      "numer": "55/2020",
+      "data": "2020-12-22",
+      "godzina": "19:27",
+      "tytul": "Aktualizacja informacji nt. realizacji projektu Ostrołęka C",
+      "url": "https://ir.enea.pl/pr/623414/aktualizacja-informacji-nt-realizacji-projektu-ostroleka-c",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=270&pageLimit=10"
+    },
+    {
+      "numer": "54/2020",
+      "data": "2020-12-16",
+      "godzina": "12:29",
+      "tytul": "Uzupełnienie informacji nt. Członka Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/620189/uzupelnienie-informacji-nt-czlonka-zarzadu-enea-s-a-2020-12-16",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=270&pageLimit=10"
+    },
+    {
+      "numer": "53/2020",
+      "data": "2020-12-09",
+      "godzina": "18:45",
+      "tytul": "Powołanie Członka Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/616875/powolanie-czlonka-zarzadu-enea-s-a-2020-12-09",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=270&pageLimit=10"
+    },
+    {
+      "numer": "52/2020",
+      "data": "2020-12-09",
+      "godzina": "15:25",
+      "tytul": "Projekty uchwał Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. zwołanego na dzień 7 stycznia 2021 roku",
+      "url": "https://ir.enea.pl/pr/616763/projekty-uchwal-nadzwyczajnego-walnego-zgromadzenia-enea-s-a-zwolanego-na-dzien-7-stycznia-2021-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=270&pageLimit=10"
+    },
+    {
+      "numer": "51/2020",
+      "data": "2020-12-09",
+      "godzina": "15:22",
+      "tytul": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. na dzień 7 stycznia 2021 roku",
+      "url": "https://ir.enea.pl/pr/616761/zwolanie-nadzwyczajnego-walnego-zgromadzenia-enea-s-a-na-dzien-7-stycznia-2021-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=280&pageLimit=10"
+    },
+    {
+      "numer": "50/2020",
+      "data": "2020-11-23",
+      "godzina": "18:30",
+      "tytul": "Informacja nt. wniesienia powództwa o uchylenie uchwał Zwyczajnego Walnego Zgromadzenia Spółki",
+      "url": "https://ir.enea.pl/pr/600626/informacja-nt-wniesienia-powodztwa-o-uchylenie-uchwal-zwyczajnego-walnego-zgromadzenia-spolki",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=280&pageLimit=10"
+    },
+    {
+      "numer": "49/2020",
+      "data": "2020-11-18",
+      "godzina": "17:23",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za okres I – III kwartał 2020 roku",
+      "url": "https://ir.enea.pl/pr/598259/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-okres-i-iii-kwartal-2020-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=280&pageLimit=10"
+    },
+    {
+      "numer": "48/2020",
+      "data": "2020-11-17",
+      "godzina": "20:12",
+      "tytul": "Odwołanie Członka Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/597749/odwolanie-czlonka-zarzadu-enea-s-a-2020-11-17",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=280&pageLimit=10"
+    },
+    {
+      "numer": "47/2020",
+      "data": "2020-10-27",
+      "godzina": "17:23",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za 3 kwartał 2020 roku jednorazowej operacji o charakterze księgowym",
+      "url": "https://ir.enea.pl/pr/587988/informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-3-kwartal-2020-roku-jednorazowej-operacji-o-charakterze-ksiegowym",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=280&pageLimit=10"
+    },
+    {
+      "numer": "46/2020",
+      "data": "2020-10-26",
+      "godzina": "14:25",
+      "tytul": "Uzupełnienie informacji nt. Członka Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/587326/uzupelnienie-informacji-nt-czlonka-zarzadu-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=280&pageLimit=10"
+    },
+    {
+      "numer": "45/2020",
+      "data": "2020-10-23",
+      "godzina": "20:07",
+      "tytul": "Powołanie Członka Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/586404/powolanie-czlonka-zarzadu-enea-s-a-2020-10-23",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=280&pageLimit=10"
+    },
+    {
+      "numer": "44/2020",
+      "data": "2020-10-07",
+      "godzina": "23:08",
+      "tytul": "Rejestracja zmian w Statucie Spółki",
+      "url": "https://ir.enea.pl/pr/578626/rejestracja-zmian-w-statucie-spolki-2020-10-07",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=280&pageLimit=10"
+    },
+    {
+      "numer": "43/2020",
+      "data": "2020-10-01",
+      "godzina": "10:20",
+      "tytul": "Podpisanie listu intencyjnego dotyczącego sprzedaży udziałów w spółce PGE EJ 1 sp. z o.o.",
+      "url": "https://ir.enea.pl/pr/575485/podpisanie-listu-intencyjnego-dotyczacego-sprzedazy-udzialow-w-spolce-pge-ej-1-sp-z-o-o",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=280&pageLimit=10"
+    },
+    {
+      "numer": "42/2020",
+      "data": "2020-09-21",
+      "godzina": "18:12",
+      "tytul": "Uzupełnienie informacji nt. osoby powołanej w skład Rady Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/570761/uzupelnienie-informacji-nt-osoby-powolanej-w-sklad-rady-nadzorczej-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=280&pageLimit=10"
+    },
+    {
+      "numer": "41/2020",
+      "data": "2020-09-17",
+      "godzina": "16:49",
+      "tytul": "Powołanie Członka Rady Nadzorczej dokonane przez Ministra Aktywów Państwowych",
+      "url": "https://ir.enea.pl/pr/568991/powolanie-czlonka-rady-nadzorczej-dokonane-przez-ministra-aktywow-panstwowych-2020-09-17",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=290&pageLimit=10"
+    },
+    {
+      "numer": "40/2020",
+      "data": "2020-09-09",
+      "godzina": "11:42",
+      "tytul": "Aktualizacja informacji nt. potencjalnej inwestycji w projekty morskich elektrowni wiatrowych",
+      "url": "https://ir.enea.pl/pr/564821/aktualizacja-informacji-nt-potencjalnej-inwestycji-w-projekty-morskich-elektrowni-wiatrowych",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=290&pageLimit=10"
+    },
+    {
+      "numer": "39/2020",
+      "data": "2020-08-25",
+      "godzina": "17:31",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za I półrocze 2020 roku",
+      "url": "https://ir.enea.pl/pr/558336/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-i-polrocze-2020-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=290&pageLimit=10"
+    },
+    {
+      "numer": "38/2020",
+      "data": "2020-08-18",
+      "godzina": "18:32",
+      "tytul": "Uzupełnienie informacji nt. Członków Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/555474/uzupelnienie-informacji-nt-czlonkow-zarzadu-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=290&pageLimit=10"
+    },
+    {
+      "numer": "37/2020",
+      "data": "2020-08-12",
+      "godzina": "16:54",
+      "tytul": "Wyrok Sądu Apelacyjnego w sprawie o stwierdzenie nieważności, ewentualnie uchylenie uchwały Nadzwyczajnego Walnego Zgromadzenia Spółki",
+      "url": "https://ir.enea.pl/pr/552925/wyrok-sadu-apelacyjnego-w-sprawie-o-stwierdzenie-niewaznosci-ewentualnie-uchylenie-uchwaly-nadzwyczajnego-walnego-zgromadzenia-spolki",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=290&pageLimit=10"
+    },
+    {
+      "numer": "36/2020",
+      "data": "2020-08-11",
+      "godzina": "17:48",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za I półrocze 2020 roku jednorazowych operacji o charakterze księgowym",
+      "url": "https://ir.enea.pl/pr/552407/informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-i-polrocze-2020-roku-jednorazowych-operacji-o-charakterze-ksiegowym",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=290&pageLimit=10"
+    },
+    {
+      "numer": "35/2020",
+      "data": "2020-08-10",
+      "godzina": "14:27",
+      "tytul": "Odpowiedzi na pytania Akcjonariuszy złożone podczas obrad Zwyczajnego Walnego Zgromadzenia ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/551738/odpowiedzi-na-pytania-akcjonariuszy-zlozone-podczas-obrad-zwyczajnego-walnego-zgromadzenia-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=290&pageLimit=10"
+    },
+    {
+      "numer": "34/2020",
+      "data": "2020-08-07",
+      "godzina": "17:46",
+      "tytul": "Powołanie Członków Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/550830/powolanie-czlonkow-zarzadu-enea-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=290&pageLimit=10"
+    },
+    {
+      "numer": "33/2020",
+      "data": "2020-08-04",
+      "godzina": "13:37",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu ENEA S.A. w dniu 30 lipca 2020 roku",
+      "url": "https://ir.enea.pl/pr/549105/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-zwyczajnym-walnym-zgromadzeniu-enea-s-a-w-dniu-30-lipca-2020-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=290&pageLimit=10"
+    },
+    {
+      "numer": "32/2020",
+      "data": "2020-07-30",
+      "godzina": "23:03",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie ENEA S.A. w dniu 30 lipca 2020 roku",
+      "url": "https://ir.enea.pl/pr/547462/tresc-uchwal-podjetych-przez-zwyczajne-walne-zgromadzenie-enea-s-a-w-dniu-30-lipca-2020-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=290&pageLimit=10"
+    },
+    {
+      "numer": "31/2020",
+      "data": "2020-07-23",
+      "godzina": "17:46",
+      "tytul": "Zmiana w składzie Zarządu Spółki",
+      "url": "https://ir.enea.pl/pr/544558/zmiana-w-skladzie-zarzadu-spolki-2020-07-23",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=300&pageLimit=10"
+    },
+    {
+      "numer": "30/2020",
+      "data": "2020-07-22",
+      "godzina": "16:57",
+      "tytul": "Zmiana w składzie Zarządu Spółki",
+      "url": "https://ir.enea.pl/pr/543983/zmiana-w-skladzie-zarzadu-spolki",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=300&pageLimit=10"
+    },
+    {
+      "numer": "29/2020",
+      "data": "2020-07-08",
+      "godzina": "21:24",
+      "tytul": "Wyrok Sądu Apelacyjnego w sprawie o stwierdzenie nieważności lub ustalenie nieistnienia, ewentualnie uchylenie uchwały Nadzwyczajnego Walnego Zgromadzenia Spółki",
+      "url": "https://ir.enea.pl/pr/538045/wyrok-sadu-apelacyjnego-w-sprawie-o-stwierdzenie-niewaznosci-lub-ustalenie-nieistnienia-ewentualnie-uchylenie-uchwaly-nadzwyczajnego-walnego-zgromadze",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=300&pageLimit=10"
+    },
+    {
+      "numer": "28/2020",
+      "data": "2020-07-03",
+      "godzina": "13:47",
+      "tytul": "Projekty uchwał Zwyczajnego Walnego Zgromadzenia ENEA S.A. zwołanego na dzień 30 lipca 2020 roku",
+      "url": "https://ir.enea.pl/pr/535886/projekty-uchwal-zwyczajnego-walnego-zgromadzenia-enea-s-a-zwolanego-na-dzien-30-lipca-2020-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=300&pageLimit=10"
+    },
+    {
+      "numer": "27/2020",
+      "data": "2020-07-03",
+      "godzina": "13:41",
+      "tytul": "Zwołanie Zwyczajnego Walnego Zgromadzenia ENEA S.A. na dzień 30 lipca 2020 roku",
+      "url": "https://ir.enea.pl/pr/535883/zwolanie-zwyczajnego-walnego-zgromadzenia-enea-s-a-na-dzien-30-lipca-2020-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=300&pageLimit=10"
+    },
+    {
+      "numer": "26/2020",
+      "data": "2020-06-30",
+      "godzina": "16:40",
+      "tytul": "Powołanie Prezesa Zarządu ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/534277/powolanie-prezesa-zarzadu-enea-s-a-2020-06-30",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=300&pageLimit=10"
+    },
+    {
+      "numer": "25/2020",
+      "data": "2020-06-09",
+      "godzina": "18:58",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za I kwartał 2020 roku",
+      "url": "https://ir.enea.pl/pr/524231/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-i-kwartal-2020-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=300&pageLimit=10"
+    },
+    {
+      "numer": "24/2020",
+      "data": "2020-06-04",
+      "godzina": "23:05",
+      "tytul": "Zmiany w składzie Zarządu",
+      "url": "https://ir.enea.pl/pr/522075/zmiany-w-skladzie-zarzadu-2020-06-04",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=300&pageLimit=10"
+    },
+    {
+      "numer": "23/2020",
+      "data": "2020-06-04",
+      "godzina": "19:17",
+      "tytul": "Informacja w sprawie proponowanego podziału zysku za rok 2019",
+      "url": "https://ir.enea.pl/pr/522007/informacja-w-sprawie-proponowanego-podzialu-zysku-za-rok-2019",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=300&pageLimit=10"
+    },
+    {
+      "numer": "22/2020",
+      "data": "2020-06-03",
+      "godzina": "20:55",
+      "tytul": "Zawarcie listu intencyjnego dotyczącego potencjalnej inwestycji w projekty morskich elektrowni wiatrowych",
+      "url": "https://ir.enea.pl/pr/521474/zawarcie-listu-intencyjnego-dotyczacego-potencjalnej-inwestycji-w-projekty-morskich-elektrowni-wiatrowych",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=300&pageLimit=10"
+    },
+    {
+      "numer": "21/2020",
+      "data": "2020-06-02",
+      "godzina": "21:14",
+      "tytul": "Informacja nt. przeprowadzonych analiz oraz zawarcie dodatkowego trójstronnego porozumienia w związku z realizacją projektu Ostrołęka C",
+      "url": "https://ir.enea.pl/pr/520933/informacja-nt-przeprowadzonych-analiz-oraz-zawarcie-dodatkowego-trojstronnego-porozumienia-w-zwiazku-z-realizacja-projektu-ostroleka-c",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=310&pageLimit=10"
+    },
+    {
+      "numer": "20/2020",
+      "data": "2020-05-27",
+      "godzina": "18:15",
+      "tytul": "Zmiany w składzie Rady Nadzorczej ENEA S.A. dokonane przez Ministra Aktywów Państwowych",
+      "url": "https://ir.enea.pl/pr/517957/zmiany-w-skladzie-rady-nadzorczej-enea-s-a-dokonane-przez-ministra-aktywow-panstwowych",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=310&pageLimit=10"
+    },
+    {
+      "numer": "19/2020",
+      "data": "2020-05-26",
+      "godzina": "19:51",
+      "tytul": "Informacja w sprawie wstępnych wyników finansowych i operacyjnych za 2019 rok",
+      "url": "https://ir.enea.pl/pr/517374/informacja-w-sprawie-wstepnych-wynikow-finansowych-i-operacyjnych-za-2019-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=310&pageLimit=10"
+    },
+    {
+      "numer": "18/2020",
+      "data": "2020-05-19",
+      "godzina": "23:44",
+      "tytul": "Informacja o odpisie aktualizującym wartość posiadanego pakietu udziałów w Elektrowni Ostrołęka sp. z o.o. oraz udzielonych tej spółce pożyczek",
+      "url": "https://ir.enea.pl/pr/514156/informacja-o-odpisie-aktualizujacym-wartosc-posiadanego-pakietu-udzialow-w-elektrowni-ostroleka-sp-z-o-o-oraz-udzielonych-tej-spolce-pozyczek",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=310&pageLimit=10"
+    },
+    {
+      "numer": "17/2020",
+      "data": "2020-05-08",
+      "godzina": "16:34",
+      "tytul": "Zmiana terminu publikacji jednostkowego i skonsolidowanego raportu rocznego za 2019 rok oraz skonsolidowanego rozszerzonego raportu kwartalnego za I kwartał 2020 roku",
+      "url": "https://ir.enea.pl/pr/508939/zmiana-terminu-publikacji-jednostkowego-i-skonsolidowanego-raportu-rocznego-za-2019-rok-oraz-skonsolidowanego-rozszerzonego-raportu-kwartalnego-za-i-k",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=310&pageLimit=10"
+    },
+    {
+      "numer": "16/2020",
+      "data": "2020-04-17",
+      "godzina": "17:39",
+      "tytul": "Zmiana terminu publikacji jednostkowego i skonsolidowanego raportu rocznego za 2019 rok",
+      "url": "https://ir.enea.pl/pr/499564/zmiana-terminu-publikacji-jednostkowego-i-skonsolidowanego-raportu-rocznego-za-2019-rok-2020-04-17",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=310&pageLimit=10"
+    },
+    {
+      "numer": "15/2020",
+      "data": "2020-03-31",
+      "godzina": "23:27",
+      "tytul": "Informacja o zamiarze ujęcia w sprawozdaniach finansowych za 2019 rok jednorazowych operacji o charakterze księgowym",
+      "url": "https://ir.enea.pl/pr/495230/informacja-o-zamiarze-ujecia-w-sprawozdaniach-finansowych-za-2019-rok-jednorazowych-operacji-o-charakterze-ksiegowym",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=310&pageLimit=10"
+    },
+    {
+      "numer": "14/2020",
+      "data": "2020-03-24",
+      "godzina": "11:28",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu ENEA S.A. w dniu 19 marca 2020 roku",
+      "url": "https://ir.enea.pl/pr/493369/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-enea-s-a-w-dniu-19-marca-2020-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=310&pageLimit=10"
+    },
+    {
+      "numer": "13/2020",
+      "data": "2020-03-20",
+      "godzina": "13:16",
+      "tytul": "Zmiany w składzie Rady Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/492690/zmiany-w-skladzie-rady-nadzorczej-enea-s-a-2020-03-20",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=310&pageLimit=10"
+    },
+    {
+      "numer": "12/2020",
+      "data": "2020-03-19",
+      "godzina": "22:59",
+      "tytul": "Potwierdzenie oceny ratingowej ENEA S.A. przez Fitch Ratings",
+      "url": "https://ir.enea.pl/pr/492557/potwierdzenie-oceny-ratingowej-enea-s-a-przez-fitch-ratings-2020-03-19",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=310&pageLimit=10"
+    },
+    {
+      "numer": "11/2020",
+      "data": "2020-03-19",
+      "godzina": "17:55",
+      "tytul": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie ENEA S.A. w dniu 19 marca 2020 roku",
+      "url": "https://ir.enea.pl/pr/492390/tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-enea-s-a-w-dniu-19-marca-2020-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=320&pageLimit=10"
+    },
+    {
+      "numer": "10/2020",
+      "data": "2020-03-06",
+      "godzina": "15:05",
+      "tytul": "Zmiana terminu publikacji jednostkowego i skonsolidowanego raportu rocznego za 2019 rok",
+      "url": "https://ir.enea.pl/pr/489703/zmiana-terminu-publikacji-jednostkowego-i-skonsolidowanego-raportu-rocznego-za-2019-rok",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=320&pageLimit=10"
+    },
+    {
+      "numer": "9/2020",
+      "data": "2020-02-21",
+      "godzina": "14:24",
+      "tytul": "Zawarcie przez ENEA Wytwarzanie Sp. z o.o. ugody pozasądowej w związku ze sporem sądowym dotyczącym nabycia udziałów spółki Eco-Power Sp. z o.o.",
+      "url": "https://ir.enea.pl/pr/486601/zawarcie-przez-enea-wytwarzanie-sp-z-o-o-ugody-pozasadowej-w-zwiazku-ze-sporem-sadowym-dotyczacym-nabycia-udzialow-spolki-eco-power-sp-z-o-o",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=320&pageLimit=10"
+    },
+    {
+      "numer": "8/2020",
+      "data": "2020-02-21",
+      "godzina": "12:49",
+      "tytul": "Projekty uchwał Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. zwołanego na dzień 19 marca 2020 roku",
+      "url": "https://ir.enea.pl/pr/486554/projekty-uchwal-nadzwyczajnego-walnego-zgromadzenia-enea-s-a-zwolanego-na-dzien-19-marca-2020-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=320&pageLimit=10"
+    },
+    {
+      "numer": "7/2020",
+      "data": "2020-02-21",
+      "godzina": "12:46",
+      "tytul": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. na dzień 19 marca 2020 roku",
+      "url": "https://ir.enea.pl/pr/486556/zwolanie-nadzwyczajnego-walnego-zgromadzenia-enea-s-a-na-dzien-19-marca-2020-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=320&pageLimit=10"
+    },
+    {
+      "numer": "6/2020",
+      "data": "2020-02-14",
+      "godzina": "20:17",
+      "tytul": "Informacja o odpisie aktualizującym wartość posiadanego pakietu akcji w Polskiej Grupie Górniczej S.A.",
+      "url": "https://ir.enea.pl/pr/485527/informacja-o-odpisie-aktualizujacym-wartosc-posiadanego-pakietu-akcji-w-polskiej-grupie-gorniczej-s-a",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=320&pageLimit=10"
+    },
+    {
+      "numer": "5/2020",
+      "data": "2020-02-14",
+      "godzina": "19:57",
+      "tytul": "Zawieszenie prac w ramach projektu Ostrołęka C",
+      "url": "https://ir.enea.pl/pr/485525/zawieszenie-prac-w-ramach-projektu-ostroleka-c",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=320&pageLimit=10"
+    },
+    {
+      "numer": "4/2020",
+      "data": "2020-02-13",
+      "godzina": "20:58",
+      "tytul": "Zawarcie porozumienia w sprawie zawieszenia finasowania projektu Ostrołęka C",
+      "url": "https://ir.enea.pl/pr/485285/zawarcie-porozumienia-w-sprawie-zawieszenia-finasowania-projektu-ostroleka-c",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=320&pageLimit=10"
+    },
+    {
+      "numer": "3/2020",
+      "data": "2020-02-06",
+      "godzina": "19:07",
+      "tytul": "Informacja o rezygnacji z pełnienia funkcji w Radzie Nadzorczej ENEA S.A.",
+      "url": "https://ir.enea.pl/pr/484034/informacja-o-rezygnacji-z-pelnienia-funkcji-w-radzie-nadzorczej-enea-s-a-2020-02-06",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=320&pageLimit=10"
+    },
+    {
+      "numer": "2/2020",
+      "data": "2020-02-03",
+      "godzina": "19:53",
+      "tytul": "Powołanie Członka Rady Nadzorczej dokonane przez Ministra Aktywów Państwowych",
+      "url": "https://ir.enea.pl/pr/483305/powolanie-czlonka-rady-nadzorczej-dokonane-przez-ministra-aktywow-panstwowych",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=320&pageLimit=10"
+    },
+    {
+      "numer": "1/2020",
+      "data": "2020-01-24",
+      "godzina": "13:27",
+      "tytul": "Terminy przekazywania raportów okresowych w 2020 roku",
+      "url": "https://ir.enea.pl/pr/481690/terminy-przekazywania-raportow-okresowych-w-2020-roku",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=330&pageLimit=10"
+    },
+    {
+      "numer": "36/2019/K",
+      "data": "2020-01-14",
+      "godzina": "18:52",
+      "tytul": "Uzupełnienie informacji w zakresie wybranych definicji alternatywnych pomiarów wyników użytych w raporcie bieżącym nr 36/2019",
+      "url": "https://ir.enea.pl/pr/480065/uzupelnienie-informacji-w-zakresie-wybranych-definicji-alternatywnych-pomiarow-wynikow-uzytych-w-raporcie-biezacym-nr-36-2019",
+      "source_page": "https://ir.enea.pl/lista-raportow/kategoria/3611/raporty-bie-ce?offset=330&pageLimit=10"
+    }
+  ]
+}

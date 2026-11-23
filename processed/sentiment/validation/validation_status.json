@@ -1,9 +1,21 @@
 {
   "status": "pending_review",
-  "calibration_pool": 0,
-  "holdout_pool": 0,
-  "holdout_size": 0,
+  "calibration_pool": 108,
+  "holdout_pool": 290,
+  "holdout_size": 100,
+  "pool_origin": "automatic_topic_screen",
+  "holdout_by_ticker": {
+    "TPE": 11,
+    "ENA": 13,
+    "UNT": 16,
+    "PKN": 15,
+    "JSW": 15,
+    "PGE": 13,
+    "ZEP": 17
+  },
   "lexicon_version": "investment-pl-0.1",
   "neutral_cutoff": null,
-  "holdout_metrics": []
+  "holdout_metrics": [],
+  "reviewed_calibration": 0,
+  "reviewed_holdout": 0
 }

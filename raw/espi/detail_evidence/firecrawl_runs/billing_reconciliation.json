@@ -1,0 +1,25 @@
+{
+  "initial": {
+    "remainingCredits": 7999,
+    "billingPeriodStart": "2026-10-24T13:30:07.560Z",
+    "billingPeriodEnd": "2026-11-24T13:30:07.560Z"
+  },
+  "final": {
+    "remainingCredits": 7095,
+    "billingPeriodStart": "2026-10-24T13:30:07.560Z",
+    "billingPeriodEnd": "2026-11-24T13:30:07.560Z"
+  },
+  "single_credits": 42,
+  "batch_credits": 862,
+  "total_job_credits": 904,
+  "batch_statuses": [
+    "cancelled",
+    "cancelled",
+    "cancelled",
+    "cancelled",
+    "cancelled",
+    "cancelled",
+    "cancelled"
+  ],
+  "account_delta": 904
+}

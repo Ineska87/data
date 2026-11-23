@@ -1,0 +1,374 @@
+[
+  {
+    "ticker": "PKN",
+    "year": 2020,
+    "archive": "raw/espi/archivemd_backup/orlen_biezace_1999-2026.md",
+    "last": {
+      "report_number": "65/2020",
+      "publication_date": "2020-12-22",
+      "listing_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace?page=18",
+      "report_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace/2020/04/Raport-biezacy-nr-652020"
+    },
+    "first_next_year": {
+      "report_number": "1/2021",
+      "publication_date": "2021-01-29",
+      "listing_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace?page=18",
+      "report_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace/2021/01/Raport-biezacy-nr-12021"
+    },
+    "missing_numbers": [],
+    "gpw_last": {
+      "report_number": "65/2020",
+      "publication_date": "2020-12-22",
+      "publication_time_exact": "23:15:15",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=365958"
+    },
+    "gpw_first_next_year": {
+      "report_number": "1/2021",
+      "publication_date": "2021-01-29",
+      "publication_time_exact": "14:06:39",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=368265"
+    },
+    "gpw_missing_numbers": []
+  },
+  {
+    "ticker": "PKN",
+    "year": 2021,
+    "archive": "raw/espi/archivemd_backup/orlen_biezace_1999-2026.md",
+    "last": {
+      "report_number": "54/2021",
+      "publication_date": "2021-12-29",
+      "listing_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace?page=16",
+      "report_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace/2021/03/Raport-biezacy-nr-54-2021"
+    },
+    "first_next_year": {
+      "report_number": "1/2022",
+      "publication_date": "2022-01-12",
+      "listing_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace?page=16",
+      "report_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace/2022/01/Raport-biezacy-nr-1-2022"
+    },
+    "missing_numbers": [],
+    "gpw_last": {
+      "report_number": "54/2021",
+      "publication_date": "2021-12-29",
+      "publication_time_exact": "14:21:06",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=388421"
+    },
+    "gpw_first_next_year": {
+      "report_number": "1/2022",
+      "publication_date": "2022-01-12",
+      "publication_time_exact": "10:54:28",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=389112"
+    },
+    "gpw_missing_numbers": []
+  },
+  {
+    "ticker": "PKN",
+    "year": 2022,
+    "archive": "raw/espi/archivemd_backup/orlen_biezace_1999-2026.md",
+    "last": {
+      "report_number": "92/2022",
+      "publication_date": "2022-12-30",
+      "listing_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace?page=11",
+      "report_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace/2022/04/Raport-biezacy-nr-92-2022"
+    },
+    "first_next_year": {
+      "report_number": "1/2023",
+      "publication_date": "2023-01-11",
+      "listing_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace?page=11",
+      "report_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace/2023/01/Raport-biezacy-nr-1-2023"
+    },
+    "missing_numbers": [],
+    "gpw_last": {
+      "report_number": "92/2022",
+      "publication_date": "2022-12-30",
+      "publication_time_exact": "14:48:33",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=409611"
+    },
+    "gpw_first_next_year": {
+      "report_number": "1/2023",
+      "publication_date": "2023-01-11",
+      "publication_time_exact": "17:59:44",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=410197"
+    },
+    "gpw_missing_numbers": []
+  },
+  {
+    "ticker": "PKN",
+    "year": 2023,
+    "archive": "raw/espi/archivemd_backup/orlen_biezace_1999-2026.md",
+    "last": {
+      "report_number": "49/2023",
+      "publication_date": "2023-12-13",
+      "listing_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace?page=9",
+      "report_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace/2023/04/Raport-biezacy-nr-49-2023"
+    },
+    "first_next_year": {
+      "report_number": "1/2024",
+      "publication_date": "2024-01-11",
+      "listing_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace?page=9",
+      "report_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace/2024/01/Raport-biezacy-nr-1-2024"
+    },
+    "missing_numbers": [],
+    "gpw_last": {
+      "report_number": "49/2023",
+      "publication_date": "2023-12-13",
+      "publication_time_exact": "19:17:55",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=432383"
+    },
+    "gpw_first_next_year": {
+      "report_number": "1/2024",
+      "publication_date": "2024-01-11",
+      "publication_time_exact": "18:16:26",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=433821"
+    },
+    "gpw_missing_numbers": []
+  },
+  {
+    "ticker": "PKN",
+    "year": 2024,
+    "archive": "raw/espi/archivemd_backup/orlen_biezace_1999-2026.md",
+    "last": {
+      "report_number": "64/2024",
+      "publication_date": "2024-12-11",
+      "listing_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace?page=5",
+      "report_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace/2024/04/Raport-biezacy-nr-64-2024"
+    },
+    "first_next_year": {
+      "report_number": "1/2025",
+      "publication_date": "2025-01-09",
+      "listing_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace?page=5",
+      "report_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace/2025/01/Raport-biezacy-nr-1-2025"
+    },
+    "missing_numbers": [],
+    "gpw_last": {
+      "report_number": "64/2024",
+      "publication_date": "2024-12-11",
+      "publication_time_exact": "07:53:45",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=456999"
+    },
+    "gpw_first_next_year": {
+      "report_number": "1/2025",
+      "publication_date": "2025-01-09",
+      "publication_time_exact": "10:33:58",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=459293"
+    },
+    "gpw_missing_numbers": []
+  },
+  {
+    "ticker": "PKN",
+    "year": 2025,
+    "archive": "raw/espi/archivemd_backup/orlen_biezace_1999-2026.md",
+    "last": {
+      "report_number": "72/2025",
+      "publication_date": "2025-12-31",
+      "listing_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace?page=2",
+      "report_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace/2025/04/Raport-biezacy-nr-72-2025"
+    },
+    "first_next_year": {
+      "report_number": "1/2026",
+      "publication_date": "2026-02-02",
+      "listing_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace?page=2",
+      "report_url": "https://www.orlen.pl/pl/relacje-inwestorskie/raporty-i-publikacje/raporty-biezace/2026/01/Raport-biezacy-nr-1-2026"
+    },
+    "missing_numbers": [],
+    "gpw_last": {
+      "report_number": "72/2025",
+      "publication_date": "2025-12-31",
+      "publication_time_exact": "11:57:41",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=479474"
+    },
+    "gpw_first_next_year": {
+      "report_number": "1/2026",
+      "publication_date": "2026-02-02",
+      "publication_time_exact": "20:28:09",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=481344"
+    },
+    "gpw_missing_numbers": []
+  },
+  {
+    "ticker": "PGE",
+    "year": 2020,
+    "archive": "raw/espi/archivemd_backup/pge_raporty_biezace_2009-2026.md",
+    "last": {
+      "report_number": "36/2020",
+      "publication_date": "2020-12-17",
+      "listing_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=46",
+      "report_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/publikacja-wstepnych-wynikow-aukcji-glownej-rynku-mocy-na-rok-2025"
+    },
+    "first_next_year": {
+      "report_number": "1/2021",
+      "publication_date": "2021-01-07",
+      "listing_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=46",
+      "report_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/terminy-przekazywania-raportow-okresowych-w-2021-roku"
+    },
+    "missing_numbers": [],
+    "gpw_last": {
+      "report_number": "36/2020",
+      "publication_date": "2020-12-17",
+      "publication_time_exact": "17:50:35",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=365659"
+    },
+    "gpw_first_next_year": {
+      "report_number": "1/2021",
+      "publication_date": "2021-01-07",
+      "publication_time_exact": "16:07:02",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=366583"
+    },
+    "gpw_missing_numbers": []
+  },
+  {
+    "ticker": "PGE",
+    "year": 2021,
+    "archive": "raw/espi/archivemd_backup/pge_raporty_biezace_2009-2026.md",
+    "last": {
+      "report_number": "37/2021",
+      "publication_date": "2021-12-21",
+      "listing_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=40",
+      "report_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/aktualizacja-informacji-dotyczacej-zlozenia-wstepnej-oferty-niewiazacej-nabycia-udzialow-w-aktywach-grupy-fortum"
+    },
+    "first_next_year": {
+      "report_number": "1/2022",
+      "publication_date": "2022-01-18",
+      "listing_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=40",
+      "report_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ujawnienie-informacji-opoznionej-decyzja-zarzadu-pge-w-sprawie-rozpoczecia-procesu-dokapitalizowania-spolki-w-drodze-emisji-akcji"
+    },
+    "missing_numbers": [],
+    "gpw_last": {
+      "report_number": "37/2021",
+      "publication_date": "2021-12-21",
+      "publication_time_exact": "18:05:01",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=388142"
+    },
+    "gpw_first_next_year": {
+      "report_number": "1/2022",
+      "publication_date": "2022-01-18",
+      "publication_time_exact": "17:35:02",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=389509"
+    },
+    "gpw_missing_numbers": []
+  },
+  {
+    "ticker": "PGE",
+    "year": 2022,
+    "archive": "raw/espi/archivemd_backup/pge_raporty_biezace_2009-2026.md",
+    "last": {
+      "report_number": "61/2022",
+      "publication_date": "2022-12-28",
+      "listing_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=30",
+      "report_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-przedwstepnej-umowy-nabycia-100-udzialow-pkpe-holding"
+    },
+    "first_next_year": {
+      "report_number": "1/2023",
+      "publication_date": "2023-01-04",
+      "listing_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=30",
+      "report_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/powolanie-wiceprezesa-zarzadu-ds.-wsparcia-i-rozwoju"
+    },
+    "missing_numbers": [],
+    "gpw_last": {
+      "report_number": "61/2022",
+      "publication_date": "2022-12-28",
+      "publication_time_exact": "13:17:37",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=409478"
+    },
+    "gpw_first_next_year": {
+      "report_number": "1/2023",
+      "publication_date": "2023-01-04",
+      "publication_time_exact": "19:45:45",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=409889"
+    },
+    "gpw_missing_numbers": []
+  },
+  {
+    "ticker": "PGE",
+    "year": 2023,
+    "archive": "raw/espi/archivemd_backup/pge_raporty_biezace_2009-2026.md",
+    "last": {
+      "report_number": "46/2023",
+      "publication_date": "2023-12-29",
+      "listing_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=22",
+      "report_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekty-uchwal-na-nadzwyczajne-walne-zgromadzenie-spolki-pge-polska-grupa-energetyczna-s.a14"
+    },
+    "first_next_year": {
+      "report_number": "1/2024",
+      "publication_date": "2024-01-12",
+      "listing_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=22",
+      "report_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/terminy-przekazywania-raportow-okresowych-w-2024-roku"
+    },
+    "missing_numbers": [],
+    "gpw_last": {
+      "report_number": "46/2023",
+      "publication_date": "2023-12-29",
+      "publication_time_exact": "21:09:50",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=433224"
+    },
+    "gpw_first_next_year": {
+      "report_number": "1/2024",
+      "publication_date": "2024-01-12",
+      "publication_time_exact": "10:27:47",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=433840"
+    },
+    "gpw_missing_numbers": []
+  },
+  {
+    "ticker": "PGE",
+    "year": 2024,
+    "archive": "raw/espi/archivemd_backup/pge_raporty_biezace_2009-2026.md",
+    "last": {
+      "report_number": "48/2024",
+      "publication_date": "2024-12-20",
+      "listing_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=14",
+      "report_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/terminy-przekazywania-raportow-okresowych-w-2025-roku"
+    },
+    "first_next_year": {
+      "report_number": "1/2025",
+      "publication_date": "2025-01-07",
+      "listing_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=14",
+      "report_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacja-o-rozpoczeciu-testow-na-utrate-wartosci-aktywow5"
+    },
+    "missing_numbers": [],
+    "gpw_last": {
+      "report_number": "48/2024",
+      "publication_date": "2024-12-20",
+      "publication_time_exact": "14:37:11",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=458590"
+    },
+    "gpw_first_next_year": {
+      "report_number": "1/2025",
+      "publication_date": "2025-01-07",
+      "publication_time_exact": "16:22:53",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=459202"
+    },
+    "gpw_missing_numbers": []
+  },
+  {
+    "ticker": "PGE",
+    "year": 2025,
+    "archive": "raw/espi/archivemd_backup/pge_raporty_biezace_2009-2026.md",
+    "last": {
+      "report_number": "52/2025",
+      "publication_date": "2025-12-30",
+      "listing_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=5",
+      "report_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekty-uchwal-na-nadzwyczajne-walne-zgromadzenie-spolki-pge-polska-grupa-energetyczna-s.a16"
+    },
+    "first_next_year": {
+      "report_number": "1/2026",
+      "publication_date": "2026-01-09",
+      "listing_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=5",
+      "report_url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/terminy-przekazywania-raportow-okresowych-w-2026-roku"
+    },
+    "missing_numbers": [],
+    "gpw_last": {
+      "report_number": "52/2025",
+      "publication_date": "2025-12-30",
+      "publication_time_exact": "14:41:11",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=479425"
+    },
+    "gpw_first_next_year": {
+      "report_number": "1/2026",
+      "publication_date": "2026-01-09",
+      "publication_time_exact": "16:09:39",
+      "archive_url": "https://www.gpw.pl/komunikat?geru_id=479881"
+    },
+    "gpw_missing_numbers": []
+  }
+]

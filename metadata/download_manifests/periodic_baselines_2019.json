@@ -1,0 +1,50 @@
+[
+  {
+    "report_id": "PKN-2019-Q3",
+    "filename": "PKN_2019_Q3_sprawozdanie.zip",
+    "source_url": "https://www.gpw.pl/komunikat?geru_id=340288",
+    "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2019/dokumenty/Sprawozdanie_3q2019.zip.coredownload.zip"
+  },
+  {
+    "report_id": "PKN-2019-AR",
+    "filename": "PKN_2019_AR_skonsolidowany.zip",
+    "source_url": "https://www.gpw.pl/komunikat?geru_id=348169",
+    "url": "https://www.orlen.pl/content/dam/internet/orlen/pl/pl/relacje-inwestorskie/raporty-i-publikacje/sprawozdania/2019/dokumenty/FY2019_Skonsolidowane.zip.coredownload.zip"
+  },
+  {
+    "report_id": "PGE-2019-Q3",
+    "filename": "PGE_2019_Q3_sprawozdanie.pdf",
+    "source_url": "https://www.gpw.pl/komunikat?geru_id=341232",
+    "url": "https://espiebi.pap.pl/espi/pl/reports/view/attachment/1_PGE_GK_Q3_2019_raport_finansowy.pdf,20191112_184115_0000436743,20191112"
+  },
+  {
+    "report_id": "PGE-2019-Q3",
+    "filename": "PGE_2019_Q3_sprawozdanie-zarzadu.pdf",
+    "source_url": "https://www.gpw.pl/komunikat?geru_id=341232",
+    "url": "https://www.gkpge.pl/content/download/9f1046957c4b0da130dbe289cc2a14c3/file/0e69fc9b39a52ae037adf994ef8ffac9.pdf?contentId=82231&inLanguage=pol-PL&version=2"
+  },
+  {
+    "report_id": "TPE-2019-Q3",
+    "filename": "TPE_2019_Q3_sprawozdanie.pdf",
+    "source_url": "https://www.gpw.pl/komunikat?geru_id=341304",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2019/iii-kwartal/rozszerzony-skonsolidowany-raport-kwartalny-za-iii-kwartal-2019r.ashx"
+  },
+  {
+    "report_id": "TPE-2019-AR",
+    "filename": "TPE_2019_AR_skonsolidowany.pdf",
+    "source_url": "https://www.gpw.pl/komunikat?geru_id=349131",
+    "url": "https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2019/roczny/skonsolidowany_raport_roczny_za-2019_r.ashx"
+  },
+  {
+    "report_id": "ENA-2019-Q3",
+    "filename": "ENA_2019_Q3_sprawozdanie.pdf",
+    "source_url": "https://www.gpw.pl/komunikat?geru_id=341744",
+    "url": "https://cdn-netpr.pl/file/mediakit/2023649/ae/rozszerzony_skonsolidowany_raport_kwartalny_grupy_kapitalowej_enea_za_iii_kwartal_2019_r_1_.pdf"
+  },
+  {
+    "report_id": "ENA-2019-Q3",
+    "filename": "ENA_2019_Q3_sprawozdanie-pozostale-informacje.pdf",
+    "source_url": "https://www.gpw.pl/komunikat?geru_id=341744",
+    "url": "https://cdn-netpr.pl/file/mediakit/2023648/2f/pozostale_informacje_do_rozszerzonego_skonsolidowanego_raportu_enea_s_a_za_trzeci_kwartal_2019_r_.pdf"
+  }
+]

@@ -14,13 +14,15 @@ Outputs → data/processed/analytical/
 from __future__ import annotations
 
 import json
+from collections import defaultdict
 from pathlib import Path
 
 import numpy as np
 import pandas as pd
 
-from data_paths import DATA_ROOT, EVENTS, LEGACY, load_study_scope
-from investment_sentiment import CORPUS, PASSAGE_SCORES, VALIDATION
+from data_paths import DATA_ROOT, EVENTS, LEGACY, METADATA, RAW, load_study_scope
+from investment_sentiment import CORPUS, PASSAGE_SCORES, VALIDATION, load_publications
+from publication_order import publication_clock, strictly_before
 
 ROOT = DATA_ROOT.parent
 PROC = LEGACY / "processed"
@@ -493,45 +495,141 @@ def legacy_main() -> None:
     print("done →", OUT, flush=True)
 
 
-def build_event_report_links(events: pd.DataFrame, passages: pd.DataFrame) -> pd.DataFrame:
+def edition_id(report_id):
+    return report_id[:-3] + "-H1" if report_id.endswith("-Q2") else report_id
+
+
+def periodic_releases():
+    publications = load_publications(METADATA / "report_publications.csv")
+    releases = defaultdict(dict)
+    for entry in publications.itertuples(index=False):
+        ticker, _, period = entry.report_id.split("-")
+        if period in {"Q1", "Q2", "H1", "Q3", "Q4", "AR"}:
+            canonical = edition_id(entry.report_id)
+            if canonical not in releases[ticker] or canonical == entry.report_id:
+                releases[ticker][canonical] = (entry.publication_date, publication_clock(entry.published_at))
+    return releases
+
+
+def temporal_evidence(report_id, report_day, report_clock, event_day, event_clock, releases):
+    prior = strictly_before(report_day, report_clock, event_day, event_clock)
+    newer, uncertain = [], []
+    if prior is True:
+        for canonical, (release_day, release_clock) in releases.items():
+            if canonical == edition_id(report_id):
+                continue
+            after_reference = strictly_before(report_day, report_clock, release_day, release_clock)
+            before_event = strictly_before(release_day, release_clock, event_day, event_clock)
+            if after_reference is True and before_event is True:
+                newer.append(canonical)
+            elif after_reference is not False and before_event is not False:
+                uncertain.append(canonical)
+    no_newer = False if newer else True if prior is True and not uncertain else None
+    return {
+        "report_precedes_espi": prior, "no_newer_periodic_report": no_newer,
+        "newer_periodic_report_ids": " | ".join(sorted(newer)),
+        "uncertain_periodic_report_ids": " | ".join(sorted(uncertain)),
+    }
+
+
+def preferred_release(candidates):
+    if candidates.empty:
+        return None
+    latest_day = candidates["publication_date"].max()
+    releases = candidates[candidates["publication_date"].eq(latest_day)].drop_duplicates(
+        ["report_id", "published_at"],
+    )
+    if len(releases) == 1:
+        return releases.iloc[0]
+    for release in releases.itertuples():
+        if all(strictly_before(latest_day, other.clock, latest_day, release.clock) is True
+               for other in releases.itertuples() if other.Index != release.Index):
+            return releases.loc[release.Index]
+    return None
+
+
+def build_event_report_links(events: pd.DataFrame, passages: pd.DataFrame, releases: dict) -> pd.DataFrame:
     """Link to a verified, earlier publication about the same issuer and project."""
     columns = ["event_id", "link_status", "report_id", "publication_date", "published_at",
-               "publication_source_url", "n_passages", "n_words", "n_positive", "n_negative", "tone_per_100_words"]
+               "publication_source_url", "report_precedes_espi", "no_newer_periodic_report",
+               "newer_periodic_report_ids", "uncertain_periodic_report_ids",
+               "n_passages", "n_words", "n_positive", "n_negative", "tone_per_100_words"]
     eligible = passages[passages["publication_date"].ne("") & passages["n_words"].gt(0)].copy()
-    eligible["report_day"] = pd.to_datetime(eligible["publication_date"])
-    eligible["publication_time"] = pd.to_datetime(eligible["published_at"], utc=True, errors="coerce", format="mixed")
+    eligible["clock"] = eligible["published_at"].fillna("").map(publication_clock)
     rows = []
     for event in events.itertuples(index=False):
         row = {"event_id": event.event_id, "link_status": "no_earlier_reviewed_report"}
         candidates = eligible[eligible["ticker"].eq(event.ticker) & eligible["project_id"].eq(event.project_id)]
-        event_day = pd.Timestamp(event.event_date).normalize()
-        earlier = candidates["report_day"].lt(event_day)
-        if pd.notna(event.event_datetime):
-            event_time = pd.Timestamp(event.event_datetime)
-            if event_time.tzinfo is None:
-                event_time = event_time.tz_localize("Europe/Warsaw")
-            earlier |= candidates["report_day"].eq(event_day) & candidates["publication_time"].lt(event_time)
-        candidates = candidates.loc[earlier]
-        if not candidates.empty:
-            latest_day = candidates[candidates["report_day"].eq(candidates["report_day"].max())]
-            reports = latest_day.drop_duplicates("report_id")
-            if len(reports) > 1 and reports["publication_time"].notna().all():
-                reports = reports[reports["publication_time"].eq(reports["publication_time"].max())]
-            if len(reports) == 1:
-                report = reports.iloc[0]
-                spans = latest_day[latest_day["report_id"].eq(report["report_id"])]
-                count = spans[["n_words", "n_positive", "n_negative"]].sum()
-                row.update({
-                    "link_status": "linked", "report_id": report["report_id"],
-                    "publication_date": report["publication_date"], "published_at": report["published_at"],
-                    "publication_source_url": report["publication_source_url"], "n_passages": len(spans),
-                    **count.to_dict(),
-                    "tone_per_100_words": 100 * (count["n_positive"] - count["n_negative"]) / count["n_words"],
-                })
+        orders = [
+            strictly_before(item.publication_date, item.clock, event.event_date, event.publication_time)
+            for item in candidates.itertuples(index=False)
+        ]
+        earlier_reports = candidates.loc[[value is True for value in orders]]
+        report = preferred_release(earlier_reports)
+        if report is None and not earlier_reports.empty:
+            row["link_status"] = "ambiguous_publications"
+        elif report is None and None in orders:
+            row["link_status"] = "publication_order_unconfirmed"
+        if report is not None:
+            timing = temporal_evidence(report["report_id"], report["publication_date"], report["clock"],
+                                       event.event_date, event.publication_time, releases.get(event.ticker, {}))
+            if timing["no_newer_periodic_report"] is True:
+                status = "linked"
+            elif timing["no_newer_periodic_report"] is False:
+                status = "newer_periodic_report"
             else:
-                row["link_status"] = "ambiguous_publications"
+                status = "publication_order_unconfirmed"
+            spans = earlier_reports[
+                earlier_reports["report_id"].eq(report["report_id"])
+                & earlier_reports["publication_date"].eq(report["publication_date"])
+                & earlier_reports["published_at"].eq(report["published_at"])
+            ]
+            count = spans[["n_words", "n_positive", "n_negative"]].sum()
+            row.update({
+                "link_status": status, "report_id": report["report_id"],
+                "publication_date": report["publication_date"], "published_at": report["published_at"],
+                "publication_source_url": report["publication_source_url"], "n_passages": len(spans),
+                **timing, **count.to_dict(),
+                "tone_per_100_words": 100 * (count["n_positive"] - count["n_negative"]) / count["n_words"],
+            })
         rows.append(row)
     return pd.DataFrame(rows, columns=columns)
+
+
+def open_catalog_issues(path, scope):
+    issues = pd.read_csv(path, dtype=str, keep_default_na=False)
+    start, end = map(pd.Timestamp, (scope["period"]["start"], scope["period"]["end"]))
+    day = pd.to_datetime(issues["data_pub"], errors="coerce", format="mixed")
+    number_year = pd.to_numeric(issues["report_number"].str.extract(r"/(\d{4})", expand=False), errors="coerce")
+    within = day.between(start, end) | (day.isna() & number_year.between(start.year, end.year))
+    active = issues["catalog_issue"].ne("") & ~issues["catalog_issue"].str.startswith(("superseded", "closed", "resolved"))
+    return issues.loc[within & active & issues["ticker"].isin(scope["tickers"])]
+
+
+def audit_candidate_references(releases, queue):
+    path = RAW / "reports" / "publication_archive" / "event_periodic_references.csv"
+    references = pd.read_csv(path, dtype=str, keep_default_na=False)
+    clocks = queue.set_index("event_id")
+    rows = []
+    for row in references.itertuples(index=False):
+        event = clocks.loc[row.event_id]
+        issuer_releases = releases.get(event.ticker, {})
+        timing = {
+            "report_precedes_espi": None, "no_newer_periodic_report": None,
+            "newer_periodic_report_ids": "", "uncertain_periodic_report_ids": "",
+        }
+        matches = False
+        if row.reference_report_id and row.report_publication_date:
+            stored = (row.report_publication_date, publication_clock(row.report_published_at))
+            matches = event.ticker == row.ticker and issuer_releases.get(edition_id(row.reference_report_id)) == stored
+            if matches:
+                timing = temporal_evidence(row.reference_report_id, *stored, event.event_date,
+                                           event.publication_time, issuer_releases)
+        rows.append({"event_id": row.event_id, "reference_report_id": row.reference_report_id,
+                     "reference_matches_publication_registry": matches, **timing})
+    audit = pd.DataFrame(rows)
+    audit.to_csv(CORPUS / "candidate_report_chronology.csv", index=False, encoding="utf-8-sig")
+    return audit
 
 
 def bootstrap_tone_model(analysis: pd.DataFrame, replicates: int = 1000) -> dict:
@@ -584,7 +682,8 @@ def build_current_analysis() -> None:
     start, end = map(pd.Timestamp, (scope["period"]["start"], scope["period"]["end"]))
     events = pd.read_parquet(EVENTS / f"investment_events_{start.year}_{end.year}.parquet")
     passages = pd.read_parquet(PASSAGE_SCORES)
-    links = build_event_report_links(events, passages)
+    releases = periodic_releases()
+    links = build_event_report_links(events, passages, releases)
     links.to_parquet(CORPUS / "event_report_links.parquet", index=False)
     cars = pd.read_parquet(DATA_ROOT / "processed" / "event_study" / "car_results.parquet")
     cars = cars[cars["window"].eq("[-1+1]")]
@@ -593,7 +692,11 @@ def build_current_analysis() -> None:
         on="event_id", how="left", validate="one_to_many",
     )
     results.to_parquet(output / "investment_analysis.parquet", index=False)
-    queue = pd.read_csv(EVENTS / "espi_review_queue.csv", usecols=["review_status"])
+    queue = pd.read_csv(EVENTS / "espi_review_queue.csv", keep_default_na=False, usecols=[
+        "event_id", "ticker", "event_date", "publication_time", "review_status", "investment_candidate",
+    ])
+    issues = open_catalog_issues(EVENTS / "espi_catalog_issues.csv", scope)
+    chronology = audit_candidate_references(releases, queue)
     pending = int(queue["review_status"].eq("needs_review").sum())
     validation_path = VALIDATION / "validation_status.json"
     validation = json.loads(validation_path.read_text(encoding="utf-8")) if validation_path.exists() else {}
@@ -602,17 +705,38 @@ def build_current_analysis() -> None:
     complete = results[results["status"].eq("complete") & results["n_ar"].eq(3)]
     diagnostics = {
         "confirmed_events": len(events), "unreviewed_communications": pending,
+        "unreviewed_candidates": int((queue["review_status"].eq("needs_review") & queue["investment_candidate"]).sum()),
+        "open_catalog_issues_in_scope": len(issues),
+        "open_catalog_issue_counts": issues["catalog_issue"].value_counts().to_dict(),
         "events_with_linked_report": int(links["link_status"].eq("linked").sum()),
+        "reviewed_report_link_statuses": links["link_status"].value_counts().to_dict(),
         "events_with_complete_car": int(complete["event_id"].nunique()),
+        "undetermined_revision_events_with_car": int(
+            complete.loc[complete["revision_subgroup"].eq("undetermined"), "event_id"].nunique(),
+        ),
+        "candidate_reference_chronology": {
+            "candidates": len(chronology),
+            "references_matching_registry": int(chronology["reference_matches_publication_registry"].sum()),
+            "strictly_earlier": int(chronology["report_precedes_espi"].eq(True).sum()),
+            "no_newer_periodic_report": int(chronology["no_newer_periodic_report"].eq(True).sum()),
+            "newer_periodic_report_present": int(chronology["no_newer_periodic_report"].eq(False).sum()),
+            "order_unconfirmed": int(chronology["no_newer_periodic_report"].isna().sum()),
+        },
         "validation_status": validation.get("status", "pending_review"),
+        "sentiment_validation": validation,
         "models": {},
     }
     for scenario in ("baseline", "same_session"):
         selected = complete[complete["scenario"].eq(scenario)]
         for without_overlap in (False, True):
             sample = selected if not without_overlap else selected[selected["overlap"].eq(False)]
+            sample = sample[sample["link_status"].eq("linked") & sample["report_precedes_espi"].eq(True)
+                            & sample["no_newer_periodic_report"].eq(True)
+                            & ~sample["revision_subgroup"].eq("undetermined")]
             key = f"{scenario}_{'without_overlaps' if without_overlap else 'all'}"
-            if pending or diagnostics["validation_status"] != "evaluated":
+            if len(issues):
+                diagnostics["models"][key] = {"status": "blocked_catalog_issues", "n_open_issues": len(issues)}
+            elif pending or diagnostics["validation_status"] != "evaluated":
                 diagnostics["models"][key] = {
                     "status": "awaiting_screening_or_validation",
                     "n_available": len(sample.dropna(subset=["report_id", "adverse_revision", "tone_per_100_words"])),

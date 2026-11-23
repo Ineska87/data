@@ -1,0 +1,6587 @@
+PGE Polska Grupa 
+Energetyczna S.A. 
+Kwartalny raport finansowy za 
+okres 3 miesięcy 
+ 
+zakończony dnia 31 marca 2021 roku 
+zgodny z MSSF UE (w milionach złotych) 
+ 
+ 
+
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+2 z 47 
+SPIS TREŚCI 
+I. 
+SKRÓCONE ŚRÓDROCZNE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK PGE ZA OKRES 3 MIESIĘCY ZAKOŃCZONY 
+31 MARCA 2021 ROKU ZGODNE Z MSSF UE ............................................................................................................................... 4 
+SKONSOLIDOWANE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW ...................................................................................................... 4 
+SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ .............................................................................................................. 5 
+SKONSOLIDOWANE SPRAWOZDANIE ZE ZMIAN W KAPITAŁACH WŁASNYCH ......................................................................................... 6 
+SKONSOLIDOWANE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH ...................................................................................................... 7 
+INFORMACJE OGÓLNE, PODSTAWY SPORZĄDZENIA SPRAWOZDANIA FINANSOWEGO I INNE INFORMACJE OBJAŚNIAJĄCE ............... 8 
+1. 
+Informacje ogólne ....................................................................................................................................................................... 8 
+1.1 
+Informacje o jednostce dominującej ................................................................................................................................................................................ 8 
+1.2 
+Informacje o Grupie Kapitałowej PGE .............................................................................................................................................................................. 8 
+1.3 
+Skład Grupy Kapitałowej PGE ........................................................................................................................................................................................... 9 
+2. 
+Podstawa sporządzenia sprawozdania finansowego ............................................................................................................... 12 
+2.1 
+Oświadczenie o zgodności .............................................................................................................................................................................................. 12 
+2.2 
+Waluta prezentacji i waluta funkcjonalna ..................................................................................................................................................................... 12 
+2.3 
+Nowe standardy i interpretacje, które zostały opublikowane, a nie weszły jeszcze w życie ....................................................................................... 12 
+2.4 
+Profesjonalny osąd kierownictwa i szacunki .................................................................................................................................................................. 13 
+3. 
+Zmiana zasad rachunkowości i prezentacji danych .................................................................................................................. 13 
+4. 
+Hierarchia wartości godziwej .................................................................................................................................................... 13 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO ............................................................................ 15 
+NOTY OBJAŚNIAJĄCE DO SEGMENTÓW OPERACYJNYCH ........................................................................................................................ 15 
+5. 
+Informacje dotyczące segmentów działalności......................................................................................................................... 15 
+5.1 
+Informacje dotyczące segmentów branżowych ............................................................................................................................................................ 16 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z CAŁKOWITYCH DOCHODÓW ..................................................... 18 
+6. 
+Przychody i koszty ..................................................................................................................................................................... 18 
+6.1 
+Przychody ze sprzedaży ................................................................................................................................................................................................... 18 
+6.2 
+Koszty w układzie rodzajowym i kalkulacyjnym ............................................................................................................................................................ 19 
+6.3 
+Pozostałe przychody i koszty operacyjne ....................................................................................................................................................................... 20 
+6.4 
+Przychody i koszty finansowe ......................................................................................................................................................................................... 20 
+6.5 
+Udział w wyniku jednostek wykazywanych metodą praw własności........................................................................................................................... 21 
+7. 
+Odpisy aktualizujące wartość aktywów .................................................................................................................................... 21 
+8. 
+Podatek dochodowy ................................................................................................................................................................. 21 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z SYTUACJI FINANSOWEJ.............................................................. 22 
+9. 
+Istotne transakcje nabycia i sprzedaży rzeczowych aktywów trwałych, wartości niematerialnych oraz praw do użytkowania 
+składników aktywów ................................................................................................................................................................ 22 
+10. 
+Przyszłe zobowiązania inwestycyjne ......................................................................................................................................... 22 
+11. 
+Udziały i akcje wykazywane metodą praw własności .............................................................................................................. 22 
+12. 
+Podatek odroczony w sprawozdaniu z sytuacji finansowej ...................................................................................................... 23 
+12.1 
+Aktywa z tytułu podatku odroczonego .......................................................................................................................................................................... 23 
+12.2 
+Zobowiązania z tytułu podatku odroczonego ................................................................................................................................................................ 24 
+13. 
+Zapasy ....................................................................................................................................................................................... 24 
+14. 
+Uprawnienia do emisji CO2 na własne potrzeby ....................................................................................................................... 24 
+15. 
+Pozostałe aktywa krótko i długoterminowe ............................................................................................................................. 25 
+15.1 
+Pozostałe aktywa długoterminowe ................................................................................................................................................................................ 25 
+15.2 
+Pozostałe aktywa krótkoterminowe .............................................................................................................................................................................. 25 
+16. 
+Wybrane aktywa finansowe ..................................................................................................................................................... 26 
+16.1 
+Należności z tytułu dostaw i usług i pozostałe należności finansowe ........................................................................................................................... 26 
+16.2 
+Środki pieniężne i ich ekwiwalenty ................................................................................................................................................................................. 26 
+17. 
+Instrumenty pochodne i inne aktywa wyceniane w wartości godziwej przez wynik ............................................................... 27 
+18. 
+Kapitały własne ......................................................................................................................................................................... 28 
+18.1 
+Kapitał podstawowy ....................................................................................................................................................................................................... 28 
+18.2 
+Kapitał z wyceny instrumentów finansowych ................................................................................................................................................................ 29 
+18.3 
+Dywidendy wypłacone i zaproponowane do zapłaty .................................................................................................................................................... 29 
+19. 
+Rezerwy ..................................................................................................................................................................................... 29 
+19.1 
+Rezerwa na świadczenia pracownicze ........................................................................................................................................................................... 30 
+19.2 
+Rezerwa na koszty rekultywacji ...................................................................................................................................................................................... 30 
+19.3 
+Rezerwa na koszty emisji CO2 ......................................................................................................................................................................................... 30 
+19.4 
+Rezerwa na prawa majątkowe przeznaczone do umorzenia ....................................................................................................................................... 30 
+19.5 
+Rezerwa na roszczenia z tytułu bezumownego korzystania z nieruchomości.............................................................................................................. 30 
+19.6 
+Rozliczenia z prosumentami ........................................................................................................................................................................................... 31 
+
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+3 z 47 
+20. 
+Zobowiązania finansowe .......................................................................................................................................................... 31 
+20.1 
+Kredyty bankowe, pożyczki, obligacje i leasing .............................................................................................................................................................. 31 
+20.2 
+Zobowiązania z tytułu dostaw i usług i pozostałe zobowiązania finansowe ............................................................................................................... 33 
+21. 
+Pozostałe zobowiązania niefinansowe ..................................................................................................................................... 33 
+21.1 
+Pozostałe zobowiązania niefinansowe długoterminowe .............................................................................................................................................. 33 
+21.2 
+Pozostałe zobowiązania niefinansowe krótkoterminowe............................................................................................................................................. 33 
+POZOSTAŁE NOTY OBJAŚNIAJĄCE ............................................................................................................................................................ 34 
+22. 
+Zobowiązania i należności warunkowe. Sprawy sądowe ......................................................................................................... 34 
+22.1 
+Zobowiązania warunkowe.............................................................................................................................................................................................. 34 
+22.2 
+Pozostałe istotne kwestie związane ze zobowiązaniami warunkowymi ...................................................................................................................... 34 
+22.3 
+Należności warunkowe ................................................................................................................................................................................................... 34 
+22.4 
+Inne sprawy sądowe i sporne ......................................................................................................................................................................................... 35 
+23. 
+Rozliczenia podatkowe ............................................................................................................................................................. 36 
+24. 
+Informacja o podmiotach powiązanych.................................................................................................................................... 38 
+24.1 
+Jednostki stowarzyszone i współkontrolowane ............................................................................................................................................................. 38 
+24.2 
+Spółki zależne od Skarbu Państwa.................................................................................................................................................................................. 38 
+24.3 
+Wynagrodzenie kadry kierowniczej................................................................................................................................................................................ 38 
+25. 
+Istotne zdarzenia oraz zdarzenia po zakończeniu okresu sprawozdawczego ........................................................................... 39 
+25.1 
+Wpływ pandemii COVID-19 na działalność Grupy Kapitałowej PGE ............................................................................................................................ 39 
+25.2 
+Złożenie wstępnej oferty nabycia udziałów w aktywach Grupy Fortum ...................................................................................................................... 39 
+25.3 
+Podpisanie umowy inwestycyjnej z Ørsted dotyczącej projektu budowy morskich farm wiatrowych ....................................................................... 40 
+25.4 
+Skarga Czech przeciwko Polsce z tytułu przedłużenia koncesji dla dalszego funkcjonowania KWB Turów ............................................................... 40 
+25.5 
+Planowane przeniesienie aktywów węglowych do Narodowej Agencji Bezpieczeństwa Energetycznego ................................................................ 41 
+II. 
+KWARTALNA INFORMACJA FINANSOWA PGE POLSKA GRUPA ENERGETYCZNA S.A. ZA OKRES 3 MIESIĘCY ZAKOŃCZONY 
+31 MARCA 2021 ROKU ZGODNE Z MSSF UE ............................................................................................................................. 42 
+JEDNOSTKOWE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW ........................................................................................................... 42 
+JEDNOSTKOWE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ.................................................................................................................... 43 
+JEDNOSTKOWE SPRAWOZDANIE ZE ZMIAN W KAPITAŁACH WŁASNYCH .............................................................................................. 44 
+JEDNOSTKOWE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH ........................................................................................................... 45 
+1. 
+ZMIANA ZASAD RACHUNKOWOŚCI I PREZENTACJI DANYCH ......................................................................................................... 45 
+III. 
+ZATWIERDZENIE KWARTALNEGO RAPORTU FINANSOWEGO ................................................................................................. 46 
+Słownik pojęć i skrótów ............................................................................................................................................................................ 47 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+4 z 47 
+I. SKRÓCONE ŚRÓDROCZNE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK PGE 
+ZA OKRES 3 MIESIĘCY ZAKOŃCZONY 31 MARCA 2021 ROKU ZGODNE Z MSSF UE 
+SKONSOLIDOWANE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW 
+ 
+ 
+Okres zakończony 
+Okres zakończony 
+ 
+Nota 
+31 marca 2021 
+31 marca 2020 
+ 
+ 
+(niebadane) 
+(niebadane) 
+RACHUNEK ZYSKÓW I STRAT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRZYCHODY ZE SPRZEDAŻY 
+6.1 
+11.900 
+12.591 
+Koszt własny sprzedaży 
+6.2 
+(10.158) 
+(11.282) 
+ZYSK BRUTTO ZE SPRZEDAŻY 
+ 
+1.742 
+1.309 
+Koszty sprzedaży i dystrybucji 
+6.2 
+(417) 
+(348) 
+Koszty ogólnego zarządu 
+6.2 
+(260) 
+(272) 
+Pozostałe przychody/koszty operacyjne netto 
+6.3 
+99 
+84 
+ZYSK Z DZIAŁALNOŚCI OPERACYJNEJ 
+ 
+1.164 
+773 
+Koszty finansowe netto, w tym: 
+6.4 
+(134) 
+(157) 
+ Przychody odsetkowe obliczone z zastosowaniem metody 
+ efektywnej stopy procentowej 
+ 
+8 
+11 
+Udział w zysku/(stracie) jednostek wykazywanych metodą praw własności 
+6.5 
+(6) 
+(7) 
+ZYSK/(STRATA) BRUTTO 
+ 
+1.024 
+609 
+Podatek dochodowy 
+8 
+(189) 
+(124) 
+ZYSK/(STRATA) NETTO ZA OKRES SPRAWOZDAWCZY 
+ 
+835 
+485 
+ 
+ 
+ 
+ 
+INNE CAŁKOWITE DOCHODY 
+ 
+ 
+ 
+Pozycje, które mogą w przyszłości zostać rozliczone z wynikiem: 
+ 
+ 
+ 
+Wycena dłużnych instrumentów finansowych 
+ 
+7 
+(11) 
+Wycena instrumentów zabezpieczających 
+ 
+83 
+185 
+Różnice kursowe z przeliczenia jednostek działających za granicą 
+ 
+1 
+5 
+Podatek odroczony 
+8 
+(18) 
+(33) 
+Pozycje, które nie będą mogły w przyszłości zostać rozliczone z wynikiem: 
+ 
+ 
+ 
+Zyski i straty aktuarialne z wyceny rezerw na świadczenia pracownicze 
+ 
+- 
+(30) 
+Podatek odroczony 
+8 
+- 
+6 
+INNE DOCHODY ZA OKRES SPRAWOZDAWCZY, NETTO 
+ 
+73 
+122 
+ 
+ 
+ 
+ 
+RAZEM CAŁKOWITE DOCHODY 
+ 
+908 
+607 
+ 
+ 
+ 
+ 
+ZYSK/(STRATA) NETTO PRZYPADAJĄCY/(A) NA: 
+ 
+ 
+ 
+– akcjonariuszy jednostki dominującej 
+ 
+808 
+432 
+– udziały niekontrolujące 
+ 
+27 
+53 
+ 
+ 
+ 
+ 
+CAŁKOWITE DOCHODY PRZYPADAJĄCE NA: 
+ 
+ 
+ 
+– akcjonariuszy jednostki dominującej 
+ 
+880 
+554 
+– udziały niekontrolujące 
+ 
+28 
+53 
+ 
+ 
+ 
+ 
+ZYSK/(STRATA) NETTO I ROZWODNIONY ZYSK/(STRATA) NETTO NA JEDNĄ AKCJĘ 
+PRZYPADAJĄCY AKCJONARIUSZOM JEDNOSTKI DOMINUJĄCEJ (W ZŁOTYCH) 
+ 
+0,43 
+0,23 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+5 z 47 
+SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ 
+ 
+ 
+Stan na dzień 
+Stan na dzień 
+ 
+Nota 
+31 marca 2021 
+(niebadane) 
+31 grudnia 2020 
+badane 
+AKTYWA TRWAŁE 
+ 
+ 
+ 
+Rzeczowe aktywa trwałe 
+ 
+61.170 
+61.741 
+Nieruchomości inwestycyjne 
+ 
+40 
+41 
+Wartości niematerialne 
+ 
+639 
+646 
+Prawa do użytkowania składników aktywów 
+ 
+1.271 
+1.309 
+Należności finansowe 
+16.1 
+206 
+191 
+Instrumenty pochodne i inne aktywa wyceniane w wartości godziwej przez wynik finansowy 
+17 
+170 
+132 
+Udziały i akcje oraz pozostałe instrumenty kapitałowe 
+ 
+64 
+57 
+Udziały i akcje wykazywane metodą praw własności 
+11 
+154 
+152 
+Pozostałe aktywa długoterminowe 
+ 
+812 
+839 
+Uprawnienia do emisji CO2 na własne potrzeby 
+14 
+41 
+39 
+Aktywa z tytułu podatku odroczonego 
+12.2 
+1.204 
+1.351 
+ 
+ 
+65.771 
+66.498 
+AKTYWA OBROTOWE 
+ 
+ 
+ 
+Zapasy 
+13 
+2.583 
+3.123 
+Uprawnienia do emisji CO2 na własne potrzeby 
+14 
+6.150 
+1.735 
+Należności z tytułu podatku dochodowego 
+ 
+4 
+8 
+Instrumenty pochodne i inne aktywa wyceniane w wartości godziwej przez wynik finansowy 
+17 
+371 
+423 
+Należności z tytułu dostaw i usług i pozostałe należności finansowe 
+16.1 
+4.874 
+4.812 
+Pozostałe aktywa krótkoterminowe 
+ 
+1.562 
+799 
+Środki pieniężne i ich ekwiwalenty 
+16.2 
+2.902 
+4.189 
+ 
+ 
+18.446 
+15.089 
+AKTYWA ZAKLASYFIKOWANE JAKO PRZEZNACZONE DO SPRZEDAŻY 
+ 
+6 
+7 
+SUMA AKTYWÓW 
+ 
+84.223 
+81.594 
+KAPITAŁ WŁASNY 
+ 
+ 
+ 
+Kapitał podstawowy 
+18.1 
+19.165 
+19.165 
+Kapitał zapasowy 
+ 
+18.410 
+18.410 
+Kapitał z wyceny instrumentów finansowych 
+18.2 
+58 
+(13) 
+Różnice kursowe z przeliczenia 
+ 
+6 
+5 
+Zyski zatrzymane 
+ 
+5.758 
+4.951 
+KAPITAŁ WŁASNY PRZYPISANY AKCJONARIUSZOM JEDNOSTKI DOMINUJĄCEJ 
+ 
+43.397 
+42.518 
+ 
+ 
+ 
+ 
+Kapitał własny przypadający udziałom niekontrolującym 
+ 
+856 
+983 
+RAZEM KAPITAŁ WŁASNY 
+ 
+44.253 
+43.501 
+ZOBOWIĄZANIA DŁUGOTERMINOWE 
+ 
+ 
+ 
+Rezerwy długoterminowe 
+19 
+11.270 
+11.207 
+Kredyty bankowe, pożyczki, obligacje i leasing 
+20.1 
+9.348 
+10.025 
+Instrumenty pochodne 
+17 
+229 
+385 
+Zobowiązania z tytułu odroczonego podatku dochodowego 
+12.2 
+363 
+345 
+Rozliczenia międzyokresowe przychodów i dotacje rządowe 
+ 
+592 
+600 
+Pozostałe zobowiązania finansowe 
+20.2 
+442 
+448 
+Pozostałe zobowiązania niefinansowe 
+21.1 
+63 
+65 
+ 
+ 
+22.307 
+23.075 
+ZOBOWIĄZANIA KRÓTKOTERMINOWE 
+ 
+ 
+ 
+Rezerwy krótkoterminowe 
+19 
+9.079 
+7.311 
+Kredyty bankowe, pożyczki, obligacje i leasing 
+20.1 
+2.127 
+1.384 
+Instrumenty pochodne 
+17 
+32 
+63 
+Zobowiązania z tytułu dostaw i usług i pozostałe zobowiązania finansowe 
+20.2 
+3.082 
+3.504 
+Zobowiązania z tytułu podatku dochodowego 
+ 
+300 
+476 
+Rozliczenia międzyokresowe przychodów i dotacje rządowe 
+ 
+77 
+77 
+Pozostałe zobowiązania niefinansowe 
+21.2 
+2.966 
+2.203 
+ 
+ 
+17.663 
+15.018 
+RAZEM ZOBOWIĄZANIA 
+ 
+39.970 
+38.093 
+SUMA KAPITAŁÓW I ZOBOWIĄZAŃ 
+ 
+84.223 
+81.594 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+6 z 47 
+SKONSOLIDOWANE SPRAWOZDANIE ZE ZMIAN W KAPITAŁACH WŁASNYCH 
+ 
+Kapitał 
+podstawowy 
+Kapitał 
+zapasowy 
+Kapitał 
+z wyceny 
+instrumentów 
+finansowych 
+Różnice 
+kursowe z 
+przeliczenia 
+Zyski 
+zatrzymane 
+Razem 
+Udziały 
+niekontrolujące 
+Razem 
+kapitał własny 
+Nota 
+18.1 
+ 
+18.2 
+ 
+ 
+ 
+ 
+ 
+1 STYCZNIA 2021 ROKU 
+19.165 
+18.410 
+(13) 
+5 
+4.951 
+42.518 
+983 
+43.501 
+Zysk netto za okres 
+sprawozdawczy 
+- 
+- 
+- 
+- 
+808 
+808 
+27 
+835 
+Inne całkowite dochody 
+- 
+- 
+71 
+1 
+- 
+72 
+1 
+73 
+CAŁKOWITE DOCHODY 
+- 
+- 
+71 
+1 
+808 
+880 
+28 
+908 
+Wyjście jednostki z GK (PGE EJ1) 
+- 
+- 
+- 
+- 
+- 
+- 
+(155) 
+(155) 
+Pozostałe zmiany 
+- 
+- 
+- 
+- 
+(1) 
+(1) 
+- 
+(1) 
+31 MARCA 2021 ROKU 
+19.165 
+18.410 
+58 
+6 
+5.758 
+43.397 
+856 
+44.253 
+ 
+ 
+ 
+Kapitał 
+podstawowy 
+Kapitał 
+zapasowy 
+Kapitał 
+z wyceny 
+instrumentów 
+finansowych 
+Różnice 
+kursowe z 
+przeliczenia 
+Zyski 
+zatrzymane 
+Razem 
+Udziały 
+niekontrolujące 
+Razem 
+kapitał własny 
+Nota 
+18.1 
+ 
+18.2 
+ 
+ 
+ 
+ 
+ 
+1 STYCZNIA 2020 ROKU 
+19.165 
+19.669 
+(323) 
+(1) 
+3.779 
+42.289 
+848 
+43.137 
+Zysk netto za okres 
+sprawozdawczy 
+- 
+- 
+- 
+- 
+432 
+432 
+53 
+485 
+Inne całkowite dochody 
+- 
+- 
+141 
+5 
+(24) 
+122 
+- 
+122 
+CAŁKOWITE DOCHODY 
+- 
+- 
+141 
+5 
+408 
+554 
+53 
+607 
+Pozostałe zmiany 
+- 
+- 
+- 
+- 
+(1) 
+(1) 
+- 
+(1) 
+31 MARCA 2020 ROKU 
+19.165 
+19.669 
+(182) 
+4 
+4.186 
+42.842 
+901 
+43.743 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+7 z 47 
+SKONSOLIDOWANE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH 
+ 
+Nota 
+Okres zakończony 
+31 marca 2021 
+(niebadane) 
+Okres zakończony 
+31 marca 2020 
+(niebadane) 
+PRZEPŁYWY ŚRODKÓW PIENIĘŻNYCH Z DZIAŁALNOŚCI OPERACYJNEJ 
+ 
+ 
+ 
+Zysk brutto 
+ 
+1.024 
+609 
+Podatek dochodowy zapłacony 
+ 
+(213) 
+(128) 
+ 
+ 
+ 
+ 
+Korekty o pozycje: 
+ 
+ 
+ 
+Udział w (zysku)/stracie jednostek wycenianych metodą praw własności 
+ 
+6 
+7 
+Amortyzacja, likwidacja oraz odpisy aktualizujące 
+ 
+1.042 
+996 
+Odsetki i dywidendy, netto 
+ 
+71 
+76 
+(Zysk)/strata na działalności inwestycyjnej 
+ 
+(58) 
+260 
+Zmiana stanu należności 
+ 
+(108) 
+(2.489) 
+Zmiana stanu zapasów 
+ 
+531 
+1.702 
+Zmiana stanu uprawnień do emisji CO2 na własne potrzeby 
+ 
+(4.417) 
+(1.888) 
+Zmiana stanu zobowiązań z wyjątkiem kredytów i pożyczek 
+ 
+733 
+(425) 
+Zmiana stanu pozostałych aktywów niefinansowych, rozliczeń międzyokresowych 
+ 
+(778) 
+(81) 
+Zmiana stanu rezerw 
+ 
+1.768 
+1.509 
+Pozostałe 
+ 
+1 
+70 
+ŚRODKI PIENIĘŻNE NETTO Z DZIAŁALNOŚCI OPERACYJNEJ 
+ 
+(398) 
+218 
+ 
+ 
+ 
+ 
+PRZEPŁYWY ŚRODKÓW PIENIĘŻNYCH Z DZIAŁALNOŚCI INWESTYCYJNEJ 
+ 
+ 
+ 
+Nabycie rzeczowych aktywów trwałych i wartości niematerialnych 
+ 
+(1.164) 
+(2.249) 
+Sprzedaż rzeczowych aktywów trwałych i wartości niematerialnych 
+ 
+10 
+- 
+Założenie lokat powyżej 3 m-cy 
+ 
+(8) 
+(20) 
+Rozwiązanie lokat powyżej 3 m-cy 
+ 
+- 
+10 
+Nabycie aktywów finansowych 
+ 
+(41) 
+(2) 
+Sprzedaż pozostałych aktywów finansowych po potrąceniu przekazanych środków 
+pieniężnych 
+ 
+361 
+- 
+Pozostałe 
+ 
+(3) 
+(2) 
+ŚRODKI PIENIĘŻNE NETTO Z DZIAŁALNOŚCI INWESTYCYJNEJ 
+ 
+(845) 
+(2.263) 
+ 
+ 
+ 
+ 
+PRZEPŁYWY ŚRODKÓW PIENIĘŻNYCH Z DZIAŁALNOŚCI FINANSOWEJ 
+ 
+ 
+ 
+Wpływy z tytułu zaciągnięcia pożyczek, kredytów 
+ 
+98 
+3.161 
+Spłata pożyczek, kredytów, leasingu 
+ 
+(50) 
+(343) 
+Zapłacone odsetki 
+ 
+(89) 
+(77) 
+Pozostałe 
+ 
+5 
+7 
+ŚRODKI PIENIĘŻNE NETTO Z DZIAŁALNOŚCI FINANSOWEJ 
+ 
+(36) 
+2.748 
+ 
+ 
+ 
+ 
+ZMIANA NETTO STANU ŚRODKÓW PIENIĘŻNYCH I ICH EKWIWALENTÓW 
+ 
+(1.279) 
+703 
+Różnice kursowe netto 
+ 
+(6) 
+16 
+ŚRODKI PIENIĘŻNE NA POCZĄTEK OKRESU 
+16.2 
+4.173 
+1.311 
+ŚRODKI PIENIĘŻNE NA KONIEC OKRESU 
+16.2 
+2.894 
+2.014 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+8 z 47 
+INFORMACJE OGÓLNE, PODSTAWY SPORZĄDZENIA SPRAWOZDANIA FINANSOWEGO 
+I INNE INFORMACJE OBJAŚNIAJĄCE 
+1. Informacje ogólne 
+1.1 
+Informacje o jednostce dominującej 
+PGE Polska Grupa Energetyczna S.A. została utworzona aktem notarialnym z dnia 2 sierpnia 1990 roku i zarejestrowana w Sądzie 
+Rejonowym w Warszawie, XVI Wydział Gospodarczy, w dniu 28 września 1990 roku. Spółka została wpisana do Krajowego Rejestru 
+Sądowego prowadzonego przez Sąd Rejonowy dla miasta st. Warszawy, XII Wydział Gospodarczy Krajowego Rejestru Sądowego, pod 
+numerem KRS 0000059307. Siedziba jednostki dominującej znajduje się w Warszawie przy ul. Mysiej 2. 
+W skład Zarządu Spółki na dzień 1 stycznia 2021 roku oraz na dzień 31 marca 2021 roku wchodzili: 
+ 
+Wojciech Dąbrowski – Prezes Zarządu, 
+ 
+Wanda Buk – Wiceprezes Zarządu, 
+ 
+Paweł Cioch – Wiceprezes Zarządu, 
+ 
+Paweł Strączyński – Wiceprezes Zarządu, 
+ 
+Paweł Śliwa – Wiceprezes Zarządu, 
+ 
+Ryszard Wasiłek – Wiceprezes Zarządu. 
+W dniu 31 marca 2021 roku pan Paweł Strączyński złożył rezygnację z pełnienia funkcji Wiceprezesa Zarządu z upływem dnia 31 marca 
+2021 roku. 
+Na dzień publikacji niniejszego sprawozdania finansowego skład Zarządu jest następujący: 
+ 
+Wojciech Dąbrowski – Prezes Zarządu, 
+ 
+Wanda Buk – Wiceprezes Zarządu, 
+ 
+Paweł Cioch – Wiceprezes Zarządu, 
+ 
+Paweł Śliwa – Wiceprezes Zarządu, 
+ 
+Ryszard Wasiłek – Wiceprezes Zarządu. 
+Struktura własnościowa 
+Struktura akcjonariatu jednostki dominującej była następująca: 
+ 
+Skarb Państwa 
+Pozostali akcjonariusze 
+Razem 
+Stan na dzień 31 grudnia 2020 roku 
+57,39% 
+42,61% 
+100,00% 
+Stan na dzień 31 marca 2021 roku 
+57,39% 
+42,61% 
+100,00% 
+Struktura własnościowa na poszczególne dni sprawozdawcze została zaprezentowana na podstawie informacji dostępnych w Spółce. 
+Według informacji dostępnych w Spółce na dzień publikacji niniejszego sprawozdania finansowego jedynym akcjonariuszem 
+posiadającym co najmniej 5% ogólnej liczby głosów na Walnym Zgromadzeniu Akcjonariuszy PGE S.A. jest Skarb Państwa. 
+1.2 
+Informacje o Grupie Kapitałowej PGE 
+Grupa Kapitałowa PGE Polska Grupa Energetyczna S.A. składa się z jednostki dominującej, którą jest PGE S.A., 72 jednostek zależnych 
+objętych konsolidacją oraz 4 jednostek stowarzyszonych i 1 jednostki współkontrolowanej. Dodatkowe informacje na temat jednostek 
+podporządkowanych objętych skonsolidowanym sprawozdaniem finansowym zostały zamieszczone w nocie 1.3. 
+Niniejsze skonsolidowane sprawozdanie finansowe Grupy Kapitałowej PGE obejmuje okres od 1 stycznia 2021 roku do 31 marca 
+2021 roku oraz zawiera dane porównawcze za okres od 1 stycznia 2020 roku do 31 marca 2020 roku oraz na dzień 31 grudnia 2020 roku. 
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe nie obejmuje wszystkich informacji oraz ujawnień wymaganych 
+w rocznym sprawozdaniu finansowym i należy je czytać łącznie ze skonsolidowanym sprawozdaniem finansowym Grupy za rok 
+zakończony 31 grudnia 2020 roku zatwierdzonym do publikacji w dniu 22 marca 2021 roku. 
+Sprawozdania finansowe wszystkich jednostek podporządkowanych sporządzone zostały za ten sam okres sprawozdawczy 
+co sprawozdanie finansowe jednostki dominującej, przy zastosowaniu spójnych zasad rachunkowości. Wyjątkiem są spółki nabyte 
+w trakcie roku obrotowego, które sporządziły dane finansowe za okres od momentu objęcia kontrolą przez Grupę PGE. 
+Podstawowym przedmiotem działania spółek Grupy Kapitałowej PGE jest prowadzenie działalności obejmującej: 
+ 
+wytwarzanie energii elektrycznej, 
+ 
+dystrybucję energii elektrycznej, 
+ 
+obrót hurtowy i detaliczny energią elektryczną, prawami majątkowymi, uprawnieniami do emisji CO2 oraz gazem ziemnym, 
+ 
+wytwarzanie i dystrybucję ciepła, 
+ 
+świadczenie innych usług związanych z realizacją zadań, o których mowa powyżej. 
+Działalność prowadzona jest na podstawie odpowiednich koncesji przyznanych poszczególnym jednostkom wchodzącym w skład 
+Grupy Kapitałowej PGE. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+9 z 47 
+Kontynuacja działalności 
+Niniejsze sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania działalności gospodarczej przez istotne spółki 
+Grupy przez okres co najmniej 12 miesięcy od dnia sprawozdawczego. Jednostka zależna - PGE Obrót S.A. wykazuje na dzień 31 marca 
+2021 roku ujemne wartości kapitałów własnych, które są w głównej mierze wynikiem negatywnych zmian na detalicznym rynku obrotu 
+energią elektryczną. PGE Obrót S.A. – tak jak pozostałe spółki Grupy PGE – ma dostęp do finansowania udzielanego przez PGE S.A., 
+w związku z czym założenie kontynuacji działalności przez tę spółkę jest uzasadnione. 
+Poza kwestią PGE Obrót S.A. na dzień zatwierdzenia do publikacji niniejszego sprawozdania finansowego nie stwierdza się istnienia 
+okoliczności wskazujących na zagrożenie kontynuowania działalności przez istotne spółki Grupy. 
+Zmiany polityki rachunkowości 
+W niniejszym sprawozdaniu finansowym przestrzegano tych samych zasad (polityki) rachunkowości i metod kalkulacji, co w ostatnim 
+rocznym sprawozdaniu finansowym. Niniejsze sprawozdanie należy czytać łącznie ze zbadanym skonsolidowanym sprawozdaniem 
+finansowym GK PGE sporządzonym za rok zakończony 31 grudnia 2020 roku zatwierdzonym do publikacji w dniu 22 marca 2021 roku. 
+1.3 
+Skład Grupy Kapitałowej PGE 
+W okresie sprawozdawczym Grupę Kapitałową PGE tworzyły następujące spółki bezpośrednio i pośrednio zależne objęte konsolidacją: 
+ 
+Nazwa jednostki 
+Jednostka posiadająca udziały 
+Udział spółek 
+GK PGE na dzień 
+31 marca 2021 
+Udział spółek 
+GK PGE na dzień 
+31 grudnia 2020 
+ 
+SEGMENT: OBRÓT 
+ 
+ 
+ 
+1. 
+PGE Polska Grupa Energetyczna S.A. 
+Warszawa 
+Jednostka dominująca 
+ 
+ 
+2. 
+PGE Dom Maklerski S.A. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+3. 
+PGE Trading GmbH (w likwidacji) 
+Berlin 
+PGE S.A. 
+100,00% 
+100,00% 
+4. 
+PGE Obrót S.A. 
+Rzeszów 
+PGE S.A. 
+100,00% 
+100,00% 
+5. 
+ENESTA sp. z o.o. 
+Stalowa Wola 
+PGE Obrót S.A. 
+87,33% 
+87,33% 
+6. 
+PGE Centrum sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+7. 
+PGE Paliwa sp. z o.o. 
+Kraków 
+PGE EC S.A. 
+100,00% 
+100,00% 
+ 
+SEGMENT: ENERGETYKA KONWENCJONALNA 
+ 
+ 
+ 
+8. 
+PGE Górnictwo i Energetyka Konwencjonalna S.A. 
+Bełchatów 
+PGE S.A. 
+100,00% 
+100,00% 
+9. 
+ELBIS sp. z o.o. 
+Rogowiec 
+PGE S.A. 
+100,00% 
+100,00% 
+10. 
+MegaSerwis sp. z o.o. 
+Bogatynia 
+PGE S.A. 
+100,00% 
+100,00% 
+11. 
+„ELMEN” sp. z o.o. 
+Rogowiec 
+PGE S.A. 
+100,00% 
+100,00% 
+12. 
+ELTUR-SERWIS sp. z o.o. 
+Bogatynia" 
+PGE S.A. 
+100,00% 
+100,00% 
+13. 
+„BETRANS” sp. z o.o. 
+Bełchatów 
+PGE S.A. 
+100,00% 
+100,00% 
+14. 
+BESTGUM POLSKA sp. z o.o. 
+Rogowiec 
+PGE S.A. 
+100,00% 
+100,00% 
+15. 
+RAMB sp. z o.o. 
+Piaski 
+PGE S.A. 
+100,00% 
+100,00% 
+16. 
+„Energoserwis – Kleszczów” sp. z o.o. 
+Rogowiec 
+PGE GiEK S.A. 
+51,00% 
+51,00% 
+ 
+SEGMENT: CIEPŁOWNICTWO 
+ 
+ 
+ 
+17. 
+PGE Energia Ciepła S.A. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+18. 
+PGE Toruń S.A. 
+Toruń 
+PGE EC S.A. 
+95,22% 
+95,22% 
+19. 
+PGE Gaz Toruń sp. z o.o. 
+Warszawa 
+PGE EC S.A. 
+100,00% 
+100,00% 
+20. 
+Zespół Elektrociepłowni Wrocławskich KOGENERACJA S.A. 
+Wrocław 
+PGE EC S.A. 
+58,07% 
+58,07% 
+21. 
+Elektrociepłownia Zielona Góra S.A. 
+Zielona Góra 
+KOGENERACJA S.A. 
+98,40% 
+98,40% 
+22. 
+MEGAZEC sp. z o.o. 
+Bydgoszcz 
+PGE S.A. 
+100,00% 
+100,00% 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+10 z 47 
+ 
+Nazwa jednostki 
+Jednostka posiadająca udziały 
+Udział spółek 
+GK PGE na dzień 
+31 marca 2021 
+Udział spółek 
+GK PGE na dzień 
+31 grudnia 2020 
+23. 
+Przedsiębiorstwo Energetyki Cieplnej sp. z o.o. 
+Zgierz 
+PGE EC S.A. 
+100,00% 
+100,00% 
+ 
+SEGMENT: GOSPODARKA OBIEGU ZAMKNIĘTEGO 
+ 
+ 
+ 
+24. 
+PGE Ekoserwis S.A. 
+Wrocław 
+PGE S.A. 
+95,08% 
+95,08% 
+25. 
+EPORE S.A. 
+Bogatynia 
+PGE GiEK S.A. 
+100,00% 
+100,00% 
+26. 
+ZOWER sp. z o.o. 
+Rybnik 
+PGE EC S.A. 
+100,00% 
+100,00% 
+ 
+SEGMENT: ENERGETYKA ODNAWIALNA 
+ 
+ 
+ 
+27. 
+PGE Energia Odnawialna S.A. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+28. 
+Elektrownia Wiatrowa Baltica-1 sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+29. 
+Elektrownia Wiatrowa Baltica-2 sp. z o.o. 
+Warszawa 
+PGE Baltica 6 sp. z o.o. 
+100,00% 
+100,00% 
+30. 
+Elektrownia Wiatrowa Baltica-3 sp. z o.o. 
+Warszawa 
+PGE Baltica 5 sp. z o.o. 
+100,00% 
+100,00% 
+31. 
+Elektrownia Wiatrowa Baltica-4 sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+32. 
+Elektrownia Wiatrowa Baltica-5 sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+33. 
+Elektrownia Wiatrowa Baltica-6 sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+34. 
+PGE Baltica 1 sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+35. 
+PGE Baltica 2 sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+36. 
+PGE Baltica 3 sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+37. 
+PGE Baltica 4 sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+38. 
+PGE Baltica 5 sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+39. 
+PGE Baltica 6 sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+40. 
+PGE Baltica sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+41. 
+PGE Klaster sp. z o.o. 
+Warszawa 
+PGE EO S.A. 
+100,00% 
+100,00% 
+42. 
+PGE Soleo 1 sp. z o.o. 
+Warszawa 
+PGE EO S.A. 
+100,00% 
+100,00% 
+43. 
+PGE Soleo 2 sp. z o.o. 
+Warszawa 
+PGE EO S.A. 
+100,00% 
+100,00% 
+44. 
+PGE Soleo 3 sp. z o.o. 
+Warszawa 
+PGE EO S.A. 
+100,00% 
+100,00% 
+45. 
+PGE Soleo 4 sp. z o.o. 
+Warszawa 
+PGE EO S.A. 
+100,00% 
+100,00% 
+46. 
+PGE Soleo 5 sp. z o.o. 
+Warszawa 
+PGE EO S.A. 
+100,00% 
+100,00% 
+47. 
+PGE Soleo 6 sp. z o.o. 
+Warszawa 
+PGE EO S.A. 
+100,00% 
+100,00% 
+48. 
+PGE Soleo 7 sp. z o.o. 
+Warszawa 
+PGE EO S.A. 
+100,00% 
+100,00% 
+49. 
+ECO-POWER sp. z o.o. 
+Warszawa 
+PGE EO S.A. 
+100,00% 
+100,00% 
+ 
+SEGMENT: DYSTRYBUCJA 
+ 
+ 
+ 
+50. 
+PGE Dystrybucja S.A. 
+Lublin 
+PGE S.A. 
+100,00% 
+100,00% 
+ 
+SEGMENT: DZIAŁALNOŚĆ POZOSTAŁA 
+ 
+ 
+ 
+ 
+ 
+PGE EJ 1 sp. z o.o. 
+Warszawa 
+PGE S.A. 
+- 
+70,00% 
+51. 
+PGE Systemy S.A. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+11 z 47 
+ 
+Nazwa jednostki 
+Jednostka posiadająca udziały 
+Udział spółek 
+GK PGE na dzień 
+31 marca 2021 
+Udział spółek 
+GK PGE na dzień 
+31 grudnia 2020 
+52. 
+PGE Sweden AB (publ) 
+Sztokholm 
+PGE S.A. 
+100,00% 
+100,00% 
+53. 
+PGE Synergia sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+54. 
+„Elbest” sp. z o.o. 
+Bełchatów 
+PGE S.A. 
+100,00% 
+100,00% 
+55. 
+Elbest Security sp. z o.o. 
+Bełchatów 
+PGE S.A. 
+100,00% 
+100,00% 
+56. 
+PGE Inwest 2 sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+57. 
+PGE Ventures sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+58. 
+PGE Inwest 8 sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+59. 
+PGE Inwest 9 sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+60. 
+PGE Inwest 10 sp. z o.o. 
+Warszawa 
+PGE S.A 
+100,00% 
+100,00% 
+61. 
+PGE Inwest 11 sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+62. 
+PGE Inwest 12 sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+63. 
+PGE Inwest 13 S.A. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+64. 
+PGE Inwest 14 sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+65. 
+PGE Nowa Energia sp. z o.o. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+66. 
+Towarzystwo Funduszy Inwestycyjnych Energia S.A. 
+Warszawa 
+PGE S.A. 
+100,00% 
+100,00% 
+67. 
+Rybnik 2050 sp. z o.o. w organizacji 
+Warszawa 
+PGE S.A. 
+100,00% 
+- 
+68. 
+BIO-ENERGIA sp. z o.o. 
+Warszawa 
+PGE EO S.A. 
+100,00% 
+100,00% 
+69. 
+Przedsiębiorstwo Transportowo-Usługowe 
+„ETRA” sp. z o.o. 
+Białystok 
+PGE Dystrybucja S.A. 
+100,00% 
+100,00% 
+70. 
+Energetyczne Systemy Pomiarowe sp. z o.o. 
+Białystok 
+PGE Dystrybucja S.A. 
+100,00% 
+100,00% 
+71. 
+Przedsiębiorstwo Usługowo-Handlowe TOREC sp. z o.o. 
+Toruń 
+PGE Toruń S.A. 
+51,05% 
+51,05% 
+72. 
+4Mobility S.A. 
+Warszawa 
+PGE Nowa Energia sp. z o.o. 
+51,47% 
+51,47% 
+73. 
+PIMERGE S.A. 
+Wrocław 
+PGE Ventures sp. z o.o. 
+89,87% 
+89,87% 
+W powyższej tabeli ujęto między innymi następujące zmiany w strukturze spółek Grupy Kapitałowej PGE, podlegających konsolidacji 
+metodą pełną, które miały miejsce w ciągu okresu zakończonego dnia 31 marca 2021 roku: 
+ 
+1 lutego 2021 roku zawiązana została spółka Rybnik 2050 sp. z o.o. w organizacji. Do dnia sporządzenia niniejszego sprawozdania 
+spółka nie została zarejestrowana w KRS. 
+ 
+1 marca 2021 roku Nadzwyczajne Zgromadzenie Wspólników PGE Trading, podjęło uchwałę o rozwiązaniu PGE Trading 
+i powołaniu likwidatora w celu przeprowadzenia czynności likwidacyjnych PGE Trading. 
+ 
+26 marca 2021 roku zawarta została umowa sprzedaży wszystkich udziałów z spółce PGE EJ1 sp. z o.o. na rzecz Skarbu Państwa. 
+Przeniesienie własności udziałów nastąpiło w dniu 31 marca 2021 roku. W związku ze sprzedażą GK PGE na poziomie 
+skonsolidowanego sprawozdania finansowego poniosła stratę brutto w wysokości 19 mln PLN. Cena sprzedaży może zostać 
+skorygowana w związku ze zmianą wyceny spółki według stanu na dzień sprzedaży lecz nie powinno to istotnie wpłynąć na 
+osiągnięty wynik na sprzedaży. 
+ 
+31 marca 2021 roku Nadzwyczajne Walne Zgromadzenie PGE EO S.A. (spółka przejmująca) oraz Nadzwyczajne Zgromadzenia 
+Wspólników ECO - POWER sp. z o.o. (spółka przejmowana) podjęły uchwały o połączeniu spółek, poprzez przeniesienie całego 
+majątku spółki przejmowanej na spółkę przejmującą bez wydawania nowych akcji spółki przejmującej w zamian za udziały spółki 
+przejmowanej. Połączenie zostało zarejestrowane w KRS 30 kwietnia 2021 roku. 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+12 z 47 
+Zdarzenia po dniu sprawozdawczym 
+Jak opisano w nocie 25.3 niniejszego sprawozdania finansowego 6 maja 2021 roku nastąpiła sprzedaż 50% udziałów w spółkach 
+Elektrownia Wiatrowa Baltica – 2 sp. z o.o. i Elektrownia Wiatrowa Baltica – 3 sp. z o.o. na rzecz podmiotów z grupy Ørsted. W efekcie 
+transakcji GK PGE straci kontrolę nad tymi dwoma spółkami. Począwszy od dnia sprzedaży Elektrownia Wiatrowa Baltica – 2 sp. z o.o. 
+i Elektrownia Wiatrowa Baltica – 3 sp. z o.o. będą stanowiły tzw. wspólną działalność w rozumieniu MSSF 11 Wspólne ustalenia umowne. 
+2. Podstawa sporządzenia sprawozdania finansowego 
+2.1 
+Oświadczenie o zgodności 
+Niniejsze skonsolidowane sprawozdanie finansowe zostało sporządzone zgodnie z Międzynarodowym Standardem Rachunkowości 
+34 Śródroczna Sprawozdawczość Finansowa oraz zgodnie z Rozporządzeniem Ministra Finansów z dnia 29 marca 2018 roku w sprawie 
+informacji bieżących i okresowych przekazywanych przez emitentów papierów wartościowych oraz warunków uznawania za 
+równoważne informacji wymaganych przepisami prawa państwa niebędącego państwem członkowskim (Dz. U. 2018, poz. 512 i 685). 
+Międzynarodowe Standardy Sprawozdawczości Finansowej obejmują standardy i interpretacje zaakceptowane przez Radę 
+Międzynarodowych Standardów Rachunkowości oraz Komitet ds. Interpretacji MSSF (IFRS Interpretations Committee). 
+2.2 
+Waluta prezentacji i waluta funkcjonalna 
+Walutą funkcjonalną jednostki dominującej i walutą prezentacji niniejszego skonsolidowanego sprawozdania finansowego jest polski 
+złoty. Wszystkie wartości liczbowe podano w milionach złotych, o ile nie zaznaczono inaczej. 
+Następujące kursy zostały przyjęte dla potrzeb wyceny pozycji wyrażonych w walutach innych niż PLN na dzień sprawozdawczy: 
+ 
+31 marca 2021 
+31 grudnia 2020 
+31 marca 2020 
+USD 
+3,9676 
+3,7584 
+4,1466 
+EUR 
+4,6603 
+4,6148 
+4,5523 
+2.3 
+Nowe standardy i interpretacje, które zostały opublikowane, a nie weszły jeszcze w życie 
+Następujące standardy, zmiany w obowiązujących standardach oraz interpretacje nie zostały przyjęte przez Unię Europejską lub nie są 
+obowiązujące na dzień 1 stycznia 2021 roku: 
+Standard 
+Opis zmian 
+Data obowiązywania 
+MSSF 14 Regulacyjne pozycje 
+odroczone 
+Zasady rachunkowości i ujawnień dla regulacyjnych pozycji 
+odroczonych 
+Standard w obecnej wersji nie 
+będzie obowiązywał w UE 
+Zmiany do MSSF 10 i MSR 28 
+Zawiera wytyczne dotyczące sprzedaży lub wniesienia aktywów przez 
+inwestora do spółki stowarzyszonej lub wspólnego przedsięwzięcia 
+Prace nad zatwierdzeniem 
+zostały odłożone bezterminowo 
+MSSF 17 Umowy ubezpieczeniowe 
+Definiuje nowe podejście do rozpoznawania przychodów oraz zysku/ 
+strat w okresie świadczenia usług ubezpieczeniowych 
+1 stycznia 2023 
+Zmiany do MSR 1 
+Zmiany dotyczą prezentacji sprawozdań finansowych 
+1 stycznia 2023 
+Zmiany wynikające z przeglądu MSSF 
+cykl 2018-2020 
+Zmiany w MSSF 1, MSSF 9, MSSF 16 oraz MSR 41 dotyczą głownie 
+rozwiązania niezgodności i uściślenia słownictwa 
+1 stycznia 2022 
+Zmiany do MSSF 3 
+Zmiany odniesień do założeń koncepcyjnych 
+1 stycznia 2022 
+Zmiany do MSR 16 
+Przychody uzyskiwane przed przyjęciem składnika aktywów trwałych 
+do użytkowania 
+1 stycznia 2022 
+Zmiany do MSR 37 
+Umowy rodzące obciążenia – koszt wypełnienia umowy 
+1 stycznia 2022 
+ 
+ 
+ 
+Zmiany do MSSF 16 
+Ulgi w spłatach czynszu w związku z COVID-19 
+1 kwietnia 2021 
+Zmiany do MSR 12 
+Podatek odroczony związany z aktywami i pasywami wynikającymi z 
+pojedynczej transakcji 
+1 stycznia 2023 
+Grupa Kapitałowa PGE zamierza przyjąć wymienione powyżej nowe standardy oraz zmiany standardów i interpretacji MSSF opublikowane 
+przez Radę Międzynarodowych Standardów Rachunkowości, lecz nieobowiązujące na dzień sprawozdawczy, zgodnie z datą ich wejścia 
+w życie. Powyższe regulacje nie będą mieć istotnego wpływu na przyszłe sprawozdania finansowe Grupy Kapitałowej PGE. 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+13 z 47 
+2.4 
+Profesjonalny osąd kierownictwa i szacunki 
+W procesie stosowania polityki rachunkowości wobec zagadnień podanych poniżej, największe znaczenie, oprócz szacunków księgowych, 
+miał profesjonalny osąd kierownictwa, który wpływa na wielkości wykazywane w skonsolidowanym sprawozdaniu finansowym, w tym 
+w dodatkowych notach objaśniających. Założenia tych szacunków opierają się na najlepszej wiedzy Zarządu odnośnie bieżących 
+i przyszłych działań i zdarzeń w poszczególnych obszarach. Szczegółowe informacje na temat przyjętych założeń zostały przedstawione 
+poniżej lub w odpowiednich notach objaśniających. 
+ 
+W poprzednich okresach sprawozdawczych Grupa utworzyła odpisy aktualizujące wartość aktywów, w tym w szczególności 
+rzeczowych aktywów trwałych. W bieżącym okresie sprawozdawczym Grupa nie zidentyfikowała przesłanek odnośnie 
+dokonania testów na utratę wartości, ani odwrócenia odpisów ujętych w poprzednich okresach. Szacunek wartości 
+odzyskiwalnej rzeczowych aktywów trwałych opiera się na szeregu istotnych założeń, których realizacja w przyszłości jest 
+niepewna i znajduje się w istotnej części poza kontrolą Grupy Kapitałowej PGE. Grupa przyjęła najbardziej właściwe jej zdaniem 
+wielkości i wartości, tym niemniej nie można wykluczyć, iż realizacja poszczególnych założeń będzie odbiegać od tych przyjętych 
+przez Grupę. 
+ 
+Rezerwy są zobowiązaniami, których kwota lub termin zapłaty nie są pewne. W ciągu okresu sprawozdawczego Grupa zmieniła 
+szacunki odnośnie zasadności lub wysokości niektórych rezerw. 
+ 
+Niepewności związane z rozliczeniami podatkowymi zostały opisane w nocie 23 niniejszego skonsolidowanego sprawozdania 
+finansowego. 
+ 
+Na dzień sprawozdawczy nie zaobserwowano istotnego wydłużenia okresu spłaty należności, czy problemów z płynnością 
+wynikających z pandemii COVID-19. Po wybuchu pandemii w 2020 roku Grupa dokonała aktualizacji modeli służących do 
+szacowania oczekiwanych strat kredytowych. Na potrzeby szacowania oczekiwanych strat kredytowych kontrahenci zostali 
+podzieleni na dwie grupy: kontrahenci strategiczni, którym wewnętrznie nadawane są ratingi na podstawie modelu 
+scoringowego oraz pozostali kontrahenci, dla których oczekiwane straty kredytowe są szacowane w oparciu o macierz rezerw. 
+W przypadku pierwszej grupy kontrahentów, zmieniono podstawę do wyliczania oczekiwanych strat kredytowych. Obecnie 
+straty są obliczane w oparciu o notowania instrumentów Credit Default Swap (CDS), zaś w przypadku drugiej grupy 
+kontrahentów zaktualizowano wskaźniki procentowe w poszczególnych przedziałach czasowych macierzy rezerw do poziomu 
+odpowiadającego obecnej ściągalności należności. W efekcie tych dwóch zmian poziom rezerw na oczekiwane straty kredytowe 
+na 31 marca 2021 roku jest o 16 mln PLN wyższy, niż gdyby rezerwy zostały utworzone na wcześniejszych zasadach. Szerszy opis 
+wpływu pandemii na działalności GK PGE jest zawarty w nocie 25.1 niniejszego sprawozdania. 
+3. Zmiana zasad rachunkowości i prezentacji danych 
+Nowe standardy i interpretacje, które weszły w życie 1 stycznia 2021 roku 
+Zasady (polityki) rachunkowości zastosowane do sporządzenia niniejszego sprawozdania finansowego są spójne z tymi, które 
+zastosowano przy sporządzaniu sprawozdania finansowego za 2020 rok. Poniższe zmiany do MSSF, zostały zastosowane w niniejszym 
+sprawozdaniu finansowym zgodnie z ich datą wejścia w życie. Poniższe zmiany nie miały istotnego wpływu na zaprezentowane 
+i ujawnione informacje finansowe lub nie miały zastosowania do transakcji zawieranych przez Grupę: 
+ 
+Zmiany do MSSF 4– Zmiany dotyczą przedłużenia zwolnienia ze stosowania MSSF 9; 
+ 
+Zmiany do MSSF 9, MSR 39 i MSSF 7 - Zmiany dotyczą reformy referencyjnej stopy procentowej – etap 2. 
+Grupa nie zdecydowała się na wcześniejsze zastosowanie żadnego standardu, interpretacji lub zmiany, które zostały opublikowane, lecz 
+nie weszły dotychczas w życie w świetle przepisów Unii Europejskiej. 
+4. Hierarchia wartości godziwej 
+Instrumenty pochodne 
+Grupa wycenia instrumenty pochodne w wartości godziwej przy zastosowaniu modeli wyceny instrumentów finansowych, wykorzystując 
+ogólnie dostępne kursy walutowe, stopy procentowe, krzywe dyskontowe w poszczególnych walutach (obowiązujące również dla 
+towarów, których ceny wyrażone są w tych walutach) pochodzące z aktywnych rynków. Wartość godziwa instrumentów pochodnych 
+ustalana jest w oparciu o zdyskontowane przyszłe przepływy z tytułu zawartych transakcji kalkulowane w oparciu o różnicę między ceną 
+terminową a transakcyjną. Terminowych kursów wymiany walut nie modeluje się jako osobnego czynnika ryzyka, ale wyprowadza z kursu 
+spot i odpowiedniej terminowej stopy procentowej dla waluty obcej w stosunku do PLN. 
+W kategorii aktywów i zobowiązań finansowych wycenianych w wartości godziwej przez wynik Grupa wykazuje instrumenty finansowe 
+związane z handlem prawami do emisji gazów cieplarnianych – forward walutowy i towarowy, kontrakty na zakup i sprzedaż węgla, 
+SWAP’y towarowe (Poziom 2). 
+Dodatkowo Grupa prezentuje instrument pochodny zabezpieczający kurs walutowy oraz stopę procentową CCIRS oraz transakcje 
+zabezpieczające IRS zamieniające zmienną stopę w PLN na stałą stopę w PLN (Poziom 2). 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+14 z 47 
+ 
+Aktywa na dzień 
+31 marca 2021 
+Zobowiązania na dzień 
+31 marca 2021 
+HIERARCHIA WARTOŚCI GODZIWEJ 
+Poziom 1 
+Poziom 2 
+Poziom 1 
+Poziom 2 
+Uprawnienia do emisji CO2 w działalności tradingowej 
+1 
+- 
+- 
+- 
+Węgiel kamienny w działalności tradingowej 
+124 
+- 
+- 
+- 
+ZAPASY 
+125 
+- 
+- 
+- 
+Forward walutowy 
+ 
+9 
+- 
+4 
+Forward towarowy 
+ 
+73 
+- 
+- 
+SWAP towarowy 
+ 
+11 
+- 
+15 
+Kontrakty na zakup/sprzedaż węgla 
+ 
+1 
+- 
+1 
+Opcje 
+ 
+25 
+- 
+- 
+INSTRUMENTY POCHODNE WYCENIANE W WARTOŚCI 
+GODZIWEJ PRZEZ WYNIK FINANSOWY 
+- 
+119 
+ 
+20 
+Transakcje zabezpieczające CCIRS 
+- 
+92 
+- 
+- 
+Transakcje zabezpieczające IRS 
+- 
+- 
+- 
+229 
+Forward walutowy USD 
+- 
+3 
+- 
+- 
+Forward walutowy EUR 
+- 
+275 
+- 
+12 
+INSTRUMENTY POCHODNE ZABEZPIECZAJĄCE 
+- 
+370 
+- 
+241 
+Jednostki uczestnictwa w funduszu inwestycyjnym 
+- 
+52 
+- 
+- 
+POZOSTAŁE AKTYWA/ ZOBOWIĄZANIA WYCENIANE W 
+WARTOŚCI GODZIWEJ PRZEZ WYNIK FINANSOWY 
+- 
+52 
+- 
+- 
+ 
+Aktywa na dzień 
+31 grudnia 2020 
+Zobowiązania na dzień 
+31 grudnia 2020 
+HIERARCHIA WARTOŚCI GODZIWEJ 
+Poziom 1 
+Poziom 2 
+Poziom 1 
+Poziom 2 
+Uprawnienia do emisji CO2 w działalności tradingowej 
+1 
+- 
+- 
+- 
+Węgiel kamienny w działalności tradingowej 
+144 
+- 
+- 
+- 
+ZAPASY 
+145 
+- 
+- 
+- 
+Forward walutowy 
+ 
+3 
+- 
+4 
+Forward towarowy 
+ 
+11 
+- 
+4 
+SWAP towarowy 
+ 
+11 
+- 
+13 
+Kontrakty na zakup/sprzedaż węgla 
+ 
+17 
+- 
+18 
+Opcje 
+ 
+16 
+- 
+- 
+INSTRUMENTY POCHODNE WYCENIANE W WARTOŚCI 
+GODZIWEJ PRZEZ WYNIK FINANSOWY 
+- 
+58 
+ 
+39 
+Transakcje zabezpieczające CCIRS 
+- 
+64 
+- 
+- 
+Transakcje zabezpieczające IRS 
+- 
+- 
+- 
+385 
+Forward walutowy USD 
+- 
+- 
+- 
+1 
+Forward walutowy EUR 
+- 
+381 
+- 
+23 
+INSTRUMENTY POCHODNE ZABEZPIECZAJĄCE 
+- 
+445 
+- 
+409 
+Jednostki uczestnictwa w funduszu inwestycyjnym 
+- 
+52 
+- 
+- 
+POZOSTAŁE AKTYWA/ ZOBOWIĄZANIA WYCENIANE W 
+WARTOŚCI GODZIWEJ PRZEZ WYNIK FINANSOWY 
+- 
+52 
+- 
+- 
+Instrumenty pochodne zostały zaprezentowane w nocie 17 niniejszego sprawozdania finansowego. W okresie sprawozdawczym i okresie 
+porównawczym nie wystąpiły przesunięcia instrumentów finansowych pomiędzy pierwszym i drugim poziomem hierarchii wartości 
+godziwej. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+15 z 47 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO 
+NOTY OBJAŚNIAJĄCE DO SEGMENTÓW OPERACYJNYCH 
+5. Informacje dotyczące segmentów działalności 
+Spółki Grupy Kapitałowej PGE prowadzą działalność na podstawie odpowiednich koncesji, w tym przede wszystkim koncesji 
+na: wytwarzanie, obrót i dystrybucję energii elektrycznej, wytwarzanie, przesył i dystrybucję ciepła, przyznawane przez Prezesa Urzędu 
+Regulacji Energetyki oraz koncesji na wydobywanie węgla brunatnego ze złóż, udzielanych przez Ministra Środowiska. Koncesje są z reguły 
+wydawane na okres pomiędzy 10 a 50 lat. 
+Do koncesji na wydobycie węgla, wytwarzanie energii elektrycznej i ciepła oraz dystrybucję energii elektrycznej i ciepła przypisane 
+są odpowiednie aktywa, przedstawione w szczegółowych informacjach na temat segmentów operacyjnych. W związku z posiadanymi 
+koncesjami dotyczącymi energii elektrycznej i ciepła ponoszone są roczne opłaty zależne od poziomu obrotów. W przypadku prowadzenia 
+działalności koncesjonowanej związanej z wydobyciem węgla brunatnego ponoszone są opłaty eksploatacyjne zależne od obowiązującej 
+stawki i wielkości wydobycia, a także opłaty za użytkowanie górnicze. 
+Grupa Kapitałowa PGE prezentuje informacje dotyczące segmentów działalności za bieżący oraz porównawczy okres sprawozdawczy 
+zgodnie z MSSF 8 Segmenty operacyjne. Podział sprawozdawczości Grupy Kapitałowej PGE oparty jest na segmentach branżowych: 
+ 
+Energetyka Konwencjonalna obejmuje poszukiwanie i wydobycie węgla brunatnego oraz wytwarzanie energii elektrycznej 
+w źródłach konwencjonalnych a także działalność pomocniczą w powyższym zakresie. 
+ 
+Ciepłownictwo obejmuje wytwarzanie energii elektrycznej w źródłach kogeneracyjnych oraz przesyłanie i dystrybucję ciepła. 
+ 
+Energetyka Odnawialna obejmuje wytwarzanie energii elektrycznej w elektrowniach szczytowo-pompowych oraz ze źródeł 
+odnawialnych. 
+ 
+Obrót obejmuje sprzedaż i zakup energii elektrycznej oraz gazu ziemnego na rynku hurtowym, obrót uprawnieniami do emisji 
+CO2 oraz prawami majątkowymi wynikającymi ze świadectw pochodzenia oraz zakup i dostawy paliw a także sprzedaż energii 
+elektrycznej oraz świadczenie usług odbiorcom końcowym. 
+ 
+Dystrybucja obejmuje zarządzanie lokalnymi sieciami dystrybucyjnymi oraz przesyłanie energii elektrycznej tymi sieciami. 
+ 
+Gospodarka Obiegu Zamkniętego obejmuje gospodarowanie ubocznymi produktami spalania. 
+ 
+Działalność pozostała obejmuje świadczenie usług przez spółki zależne na rzecz Grupy Kapitałowej np. organizacja pozyskiwania 
+finansowania, świadczenie usług informatycznych, księgowo-kadrowych, transportowych oraz inwestycje w start-up’y. 
+Organizacja i zarządzanie Grupą Kapitałową PGE odbywa się w podziale na segmenty uwzględniające rodzaj oferowanych produktów 
+i usług. Każdy z segmentów stanowi strategiczną jednostkę gospodarczą, oferującą inne wyroby i obsługującą inne rynki. Przypisanie 
+poszczególnych jednostek do segmentów działalności zostało przedstawione w nocie 1.3 niniejszego skonsolidowanego sprawozdania 
+finansowego. Grupa Kapitałowa PGE rozlicza transakcje między segmentami w taki sposób, jakby dotyczyły one podmiotów 
+niepowiązanych – na warunkach rynkowych. Analizując wyniki poszczególnych segmentów działalności kierownictwo Grupy Kapitałowej 
+PGE zwraca przede wszystkim uwagę na osiągany wynik EBITDA. 
+Począwszy od 2021 roku GK PGE wydzieliła nowy segment operacyjny Gospodarka Obiegu Zamkniętego – w poprzednich okresach aktywa 
+i wyniki tego segmentu były ujmowane oraz analizowane w ramach segmentów: Energetyka Konwencjonalna, Ciepłownictwo oraz 
+Działalność pozostała. Dane za okres porównawczy nie zostały przekształcone. 
+Sezonowość segmentów działalności 
+Główne czynniki wpływające na zapotrzebowanie na energię elektryczną i ciepło to: czynniki atmosferyczne – temperatura powietrza, siła 
+wiatru, wielkość opadów, czynniki socjoekonomiczne – liczba odbiorców energii, ceny nośników energii, rozwój gospodarczy PKB oraz 
+czynniki technologiczne – postęp technologiczny, technologia wytwarzania produktów. Każdy z tych czynników ma wpływ na techniczne 
+i ekonomiczne warunki wytwarzania i dystrybucji nośników energii, a tym samym wpływa na wyniki uzyskiwane przez spółki Grupy 
+Kapitałowej PGE. 
+Poziom sprzedaży energii elektrycznej w ciągu roku jest zmienny i zależy przede wszystkim od czynników atmosferycznych – temperatura 
+powietrza, długość dnia. Wzrost zapotrzebowania na energię elektryczną jest szczególnie widoczny w okresach zimowych, natomiast 
+niższe zapotrzebowanie obserwujemy w okresach letnich. Ponadto, zmiany sezonowe widoczne są wśród wybranych grup odbiorców 
+końcowych. Efekty sezonowości są bardziej znaczące dla gospodarstw domowych, niż dla sektora przemysłowego. 
+W segmencie Energetyka Odnawialna energia elektryczna wytwarzana jest z zasobów środowiska naturalnego takich jak woda, wiatr, 
+słońce. Warunki meteorologiczne są istotnym czynnikiem wpływającym na produkcję energii elektrycznej w tym segmencie. 
+Sprzedaż ciepła zależy w szczególności od temperatury powietrza i jest większa w okresie zimowym, a mniejsza w okresie letnim. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+16 z 47 
+5.1 
+Informacje dotyczące segmentów branżowych 
+Informacje dotyczące segmentów branżowych za okres zakończony 31 marca 2021 roku 
+ 
+Energetyka 
+Konwencjonalna 
+Ciepłownictwo 
+Energetyka 
+Odnawialna 
+Obrót 
+Dystrybucja 
+Gospodarka 
+Obiegu 
+Zamkniętego 
+Działalność 
+pozostała 
+Korekty 
+Razem 
+RACHUNEK ZYSKÓW I STRAT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sprzedaż na rzecz klientów 
+zewnętrznych 
+4.271 
+1.309 
+197 
+4.428 
+1.657 
+21 
+15 
+2 
+11.900 
+Sprzedaż między segmentami 
+1.577 
+575 
+126 
+6.070 
+20 
+37 
+87 
+(8.492) 
+- 
+PRZYCHODY SEGMENTU, RAZEM 
+5.848 
+1.884 
+323 
+10.498 
+1.677 
+58 
+102 
+(8.490) 
+11.900 
+Koszt własny sprzedaży 
+(5.607) 
+(1.436) 
+(201) 
+(9.743) 
+(1.273) 
+(42) 
+(92) 
+8.236 
+(10.158) 
+EBIT 
+41 
+357 
+104 
+343 
+348 
+7 
+(4) 
+(32) 
+1.164 
+Amortyzacja, likwidacja oraz odpisy 
+ujęte w wyniku finansowym 
+470 
+153 
+89 
+9 
+310 
+2 
+16 
+(7) 
+1.042 
+EBITDA 
+511 
+510 
+193 
+352 
+658 
+9 
+12 
+(39) 
+2.206 
+ZYSK BRUTTO 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+1.024 
+Podatek dochodowy 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+(189) 
+ZYSK NETTO ZA OKRES 
+SPRAWOZDAWCZY 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+835 
+AKTYWA I ZOBOWIĄZANIA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aktywa segmentu z wyłączeniem 
+należności z tytułu dostaw i usług 
+40.931 
+8.399 
+4.265 
+1.807 
+19.446 
+68 
+355 
+(1.003) 
+74.268 
+Należności z tytułu dostaw i usług 
+1.850 
+597 
+185 
+11.429 
+1.025 
+38 
+71 
+(11.242) 
+3.953 
+Udziały i akcje wykazywane 
+metodą praw własności 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+154 
+Aktywa nieprzypisane 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+5.848 
+AKTYWA, RAZEM 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+84.223 
+Zobowiązania segmentu z 
+wyłączeniem zobowiązań z tytułu 
+dostaw i usług 
+17.972 
+2.218 
+514 
+4.524 
+2.039 
+48 
+102 
+(1.073) 
+26.344 
+Zobowiązania z tytułu dostaw i usług 
+6.915 
+1.049 
+32 
+4.509 
+382 
+11 
+24 
+(11.695) 
+1.227 
+Zobowiązania nieprzypisane 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+12.399 
+ZOBOWIĄZANIA, RAZEM 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+39.970 
+POZOSTAŁE INFORMACJE 
+DOTYCZĄCE SEGMENTU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nakłady inwestycyjne 
+416 
+116 
+18 
+2 
+285 
+4 
+17 
+(30) 
+828 
+Zwiększenia PDUA 
+1 
+4 
+2 
+1 
+2 
+- 
+1 
+- 
+11 
+RAZEM NAKŁADY INWESTYCYJNE 
+417 
+120 
+20 
+3 
+287 
+4 
+18 
+(30) 
+839 
+Odpisy aktualizujące wartość 
+aktywów finansowych 
+i niefinansowych 
+43 
+(4) 
+- 
+1 
+4 
+- 
+- 
+- 
+44 
+Pozostałe koszty niepieniężne *) 
+1.795 
+375 
+10 
+319 
+42 
+(1) 
+7 
+- 
+2.547 
+ 
+*) Zmiany o charakterze niepieniężnym dotyczą rezerw m.in. na rekultywację, uprawnienia do emisji CO2, nagrody jubileuszowe, taryfę pracowniczą i zobowiązań 
+niefinansowych z tyt. świadczeń pracowniczych ujętych w wyniku oraz innych całkowitych dochodach 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+17 z 47 
+Informacje dotyczące segmentów branżowych za okres zakończony 31 marca 2020 roku 
+ 
+Energetyka 
+Konwencjonalna 
+Ciepłownictwo 
+Energetyka 
+Odnawialna 
+Obrót 
+Dystrybucja 
+Działalność 
+pozostała 
+Korekty 
+Razem 
+RACHUNEK ZYSKÓW I STRAT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sprzedaż na rzecz klientów zewnętrznych 
+4.699 
+945 
+210 
+6.650 
+1.618 
+24 
+(1.555) 
+12.591 
+Sprzedaż między segmentami 
+2.105 
+793 
+100 
+3.517 
+23 
+101 
+(6.639) 
+- 
+PRZYCHODY SEGMENTU, RAZEM 
+6.804 
+1.738 
+310 
+10.167 
+1.641 
+125 
+(8.194) 
+12.591 
+Koszt własny sprzedaży 
+(6.503) 
+(1.443) 
+(175) 
+(9.637) 
+(1.310) 
+(117) 
+7.903 
+(11.282) 
+EBIT 
+59 
+195 
+119 
+210 
+261 
+(14) 
+(57) 
+773 
+Amortyzacja, likwidacja oraz odpisy ujęte w 
+wyniku finansowym 
+438 
+147 
+74 
+8 
+312 
+21 
+(3) 
+997 
+EBITDA 
+497 
+342 
+193 
+218 
+573 
+7 
+(60) 
+1.770 
+ZYSK BRUTTO 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+609 
+Podatek dochodowy 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+(124) 
+ZYSK NETTO ZA OKRES SPRAWOZDAWCZY 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+485 
+AKTYWA I ZOBOWIĄZANIA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aktywa segmentu z wyłączeniem należności 
+z tytułu dostaw i usług 
+35.659 
+7.938 
+4.116 
+2.423 
+19.106 
+833 
+(703) 
+69.372 
+Należności z tytułu dostaw i usług 
+3.471 
+932 
+163 
+8.484 
+871 
+82 
+(8.839) 
+5.164 
+Udziały i akcje wykazywane metodą praw 
+własności 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+705 
+Aktywa nieprzypisane 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+5.729 
+AKTYWA, RAZEM 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+80.970 
+Zobowiązania segmentu z wyłączeniem 
+zobowiązań z tytułu dostaw i usług 
+15.029 
+2.313 
+481 
+2.420 
+1.962 
+139 
+(2.726) 
+19.618 
+Zobowiązania z tytułu dostaw i usług 
+3.720 
+689 
+35 
+5.222 
+254 
+53 
+(8.683) 
+1.290 
+Zobowiązania nieprzypisane 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+16.319 
+ZOBOWIĄZANIA, RAZEM 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+37.227 
+POZOSTAŁE INFORMACJE DOTYCZĄCE 
+SEGMENTU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nakłady inwestycyjne 
+368 
+40 
+91 
+4 
+426 
+41 
+(22) 
+948 
+Zwiększenia PDUA 
+2 
+3 
+1 
+1 
+1 
+1 
+- 
+9 
+RAZEM NAKŁADY INWESTYCYJNE 
+370 
+43 
+92 
+5 
+427 
+42 
+(22) 
+957 
+Odpisy aktualizujące wartość aktywów 
+finansowych i niefinansowych 
+21 
+(6) 
+- 
+9 
+2 
+- 
+(3) 
+23 
+Pozostałe koszty niepieniężne *) 
+1.546 
+303 
+8 
+168 
+59 
+14 
+96 
+2.194 
+ 
+*) Zmiany o charakterze niepieniężnym dotyczą rezerw m.in. na rekultywację, uprawnienia do emisji CO2, nagrody jubileuszowe, taryfę pracowniczą i zobowiązań 
+niefinansowych z tyt. świadczeń pracowniczych ujętych w wyniku oraz innych całkowitych dochodach 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+18 z 47 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z CAŁKOWITYCH 
+DOCHODÓW 
+6. Przychody i koszty 
+6.1 
+Przychody ze sprzedaży 
+Przychody ze sprzedaży za okres zakończony 31 marca 2021 roku w podziale na kategorie 
+Poniższa tabela przedstawia uzgodnienie między ujawnieniem przychodów w podziale na kategorie a informacjami o przychodach, które 
+Grupa ujawnia dla każdego segmentu sprawozdawczego. 
+Energetyka 
+Konwencjonalna 
+Ciepłownictwo 
+Energetyka 
+Odnawialna 
+Obrót 
+Dystrybucja 
+Gospodarka 
+Obiegu 
+Zamkniętego 
+Działalność 
+pozostała 
+Korekty 
+Razem 
+Przychody z umów z klientami 
+5.845 
+1.874 
+322 
+10.497 
+1.661 
+58 
+101 
+(8.483) 
+11.875 
+Przychody z tytułu rekompensat 
+KDT 
+- 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+1 
+Przychody z tytułu wsparcia dla 
+wysokosprawnej kogeneracji 
+- 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+Przychody z leasingu 
+3 
+7 
+1 
+1 
+16 
+- 
+1 
+(7) 
+22 
+PRZYCHODY ZE SPRZEDAŻY, 
+RAZEM 
+5.848 
+1.884 
+323 
+10.498 
+1.677 
+58 
+102 
+(8.490) 
+11.900 
+ 
+Poniższa tabela przedstawia przychody z umów z klientami w podziale na kategorie, które odzwierciedlają sposób, w jaki czynniki 
+ekonomiczne wpływają na charakter, kwotę, termin płatności oraz niepewność przychodów i przepływów pieniężnych. 
+ 
+Rodzaj dobra lub usługi 
+Energetyka 
+Konwencjonalna 
+Ciepłownictwo 
+Energetyka 
+Odnawialna 
+Obrót 
+Dystrybucja 
+Gospodarka 
+Obiegu 
+Zamkniętego 
+Działalność 
+pozostała 
+Korekty 
+Razem 
+Przychody ze sprzedaży towarów 
+i produktów bez wyłączenia podatków 
+i opłat 
+5.848 
+1.859 
+322 
+10.311 
+1.939 
+20 
+10 
+(8.137) 
+12.172 
+Podatki i opłaty pobrane w imieniu 
+stron trzecich 
+(3) 
+(1) 
+- 
+(38) 
+(290) 
+- 
+- 
+- 
+(332) 
+Przychody ze sprzedaży towarów 
+i produktów, w tym: 
+5.845 
+1.858 
+322 
+10.273 
+1.649 
+20 
+10 
+(8.137) 
+11.840 
+Sprzedaż energii elektrycznej 
+4.104 
+824 
+199 
+3.369 
+1 
+- 
+- 
+(1.316) 
+7.181 
+Rynek mocy 
+513 
+77 
+71 
+10 
+- 
+- 
+- 
+- 
+671 
+Sprzedaż usług dystrybucyjnych 
+5 
+3 
+- 
+13 
+1.599 
+- 
+- 
+(20) 
+1.600 
+Sprzedaż ciepła 
+78 
+922 
+- 
+5 
+- 
+- 
+- 
+- 
+1.005 
+Sprzedaż praw majątkowych 
+pochodzenia energii 
+20 
+4 
+44 
+- 
+- 
+- 
+- 
+- 
+68 
+Regulacyjne usługi systemowe 
+90 
+- 
+8 
+- 
+- 
+- 
+- 
+- 
+98 
+Sprzedaż gazu ziemnego 
+- 
+- 
+- 
+105 
+- 
+- 
+- 
+(56) 
+49 
+Sprzedaż paliw 
+- 
+- 
+- 
+132 
+- 
+- 
+- 
+(72) 
+60 
+Sprzedaż uprawnień do emisji 
+CO2 
+1.018 
+28 
+- 
+6.639 
+- 
+- 
+- 
+(6.664) 
+1.021 
+Pozostała sprzedaż towarów 
+i materiałów 
+17 
+- 
+- 
+- 
+49 
+20 
+10 
+(9) 
+87 
+Przychody ze sprzedaży usług 
+- 
+16 
+- 
+224 
+12 
+38 
+91 
+(346) 
+35 
+PRZYCHODY Z UMÓW Z 
+KLIENTAMI 
+5.845 
+1.874 
+322 
+10.497 
+1.661 
+58 
+101 
+(8.483) 
+11.875 
+ 
+Przychody ze sprzedaży za okres zakończony 31 marca 2020 roku w podziale na kategorie 
+Poniższa tabela przedstawia uzgodnienie między ujawnieniem przychodów w podziale na kategorie a informacjami o przychodach, które 
+Grupa ujawnia dla każdego segmentu sprawozdawczego. 
+Energetyka 
+Konwencjonalna 
+Ciepłownictwo 
+Energetyka 
+Odnawialna 
+Obrót 
+Dystrybucja 
+Działalność 
+pozostała 
+Korekty 
+Razem 
+Przychody z umów z klientami 
+6.800 
+1.730 
+259 
+10.166 
+1.627 
+125 
+(8.190) 
+12.517 
+Przychody z tytułu 
+rekomp
+ensat
+ KDT 
+- 
+3 
+- 
+- 
+- 
+- 
+- 
+3 
+Przychody z leasingu 
+4 
+5 
+51 
+1 
+14 
+- 
+(4) 
+71 
+PRZYCHODY ZE SPRZEDAŻY, RAZEM 
+6.804 
+1.738 
+310 
+10.167 
+1.641 
+125 
+(8.194) 
+12.591 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+19 z 47 
+Poniższa tabela przedstawia przychody z umów z klientami w podziale na kategorie, które odzwierciedlają sposób, w jaki czynniki 
+ekonomiczne wpływają na charakter, kwotę, termin płatności oraz niepewność przychodów i przepływów pieniężnych. 
+Rodzaj dobra lub usługi 
+Energetyka 
+Konwencjonalna 
+Ciepłownictwo 
+Energetyka 
+Odnawialna 
+Obrót 
+Dystrybucja 
+Działalność 
+pozostała 
+Korekty 
+Razem 
+Przychody ze sprzedaży towarów i produktów 
+bez wyłączenia podatków i opłat 
+6.800 
+1.704 
+259 
+9.957 
+1.632 
+24 
+(7.840) 
+12.536 
+Podatki i opłaty pobrane w imieniu 
+stron trzecich 
+(1) 
+(1) 
+- 
+(32) 
+(19) 
+- 
+- 
+(53) 
+Przychody ze sprzedaży towarów 
+i produktów, w tym: 
+6.799 
+1.703 
+259 
+9.925 
+1.613 
+24 
+(7.840) 
+12.483 
+Sprzedaż energii elektrycznej 
+5.298 
+777 
+159 
+3.983 
+1 
+- 
+(2.139) 
+8.079 
+Sprzedaż usług dystrybucyjnych 
+4 
+3 
+- 
+13 
+1.561 
+- 
+(22) 
+1.559 
+Sprzedaż ciepła 
+58 
+707 
+- 
+5 
+- 
+- 
+- 
+770 
+Sprzedaż praw majątkowych 
+pochodzenia energii 
+14 
+4 
+84 
+- 
+- 
+- 
+3 
+105 
+Regulacyjne usługi systemowe 
+114 
+- 
+15 
+- 
+- 
+- 
+- 
+129 
+Sprzedaż gazu ziemnego 
+- 
+- 
+- 
+108 
+- 
+- 
+(59) 
+49 
+Sprzedaż paliw 
+- 
+- 
+- 
+247 
+- 
+- 
+(147) 
+100 
+Sprzedaż uprawnień do emisji CO2 
+1.276 
+200 
+- 
+5.569 
+- 
+- 
+(5.474) 
+1.571 
+Pozostała sprzedaż towarów 
+i materiałów 
+35 
+12 
+1 
+- 
+51 
+24 
+(2) 
+121 
+Przychody ze sprzedaży usług 
+1 
+27 
+- 
+241 
+14 
+101 
+(350) 
+34 
+PRZYCHODY Z UMÓW Z KLIENTAMI 
+6.800 
+1.730 
+259 
+10.166 
+1.627 
+125 
+(8.190) 
+12.517 
+6.2 
+Koszty w układzie rodzajowym i kalkulacyjnym 
+ 
+ 
+ 
+ 
+Okres zakończone 
+31 marca 2021 
+Okres zakończone 
+31 marca 2020 
+KOSZTY W UKŁADZIE RODZAJOWYM 
+ 
+ 
+Amortyzacja i odpisy aktualizujące 
+1.044 
+989 
+Zużycie materiałów i energii 
+1.543 
+1.520 
+Usługi obce 
+556 
+606 
+Podatki i opłaty 
+2.648 
+2.169 
+Koszty świadczeń pracowniczych 
+1.351 
+1.425 
+Pozostałe koszty rodzajowe 
+80 
+68 
+KOSZTY WEDŁUG RODZAJU, RAZEM 
+7.222 
+6.777 
+Zmiana stanu produktów 
+(10) 
+(12) 
+Koszt wytworzenia świadczeń na własne potrzeby jednostki 
+(133) 
+(221) 
+Koszty sprzedaży i dystrybucji 
+(417) 
+(348) 
+Koszty ogólnego zarządu 
+(260) 
+(272) 
+Wartość sprzedanych towarów i materiałów 
+3.756 
+5.358 
+KOSZT WŁASNY SPRZEDAŻY 
+10.158 
+11.282 
+ 
+ 
+6.2.1 
+Koszty amortyzacji, likwidacji oraz odpisy aktualizujące 
+Poniżej przedstawiono ujęcie amortyzacji i likwidacji oraz odpisów aktualizujących rzeczowe aktywa trwałe, wartości niematerialne, prawa 
+do użytkowania składników aktywów oraz nieruchomości inwestycyjne w sprawozdaniu z całkowitych dochodów. 
+ 
+Okres zakończony 
+Amortyzacja i likwidacja 
+Odpisy aktualizujące 
+31 marca 2021 
+RAT 
+WN 
+PDUA 
+NI 
+RAZEM 
+RAT 
+WN 
+RAZEM 
+Koszt własny sprzedaży 
+952 
+13 
+12 
+1 
+978 
+45 
+(1) 
+44 
+Koszty sprzedaży i dystrybucji 
+3 
+1 
+- 
+- 
+4 
+- 
+- 
+- 
+Koszty ogólnego zarządu 
+9 
+4 
+3 
+- 
+16 
+- 
+- 
+- 
+ODNIESIONE W WYNIK 
+FINANSOWY 
+964 
+18 
+15 
+1 
+998 
+45 
+(1) 
+44 
+Zmiana stanu produktów 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Koszt wytworzenia świadczeń na 
+własne potrzeby jednostki 
+2 
+- 
+- 
+- 
+2 
+- 
+- 
+- 
+RAZEM 
+966 
+18 
+15 
+1 
+1.000 
+45 
+(1) 
+44 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+20 z 47 
+ 
+Okres zakończony 
+ 
+Amortyzacja i likwidacja 
+Odpisy aktualizujące 
+31 marca 2020 
+RAT 
+WN 
+PDUA 
+NI 
+RAZEM 
+RAT 
+RAZEM 
+Koszt własny sprzedaży 
+915 
+18 
+14 
+1 
+948 
+30 
+30 
+Koszty sprzedaży i dystrybucji 
+3 
+1 
+- 
+- 
+4 
+- 
+- 
+Koszty ogólnego zarządu 
+8 
+4 
+2 
+- 
+14 
+1 
+1 
+ODNIESIONE W WYNIK 
+FINANSOWY 
+926 
+23 
+16 
+1 
+966 
+31 
+31 
+Zmiana stanu produktów 
+(14) 
+- 
+- 
+- 
+(14) 
+- 
+- 
+Koszt wytworzenia świadczeń na 
+własne potrzeby jednostki 
+5 
+1 
+- 
+- 
+6 
+- 
+- 
+RAZEM 
+917 
+24 
+16 
+1 
+958 
+31 
+31 
+Odpisy aktualizujące ujęte w okresie sprawozdawczym dotyczą głównie nakładów inwestycyjnych poniesionych w jednostkach, dla 
+których stwierdzono utratę wartości w poprzednich okresach. 
+W pozycji Amortyzacja i likwidacja, Grupa ujęła w bieżącym i porównawczym okresie kwotę 8 mln PLN z tytułu wartości netto likwidacji 
+RAT i WN. 
+6.3 
+Pozostałe przychody i koszty operacyjne 
+ 
+ 
+ 
+Okres zakończony 
+31 marca 2021 
+Okres zakończony 
+31 marca 2020 
+POZOSTAŁE PRZYCHODY/(KOSZTY) OPERACYJNE NETTO 
+ 
+ 
+Wycena i realizacja instrumentów pochodnych, w tym: 
+74 
+76 
+- CO2 
+73 
+69 
+- Węgiel 
+1 
+7 
+Kary, grzywny, odszkodowania 
+14 
+21 
+(Utworzenie)/Rozwiązanie pozostałych rezerw 
+10 
+(4) 
+Dotacje 
+8 
+9 
+(Utworzenie)/Rozwiązanie odpisów aktualizujących należności 
+4 
+(7) 
+Zysk ze zbycia RAT/WN 
+3 
+2 
+Pozostałe 
+(14) 
+(13) 
+RAZEM POZOSTAŁE PRZYCHODY/(KOSZTY) OPERACYJNE NETTO 
+99 
+84 
+6.4 
+Przychody i koszty finansowe 
+ 
+ 
+ 
+Okres zakończony 
+31 marca 2021 
+Okres zakończony 
+31 marca 2020 
+PRZYCHODY/(KOSZTY) FINANSOWE Z TYTUŁU INSTRUMENTÓW FINANSOWYCH NETTO 
+ 
+ 
+Dywidendy 
+- 
+- 
+Odsetki; w tym 
+(65) 
+(63) 
+ Przychody odsetkowe obliczone z zastosowaniem metody efektywnej stopy procentowej 
+8 
+11 
+Aktualizacja wartości 
+10 
+(8) 
+Rozwiązanie/(Utworzenie) odpisów 
+(2) 
+2 
+Różnice kursowe 
+(10) 
+(15) 
+Strata ze zbycia inwestycji 
+(19) 
+- 
+RAZEM PRZYCHODY/(KOSZTY) FINANSOWE Z TYTUŁU INSTRUMENTÓW FINANSOWYCH 
+NETTO 
+(86) 
+(84) 
+POZOSTAŁE PRZYCHODY/(KOSZTY) FINANSOWE NETTO 
+ 
+ 
+Koszty odsetkowe od pozycji niefinansowych 
+(46) 
+(59) 
+Odsetki od należności budżetowych 
+- 
+- 
+Utworzenie rezerw 
+(1) 
+(9) 
+Pozostałe 
+(1) 
+(5) 
+RAZEM POZOSTAŁE PRZYCHODY/(KOSZTY) FINANSOWE NETTO 
+(48) 
+(73) 
+RAZEM PRZYCHODY/(KOSZTY) FINANSOWE NETTO 
+(134) 
+(157) 
+ 
+Koszty odsetek dotyczą głównie wyemitowanych obligacji, zaciągniętych kredytów i pożyczek oraz leasingów. Koszt odsetek 
+od zobowiązań z tytułu leasingu w bieżącym okresie wyniósł 10 mln PLN (11 mln PLN w okresie porównawczym). 
+Koszt odsetkowy od pozycji niefinansowych dotyczy rezerw rekultywacyjnych oraz rezerw na świadczenia pracownicze. 
+Strata ze zbycia inwestycji w wysokości 19 mln PLN wynika ze sprzedaży udziałów PGE EJ 1 sp. z o.o. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+21 z 47 
+6.5 
+Udział w wyniku jednostek wykazywanych metodą praw własności 
+ 
+Okres zakończony 31 marca 2021 
+Polska Grupa 
+Górnicza 
+Polimex 
+Mostostal 
+ElectroMobility 
+Poland 
+PEC Bogatynia 
+Energopomiar 
+UDZIAŁ W GŁOSACH 
+15,32% 
+16,48% 
+25,00% 
+34,93% 
+49,79% 
+Przychody 
+1.956 
+421 
+- 
+7 
+17 
+Wynik z działalności kontynuowanej 
+(148) 
+- 
+(1) 
+1 
+3 
+Udział w wyniku jednostek wykazywanych metodą 
+praw własności przed korektami konsolidacyjnymi 
+(23) 
+- 
+- 
+- 
+2 
+Eliminacja zysków i strat niezrealizowanych 
+(7) 
+- 
+- 
+- 
+- 
+Odpis z tytułu utraty wartości 
+23 
+- 
+- 
+- 
+ 
+UDZIAŁ W WYNIKU JEDNOSTEK WYKAZYWANYCH 
+METODĄ PRAW WŁASNOŚCI 
+(7) 
+- 
+- 
+- 
+1 
+ 
+Okres zakończony 31 marca 2020 
+Polska Grupa 
+Górnicza 
+Polimex 
+Mostostal 
+ElectroMobility 
+Poland 
+PEC Bogatynia 
+Energopomiar 
+UDZIAŁ W GŁOSACH 
+15,32% 
+16,48% 
+25,00% 
+34,93% 
+49,79% 
+Przychody 
+1.832 
+337 
+- 
+5 
+18 
+Wynik z działalności kontynuowanej 
+(136) 
+57 
+(1) 
+1 
+4 
+Udział w wyniku jednostek wykazywanych metodą 
+praw własności przed korektami konsolidacyjnymi 
+(21) 
+9 
+- 
+- 
+2 
+Eliminacja zysków i strat niezrealizowanych 
+3 
+- 
+- 
+- 
+- 
+UDZIAŁ W WYNIKU JEDNOSTEK WYKAZYWANYCH 
+METODĄ PRAW WŁASNOŚCI 
+(18) 
+9 
+- 
+- 
+2 
+Grupa dokonuje korekty konsolidacyjnej dotyczącej marży na sprzedaży węgla pomiędzy Polską Grupą Górniczą a GK PGE. 
+7. Odpisy aktualizujące wartość aktywów 
+ 
+ 
+Okres zakończony 
+Okres zakończony 
+ 
+31 marca 2021 
+31 marca 2020 
+dane przekształcone 
+ODPISY AKTUALIZUJĄCE RZECZOWE AKTYWA TRWAŁE 
+ 
+ 
+Zawiązanie odpisu 
+47 
+34 
+Rozwiązanie odpisu 
+2 
+3 
+ODPISY AKTUALIZUJĄCE WARTOŚCI NIEMATERIALNE 
+ 
+ 
+Zawiązanie odpisu 
+- 
+- 
+Rozwiązanie odpisu 
+1 
+- 
+ODPISY AKTUALIZUJĄCE ZAPASY 
+ 
+ 
+Zawiązanie odpisu 
+2 
+7 
+Rozwiązanie odpisu 
+3 
+15 
+ 
+ 
+8. Podatek dochodowy 
+Podatek w sprawozdaniu z całkowitych dochodów 
+Główne składniki obciążenia podatkowego za okres zakończony dnia 31 marca 2021 roku oraz dnia 31 marca 2020 roku przedstawiają się 
+następująco: 
+ 
+ 
+ 
+Okres zakończony 
+31 marca 2021 
+Okres zakończony 
+31 marca 2020 
+PODATEK DOCHODOWY WYKAZYWANY W RACHUNKU ZYSKÓW I STRAT 
+ 
+ 
+Bieżący podatek dochodowy 
+42 
+375 
+Korekty dotyczące bieżącego podatku dochodowego z lat ubiegłych 
+- 
+- 
+Odroczony podatek dochodowy 
+144 
+(249) 
+Korekty odroczonego podatku dochodowego 
+3 
+(2) 
+OBCIĄŻENIA PODATKOWE WYKAZYWANE W RACHUNKU ZYSKÓW I STRAT 
+189 
+124 
+PODATEK DOCHODOWY WYKAZYWANY W INNYCH CAŁKOWITYCH DOCHODACH 
+ 
+ 
+Od zysków i strat aktuarialnych z wyceny rezerw na świadczenia pracownicze 
+- 
+(6) 
+Od wyceny instrumentów zabezpieczających 
+18 
+33 
+(Korzyść podatkowa) / obciążenie podatkowe ujęte w innych całkowitych dochodach 
+(kapitale własnym) 
+18 
+27 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+22 z 47 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z SYTUACJI 
+FINANSOWEJ 
+9. Istotne transakcje nabycia i sprzedaży rzeczowych aktywów trwałych, wartości 
+niematerialnych oraz praw do użytkowania składników aktywów 
+W bieżącym okresie sprawozdawczym Grupa Kapitałowa PGE zakupiła rzeczowe aktywa trwałe oraz wartości niematerialne o wartości 
+828 mln PLN oraz uzyskała prawa do użytkowania bazowych składników aktywów o wartości 12 mln PLN. Największe nakłady poniesione 
+zostały przez segment Energetyka Konwencjonalna (417 mln PLN) oraz segment Dystrybucja (287 mln PLN). Główne pozycje nakładów 
+stanowiły: budowa nowego bloku (nr 7) w Elektrowni Turów (70 mln PLN), budowa dwóch bloków gazowo-parowych w Elektrowni Dolna 
+Odra (172 mln PLN) oraz przyłączenie nowych odbiorców do sieci OSD (129 mln PLN). Wartości te zawierają koszty finansowania 
+zewnętrznego. 
+W bieżącym okresie Grupa sprzedała udziały PGE EJ1 sp. z o.o. W wyniku tej transakcji wartość netto rzeczowych aktywów trwałych, 
+wartości niematerialnych oraz prawa do użytkowania aktywów zmniejszyły się o 415 mln PLN. 
+10. Przyszłe zobowiązania inwestycyjne 
+Na dzień 31 marca 2021 roku Grupa Kapitałowa PGE zobowiązała się ponieść nakłady na rzeczowe aktywa trwałe w kwocie około 
+7.233 mln PLN. Kwoty te przeznaczone będą głównie na budowę nowych bloków, modernizację majątku jednostek Grupy oraz zakup 
+maszyn i urządzeń. 
+ 
+Stan na dzień 
+31 marca 2021 
+Stan na dzień 
+31 grudnia 2020 
+Energetyka Konwencjonalna 
+5.594 
+5.790 
+Dystrybucja 
+1.269 
+1.346 
+Energetyka Odnawialna 
+188 
+185 
+Ciepłownictwo 
+171 
+190 
+Gospodarka Obiegu Zamkniętego 
+5 
+- 
+Obrót 
+3 
+3 
+Działalność pozostała 
+3 
+175 
+PRZYSZŁE ZOBOWIĄZANIA INWESTYCYJNE, RAZEM 
+7.233 
+7.689 
+ 
+Najbardziej istotne przyszłe zobowiązania inwestycyjne dotyczą: 
+ 
+Energetyka Konwencjonalna: 
+ 
+Oddział Elektrownia Bełchatów – modernizacja instalacji odsiarczania spalin – około 130 mln PLN, 
+ 
+Oddział Elektrownia Turów – budowa nowego bloku nr 7 – około 548 mln PLN, 
+ 
+Oddział Zespół Elektrowni Dolna Odra – budowa dwóch bloków gazowo-parowych oraz umowa o świadczenie usług 
+serwisowych dla dwóch turbin gazowych – około 4.090 mln PLN, 
+ 
+Dystrybucja – zobowiązania inwestycyjne związane głównie z majątkiem sieciowym w łącznej wysokości około 1.269 mln PLN. 
+Zmniejszenie przyszłych zobowiązań inwestycyjnych Działalności pozostałej jest związane ze sprzedażą spółki PGE EJ1 sp. z o.o., która 
+generowała te zobowiązania. 
+11. Udziały i akcje wykazywane metodą praw własności 
+ 
+ 
+Stan na dzień 
+31 marca 2021 
+Stan na dzień 
+31 grudnia 2020 
+Polska Grupa Górnicza S.A., Katowice 
+- 
+- 
+Polimex - Mostostal S.A., Warszawa 
+127 
+127 
+ElectroMobility Poland S.A., Warszawa 
+14 
+14 
+PEC Bogatynia Sp. z o.o., Bogatynia 
+- 
+- 
+Energopomiar Sp. z o.o. , Gliwice 
+13 
+11 
+UDZIAŁY I AKCJE WYKAZYWANE METODĄ PRAW WŁASNOŚCI 
+154 
+152 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+23 z 47 
+ 
+ 
+Polska Grupa 
+Górnicza 
+Polimex 
+Mostostal 
+ElectroMobility 
+Poland 
+PEC Bogatynia 
+Energopomiar 
+UDZIAŁ W GŁOSACH 
+15,32% 
+16,48% 
+25,00% 
+34,93% 
+49,79% 
+STAN NA DZIEŃ 31 MARCA 2021 
+ 
+ 
+ 
+ 
+ 
+Aktywa obrotowe 
+1.645 
+1.131 
+13 
+5 
+30 
+Aktywa trwałe 
+8.283 
+650 
+41 
+20 
+18 
+Zobowiązania krótkoterminowe 
+6.638 
+907 
+1 
+2 
+9 
+Zobowiązania długoterminowe 
+2.828 
+201 
+- 
+- 
+14 
+AKTYWA NETTO 
+462 
+673 
+53 
+23 
+25 
+Udział w aktywach netto 
+71 
+111 
+14 
+7 
+13 
+Wartość firmy 
+1 
+16 
+- 
+- 
+- 
+Odpis z tytułu utraty wartości inwestycji 
+(72) 
+- 
+- 
+(7) 
+- 
+UDZIAŁY I AKCJE WYKAZYWANE METODĄ 
+PRAW WŁASNOŚCI 
+- 
+127 
+14 
+- 
+13 
+ 
+ 
+ 
+ 
+Polska Grupa 
+Górnicza 
+Polimex 
+Mostostal 
+ElectroMobility 
+Poland 
+PEC Bogatynia 
+Energopomiar 
+UDZIAŁ W GŁOSACH 
+15,32% 
+16,48% 
+25,00% 
+34,93% 
+49,79% 
+STAN NA DZIEŃ 31 GRUDNIA 2020 
+ 
+ 
+ 
+ 
+ 
+Aktywa obrotowe 
+1.770 
+1.390 
+18 
+4 
+33 
+Aktywa trwałe 
+9.423 
+674 
+39 
+21 
+18 
+Zobowiązania krótkoterminowe 
+6.626 
+1.175 
+3 
+2 
+18 
+Zobowiązania długoterminowe 
+2.704 
+214 
+- 
+- 
+10 
+AKTYWA NETTO 
+1.863 
+675 
+54 
+23 
+23 
+Udział w aktywach netto 
+285 
+111 
+14 
+7 
+11 
+Wartość firmy 
+1 
+16 
+- 
+- 
+- 
+Odpis z tytułu utraty wartości inwestycji 
+(286) 
+- 
+- 
+(7) 
+- 
+UDZIAŁY I AKCJE WYKAZYWANE METODĄ 
+PRAW WŁASNOŚCI 
+- 
+127 
+14 
+- 
+11 
+ 
+W poprzednim okresie dokonano odpisu z tytułu utraty wartości inwestycji w PGG w kwocie wynoszącej na 31 grudnia 2020 roku 286 mln 
+PLN. Po odpisie wartość księgowa PGG w skonsolidowanym sprawozdaniu finansowym GK PGE wynosiła 0. 
+W bieżącym okresie odpis został częściowo wykorzystany ze względu na straty ponoszone przez PGG. Wysokość odpisu została 
+skorygowana odpowiednio do wysokości aktywów netto przypadających na GK PGE. 
+12. Podatek odroczony w sprawozdaniu z sytuacji finansowej 
+12.1 
+Aktywa z tytułu podatku odroczonego 
+ 
+ 
+Stan na dzień 
+31 marca 2021 
+Stan na dzień 
+31 grudnia 2020 
+Różnica pomiędzy podatkową a bieżącą wartością księgową rzeczowych aktywów trwałych 
+2.651 
+2.776 
+Rezerwa na koszty rekultywacji 
+1.253 
+1.242 
+Rezerwa na koszty emisji CO2 
+1.553 
+1.206 
+Rezerwy na świadczenia pracownicze 
+715 
+723 
+Różnica pomiędzy podatkową a bieżącą wartością księgową zobowiązań 
+330 
+316 
+Różnica pomiędzy podatkową a bieżącą wartością księgową aktywów finansowych 
+422 
+395 
+Różnica między bilansową a podatkową wartością praw do użytkowania 
+165 
+171 
+Straty podatkowe 
+620 
+111 
+Pozostałe rezerwy 
+140 
+157 
+Rekompensaty z tytułu rozwiązania KDT 
+79 
+79 
+Nieodpłatnie otrzymana infrastruktura i otrzymane opłaty przyłączeniowe 
+28 
+28 
+Różnica pomiędzy podatkową a bieżącą wartością księgową zapasów 
+13 
+11 
+Pozostałe 
+15 
+4 
+RAZEM AKTYWA Z TYTUŁU PODATKU ODROCZONEGO 
+7.984 
+7.219 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+24 z 47 
+12.2 
+Zobowiązania z tytułu podatku odroczonego 
+ 
+ 
+Stan na dzień 
+31 marca 2021 
+Stan na dzień 
+31 grudnia 2020 
+Różnica pomiędzy podatkową a bieżącą wartością księgową rzeczowych aktywów trwałych 
+4.970 
+5.000 
+Różnica pomiędzy podatkową a bieżącą wartością księgową aktywów finansowych 
+812 
+713 
+Różnica między bilansową a podatkową wartością zobowiązań leasingowych 
+178 
+181 
+Uprawnienia do emisji CO2 
+1.058 
+199 
+Różnica pomiędzy podatkową a bieżącą wartością księgową praw majątkowych pochodzenia 
+energii 
+19 
+31 
+Należności z tytułu rozpoznanych rekompensat – Ustawa o cenach prądu 
+17 
+16 
+Różnica pomiędzy podatkową a bieżącą wartością księgową zobowiązań finansowych 
+10 
+8 
+Pozostałe 
+79 
+65 
+RAZEM ZOBOWIĄZANIA Z TYTUŁU PODATKU ODROCZONEGO 
+7.143 
+6.213 
+Podatek grupy po skompensowaniu aktywów i zobowiązań w poszczególnych spółkach i podatkowej grupie kapitałowej 
+Aktywa z tytułu odroczonego podatku dochodowego 
+1.204 
+1.351 
+Zobowiązania z tytułu odroczonego podatku dochodowego 
+(363) 
+(345) 
+13. Zapasy 
+ 
+Stan na dzień 
+31 marca 2021 
+Stan na dzień 
+31 grudnia 2020 
+Węgiel kamienny 
+644 
+963 
+Materiały remontowo-eksploatacyjne 
+707 
+676 
+Mazut 
+34 
+29 
+Pozostałe materiały 
+63 
+70 
+RAZEM MATERIAŁY 
+1.448 
+1.738 
+Prawa majątkowe zielone 
+903 
+1.140 
+Pozostałe prawa majątkowe 
+7 
+3 
+RAZEM PRAWA POCHODZENIA ENERGII 
+910 
+1.143 
+Uprawnienia do emisji CO2 przeznaczone do sprzedaży 
+1 
+1 
+Węgiel kamienny przeznaczony do sprzedaży 
+124 
+144 
+Pozostałe towary 
+20 
+25 
+RAZEM TOWARY 
+145 
+170 
+POZOSTAŁE ZAPASY 
+80 
+72 
+RAZEM ZAPASY 
+2.583 
+3.123 
+14. Uprawnienia do emisji CO2 na własne potrzeby 
+Zgodnie z postanowieniami rozporządzenia Rady Ministrów z dnia 8 kwietnia 2014 roku w sprawie wykazu instalacji wytwarzających 
+energię elektryczną, objętych systemem handlu uprawnieniami do emisji gazów cieplarnianych, instalacjom należącym do GK PGE nie 
+przysługuje od 2020 roku przydział darmowych uprawnień do emisji. 
+W przypadku uprawnień EUA na emisje CO2 związane z wytwarzaną energią cieplną harmonogram przydziału na 2021 rok nie został 
+jeszcze zatwierdzony, w lutym 2020 roku zostały wydane uprawnienia EUA, które posłużyły na pokrycie emisji CO2 za 2020 rok (1 mln 
+EUA). 
+ 
+ 
+Stan na dzień 31 marca 2021 
+Stan na dzień 31 grudnia 2020 
+EUA 
+Długoterminowe 
+Krótkoterminowe 
+Długoterminowe 
+Krótkoterminowe 
+Ilość (mln Mg) 
+1 
+57 
+1 
+20 
+Wartość (mln PLN) 
+41 
+6.150 
+39 
+1.735 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+25 z 47 
+ 
+EUA 
+Ilość (mln Mg) 
+Wartość (mln PLN) 
+STAN NA DZIEŃ 1 STYCZNIA 2020 
+21 
+1.205 
+Zakup 
+78 
+6.629 
+Przyznane nieodpłatnie 
+13 
+- 
+Umorzenie 
+(61) 
+(3.414) 
+Sprzedaż 
+(30) 
+(2.646) 
+STAN NA DZIEŃ 31 GRUDNIA 2020 
+21 
+1.774 
+Zakup 
+49 
+5.620 
+Umorzenie 
+(2) 
+(168) 
+Sprzedaż 
+(10) 
+(1.035) 
+STAN NA DZIEŃ 31 MARCA 2021 
+58 
+6.191 
+ 
+15. Pozostałe aktywa krótko i długoterminowe 
+15.1 
+Pozostałe aktywa długoterminowe 
+ 
+ 
+Stan na dzień 
+31 marca 2021 
+Stan na dzień 
+31 grudnia 2020 
+Zaliczki na rzeczowe aktywa trwałe w budowie 
+686 
+711 
+Koszty pozyskania klienta 
+105 
+105 
+Pozostałe aktywa długoterminowe 
+21 
+23 
+POZOSTAŁE AKTYWA, RAZEM 
+812 
+839 
+ 
+Zaliczki na rzeczowe aktywa trwałe w budowie dotyczą głównie projektów inwestycyjnych prowadzonych przez segment Energetyki 
+Konwencjonalnej. Koszty pozyskania klienta dotyczą współfinansowania przez PGE Energia Ciepła S.A. inwestycji w rozwój sieci 
+ciepłowniczych oraz prowizji agencyjnych w PGE Obrót S.A. 
+15.2 
+Pozostałe aktywa krótkoterminowe 
+ 
+ 
+Stan na dzień 
+31 marca 2021 
+Stan na dzień 
+31 grudnia 2020 
+KOSZTY ROZLICZANE W CZASIE 
+ 
+ 
+Koszty pozyskania klienta 
+52 
+50 
+Kontrakty długoterminowe 
+46 
+43 
+Ubezpieczenia majątkowe i deliktowe 
+18 
+14 
+Koszty logistyczne związane z zakupem węgla 
+13 
+17 
+Usługi informatyczne 
+12 
+16 
+ZFŚS 
+2 
+10 
+Pozostałe koszty rozliczane w czasie 
+74 
+20 
+INNE AKTYWA KRÓTKOTERMINOWE 
+ 
+ 
+Należności z tytułu naliczonego VAT 
+1.251 
+519 
+Należności z tytułu akcyzy 
+12 
+17 
+Zaliczki na dostawy 
+5 
+11 
+Pozostałe aktywa krótkoterminowe 
+77 
+82 
+POZOSTAŁE AKTYWA, RAZEM 
+1.562 
+799 
+ 
+Kwota należności z tytułu naliczonego VAT związana jest głównie z szacunkiem sprzedaży energii elektrycznej nieodczytanej na 
+urządzeniach pomiarowych na dzień sprawozdawczy oraz transakcjami związanymi z obrotem uprawnieniami do emisji CO2. Wzrost 
+wartości podatku VAT w stosunku do okresu poprzedniego wynika przede wszystkim ze wzrostu skali transakcji przy jednoczesnym 
+wzroście cen uprawnień do emisji CO2. 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+26 z 47 
+16. Wybrane aktywa finansowe 
+Wartość należności finansowych wycenianych według zamortyzowanego kosztu stanowi racjonalne przybliżenie ich wartości godziwych. 
+16.1 
+Należności z tytułu dostaw i usług i pozostałe należności finansowe 
+ 
+Stan na dzień 31 marzec 2021 
+Stan na dzień 31 grudnia 2020 
+ 
+Długoterminowe 
+Krótkoterminowe 
+Długoterminowe 
+Krótkoterminowe 
+ 
+ 
+ 
+ 
+Należności z tytułu dostaw i usług 
+- 
+3.953 
+- 
+3.602 
+Lokaty, depozyty i pożyczki 
+194 
+5 
+185 
+6 
+Obligacje 
+- 
+- 
+- 
+40 
+Należności z tytułu rozpoznanych rekompensat na 
+podstawie Ustawy o cenach prądu 
+- 
+85 
+- 
+85 
+Kaucje, wadia i zabezpieczania 
+4 
+662 
+2 
+788 
+Odszkodowania i kary 
+- 
+107 
+- 
+102 
+Pozostałe należności finansowe 
+8 
+62 
+4 
+189 
+NALEŻNOŚCI FINANSOWE 
+206 
+4.874 
+191 
+4.812 
+Kaucje, wadia i zabezpieczenia dotyczą głównie depozytów zabezpieczających i transakcyjnych z transakcjami na rynku energii 
+elektrycznej i CO2. 
+PGE Obrót wykazuje należność od Zarządcy Rozliczeń z tytułu wniosków korygujących o korektę otrzymanej kwoty różnicy ceny 
+i rekompensaty finansowej za okres od 1 stycznia do 31 grudnia 2019 roku na wartość 85 mln PLN. 
+16.2 
+Środki pieniężne i ich ekwiwalenty 
+Lokaty krótkoterminowe są dokonywane na różne okresy, z reguły od jednego dnia do jednego miesiąca, w zależności od aktualnego 
+zapotrzebowania Grupy na środki pieniężne. 
+Saldo środków pieniężnych i ich ekwiwalentów składa się z następujących pozycji: 
+ 
+ 
+ 
+Stan na dzień 
+31 marca 2021 
+Stan na dzień 
+31 grudnia 2020 
+Środki pieniężne w banku i kasie 
+2.518 
+1.415 
+Lokaty typu overnight 
+- 
+309 
+Lokaty krótkoterminowe 
+131 
+1.423 
+Środki na rachunkach VAT 
+253 
+1.042 
+RAZEM 
+2.902 
+4.189 
+Różnice kursowe od środków pieniężnych w walutach 
+(8) 
+(16) 
+Saldo środków pieniężnych i ekwiwalentów wykazanych w rachunku przepływów 
+2.894 
+4.173 
+ 
+ 
+ 
+Pozostające do dyspozycji limity kredytowe na dzień sprawozdawczy 
+6.455 
+6.556 
+w tym limity kredytowe w rachunku bieżącym 
+1.810 
+1.811 
+ 
+Szczegółowy opis zawartych umów kredytowych znajduje się w nocie 20.1 niniejszego sprawozdania finansowego. 
+W wartości środków pieniężnych zawarte są środki pieniężne o ograniczonej możliwości dysponowania w kwocie 139 mln PLN (93 mln 
+PLN w okresie porównawczym) na rachunkach klientów PGE Dom Maklerski S.A. stanowiące zabezpieczenie rozliczeń z IRGiT, środki na 
+rachunkach VAT w kwocie 253 mln PLN (1 042 mln PLN w okresie porównawczym) oraz 110 mln z tytułu kaucji i wadiów (104 mln PLN 
+w okresie porównawczym). 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+27 z 47 
+17. Instrumenty pochodne i inne aktywa wyceniane w wartości godziwej przez wynik 
+ 
+Stan na dzień 31 marca 2021 
+ 
+Aktywa 
+Zobowiązania 
+INSTRUMENTY POCHODNE WYCENIANE W WARTOŚCI GODZIWEJ PRZEZ WYNIK 
+FINANSOWY 
+ 
+ 
+Forward walutowy 
+9 
+4 
+Forward towarowy 
+73 
+- 
+SWAP towarowy 
+11 
+15 
+Kontrakty na zakup/sprzedaż węgla 
+1 
+1 
+Opcje 
+25 
+- 
+INSTRUMENTY POCHODNE ZABEZPIECZAJĄCE 
+ 
+ 
+Transakcje zabezpieczające CCIRS 
+92 
+- 
+Transakcje zabezpieczające IRS 
+- 
+229 
+Forward walutowy USD 
+3 
+- 
+Forward walutowy EUR 
+275 
+12 
+POZOSTAŁE AKTYWA WYCENIANE W WARTOŚCI GODZIWEJ PRZEZ WYNIK 
+FINANSOWY 
+ 
+ 
+Jednostki uczestnictwa w funduszu inwestycyjnym 
+52 
+- 
+RAZEM 
+541 
+261 
+część krótkoterminowa 
+371 
+32 
+część długoterminowa 
+170 
+229 
+ 
+ 
+Stan na dzień 31 grudnia 2020 
+ 
+ 
+Aktywa 
+Zobowiązania 
+INSTRUMENTY POCHODNE WYCENIANE W WARTOŚCI GODZIWEJ PRZEZ WYNIK 
+FINANSOWY 
+ 
+ 
+Forward walutowy 
+3 
+4 
+Forward towarowy 
+11 
+4 
+SWAP towarowy 
+11 
+13 
+Kontrakty na zakup/sprzedaż węgla 
+17 
+18 
+Opcje 
+16 
+- 
+INSTRUMENTY POCHODNE ZABEZPIECZAJĄCE 
+ 
+ 
+Transakcje zabezpieczające CCIRS 
+64 
+- 
+Transakcje zabezpieczające IRS 
+- 
+385 
+Forward walutowy USD 
+- 
+1 
+Forward walutowy EUR 
+381 
+23 
+POZOSTAŁE AKTYWA WYCENIANE W WARTOŚCI GODZIWEJ PRZEZ WYNIK 
+FINANSOWY 
+ 
+ 
+Jednostki uczestnictwa w funduszu inwestycyjnym 
+52 
+- 
+RAZEM 
+555 
+448 
+część krótkoterminowa 
+423 
+63 
+część długoterminowa 
+132 
+385 
+ 
+Forward’y towarowe i walutowe 
+Transakcje terminowe towarowe i walutowe związane są przede wszystkim z handlem uprawnieniami do emisji CO2 oraz sprzedażą węgla. 
+Dla ujęcia transakcji terminowych walutowych związanych z zakupem uprawnień CO2 Grupa stosuje rachunkowość zabezpieczeń. 
+Opcje 
+20 stycznia 2017 roku PGE S.A. nabyła od Towarzystwa Finansowego Silesia Sp. z o.o. opcję call na zakup akcji Polimex-Mostostal S.A. 
+Opcja została wyceniona z wykorzystaniem metody Blacka-Scholesa. 
+Swap’y na węgiel 
+W bieżącym okresie PGE Paliwa sp. z o.o. w celu zabezpieczenia swojego ryzyka towarowego na cenę węgla importowanego, zawarła 
+szereg transakcji zabezpieczających to ryzyko za pomocą swap’ów towarowych na węgiel. Ilość i wartość transakcji jest skorelowana 
+z ilością i wartością importowanego węgla. Zmiana z tytułu wartości godziwej ujmowana jest w rachunku zysków i strat. 
+Kontrakty zakupowe i sprzedażowe z fizyczną dostawą węgla 
+PGE Paliwa Sp. z o.o. wycenia wszystkie kontrakty na sprzedaż i zakup węgla z fizyczną dostawą w modelu tradera-brokera do wartości 
+godziwej. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+28 z 47 
+Transakcje IRS 
+PGE S.A. zawarła transakcje IRS zabezpieczające stopę procentową od zaciągniętych kredytów i wyemitowanych obligacji o łącznej 
+wartości nominalnej 7.030 mln PLN. Dla ujęcia powyższych transakcji IRS Grupa stosuje rachunkowość zabezpieczeń. Wpływ 
+rachunkowości zabezpieczeń na kapitał z aktualizacji wyceny został przedstawiony w nocie 18.2 niniejszego skonsolidowanego 
+sprawozdania finansowego. 
+Transakcje zabezpieczające CCIRS 
+W związku z zawarciem umów pożyczek ze spółką PGE Sweden AB (publ), PGE S.A. zawarła transakcje CCIRS, zabezpieczające kurs 
+walutowy spłaty kapitału i odsetek. W transakcjach tych banki-kontrahenci płacą PGE S.A. odsetki oparte na stopie stałej w EUR, 
+a PGE S.A. płaci odsetki oparte na stopie stałej w PLN. W skonsolidowanym sprawozdaniu finansowym odpowiednia część transakcji CCIRS 
+traktowana jest jako zabezpieczenie obligacji wyemitowanych przez PGE Sweden AB (publ). 
+Jednostki uczestnictwa w funduszu inwestycyjnym 
+Na dzień sprawozdawczy Spółka posiada jednostki uczestnictwa w trzech subfunduszach Towarzystwa Funduszy Inwestycyjnych 
+Energia S.A. 
+18. Kapitały własne 
+Podstawowym założeniem polityki Grupy w zakresie zarządzania kapitałami jest utrzymanie optymalnej struktury kapitału w długim 
+okresie, zapewnienie dobrego standingu finansowego i bezpiecznych wskaźników struktury kapitału, które wspierałyby działalność 
+operacyjną Grupy Kapitałowej PGE. Istotne jest także utrzymanie silnej bazy kapitałowej, będącej podstawą budowania zaufania ze strony 
+przyszłych inwestorów, kredytodawców oraz rynku i zapewniającej przyszły rozwój Grupy Kapitałowej. 
+18.1 
+Kapitał podstawowy 
+ 
+ 
+Stan na dzień 
+31 marca 2021 
+Stan na dzień 
+31 grudnia 2020 
+1.470.576.500 akcji zwykłych serii A o wartości nominalnej 10,25 złotych każda 
+15.073 
+15.073 
+259.513.500 akcji zwykłych serii B o wartości nominalnej 10,25 złotych każda 
+2.660 
+2.660 
+73.228.888 akcji zwykłych serii C o wartości nominalnej 10,25 złotych każda 
+751 
+751 
+66.441.941 akcji zwykłych serii D o wartości nominalnej 10,25 złotych każda 
+681 
+681 
+RAZEM KAPITAŁ PODSTAWOWY 
+19.165 
+19.165 
+ 
+Wszystkie akcje Spółki zostały opłacone. 
+Po dniu sprawozdawczym do dnia sporządzenia niniejszego sprawozdania finansowego nie wystąpiły zmiany w wysokości kapitału 
+podstawowego Spółki. 
+Prawa akcjonariuszy - Uprawnienia Skarbu Państwa dotyczące działalności Spółki 
+Spółka wchodzi w skład Grupy Kapitałowej PGE, w stosunku do której Skarb Państwa posiada szczególne uprawnienia, dopóki pozostaje 
+jej akcjonariuszem. 
+Szczególne uprawnienia Skarbu Państwa, które mogą mieć zastosowanie do spółek z Grupy Kapitałowej PGE, przewiduje ustawa z dnia 
+18 marca 2010 roku o szczególnych uprawnieniach ministra właściwego do spraw energii oraz ich wykonywaniu w niektórych spółkach 
+kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych 
+(tj. Dz. U. z 2016 roku, poz. 2012). Ustawa określa szczególne uprawnienia przysługujące ministrowi właściwemu do spraw energii 
+w spółkach kapitałowych lub grupach kapitałowych, prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw 
+gazowych, których mienie zostało ujawnione w jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących w skład 
+infrastruktury krytycznej. 
+Na podstawie przedmiotowych przepisów minister właściwy do spraw energii, może wyrazić sprzeciw wobec podjętej przez Zarząd 
+uchwały lub innej dokonanej przez Zarząd czynności prawnej, której przedmiotem jest rozporządzenie składnikiem mienia stanowiące 
+zagrożenie dla funkcjonowania, ciągłości działania oraz integralności infrastruktury krytycznej. Sprzeciwem mogą być objęte również 
+uchwały organu spółki dotyczące: 
+ 
+rozwiązania spółki, 
+ 
+zmiany przeznaczenia lub zaniechania eksploatacji składnika mienia wchodzącego w skład infrastruktury krytycznej, 
+ 
+zmiany przedmiotu przedsiębiorstwa spółki, 
+ 
+zbycia albo wydzierżawienia przedsiębiorstwa lub jego zorganizowanej części oraz ustanowienia na nich ograniczonego prawa 
+rzeczowego, 
+ 
+przyjęcia planu rzeczowo-finansowego, planu działalności inwestycyjnej lub wieloletniego planu strategicznego, 
+ 
+przeniesienia siedziby spółki za granicę, 
+jeżeli wykonanie takiej uchwały stanowiłoby rzeczywiste zagrożenie dla funkcjonowania, ciągłości działania oraz integralności 
+infrastruktury krytycznej. Sprzeciw wyrażany jest w formie decyzji administracyjnej. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+29 z 47 
+18.2 
+Kapitał z wyceny instrumentów finansowych 
+ 
+Okres zakończony 
+31 marca 2021 
+Rok zakończony 
+31 grudnia 2020 
+NA DZIEŃ 1 STYCZNIA 
+(13) 
+(323) 
+Zmiana kapitału z wyceny instrumentów finansowych: 
+89 
+383 
+ Wycena instrumentów zabezpieczających w tym: 
+82 
+387 
+Ujęcie skutecznej części zmiany wartości godziwej zabezpieczających instrumentów 
+finansowych w części uznanej za skuteczne zabezpieczenie 
+91 
+420 
+Naliczone odsetki na instrumencie pochodnym przeniesione z kapitału 
+z wyceny i ujęte w kosztach odsetkowych 
+(2) 
+17 
+Rewaluacja walutowa transakcji CCIRS przeniesiona z kapitału i ujęta w wyniku 
+z różnic kursowych 
+(7) 
+(51) 
+Nieefektywna część zmiany wyceny do wartości godziwej transakcji zabezpieczających 
+zaprezentowana w rachunku zysków i strat 
+- 
+1 
+ Wycena pozostałych instrumentów finansowych 
+7 
+(4) 
+Podatek odroczony 
+(18) 
+(73) 
+KAPITAŁ Z WYCENY INSTRUMENTÓW FINANSOWYCH 
+PO UWZGLĘDNIENIU PODATKU ODROCZONEGO 
+58 
+(13) 
+ 
+Na kapitał z wyceny instrumentów finansowych składa się w głównej mierze wycena z tytułu wdrożonej rachunkowości zabezpieczeń 
+przepływów pieniężnych. 
+18.3 
+Dywidendy wypłacone i zaproponowane do zapłaty 
+27 kwietnia 2021 roku Zarząd PGE S.A. podjął decyzję o rekomendacji niewypłacania dywidendy za rok 2020. Decyzja została podjęta 
+zgodnie z polityką dywidendy, w szczególności w wyniku analizy zadłużenia Spółki w kontekście realizacji programu inwestycyjnego, 
+zgodnie z założeniami Strategii Grupy PGE do 2030 roku. 
+19. Rezerwy 
+ 
+Wartość księgowa rezerw przedstawia się następująco: 
+ 
+Stan na dzień 31 marca 2021 
+Stan na dzień 31 grudnia 2020 
+ 
+Długoterminowe 
+Krótkoterminowe 
+Długoterminowe 
+Krótkoterminowe 
+Świadczenia pracownicze 
+3.013 
+269 
+3.007 
+276 
+Rezerwa na koszty rekultywacji 
+8.176 
+- 
+8.110 
+1 
+Rezerwa na koszty emisji CO2 
+- 
+8.143 
+- 
+6.318 
+Rezerwy na wartość praw majątkowych przeznaczonych 
+do umorzenia 
+- 
+507 
+- 
+589 
+Roszczenia z tytułu bezumownego korzystania 
+z nieruchomości 
+48 
+5 
+58 
+5 
+Pozostałe rezerwy 
+33 
+155 
+32 
+122 
+RAZEM REZERWY 
+11.270 
+9.079 
+11.207 
+7.311 
+Zmiany stanu rezerw 
+ 
+Świadczenia 
+pracownicze 
+Rezerwa 
+na koszty 
+rekultywacji 
+Rezerwa na 
+koszty emisji 
+CO2 
+Rezerwa 
+na prawa 
+majątkowe 
+przeznaczone 
+do umorzenia 
+Rezerwa na 
+bezumowne 
+korzystanie z 
+nieruchomości 
+Pozostałe 
+Razem 
+1 STYCZNIA 2021 
+3.283 
+8.111 
+6.318 
+589 
+63 
+154 
+18.518 
+Zyski i straty aktuarialne 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Koszty bieżącego zatrudnienia 
+29 
+- 
+- 
+- 
+- 
+- 
+29 
+Koszty przeszłego zatrudnienia 
+1 
+- 
+- 
+- 
+- 
+- 
+1 
+Koszty odsetek 
+11 
+35 
+- 
+- 
+- 
+- 
+46 
+Korekta stopy dyskontowej 
+i innych założeń 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Wypłacone świadczenia/ 
+Wykorzystane rezerwy 
+(42) 
+- 
+(168) 
+(342) 
+- 
+(20) 
+(572) 
+Rozwiązane rezerwy 
+- 
+(3) 
+- 
+- 
+(11) 
+(5) 
+(19) 
+Utworzone rezerwy - koszty 
+- 
+20 
+1.993 
+260 
+1 
+48 
+2.322 
+Utworzone rezerwy - nakłady 
+- 
+12 
+- 
+- 
+- 
+- 
+12 
+Sprzedaż spółek zależnych 
+(1) 
+- 
+- 
+- 
+- 
+- 
+(1) 
+Pozostałe zmiany 
+1 
+1 
+- 
+- 
+- 
+11 
+13 
+31 MARCA 2021 
+3.282 
+8.176 
+8.143 
+507 
+53 
+188 
+20.349 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+30 z 47 
+ 
+Świadczenia 
+pracownicze 
+Rezerwa 
+na koszty 
+rekultywacji 
+Rezerwa na 
+koszty emisji 
+CO2 
+Rezerwa 
+na prawa 
+majątkowe 
+przeznaczone 
+do umorzenia 
+Rezerwa na 
+bezumowne 
+korzystanie z 
+nieruchomości 
+Pozostałe 
+Razem 
+1 STYCZNIA 2020 
+3.066 
+6.649 
+3.532 
+572 
+72 
+127 
+14.018 
+Zyski i straty aktuarialne 
+40 
+- 
+- 
+- 
+- 
+- 
+40 
+Koszty bieżącego zatrudnienia 
+121 
+- 
+- 
+- 
+- 
+- 
+121 
+Koszty przeszłego zatrudnienia 
+(10) 
+- 
+- 
+- 
+- 
+- 
+(10) 
+Koszty odsetek 
+61 
+168 
+- 
+- 
+- 
+- 
+229 
+Korekta stopy dyskontowej 
+i innych założeń 
+231 
+1.173 
+- 
+- 
+- 
+- 
+1.404 
+Wypłacone świadczenia / 
+Wykorzystane rezerwy 
+(228) 
+(1) 
+(3.411) 
+(947) 
+- 
+(32) 
+(4.619) 
+Rozwiązane rezerwy 
+- 
+- 
+(121) 
+(2) 
+(16) 
+(15) 
+(154) 
+Utworzone rezerwy - koszty 
+- 
+55 
+6.318 
+966 
+7 
+80 
+7.426 
+Utworzone rezerwy - nakłady 
+- 
+43 
+- 
+- 
+- 
+- 
+43 
+Nabycie spółek w Grupie 
+- 
+14 
+- 
+- 
+- 
+- 
+14 
+Pozostałe zmiany 
+2 
+10 
+- 
+- 
+- 
+(6) 
+6 
+31 GRUDNIA 2020 
+3.283 
+8.111 
+6.318 
+589 
+63 
+154 
+18.518 
+ 
+19.1 
+Rezerwa na świadczenia pracownicze 
+Rezerwy na świadczenia pracownicze obejmują głównie: 
+ 
+świadczenia pracownicze po okresie zatrudnienia – 2.378 mln PLN (2.379 mln PLN na 31 grudnia 2020 roku), 
+ 
+nagrody jubileuszowe - 904 mln PLN (904 mln PLN na 31 grudnia 2020 roku). 
+19.2 
+Rezerwa na koszty rekultywacji 
+Rezerwa na rekultywację wyrobisk kopalnianych 
+Grupa Kapitałowa PGE tworzy rezerwy na rekultywację wyrobisk końcowych. Kwota rezerwy prezentowana w sprawozdaniu finansowym 
+obejmuje również wartość Funduszu Likwidacji Zakładu Górniczego tworzonego zgodnie z ustawą Prawo geologiczne i górnicze. Wartość 
+rezerwy na 31 marca 2021 roku wynosi 7.524 mln PLN, a na dzień 31 grudnia 2020 roku 7.463 mln PLN. 
+Rezerwa na rekultywację składowisk popiołów 
+Jednostki wytwórcze tworzą rezerwę na rekultywację składowisk odpadów paleniskowych. Wartość rezerwy na 31 marca 2021 roku 
+wynosi 328 mln PLN (318 mln PLN na koniec okresu porównawczego). 
+Rezerwa na rekultywację terenów po farmach wiatrowych 
+Spółki będące właścicielami farm wiatrowych tworzą rezerwy na rekultywację terenów. Wartość rezerwy na 31 marca 2021 roku wynosi 
+34 mln PLN (71 mln PLN na koniec okresu porównawczego). 
+Koszty likwidacji rzeczowych aktywów trwałych 
+Wartość rezerwy na dzień sprawozdawczy wynosi 290 mln PLN (259 mln PLN na koniec okresu porównawczego) i dotyczy niektórych 
+aktywów segmentu Energetyka Konwencjonalna i Energetyka Odnawialna. 
+19.3 
+Rezerwa na koszty emisji CO2 
+Jak opisano w nocie 14 niniejszego sprawozdania finansowego od 2020 roku Grupa nie otrzymuje darmowych uprawnień na wytwarzanie 
+energii elektrycznej. Grupa uprawniona jest jedynie do darmowych uprawnień na produkcję ciepła. W związku z powyższym nastąpił 
+wzrost szacunków rezerwy, na 31 marca 2021 roku wynosi 8.143 mln PLN (6.318 mln PLN na koniec okresu porównawczego). 
+19.4 
+Rezerwa na prawa majątkowe przeznaczone do umorzenia 
+Spółki wchodzące w skład Grupy Kapitałowej PGE tworzą rezerwę na wartość praw pochodzenia energii, dotyczących sprzedaży 
+zrealizowanej w okresie sprawozdawczym lub w okresach poprzednich, w części nieumorzonej do dnia sprawozdawczego. Wartość 
+rezerwy na 31 marca 2021 roku wynosi 507 mln PLN (589 mln PLN w okresie porównawczym) i tworzona jest głównie przez PGE Obrót S.A. 
+19.5 
+Rezerwa na roszczenia z tytułu bezumownego korzystania z nieruchomości 
+Spółki Grupy Kapitałowej PGE tworzą rezerwę na zgłoszone roszczenia z tytułu bezumownego korzystania z nieruchomości. Kwestia ta 
+dotyczy głównie spółki dystrybucyjnej, posiadającej majątek sieciowy. Rezerwa ujęta na dzień sprawozdawczy wynosi łącznie około 
+53 mln PLN (w tym 27 mln PLN na sprawy rozpatrywane w postępowaniu sądowym). W okresie porównawczym wartość rezerwy 
+wyniosła 63 mln PLN (w tym 32 mln PLN na sprawy rozpatrywane w postępowaniu sądowym). 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+31 z 47 
+19.6 
+Rozliczenia z prosumentami 
+W 2020 roku doszło do znaczącego wzrostu ilości instalacji prosumenckich, głównie w wyniku programu wsparcia „Mój prąd”. Według 
+Agencji Rynku Energii moc zainstalowana fotowoltaiki w Polsce wzrosła o 159%, notując poziom 3,96 GW w 2020 roku versus 1,53 GW 
+na koniec 2019 roku. Z kolei ustawa o odnawialnych źródłach energii z dnia 20 lutego 2015 roku wprowadziła system rozliczeń 
+prosumentów oraz spółdzielni energetycznych, który generuje straty dla sprzedawcy zobowiązanego (tj. PGE Obrót S.A.) tym większe, im 
+większy procent energii elektrycznej wprowadzonej do sieci prosument lub spółdzielnia energetyczna może skompensować zużyciem 
+własnym. 
+Tym samym dla energii pobranej z sieci prosument nie ponosi zmiennych kosztów usług dystrybucyjnych. Natomiast spółka Obrotu która 
+jest jedynie pośrednikiem w sprzedaży usług dystrybucyjnych, musi odprowadzić pełną opłatę za pobraną przez prosumenta energię 
+elektryczną do Operatora Sieci Dystrybucyjnej. Spółki Obrotu, pomimo iż nie prowadzą działalności w zakresie usług dystrybucyjnych, są 
+obarczone kosztami z nimi związanymi z uwagi na to, iż są stroną umowy kompleksowej z odbiorcą. 
+Rosnące straty na działalności PGE Obrót z tytułu opłat za usługi dystrybucyjne, prowadzą do rozważań nad ewentualnym zawiązaniem 
+rezerw na umowy rodzące zobowiązania z tego tytułu. Jednakże ze względu na trudność oszacowania liczby nowopowstających instalacji 
+prosumenckich, ich mocy oraz zużycia energii, ale również czasu ich eksploatacji oraz zapowiadanych nowych regulacji wyliczenie 
+miarodajnych wyników może być obarczone dużym błędem. Ponadto, mając na względzie fakt, iż straty na umowach z prosumentami 
+wynikają z regulacji systemowych, zdaniem Grupy te umowy należy analizować łącznie z umowami, do świadczenia których PGE Obrót 
+S.A. jest zobligowana jako sprzedawca zobowiązany. 
+W związku z powyższym na dzień sprawozdawczy nie są spełnione warunki dotyczące tworzenia rezerw na umowy rodzące zobowiązania 
+w rozumieniu MSR 37. 
+20. Zobowiązania finansowe 
+Wartość zobowiązań finansowych wycenianych według zamortyzowanego kosztu stanowi racjonalne przybliżenie ich wartości godziwych, 
+za wyjątkiem obligacji wyemitowanych przez spółkę PGE Sweden AB (publ). 
+Obligacje wyemitowane przez PGE Sweden AB (publ) są oparte o stałą stopę procentową. Ich wartość wg zamortyzowanego kosztu 
+wykazywana w niniejszym skonsolidowanym sprawozdaniu finansowym na dzień 31 marca 2021 roku wynosi 656 mln PLN, a wartość 
+godziwa 725 mln PLN. 
+20.1 
+Kredyty bankowe, pożyczki, obligacje i leasing 
+ 
+Stan na dzień 31 marca 2021 
+Stan na dzień 31 grudnia 2020 
+ 
+Długoterminowe 
+Krótkoterminowe 
+Długoterminowe 
+Krótkoterminowe 
+Kredyty i pożyczki 
+6.458 
+2.060 
+7.105 
+1.318 
+Wyemitowane obligacje 
+2.041 
+21 
+2.035 
+10 
+Leasing 
+849 
+46 
+885 
+56 
+RAZEM KREDYTY BANKOWE, POŻYCZKI, OBLIGACJE 
+I LEASING 
+9.348 
+2.127 
+10.025 
+1.384 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+32 z 47 
+Kredyty i pożyczki 
+W ramach zaprezentowanych powyżej kredytów i pożyczek na dzień 31 marca 2021 i 31 grudnia 2020 roku Grupa Kapitałowa PGE 
+wykazuje: 
+Kredytodawca 
+Instrument 
+zabezpieczający
+Data 
+zapadalności 
+Limit w 
+walucie 
+Waluta 
+Stopa 
+procentowa 
+Zobowiązanie 
+na 31-03-2021 
+Zobowiązanie 
+na 31-12-2020 
+Konsorcjum banków 
+IRS 
+2023-09-30 
+3.630 
+PLN 
+Zmienna 
+3.629 
+3.636 
+Europejski Bank Inwestycyjny 
+- 
+2034-08-25 
+1.500 
+PLN 
+Stała 
+1.516 
+1.505 
+Bank Gospodarstwa Krajowego 
+IRS 
+2027-12-31 
+1.000 
+PLN 
+Zmienna 
+878 
+876 
+Europejski Bank Odbudowy i 
+Rozwoju 
+IRS 
+2028-06-07 
+500 
+PLN 
+Zmienna 
+502 
+501 
+Bank Gospodarstwa Krajowego 
+IRS 
+2028-12-31 
+500 
+PLN 
+Zmienna 
+502 
+500 
+Europejski Bank Inwestycyjny 
+- 
+2034-08-25 
+490 
+PLN 
+Stała 
+496 
+493 
+Nordycki Bank Inwestycyjny 
+- 
+2024-06-20 
+150 
+EUR 
+Zmienna 
+222 
+219 
+Bank Pekao S.A. 
+- 
+2021-09-21 
+40 
+USD 
+Zmienna 
+148 
+149 
+Millennium S.A. 
+- 
+2021-06-16 
+7 
+PLN 
+Stała 
+1 
+1 
+Bank Gospodarstwa Krajowego 
+- 
+2021-05-31 
+1.000 
+PLN 
+Zmienna 
+- 
+- 
+PKO BP S.A. 
+- 
+2022-04-29 
+300 
+PLN 
+Zmienna 
+- 
+- 
+Kredyt Rewolwingowy 
+(konsorcjum banków) 
+- 
+2022-12-16 
+4.100 
+PLN 
+Zmienna 
+- 
+- 
+Bank Pekao S.A. 
+- 
+2024-12-22 
+500 
+PLN 
+Zmienna 
+- 
+- 
+Europejski Bank Inwestycyjny 
+- 
+2038-10-16 
+273 
+PLN 
+Stałe 
+- 
+- 
+NFOŚiGW 
+- 
+marzec 2023 – 
+grudzień 2028 
+215 
+PLN 
+Stała 
+147 
+157 
+NFOŚiGW 
+- 
+wrzesień 2021 – 
+czerwiec 2035 
+697 
+PLN 
+Zmienna 
+355 
+279 
+WFOŚiGW 
+- 
+wrzesień 2021 – 
+wrzesień 2026 
+70 
+PLN 
+Stała 
+6 
+6 
+WFOŚiGW 
+- 
+wrzesień 2021 –
+wrzesień 2028 
+207 
+PLN 
+Zmienna 
+116 
+101 
+RAZEM KREDYTY BANKOWE i POŻYCZKI 
+ 
+ 
+ 
+8.518 
+8.423 
+Na dzień 31 marca 2021 roku wartość pozostających do dyspozycji limitów kredytowych w rachunku bieżącym istotnych spółek Grupy 
+Kapitałowej PGE wyniosła 1.810 mln PLN. Terminy spłaty przyznanych linii kredytowych w rachunkach bieżących głównych spółek Grupy 
+Kapitałowej przypadają w latach 2021 – 2024. 
+W okresie zakończonym 31 marca 2021 roku ani po dniu sprawozdawczym nie wystąpiły przypadki niewywiązania się ze spłat lub 
+naruszenia innych warunków umów kredytowych. 
+Wyemitowane obligacje 
+Emitent 
+Instrument 
+zabezpieczający 
+Data 
+zapadalności 
+programu 
+Limit w 
+walucie 
+programu 
+Waluta 
+Stopa 
+procentowa 
+Data emisji 
+transzy 
+Data wykupu 
+transzy 
+Zobowiązanie 
+na 31-03-2021 
+Zobowiązanie 
+na 31-12-2020 
+PGE S.A. 
+IRS 
+bezterminowy 
+5.000 
+PLN 
+Zmienna 
+2019-05-21 
+2029-05-21 
+1.004 
+1.001 
+2019-05-21 
+2026-05-21 
+402 
+400 
+PGE Sweden 
+AB (publ) 
+CCIRS 
+bezterminowy 
+2.000 
+EUR 
+Stała 
+2014-08-01 
+2029-08-01 
+656 
+644 
+RAZEM WYEMITOWANE OBLIGACJE 
+ 
+ 
+2.062 
+2.045 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+33 z 47 
+20.2 
+Zobowiązania z tytułu dostaw i usług i pozostałe zobowiązania finansowe 
+ 
+Stan na dzień 31 marca 2021 
+Stan na dzień 31 grudnia 2020 
+ 
+Długoterminowe 
+Krótkoterminowe 
+Długoterminowe 
+Krótkoterminowe 
+Zobowiązania z tytułu dostaw i usług 
+- 
+1.227 
+- 
+1.357 
+Rozrachunki związane z transakcjami giełdowymi 
+- 
+941 
+- 
+856 
+Zakup RAT i WN 
+3 
+649 
+6 
+1.050 
+Otrzymane kaucje i wadia 
+30 
+90 
+30 
+96 
+Zobowiązania z tytułu KDT 
+395 
+22 
+395 
+22 
+Ubezpieczenia 
+- 
+- 
+- 
+8 
+Inne 
+14 
+153 
+17 
+115 
+ZOBOWIĄZANIA Z TYTUŁU DOSTAW I USŁUG 
+I POZOSTAŁE ZOBOWIĄZANIA FINANSOWE 
+442 
+3.082 
+448 
+3.504 
+Pozycja „Inne” obejmuje m.in. zobowiązania PGE Dom Maklerski S.A. wobec klientów z tytułu wpłaconych środków pieniężnych. 
+21. Pozostałe zobowiązania niefinansowe 
+Główne składniki pozostałych zobowiązań niefinansowych na poszczególne dni sprawozdawcze. 
+21.1 
+Pozostałe zobowiązania niefinansowe długoterminowe 
+ 
+Stan na dzień 
+31 marca 2021 
+Stan na dzień 
+31 grudnia 2020 
+POZOSTAŁE ZOBOWIĄZANIA DŁUGOTERMINOWE 
+ 
+ 
+Zobowiązania z tytułu umowy 
+62 
+64 
+Szacunki na zobowiązania z tytułu Programu Dobrowolnych Odejść 
+1 
+1 
+POZOSTAŁE ZOBOWIĄZANIA DŁUGOTERMINOWE, RAZEM 
+63 
+65 
+21.2 
+Pozostałe zobowiązania niefinansowe krótkoterminowe 
+ 
+Stan na dzień 
+31 marca 2021 
+Stan na dzień 
+31 grudnia 2020 
+POZOSTAŁE ZOBOWIĄZANIA KRÓTKOTERMINOWE 
+ 
+ 
+Zobowiązania z tytułu należnego VAT 
+1.567 
+540 
+Zobowiązania z tytułu podatku akcyzowego 
+23 
+33 
+Opłata za korzystanie ze środowiska 
+97 
+202 
+Zobowiązania z tytułu wynagrodzeń 
+179 
+284 
+Premie dla pracowników 
+150 
+272 
+Niewykorzystane urlopy 
+156 
+113 
+Szacunki na zobowiązania z tyt. Barbórki i Dnia Energetyka 
+27 
+1 
+Zobowiązanie z tytułu Programów Dobrowolnych Odejść 
+1 
+1 
+Nagrody dla Zarządów 
+21 
+20 
+Szacunki na zobowiązania z tytułu innych świadczeń pracowniczych 
+14 
+5 
+Podatek dochodowy od osób fizycznych 
+56 
+95 
+Zobowiązania z tytułu ubezpieczeń społecznych 
+227 
+269 
+Zobowiązania z tytułu umowy 
+332 
+296 
+Zobowiązania z tytułu dywidend 
+7 
+7 
+Inne 
+109 
+65 
+POZOSTAŁE ZOBOWIĄZANIA KRÓTKOTERMINOWE, RAZEM 
+2.966 
+2.203 
+ 
+Zobowiązania z tytułu należnego VAT dotyczą głównie transakcji związanych z obrotem uprawnieniami do emisji CO2. Wzrost wartości 
+podatku VAT o 1.027 mln PLN w stosunku do okresu poprzedniego wynika przede wszystkim ze wzrostu skali transakcji przy jednoczesnym 
+wzroście cen uprawnień do emisji CO2. 
+Pozycja „Inne” w głównej mierze obejmuje zobowiązania dotyczące rozrachunków z tytułu ZFŚS, rozliczenia nadwyżek 
+inwentaryzacyjnych, wpłat na Pracowniczy Program Emerytalny oraz potrąceń z wynagrodzeń pracowników. 
+Zobowiązania z tytułu umowy 
+Zobowiązania z tytułu umowy obejmują przede wszystkim zaliczki na dostawy i przedpłaty dokonane przez klientów za przyłącza do sieci 
+dystrybucyjnej oraz prognozy zużycia energii elektrycznej dotyczące przyszłych okresów. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+34 z 47 
+POZOSTAŁE NOTY OBJAŚNIAJĄCE 
+22. Zobowiązania i należności warunkowe. Sprawy sądowe 
+22.1 
+Zobowiązania warunkowe 
+ 
+ 
+Stan na dzień 
+31 marca 2021 
+Stan na dzień 
+31 grudnia 2020 
+Zabezpieczenie zwrotu dotacji z funduszy środowiskowych 
+457 
+461 
+Zobowiązania z tytułu pozwów sądowych 
+117 
+186 
+Zobowiązania z tytułu poręczeń gwarancji bankowych zabezpieczające transakcje giełdowe 
+60 
+75 
+Roszczenia z tytułu kar umownych 
+70 
+70 
+Użytkowanie wieczyste gruntów 
+67 
+67 
+Inne zobowiązania warunkowe 
+9 
+37 
+ZOBOWIĄZANIA WARUNKOWE, RAZEM 
+780 
+896 
+ 
+Zabezpieczenie zwrotu dotacji z funduszy środowiskowych 
+Zobowiązania przedstawiają wartość możliwych przyszłych zwrotów środków otrzymanych przez spółki Grupy Kapitałowej PGE z funduszy 
+środowiskowych na wybrane inwestycje. Zwrot środków będzie musiał nastąpić, jeżeli inwestycje, na które otrzymano dofinansowanie, 
+nie przyniosą oczekiwanego efektu środowiskowego. 
+Zobowiązania z tytułu pozwów sądowych 
+W związku ze sprzedażą udziałów PGE EJ1 sp. z o.o. do Skarbu Państwa oraz zgodnie z zawartym Porozumieniem regulującym 
+odpowiedzialność dotychczasowych Wspólników z tytułu kosztów sporu z Worley Parsons, PGE SA w razie przegrania sporu może być 
+zobowiązana do pokrycia kosztów sporu w kwocie wynoszącej maksymalnie 98 mln PLN. W związku z tym, na potrzeby określenia 
+wartości godziwej otrzymanej zapłaty, dokonano oszacowania prawdopodobieństwa przegrania sporu. W efekcie kwota 59 mln PLN 
+została rozpoznana w zobowiązaniach warunkowych, zaś kwota 39 mln PLN w rezerwach długoterminowych. Kwota utworzonej rezerwy 
+skorygowała wynik na sprzedaży udziałów prezentowany w niniejszym sprawozdaniu finansowym. 
+Zobowiązania z tytułu gwarancji bankowych 
+Zobowiązania przedstawiają wystawione przez Spółki poręczenia gwarancji bankowych wniesione jako depozyt celem zabezpieczenia 
+transakcji giełdowych wynikających z członkostwa w IRGiT. 
+Kary umowne - zobowiązania kontraktowe dotyczące zakupu paliw 
+Zgodnie z zawartymi umowami na zakup paliw (głównie węgla i gazu), Grupa Kapitałowa PGE zobowiązana jest do odebrania określonej 
+minimalnej ilości paliw, a także do nieprzekroczenia określonej wielkości maksymalnej poboru gazu w poszczególnych okresach. Brak 
+odebrania minimalnych ilości paliw określonych w umowach może skutkować koniecznością uiszczenia odpowiednich opłat (w przypadku 
+paliwa gazowego ilości nieodebrane przez poszczególne elektrociepłownie i elektrownie, ale opłacone, mogą być odebrane w ciągu 
+kolejnych trzech lat umownych). 
+W ocenie Grupy Kapitałowej PGE warunki dostaw paliw do jednostek wytwórczych w przytoczonym powyżej zakresie nie odbiegają 
+od warunków dostaw do innych elektrowni stosowanych na polskim rynku. 
+Użytkowanie wieczyste gruntów 
+Zobowiązania warunkowe z tytułu użytkowania wieczystego gruntu są związane z otrzymaniem aktualizacji opłat rocznych z tytułu 
+użytkowania wieczystego. Oddziały PGE GiEK S.A. złożyły odwołania od otrzymanych decyzji do Samorządowych Kolegiów Odwoławczych. 
+Wartość zobowiązania warunkowego została wyceniona jako różnica pomiędzy zdyskontowaną sumą zaktualizowanych opłat za 
+wieczyste użytkowanie za cały okres na jaki wieczyste użytkowanie zostało ustanowione a zobowiązaniem z tytułu wieczystego 
+użytkowania gruntu, które zostało ujęte w księgach na bazie poprzednich opłat. 
+22.2 
+Pozostałe istotne kwestie związane ze zobowiązaniami warunkowymi 
+Bezumowne korzystanie z nieruchomości 
+Jak zostało przedstawione w nocie 19.5 Grupa Kapitałowa PGE tworzy rezerwę na spory dotyczące bezumownego korzystania 
+z nieruchomości służących działalności dystrybucyjnej, które zostały zgłoszone w postępowaniu sądowym. Ponadto w Grupie Kapitałowej 
+PGE występują spory na wcześniejszych etapach postępowania, a także nie można wykluczyć zwiększenia liczby i wartości podobnych 
+roszczeń w przyszłości. 
+22.3 
+Należności warunkowe 
+Na dzień sprawozdawczy Grupa Kapitałowa posiada należności warunkowe na kwotę 72 mln PLN z tytułu potencjalnego zwrotu nadpłaty 
+podatku akcyzowego. Grupa oczekuje na orzeczenie NSA, jaka stawka akcyzy winna być zastosowana do rozliczenia ulgi w akcyzie z tytułu 
+umorzenia Praw Majątkowych wytworzonych w odnawialnych źródłach energii przed 1 stycznia 2019 roku. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+35 z 47 
+W ocenie Grupy Kapitałowej PGE do rozliczenia przedmiotowej ulgi winna być zastosowana stawka obowiązująca w momencie sprzedaży 
+energii elektrycznej wytworzonej w odnawialnych źródłach energii do nabywcy końcowego, tj. 20 zł/MWh. Stanowisko to zostało 
+potwierdzone wyrokiem Wojewódzkiego Sądu Administracyjnego w Rzeszowie z dnia 8 października 2019 roku. 
+W dniu 20 listopada 2019 roku organ podatkowy złożył skargę kasacyjną od wyżej wymienionego wyroku WSA. 
+22.4 
+Inne sprawy sądowe i sporne 
+Kwestia odszkodowania dotyczącego konwersji akcji 
+Byli akcjonariusze PGE GiEK S.A. występowali do sądów z wnioskami o zawezwanie PGE S.A. do prób ugodowych o zapłatę odszkodowania 
+z tytułu nieprawidłowego ich zdaniem ustalenia parytetu wymiany akcji spółki PGE Górnictwo i Energetyka S.A. na akcje PGE S.A. w 
+procesie konsolidacji, jaki miał miejsce w 2010 roku. Łączna wartość dotychczasowych roszczeń wynikających z zawezwań do prób 
+ugodowych skierowanych przez byłych akcjonariuszy PGE Górnictwo i Energetyka S.A. wynosi ponad 10 mln PLN. 
+Niezależnie od powyższego 12 listopada 2014 roku spółka Socrates Investment S.A. (nabywca wierzytelności od byłych akcjonariuszy PGE 
+Górnictwo i Energetyka S.A.) złożyła pozew sądowy o zasądzenie odszkodowania w łącznej kwocie ponad 493 mln PLN (plus odsetki) za 
+szkodę poniesioną w związku z nieprawidłowym (jej zdaniem) ustaleniem parytetu wymiany akcji w procesie połączenia spółki PGE 
+Górnictwo i Energetyka S.A. z PGE S.A. Spółka złożyła odpowiedź na pozew i obecnie toczy się postępowanie sądowe w pierwszej instancji. 
+20 listopada 2018 roku odbyła się rozprawa dotycząca tematu powołania biegłego. Obecnie toczy się postępowanie sądowe w pierwszej 
+instancji. Sąd postanowieniem datowanym na dzień 19 kwietnia 2019 roku wskazał biegłych wybranych do sporządzenia opinii w w/w 
+sprawie. Do dnia sporządzenia niniejszego sprawozdania nie została sporządzona opinia biegłych. Termin następnego posiedzenia będzie 
+wyznaczony z urzędu. 
+Ponadto z podobnym roszczeniem wystąpiła spółka Pozwy sp. z o.o., nabywca wierzytelności byłych akcjonariuszy spółki PGE Elektrownia 
+Opole S.A. Spółka Pozwy sp. z o.o. pozwem wniesionym do Sądu Okręgowego w Warszawie przeciwko PGE GiEK S.A., PGE S.A. oraz PwC 
+Polska sp. z o.o. (dalej jako Pozwani) wniosła o zasądzenie od Pozwanych na zasadzie in solidum, ewentualnie solidarnie na rzecz Pozwy 
+sp. z o.o. odszkodowania w łącznej kwocie ponad 260 mln PLN wraz z odsetkami z tytułu rzekomo nieprawidłowego (jej zdaniem) ustalenia 
+stosunku wymiany akcji PGE Elektrownia Opole S.A. na akcje PGE GiEK S.A. w procesie łączenia tych spółek. Pozew ten został do PGE S.A. 
+doręczony 9 marca 2017 roku, zaś termin na złożenie odpowiedzi na pozew został wyznaczony przez sąd do 9 lipca 2017 roku. Spółki 
+PGE S.A. i PGE GiEK S.A. 8 lipca 2017 roku złożyły odpowiedź na pozew. Sąd Okręgowy w Warszawie w dniu 28 września 2018 roku ogłosił 
+wyrok w pierwszej instancji - pozew spółki Pozwy sp. z o.o. skierowany przeciwko PGE S.A., PGE GiEK S.A. oraz PWC Polska sp. z o.o. został 
+oddalony. W dniu 8 kwietnia 2019 roku do PGE S.A. wpłynął odpis apelacji złożonej przez powoda w dniu 7 grudnia 2018 roku. Odpowiedź 
+na apelację została sporządzona w dniu 23 kwietnia 2019 roku. Rozprawa odbyła się 21 grudnia 2020 roku. Sąd Apelacyjny wydał wyrok, 
+w którym uchylił zaskarżony wyrok Sądu Okręgowego w całości i zwrócił sprawę do ponownego rozpoznania do Sądu Okręgowego. 
+W dniu 22 stycznia 2021 roku PGE S.A. wraz z PGE GiEK S.A. złożyła zażalenie na wyrok do Sądu Najwyższego, wnosząc o uchylenie 
+w całości zaskarżonego wyroku i przekazanie sprawy do ponownego rozpoznania przez Sąd Apelacyjny. Na posiedzeniu niejawnym w dniu 
+27 kwietnia 2021 roku Sąd Najwyższy uchylił zaskarżony wyrok. Tym samym sprawa powróci do ponownego rozpatrzenia przez Sąd 
+Apelacyjny. Obecnie PGE S.A. i PGE GiEK S.A. oczekują na uzasadnienie postanowienia Sądu Najwyższego w którym znajdą się motywy 
+rozstrzygnięcia. 
+Spółki z Grupy PGE nie uznają żądań Socrates Investment S.A., Pozwy sp. z o.o. oraz pozostałych akcjonariuszy występujących 
+z zawezwaniami do prób ugodowych. Zdaniem PGE S.A. roszczenia te są bezzasadne, a cały proces konsolidacji był przeprowadzony 
+rzetelnie i prawidłowo. Sama wartość akcji spółek podlegających połączeniu została określona przez niezależną spółkę 
+PwC Polska sp. z o.o. Dodatkowo plany połączenia ww. spółek, w tym parytety wymiany akcji, były badane w zakresie poprawności 
+i rzetelności przez wyznaczonego przez sąd rejestrowy biegłego, który nie stwierdził żadnych nieprawidłowości. Następnie sąd 
+zarejestrował połączenia ww. spółek. 
+Na zgłoszone roszczenie Grupa PGE nie utworzyła rezerwy. 
+Wypowiedzenie umów sprzedaży praw majątkowych przez Enea S.A. 
+W 2016 roku spółki PGE GiEK S.A., PGE EO S.A. oraz PGE Energia Natury PEW sp. z o.o. (przejęta przez PGE EO S.A.) otrzymały z Enea S.A. 
+oświadczenia o wypowiedzeniu długoterminowych umów sprzedaży praw majątkowych wynikających ze świadectw pochodzenia energii 
+z odnawialnych źródeł tzw. „zielonych certyfikatów”. W uzasadnieniu wypowiedzeń Enea S.A. twierdziła, że spółki poważnie naruszyły 
+postanowienia tych umów w postaci nieprzystąpienia do renegocjacji postanowień umów w trybie kontraktowym zgodnie z klauzulą 
+adaptacyjną, o których przeprowadzenie wystąpiła Enea S.A. w lipcu 2015 roku w związku z rzekomą zmianą regulacji prawnych mających 
+wpływ na wykonywanie tych umów. 
+Zdaniem Grupy Kapitałowej PGE, oświadczenia o wypowiedzeniu umów przedstawione przez Enea S.A. zostały złożone z naruszeniem 
+warunków umownych. Spółki podjęły stosowne kroki w celu dochodzenia swoich praw. Wobec odmowy wykonywania 
+długoterminowych umów przez Enea S.A. w postaci nabywania praw majątkowych wynikających ze świadectw pochodzenia otrzymanych 
+przez spółki z Grupy PGE w związku z produkcją energii elektrycznej odnawialnej, PGE GiEK S.A. oraz PGE Energia Natury PEW sp. z o.o. 
+wystąpiły przeciwko Enea S.A. z żądaniem zapłaty kar umownych, a PGE EO S.A. z żądaniem zapłaty odszkodowania z tytułu poniesionej 
+z tego tytułu szkody. W październiku 2020 roku na wniosek stron postępowania sądowe zostały zawieszone w związku z wolą 
+przeprowadzenia pomiędzy stronami rozmów ugodowych w ramach alternatywnego sposobu rozwiązania sporów. W 2021 roku strony 
+sporów poddały je pod koncyliacje Prokuratorii Generalnej Rzeczpospolitej Polski. 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+36 z 47 
+W związku z tym, że zdaniem Grupy Kapitałowej PGE, oświadczenia o wypowiedzeniu umów przedstawione przez Enea S.A. zostały 
+złożone z naruszeniem warunków umownych, na dzień 31 marca 2021 roku Grupa rozpoznała należności w wysokości 164 mln PLN 
+(w całości ujęte w przychodach poprzednich okresów sprawozdawczych). Zdaniem spółek Grupy Kapitałowej PGE, opierając się między 
+innymi na dostępnych opiniach prawnych, korzystne rozstrzygnięcie powyższych sporów jest bardziej prawdopodobne niż rozstrzygnięcie 
+niekorzystne. 
+Dodatkowo, PGE GiEK S.A., PGE Energia Natury PEW sp. z o.o. (przejęta przez PGE EO S.A.) oraz PGE EO S.A. wystąpiły z powództwami 
+przeciwko Enea S.A. o zapłatę należności w łącznej wysokości 47 mln PLN z tytułu wystawionych na rzecz Enea S.A. faktur sprzedaży praw 
+majątkowych na podstawie umów. Enea S.A. odmówiła zapłaty tych należności twierdząc, że je skutecznie potrąciła ze swoimi 
+wierzytelnościami wobec spółek z Grupy z tytułu odszkodowania naliczonego w związku z rzekomą szkodą powstałą wskutek 
+nieprzystąpienia przez spółki do renegocjacji umowy w trybie kontraktowym. Zdaniem spółek Grupy potrącenia są bezskuteczne, 
+ponieważ wierzytelności Enea S.A. o zapłatę odszkodowania nigdy nie powstały, brak jest również podstaw do uznania stanowiska Enea 
+S.A., że doszło do naruszenia przez spółki jakichkolwiek postanowień umownych. W październiku 2020 roku na wniosek stron 
+postępowania sądowe zostały zawieszone w związku z wolą przeprowadzenia pomiędzy stronami rozmów ugodowych w ramach 
+alternatywnego sposobu rozwiązania sporów. W 2021 roku strony sporów poddały je pod koncyliacje Prokuratorii Generalnej 
+Rzeczpospolitej Polskiej. 
+23. Rozliczenia podatkowe 
+Obowiązki i uprawnienia podatkowe są określone w Konstytucji, ustawach podatkowych oraz ratyfikowanych umowach 
+międzynarodowych. Zgodnie z ordynacją podatkową podatek definiuje się jako publicznoprawne, nieodpłatne przymusowe oraz 
+bezzwrotne świadczenie pieniężne na rzecz Skarbu Państwa, województwa, powiatu lub gminy, wynikające z ustawy podatkowej. 
+Uwzględniając kryterium przedmiotowe, obowiązujące w Polsce podatki można uszeregować w pięciu grupach: opodatkowanie 
+dochodów, opodatkowanie obrotu, opodatkowanie majątku, opodatkowanie czynności, oraz inne opłaty, nie zaklasyfikowane gdzie 
+indziej. 
+Z punktu widzenia działalności podmiotów gospodarczych zasadnicze znaczenie ma opodatkowanie dochodów (podatek dochodowy od 
+osób prawnych), opodatkowanie obrotów (podatek od towarów i usług VAT, podatek akcyzowy) oraz opodatkowanie majątku (podatek 
+od nieruchomości i od środków transportowych). Nie można pominąć innych opłat i wpłat, które zaklasyfikować można jako quasi – 
+podatki. Wśród nich wymienić należy między innymi składki na ubezpieczenia społeczne. 
+Podstawowe stawki podatkowe kształtowały się następująco: w 2021 roku stawka podatku dochodowego od osób prawnych – 19%, dla 
+małych przedsiębiorców możliwa jest stawka 9%, podstawowa stawka podatku VAT - 23%, obniżone: 8%, 5%, 0%, ponadto, niektóre 
+towary i usługi są objęte zwolnieniem z podatku VAT. 
+System podatkowy w Polsce charakteryzuje duża zmienność przepisów podatkowych, wysoki stopień ich skomplikowania, wysokie 
+potencjalne kary przewidziane w razie popełnienia przestępstwa lub wykroczenia skarbowego. Rozliczenia podatkowe oraz inne obszary 
+działalności, podlegające regulacjom (kontroli celnej, czy dewizowej) mogą być przedmiotem kontroli odpowiednich władz, które 
+uprawnione są do nakładania kar i sankcji wraz z odsetkami karnymi. Kontrolą mogą być objęte rozliczenia podatkowe przez okres 5 lat 
+od końca roku kalendarzowego, w którym upłynął termin płatności podatku. 
+Podatkowa Grupa Kapitałowa 
+18 września 2014 roku została zawarta na okres 25 lat umowa podatkowej grupy kapitałowej pod nazwą „PGK PGE 2015”, dla której 
+PGE S.A. jest spółką reprezentującą. 
+Spółki tworzące podatkową grupę kapitałową muszą spełnić szereg wymogów, obejmujących między innymi: odpowiedni poziom 
+kapitałów, udział spółki dominującej w kapitałach spółek tworzących PGK na poziomie minimum 75%, brak powiązań kapitałowych 
+między spółkami zależnymi, brak zaległości podatkowych, osiągnięcie udziału dochodu w przychodach na poziomie przynajmniej 2% 
+(liczonego dla całej PGK) oraz zawieranie transakcji z podmiotami spoza PGK wyłącznie na warunkach rynkowych. Naruszenie powyższych 
+wymogów będzie oznaczać rozwiązanie podatkowej grupy kapitałowej i utratę przez nią statusu podatnika. Od momentu rozwiązania 
+każda ze spółek wchodzących w skład podatkowej grupy kapitałowej staje się samodzielnym podatnikiem dla podatku CIT. W związku 
+z wprowadzeniem przepisów dotyczących przeciwdziałania skutkom COVID-19, wymóg uzyskania udziału dochodu w przychodach na 
+poziomie co najmniej 2% za 2020 rok został ograniczony. 
+Mechanizm podzielonej płatności w VAT, obowiązek dokonywania płatności na rachunki zgłoszone w urzędach 
+skarbowych 
+Grupa Kapitałowa wykorzystuje środki otrzymywane od kontrahentów na rachunkach VAT do płatności swoich zobowiązań zawierających 
+podatek VAT. Wysokość środków na rachunkach VAT w danym dniu zależy w głównej mierze od tego, jak wielu kontrahentów Grupy 
+Kapitałowej skorzysta z mechanizmu oraz relacji między terminami płatności należności i zobowiązań. Według stanu na dzień 31 marca 
+2021 roku saldo środków pieniężnych na rachunkach VAT wynosiło 253 mln PLN. 
+Raportowanie schematów podatkowych (MDR) 
+Od 2019 roku zaczęły obowiązywać nowe przepisy prawne, które wprowadziły obowiązkowe raportowanie schematów podatkowych 
+(tzw. „MDR”, ang. Mandatory Disclosure Rules). Co do zasady jako schemat podatkowy należy rozumieć czynność, w wyniku której 
+osiągniecie korzyści podatkowej jest główną lub jedną z głównych korzyści. Ponadto jako schemat podatkowy wskazane zostały zdarzenia 
+posiadające tzw. szczególne lub inne szczególne cechy rozpoznawcze, zdefiniowane w przepisach. Obowiązkiem raportowania zostają 
+objęte trzy typy podmiotów: promotorzy, wspomagający i korzystający. Regulacje MDR są w wielu obszarach złożone i nieprecyzyjne, co 
+powoduje wątpliwości interpretacyjne odnośnie ich praktycznego stosowania. 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+37 z 47 
+Podatek akcyzowy 
+W związku z nieprawidłową implementacją przepisów unijnych do polskiego systemu prawnego w spółce PGE GiEK S.A. w 2009 roku 
+rozpoczęły się postępowania w zakresie uzyskania zwrotu nienależnie uiszczanego podatku akcyzowego w okresie styczeń 2006 – luty 
+2009 roku. Nieprawidłowość polegała na opodatkowaniu energii elektrycznej na pierwszym etapie jej sprzedaży, tj. przez producentów, 
+podczas gdy powinna być opodatkowana sprzedaż na rzecz tzw. nabywców końcowych. 
+Sądy administracyjne rozpatrując skargi spółki w zakresie roszczeń restytucyjnych na wydawane przez organy podatkowe decyzje 
+odmawiające stwierdzenia nadpłaty akcyzy orzekały, iż spółka nie poniosła ciężaru ekonomicznego nienależnie uiszczanego podatku 
+akcyzowego (co w świetle uchwały NSA z dnia 22 czerwca 2011 roku sygn. akt I GPS 1/11 wyklucza możliwość zwrotu nadpłaty). Zdaniem 
+NSA roszczenia, które spółka wykazała, w szczególności za pomocą analiz ekonomicznych, mają charakter kompensacyjny i w związku z 
+tym mogą być dochodzone wyłącznie przed sądami cywilnymi. W związku z powyższym PGE GiEK S.A. podjęła decyzję o wycofaniu się z 
+postępowań w zakresie roszczeń restytucyjnych. Obecnie działania w zakresie nadpłaty podatku akcyzowego prowadzone są na drodze 
+cywilnej. W dniu 10 stycznia 2020 roku Sąd Okręgowy w Warszawie ogłosił wyrok w sprawie z powództwa PGE GiEK przeciwko Skarbowi 
+Państwa – Ministrowi Finansów. Sąd oddalił powództwo. Spółka 3 lutego 2020 roku złożyła skargę na wyrok pierwszej instancji do Sądu 
+Apelacyjnego w Warszawie. Rozprawa odbyła się 2 grudnia 2020 roku po której wyrokiem ogłoszonym w dniu 17 grudnia 2020 roku Sąd 
+Apelacyjny w Warszawie oddalił apelację PGE GiEK. W dniu 23 kwietnia 2021 roku PGE GiEK S.A. złożyła skargę kasacyjną do Sądu 
+Najwyższego. 
+Z uwagi na istotną niepewność odnośnie ostatecznego rozstrzygnięcia powyższej kwestii Grupa nie ujmuje w sprawozdaniu finansowym 
+żadnych skutków związanych z ewentualnym uzyskaniem odszkodowania na drodze cywilnej w związku z nienależnie uiszczanym 
+podatkiem akcyzowym. 
+Podatek od nieruchomości 
+Podatek od nieruchomości stanowi istotne obciążenie niektórych spółek Grupy Kapitałowej PGE. Regulacje dotyczące podatku od 
+nieruchomości w niektórych obszarach są niejasne i budzą szereg wątpliwości interpretacyjnych. Organy podatkowe, którym jest wójt, 
+burmistrz lub prezydent miasta, często wydają niespójne interpretacje podatkowe w podobnych merytorycznie sprawach. Powyższe 
+powoduje, iż spółki Grupy Kapitałowej PGE były i mogą być stronami postępowań dotyczących podatku od nieruchomości. Jeżeli Grupa 
+uznaje, że w wyniku postępowania korekta rozliczeń jest prawdopodobna, tworzy odpowiednią rezerwę. 
+Niepewność związana z rozliczeniami podatkowymi 
+Regulacje dotyczące podatku od towarów i usług, podatku dochodowego od osób prawnych oraz obciążeń związanych z ubezpieczeniami 
+społecznymi podlegają częstym zmianom. Te częste zmiany powodują brak odpowiednich punktów odniesienia, niespójne interpretacje 
+oraz nieliczne ustanowione precedensy, które mogłyby mieć zastosowanie. Obowiązujące przepisy zawierają również niejasności, które 
+powodują różnice w opiniach, co do interpretacji prawnej przepisów podatkowych, zarówno pomiędzy organami państwowymi jak 
+i organami państwowymi i przedsiębiorstwami. 
+Rozliczenia podatkowe oraz inne obszary działalności (na przykład kwestie celne czy dewizowe) mogą być przedmiotem kontroli organów, 
+które uprawnione są do nakładania wysokich kar i grzywien, a wszelkie dodatkowe zobowiązania podatkowe, wynikające z kontroli, muszą 
+zostać zapłacone wraz z wysokimi odsetkami. Te warunki powodują, że ryzyko podatkowe w Polsce jest większe niż w krajach o bardziej 
+stabilnym systemie podatkowym. 
+W konsekwencji, kwoty prezentowane i ujawniane w sprawozdaniach finansowych mogą się zmienić w przyszłości w wyniku ostatecznej 
+decyzji organu kontroli podatkowej. 
+Ustawa Ordynacja Podatkowa zawiera postanowienia Ogólnej Klauzuli Zapobiegającej Nadużyciom (GAAR). GAAR ma zapobiegać 
+powstawaniu i wykorzystywaniu sztucznych struktur prawnych tworzonych w celu uniknięcia zapłaty podatku w Polsce. GAAR definiuje 
+unikanie opodatkowania jako czynność dokonaną przede wszystkim w celu osiągnięcia korzyści podatkowej, sprzecznej w danych 
+okolicznościach z przedmiotem i celem przepisy ustawy podatkowej. Zgodnie z GAAR taka czynność nie skutkuje osiągnięciem korzyści 
+podatkowej, jeżeli sposób działania był sztuczny. Wszelkie występowanie nieuzasadnionego dzielenia operacji, angażowania podmiotów 
+pośredniczących mimo braku uzasadnienia ekonomicznego lub gospodarczego, elementów wzajemnie się znoszących lub 
+kompensujących oraz inne działania o podobnym działaniu do wcześniej wspomnianych, mogą być potraktowane jako przesłanka 
+istnienia sztucznych czynności podlegających przepisom GAAR. Nowe regulacje będą wymagać znacznie większego osądu przy ocenie 
+skutków podatkowych poszczególnych transakcji. 
+Klauzulę GAAR należy stosować w odniesieniu do transakcji dokonanych po jej wejściu w życie oraz do transakcji, które zostały 
+przeprowadzone przed wejściem w życie klauzuli GAAR, ale dla których po dacie wejścia klauzuli w życie korzyści były lub są nadal 
+osiągane. Wdrożenie powyższych przepisów umożliwi polskim organom kontroli podatkowej kwestionowanie realizowanych przez 
+podatników prawnych ustaleń i porozumień, takich jak restrukturyzacja i reorganizacja grupy. 
+Grupa ujmuje i wycenia aktywa lub zobowiązania z tytułu bieżącego i odroczonego podatku dochodowego przy zastosowaniu wymogów 
+MSR 12 Podatek dochodowy w oparciu o zysk (stratę podatkową), podstawę opodatkowania, nierozliczone straty podatkowe, 
+niewykorzystane ulgi podatkowe i stawki podatkowe, uwzględniając ocenę niepewności związanych z rozliczeniami podatkowymi. Gdy 
+istnieje niepewność co do tego, czy i w jakim zakresie organ podatkowy będzie akceptował poszczególne rozliczenia podatkowe transakcji, 
+Grupa ujmuje te rozliczenia uwzględniając ocenę niepewności. 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+38 z 47 
+24. Informacja o podmiotach powiązanych 
+Transakcje Grupy Kapitałowej PGE z jednostkami powiązanymi są dokonywane w oparciu o ceny rynkowe dostarczanych towarów, 
+produktów i usług lub oparte są o koszt ich wytworzenia. 
+24.1 
+Jednostki stowarzyszone i współkontrolowane 
+Łączna wartość transakcji, sald z jednostkami stowarzyszonymi i współkontrolowanymi została przedstawiona w tabeli poniżej. 
+ 
+ 
+ 
+Okres zakończony 
+31 marca 2021 
+Okres zakończony 
+31 marca 2020* 
+Sprzedaż do jednostek stowarzyszonych i współkontrolowanych 
+60 
+80 
+Zakupy od jednostek stowarzyszonych i współkontrolowanych 
+534 
+466 
+ 
+ 
+ 
+ 
+Stan na dzień 
+31 marca 2021 
+Stan na dzień 
+31 grudnia 2020 
+Należności handlowe od jednostek stowarzyszonych i współkontrolowanych 
+194 
+93 
+Zobowiązania handlowe wobec jednostek stowarzyszonych i współkontrolowanych 
+207 
+243 
+*Dane przekształcone 
+Wartość obrotów oraz salda rozrachunków wynikają z transakcji z Polską Grupą Górniczą S.A. oraz Polimex-Mostostal S.A. 
+24.2 
+Spółki zależne od Skarbu Państwa 
+Dominującym właścicielem PGE Polskiej Grupy Energetycznej S.A. jest Skarb Państwa, w związku z tym zgodnie z MSR 24 Ujawnianie 
+informacji na temat podmiotów powiązanych spółki Skarbu Państwa są traktowane jako podmioty powiązane. Spółki Grupy PGE 
+identyfikują szczegółowo transakcje z około 40 najważniejszymi spółkami zależnymi od Skarbu Państwa. 
+Łączna wartość transakcji, sald z powyższymi jednostkami została przedstawiona w tabeli poniżej. 
+ 
+ 
+ 
+Okres zakończony 
+31 marca 2021 
+Okres zakończony 
+31 marca 2020 
+Sprzedaż na rzecz podmiotów powiązanych 
+898 
+515 
+Zakupy od podmiotów powiązanych 
+1.562 
+1.328 
+ 
+ 
+ 
+Stan na dzień 
+31 marca 2021 
+Stan na dzień 
+31 grudnia 2020 
+Należności handlowe od podmiotów powiązanych 
+406 
+254 
+Zobowiązania handlowe wobec podmiotów powiązanych 
+589 
+582 
+ 
+Największe transakcje z udziałem spółek Skarbu Państwa dotyczą spółek Polskie Sieci Elektroenergetyczne S.A., Polskie Górnictwo 
+Naftowe i Gazownictwo S.A., Jastrzębska Spółka Węglowa S.A., ENERGA-OPERATOR S.A., PKN Orlen S.A., Grupa LOTOS S.A., Zakłady 
+Azotowe PUŁAWY S.A., PKP Cargo S.A., TAURON Dystrybucja S.A., PKO Bank Polski S.A. 
+Ponadto Grupa Kapitałowa PGE dokonuje istotnych transakcji na rynku energii za pośrednictwem Towarowej Giełdy Energii S.A. Z uwagi 
+na fakt, iż jednostka ta zajmuje się jedynie organizacją obrotu giełdowego, zakup i sprzedaż za jej pośrednictwem nie są traktowane jako 
+transakcje z podmiotem powiązanym. 
+24.3 
+Wynagrodzenie kadry kierowniczej 
+Główna kadra kierownicza obejmuje Zarząd i Radę Nadzorczą jednostki dominującej oraz istotnych spółek zależnych. 
+ 
+ 
+tys. PLN 
+Okres zakończony 
+31 marca 2021 
+Okres zakończony 
+31 marca 2020 
+Krótkoterminowe świadczenia pracownicze (wynagrodzenia i narzuty) 
+9.981 
+9.815 
+Świadczenia po okresie zatrudnienia 
+- 
+1.045 
+ŁĄCZNA KWOTA WYNAGRODZENIA GŁÓWNEJ KADRY KIEROWNICZEJ 
+9.981 
+10.860 
+Wynagrodzenie kadry kierowniczej spółek działalności pozostałej 
+6.084 
+6.506 
+ŁĄCZNA KWOTA WYNAGRODZENIA KADRY KIEROWNICZEJ 
+16.065 
+17.366 
+ 
+ 
+tys. PLN 
+Okres zakończony 
+31 marca 2021 
+Okres zakończony 
+31 marca 2020 
+Zarząd jednostki dominującej 
+2.164 
+2.060 
+w tym świadczenia po okresie zatrudnienia 
+- 
+180 
+Rada Nadzorcza jednostki dominującej 
+210 
+217 
+Zarządy - jednostki zależne 
+6.597 
+7.462 
+Rady Nadzorcze - jednostki zależne 
+1.010 
+1.121 
+RAZEM 
+9.981 
+10.860 
+Wynagrodzenie kadry kierowniczej spółek działalności pozostałej 
+6.084 
+6.506 
+ŁĄCZNA KWOTA WYNAGRODZENIA KADRY KIEROWNICZEJ 
+16.065 
+17.366 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+39 z 47 
+ 
+W spółkach GK PGE (pośrednio i bezpośrednio zależnych) realizowana jest zasada, że członkowie zarządów zatrudniani są na podstawie 
+umowy o świadczenie usług zarządzania. W nocie 6.2 Koszty w układzie rodzajowym i kalkulacyjnym wynagrodzenia z tego tytułu są 
+prezentowane w pozycji pozostałe koszty rodzajowe. 
+25. Istotne zdarzenia oraz zdarzenia po zakończeniu okresu sprawozdawczego 
+25.1 
+Wpływ pandemii COVID-19 na działalność Grupy Kapitałowej PGE 
+GK PGE na bieżąco identyfikuje czynniki ryzyka, które wpływają na wyniki Grupy w związku z pandemią COVID-19. W I kwartale 2021 roku 
+wpływ pandemii na wyniki finansowe pozostawał ograniczony. Dalsze możliwe skutki oraz ich skala są trudne do oszacowania. Istotny 
+będzie czas trwania epidemii, jej ewentualne dalsze nasilenie i zasięg, a także jej wpływ na wzrost gospodarczy w Polsce. Równocześnie 
+precyzyjność szacunków pozostaje utrudniona wobec szeregu innych czynników wpływających na rynek energii elektrycznej, w tym na 
+poziom zapotrzebowania na energię elektryczną. 
+Wybuch pandemii spowodował spowolnienie gospodarcze w 2020 roku w gospodarce światowej i w Polsce. Aktualnie, wraz ze 
+znoszeniem kolejnych obostrzeń pandemicznych, następuje stopniowa poprawa sytuacji gospodarczej. Uwidacznia się ona między innymi 
+w korekcie prognoz rynkowych PKB, produkcji przemysłowej i inwestycji. 
+Niemniej jednak, ponowne wprowadzenie obostrzeń może skutkować obniżonym poziomem aktywności gospodarczej, które mogłoby 
+tworzyć ryzyko utrzymywania się okresowo niższego poziomu krajowego zużycia energii elektrycznej, co może mieć wpływ na spadek 
+przychodów i marży z tytułu wytwarzania, dystrybucji i sprzedaży energii w segmentach Energetyka Konwencjonalna, Dystrybucja i Obrót, 
+jak również w segmencie Ciepłownictwo. Większość produkcji na 2021 rok została zakontraktowana w latach poprzednich, dlatego 
+potencjalny negatywny wpływ niższych wolumenów na segment Energetyka Konwencjonalna byłby w dużym stopniu ograniczony. 
+W przypadku nasilenia sytuacji pandemicznej dla segmentu Obrót istnieje ryzyko spadku zapotrzebowania na energię elektryczną, 
+mogące się przełożyć na niższy poziom sprzedaży do odbiorców końcowych oraz wyższy koszt bilansowania energii elektrycznej. Również 
+w segmencie Dystrybucja niższy wolumen realizowanych dostaw do odbiorców końcowych bezpośrednio mógłby się na przełożyć na 
+niższe przychody z tego tytułu. 
+Na 31 marca 2021 roku wpływ z tytułu przewidywanego wzrostu zatorów płatniczych, szczególnie na należnościach od przedsiębiorstw 
+z sektora małych i średnich przedsiębiorstw nie był istotny. Jak opisano w nocie 2.4 skonsolidowanego sprawozdania finansowego Grupa 
+utworzyła dodatkowe odpisy na należności w kwocie 16 mln PLN. Natomiast, w zależności od dalszej sytuacji epidemiologicznej i 
+gospodarczej, ryzyko pogorszonej płynności Grupy PGE oraz wzrostu odpisów na należności przeterminowane nadal istnieje i jest na 
+bieżąco monitorowane. Aktualnie Grupa nie przewiduje, by zjawisko przybrało bardziej materialny charakter i nie identyfikuje zagrożenia 
+płynnościowego. 
+Grupa PGE posiada zakłady strategiczne z punktu widzenia utrzymania niezakłóconej produkcji i dostaw energii elektrycznej oraz ciepła 
+w Polsce. Pandemia COVID-19 wpłynęła na zmianę organizacji pracy, szczególnie dotyczy to jednostek wytwórczych Grupy PGE. W wielu 
+przypadkach wiąże się to z dodatkowymi kosztami, jak np. zakup materiałów ochronnych dla pracowników. Od początku pandemii Grupa 
+wprowadziła zasady pracy, których celem jest maksymalne ograniczenie ryzyka zachorowań pracowników. Jako jeden z największych 
+pracodawców w Polsce, zatrudniający ponad 40 tys. pracowników, Grupa PGE podejmuje szereg działań związanych z organizacją spółki 
+i organizacją pracy mających na celu zapewnienie ciągłości działania, ochronę zdrowia i życia pracowników, w tym wdrożenie pracy zdalnej 
+i rotacyjnej, budowanie świadomości dotyczącej w szczególności podstawowych zasad ochrony przed COVID-19, profilaktyki 
+i kwarantanny. PGE powołała Zespół Kryzysowy, który zbiera informacje ze wszystkich spółek w Grupie, monitoruje na bieżąco sytuację w 
+poszczególnych spółkach i podejmuje stosowne działania. 
+Oddziały produkcyjne mają także opracowane i weryfikowane na bieżąco plany funkcjonowania przy zwiększonej absencji, a jako zakłady 
+strategiczne z punktu widzenia utrzymania niezakłóconej produkcji i dostaw energii elektrycznej i ciepła, są w stałym kontakcie z lokalnymi 
+służbami odpowiedzialnymi za monitorowanie sytuacji w kraju we wszystkich lokalizacjach jednostek należących do Grupy PGE. 
+W obszarze obsługi klientów detalicznych Grupa PGE skoncentrowała się przede wszystkim na rozszerzeniu kanałów obsługi zdalnej. 
+Na skutek wprowadzenia odpowiednich działań zaradczych na wczesnym etapie pandemii, GK PGE nieprzerwanie produkuje energię 
+elektryczną i ciepło oraz realizuje ich stabilną dostawę. 
+Grupa Kapitałowa PGE monitoruje dalszy wpływ pandemii COVID-19 na kondycję finansową Grupy PGE i przygotowuje się do różnych 
+scenariuszy. Pandemia przyspieszyła wprowadzenie działań związanych z przygotowaniem całej organizacji do zmian, aby sprostać 
+wyzwaniom stawianym spółkom energetycznym związanym z dekarbonizacją. Będzie to wymagać określonych nakładów finansowych. 
+Analizie zostały poddane wszystkie potencjalne scenariusze oszczędności zarówno w wydatkach inwestycyjnych, jak i w kosztach 
+operacyjnych po to, by skupić się na najważniejszych projektach rozwojowych związanych z działalnością podstawową Grupy PGE. 
+25.2 
+Złożenie wstępnej oferty nabycia udziałów w aktywach Grupy Fortum 
+27 października 2020 roku konsorcjum inwestycyjne, którego stroną jest PGE złożyło wstępną, niewiążącą ofertę nabycia od Fortum 
+Holding B.V. działalności ciepłowniczej i chłodniczej prowadzonej w Estonii, na Litwie, na Łotwie i w Polsce. Członkami Konsorcjum byli: 
+PGE, Polskie Górnictwo Naftowe i Gazownictwo S.A., PFR Inwestycje FIZ, którego częścią portfela inwestycyjnego zarządza Polski Fundusz 
+Rozwoju S.A. oraz IFM Investors Pty Ltd. 
+16 listopada 2020 roku PGE oraz Polskie Górnictwo Naftowe i Gazownictwo S.A. (Partnerzy), złożyli zmodyfikowaną, wstępną niewiążącą 
+ofertę nabycia aktywów należących do Fortum Holding B.V. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+40 z 47 
+Przedmiotem zmodyfikowanej oferty jest nabycie działalności ciepłowniczej prowadzonej przez Fortum Holding B.V. wyłącznie w Polsce. 
+Jednocześnie Partnerzy zrezygnowali z zamiaru nabycia aktywów Grupy Fortum prowadzących działalność na terenie Estonii, Litwy i Łotwy 
+oraz udziału w konsorcjum inwestycyjnym z PFR Inwestycje FIZ oraz IFM Investors Pty Ltd. 
+Aktualnie kontynuowane są wspólne prace zmierzające do złożenia oferty wiążącej. 
+Polska spółka zależna należąca do Fortum Holding B.V. prowadzi działalność związaną głównie z wytwarzaniem, dystrybucją i sprzedażą 
+ciepła oraz wytwarzaniem energii elektrycznej. 
+Zakup udziałów w aktywach Grupy Fortum jest zgodny ze Strategią Grupy PGE do 2030 roku ogłoszoną 19 października 2020 roku. 
+25.3 
+Podpisanie umowy inwestycyjnej z Ørsted dotyczącej projektu budowy morskich farm wiatrowych 
+10 lutego 2021 roku podmioty z GK PGE oraz Ørsted zawarły umowę, w której ustaliły ich udział w dwóch projektach budowy morskich 
+farm wiatrowych na poziomie 50%. Są to realizowane dotychczas przez PGE projekty Baltica 2 (o planowanej mocy ok. 1,5 GW) oraz 
+Baltica 3 (o planowanej mocy ok. 1 GW). 
+PGE Baltica 6 sp. z o.o., PGE Baltica 5 sp. z o.o. (podmioty zależne od PGE) („Dotychczasowi Wspólnicy”), Orsted Baltica 2 Holding sp. z o.o., 
+Orsted Baltica 3 Holding sp. z o.o., (podmioty zależne od Ørsted Wind Power A/S („OWPAS”), zwani dalej łącznie „Inwestorami”), 
+Elektrownia Wiatrowa Baltica – 2 sp. z o.o. („EWB2”) i Elektrownia Wiatrowa Baltica – 3 sp. z o.o. („EWB3”) podpisali umowę inwestycyjną 
+dotyczącą dokonania przez Inwestorów inwestycji w projekty Baltica 2 i Baltica 3. 
+Umowa inwestycyjna określa ramy prawne regulujące utworzenie wspólnej działalności pomiędzy PGE a OWPAS, którego celem będzie 
+przygotowanie, budowa i eksploatacja morskich farm wiatrowych Baltica 2 i Baltica 3. 
+W ramach Umowy inwestycyjnej Inwestorzy zobowiązują się objąć nowoutworzone udziały w EWB2 i EWB3, stanowiące 50% całego 
+kapitału zakładowego i uprawniające Inwestorów do 50% głosów w organach każdej ze spółek. 
+W dniu 10 marca 2021 roku Prezes Urzędu Ochrony Konkurencji i Konsumentów wydał zgodę na dokonanie koncentracji. 
+W dniu 6 maja 2021 roku odpowiednie podmioty z grup kapitałowych PGE oraz Ørsted, po ziszczeniu się warunków zawieszających 
+sfinalizowały transakcję, w ramach której odpowiednie podmioty z grupy kapitałowej Ørsted objęły udziały stanowiące 50% kapitału 
+zakładowego spółek EWB2 oraz EWB3. Po rejestracji podwyższenia kapitału zakładowego Ørsted i PGE (działający poprzez ich 
+odpowiednie spółki zależne) staną się w stosunku 50/50 wspólnikami utworzonej wspólnej działalności (joint operation). 
+Łączna cena objęcia 50% udziałów w EWB2 i EWB3 stanowi równowartość około 686 mln PLN. Zwiększona cena uwzględnia 
+w szczególności wkłady wniesione przez PGE na rzecz spółek po podpisaniu umowy inwestycyjnej. Po spełnieniu ustalonych założeń 
+odpowiednie podmioty z grupy kapitałowej Ørsted będą zobowiązane do wniesienia do EWB2 i EWB3 dodatkowych wkładów, które 
+mogą wynieść łącznie do 1.024 mln PLN. 
+W ramach zamknięcia transakcji odpowiednie podmioty z obu grup kapitałowych Ørsted oraz PGE zawarły szereg dokumentów, 
+oddzielnie dla spółki Baltica 2 oraz Baltica 3 obejmujących w szczególności: 
+ 
+umowy wspólników regulujące między innymi zasady ładu korporacyjnego spółek, zasady funkcjonowania zintegrowanych 
+zespołów projektowych, zobowiązania stron w zakresie finansowania i świadczenia innego rodzaju wsparcia na rzecz spółek, 
+ograniczenia dotyczące zbywalności udziałów w spółkach stanowiących wspólne działalności oraz skutki naruszenia 
+postanowień i zmiany kontroli; 
+ 
+umowy regulujące świadczenie usług rozwojowych na rzecz spółek stanowiących wspólne działalności przez odpowiednie spółki 
+zależne obu stron; 
+ 
+umowy dotyczące udostępniania zasobów, na podstawie których obie strony oddelegują personel do spółek ; 
+ 
+umowy pożyczek wspólników, na podstawie których wspólnicy udostępnią finansowanie dłużne (oprócz finansowania 
+kapitałowego)obu spółkom; oraz 
+ 
+gwarancje korporacyjne wystawione przez PGE and Ørsted Wind Power A/S, na podstawie których obie strony gwarantują 
+należyte wykonane zobowiązań na etapie rozwoju projektów przez ich odpowiednie spółki zależne. 
+25.4 
+Skarga Czech przeciwko Polsce z tytułu przedłużenia koncesji dla dalszego funkcjonowania 
+KWB Turów 
+Decyzją Ministra Klimatu z dnia 20 marca 2020 roku o 6 lat przedłużono koncesję dla PGE GiEK S.A. na wydobywanie węgla brunatnego 
+i kopalin towarzyszących ze złoża węgla brunatnego „Turów”. W dniu 30 września 2020 roku Republika Czeska skierowała do Komisji 
+Europejskiej w trybie art. 259 Traktatu o funkcjonowaniu Unii Europejskiej pismo inicjujące postępowanie przeciwko Polsce z tytułu 
+przedłużenia funkcjonowania kompleksu energetycznego w Turowie. Zarzuty względem strony polskiej dotyczyły wydania decyzji 
+administracyjnych umożliwiających kontynuowanie działalności wydobywczej w KWB Turów. Działanie władz polskich, miałoby rzekomo 
+stanowić naruszenie przepisów prawa UE, w tym ramowej dyrektywy wodnej, dyrektywy w sprawie oceny wpływu niektórych planów 
+i programów na środowisko, dyrektywy w sprawie publicznego dostępu do informacji dotyczących środowiska oraz dyrektywy w sprawie 
+oceny skutków wywieranych przez niektóre przedsięwzięcia publiczne i prywatne na środowisko. 
+W dniu 17 grudnia 2020 roku Komisja Europejska wydała uzasadnioną opinię, w której podzieliła część zarzutów strony czeskiej, wskazując 
+jednocześnie, że przedłużenie funkcjonowania KWB Turów nie spowodowało naruszenia postanowień ramowej dyrektywy wodnej. 
+Komisja Europejska podkreśliła również, że część pozostałych zarzutów ze strony czeskiej okazała się nietrafiona. 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe GK PGE 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+41 z 47 
+W dniu 22 lutego 2021 roku rząd czeski podjął decyzję o złożeniu skargi przeciwko Rzeczypospolitej Polskiej. Skarga ta została skierowana 
+do Trybunału Sprawiedliwości w dniu 26 lutego 2021. W dniu 19 kwietnia 2021 roku opublikowano streszczenia skargi i głównych 
+argumentów w Dzienniku Urzędowym UE. Stroną w postępowaniu są państwa członkowskie, co wyłącza możliwość udziału osób 
+fizycznych i prawnych, nawet jeśli sprawa dotyczy bezpośrednio ich działalności. 
+W dniu 21 maja 2021 roku Wiceprezes Trybunału Sprawiedliwości wydała postanowienie w przedmiocie środka tymczasowego 
+o następującej treści: „Rzeczpospolita Polska zaprzestanie natychmiast i do chwili ogłoszenia wyroku kończącego sprawę C-121/21 
+wydobycia węgla brunatnego w kopalni Turów (Polska).” Środek tymczasowy nie rozstrzyga co do istoty sprawy. Podstawą jego wydania 
+było przyjęcie przez Trybunał Sprawiedliwości, że kontynuacja wydobycia węgla brunatnego w KWB Turów będzie prowadzić do obniżenia 
+poziomu wód gruntowych po stronie czeskiej. Jednocześnie okoliczność ta musiała zostać przez stronę czeską jedynie 
+uprawdopodobniona. 
+Postanowienie w przedmiocie środka tymczasowego nie podlega zaskarżeniu, niemniej na podstawie art. 163 Regulaminu Trybunału 
+Sprawiedliwości: „Na wniosek strony postanowienie może zostać w każdej chwili zmienione lub uchylone ze względu na zmianę 
+okoliczności”. 
+Określenie sposobu wykonania środka tymczasowego należy do państwa członkowskiego, do którego środek ten jest skierowany. 
+Eksploatacja KWB Turów jest prowadzona w zgodzie z przepisami prawa krajowego oraz europejskimi normami środowiskowymi na 
+podstawie legalnie pozyskanej koncesji. W ocenie PGE nie ma obecnie podstaw do wstrzymania pracy kompleksu energetycznego 
+w Turowie. 
+25.5 
+Planowane przeniesienie aktywów węglowych do Narodowej Agencji Bezpieczeństwa 
+Energetycznego 
+W dniu 21 maja 2021 roku w wykazie prac legislacyjnych i programowych Rady Ministrów opublikowany został projekt: „Transformacja 
+sektora elektroenergetycznego w Polsce. Wydzielenie wytwórczych aktywów węglowych ze spółek z udziałem Skarbu Państwa”. Zgodnie 
+z projektem proces wydzielania aktywów przyjmie formułę nabycia przez Skarb Państwa od PGE S.A, ENEA S.A., TAURON Polska 
+Energia S.A. wszystkich aktywów związanych z wytwarzaniem energii w elektrowniach zasilanych węglem kamiennym i brunatnym w tym 
+spółek serwisowych świadczących usługi na ich rzecz. W związku z nierozerwalnością kompleksów energetycznych zasilanych węglem 
+brunatnym wśród nabywanych aktywów znają się również kopalnie węgla brunatnego. Aktywa związane z wydobyciem węgla 
+kamiennego nie zostaną włączone do podmiotu zajmującego się wytwarzaniem energii elektrycznej w jednostkach węglowych. Aktywa 
+ciepłownicze w związku z planowanymi ich modernizacjami w kierunku źródeł nisko i zeroemisyjnych nie będą przedmiotem wydzielenia. 
+Następnie Skarb Państwa dokona integracji nabytych aktywów w ramach jednego podmiotu. Integratorem będzie PGE GiEK S.A. 
+Integracja nastąpi poprzez połączenie nabytych przez Skarb Państwa spółek lub ich wniesienie na podwyższenie kapitału do PGE GiEK S.A. 
+PGE GiEK S.A. będzie działał pod firmą Narodowa Agencja Bezpieczeństwa Energetycznego S.A. NABE będzie podmiotem 
+samowystarczalnym, który w ramach swojej działalności będzie realizować inwestycje utrzymaniowe i modernizacyjne niezbędne do 
+utrzymania sprawności eksploatowanych bloków węglowych. Transakcja ma nastąpić po przeprowadzeniu stosownych analiz 
+biznesowych i ekonomicznych, w tym badania due diligence oraz sporządzeniu wyceny wybranych aktywów. Sposób rozliczenia 
+transakcji, z uwagi na zadłużenie spółek wytwarzania wobec podmiotów dominujących w grupach kapitałowych, będzie przedmiotem 
+szczegółowych uzgodnień pomiędzy Skarbem Państwa a obecnymi właścicielami. 
+Według założeń projektu, po wydzieleniu wytwórczych aktywów węglowych koncerny energetyczne skupią się na realizacji nisko 
+i zeroemisyjnych inwestycji a NABE, działająca w formie spółki ze 100% udziałem Skarbu Państwa, będzie właścicielem wytwórczych 
+aktywów węglowych. Rolą NABE będzie zapewnienie niezbędnego bilansu mocy w systemie energetycznym, ograniczając się do 
+niezbędnych inwestycji odtworzeniowych i stopniowego odstawiania jednostek węglowych wraz z postępującym przyrostem mocy ze 
+źródeł nisko i zeroemisyjnych, zapewniając bezpieczeństwo energetyczne kraju. Planowany termin przyjęcia projektu przez Radę 
+Ministrów to II kwartał 2021 roku. 
+Obecnie nie zostały przedstawione założenia programu dotyczące w szczególności daty przeniesienia aktywów węglowych, wyceny 
+aktywów oraz sposobu rozliczenia długu i innych zobowiązań związanych z aktywami. W związku z tym określenie wpływu wydzielenia na 
+przyszłe sprawozdania finansowe PGE oraz GK PGE nie jest obecnie możliwe. 
+ 
+
+Kwartalna informacja finansowa PGE Polska Grupa Energetyczna S.A. 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+42 z 47 
+ 
+II. KWARTALNA INFORMACJA FINANSOWA PGE POLSKA GRUPA ENERGETYCZNA S.A. 
+ZA OKRES 3 MIESIĘCY ZAKOŃCZONY 31 MARCA 2021 ROKU ZGODNE Z MSSF UE 
+ 
+JEDNOSTKOWE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW 
+ 
+3 m-ce zakończone 
+31 marca 2021 
+(niebadane) 
+3 m-ce zakończone 
+31 marca 2020 
+(niebadane) 
+RACHUNEK ZYSKÓW I STRAT 
+ 
+ 
+ 
+ 
+ 
+PRZYCHODY ZE SPRZEDAŻY 
+9.920 
+9.698 
+Koszt własny sprzedaży 
+(9.673) 
+(9.416) 
+ZYSK BRUTTO ZE SPRZEDAŻY 
+247 
+282 
+Koszty sprzedaży i dystrybucji 
+(5) 
+(5) 
+Koszty ogólnego zarządu 
+(54) 
+(57) 
+Pozostałe przychody/(koszty) operacyjne 
+- 
+(9) 
+ZYSK Z DZIAŁALNOŚCI OPERACYJNEJ 
+188 
+211 
+Przychody/(Koszty) finansowe, w tym 
+(4) 
+43 
+ 
+Przychody odsetkowe obliczone z zastosowaniem metody efektywnej stopy procentowej 
+28 
+44 
+ZYSK BRUTTO 
+184 
+254 
+Podatek dochodowy 
+12 
+(32) 
+ZYSK NETTO ZA OKRES SPRAWOZDAWCZY 
+196 
+222 
+ 
+ 
+ 
+INNE CAŁKOWITE DOCHODY 
+ 
+ 
+Pozycje, które mogą w przyszłości zostać rozliczone z wynikiem: 
+ 
+ 
+Wyceny instrumentów zabezpieczających 
+174 
+(301) 
+Podatek odroczony 
+(33) 
+57 
+Pozycje, które nie będą mogły w przyszłości zostać rozliczone z wynikiem: 
+ 
+ 
+Zyski i straty aktuarialne z wyceny rezerw na świadczenia pracownicze 
+- 
+- 
+Podatek odroczony 
+- 
+- 
+INNE DOCHODY ZA OKRES SPRAWOZDAWCZY, NETTO 
+141 
+(244) 
+ 
+ 
+ 
+RAZEM CAŁKOWITE DOCHODY 
+337 
+(22) 
+ 
+ 
+ 
+ZYSK NETTO I ROZWODNIONY ZYSK NETTO NA JEDNĄ AKCJĘ 
+(W ZŁOTYCH) 
+0,10 
+0,12 
+ 
+ 
+
+Kwartalna informacja finansowa PGE Polska Grupa Energetyczna S.A. 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+43 z 47 
+ 
+JEDNOSTKOWE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ 
+ 
+ 
+Stan na dzień 
+31 marca 2021 
+(niebadane) 
+Stan na dzień 
+31 grudnia 2020 
+(badane) 
+AKTYWA TRWAŁE 
+ 
+ 
+Rzeczowe aktywa trwałe 
+152 
+155 
+Prawo do użytkowania składników aktywów 
+20 
+20 
+Należności finansowe 
+9.140 
+9.139 
+Instrumenty pochodne i inne aktywa wyceniane w wartości godziwej przez wynik finansowy 
+169 
+132 
+Udziały i akcje w jednostkach zależnych 
+29.492 
+29.401 
+Udziały i akcje w jednostkach stowarzyszonych i współkontrolowanych 
+101 
+101 
+Aktywa z tytułu odroczonego podatku dochodowego 
+94 
+119 
+ 
+39.168 
+39.067 
+AKTYWA OBROTOWE 
+ 
+ 
+Zapasy 
+1 
+1 
+Należności z tytułu dostaw i usług i pozostałe należności 
+15.447 
+9.762 
+Instrumenty pochodne 
+1.226 
+1.244 
+Udziały i akcje w jednostkach zależnych 
+- 
+369 
+Pozostałe aktywa krótkoterminowe 
+257 
+54 
+Środki pieniężne i ich ekwiwalenty 
+1.942 
+3.507 
+ 
+18.873 
+14.937 
+SUMA AKTYWÓW 
+58.041 
+54.004 
+KAPITAŁ WŁASNY 
+ 
+ 
+Kapitał podstawowy 
+19.165 
+19.165 
+Kapitał zapasowy 
+18.410 
+18.410 
+Kapitał z wyceny instrumentów finansowych 
+(147) 
+(288) 
+Zyski zatrzymane 
+1.938 
+1.742 
+ 
+39.366 
+39.029 
+ZOBOWIĄZANIA DŁUGOTERMINOWE 
+ 
+ 
+Rezerwy długoterminowe 
+20 
+19 
+Kredyty, pożyczki, obligacje, leasing 
+7.881 
+8.602 
+Instrumenty pochodne 
+229 
+385 
+Pozostałe zobowiązania 
+14 
+17 
+ 
+8.144 
+9.023 
+ZOBOWIĄZANIA KRÓTKOTERMINOWE 
+ 
+ 
+Rezerwy krótkoterminowe 
+52 
+21 
+Kredyty, pożyczki, obligacje, cash pooling, leasing 
+4.020 
+2.150 
+Instrumenty pochodne 
+1.222 
+1.243 
+Zobowiązania z tytułu dostaw i usług i pozostałe zobowiązania 
+3.696 
+1.583 
+Zobowiązania z tytułu podatku dochodowego 
+252 
+456 
+Pozostałe zobowiązania niefinansowe 
+1.289 
+499 
+ 
+10.531 
+5.952 
+RAZEM ZOBOWIĄZANIA 
+18.675 
+14.975 
+SUMA KAPITAŁÓW I ZOBOWIĄZAŃ 
+58.041 
+54.004 
+ 
+ 
+ 
+
+Kwartalna informacja finansowa PGE Polska Grupa Energetyczna S.A. 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+44 z 47 
+ 
+JEDNOSTKOWE SPRAWOZDANIE ZE ZMIAN W KAPITAŁACH WŁASNYCH 
+ 
+ 
+Kapitał 
+podstawowy 
+Kapitał 
+zapasowy 
+Kapitał z wyceny 
+instrumentów 
+finansowych 
+Zyski 
+zatrzymane 
+Razem 
+kapitał własny 
+ 
+ 
+ 
+ 
+ 
+ 
+NA DZIEŃ 1 STYCZNIA 2021 ROKU 
+19.165 
+18.410 
+(288) 
+1.742 
+39.029 
+Zysk netto za okres sprawozdawczy 
+- 
+- 
+- 
+196 
+196 
+Inne całkowite dochody 
+- 
+- 
+141 
+- 
+141 
+CAŁKOWITE DOCHODY ZA OKRES 
+- 
+- 
+141 
+196 
+337 
+ 
+ 
+ 
+ 
+ 
+ 
+NA DZIEŃ 31 MARCA 2021 ROKU 
+19.165 
+18.410 
+(147) 
+1.938 
+39.366 
+ 
+ 
+Kapitał 
+podstawowy 
+Kapitał 
+zapasowy 
+Kapitał z wyceny 
+instrumentów 
+finansowych 
+Zyski 
+zatrzymane 
+Razem 
+kapitał własny 
+ 
+ 
+ 
+ 
+ 
+ 
+NA DZIEŃ 1 STYCZNIA 2020 ROKU 
+19.165 
+19.669 
+(72) 
+(1.258) 
+37.504 
+Zysk netto za okres sprawozdawczy 
+- 
+- 
+- 
+222 
+222 
+Inne całkowite dochody 
+- 
+- 
+(244) 
+- 
+(244) 
+CAŁKOWITE DOCHODY ZA OKRES 
+- 
+- 
+(244) 
+222 
+(22) 
+ 
+ 
+ 
+ 
+ 
+ 
+Pozostałe zmiany 
+- 
+- 
+- 
+(1) 
+(1) 
+NA DZIEŃ 31 MARCA 2020 ROKU 
+19.165 
+19.669 
+(316) 
+(1.037) 
+37.481 
+ 
+ 
+ 
+
+Kwartalna informacja finansowa PGE Polska Grupa Energetyczna S.A. 
+za okres 3 miesięcy zakończony dnia 31 marca 2021 roku zgodne z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+45 z 47 
+ 
+JEDNOSTKOWE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH 
+ 
+ 
+Okres zakończony 
+31 marca 2021 
+(niebadane) 
+Okres zakończony 
+31 marca 2020 
+(niebadane) 
+PRZEPŁYWY ŚRODKÓW PIENIĘŻNYCH Z DZIAŁALNOŚCI OPERACYJNEJ 
+ 
+ 
+Zysk brutto 
+184 
+254 
+Podatek dochodowy zapłacony 
+3 
+122 
+ 
+ 
+ 
+Korekty o pozycje: 
+ 
+ 
+Amortyzacja i odpisy aktualizujące 
+3 
+3 
+Odsetki i dywidendy, netto 
+(28) 
+(40) 
+(Zysk)/ strata na działalności inwestycyjnej 
+23 
+102 
+Zmiana stanu należności 
+(7.119) 
+(5.499) 
+Zmiana stanu zapasów 
+1 
+(701) 
+Zmiana stanu zobowiązań z wyjątkiem kredytów i pożyczek 
+2.707 
+2.868 
+Zmiana stanu pozostałych aktywów niefinansowych 
+(214) 
+(258) 
+Zmiana stanu rezerw 
+(8) 
+- 
+Różnice kursowe 
+9 
+(9) 
+ŚRODKI PIENIĘŻNE NETTO Z DZIAŁALNOŚCI OPERACYJNEJ 
+(4.439) 
+(3.158) 
+ 
+ 
+ 
+PRZEPŁYWY ŚRODKÓW PIENIĘŻNYCH Z DZIAŁALNOŚCI INWESTYCYJNEJ 
+ 
+ 
+Nabycie rzeczowych aktywów trwałych i wartości niematerialnych 
+(1) 
+(2) 
+(Nabycie)/wykup obligacji emitowanych przez spółki Grupy PGE 
+- 
+610 
+Sprzedaż pozostałych aktywów finansowych 
+374 
+- 
+Wydatki na nabycie udziałów i akcji spółek zależnych 
+(91) 
+(18) 
+Udzielenie/(spłaty) pożyczek w ramach usługi cash poolingu 
+1.407 
+589 
+Udzielenie pożyczek 
+(2.040) 
+(1.039) 
+Odsetki otrzymane 
+53 
+66 
+Spłata udzielonych pożyczek 
+3.252 
+861 
+ŚRODKI PIENIĘŻNE NETTO Z DZIAŁALNOŚCI INWESTYCYJNEJ 
+2.954 
+1.067 
+ 
+ 
+ 
+PRZEPŁYWY ŚRODKÓW PIENIĘŻNYCH Z DZIAŁALNOŚCI FINANSOWEJ 
+ 
+ 
+Wpływy z tytułu zaciągnięcia pożyczek, kredytów 
+- 
+3.108 
+Spłata kredytów, pożyczek i leasingu 
+(1) 
+(301) 
+Odsetki zapłacone 
+(69) 
+(77) 
+ŚRODKI PIENIĘŻNE NETTO Z DZIAŁALNOŚCI FINANSOWEJ 
+(70) 
+2.730 
+ 
+ 
+ 
+ZMIANA NETTO STANU ŚRODKÓW PIENIĘŻNYCH I ICH EKWIWALENTÓW 
+(1.555) 
+639 
+Różnice kursowe netto 
+(9) 
+9 
+ŚRODKI PIENIĘŻNE NA POCZĄTEK OKRESU 
+3.493 
+219 
+ŚRODKI PIENIĘŻNE NA KONIEC OKRESU 
+1.938 
+858 
+ 
+1. Zmiana zasad rachunkowości i prezentacji danych 
+Nowe standardy i interpretacje, które weszły w życie 1 stycznia 2021 roku, a nie miały wpływu na jednostkowe sprawozdanie finansowe 
+Spółki, zostały opisane w nocie 2.3 skonsolidowanego sprawozdania finansowego 
+
+Kwartalny raport finansowy za okres 3 miesięcy 
+zakończony dnia 31 marca 2021 roku zgodny z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+46 z 47 
+ 
+III. ZATWIERDZENIE KWARTALNEGO RAPORTU FINANSOWEGO 
+Niniejszy raport finansowy zawierający śródroczne skonsolidowane sprawozdanie finansowe GK PGE oraz kwartalną informację 
+finansową PGE S.A. za okres 3 miesięcy zakończony 31 marca 2021 roku został zatwierdzony do udostępnienia przez Zarząd jednostki 
+dominującej dnia 25 maja 2021 roku. 
+ 
+Warszawa, 25 maja 2021 roku 
+ 
+Podpisy Członków Zarządu PGE Polska Grupa Energetyczna S.A. 
+ 
+Prezes Zarządu 
+Wojciech Dąbrowski 
+ 
+ 
+Wiceprezes Zarządu 
+Wanda Buk 
+ 
+ 
+Wiceprezes Zarządu 
+Paweł Cioch 
+ 
+ 
+Wiceprezes Zarządu 
+Paweł Śliwa 
+ 
+ 
+Wiceprezes Zarządu 
+Ryszard Wasiłek 
+ 
+ 
+ 
+ 
+Podpis osoby 
+odpowiedzialnej za 
+sporządzenie 
+sprawozdania 
+finansowego 
+Michał Skiba 
+Dyrektor Departamentu 
+Sprawozdawczości 
+i Podatków 
+ 
+ 
+ 
+ 
+Dokument podpisany przez Wojciech
+Dąbrowski; Prezes Zarządu
+Data: 2021.05.25 08:16:28 CEST
+Signature Not Verified
+Michał 
+Przemysław Skiba
+Elektronicznie podpisany przez 
+Michał Przemysław Skiba 
+Data: 2021.05.25 08:43:20 
++02'00'
+Dokument podpisany przez Wanda
+Regina Buk; Wiceprezes Zarządu
+Data: 2021.05.25 13:36:16 CEST
+Signature Not Verified
+Dokument podpisany przez PAWEŁ
+ŚLIWA; WICEPREZES ZARZĄDU
+Data: 2021.05.25 13:55:20 CEST
+Signature Not Verified
+Dokument podpisany przez Paweł Cioch;
+Wiceprezes Zarządu
+Data: 2021.05.25 14:10:19 CEST
+Signature Not Verified
+Dokument podpisany przez RYSZARD
+WASIŁEK; WICEPREZES ZARZĄDU
+Data: 2021.05.25 17:00:50 CEST
+Signature Not Verified
+
+Kwartalny raport finansowy za okres 3 miesięcy 
+zakończony dnia 31 marca 2021 roku zgodny z MSSF UE (w mln PLN) 
+ 
+Dodatkowe noty objaśniające do skonsolidowanego 
+sprawozdania finansowego stanowią jego integralną część 
+47 z 47 
+ 
+Słownik pojęć i skrótów 
+Poniżej zamieszczono wykaz pojęć i skrótów najczęściej używanych w treści niniejszego skonsolidowanego sprawozdania finansowego 
+Skrót 
+Pełna nazwa 
+CCIRS 
+Kontrakty na zmianę stóp procentowych oraz kursów(Cross Currency Interest 
+Rate Swap) 
+EBIT 
+Wynik na działalności operacyjnej przed opodatkowaniem (Earnings Before 
+Interest and Taxes) 
+EBITDA 
+Wynik na działalności operacyjnej przed opodatkowaniem powiększony o 
+amortyzację (Earnings Before Interest, Taxes, Depreciation and Amortization) 
+EUA 
+Uprawnienia do emisji CO2 (European Union Allowances) 
+Grupa Kapitałowa PGE, Grupa PGE, Grupa, 
+GK PGE 
+Grupa Kapitałowa PGE Polska Grupa Energetyczna S.A. 
+IRGiT 
+Izba Rozliczeniowa Giełd Towarowych S.A. 
+IRS 
+Kontrakty na zmianę stóp procentowych (Interest Rate Swap) 
+KDT 
+Kontrakty długoterminowe sprzedaży mocy i energii elektrycznej 
+KOGENERACJA S.A. 
+Zespół Elektrociepłowni Wrocławskich KOGENERACJA S.A. 
+MSSF 
+Międzynarodowe Standardy Sprawozdawczości Finansowej 
+MSSF UE 
+Międzynarodowe Standardy Sprawozdawczości Finansowej zatwierdzone przez 
+Unię Europejską 
+NABE 
+Narodowa Agencja Bezpieczeństwa Energetycznego S.A. 
+NFOŚiGW 
+Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej 
+NI 
+Nieruchomość inwestycyjna 
+PDUA 
+Prawa do użytkowania składników aktywów 
+PGE S.A., Spółka, jednostka dominująca 
+PGE Polska Grupa Energetyczna S.A 
+PGE EC S.A. 
+PGE Energia Ciepła S.A. 
+PGE EO S.A. 
+PGE Energia Odnawialna S.A. 
+PGE GiEK S.A. 
+PGE Górnictwo i Energetyka Konwencjonalna S.A. 
+PGE PGK 
+Podatkowa Grupa Kapitałowa PGE 
+RAT 
+Rzeczowe aktywa trwałe 
+Sprawozdanie finansowe, skonsolidowane 
+sprawozdanie finansowe 
+Skonsolidowane sprawozdanie finansowe Grupy Kapitałowej PGE 
+Ustawa o cenach prądu 
+Ustawa o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw 
+WFOŚiGW 
+Wojewódzki Fundusz Ochrony Środowiska i Gospodarki Wodnej 
+WN 
+Wartości niematerialne

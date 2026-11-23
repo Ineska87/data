@@ -1,0 +1,5806 @@
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+SPIS TREŚCI 
+SKONSOLIDOWANE SPRAWOZDANIE Z WYNIKU FINANSOWEGO I INNYCH CAŁKOWITYCH DOCHODÓW .............................................. 4 
+SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ .................................................................................................................. 5 
+SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ (CD.) ......................................................................................................... 6 
+SKONSOLIDOWANE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM .................................................................................................... 7 
+SKONSOLIDOWANE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH .......................................................................................................... 8 
+INFORMACJE DODATKOWE ................................................................................................................................................................................... 9 
+NOTY DO ŚRÓDROCZNEGO SKRÓCONEGO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO .................................................. 9 
+1. INFORMACJE OGÓLNE .................................................................................................................................................................................... 9 
+1.1. NAZWA, SIEDZIBA, PRZEDMIOT DZIAŁALNOŚCI ................................................................................................................................ 9 
+1.2. SKŁAD GRUPY KAPITAŁOWEJ .............................................................................................................................................................. 9 
+2. ZASADY RACHUNKOWOŚCI .......................................................................................................................................................................... 12 
+2.1. PODSTAWA SPORZĄDZENIA SPRAWOZDANIA FINANSOWEGO .................................................................................................... 12 
+2.2. ZAŁOŻENIE KONTYNUACJI DZIAŁALNOŚCI ....................................................................................................................................... 12 
+2.3. NOWE STANDARDY, INTERPRETACJE I ICH ZMIANY ...................................................................................................................... 12 
+2.4. INFORMACJE DOTYCZĄCE SEZONOWOŚCI ..................................................................................................................................... 14 
+2.5. ISTOTNE ZMIANY POZYCJI SPRAWOZDAWCZYCH, KWOTY MAJĄCE ZNACZĄCY WPŁYW NA AKTYWA, ZOBOWIĄZANIA, 
+KAPITAŁ WŁASNY, WYNIK FINANSOWY NETTO LUB PRZEPŁYWY PIENIĘŻNE, KTÓRE SĄ NIETYPOWE ZE WZGLĘDU 
+NA ICH RODZAJ, WIELKOŚĆ, WYWIERANY WPŁYW LUB CZĘSTOTLIWOŚĆ ................................................................................ 14 
+2.6. ZMIANA SZACUNKÓW .......................................................................................................................................................................... 16 
+3. NOTY OBJAŚNIAJĄCE DO SEGMENTÓW OPERACYJNYCH ...................................................................................................................... 17 
+3.1. SEGMENTY OPERACYJNE ................................................................................................................................................................... 17 
+4. NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z WYNIKU FINANSOWEGO I INNYCH CAŁKOWITYCH 
+DOCHODÓW..................................................................................................................................................................................................... 18 
+4.1. PRZYCHODY ZE SPRZEDAŻY ............................................................................................................................................................. 18 
+4.2. KOSZT SPRZEDANYCH PRODUKTÓW, MATERIAŁÓW I TOWARÓW .............................................................................................. 18 
+4.3. POZOSTAŁE PRZYCHODY ................................................................................................................................................................... 19 
+4.4. POZOSTAŁE KOSZTY ........................................................................................................................................................................... 19 
+4.5. PRZYCHODY/(KOSZTY) ZWIĄZANE Z PRZEKAZANIEM ZAKŁADU GÓRNICZEGO DO SRK ......................................................... 19 
+4.6. POZOSTAŁE ZYSKI/(STRATY) – NETTO ............................................................................................................................................. 21 
+4.7. ZYSK/(STRATA) NA AKCJĘ ................................................................................................................................................................... 21 
+5. NOTY OBJAŚNIAJĄCE DOTYCZĄCE OPODATKOWANIA .......................................................................................................................... 22 
+5.1. PODATEK DOCHODOWY ..................................................................................................................................................................... 22 
+6. NOTY OBJAŚNIAJĄCE DOTYCZĄCE ZADŁUŻENIA .................................................................................................................................... 23 
+6.1. KREDYTY I POŻYCZKI .......................................................................................................................................................................... 23 
+6.2. ZOBOWIĄZANIA Z TYTUŁU LEASINGU ............................................................................................................................................... 25 
+6.3. UZGODNIENIE ZADŁUŻENIA ................................................................................................................................................................ 26 
+7. NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z SYTUACJI FINANSOWEJ ...................................................... 27 
+7.1. RZECZOWE AKTYWA TRWAŁE ........................................................................................................................................................... 27 
+7.2. PRAWO DO UŻYTKOWANIA SKŁADNIKA AKTYWÓW ....................................................................................................................... 27 
+7.3. UTRATA WARTOŚCI NIEFINANSOWYCH AKTYWÓW TRWAŁYCH .................................................................................................. 28 
+7.4. INWESTYCJE W PORTFEL AKTYWÓW FIZ ........................................................................................................................................ 29 
+7.5. POZOSTAŁE DŁUGOTERMINOWE AKTYWA FINANSOWE ............................................................................................................... 31 
+7.6. ZAPASY .................................................................................................................................................................................................. 32 
+7.7. NALEŻNOŚCI HANDLOWE ORAZ POZOSTAŁE NALEŻNOŚCI.......................................................................................................... 32 
+7.8. ŚRODKI PIENIĘŻNE I ICH EKWIWALENTY ......................................................................................................................................... 33 
+7.9. KAPITAŁ WŁASNY ................................................................................................................................................................................. 33 
+7.9.1. KAPITAŁ PODSTAWOWY ........................................................................................................................................................ 33 
+7.9.2. KAPITAŁ Z TYTUŁU WYCENY INSTRUMENTÓW FINANSOWYCH ..................................................................................... 34 
+7.9.3. DYWIDENDY WYPŁACONE I ZAPROPONOWANE DO WYPŁATY....................................................................................... 34 
+7.10. ZOBOWIĄZANIA Z TYTUŁU ŚWIADCZEŃ PRACOWNICZYCH .......................................................................................................... 34 
+7.11. REZERWY .............................................................................................................................................................................................. 35 
+7.12. ZOBOWIĄZANIA HANDLOWE ORAZ POZOSTAŁE ZOBOWIĄZANIA ................................................................................................ 37 
+8. NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z PRZEPŁYWÓW PIENIĘŻNYCH .............................................. 38 
+8.1. WPŁYWY PIENIĘŻNE Z DZIAŁALNOŚCI OPERACYJNEJ................................................................................................................... 38 
+
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+9. NOTY OBJAŚNIAJĄCE DO INSTRUMENTÓW FINANSOWYCH ................................................................................................................... 40 
+9.1. KATEGORIE I KLASY INSTRUMENTÓW FINANSOWYCH.................................................................................................................. 40 
+9.2. HIERARCHIA WARTOŚCI GODZIWEJ ................................................................................................................................................. 42 
+9.3. ZARZĄDZANIE RYZYKIEM FINANSOWYM .......................................................................................................................................... 42 
+9.3.1. CZYNNIKI RYZYKA FINANSOWEGO...................................................................................................................................... 42 
+9.3.2. ZARZĄDZANIE RYZYKIEM KAPITAŁOWYM .......................................................................................................................... 47 
+10. POZOSTAŁE NOTY OBJAŚNIAJĄCE ............................................................................................................................................................ 48 
+10.1. POZYCJE WARUNKOWE ...................................................................................................................................................................... 48 
+10.2. PRZYSZŁE ZOBOWIĄZANIA UMOWNE ............................................................................................................................................... 48 
+10.3. TRANSAKCJE Z PODMIOTAMI POWIĄZANYMI .................................................................................................................................. 48 
+10.4. ZDARZENIA PO DNIU KOŃCZĄCYM OKRES SPRAWOZDAWCZY ................................................................................................... 48 
+11. OŚWIADCZENIA ZARZĄDU I ZATWIERDZENIE SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO ....................................... 49 
+ 
+
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+SKONSOLIDOWANE SPRAWOZDANIE Z WYNIKU FINANSOWEGO I INNYCH CAŁKOWITYCH DOCHODÓW 
+ 
+ 
+Nota 
+Za okres 
+3 miesięcy 
+zakończony 
+30 czerwca 2022 
+Za okres 
+6 miesięcy 
+zakończony 
+30 czerwca 2022 
+Za okres 
+3 miesięcy 
+zakończony 
+30 czerwca 2021 
+Za okres 
+ 6 miesięcy 
+zakończony 
+30 czerwca 2021 
+Przychody ze sprzedaży 
+4.1 
+5 972,3 
+10 903,2 
+2 178,9 
+4 177,0 
+Koszt sprzedanych produktów, materiałów i towarów 
+4.2 
+(2 567,3) 
+(4 836,7) 
+(2 040,2) 
+(3 985,4) 
+ZYSK BRUTTO ZE SPRZEDAŻY 
+ 
+3 405,0 
+6 066,5 
+138,7 
+191,6 
+ 
+ 
+ 
+ 
+Koszty sprzedaży 
+4.2 
+(110,0) 
+(197,4) 
+(68,6) 
+(143,4) 
+Koszty administracyjne 
+4.2 
+(226,5) 
+(413,3) 
+(176,5) 
+(341,2) 
+Pozostałe przychody 
+4.3 
+26,0 
+168,2 
+13,9 
+57,9 
+Pozostałe koszty 
+4.4 
+(234,0) 
+(339,2) 
+(68,4) 
+(120,0) 
+Pozostałe zyski/(straty) - netto 
+4.6 
+29,0 
+(86,8) 
+9,8 
+10,1 
+ZYSK/(STRATA) OPERACYJNY/(A) 
+ 
+2 889,5 
+5 198,0 
+(151,1) 
+(345,0) 
+ 
+ 
+ 
+ 
+Przychody finansowe 
+ 
+45,8 
+56,2 
+(1,5) 
+2,7 
+Koszty finansowe 
+ 
+(30,0) 
+(62,2) 
+(26,4) 
+(54,3) 
+Udział w zyskach/(stratach) jednostek stowarzyszonych 
+0,1 
+0,1 
+0,1 
+0,1 
+ZYSK/(STRATA) PRZED OPODATKOWANIEM 
+ 
+2 905,4 
+5 192,1 
+(178,9) 
+(396,5) 
+ 
+ 
+ 
+ 
+Podatek dochodowy 
+5.1 
+(550,0) 
+(986,4) 
+27,6 
+66,0 
+ZYSK/(STRATA) NETTO 
+ 
+2 355,4 
+4 205,7 
+(151,3) 
+(330,5) 
+ 
+ 
+ 
+Inne całkowite dochody, które będą podlegały 
+przeklasyfikowaniu do wyniku netto: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zmiana wartości instrumentów zabezpieczających 
+7.9.2 
+(29,3) 
+(31,5) 
+21,1 
+2,2 
+Podatek dochodowy 
+5.1 
+5,6 
+6,0 
+(4,0) 
+(0,4) 
+Inne całkowite dochody, które nie będą podlegały 
+przeklasyfikowaniu do wyniku netto: 
+ 
+ 
+ 
+ 
+ 
+Zyski/(straty) aktuarialne 
+ 
+59,5 
+59,5 
+(16,8) 
+(16,8) 
+Podatek dochodowy 
+5.1 
+(11,3) 
+(11,3) 
+3,2 
+3,2 
+INNE CAŁKOWITE DOCHODY RAZEM 
+ 
+24,5 
+22,7 
+3,5 
+(11,8) 
+CAŁKOWITE DOCHODY RAZEM 
+ 
+2 379,9 
+4 228,4 
+(147,8) 
+(342,3) 
+ 
+ 
+ 
+ 
+Zysk/(strata) netto przypadający/(a) na: 
+ 
+ 
+ 
+ 
+ 
+- akcjonariuszy Jednostki dominującej 
+ 
+2 347,8 
+4 192,0 
+(169,0) 
+(356,5) 
+- udziały niekotrolujące 
+ 
+7,6 
+13,7 
+17,7 
+26,0 
+ 
+ 
+ 
+ 
+Całkowite dochody przypadające na: 
+ 
+ 
+ 
+ 
+ 
+- akcjonariuszy Jednostki dominującej 
+ 
+2 371,9 
+4 214,3 
+(165,5) 
+(368,3) 
+- udziały niekotrolujące 
+ 
+8,0 
+14,1 
+17,7 
+26,0 
+Podstawowy/(a) i rozwodniony/(a) zysk/(strata) na akcję 
+przypadający/(a) na akcjonariuszy Jednostki dominującej 
+(wyrażony/(a) w PLN na jedną akcję) 
+4.7 
+- 
+35,70 
+- 
+(3,04) 
+ 
+ 
+
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ 
+ 
+Nota 
+30.06.2022 
+ 
+31.12.2021 
+ 
+AKTYWA 
+ 
+ 
+ 
+AKTYWA TRWAŁE 
+ 
+ 
+ 
+Rzeczowe aktywa trwałe 
+7.1 
+9 645,4 
+9 383,4 
+Wartość firmy 
+ 
+57,0 
+57,0 
+Wartości niematerialne 
+ 
+123,7 
+106,4 
+Nieruchomości inwestycyjne 
+ 
+22,2 
+22,6 
+Prawo do użytkowania składnika aktywów 
+7.2 
+466,3 
+491,6 
+Inwestycje w jednostkach stowarzyszonych 
+ 
+1,2 
+1,2 
+Aktywa z tytułu odroczonego podatku dochodowego 
+ 
+818,0 
+849,9 
+Inwestycje w portfel aktywów FIZ 
+7.4 
+1 836,5 
+767,5 
+Pozostałe długoterminowe aktywa finansowe 
+7.5 
+413,3 
+390,6 
+RAZEM AKTYWA TRWAŁE 
+ 
+13 383,6 
+12 070,2 
+ 
+ 
+AKTYWA OBROTOWE 
+ 
+ 
+ 
+Zapasy 
+7.6 
+783,9 
+652,5 
+Należności handlowe oraz pozostałe należności 
+7.7 
+2 713,5 
+1 822,8 
+Nadpłacony podatek dochodowy 
+ 
+111,4 
+69,2 
+Pochodne instrumenty finansowe 
+ 
+5,1 
+10,7 
+Inne krótkoterminowe aktywa finansowe 
+ 
+3,1 
+9,6 
+Środki pieniężne i ich ekwiwalenty 
+7.8 
+4 546,3 
+1 299,8 
+Aktywa trwałe (grupa do zbycia) przeznaczone do sprzedaży 
+4.5 
+- 
+27,0 
+RAZEM AKTYWA OBROTOWE 
+ 
+8 163,3 
+3 891,6 
+RAZEM AKTYWA 
+ 
+21 546,9 
+15 961,8 
+ 
+
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ (CD.) 
+ 
+Nota 
+30.06.2022 
+31.12.2021 
+ 
+KAPITAŁ WŁASNY 
+ 
+Kapitał podstawowy 
+7.9.1 
+1 251,9 
+1 251,9 
+Nadwyżka wartości emisyjnej akcji nad ich wartością nominalną 
+ 
+905,0 
+905,0 
+Kapitał z tytułu wyceny instrumentów finansowych 
+7.9.2 
+(42,9) 
+(17,4) 
+Zyski zatrzymane 
+ 
+9 948,5 
+5 712,0 
+RAZEM KAPITAŁ WŁASNY PRZYPADAJĄCY NA AKCJONARIUSZY 
+JEDNOSTKI DOMINUJĄCEJ 
+ 
+12 062,5 
+7 851,5 
+UDZIAŁY NIEKONTROLUJĄCE 
+ 
+483,5 
+446,3 
+RAZEM KAPITAŁ WŁASNY 
+ 
+12 546,0 
+8 297,8 
+ZOBOWIĄZANIA 
+ 
+ 
+ 
+ZOBOWIĄZANIA DŁUGOTERMINOWE 
+ 
+ 
+ 
+Kredyty i pożyczki 
+6.1 
+799,0 
+1 357,2 
+Zobowiązania z tytułu odroczonego podatku dochodowego 
+ 
+17,1 
+18,9 
+Zobowiązania z tytułu świadczeń pracowniczych 
+7.10 
+666,1 
+743,4 
+Rezerwy 
+7.11 
+1 369,8 
+1 271,6 
+Zobowiązania z tytułu leasingu 
+6.2 
+300,5 
+300,8 
+Zobowiązania handlowe oraz pozostałe zobowiązania 
+7.12 
+124,0 
+122,9 
+RAZEM ZOBOWIĄZANIA DŁUGOTERMINOWE 
+ 
+3 276,5 
+3 814,8 
+ 
+ 
+ 
+ZOBOWIĄZANIA KRÓTKOTERMINOWE 
+ 
+ 
+Kredyty i pożyczki 
+6.1 
+462,3 
+459,0 
+Pochodne instrumenty finansowe 
+ 
+81,1 
+57,3 
+Zobowiązania z tytułu bieżącego podatku dochodowego 
+ 
+897,6 
+2,8 
+Zobowiązania z tytułu świadczeń pracowniczych 
+7.10 
+255,0 
+201,9 
+Rezerwy 
+7.11 
+240,8 
+241,2 
+Zobowiązania z tytułu leasingu 
+6.2 
+229,6 
+238,0 
+Zobowiązania FIZ 
+7.4 
+605,2 
+259,8 
+Zobowiązania handlowe oraz pozostałe zobowiązania 
+7.12 
+2 952,8 
+2 323,4 
+Zobowiązania związane z aktywami przeznaczonymi do sprzedaży 
+4.5 
+- 
+65,8 
+RAZEM ZOBOWIĄZANIA KRÓTKOTERMINOWE 
+ 
+5 724,4 
+3 849,2 
+RAZEM ZOBOWIĄZANIA 
+ 
+9 000,9 
+7 664,0 
+RAZEM KAPITAŁ WŁASNY I ZOBOWIĄZANIA 
+ 
+21 546,9 
+15 961,8 
+ 
+
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+SKONSOLIDOWANE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM 
+ 
+ 
+ 
+Przypadające na akcjonariuszy Jednostki dominującej 
+Udziały 
+niekontrolujące 
+Razem 
+kapitał własny 
+Kapitał 
+podstawowy 
+Nadwyżka 
+wartości 
+emisyjnej 
+akcji nad ich 
+wartością 
+nominalną 
+Kapitał 
+z tytułu 
+wyceny 
+instrumentów 
+finansowych 
+Zyski 
+zatrzymane 
+Razem 
+STAN NA 1 STYCZNIA 2022 
+ 
+1 251,9 
+905,0 
+(17,4) 
+5 712,0 
+7 851,5 
+446,3 
+8 297,8 
+Całkowite dochody razem: 
+ 
+- 
+- 
+(25,5) 
+4 239,8 
+4 214,3 
+14,1 
+4 228,4 
+- zysk netto 
+ 
+- 
+- 
+- 
+4 192,0 
+4 192,0 
+13,7 
+4 205,7 
+- inne całkowite dochody 
+ 
+- 
+- 
+(25,5) 
+47,8 
+22,3 
+0,4 
+22,7 
+Dywidendy 
+ 
+- 
+- 
+- 
+- 
+- 
+(0,1) 
+(0,1) 
+Transakcje z udziałowcami 
+niekontrolującymi 
+ 
+- 
+- 
+- 
+(3,2) 
+(3,2) 
+23,2 
+20,0 
+Pozostałe 
+ 
+- 
+- 
+- 
+(0,1) 
+(0,1) 
+- 
+(0,1) 
+STAN NA 30 CZERWCA 2022 
+ 
+1 251,9 
+905,0 
+(42,9) 
+9 948,5 
+12 062,5 
+483,5 
+12 546,0 
+ 
+STAN NA 1 STYCZNIA 2021 
+ 
+1 251,9 
+905,0 
+1,5 
+4 761,9 
+6 920,3 
+396,8 
+7 317,1 
+Całkowite dochody razem: 
+ 
+- 
+- 
+1,8 
+(370,1) 
+(368,3) 
+26,0 
+(342,3) 
+- zysk/(strata) netto 
+ 
+- 
+- 
+- 
+(356,5) 
+(356,5) 
+26,0 
+(330,5) 
+- inne całkowite dochody 
+ 
+- 
+- 
+1,8 
+(13,6) 
+(11,8) 
+- 
+(11,8) 
+Dywidendy 
+ 
+- 
+- 
+- 
+- 
+- 
+(0,1) 
+(0,1) 
+Pozostałe 
+ 
+- 
+- 
+- 
+0,1 
+0,1 
+- 
+0,1 
+STAN NA 30 CZERWCA 2021 
+ 
+1 251,9 
+905,0 
+3,3 
+4 391,9 
+6 552,1 
+422,7 
+6 974,8 
+ 
+
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+SKONSOLIDOWANE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH 
+ 
+Nota 
+Za okres 6 miesięcy 
+zakończony 
+30 czerwca 2022 
+Za okres 6 miesięcy 
+zakończony 
+30 czerwca 2021 
+PRZEPŁYWY PIENIĘŻNE Z DZIAŁALNOŚCI OPERACYJNEJ 
+ 
+ 
+ 
+Wpływy pieniężne z działalności operacyjnej 
+8.1 
+5 762,4 
+511,1 
+Odsetki zapłacone 
+ 
+(0,6) 
+(0,9) 
+Podatek dochodowy zapłacony 
+ 
+(85,2) 
+(87,1) 
+PRZEPŁYWY PIENIĘŻNE NETTO Z DZIAŁALNOŚCI OPERACYJNEJ 
+ 
+5 676,6 
+423,1 
+PRZEPŁYWY PIENIĘŻNE Z DZIAŁALNOŚCI INWESTYCYJNEJ 
+ 
+ 
+ 
+Nabycie rzeczowych aktywów trwałych 
+ 
+(1 042,5) 
+(829,0) 
+Nabycie wartości niematerialnych 
+ 
+(4,7) 
+(10,5) 
+Wpływy ze sprzedaży rzeczowych aktywów trwałych 
+ 
+4,4 
+2,0 
+Nabycie aktywów finansowych 
+ 
+(20,0) 
+(17,6) 
+Wpłata na nabycie aktywów FIZ 
+7.4 
+(700,0) 
+- 
+Sprzedaż aktywów finansowych 
+ 
+6,5 
+2,1 
+Odsetki otrzymane 
+ 
+35,6 
+0,3 
+PRZEPŁYWY PIENIĘŻNE NETTO Z DZIAŁALNOŚCI INWESTYCYJNEJ 
+ 
+(1 720,7) 
+(852,7) 
+PRZEPŁYWY PIENIĘŻNE Z DZIAŁALNOŚCI FINANSOWEJ 
+ 
+ 
+ 
+Wpływy netto z wydania udziałów oraz dopłat do kapitału (transakcja z udziałowcami 
+niekontrolującymi) 
+ 
+20,0 
+- 
+Otrzymane kredyty i pożyczki 
+6.1 
+- 
+26,7 
+Otrzymane dotacje 
+ 
+- 
+3,1 
+Spłaty kredytów i pożyczek 
+6.1 
+(597,6) 
+(45,3) 
+Płatności związane z leasingiem 
+6.3 
+(99,4) 
+(91,9) 
+Odsetki zapłacone z działalności finansowej 
+ 
+(33,6) 
+(33,5) 
+Pozostałe przepływy 
+ 
+(0,1) 
+- 
+PRZEPŁYWY PIENIĘŻNE NETTO Z DZIAŁALNOŚCI FINANSOWEJ 
+ 
+(710,7) 
+(140,9) 
+ZMIANA NETTO STANU ŚRODKÓW PIENIĘŻNYCH I ICH EKWIWALENTÓW 
+ 
+3 245,2 
+(570,5) 
+Środki pieniężne i ich ekwiwalenty na początek okresu 
+ 
+1 299,8 
+1 597,3 
+Różnice kursowe z przeliczenia środków pieniężnych i ich ekwiwalentów 
+ 
+1,3 
+(0,2) 
+ŚRODKI PIENIĘŻNE I ICH EKWIWALENTY NA KONIEC OKRESU 
+7.8 
+4 546,3 
+1 026,6 
+ 
+
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+ 
+INFORMACJE DODATKOWE 
+NOTY DO ŚRÓDROCZNEGO SKRÓCONEGO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO 
+1. 
+INFORMACJE OGÓLNE 
+1.1. NAZWA, SIEDZIBA, PRZEDMIOT DZIAŁALNOŚCI 
+Niniejsze sprawozdanie finansowe jest śródrocznym skróconym skonsolidowanym sprawozdaniem finansowym Grupy Kapitałowej Jastrzębskiej 
+Spółki Węglowej S.A. Walutą funkcjonalną wszystkich spółek Grupy i walutą prezentacji niniejszego sprawozdania jest złoty polski („PLN”). 
+Grupa Kapitałowa Jastrzębskiej Spółki Węglowej S.A. („Grupa”, „Grupa Kapitałowa”) składa się z Jastrzębskiej Spółki Węglowej S.A. („JSW”, 
+„Jednostka dominująca”) i jej spółek zależnych zlokalizowanych na terenie Polski. 
+PODSTAWOWE INFORMACJE O JEDNOSTCE DOMINUJĄCEJ 
+NAZWA 
+Jastrzębska Spółka Węglowa S.A. 
+SIEDZIBA 
+Aleja Jana Pawła II 4, 44-330 Jastrzębie-Zdrój, Polska 
+KRS 
+0000072093 – Sąd Rejonowy w Gliwicach X Wydział Gospodarczy Krajowego Rejestru Sądowego, Polska 
+REGON 
+271747631 
+NIP 
+633 000 51 10 
+PODSTAWOWY PRZEDMIOT DZIAŁALNOŚCI 
+Wydobywanie, wzbogacanie i sprzedaż węgla kamiennego oraz sprzedaż koksu i węglopochodnych 
+Jastrzębska Spółka Węglowa S.A. jest jednostką dominującą Grupy Kapitałowej. Zgodnie ze Statutem, Jednostka dominująca może działać 
+na obszarze Rzeczypospolitej Polskiej i poza jej granicami. Czas trwania działalności JSW jest nieoznaczony. Akcje Jednostki dominującej znajdują 
+się w publicznym obrocie od 6 lipca 2011 roku. 
+Grupa Kapitałowa Jastrzębskiej Spółki Węglowej S.A. jest największym producentem węgla koksowego typu hard i znaczącym producentem koksu 
+w Unii Europejskiej. Od lat zajmuje kluczową pozycję na polskim i europejskim rynku węgla koksowego, za sprawą produkcji wysokiej jakości węgla 
+koksowego oraz dzięki usytuowaniu działalności w sąsiedztwie jej głównych odbiorców. Grupa wydobywa również węgiel do celów energetycznych. 
+Na dzień 30 czerwca 2022 roku oraz na dzień 31 grudnia 2021 roku większościowym akcjonariuszem Grupy był Skarb Państwa. 
+W okresie 6 miesięcy zakończonym 30 czerwca 2022 roku oraz w 2021 roku Skarb Państwa był bezpośrednim podmiotem kontrolującym 
+najwyższego szczebla. 
+1.2. SKŁAD GRUPY KAPITAŁOWEJ 
+Na dzień 30 czerwca 2022 roku JSW posiadała bezpośrednio lub pośrednio udziały i akcje w 19 spółkach powiązanych, w tym: 
+ 
+18 spółkach zależnych (bezpośrednio i pośrednio), 
+ 
+1 spółce stowarzyszonej. 
+Spółki zależne podlegają konsolidacji metodą pełną. Ponadto konsolidacją metodą pełną objęto JSW Stabilizacyjny Fundusz Inwestycyjny 
+Zamknięty. 
+Udziały w jednostce stowarzyszonej (Remkoks Sp. z o.o.) są w skonsolidowanym sprawozdaniu finansowym wyceniane metodą praw własności. 
+
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+Poniżej przedstawiono informacje o jednostkach wchodzących w skład Grupy Kapitałowej objętych konsolidacją metodą pełną: 
+Lp. 
+Nazwa spółki 
+Siedziba 
+Podstawowy przedmiot działalności 
+Procentowy udział spółek 
+Grupy w kapitale 
+podstawowym 
+ 
+ 
+ 
+ 
+30.06.2022 
+31.12.2021 
+ 
+Jednostka dominująca 
+ 
+ 
+ 
+ 
+1. 
+Jastrzębska Spółka Węglowa S.A. 
+(„JSW”) 
+JastrzębieZdrój 
+Wydobywanie i sprzedaż węgla kamiennego, sprzedaż 
+koksu i węglopochodnych 
+nie dotyczy 
+ 
+Spółki bezpośrednio zależne 
+ 
+ 
+ 
+ 
+2. 
+JSW KOKS S.A. 
+(„JSW KOKS”) 
+Zabrze 
+Produkcja koksu oraz produktów węglopochodnych 
+96,28% 
+96,28% 
+3. 
+Jastrzębskie Zakłady Remontowe 
+Sp. z o.o. („JZR”) 
+JastrzębieZdrój 
+Działalność usługowa w zakresie remontów maszyn 
+i urządzeń, ich konserwacja, usługi serwisowe, produkcja 
+maszyn dla górnictwa i do wydobywania oraz budownictwa, 
+a także wytwarzanie, przesyłanie, dystrybucja i handel 
+energią elektryczną 
+62,09% 
+62,09% 
+4. 
+Przedsiębiorstwo Budowy 
+Szybów S.A. („PBSz”) 
+Tarnowskie 
+Góry 
+Specjalistyczne usługi górnicze: projektowanie 
+i wykonywanie wyrobisk pionowych, poziomych i tuneli, 
+budownictwo, działalność w zakresie architektury i inżynierii, 
+wynajem maszyn i urządzeń, instalowanie, naprawa 
+i konserwacja maszyn dla górnictwa, kopalnictwa 
+i budownictwa 
+95,01% 
+95,01% 
+5. 
+JSW Innowacje S.A. 
+(„JSW Innowacje”)* 
+Katowice 
+Działalność o charakterze badawczo-rozwojowym Grupy 
+Kapitałowej, analizy wykonalności i nadzór nad realizacją 
+projektów i wdrożeń 
+100,00% 
+100,00% 
+6. 
+Przedsiębiorstwo Gospodarki Wodnej 
+i Rekultywacji S.A. („PGWiR”) 
+JastrzębieZdrój 
+Świadczenie usług wodno-ściekowych, oczyszczanie 
+i odprowadzanie słonych wód, dostarczanie wody 
+przemysłowej dla zakładów sektora węglowego oraz 
+energetycznego, działalność rekultywacyjna, produkcja soli 
+100,00% 
+100,00% 
+7. 
+Centralne Laboratorium Pomiarowo – 
+Badawcze Sp. z o.o. („CLP-B”) 
+JastrzębieZdrój 
+Wykonywanie usług badań technicznych, analiz 
+chemicznych i fizyko-chemicznych kopalin, materiałów oraz 
+produktów stałych, ciekłych i gazowych, diagnostyka 
+medyczna 
+99,92% 
+99,92% 
+8. 
+Jastrzębska Spółka Kolejowa 
+Sp. z o.o. („JSK”) 
+JastrzębieZdrój 
+Udostępnianie linii kolejowych, utrzymanie budowli 
+i urządzeń infrastruktury kolejowej, budowa i remonty 
+układów torowych oraz obiektów kolejowych 
+100,00% 
+100,00% 
+9. 
+JSW IT Systems Sp. z o.o. 
+(„JSW IT Systems”) 
+JastrzębieZdrój 
+Doradztwo w zakresie sprzętu komputerowego, działalność 
+w zakresie oprogramowania i przetwarzanie danych 
+100,00% 
+100,00% 
+10. 
+JSU Sp. z o.o. („JSU”) 
+JastrzębieZdrój 
+Pośrednictwo ubezpieczeniowe wraz z obsługą ubezpieczeń 
+w zakresie likwidacji szkód ubezpieczeniowych, świadczenie 
+usług turystycznych i hotelarskich 
+100,00% 
+100,00% 
+11. 
+JSW Logistics Sp. z o.o. 
+(„JSW Logistics”) 
+Katowice 
+Obsługa bocznic kolejowych, przewóz węgla i koksu, 
+organizacja przewozu ładunków oraz techniczne utrzymanie 
+i naprawa pojazdów kolejowych 
+100,00% 
+100,00% 
+12. 
+JSW Szkolenie i Górnictwo 
+Sp. z o.o. („JSW SiG”) 
+JastrzębieZdrój 
+Działalność wspomagająca górnictwo oraz obsługa łaźni 
+przy kopalniach JSW 
+100,00% 
+100,00% 
+13. 
+JSW Shipping Sp. z o.o. w likwidacji 
+(„JSW Shipping”)** 
+Gdynia 
+Usługi spedycji portowej i morskich agencji transportowych 
+100,00% 
+100,00% 
+ 
+Spółki pośrednio zależne 
+ 
+ 
+ 
+ 
+14. 
+BTS Sp. z o.o. 
+(„BTS”) 
+Dąbrowa 
+Górnicza 
+Usługi w zakresie wykonywania prac transportowych oraz 
+ogólnobudowlanych 
+100,00% 
+100,00% 
+15. 
+ZREM-BUD Sp. z o.o. 
+(„ZREM-BUD”) 
+Dąbrowa 
+Górnicza 
+Produkcja części zamiennych, zespołów i urządzeń, 
+konstrukcji stalowych, osprzętu technologicznego, narzędzi 
+i przyrządów oraz wykonywanie remontów mechanicznych 
+i elektrycznych oraz serwis automatyki, usługi remontowo- 
+budowlane 
+100,00% 
+100,00% 
+16. 
+CARBOTRANS Sp. z o.o. 
+(„Carbotrans”) 
+Zabrze 
+Transport drogowy towarów, głównie węglopochodnych 
+i surowców do ich produkcji 
+100,00% 
+100,00% 
+
+11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+Lp. 
+Nazwa spółki 
+Siedziba 
+Podstawowy przedmiot działalności 
+Procentowy udział spółek 
+Grupy w kapitale 
+podstawowym 
+ 
+ 
+ 
+ 
+30.06.2022 
+31.12.2021 
+17. 
+JZR Dźwigi Sp. z o.o. 
+(„JZR Dźwigi”) 
+JastrzębieZdrój 
+Usługi z zakresu produkcji, modernizacji, remontów, 
+konserwacji, przeglądów oraz serwisu urządzeń transportu 
+bliskiego 
+84,97% 
+84,97% 
+18. 
+JSW Ochrona Sp. z o.o. 
+(„JSW Ochrona”) 
+JastrzębieZdrój 
+Działalność ochroniarska, działalność pomocnicza związana 
+z utrzymaniem porządku w budynkach 
+100,00% 
+100,00% 
+19. 
+Hawk-e Sp. z o.o. 
+(„Hawk-e”) 
+Katowice 
+Dostawca usługi w zakresie wykorzystywania samolotów 
+bezzałogowych dla potrzeb komercyjnych 
+100,00% 
+100,00% 
+20. 
+JSW Zwałowanie i Rekultywacja 
+Sp. z o.o. („JSW Zwałowanie 
+i Rekultywacja”) 
+JastrzębieZdrój 
+Świadczenie usług zagospodarowania odpadów 
+pokopalnianych oraz rekultywacji 
+100,00% 
+100,00% 
+ 
+Inne jednostki 
+ 
+ 
+ 
+ 
+21. 
+JSW Stabilizacyjny Fundusz 
+Inwestycyjny Zamknięty („JSW 
+Stabilizacyjny FIZ”, „Fundusz”)*** 
+Warszawa 
+Lokowanie środków pieniężnych zebranych w drodze 
+niepublicznego proponowania nabycia Certyfikatów 
+Inwestycyjnych w określone w Statucie papiery wartościowe, 
+Instrumenty Rynku Pieniężnego oraz inne prawa majątkowe 
+100,00% 
+100,00% 
+* 
+W dniu 22 czerwca 2022 roku Nadzwyczajne Walne Zgromadzenie JSW Innowacje podjęło uchwałę o zmianie Statutu JSW Innowacje, która dotyczy zmiany nazwy firmy na „JSW Nowe 
+Projekty Spółka Akcyjna” oraz zmiany profilu działalności, który zakłada przekształcenie spółki w tzw. „zielone aktywa Grupy Kapitałowej JSW”, czyli ukierunkowanie jej działalności 
+na projekty ekologiczne mające służyć Grupie. Po dniu kończącym okres sprawozdawczy, tj. w dniu 17 sierpnia 2022 roku zmiana Statutu została zarejestrowana w KRS. 
+** 
+W dniu 23 grudnia 2021 roku Sąd rejonowy Gdańsk-Północ, wydał nieprawomocne na dzień 30 czerwca 2022 roku postanowienie o wykreśleniu JSW SHIPPING z KRS. Spółka JSW 
+Shipping nie była objęta konsolidacją w okresie 6 miesięcy zakończonym 30 czerwca 2022 roku. 
+*** 
+Procentowy udział określony na podstawie procentowego zaangażowania Jednostki dominującej w portfel aktywów FIZ. 
+ 
+Nabycie akcji JSW KOKS 
+W dniach 25 marca 2022 roku, 20 maja 2022 roku oraz 31 maja 2022 roku JSW zawarła umowy kupna akcji imiennych JSW KOKS, odpowiednio 
+789 akcji imiennych serii B, 676 akcji imiennych serii B oraz 550 akcji imiennych serii A, za łączną cenę 26 745,00 PLN. Przeniesienie własności 
+akcji nastąpiło z chwilą zawarcia umów. 
+Po finalizacji przedmiotowych transakcji JSW posiada 95 705 647 akcji JSW KOKS stanowiących 96,28% udziału w kapitale JSW KOKS. 
+ 
+Podwyższenie kapitału JZR 
+W dniu 6 czerwca 2022 roku Nadzwyczajne Zgromadzenie Wspólników JZR podjęło uchwałę w sprawie podwyższenia kapitału zakładowego JZR 
+z kwoty 712,3 mln PLN do kwoty 732,3 mln PLN, tj. o kwotę 20,0 mln PLN w drodze objęcia przez Skarb Państwa 40 000 nowych udziałów o wartości 
+nominalnej po 500,00 PLN każdy w podwyższonym kapitale zakładowym, z wyłączeniem prawa pierwszeństwa objęcia udziałów przez JSW. 
+Podwyższenie kapitału zakładowego JZR zostało zarejestrowane w KRS po dniu kończącym okres sprawozdawczy, tj. w dniu 12 lipca 2022 roku. 
+Po podwyższeniu kapitału udział JSW spadł do 60,40%, natomiast udział Skarbu Państwa wzrósł do 39,60%. 
+Powyższa transakcja z udziałowcami niekontrolującymi spowodowała wpływ środków pieniężnych w wysokości 20,0 mln PLN zaprezentowany 
+w skonsolidowanym sprawozdaniu z przepływów pieniężnych za okres 6 miesięcy zakończony 30 czerwca 2022 roku w pozycji „wpłata netto 
+z wydania udziałów oraz dopłat do kapitału (transakcja z udziałowcami niekontrolującymi)”. 
+Powyższe podwyższenie kapitału spółki JZR jest końcowym etapem, zawartej w dniu 30 września 2016 roku pomiędzy Skarbem Państwa a JZR, 
+umowy o udzielenie wsparcia niebędącego pomocą publiczną („Umowa wsparcia”). Całkowita wysokość wsparcia (do 290,0 mln PLN) miała zostać 
+wniesiona w formie wkładu gotówkowego w zamian za udziały w podwyższonym kapitale zakładowym JZR objęte przez Skarb Państwa. Umowa 
+została zrealizowana w trzech transzach: I transza w kwocie 150,0 mln PLN w listopadzie 2016 roku, II transza w kwocie 120,0 mln PLN w lutym 
+2018 roku oraz III transza w kwocie 20,0 mln PLN w czerwcu 2022 roku. Środki z uzyskanego wsparcia zostały przeznaczone na współfinansowanie 
+projektu modernizacji zakładów przeróbczych KWK Budryk i KWK Knurów-Szczygłowice oraz zakupu maszyn i urządzeń górniczych. 
+ 
+ 
+
+12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+ 2. 
+ZASADY RACHUNKOWOŚCI 
+2.1. PODSTAWA SPORZĄDZENIA SPRAWOZDANIA FINANSOWEGO 
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A. zostało 
+sporządzone zgodnie z Międzynarodowym Standardem Rachunkowości („MSR”) 34 Śródroczna sprawozdawczość finansowa. Prezentowane 
+śródroczne skrócone skonsolidowane sprawozdanie finansowe przedstawia rzetelnie sytuację finansową i majątkową Grupy Kapitałowej na dzień 
+30 czerwca 2022 roku, wyniki jej działalności oraz przepływy pieniężne za okres 6 miesięcy zakończony 30 czerwca 2022 roku. 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe nie obejmuje wszystkich informacji oraz ujawnień wymaganych w rocznym 
+skonsolidowanym sprawozdaniu finansowym i należy je czytać łącznie ze Skonsolidowanym sprawozdaniem finansowym Grupy Kapitałowej 
+Jastrzębskiej Spółki Węglowej S.A. za rok obrotowy zakończony 31 grudnia 2021 roku sporządzonym zgodnie z Międzynarodowymi Standardami 
+Sprawozdawczości Finansowej („MSSF”) przyjętymi do stosowania w Unii Europejskiej („UE”). 
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe sporządzone zostało zgodnie z zasadą kosztu historycznego, z wyjątkiem 
+pochodnych instrumentów finansowych, inwestycji w portfel aktywów FIZ (dłużne papiery wartościowe, listy zastawne), udziałów w innych 
+jednostkach oraz świadectw efektywności energetycznej (certyfikaty białe), które są wyceniane według wartości godziwej. 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony 30 czerwca 2022 roku było przedmiotem przeglądu 
+przez biegłego rewidenta. 
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe jest częścią raportu skonsolidowanego, w skład którego wchodzi również 
+Śródroczne skrócone sprawozdanie finansowe Jastrzębskiej Spółki Węglowej S.A. za okres 6 miesięcy zakończony 30 czerwca 2022 roku oraz 
+Sprawozdanie Zarządu z działalności Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A. za okres 6 miesięcy zakończony 30 czerwca 2022 roku. 
+2.2. ZAŁOŻENIE KONTYNUACJI DZIAŁALNOŚCI 
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania działalności 
+gospodarczej w niezmienionej formie i zakresie przez okres co najmniej 12 miesięcy od dnia kończącego okres sprawozdawczy. 
+Dokonując oceny zdolności Grupy do kontynuowania działalności Zarząd JSW analizuje występowanie niepewności dotyczących zdarzeń 
+lub okoliczności, które mogą nasuwać wątpliwości co do zdolności kontynuacji działalności. Do takich zdarzeń należą istotne zmiany w otoczeniu 
+rynkowym, systemie gospodarczym i finansowym, zarówno w Polsce jak i na świecie, spowodowane konfliktem zbrojnym w Ukrainie oraz pandemią 
+COVID-19. Wpływ konfliktu zbrojnego oraz pandemii COVID-19 na działalność Grupy została opisana w Nocie 2.5. Szczególne okoliczności 
+sprawiają, że Grupa na bieżąco przeprowadza analizę sytuacji, stopnia jej ekspozycji na skutki pandemii i konfliktu zbrojnego oraz dostosowuje 
+swoje działania do zmieniających się warunków rynkowych. Na dzień sporządzenia niniejszego sprawozdania Zarząd ocenił, że trwający konflikt 
+zbrojny w Ukrainie oraz pandemia COVID-19 nie mają wpływu na ocenę kontynuacji działalności przez Grupę. 
+Na dzień zatwierdzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego nie stwierdzono istnienia istotnych 
+niepewności i okoliczności wskazujących na zagrożenie kontynuowania działalności w dającej się przewidzieć przyszłości. Wobec powyższego, 
+rozważając czynniki odnośnie bieżącej, jak i oczekiwanej sytuacji finansowej Grupy, przekładające się na realne do osiągnięcia projekcje finansowe, 
+Zarząd JSW uznaje przyjęcie założenia kontynuacji działalności jako zasadne. 
+Aktywa i zobowiązania wykazywane są w skonsolidowanym sprawozdaniu z sytuacji finansowej przy założeniu, że Grupa będzie mogła uzyskać 
+korzyści ekonomiczne z aktywów i wypełnić zobowiązania w toku normalnej działalności. 
+2.3. NOWE STANDARDY, INTERPRETACJE I ICH ZMIANY 
+Zasady (polityka) rachunkowości zastosowane do sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania 
+finansowego są spójne z tymi, które zastosowano przy sporządzaniu skonsolidowanego sprawozdania finansowego Grupy za rok obrotowy 
+zakończony 31 grudnia 2021 roku. 
+a) 
+Zastosowanie zmian do standardów 
+Od dnia 1 stycznia 2022 roku obowiązuje zmiana do MSR 16 Rzeczowe aktywa trwałe - przychody z produktów wyprodukowanych w okresie przed 
+rozpoczęciem funkcjonowania rzeczowych aktywów trwałych, która wprowadza zakaz korygowania kosztu wytworzenia rzeczowych aktywów 
+trwałych o kwoty uzyskane ze sprzedaży składników wyprodukowanych w okresie przygotowywania rzeczowych aktywów trwałych do rozpoczęcia 
+funkcjonowania zgodnie z zamierzeniami kierownictwa, a zamiast tego jednostka winna rozpoznać ww. przychody ze sprzedaży i powiązane z nimi 
+koszty bezpośrednio w rachunku zysków i strat. Powyższa zmiana do MSR 16 dotyczy działalności Grupy w odniesieniu do ujmowanych 
+
+13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+w sprawozdaniach finansowych wyrobisk ruchowych. Grupa w obecnej praktyce ujmuje w skonsolidowanym sprawozdaniu z wyniku finansowego 
+i innych całkowitych dochodów przychody ze sprzedaży węgla uzyskanego w trakcie drążenia wyrobisk ruchowych oraz powiązany z nimi koszt 
+wytworzenia sprzedanych produktów, zatem powyższa zmiana do MSR 16 nie wpływa na stosowaną dotychczas przez Grupę politykę 
+rachunkowości i jest z nią zgodna. 
+Ponadto, poniżej wymienione zmiany obowiązujące od 1 stycznia 2022 roku nie dotyczą działalności Grupy lub nie mają istotnego wpływu 
+na śródroczne skrócone skonsolidowane sprawozdanie finansowe Grupy: 
+ 
+zmiany do MSSF 3 Połączenia przedsięwzięć – aktualizacja referencji do Założeń Koncepcyjnych, 
+ 
+zmiany do MSR 37 Rezerwy, zobowiązania warunkowe i aktywa warunkowe dotyczące kosztów ujmowanych w analizie, czy kontrakt jest 
+umową rodzącą obciążenia, 
+ 
+roczne zmiany do MSSF 2018-2020 w zakresie MSSF 1 Zastosowanie Międzynarodowych Standardów Sprawozdawczości Finansowej po raz 
+pierwszy, MSSF 9 Instrumenty finansowe, MSR 41 Rolnictwo, MSSF 16 Leasing. 
+b) 
+Standardy i interpretacje, jakie zostały już opublikowane i zatwierdzone przez UE, ale jeszcze nie weszły w życie 
+Zatwierdzając niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe Grupa nie zdecydowała się na wcześniejsze zastosowanie 
+wymienionych poniżej standardów, zmian standardów i interpretacji, które zostały opublikowane i zatwierdzone do stosowania w UE, ale które nie 
+weszły jeszcze w życie. Grupa zastosuje standardy, zmiany do istniejących standardów i interpretacje w zakresie mającym zastosowanie 
+do prowadzonej przez nią działalności od momentu ich wejścia w życie: 
+Standard 
+Data wejścia 
+w życie* 
+MSSF 17 Umowy ubezpieczeniowe oraz zmiany do MSSF 17 
+1 stycznia 2023 
+Zmiany do MSR 1 Prezentacja sprawozdań finansowych oraz wytyczne Rady MSSF w zakresie ujawnień dotyczących polityk 
+rachunkowości w praktyce – kwestia istotności w odniesieniu do polityk rachunkowości 
+1 stycznia 2023 
+Zmiany do MSR 8 Zasady (polityka) rachunkowości, zmiany wartości szacunkowych i korygowanie błędów w zakresie definicji 
+wartości szacunkowych 
+1 stycznia 2023 
+Zmiany do MSR 12 Podatek dochodowy w zakresie podatku odroczonego dotyczącego aktywów i zobowiązań wynikających 
+z pojedynczej transakcji 
+1 stycznia 2023 
+* 
+Okresy roczne rozpoczynające się dnia lub po tej dacie 
+Powyższe zmiany do standardów nie dotyczą działalności Grupy lub nie będą mieć istotnego wpływu na skonsolidowane sprawozdanie finansowe. 
+c) 
+Standardy i interpretacje przyjęte przez RMSR, ale jeszcze niezatwierdzone przez UE 
+MSSF w kształcie zatwierdzonym przez UE nie różnią się obecnie w znaczący sposób od regulacji przyjętych przez Radę Międzynarodowych 
+Standardów Rachunkowości („RMSR”), z wyjątkiem poniższych standardów, zmian do standardów i interpretacji, które według stanu na dzień 
+sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego nie zostały jeszcze przyjęte do stosowania. 
+Standard 
+Data wejścia 
+w życie* 
+Zmiany do MSSF 10 Skonsolidowane sprawozdania finansowe oraz MSR 28 Inwestycje w jednostkach stowarzyszonych 
+i wspólnych przedsięwzięciach – Sprzedaż lub wniesienie aktywów pomiędzy inwestorem a jego jednostką stowarzyszoną 
+lub wspólnym przedsięwzięciem 
+Zatwierdzenie zmiany jest 
+odroczone przez UE 
+Zmiany do MSR 1 Prezentacja sprawozdań finansowych – klasyfikacja zobowiązań jako krótkoterminowe lub długoterminowe 
+1 stycznia 2023 
+Zmiany do MSSF 17 Umowy ubezpieczeniowe – w zakresie wymogów przejściowych w związku z zastosowaniem po raz 
+pierwszy MSSF 17 oraz MSSF 9 Instrumenty finansowe. Wprowadzenie możliwości poprawy użyteczności informacji dla 
+inwestorów na temat pierwszego zastosowania nowego standardu. 
+1 stycznia 2023 
+* 
+Okresy roczne rozpoczynające się dnia lub po tej dacie, określone przez RMSR, które po zatwierdzeniu przez UE mogą ulec zmianie. 
+Grupa zamierza zastosować ww. zmiany, mające zastosowanie do prowadzonej przez nią działalności, od momentu ich wejścia w życie. 
+Zmiany do MSR 1 Prezentacja sprawozdań finansowych dotyczące klasyfikacji zobowiązań jako krótkoterminowe lub długoterminowe, będą mieć 
+wpływ na prezentację zobowiązań w skonsolidowanym sprawozdaniu finansowym, z uwagi na posiadaną przez JSW umowę finansowania, która 
+nakłada na JSW oraz inne spółki z Grupy szereg zobowiązań umownych (w tym kowenantów finansowych). 
+Pozostałe zmiany do standardów nie dotyczą działalności Grupy lub nie będą mieć istotnego wpływu na skonsolidowane sprawozdanie finansowe. 
+
+14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+2.4. INFORMACJE DOTYCZĄCE SEZONOWOŚCI 
+Działalność Grupy nie ma charakteru sezonowego, zatem w tym zakresie przedstawiane wyniki nie odnotowują istotnych wahań w trakcie roku. 
+2.5. ISTOTNE ZMIANY POZYCJI SPRAWOZDAWCZYCH, KWOTY MAJĄCE ZNACZĄCY WPŁYW NA AKTYWA, 
+ZOBOWIĄZANIA, KAPITAŁ WŁASNY, WYNIK FINANSOWY NETTO LUB PRZEPŁYWY PIENIĘŻNE, KTÓRE 
+SĄ NIETYPOWE ZE WZGLĘDU NA ICH RODZAJ, WIELKOŚĆ, WYWIERANY WPŁYW LUB CZĘSTOTLIWOŚĆ 
+Wszelkie istotne zmiany pozycji sprawozdawczych po zakończeniu ostatniego rocznego okresu sprawozdawczego tj. 2021 roku, zostały 
+zaprezentowane w podstawowych częściach niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego uzupełnionych 
+dodatkową informacją zawartą w poszczególnych notach objaśniających. 
+Opis zmian istotnych pozycji sprawozdawczych oraz czynników wpływających na wyniki finansowe osiągnięte w okresie sprawozdawczym 
+przedstawiono w Sprawozdaniu Zarządu z działalności Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A. za okres 6 miesięcy zakończony 
+30 czerwca 2022 roku w Punkcie 7. 
+WPŁYW KONFLIKTU ZBROJNEGO W UKRAINIE NA DZIAŁALNOŚĆ GRUPY 
+W okresie 6 miesięcy zakończonym 30 czerwca 2022 roku, na sytuację makroekonomiczną w Europie i na świecie, miał wpływ konflikt zbrojny 
+w Ukrainie oraz sankcje nakładane na Rosję. 
+Wojna w Ukrainie wywołała u producentów stali dużą niepewność pod względem kosztów surowców i bezpieczeństwa dostaw, dając impuls 
+do rekordowego wzrostu notowań węgli koksowych, przekraczając historyczne maksima o 200 USD/t. Notowania węgli hard okresowo przekroczyły 
+670 USD/t (notowania z 14 marca 2022 roku), gwałtownie wzrosły również notowania pozostałych typów węgli: PCI powyżej 650 USD/t, semi-soft 
+575 USD/t. Europejski zakaz importu rosyjskiego węgla oraz zapowiedź wprowadzenia podobnego zakazu przez Japonię, zmiany w polityce 
+chińskiego rządu, zagrożenia związane z COVID-19 oraz zakłócenia pogodowe w Australii wpływały na znaczne, nienotowane w przeszłości, 
+wahania dziennych notowań australijskich węgli koksowych. Pomimo utrzymującego się spadkowego trendu, ceny węgli koksowych w dalszym 
+ciągu utrzymują się na wysokim poziomie (pod koniec II kwartału 2022 roku HCC powyżej 300 USD/t FOB Australia). Średnia notowań indeksu 
+TSI Premium HCC spadła o 8,7% z 487,80 USD/t w I kwartale 2022 roku, do 445,52 USD/t w II kwartale 2022 roku. 
+Notowania koksu wielkopiecowego po wybuchu wojny w Ukrainie wzrosły, jednak w mniejszym stopniu niż australijskiego węgla koksowego. 
+Notowania koksu chińskiego CSR 64/62 wzrosły z poziomu poniżej 500 USD/t w lutym 2022 roku do 680 USD/t w II połowie marca 2022 roku. 
+Na rynku europejskim w marcu 2022 roku notowania koksu wielkopiecowego CSR 64/62 wzrosły o blisko 100 USD/t (w stosunku do lutego 
+2022 roku) do 700 USD/t. Podobnie jak w przypadku węgla, w kolejnych miesiącach następował spadek notowań koksu. Średnia notowań koksu 
+chińskiego w II kwartale 2022 roku wyniosła 593,2 USD/t i w stosunku do I kwartału 2022 roku (563,8 USD/t) wzrosła o 5,2%, na rynku europejskim 
+koks wielkopiecowy w II kwartale 2022 roku był wyceniany na 663,3 USD/t i w porównaniu do I kwartału 2022 roku (636,7 USD/t) wzrósł o 4,2%. 
+Rozwój sytuacji rynkowej obarczony jest dużym ryzykiem, trudno przewidzieć długookresowy wpływ wojny w Ukrainie na europejski i globalny rynek. 
+Wojna w Ukrainie może wpływać na rynki istotne dla Grupy, w tym: 
+ 
+rynek stalowy - łączna produkcja Rosji i Ukrainy w 2021 roku stanowiła 5% globalnej produkcji stali (97 mln ton). Rosja była drugim 
+co do wielkości eksporterem stali na świecie, główne rynki eksportowe to UE (22%) oraz Azja (23%). Zarówno Rosja jak i Ukraina należą 
+do największych światowych eksporterów surówki. Około 28% zaimportowanej w 2021 roku przez UE i 35% przez USA surówki pochodziło 
+z Rosji. Brak tych dostaw może wpłynąć na zwiększenie wykorzystania zdolności produkcyjnych europejskich hut surowcowych, co przełoży 
+się na wzrost zapotrzebowania na koks i węgiel koksowy w Europie. Ukraina jest również głównym dostawcą rudy żelaza na rynek Europy 
+Środkowej; 
+ 
+rynek węgla koksowego - sankcje nakładane na Rosję w wyniku agresji na Ukrainę mogą spowodować kolejną reorganizację rynku 
+globalnego oraz konieczność zwiększenia importu zamorskiego do UE. Przed wojną w Ukrainie, udział Rosji w imporcie węgla koksowego 
+do UE wynosił: około 10% dla węgla koksowego i około 30% dla węgla PCI; 
+ 
+rynek koksu - oprócz ograniczeń jego dostępności rynkowej, mogą oddziaływać czynniki związane z mniejszą podażą określonych typów 
+węgla. Brak dostępności węgli PCI, którego Rosja jest jednym z głównych eksporterów może prowadzić do zwiększenia zużycia koksu 
+w procesie wielkopiecowym. Mniejsza dostępność węgli koksowych może zwiększyć zainteresowanie zakupami zewnętrznymi koksu. 
+Dotychczasowy konflikt zbrojny w Ukrainie nie powoduje dla Grupy zwiększonego ryzyka handlowego i finansowego w zakresie regulowania 
+zobowiązań przez kontrahentów. Grupa nie współpracuje z podmiotami zarejestrowanymi w Ukrainie ani w Rosji, nie realizuje też bezpośrednich 
+dostaw do w/w destynacji. Sankcje nakładane na Rosję i działania wojenne na terenie Ukrainy nie wpływają na zwiększenie ryzyka nieuregulowania 
+należności przez kontrahentów Grupy. Grupa na bieżąco analizuje sytuację na rynkach oraz spływające sygnały od kontrahentów mogące 
+
+15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+świadczyć o pogorszeniu sytuacji finansowej i w razie konieczności dokona aktualizacji przyjętych szacunków do kalkulacji oczekiwanej straty 
+kredytowej w kolejnych okresach sprawozdawczych. 
+Grupa jest strategicznym dostawcą dla koncernów hutniczych w Europie Środkowej, utrzymuje stały kontakt z odbiorcami i w pełni realizowała 
+zobowiązania kontraktowe w okresie I półrocza 2022 roku. 
+Brak dostaw węgla, koksu i produktów węglopochodnych z Rosji i Ukrainy wpływać będzie na wzrost popytu na produkty Grupy, a nadal wysokie 
+ceny będą miały wpływ na jej wyniki finansowe. Biorąc pod uwagę niepewność sytuacji, nie można przewidzieć jednak okresu utrzymywania się 
+(pomimo spadku notowań) dalej wysokich cen. Wojna w Ukrainie wpłynęła na wzrost prognozowanych cen w średnim okresie, co wynika 
+z ograniczenia podaży nisko kosztowych węgli rosyjskich. Kryzys na rynku surowców energetycznych w Europie może doprowadzić do zmian 
+polityki klimatycznej, które mogą pozytywnie wpłynąć na warunki funkcjonowania Grupy w średnim okresie. 
+W związku z trwającą wojną w Ukrainie Grupa zaangażowała się w działania prospołeczne w zakresie pomocy dla obywateli Ukrainy 
+poszkodowanych w wyniku wojny. W związku z tym w okresie I półrocza 2022 roku Grupa przekazała darowizny w wysokości 0,6 mln PLN, które 
+zostały ujęte w pozostałych kosztach. 
+Pomimo, iż konflikt zbrojny nie wpływa negatywnie na bieżącą działalność handlową Grupy, nie można wykluczyć, że w przypadku jego eskalacji, 
+lub w wyniku nałożonych sankcji gospodarczych nie wpłynie w przyszłości na działalność operacyjną i inwestycyjną Grupy. Możliwe zakłócenia to: 
+ 
+przerwane lub zaburzone łańcuchy dostaw, co może skutkować ograniczeniami w zakresie dostępności z Ukrainy i Rosji surowców 
+niezbędnych koncernom stalowym i koksowniom, 
+ 
+zakłócenia w procesie ciągłości produkcji lub wzrost kosztów produkcji, 
+ 
+ograniczenia dostaw gazu i węgla z Rosji, 
+ 
+zakłócenia w dostawach energii elektrycznej, pogorszenie bezpieczeństwa energetycznego kraju oraz dalszy wzrost kosztów energii, 
+ 
+wzrost cen surowców oraz materiałów i usług, który może mieć wpływ na opóźnienia w procesach inwestycyjnych oraz na rentowność 
+prowadzonych i planowanych inwestycji, 
+ 
+zakłócenia logistyczne w portach w wyniku zwiększonego importu zamorskiego surowców m.in. rudy żelaza, 
+ 
+wpływ na podaż wyrobów hutniczych na rynku europejskim, 
+ 
+cyberataki na zasoby informatyczne powodujące wyciek danych i dezinformację, 
+ 
+zagrożenia wynikające z dostępności pracowników. 
+Na dzień sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupa nie zakończyła analizy 
+i kwantyfikacji możliwego wpływu konfliktu zbrojnego w Ukrainie na aktualną i przyszłą sytuację finansową Grupy, jej działalność operacyjną, jak 
+również osiągane w przyszłości wyniki finansowe. 
+ZDARZENIA W KWK PNIÓWEK I KWK BORYNIA-ZOFIÓWKA RUCH ZOFIÓWKA 
+W dniu 20 kwietnia 2022 roku w KWK Pniówek doszło do zdarzenia związanego z wybuchem i zapaleniem metanu oraz wybuchów wtórnych, które 
+miały miejsce w ścianie N-6, pokład 404/4+405/1 na poziomie 1000. Eksploatacja ww. ściany miała zakończyć się w czerwcu 2022 roku. Ściana, 
+w obrębie której doszło do wybuchu jest jedną z sześciu ścian eksploatowanych w kopalni Pniówek. 
+W dniu 23 kwietnia 2022 roku w KWK Borynia-Zofiówka Ruch Zofiówka miał miejsce wstrząs wysokoenergetyczny połączony z intensywnym 
+wypływem metanu. Do zdarzenia doszło w miejscu, w którym nie była prowadzona eksploatacja, w chodniku przodkowym D-4a na poziomie 900. 
+W wyniku powyższych zdarzeń w KWK Pniówek i KWK Borynia-Zofiówka Ruch Zofiówka w okresie 6 miesięcy zakończonym 30 czerwca 2022 roku 
+JSW poniosła koszty związane głównie z prowadzonymi akcjami ratowniczymi, usuwaniem skutków zdarzeń oraz koszty utraty wartości majątku 
+KWK Pniówek w łącznej wartości 51,2 mln PLN. 
+W dniu 29 kwietnia 2022 roku Zarząd JSW podjął uchwałę o wystąpieniu siły wyższej w JSW i poinformowaniu kontrahentów Jednostki dominującej 
+o jej wystąpieniu oraz jej konsekwencjach dla zobowiązań objętych działaniem siły wyższej. JSW we współpracy z odbiorcami stara się ograniczyć 
+wpływ siły wyższej na realizację kontraktów, modyfikując strukturę sprzedaży w sposób pozwalający zastąpić część utraconych wolumenów 
+dostawami z innych kopalń. W wyniku dokonanych analiz został wstępnie oszacowany wpływ ww. zdarzeń na zmniejszenie produkcji węgla 
+do końca 2022 roku, na około 400 tys. ton łącznie. Grupa szacuje przy tym, że powyższe zdarzenia będą miały również wpływ na zmniejszenie 
+produkcji węgla w 2023 i 2024 roku, jednak wpływ ten, jak również ewentualny wpływ na lata kolejne, będzie możliwy do określenia po zakończeniu 
+prac Komisji powołanych przez Wyższy Urząd Górniczy dla zbadania przyczyn i okoliczności zaistnienia zdarzeń. Na dzień zatwierdzenia 
+niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego nie jest możliwy do określenia pełny wpływ siły wyższej 
+na perspektywy Grupy w przyszłości. 
+
+16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+WPŁYW PANDEMII COVID-19 NA DZIAŁALNOŚĆ GRUPY 
+W okresie 6 miesięcy zakończonym 30 czerwca 2022 roku Grupa nie odnotowała istotnego wpływu pandemii COVID-19 na wielkość wydobycia 
+węgla, produkcję koksu i węglopochodnych oraz osiągnięte przychody ze sprzedaży. Grupa kontynuowała niezbędne działania prewencyjne oraz 
+wzmacniające bezpieczeństwo pracowników w celu zapobiegania rozprzestrzeniania się koronawirusa SARS-CoV-2. Od dnia 16 maja 2022 roku 
+stan epidemii (wprowadzony w Polsce w dniu 20 marca 2020 roku) został zmieniony w stan zagrożenia epidemicznego, który oznacza, że w kraju 
+nadal istnieje ryzyko wystąpienia epidemii i nie można wykluczyć powrotu obostrzeń w przypadku pogorszenia się sytuacji epidemicznej w kraju. 
+W okresie 6 miesięcy zakończonym 30 czerwca 2022 roku Grupa poniosła koszty pracy związane z zachorowaniami pracowników na COVID–19, 
+ich kwarantanną, realizacją działań profilaktycznych oraz koszty związane z obsługą i organizacją procesu, aby skutki pandemii były jak najmniej 
+dotkliwe. Łączne koszty poniesione na walkę z pandemią w Grupie w okresie 6 miesięcy 30 czerwca 2022 roku wyniosły 8,8 mln PLN, z czego 
+8,4 mln PLN ujęto w pozostałych kosztach, 0,3 mln PLN w koszcie sprzedanych produktów, materiałów i towarów, a pozostała część obciążyła 
+koszty sprzedaży i administracyjne (w okresie 6 miesięcy zakończonym 30 czerwca 2021 roku łączne koszty związane z COVID-19 w Grupie 
+wyniosły 20,5 mln PLN). 
+W związku z Rozporządzeniem Rady Ministrów z dnia 25 marca 2022 roku w sprawie ustanowienia określonych ograniczeń, nakazów i zakazów 
+w związku z wystąpieniem stanu epidemii, Grupa dokonała zniesienia ograniczeń związanych z pandemią COVID-19 na terenie poszczególnych 
+Zakładów JSW i spółek z Grupy. 
+Na dzień 30 czerwca 2022 roku Grupa odstąpiła od uwzględniania zwiększonego ryzyka wpływu pandemii COVID-19 na jakość kredytową 
+odbiorców. Grupa na bieżąco analizuje sygnały mogące świadczyć o pogarszającej się sytuacji finansowej kontrahentów spowodowanej pandemią 
+i w razie konieczności dokona aktualizacji przyjętych szacunków do kalkulacji oczekiwanych strat kredytowych w kolejnych okresach 
+sprawozdawczych. 
+Grupa monitoruje wpływ sytuacji wywołanej pandemią COVID-19 na działalność, w tym na jej przyszłą sytuację finansową i osiągane w przyszłości 
+wyniki finansowe i podejmie odpowiednie działania w przypadku pojawienia się znaczących zagrożeń dla Grupy. 
+2.6. ZMIANA SZACUNKÓW 
+Sporządzenie śródrocznego skróconego skonsolidowanego sprawozdania finansowego zgodnie z MSR 34 Śródroczna sprawozdawczość 
+finansowa wymaga wykorzystania pewnych znaczących szacunków księgowych. Wymaga również od Zarządu własnego osądu przy stosowaniu 
+przyjętych przez Grupę zasad rachunkowości. Założenia i szacunki wynikają z dotychczasowych doświadczeń oraz innych czynników, w tym 
+przewidywań odnośnie do przyszłych zdarzeń, które w danej sytuacji wydają się zasadne. Oszacowania i osądy księgowe podlegają regularnej 
+ocenie. 
+W okresie 6 miesięcy zakończonym 30 czerwca 2022 roku miały miejsce istotne zmiany wielkości szacunkowych oraz metodologii dokonywania 
+szacunków, które wpłynęły na okres bieżący lub okresy przyszłe. Zmiany te zostały opisane w dalszej części niniejszego śródrocznego skróconego 
+skonsolidowanego sprawozdania finansowego i dotyczą aktualizacji zobowiązań z tytułu świadczeń pracowniczych, rezerwy na likwidację zakładów 
+górniczych oraz rezerwy na szkody górnicze. 
+Grupa nie zidentyfikowała konieczności modyfikacji istotnych założeń i szacunków dokonywanych przez Grupę w wyniku wpływu wojny w Ukrainie 
+oraz sankcji nakładanych na Rosję na sytuację makroekonomiczną. Na dzień zatwierdzenia niniejszego śródrocznego skróconego 
+skonsolidowanego sprawozdania finansowego Grupa nie jest w stanie określić skutków ekonomicznych trwającej wojny w Ukrainie. Grupa 
+na bieżąco analizuje sytuację i w razie konieczności dokona aktualizacji przyjętych szacunków w kolejnych okresach sprawozdawczych. 
+W I półroczu 2022 roku zaobserwowano zmiany związane ze skutkami zdarzeń dotyczących wypadków w KWK Pniówek i KWK Borynia-Zofiówka 
+Ruch Zofiówka, które mogą mieć wpływ na wielkość szacunków oraz metodologię tych szacunków na okresy przyszłe. Na dzień zatwierdzenia 
+niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupa nie jest w stanie określić stałości tych zmian, a tym 
+samym skutków ekonomicznych. Grupa na bieżąco analizuje sytuację i w razie konieczności dokona aktualizacji przyjętych szacunków w kolejnych 
+okresach sprawozdawczych. 
+Na dzień 30 czerwca 2022 roku Grupa odstąpiła od korekty oczekiwanych strat kredytowych o dodatkową premię za ryzyko związane z wpływem 
+pandemii COVID-19 na jakość kredytową odbiorców z grupy należności węglowo-koksowych. 
+ 
+ 
+
+17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+ 3. 
+NOTY OBJAŚNIAJĄCE DO SEGMENTÓW OPERACYJNYCH 
+3.1. SEGMENTY OPERACYJNE 
+Organem podejmującym kluczowe decyzje w Grupie jest Zarząd JSW. Miarą wyniku finansowego poszczególnych segmentów operacyjnych Grupy 
+analizowaną przez Zarząd Jednostki dominującej jest zysk/(strata) operacyjny/(a) segmentu ustalony/(a) według zasad MSR/MSSF. Przychody 
+z transakcji z podmiotami zewnętrznymi są wyceniane w sposób spójny ze sposobem zastosowanym w skonsolidowanym wyniku finansowym. 
+Przychody z tytułu transakcji pomiędzy segmentami są eliminowane w procesie konsolidacji. Sprzedaż między segmentami realizowana jest 
+na warunkach rynkowych. Zgodnie z zasadami stosowanymi przez Zarząd Jednostki dominującej do oceny wyników działalności poszczególnych 
+segmentów, przychód oraz marża są rozpoznawane w wyniku segmentu w momencie dokonanej sprzedaży poza segment. W wyniku finansowym 
+poszczególnych segmentów nie są zawarte przychody i koszty finansowe. 
+INFORMACJE O SEGMENTACH DLA CELÓW SPRAWOZDAWCZYCH: 
+ 
+Węgiel 
+Koks 
+Pozostałe 
+segmenty * 
+Korekty 
+konsolida- 
+cyjne ** 
+Razem 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 
+ 
+ 
+ 
+ 
+ 
+Łączne przychody ze sprzedaży segmentu 
+10 166,5 
+4 516,5 
+1 029,3 
+(4 809,1) 
+10 903,2 
+Przychody ze sprzedaży pomiędzy segmentami 
+4 182,3 
+- 
+626,8 
+(4 809,1) 
+- 
+Przychody ze sprzedaży od odbiorców zewnętrznych 
+5 984,2 
+4 531,3 
+402,5 
+- 
+10 918,0 
+Korekta przychodów ze sprzedaży z tytułu realizacji transakcji 
+zabezpieczających 
+- 
+(14,8) 
+- 
+- 
+(14,8) 
+Zysk/(strata) brutto ze sprzedaży segmentu 
+5 812,7 
+474,2 
+84,2 
+(304,6) 
+6 066,5 
+Zysk/(strata) operacyjny/(a) segmentu 
+5 063,0 
+358,0 
+44,6 
+(267,6) 
+5 198,0 
+Amortyzacja 
+(534,2) 
+(51,3) 
+(69,2) 
+29,7 
+(625,0) 
+ 
+ 
+Węgiel 
+Koks 
+Pozostałe 
+segmenty * 
+Korekty 
+konsolida- 
+cyjne ** 
+Razem 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 
+ 
+ 
+ 
+ 
+ 
+Łączne przychody ze sprzedaży segmentu 
+2 937,7 
+2 095,5 
+797,6 
+(1 653,8) 
+4 177,0 
+Przychody ze sprzedaży pomiędzy segmentami 
+1 080,5 
+- 
+573,3 
+(1 653,8) 
+- 
+Przychody ze sprzedaży od odbiorców zewnętrznych 
+1 857,2 
+2 095,5 
+224,3 
+- 
+4 177,0 
+Zysk/(strata) brutto ze sprzedaży segmentu 
+(559,3) 
+798,3 
+83,2 
+(130,6) 
+191,6 
+Zysk/(strata) operacyjny/(a) segmentu 
+(986,0) 
+700,8 
+48,1 
+(107,9) 
+(345,0) 
+Amortyzacja 
+(513,9) 
+(56,5) 
+(68,4) 
+37,9 
+(600,9) 
+* 
+Żadna z działalności wykazywanych w „Pozostałych segmentach” nie spełnia kryteriów agregacji oraz progów ilościowych określonych przez MSSF 8 Segmenty operacyjne skutkujących 
+wyodrębnieniem jej jako osobny segment operacyjny. 
+** 
+Kolumna: „Korekty konsolidacyjne” eliminuje skutki transakcji między segmentami w ramach Grupy Kapitałowej. 
+Poniżej przedstawione jest uzgodnienie wyników segmentów (zysku/(straty) operacyjnego/(ej)) z zyskiem/(stratą) przed opodatkowaniem: 
+ 
+Za okres 6 miesięcy 
+zakończony 30 czerwca 
+ 
+2022 
+2021 
+ 
+ 
+ 
+ZYSK/(STRATA) OPERACYJNY/(A) 
+5 198,0 
+(345,0) 
+Przychody finansowe 
+56,2 
+2,7 
+Koszty finansowe 
+(62,2) 
+(54,3) 
+Udział w zyskach jednostek stowarzyszonych 
+0,1 
+0,1 
+ZYSK/(STRATA) PRZED OPODATKOWANIEM 
+5 192,1 
+(396,5) 
+ 
+ 
+
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+ 4. 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z WYNIKU FINANSOWEGO 
+I INNYCH CAŁKOWITYCH DOCHODÓW 
+4.1. PRZYCHODY ZE SPRZEDAŻY 
+ 
+Za okres 
+3 miesięcy 
+zakończony 
+30 czerwca 
+2022 
+Za okres 
+6 miesięcy 
+zakończony 
+30 czerwca 
+2022 
+Za okres 
+3 miesięcy 
+zakończony 
+30 czerwca 
+2021 
+Za okres 
+6 miesięcy 
+zakończony 
+30 czerwca 
+2021 
+ 
+ 
+ 
+ 
+ 
+Sprzedaż węgla 
+3 304,6 
+5 984,2 
+939,6 
+1 857,2 
+Sprzedaż koksu 
+2 215,9 
+4 085,1 
+1 003,2 
+1 897,4 
+Sprzedaż węglopochodnych 
+248,7 
+446,2 
+117,6 
+198,1 
+Pozostała działalność 
+210,6 
+402,5 
+118,1 
+224,3 
+Korekta przychodów ze sprzedaży z tytułu realizacji transakcji 
+zabezpieczających * 
+(7,5) 
+(14,8) 
+0,4 
+- 
+RAZEM PRZYCHODY ZE SPRZEDAŻY 
+5 972,3 
+10 903,2 
+2 178,9 
+4 177,0 
+* 
+W I półroczu 2022 roku oraz w I półroczu 2021 roku korekta dotyczy przychodów ze sprzedaży koksu. 
+4.2. KOSZT SPRZEDANYCH PRODUKTÓW, MATERIAŁÓW I TOWARÓW 
+ 
+Za okres 
+3 miesięcy 
+zakończony 
+30 czerwca 
+2022 
+Za okres 
+6 miesięcy 
+zakończony 
+30 czerwca 
+2022 
+Za okres 
+3 miesięcy 
+zakończony 
+30 czerwca 
+2021 
+Za okres 
+6 miesięcy 
+zakończony 
+30 czerwca 
+2021 
+ 
+ 
+ 
+ 
+ 
+Amortyzacja 
+297,9 
+625,0 
+302,6 
+600,9 
+Zużycie materiałów i energii, w tym: 
+654,2 
+1 244,3 
+440,6 
+875,7 
+ - zużycie materiałów 
+457,0 
+844,9 
+319,7 
+618,3 
+ - zużycie energii 
+197,2 
+399,4 
+120,9 
+257,4 
+Usługi obce 
+431,5 
+837,6 
+386,8 
+781,6 
+Świadczenia na rzecz pracowników 
+1 762,0* 
+3 067,6* 
+1 155,0 
+2 306,2 
+Podatki i opłaty 
+55,7 
+113,6 
+53,4 
+106,5 
+Pozostałe koszty rodzajowe 
+13,7 
+28,4 
+24,3 
+31,5 
+Wartość sprzedanych materiałów i towarów 
+20,6 
+56,9 
+10,5 
+18,2 
+RAZEM KOSZTY RODZAJOWE 
+3 235,6 
+5 973,4 
+2 373,2 
+4 720,6 
+Koszty sprzedaży 
+(110,0) 
+(197,4) 
+(68,6) 
+(143,4) 
+Koszty administracyjne 
+(226,5) 
+(413,3) 
+(176,5) 
+(341,2) 
+Wartość świadczeń i rzeczowych aktywów trwałych 
+wytworzonych na potrzeby własne oraz wyrobisk ruchowych 
+(298,8) 
+(577,6) 
+(192,4) 
+(477,4) 
+Zmiana stanu produktów 
+(33,0) 
+51,6 
+104,5 
+226,8 
+KOSZT SPRZEDANYCH PRODUKTÓW, MATERIAŁÓW 
+I TOWARÓW 
+2 567,3 
+4 836,7 
+2 040,2 
+3 985,4 
+* 
+Pozycja obejmuje szacowany koszt nagrody jednorazowej w JSW łącznie z kosztami pracodawcy w wysokości 478,9 mln PLN (szerzej w Nocie 7.12.). 
+ 
+
+19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+4.3. POZOSTAŁE PRZYCHODY 
+ 
+ 
+Nota 
+Za okres 
+3 miesięcy 
+zakończony 
+30 czerwca 
+2022 
+Za okres 
+6 miesięcy 
+zakończony 
+30 czerwca 
+2022 
+Za okres 
+3 miesięcy 
+zakończony 
+30 czerwca 
+2021 
+Za okres 
+6 miesięcy 
+zakończony 
+30 czerwca 
+2021 
+ 
+ 
+ 
+ 
+ 
+ 
+Otrzymane odszkodowania, kary 
+ 
+6,2 
+72,5 
+(13,0) 
+14,8 
+Przychody związane z nieodpłatnym przekazaniem 
+zakładu górniczego OG „Jastrzębie III” do SRK 
+4.5 
+- 
+65,8 
+- 
+- 
+Przychody związane z pandemią COVID-19 
+ 
+- 
+- 
+12,4 
+12,4 
+Odsetki 
+ 
+6,1 
+7,9 
+4,5 
+8,3 
+Ujawnienie towarów 
+ 
+4,3 
+4,7 
+0,1 
+0,1 
+Odwrócenie 
+odpisu 
+aktualizującego 
+należności 
+i pozostałe aktywa finansowe 
+ 
+2,3 
+3,6 
+1,4 
+2,8 
+Dotacje (odpisane w wysokości amortyzacji) 
+ 
+0,9 
+1,9 
+1,2 
+2,6 
+Przedawnione 
+i 
+umorzone 
+zobowiązania 
+wraz 
+z odsetkami 
+ 
+0,3 
+0,7 
+0,4 
+1,0 
+Odwrócenie odpisu aktualizującego rzeczowe aktywa 
+trwałe, wartości niematerialne i prawo do użytkowania 
+składnika aktywów 
+7.3 
+0,1 
+0,1 
+0,6 
+5,1 
+Pozostałe 
+ 
+5,8 
+11,0 
+6,3 
+10,8 
+RAZEM POZOSTAŁE PRZYCHODY 
+ 
+26,0 
+168,2 
+13,9 
+57,9 
+4.4. POZOSTAŁE KOSZTY 
+ 
+ 
+Nota 
+Za okres 
+3 miesięcy 
+zakończony 
+30 czerwca 
+2022 
+Za okres 
+6 miesięcy 
+zakończony 
+30 czerwca 
+2022 
+Za okres 
+3 miesięcy 
+zakończony 
+30 czerwca 
+2021 
+Za okres 
+6 miesięcy 
+zakończony 
+30 czerwca 
+2021 
+ 
+ 
+ 
+ 
+ 
+ 
+Utworzenie odpisu aktualizującego rzeczowe aktywa 
+trwałe, wartości niematerialne oraz prawo do 
+użytkowania składnika aktywów 
+7.3
+189,8 
+269,8 
+73,0 
+73,0 
+Odsetki 
+9,6 
+16,2 
+(7,0) 
+10,1 
+Utworzenie rezerwy na spory sądowe 
+15,0 
+15,3 
+0,5 
+3,8 
+Utworzenie 
+odpisu 
+aktualizującego 
+należności 
+i pozostałe aktywa finansowe 
+5,7 
+9,3 
+(12,8) 
+7,8 
+Koszty poniesione w związku z pandemią COVID-19 
+ 
+- 
+8,4 
+10,4 
+19,3 
+Darowizny 
+ 
+6,2 
+6,9 
+0,3 
+0,6 
+Koszty związane z nieodpłatnym przekazaniem 
+zakładu górniczego OG „Jastrzębie III” do SRK 
+4.5
+2,4 
+3,0 
+- 
+- 
+Opłaty egzekucyjne i kary 
+ 
+0,5 
+1,2 
+0,7 
+1,1 
+Pozostałe 
+ 
+4,8 
+9,1 
+3,3 
+4,3 
+RAZEM POZOSTAŁE KOSZTY 
+ 
+234,0 
+339,2 
+68,4 
+120,0 
+4.5. PRZYCHODY/(KOSZTY) ZWIĄZANE Z PRZEKAZANIEM ZAKŁADU GÓRNICZEGO DO SRK 
+Ze skutkiem rozporządzającym na dzień 1 stycznia 2022 roku, w dniu 31 grudnia 2021 roku pomiędzy JSW a Spółką Restrukturyzacji Kopalń S.A. 
+(„SRK”) została podpisana umowa nieodpłatnego zbycia zorganizowanej części przedsiębiorstwa JSW w postaci zakładu górniczego 
+OG „Jastrzębie III” KWK Jastrzębie-Bzie („ZORG”). Na dokonanie transakcji Jednostka dominująca uzyskała zgodę odpowiednio Rady 
+
+20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+Nadzorczej JSW wyrażoną w uchwale z dnia 1 grudnia 2021 roku oraz Walnego Zgromadzenia JSW wyrażoną w uchwale z dnia 29 grudnia 
+2021 roku. Powyższa umowa została zawarta w oparciu o tryb przewidziany w Ustawie z dnia 7 września 2007 roku o funkcjonowaniu górnictwa 
+węgla kamiennego. 
+W dniu 31 marca 2022 roku, ze skutkiem rozporządzającym na dzień 1 kwietnia 2022 roku, pomiędzy JSW a SRK został podpisany aneks do umowy 
+z 31 grudnia 2021 roku, uwzględniający przekazanie do SRK pozostałego majątku oznaczonej części zakładu górniczego OG „Jastrzębie III”, 
+w postaci systemu odprowadzania zasolonych wód do Kolektora „Olza” i systemu dostawy wody przemysłowej oraz bocznicy kolejowej. 
+Na dokonanie transakcji Jednostka dominująca uzyskała zgodę odpowiednio Rady Nadzorczej JSW wyrażoną w uchwale z dnia 25 lutego 2022 roku 
+oraz Walnego Zgromadzenia JSW wyrażoną w uchwale z dnia 30 marca 2022 roku. Aneks został zawarty w oparciu o tryb przewidziany w Ustawie 
+z dnia 7 września 2007 roku o funkcjonowaniu górnictwa węgla kamiennego. 
+Zbycie ZORG przez JSW jest efektem realizowanych działań związanych z optymalizacją działalności operacyjnej Grupy w związku z zaniechaniem 
+wydobycia w obszarze górniczym OG „Jastrzębie III”, a także redukcją zatrudnienia z wykorzystaniem środków budżetowych, co będzie miało wpływ 
+na poprawę efektywności funkcjonowania JSW (w wyniku podpisanej umowy zbycia ZORG, do SRK zostało przeniesionych łącznie 2 148 osób, 
+w tym 1 234 pracowników przejętych przez JSW z innych spółek prowadzących działalność górniczą). 
+Aktywa i zobowiązania zakładu górniczego OG „Jastrzębie III” na dzień 31 grudnia 2021 roku, zgodnie z MSSF 5 Aktywa trwałe przeznaczone 
+do sprzedaży oraz działalność zaniechana, zostały przedstawione jako grupa do zbycia przeznaczona do sprzedaży oraz wycenione w wartości 
+bilansowej w kwocie netto tj. z uwzględnieniem wpływu podatkowego (38,8) mln PLN. 
+Na dzień 31 marca 2022 roku jako aktywa przeznaczone do sprzedaży Grupa prezentowała wartość netto rzeczowych aktywów trwałych i prawa 
+do użytkowania składnika aktywów oraz aktywa z tytułu odroczonego podatku dochodowego dotyczące przekazanego do SRK w dniu 1 kwietnia 
+2022 roku pozostałego majątku zakładu górniczego OG „Jastrzębie III” w łącznej wysokości 4,3 mln PLN. 
+Przychody/(koszty) związane ze zrealizowaną transakcją przekazania ZORG do SRK zostały ujęte jako pozostałe przychody/(pozostałe koszty) 
+w skonsolidowanym sprawozdaniu z wyniku finansowego i innych całkowitych dochodów za okres 6 miesięcy zakończony 30 czerwca 2022 roku. 
+Poniższa tabela przedstawia wynik netto osiągnięty w I półroczu 2022 roku związany z nieodpłatnym przekazaniem zakładu górniczego 
+OG „Jastrzębie III” do SRK, w efekcie rozpoznania w skonsolidowanym sprawozdaniu z wyniku finansowego i innych całkowitych dochodów 
+aktywów i zobowiązań zaliczonych w skład grupy do zbycia przeznaczonej do sprzedaży: 
+ 
+Za okres 
+3 miesięcy 
+zakończony 
+30 czerwca 2022 
+Za okres 
+ 6 miesięcy 
+zakończony 
+30 czerwca 2022 
+PRZYCHODY 
+- 
+65,8 
+Rozwiązanie rezerwy na likwidację zakładu górniczego 
+- 
+29,8 
+Rozwiązanie rezerwy na świadczenia pracownicze pracowników przeniesionych do SRK, w tym: 
+- 
+25,3 
+- odprawy emerytalno-rentowe 
+- 
+15,8 
+- nagrody jubileuszowe 
+- 
+9,5 
+Rozwiązanie rezerwy na szkody górnicze 
+- 
+10,7 
+KOSZTY 
+(2,4) 
+(3,0) 
+Wartość netto przekazanych rzeczowych aktywów trwałych 
+(2,4) 
+(2,8) 
+Wartość przekazanych zapasów 
+- 
+(0,2) 
+WYNIK BRUTTO Z PRZEKAZANIA ZAKŁADU GÓRNICZEGO DO SRK 
+(2,4) 
+62,8 
+Podatek odroczony 
+(1,9) 
+(24,0) 
+WYNIK NETTO Z PRZEKAZANIA ZAKŁADU GÓRNICZEGO DO SRK 
+(4,3) 
+38,8 
+Powyższa tabela nie uwzględnia rozpoznanej w wyniku finansowym I półrocza 2022 roku bieżącej korzyści podatkowej w wysokości 12,0 mln PLN, 
+która wynika z zaliczenia w koszty podatkowe nieumorzonej podatkowo wartości przekazywanych do SRK rzeczowych aktywów trwałych. 
+JSW otrzymała indywidualną interpretację podatkową potwierdzającą możliwość zaliczenia w koszty podatkowe nieumorzonej podatkowo wartości 
+przekazywanych do SRK rzeczowych aktywów trwałych. 
+
+21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+4.6. POZOSTAŁE ZYSKI/(STRATY) – NETTO 
+ 
+Za okres 
+3 miesięcy 
+zakończony 
+30 czerwca 
+2022 
+Za okres 
+6 miesięcy 
+zakończony 
+30 czerwca 
+2022 
+Za okres 
+3 miesięcy 
+zakończony 
+30 czerwca 
+2021 
+Za okres 
+6 miesięcy 
+zakończony 
+30 czerwca 
+2021 
+ 
+ 
+ 
+ 
+ 
+Zyski/(straty) z tytułu zbycia rzeczowych aktywów trwałych 
+(0,8) 
+0,1 
+(4,1) 
+(8,0) 
+Różnice kursowe 
+16,2 
+43,8 
+(10,1) 
+(0,9) 
+Zyski/(straty) z tytułu pochodnych instrumentów finansowych 
+(9,9) 
+(154,3) 
+23,6 
+3,3 
+Zyski z tytułu portfela aktywów FIZ 
+23,5 
+23,6 
+0,4 
+15,7 
+RAZEM POZOSTAŁE ZYSKI/(STRATY) – NETTO 
+29,0 
+(86,8) 
+9,8 
+10,1 
+4.7. ZYSK/(STRATA) NA AKCJĘ 
+Podstawowy/(a) zysk/(strata) na akcję 
+Podstawowy/(ą) zysk/(stratę) na akcję wylicza się jako iloraz zysku/(straty) przypadającego/(ej) na akcjonariuszy Jednostki dominującej 
+oraz średniej ważonej liczby akcji zwykłych w ciągu okresu sprawozdawczego. 
+Rozwodniony/(a) zysk/(strata) na akcję 
+Rozwodniony/(ą) zysk/(stratę) na akcję wylicza się, korygując średnią ważoną liczbę akcji zwykłych w taki sposób, jak gdyby nastąpiła zamiana 
+na potencjalne akcje zwykłe powodujące rozwodnienie. Jednostka dominująca nie posiada instrumentów powodujących rozwodnienie potencjalnych 
+akcji zwykłych. W związku z powyższym rozwodniony/(a) zysk/(strata) na akcję równa jest podstawowemu/(ej) zyskowi/(stracie) na akcję Jednostki 
+dominującej. 
+ 
+Za okres 6 miesięcy 
+zakończony 30 czerwca 
+ 
+2022 
+2021 
+ 
+ 
+ 
+Zysk/(strata) netto przypadający/(a) na akcjonariuszy Jednostki dominującej 
+4 192,0 
+(356,5) 
+Średnia ważona liczba akcji zwykłych (szt.) 
+117 411 596 
+117 411 596 
+PODSTAWOWY/(A) I ROZWODNIONY/(A) ZYSK/(STRATA) NA JEDNĄ AKCJĘ 
+(W PLN NA JEDNĄ AKCJĘ) 
+35,70 
+(3,04) 
+ 
+ 
+
+22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+ 5. 
+NOTY OBJAŚNIAJĄCE DOTYCZĄCE OPODATKOWANIA 
+5.1. PODATEK DOCHODOWY 
+Podatek dochodowy ujęty w wyniku netto: 
+ 
+Za okres 6 miesięcy 
+zakończony 30 czerwca 
+ 
+2022 
+2021 
+ 
+ 
+ 
+Podatek bieżący: 
+937,6 
+113,7 
+- bieżące obciążenie podatkowe 
+938,5 
+113,5 
+- korekty wykazane w bieżącym okresie w odniesieniu do podatku z lat ubiegłych 
+(0,9) 
+0,2 
+Podatek odroczony 
+48,8 
+(179,7) 
+RAZEM PODATEK DOCHODOWY UJĘTY W WYNIKU NETTO 
+986,4 
+(66,0) 
+Podatek dochodowy ujęty w innych całkowitych dochodach: 
+ 
+Za okres 6 miesięcy 
+zakończony 30 czerwca 
+ 
+2022 
+2021 
+ 
+ 
+ 
+Podatek odroczony: 
+ 
+ 
+– zyski/(straty) aktuarialne 
+11,3 
+(3,2) 
+– zmiana wartości instrumentów zabezpieczających 
+(6,0) 
+0,4 
+RAZEM PODATEK DOCHODOWY UJĘTY W INNYCH CAŁKOWITYCH DOCHODACH 
+5,3 
+(2,8) 
+Podatek dochodowy w niniejszym śródrocznym skróconym skonsolidowanym sprawozdaniu finansowym został ustalony według rzeczywistej 
+efektywnej stopy podatkowej w wysokości 19,0% (za okres 6 miesięcy zakończony 30 czerwca 2021 roku: 16,7%). 
+ 
+ 
+
+23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+ 6. 
+NOTY OBJAŚNIAJĄCE DOTYCZĄCE ZADŁUŻENIA 
+ZOBOWIĄZANIA Z TYTUŁU ZADŁUŻENIA 
+ 
+Nota 
+30.06.2022 
+31.12.2021 
+Kredyty i pożyczki 
+6.1 
+1 261,3 
+1 816,2 
+Zobowiązania z tytułu leasingu 
+6.2 
+530,1 
+538,8 
+RAZEM 
+1 791,4 
+2 355,0 
+ 
+w tym: 
+ 
+ 
+ 
+ 
+długoterminowe 
+ 
+1 099,5 
+1 658,0 
+ 
+krótkoterminowe 
+ 
+691,9 
+697,0 
+6.1. KREDYTY I POŻYCZKI 
+ 
+30.06.2022 
+31.12.2021 
+DŁUGOTERMINOWE: 
+799,0 
+1 357,2 
+Kredyty bankowe 
+189,9 
+560,6 
+Pożyczki 
+609,1 
+796,6 
+KRÓTKOTERMINOWE: 
+462,3 
+459,0 
+Kredyty bankowe 
+63,7 
+58,4 
+Pożyczki 
+398,6 
+400,6 
+RAZEM 
+1 261,3 
+1 816,2 
+Grupa dysponuje następującymi niewykorzystanymi liniami kredytowymi: 
+ 
+30.06.2022 
+31.12.2021 
+Niewykorzystane linie kredytowe 
+396,4* 
+40,3 
+* 
+W tym na dzień 30 czerwca 2022 roku ujęto limit kredytu wielocelowego PBSz w wysokości 20,0 mln PLN w banku PKO BP, którego uruchomienie wymaga uzyskania odpowiednich 
+zgód korporacyjnych. 
+Wartość godziwa kredytów i pożyczek nie różni się istotnie od ich wartości księgowej. 
+Główne zobowiązania z tytułu kredytów i pożyczek po przeliczeniu na PLN przedstawia tabela poniżej. 
+Kredyt/pożyczka 
+Data 
+zawarcia 
+Cel 
+Oprocentowanie 
+Termin 
+spłaty 
+Waluta 
+kredytów 
+oraz 
+pożyczek 
+Wycena 
+bilansowa 
+na dzień 
+30.06.2022 
+Wycena 
+bilansowa 
+na dzień 
+31.12.2021 
+FINANSOWANIE UDZIELONE JSW 
+ 
+ 
+ 
+ 
+ 
+1 152,7 
+1 692,8 
+UMOWY POŻYCZEK Z PFR, w tym: 
+769,2 
+931,8 
+POŻYCZKA PŁYNNOŚCIOWA 
+POLSKIEGO FUNDUSZU ROZWOJU * 
+09.12.2020 
+Finansowanie bieżącej 
+działalności, w tym kapitału 
+obrotowego 
+stałe 
+30.09.2024 
+kwartalnie 
+od czerwca 
+2021 roku 
+PLN 
+709,2 
+859,1 
+POŻYCZKA PREFERENCYJNA 
+POLSKIEGO FUNDUSZU ROZWOJU * 
+23.12.2020 
+Finansowanie bieżącej 
+działalności, w tym kapitału 
+obrotowego 
+stałe 
+30.09.2024 
+kwartalnie 
+od czerwca 
+2021 roku 
+PLN 
+60,0 
+72,7 
+
+24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+Kredyt/pożyczka 
+Data 
+zawarcia 
+Cel 
+Oprocentowanie 
+Termin 
+spłaty 
+Waluta 
+kredytów 
+oraz 
+pożyczek 
+Wycena 
+bilansowa 
+na dzień 
+30.06.2022 
+Wycena 
+bilansowa 
+na dzień 
+31.12.2021 
+UMOWA FINANSOWANIA Z KONSORCJUM, w tym: 
+329,6 
+703,9 
+POŻYCZKA TERMINOWA 
+09.04.2019 
+Finansowanie inwestycji 
+Grupy, finansowanie innych 
+celów ogólnokorporacyjnych 
+Grupy oraz sfinansowanie 
+nabycia przez JSW 95,01% 
+akcji spółki PBSz 
+zmienne 
+09.04.2026 
+kwartalnie 
+od czerwca 
+2021 roku 
+PLN 
+76,0 
+85,4 
+KREDYT TERMINOWY A i C 
+zmienne 
+09.04.2026 
+kwartalnie 
+od czerwca 
+2021 roku 
+USD 
+253,6 
+258,3 
+KREDYT ODNAWIALNY B 
+zmienne 09.04.2024** 
+PLN 
+- 
+360,2 
+POZOSTAŁE UMOWY FINANSOWANIA: 
+53,9 
+57,1 
+POŻYCZKA Z NFOŚiGW 
+08.11.2021 
+Finansowanie 
+przedsięwzięcia 
+„Gospodarcze wykorzystanie 
+metanu – Ruch Knurów” 
+zmienne 
+20.12.2030 
+kwartalnie 
+od marca 
+2022 roku 
+PLN 
+53,9 
+57,1 
+FINANSOWANIE UDZIELONE JSW KOKS 
+ 
+ 
+ 
+ 
+108,6 
+122,9 
+POŻYCZKA PREFERENCYJNA 
+Z NFOŚiGW *** 
+19.12.2018 
+Realizacja projektu „Poprawa 
+efektywności energetycznej 
+w JSW KOKS” związanego 
+z budową bloku 
+energetycznego w Koksowni 
+Radlin 
+stałe 
+20.12.2030 
+kwartalnie 
+od czerwca 
+2024 roku 
+PLN 
+77,9 
+78,7 
+POŻYCZKA Z NFOŚiGW 
+27.06.2014 
+Realizacja przedsięwzięcia 
+„Modernizacja benzolowni 
+wraz z obiektami 
+towarzyszącymi 
+węglopochodnych 
+w Koksowni Radlin” 
+zmienne 
+30.06.2023 
+kwartalnie 
+od września 
+2018 roku 
+PLN 
+- 
+13,5 
+POŻYCZKA PREFERENCYJNA 
+Z WFOŚiGW 
+12.08.2020 
+Dofinansowanie 
+przedsięwzięcia „Budowa 
+bloku energetycznego w 
+Koksowni Radlin”. Pożyczka 
+została udzielona w ramach 
+pomocy horyzontalnej na 
+ochronę środowiska 
+zmienne 
+15.12.2030 
+kwartalnie 
+od czerwca 
+2024 roku 
+PLN 
+30,7 
+30,7 
+* 
+Wsparcie finansowe w ramach Programu Rządowego „Tarcza Finansowa Polskiego Funduszu Rozwoju dla Dużych Firm" zostało udzielone na preferencyjnych warunkach. Zgodnie 
+z wymogami MSR 20 Dotacje rządowe oraz ujawnianie informacji na temat pomocy rządowej, ujęcie bilansowe pożyczki otrzymanej na warunkach preferencyjnych następuje w wartości 
+godziwej. JSW dokonała takiej wyceny i prezentuje pożyczkę z uwzględnieniem wartości odsetek rynkowych. Z tego powodu nominalna wartość zadłużenia wynosi 797,5 mln PLN 
+i różni się od stanu zobowiązania na dzień kończący okres sprawozdawczy o 28,3 mln PLN (na dzień 31 grudnia 2021 roku nominalna wartość zadłużenia wynosiła 974,5 mln PLN 
+i różniła się od stanu zobowiązania na dzień kończący okres sprawozdawczy o 42,7 mln PLN – w tym przychód z tytułu preferencyjnego oprocentowania w wysokości 38,7 mln PLN). 
+ ** 
+Możliwość przedłużenia okresu spłaty maksymalnie o dwa lata. 
+ *** Stan zadłużenia na 30 czerwca 2022 roku wynosi 90,7 mln PLN. Zgodnie z wymogami MSR 20 Dotacje rządowe oraz ujawnianie informacji na temat pomocy rządowej, ujęcie bilansowe 
+pożyczki otrzymanej na warunkach preferencyjnych następuje w wartości godziwej. Z tego powodu nominalna wartość zadłużenia różni się od stanu zobowiązania na dzień kończący 
+okres sprawozdawczy o 12,8 mln PLN. 
+Szczegóły dotyczące zawartych przez spółki Grupy umów kredytów i pożyczek, a także zabezpieczenia kredytów i pożyczek zostały przedstawione 
+w Nocie 6.1. Skonsolidowanego sprawozdania finansowego Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A. za rok obrotowy zakończony 
+31 grudnia 2021 roku. W I półroczu 2022 roku nie nastąpiły inne, niż opisane poniżej, istotne zmiany w zawartych umowach kredytów i pożyczek 
+oraz ich zabezpieczeniach: 
+ 
+W związku z osiągniętą nadwyżką środków pieniężnych, w lutym 2022 roku Jednostka dominująca dokonała spłaty Kredytu Odnawialnego B 
+w ramach umowy finansowania z Konsorcjum w kwocie 360,0 mln PLN. 
+ 
+W dniu 25 marca 2022 roku JSW podpisała aneks do umowy pożyczki z NFOŚiGW o dofinansowanie przedsięwzięcia pn.: „Gospodarcze 
+wykorzystanie metanu – Ruch Knurów”. Na mocy aneksu zaktualizowano termin zakończenia realizacji inwestycji oraz zaktualizowano 
+harmonogram wypłat. 
+
+25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+ 
+W dniu 23 marca 2022 roku JSW KOKS dokonała całkowitej spłaty preferencyjnej pożyczki otrzymanej od NFOŚiGW na realizację 
+przedsięwzięcia pn.: „Modernizacja benzolowni wraz z obiektami towarzyszącymi węglopochodnych w Koksowni Radlin”, w związku z czym 
+na dzień 30 czerwca 2022 roku Grupa nie wykazuje salda z tytułu tej pożyczki. Trwa proces zwalniania zabezpieczeń w postaci hipoteki 
+i zastawu w wysokości 56,2 mln PLN. 
+ 
+W dniu 27 czerwca 2022 roku JSW KOKS podpisała aneks do umowy o dofinansowanie w formie pożyczki preferencyjnej z NFOŚiGW 
+w wysokości 134,0 mln PLN na realizację przedsięwzięcia pn.: „Poprawa efektywności energetycznej w JSW KOKS” polegającego na budowie 
+bloku energetycznego w Koksowni Radlin. Na mocy aneksu zaktualizowano harmonogramy wypłaty środków oraz spłaty kapitału, po czym 
+pierwsza spłata pożyczki przypada na czerwiec 2024 roku. 
+ 
+Na dzień 30 czerwca 2022 roku PBSz wykorzystała 3,6 mln PLN linii wielocelowej z BGK. 
+ 
+W I półroczu 2022 roku ustanowiono hipotekę na nieruchomości do wysokości 84,1 mln PLN przewidzianą umową z 13 grudnia 2021 roku 
+zawartą pomiędzy JSW KOKS a WFOŚiGW o dofinansowanie w formie pożyczki do kwoty 70,0 mln PLN przedsięwzięcia pn.: „Modernizacja 
+baterii koksowniczej nr 4 w Koksowni Przyjaźń”. Na dzień 30 czerwca 2022 roku pożyczka nie została uruchomiona. 
+Grupa dokonała następujących transakcji odnośnie kredytów i pożyczek: 
+Kredyt/pożyczka 
+Za okres 6 miesięcy zakończony 
+30 czerwca 2022 roku 
+Za okres 6 miesięcy zakończony 
+30 czerwca 2021 roku 
+Zaciągnięcie 
+Spłata (kapitału) 
+Zaciągnięcie 
+Spłata (kapitału) 
+FINANSOWANIE UDZIELONE JSW 
+- 
+(580,9) 
+- 
+(29,2) 
+UMOWY POŻYCZEK Z PFR, w tym: 
+- 
+(177,0) 
+- 
+(11,0) 
+- POŻYCZKA PŁYNNOŚCIOWA 
+- 
+(163,2) 
+- 
+(10,0) 
+- POŻYCZKA PREFERENCYJNA 
+- 
+(13,8) 
+- 
+(1,0) 
+UMOWA FINANSOWANIA Z KONSORCJUM, w tym: 
+- 
+(400,6) 
+- 
+(18,2) 
+- POŻYCZKA TERMINOWA 
+- 
+(9,5) 
+- 
+(4,8) 
+- KREDYT TERMINOWY A i C 
+- 
+(31,1) 
+- 
+(13,4) 
+- KREDYT ODNAWIALNY B 
+- 
+(360,0) 
+- 
+- 
+POZOSTAŁE UMOWY: 
+- 
+(3,3) 
+- 
+- 
+- POŻYCZKA Z NFOŚiGW 
+- 
+(3,3) 
+- 
+- 
+FINANSOWANIE UDZIELONE JSW KOKS 
+- 
+(16,1) 
+26,7 
+(16,1) 
+UMOWY POŻYCZEK Z PFR, w tym: 
+- 
+- 
+- 
+(1,7) 
+- POŻYCZKA PREFERENCYJNA 
+- 
+- 
+- 
+(1,7) 
+POZOSTAŁE UMOWY FINANSOWANIA, w tym: 
+- 
+(16,1) 
+26,7 
+(14,4) 
+- POŻYCZKA PREFERENCYJNA Z NFOŚiGW 
+- 
+(2,6)* 
+26,7 
+(9,9)* 
+- POŻYCZKA Z NFOŚiGW 
+- 
+(13,5) 
+- 
+(4,5) 
+FINANSOWANIE UDZIELONE POZOSTAŁYM SPÓŁKOM 
+- 
+(0,6) 
+- 
+- 
+KREDYT w rachunku bieżącym 
+- 
+(0,6) 
+- 
+- 
+RAZEM PRZEPŁYWY PIENIĘŻNE 
+- 
+(597,6) 
+26,7 
+(45,3) 
+* 
+Zwrot niewykorzystanej transzy pożyczki 
+6.2. ZOBOWIĄZANIA Z TYTUŁU LEASINGU 
+ 
+30.06.2022 
+31.12.2021 
+Zobowiązania z tytułu leasingu 
+ 
+530,1 
+538,8 
+RAZEM 
+ 
+530,1 
+538,8 
+ 
+w tym: 
+ 
+ 
+ 
+ 
+długoterminowe 
+ 
+300,5 
+300,8 
+ 
+krótkoterminowe 
+ 
+229,6 
+238,0 
+Grupa ujmuje w wycenie zobowiązania z tytułu leasingu zmienne opłaty leasingowe powiązane z referencyjnymi stopami procentowymi. 
+
+26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+6.3. UZGODNIENIE ZADŁUŻENIA 
+Zmianę stanu zadłużenia na dzień 30 czerwca 2022 roku przedstawia poniższa tabela: 
+ 
+Kredyty i pożyczki 
+Zobowiązania 
+z tytułu leasingu 
+RAZEM 
+STAN NA 1 STYCZNIA 2022 
+1 816,2 
+538,8 
+2 355,0 
+Wpływy z tytułu zaciągnięcia zadłużenia: 
+- 
+89,9 
+89,9 
+- zawarcie nowych umów leasingu 
+- 
+89,9 
+89,9 
+Modyfikacje umów leasingowych 
+- 
+2,4 
+2,4 
+Naliczone odsetki 
+32,8 
+14,4 
+47,2 
+Płatności z tytułu zadłużenia: 
+(615,9) 
+(114,9) 
+(730,8) 
+- spłata zobowiązania (kapitału) 
+(597,6) 
+(99,4) 
+(697,0) 
+- odsetki zapłacone 
+(18,3) 
+(15,5) 
+(33,8) 
+Różnice kursowe 
+26,1 
+- 
+26,1 
+Inne zwiększenia/(zmniejszenia) 
+2,1 
+(0,5) 
+1,6 
+STAN NA 30 CZERWCA 2022 
+1 261,3 
+530,1 
+1 791,4 
+Zmianę stanu zadłużenia na dzień 31 grudnia 2021 roku przedstawia poniższa tabela: 
+ 
+Kredyty i pożyczki 
+Zobowiązania 
+z tytułu leasingu 
+RAZEM 
+STAN NA 1 STYCZNIA 2021 
+ 
+2 007,8 
+632,9 
+2 640,7 
+Wpływy z tytułu zaciągnięcia zadłużenia: 
+ 
+114,6 
+93,8 
+208,4 
+ - otrzymane finansowanie 
+ 
+114,6 
+- 
+114,6 
+ - zawarcie nowych umów leasingu 
+ 
+- 
+93,8 
+93,8 
+Modyfikacje umów leasingowych 
+ 
+- 
+(16,5) 
+(16,5) 
+Naliczone odsetki i prowizje 
+ 
+55,7 
+25,5 
+81,2 
+Płatności z tytułu zadłużenia: 
+ 
+(238,6) 
+(219,1) 
+(457,7) 
+- spłata zobowiązania (kapitału) 
+ 
+(205,4) 
+(193,5) 
+(398,9) 
+- odsetki i prowizje zapłacone 
+ 
+(33,2) 
+(25,6) 
+(58,8) 
+Różnice kursowe 
+ 
+21,0 
+- 
+21,0 
+Umorzenie pożyczek preferencyjnych PFR 
+ 
+(107,9) 
+- 
+(107,9) 
+Przychody z tytułu preferencyjnego oprocentowania pożyczki PFR 
+ 
+(38,7) 
+- 
+(38,7) 
+Inne zwiększenia/(zmniejszenia) 
+ 
+2,3 
+22,2 
+24,5 
+STAN NA 31 GRUDNIA 2021 
+1 816,2 
+538,8 
+2 355,0 
+ 
+ 
+
+27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+ 
+ 
+7. 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z SYTUACJI FINANSOWEJ 
+7.1. RZECZOWE AKTYWA TRWAŁE 
+ 
+30.06.2022 
+31.12.2021 
+ 
+ 
+ 
+Grunty 
+64,8 
+58,2 
+Budynki i budowle 
+4 426,7 
+4 349,6 
+Wyrobiska ruchowe 
+1 352,6 
+1 328,1 
+Urządzenia techniczne i maszyny 
+2 402,9 
+2 469,3 
+Inne rzeczowe aktywa trwałe 
+130,1 
+125,5 
+Inwestycje rozpoczęte 
+1 268,3 
+1 052,7 
+RAZEM RZECZOWE AKTYWA TRWAŁE 
+9 645,4 
+9 383,4 
+ 
+ 
+ 
+Nota 
+Za okres 
+6 miesięcy 
+zakończony 
+30 czerwca 2022 
+Za okres 
+12 miesięcy 
+zakończony 
+31 grudnia 2021 
+Za okres 
+6 miesięcy 
+zakończony 
+30 czerwca 2021 
+ 
+ 
+ 
+ 
+ 
+Wartość początkowa (brutto) na początek okresu 
+ 
+20 850,6 
+20 102,7 
+20 102,7 
+Umorzenie na początek okresu * 
+ 
+(11 467,2) 
+(11 107,1) 
+(11 107,1) 
+Wartość księgowa netto na początek okresu 
+ 
+9 383,4 
+8 995,6 
+8 995,6 
+Zwiększenia 
+ 
+986,4 
+1 586,9 
+704,8 
+Aktualizacja rezerwy na likwidację zakładu górniczego 
+7.11 
+68,4 
+297,3 
+- 
+Zmniejszenia 
+ 
+(6,3) 
+(67,6) 
+(33,8) 
+Amortyzacja 
+ 
+(533,2) 
+(1 023,0) 
+(504,2) 
+Odpis aktualizujący – utworzenie 
+7.3 
+(253,3) 
+(746,9) 
+(68,4) 
+Odpis aktualizujący – odwrócenie 
+7.3 
+- 
+341,1 
+0,7 
+WARTOŚĆ KSIĘGOWA NETTO NA KONIEC OKRESU 
+ 
+9 645,4 
+9 383,4 
+9 094,7 
+* 
+Pozycja obejmuje umorzenie oraz odpisy aktualizujące rzeczowe aktywa trwałe. 
+7.2. PRAWO DO UŻYTKOWANIA SKŁADNIKA AKTYWÓW 
+ 
+30.06.2022 
+31.12.2021 
+ 
+ 
+ 
+Grunty 
+15,2 
+14,6 
+Budynki i budowle 
+7,2 
+7,7 
+Urządzenia techniczne i maszyny 
+254,4 
+279,4 
+Inne rzeczowe aktywa trwałe 
+22,4 
+20,5 
+Prawo wieczystego użytkowania gruntów 
+167,1 
+169,4 
+RAZEM PRAWO DO UŻYTKOWANIA SKŁADNIKA AKTYWÓW 
+466,3 
+491,6 
+ 
+
+28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+ 
+Nota 
+Za okres 
+6 miesięcy 
+zakończony 
+30 czerwca 2022 
+Za okres 
+12 miesięcy 
+zakończony 
+31 grudnia 2021 
+Za okres 
+6 miesięcy 
+zakończony 
+30 czerwca 2021 
+ 
+ 
+ 
+ 
+ 
+Wartość początkowa (brutto) na początek okresu 
+ 
+945,9 
+930,1 
+930,1 
+Umorzenie na początek okresu* 
+ 
+(454,3) 
+(331,5) 
+(331,5) 
+Wartość księgowa netto na początek okresu, w tym: 
+ 
+491,6 
+598,6 
+598,6 
+Zwiększenia 
+ 
+93,1 
+98,6 
+58,6 
+Amortyzacja 
+ 
+(86,4) 
+(186,3) 
+(91,3) 
+Zmniejszenia 
+ 
+(16,5) 
+(3,2) 
+(2,2) 
+Odpis aktualizujący – utworzenie 
+7.3 
+(15,6) 
+(20,6) 
+(4,1) 
+Odpis aktualizujący – odwrócenie 
+7.3 
+0,1 
+4,5 
+4,5 
+WARTOŚĆ KSIĘGOWA NETTO NA KONIEC OKRESU 
+ 
+466,3 
+491,6 
+564,1 
+* 
+Pozycja obejmuje umorzenie oraz odpisy aktualizujące prawo do użytkowania składników aktywów. 
+Wysokość opłat leasingu krótkoterminowego, ujęta w kosztach w skonsolidowanym sprawozdaniu z wyniku finansowego i innych całkowitych 
+dochodów za okres 6 miesięcy zakończony 30 czerwca 2022 roku wynosi 7,3 mln PLN, natomiast koszt leasingu dla umów niskocennych wynosi 
+0,2 mln PLN (wysokość opłat leasingu krótkoterminowego za okres 6 miesięcy zakończony 30 czerwca 2021 roku wynosi 11,8 mln PLN, natomiast 
+koszt leasingu dla umów niskocennych wynosi 0,2 mln PLN). 
+7.3. UTRATA WARTOŚCI NIEFINANSOWYCH AKTYWÓW TRWAŁYCH 
+Z uwagi na zmienne otoczenie makroekonomiczne Grupa okresowo weryfikuje przesłanki mogące świadczyć o utracie wartości odzyskiwalnej 
+majątku poszczególnych spółek Grupy. Analiza utraty wartości aktywów trwałych dokonywana jest poprzez oszacowanie wartości odzyskiwalnej 
+ośrodków wypracowujących przepływy pieniężne („CGU”). Analiza taka opiera się na szeregu istotnych założeń, których część jest poza kontrolą 
+Grupy. Istotne zmiany tych założeń mają wpływ na wyniki testów na utratę wartości i w konsekwencji mogą doprowadzić do istotnych zmian sytuacji 
+finansowej oraz wyników finansowych Grupy. 
+Na dzień 30 czerwca 2022 roku Grupa, zgodnie z MSR 36 Utrata wartości aktywów, dokonała analizy przesłanek mogących świadczyć o utracie 
+wartości bilansowej składników aktywów w celu weryfikacji, czy mogła nastąpić dalsza utrata wartości aktywów, jak również przesłanek mogących 
+wskazywać na to, że odpis aktualizujący z tytułu utraty wartości, który był ujęty w okresach ubiegłych, przestał istnieć lub uległ zmniejszeniu. 
+W wyniku analizy oceniono, że nie występują nowe przesłanki, które wskazywałyby na możliwość utraty wartości aktywów, ani też nie stwierdzono, 
+aby ustały przesłanki zidentyfikowane w poprzednich okresach, w wyniku których utworzone zostały odpisy, stąd na 30 czerwca 2022 roku Grupa 
+nie przeprowadziła nowych testów na utratę wartości CGU. 
+W I półroczu 2022 roku ze względu na ujemną wartość NPV dla KWK Jastrzębie-Bzie w wysokości (1 285,1) mln PLN, a także zerową wartość 
+odzyskiwalną wynikającą z obliczeń przeprowadzonych do testu na dzień 31 grudnia 2021 roku, przy jednoczesnym wzroście aktywów trwałych 
+KWK Jastrzębie-Bzie odpowiednio: w I kwartale 2022 roku w wysokości 41,7 mln PLN oraz w II kwartale 2022 roku w wysokości 52,3 mln PLN, 
+dokonano kalkulacji majątku KWK Jastrzębie-Bzie, który po uwzględnieniu rezerw, zobowiązań długoterminowych i kapitału obrotowego na dzień 
+31 marca 2022 roku wyniósł 82,9 mln zł oraz na dzień 30 czerwca 2022 roku wyniósł 164,0 mln PLN. 
+Mając na uwadze: 
+a) 
+istniejącą wartość majątku KWK Jastrzębie-Bzie, KWK Borynia-Zofiówka Ruch Zofiówka, KWK Borynia-Zofiówka Ruch Borynia, 
+KWK Knurów-Szczygłowice, KWK Budryk oraz generowane przez nie przepływy pieniężne w okresie projekcji 2022-2026 przyjęte 
+ze Strategii JSW S.A. z uwzględnieniem spółek zależnych Grupy Kapitałowej JSW na lata 2022-2030 na potrzeby przeprowadzenia testu 
+na utratę wartości aktywów na dzień 31 grudnia 2021 roku, 
+b) 
+brak zidentyfikowania nowych przesłanek mogących wpływać na wartość posiadanych aktywów, a także brak stwierdzenia, aby ustały 
+przesłanki zidentyfikowane w poprzednich latach, w wyniku których utworzony został odpis dla majątku CGU, 
+JSW oceniła, iż zasadne jest dokonanie odpisu aktualizującego majątek KWK Jastrzębie-Bzie na kwotę 246,9 mln PLN w I półroczu 2022 roku 
+w segmencie Węgiel (z czego 82,9 mln PLN dotyczy I kwartału 2022 roku, a wartość 164,0 mln PLN dotyczy II kwartału 2022 roku) oraz 
+niedokonywanie na dzień 30 czerwca 2022 roku aktualizacji wcześniej zawiązanych odpisów aktualizujących majątek KWK Budryk, KWK KnurówSzczygłowice, KWK Borynia-Zofiówka Ruch Zofiówka oraz KWK Borynia-Zofiówka Ruch Borynia. 
+
+29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+W związku ze zdarzeniem, które miało miejsce w dniu 20 kwietnia 2022 roku w KWK Pniówek (szerzej w Nocie 2.5.) ze względu na oszacowanie 
+wartości odzyskiwalnej majątku, który znajdował się w rejonie katastrofy i którego utrata została uznana za wysoce prawdopodobną, na poziomie 
+niższym niż jego dotychczasowa wartość bilansowa, dokonano na dzień 30 czerwca 2022 roku odpisu aktualizującego z tytułu utraty wartości 
+w wysokości 21,0 mln PLN w segmencie Węgiel. 
+Grupa oceniła także, iż z uwagi na wartość poniesionych nakładów inwestycyjnych na rzeczowe aktywa trwałe na CGU Koksownia Jadwiga 
+w okresie I półrocza 2022 roku, zachodzi potrzeba dokonania odpisu aktualizującego wartość tych nakładów na dzień 30 czerwca 2022 roku 
+w wysokości 1,9 mln PLN w segmencie Koks. 
+Łączny odpis aktualizujący z tytułu utraty wartości w wysokości 269,8 mln PLN został ujęty w pozostałych kosztach w skonsolidowanym 
+sprawozdaniu z wyniku finansowego i innych całkowitych dochodów za okres 6 miesięcy zakończony 30 czerwca 2022 roku. 
+Zmiany stanu odpisów aktualizujących aktywa trwałe przedstawia poniższa tabela: 
+ 
+30.06.2022 
+31.12.2021 
+ 
+Rzeczowe 
+aktywa 
+trwałe 
+Wartości 
+niematerialne 
+Prawo do 
+użytkowania 
+składnika 
+aktywów 
+RAZEM 
+Rzeczowe 
+aktywa 
+trwałe 
+Wartości 
+niematerialne 
+Prawo do 
+użytkowania 
+składnika 
+aktywów 
+RAZEM 
+STAN NA POCZĄTEK OKRESU 
+4 097,2 
+9,0 
+63,1 
+4 169,3 
+4 019,6 
+7,3 
+52,0 
+4 078,9 
+Utworzenie odpisu 
+253,3 
+0,9 
+15,6 
+269,8 
+746,9 
+1,7 
+20,6 
+769,2 
+Przeklasyfikowanie odpisu z tytułu 
+utraty wartości prawa 
+do użytkowania składnika aktywów 
+na odpis z tytułu utraty wartości 
+rzeczowych aktywów trwałych 
+- 
+- 
+- 
+- 
+0,2 
+- 
+(0,2) 
+- 
+Wykorzystanie odpisu 
+(79,5) 
+- 
+(2,4) 
+(81,9) 
+(164,6) 
+- 
+(4,8) 
+(169,4) 
+Odwrócenie odpisu * 
+- 
+- 
+(0,1) 
+(0,1) 
+(341,1) 
+- 
+(4,5) 
+(345,6) 
+Przeklasyfikowanie odpisu z tytułu 
+utraty wartości aktywów na poczet 
+umorzenia ** 
+- 
+- 
+- 
+- 
+(163,1) 
+- 
+- 
+(163,1) 
+Inne zmniejszenia 
+- 
+- 
+- 
+- 
+(0,7) 
+- 
+- 
+(0,7) 
+STAN NA KONIEC OKRESU 
+4 271,0 
+9,9 
+76,2 
+4 357,1 
+4 097,2 
+9,0 
+63,1 
+4 169,3 
+* 
+W 2021 roku pozycja dotyczy odwrócenia odpisu w wyniku przeprowadzonych testów (kwota 335,5 mln PLN) oraz wynikającego z przeniesienia środka trwałego z kopalni objętej 
+odpisem do kopalni nieobjętej odpisem. 
+** 
+Pozycja dotyczy technicznego przeniesienia odpisu aktualizującego na poczet umorzenia bez wpływu na wynik finansowy. 
+7.4. INWESTYCJE W PORTFEL AKTYWÓW FIZ 
+W okresie 6 miesięcy zakończonym 30 czerwca 2022 roku Grupa posiadała inwestycje w portfel aktywów finansowych poprzez Fundusz, w którym 
+Jednostka dominująca posiada 100% wyemitowanych certyfikatów inwestycyjnych. 
+Wartość bilansowa inwestycji w portfel aktywów FIZ na dzień 30 czerwca 2022 roku wynosi 1 836,5 mln PLN, natomiast na dzień 31 grudnia 
+2021 roku wyniosła 767,5 mln PLN. 
+Z uwagi na istotną wartość zobowiązań Funduszu na dzień kończący okres sprawozdawczy, Grupa zaprezentowała zobowiązania Funduszu 
+w skonsolidowanym sprawozdaniu z sytuacji finansowej w odrębnej pozycji jako zobowiązania FIZ. Wysokość aktywów netto Funduszu stanowi 
+faktyczne zaangażowanie Jednostki dominującej w wyemitowane przez Fundusz certyfikaty inwestycyjne i na dzień 30 czerwca 2022 roku wyniosła 
+1 231,3 mln PLN (na dzień 31 grudnia 2021 roku: 507,7 mln PLN). 
+W okresie 6 miesięcy zakończonym 30 czerwca 2022 roku nie dokonywano umorzeń aktywów FIZ. 
+W dniu 4 maja 2022 roku Zarząd JSW podjął uchwałę w sprawie nabycia przez JSW certyfikatów inwestycyjnych serii D oraz kolejnych serii 
+emitowanych przez JSW Stabilizacyjny FIZ za łączną docelową kwotę nie przekraczającą 5,0 mld PLN. JSW uzyskała zgodę Rady Nadzorczej 
+w dniu 10 maja 2022 roku oraz Walnego Zgromadzenia w dniu 3 czerwca 2022 roku na nabycie powyższych certyfikatów FIZ. Powyższe działanie 
+nie jest równoznaczne z zasileniem Funduszu środkami pieniężnymi. Wartość zasilenia Funduszu w ramach ww. limitu dokapitalizowania 
+każdorazowo zależeć będzie od możliwości finansowych JSW i notowanych nadwyżek finansowych, co poprzedzone będzie odrębnymi decyzjami 
+Zarządu i Rady Nadzorczej oraz Zgromadzenia Inwestorów Funduszu. 
+
+30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+W I półroczu 2022 roku oraz po dniu kończącym okres sprawozdawczy, Grupa dokonała następujących inwestycji w portfel aktywów finansowych 
+poprzez JSW Stabilizacyjny FIZ: 
+ 
+W dniu 28 marca 2022 roku Rada Nadzorcza JSW podjęła uchwałę, którą pozytywnie zaopiniowała wniosek Zarządu i udzieliła zgody 
+na zasilenie FIZ w ramach subportfela inwestycyjnego, środkami finansowymi do kwoty 700,0 mln PLN. W kwietniu 2022 roku Grupa dokonała 
+inwestycji w portfel aktywów finansowych poprzez Fundusz o wartości 700,0 mln PLN. 
+ 
+W dniu 15 czerwca 2022 roku Rada Nadzorcza JSW podjęła uchwałę, która pozytywnie zaopiniowała wniosek Zarządu i udzieliła zgody 
+na zasilenie JSW Stabilizacyjnego FIZ w ramach subportfela płynnościowego, środkami finansowymi do kwoty 1,0 mld PLN. W lipcu 2022 roku 
+Grupa dokonała inwestycji w portfel aktywów finansowych poprzez Fundusz o wartości 1,0 mld PLN. 
+ 
+W dniu 20 lipca 2022 roku Rada Nadzorcza JSW podjęła uchwałę, która pozytywnie zaopiniowała wniosek Zarządu i udzieliła zgody 
+na zasilenie JSW Stabilizacyjnego FIZ w ramach subportfela płynnościowego, środkami finansowymi do kwoty 1,0 mld PLN. W sierpniu 
+2022 roku Grupa dokonała inwestycji w portfel aktywów finansowych poprzez Fundusz o wartości 1,0 mld PLN. 
+Środki ulokowane w portfel aktywów FIZ są istotnym elementem „Bufora Gotówki” tj. zobowiązania wynikającego z Umowy Finansowania zawartej 
+z Konsorcjum. Od 1 stycznia 2022 roku wymagalne saldo Bufora Gotówki wynosi 960,0 mln PLN. Na dzień 30 czerwca 2022 roku warunek dotyczący 
+utrzymywania Bufora Gotówki został spełniony. 
+Poniższa tabela prezentuje strukturę portfela aktywów netto Funduszu na dzień kończący okres sprawozdawczy. 
+ 
+30.06.2022 
+31.12.2021 
+AKTYWA FUNDUSZU 
+1 836,5 
+767,5 
+Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy 
+1 737,9 
+766,4 
+Listy zastawne (nienotowane na aktywnym rynku) 
+61,2 
+11,5 
+Dłużne papiery wartościowe* 
+1 592,5 
+710,8 
+Instrumenty pochodne (niewystandaryzowane instrumenty pochodne 
+– swap procentowy (IRS) w PLN) 
+84,2 
+44,1 
+Aktywa finansowe wyceniane według zamortyzowanego kosztu 
+98,6 
+1,1 
+Środki pieniężne i ich ekwiwalenty 
+98,2 
+1,0 
+Należności Funduszu 
+0,4 
+0,1 
+ZOBOWIĄZANIA FUNDUSZU 
+(605,2) 
+(259,8) 
+Zobowiązania 
+(605,2) 
+(259,8) 
+Zobowiązania z tytułu transakcji przy zobowiązaniu się Funduszu do odkupu (transakcje Sell Buy 
+Back) ** 
+(453,7) 
+(237,3) 
+Zobowiązania Funduszu z tytułu nabytych aktywów *** 
+(62,9) 
+(4,0) 
+Pozostałe zobowiązania Funduszu 
+(88,6) 
+(18,5) 
+AKTYWA NETTO FUNDUSZU 
+1 231,3 
+507,7 
+* 
+Pozycja obejmuje dłużne papiery wartościowe notowane i nienotowane na aktywnym rynku. W Skonsolidowanym sprawozdaniu finansowym Grupy Kapitałowej Jastrzębskiej Spółki 
+Węglowej S.A. za rok obrotowy zakończony 31 grudnia 2021 roku dłużne papiery wartościowe nienotowane na aktywnym rynku były prezentowane jako aktywa finansowe wyceniane 
+według zamortyzowanego kosztu. 
+** 
+Transakcje Sell-Buy-Back („SBB”) polegają na sprzedaży posiadanych papierów wartościowych z jednoczesnym ustaleniem ich odkupu w przyszłości na ustalonych przez strony 
+warunkach. Transakcja nie skutkuje usunięciem sprzedawanych aktywów ze skonsolidowanego sprawozdania z sytuacji finansowej, lecz ujęciem otrzymanych środków pieniężnych 
+jako zobowiązanie ze względu na fakt, iż znacząco wszystkie ryzyka i korzyści z instrumentów finansowych będących przedmiotem transakcji nie zostały przeniesione na kupującego. 
+Na dzień 30 czerwca 2022 roku zobowiązania z tytułu transakcji SBB wynoszą 453,7 mln PLN. Przedmiotowe transakcje zostały zawarte w portfelu JSW Stabilizacyjny FIZ pomiędzy 
+21 a 28 czerwca 2022 roku, z datą odkupu 1 – 5 lipca 2022 roku (na dzień 31 grudnia 2021 roku zobowiązania z tytułu transakcji SBB wyniosły 237,3 mln PLN. Przedmiotowe transakcje 
+zostały zawarte na portfelu JSW Stabilizacyjny FIZ w datach: 21 grudnia 2021 roku, 22 grudnia 2021 roku oraz 27 grudnia 2021 roku, z datą odkupu 4 stycznia 2022 roku i 5 stycznia 
+2022 roku). 
+*** Zobowiązania Funduszu z tytułu nabytych aktywów na dzień 30 czerwca 2022 roku dotyczą transakcji zawartych przez Fundusz w dniu 30 czerwca 2022 roku z datą realizacji ustaloną 
+na dzień 4 lipca 2022 roku (na dzień 31 grudnia 2021 roku dotyczą transakcji zawartej przez Fundusz w dniu 30 grudnia 2021 roku z datą realizacji ustaloną na dzień 4 stycznia 
+2022 roku). 
+
+31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+Ryzyko kredytowe 
+W przypadku aktywów finansowych wycenianych według zamortyzowanego kosztu (tj. depozytów oraz środków pieniężnych i ich ekwiwalentów) 
+Grupa klasyfikuje je do Stopnia 1 klasyfikacji pod kątem utraty ich wartości, ze względu na wysoką ocenę jakości kredytowej, a potencjalny odpis 
+jest nieistotny, stąd nie został ujęty. 
+Ryzyko kredytowe 
+30.06.2022 
+31.12.2021 
+ 
+ 
+ 
+Kwoty odzwierciedlające maksymalne narażenie na ryzyko kredytowe bez uwzględnienia 
+wartości godziwych dodatkowych zabezpieczeń: 
+1 836,5 
+767,5 
+- Środki na rachunkach bankowych 
+98,2 
+1,0 
+- Należności 
+0,4 
+0,1 
+- Składniki lokat notowane na aktywnym rynku (w tym: obligacje Skarbu Państwa) 
+1 439,3 
+560,6 
+- Składniki lokat nienotowane na aktywnym rynku 
+298,6 
+205,8 
+Tabela nie uwzględnia zobowiązań Funduszu i z tego względu nie uzgadnia się do tabeli prezentującej strukturę portfela aktywów netto Funduszu 
+na dzień kończący okres sprawozdawczy. 
+Za znaczącą koncentrację ryzyka kredytowego uznano poziom 10% udziału danego emitenta w aktywach Funduszu ogółem. 
+Ryzyko kredytowe 
+30.06.2022 
+31.12.2021 
+ 
+ 
+ 
+Przypadki znaczącej koncentracji ryzyka kredytowego w poszczególnych kategoriach inwestycji 
+w podziale na kategorie bilansowe: 
+1 454,3 
+610,0 
+BANK GOSPODARSTWA KRAJOWEGO 
+933,1 
+439,3 
+Obligacje notowane na aktywnym rynku 
+918,1 
+389,9 
+Obligacje nienotowane na aktywnym rynku 
+15,0 
+49,4 
+SKARB PAŃSTWA RZECZYPOSPOLITEJ POLSKIEJ 
+521,2 
+170,7 
+Obligacje notowane na aktywnym rynku 
+521,2 
+170,7 
+7.5. POZOSTAŁE DŁUGOTERMINOWE AKTYWA FINANSOWE 
+ 
+Nota 
+30.06.2022 
+31.12.2021 
+ 
+ 
+ 
+ 
+Długoterminowe aktywa finansowe - środki pieniężne i ich ekwiwalenty Funduszu Likwidacji 
+Zakładu Górniczego 
+9.1 
+385,3 
+362,4 
+wartość brutto 
+ 
+385,7 
+362,7 
+odpis aktualizujący 
+ 
+(0,4) 
+(0,3) 
+Udziały i akcje w jednostkach pozostałych 
+9.1 
+0,1 
+0,1 
+Pozostałe należności niefinansowe 
+ 
+27,9 
+28,1 
+RAZEM 
+ 
+413,3 
+390,6 
+Wszystkie długoterminowe aktywa finansowe wyrażone są w PLN. Wartość godziwa długoterminowych aktywów finansowych nie różni się istotnie 
+od ich wartości księgowej. 
+
+32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+7.6. ZAPASY 
+ 
+30.06.2022 
+31.12.2021 
+ 
+ 
+ 
+Materiały 
+351,7 
+169,0 
+Produkcja w toku 
+14,9 
+8,9 
+Wyroby gotowe 
+408,2 
+465,8 
+Towary 
+9,1 
+8,8 
+RAZEM 
+783,9 
+652,5 
+Zapas wyrobów gotowych na dzień 30 czerwca 2022 roku obejmuje m.in. zapas 479,5 tys. ton węgla wyprodukowanego w Grupie o wartości 
+245,7 mln PLN oraz zapas 228,1 tys. ton koksu wyprodukowanego w Grupie o wartości 142,2 mln PLN (na dzień 31 grudnia 2021 roku: 
+900,1 tys. ton węgla o wartości 318,1 mln PLN oraz 239,1 tys. ton koksu o wartości 132,3 mln PLN). 
+ODPISY AKTUALIZUJĄCE ZAPASY 
+Odpisy aktualizujące wartość zapasów przedstawia poniższa tabela: 
+ 
+ 
+2022 
+2021 
+ 
+ 
+ 
+ 
+STAN NA 1 STYCZNIA 
+ 
+78,6 
+225,1 
+Utworzenie odpisu 
+ 
+25,4 
+93,7 
+Wykorzystanie odpisu 
+ 
+(47,4) 
+(172,4) 
+Odwrócenie odpisu 
+ 
+(0,8) 
+(1,0) 
+STAN NA 30 CZERWCA 
+ 
+55,8 
+145,4 
+Utworzenie i odwrócenie kwot odpisu z tytułu utraty wartości zapasów zostało ujęte w wyniku finansowym bieżącego okresu sprawozdawczego. 
+Odpisy aktualizujące wartość zapasów ujęte w okresie 6 miesięcy zakończonym 30 czerwca 2022 roku dotyczą wyrobów gotowych oraz materiałów. 
+7.7. NALEŻNOŚCI HANDLOWE ORAZ POZOSTAŁE NALEŻNOŚCI 
+Nota 
+30.06.2022 
+31.12.2021 
+ 
+ 
+ 
+Należności handlowe brutto 
+9.1 
+2 440,3 
+1 654,6 
+- w tym należności z tytułu wyceny kontraktów długoterminowych 
+ 
+43,4 
+23,8 
+Odpis aktualizujący 
+9.1 
+(54,1) 
+(58,8) 
+Należności handlowe netto 
+ 
+2 386,2 
+1 595,8 
+Czynne rozliczenia międzyokresowe 
+ 
+110,6 
+21,3 
+Przedpłaty 
+ 
+7,1 
+11,8 
+Należności z tytułu podatków i ubezpieczeń społecznych 
+ 
+160,5 
+163,2 
+Pozostałe należności 
+ 
+49,1 
+30,7 
+RAZEM NALEŻNOŚCI HANDLOWE ORAZ POZOSTAŁE NALEŻNOŚCI 
+ 
+2 713,5 
+1 822,8 
+Wartość godziwa należności handlowych oraz pozostałych należności nie różni się istotnie od ich wartości księgowej. 
+
+33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+ODPISY AKTUALIZUJĄCE NALEŻNOŚCI HANDLOWE 
+Zmiany stanu odpisu aktualizującego należności handlowe przedstawia poniższa tabela: 
+ 
+ 
+2022 
+2021 
+STAN NA 1 STYCZNIA 
+ 
+58,8 
+73,2 
+Utworzenie odpisu 
+ 
+4,6 
+5,0 
+Wykorzystanie odpisu na należności nieściągalne 
+ 
+(5,5) 
+(0,5) 
+Odwrócenie kwot niewykorzystanych 
+ 
+(3,3) 
+(2,9) 
+Przesunięcie odpisu 
+ 
+(0,5) 
+(0,2) 
+STAN NA 30 CZERWCA 
+ 
+54,1 
+74,6 
+Zmiany wartości brutto nie wpłynęły w istotny sposób na wartość odpisów. 
+7.8. ŚRODKI PIENIĘŻNE I ICH EKWIWALENTY 
+ 
+Nota 
+30.06.2022 
+31.12.2021 
+Środki pieniężne w banku i w kasie 
+ 
+258,5 
+919,8 
+wartość brutto 
+ 
+258,5 
+919,8 
+Krótkoterminowe depozyty bankowe, w tym: 
+ 
+4 287,8 
+380,0 
+Lokaty bankowe 
+ 
+4 278,9 
+380,0 
+wartość brutto 
+ 
+4 279,7 
+380,0 
+odpis aktualizujący 
+ 
+(0,8) 
+- 
+Odsetki zarachowane od lokat 
+ 
+8,9 
+- 
+RAZEM ŚRODKI PIENIĘŻNE I ICH EKWIWALENTY 
+9.1 
+4 546,3 
+1 299,8 
+w tym: o ograniczonej możliwości dysponowania 
+ 
+91,9 
+137,6 
+Wartość środków pieniężnych o ograniczonej możliwości dysponowania na dzień 30 czerwca 2022 roku wynosi 91,9 mln PLN (31 grudnia 2021 roku: 
+137,6 mln PLN) i obejmuje głównie środki zgromadzone na rachunku VAT (w ramach split payment), wadia i zabezpieczenia należytego wykonania 
+umowy oraz środki otrzymane przez spółkę JZR na podstawie umowy z Ministrem Skarbu Państwa o udzielenie wsparcia niebędącego pomocą 
+publiczną z przeznaczeniem na realizację określonych inwestycji. Grupa w toku prowadzonej działalności na bieżąco reguluje płatności 
+z powyższych tytułów. 
+Składniki środków pieniężnych i ich ekwiwalentów w skonsolidowanym sprawozdaniu z przepływów pieniężnych i skonsolidowanym sprawozdaniu 
+z sytuacji finansowej są tożsame. 
+7.9. KAPITAŁ WŁASNY 
+7.9.1. 
+KAPITAŁ PODSTAWOWY 
+ 
+Liczba akcji 
+(w tys. sztuk) 
+Akcje zwykłe 
+wartość nominalna 
+Korekta 
+hiperinflacyjna 
+Razem 
+Stan na 31 grudnia 2021 roku 
+117 412 
+587,0 
+664,9 
+1 251,9 
+Stan na 30 czerwca 2022 roku 
+117 412 
+587,0 
+664,9 
+1 251,9 
+Na dzień 30 czerwca 2022 roku kapitał zakładowy JSW wynosił 587 057 980,00 PLN i dzielił się na 117 411 596 akcji zwykłych 
+nieuprzywilejowanych co do głosu, w pełni opłaconych, o wartości nominalnej 5,00 PLN każda. Wszystkie akcje były wyemitowane i zarejestrowane 
+na dzień kończący okres sprawozdawczy. Ogólna liczba głosów wynikająca z wszystkich wyemitowanych przez JSW akcji odpowiada 117 411 596 
+głosom na Walnym Zgromadzeniu JSW. 
+
+34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+7.9.2. 
+KAPITAŁ Z TYTUŁU WYCENY INSTRUMENTÓW FINANSOWYCH 
+Zmiana stanu kapitału z tytułu wyceny instrumentów finansowych: 
+ 
+30.06.2022 
+31.12.2021 
+ 
+ 
+ 
+STAN NA POCZĄTEK OKRESU 
+(17,4) 
+1,5 
+Zmiana wyceny instrumentów zabezpieczających 
+(46,3) 
+(26,4) 
+Zmiana wyceny instrumentów zabezpieczających odniesiona do wyniku finansowego okresu wynikająca 
+z realizacji pozycji zabezpieczanej 
+14,8 
+3,1 
+Podatek odroczony 
+6,0 
+4,4 
+STAN NA KONIEC OKRESU 
+(42,9) 
+(17,4) 
+7.9.3. 
+DYWIDENDY WYPŁACONE I ZAPROPONOWANE DO WYPŁATY 
+Wskaźnik dywidendy na akcję wylicza się jako iloraz dywidendy przypadającej na akcjonariuszy Jednostki dominującej oraz liczby akcji zwykłych 
+na dzień dywidendy. 
+ 
+Za okres 6 miesięcy 
+zakończony 30 czerwca 
+ 
+2022 
+2021 
+Dywidendy 
+- 
+- 
+Liczba akcji zwykłych na dzień dywidendy (szt.) 
+117 411 596 
+117 411 596 
+DYWIDENDA NA AKCJĘ (W PLN NA JEDNĄ AKCJĘ) 
+- 
+- 
+Podział zysku za rok 2021 
+Po dniu kończącym okres sprawozdawczy, tj. w dniu 1 lipca 2022 roku Zwyczajne Walne Zgromadzenie JSW podjęło decyzję w sprawie 
+przeznaczenia zysku netto JSW za rok obrotowy zakończony 31 grudnia 2021 roku w wysokości 329,9 mln PLN w całości na kapitał zapasowy 
+Jednostki dominującej. 
+7.10. ZOBOWIĄZANIA Z TYTUŁU ŚWIADCZEŃ PRACOWNICZYCH 
+ 
+30.06.2022 
+31.12.2021 
+ZOBOWIĄZANIA Z TYTUŁU ŚWIADCZEŃ PRACOWNICZYCH UJĘTE W SKONSOLIDOWANYM 
+SPRAWOZDANIU Z SYTUACJI FINANSOWEJ Z TYTUŁU: 
+ 
+ 
+– odpraw emerytalnych i rentowych 
+200,6 
+231,0 
+– nagród jubileuszowych 
+459,9 
+471,7 
+– rent wyrównawczych 
+74,7 
+102,5 
+– odpisów na ZFŚS dla emerytów i rencistów 
+10,1 
+14,1 
+– pozostałych świadczeń dla pracowników 
+175,8 
+126,0 
+RAZEM 
+921,1 
+945,3 
+w tym: 
+ 
+ 
+– część długoterminowa 
+666,1 
+743,4 
+– część krótkoterminowa 
+255,0 
+201,9 
+Na dzień 30 czerwca 2022 roku kwoty zobowiązań z tytułu świadczeń pracowniczych w zakresie odpraw emerytalnych i rentowych, nagród 
+jubileuszowych oraz rent wyrównawczych Jednostka dominująca oraz JSW KOKS ujęły w niniejszym śródrocznym skróconym skonsolidowanym 
+sprawozdaniu finansowym na podstawie wyceny aktuarialnej wyliczonej przez niezależną firmę doradztwa aktuarialnego, natomiast w pozostałych 
+
+35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+spółkach kwoty wyżej wymienionych zobowiązań ustalone zostały w oparciu o aktuarialnie wyliczone projekcje tych zobowiązań, dokonane 
+w grudniu 2021 roku. 
+Na dzień 31 grudnia 2021 roku kwoty zobowiązań z tytułu świadczeń pracowniczych w zakresie odpraw emerytalnych i rentowych, nagród 
+jubileuszowych oraz rent wyrównawczych Grupa ujęła w skonsolidowanym sprawozdaniu finansowym na podstawie wyceny aktuarialnej wyliczonej 
+przez niezależną firmę doradztwa aktuarialnego. 
+Główne założenia aktuarialne przyjęte na dni kończące okresy sprawozdawcze*: 
+ 
+30.06.2022 
+31.12.2021 
+ 
+ 
+ 
+Stopa dyskonta 
+7,29% 
+3,64% 
+Średni zakładany roczny wzrost podstaw kalkulacji rezerwy na odprawy emerytalno-rentowe, nagrody 
+jubileuszowe oraz renty wyrównawcze w 2022 roku** 
+- 
+10,00% 
+Średni zakładany roczny wzrost podstaw kalkulacji rezerwy na odprawy emerytalno-rentowe, nagrody 
+jubileuszowe oraz renty wyrównawcze ustalony jako średnia dla najbliższych 50 lat począwszy od 2023 roku 
+2,75% 
+2,50% 
+Średni współczynnik mobilności pracowniczej 
+2,90% 
+2,70% 
+* 
+W Grupie na dzień 30 czerwca 2022 roku zatrudnionych jest 30 032 pracowników, w tym 21 112 pracowników JSW tj. 70,3%, dlatego dominujący wpływ na wielkość zobowiązań z tytułu 
+świadczeń pracowniczych mają założenia aktuarialne przyjęte do wyceny w Jednostce dominującej (na dzień 31 grudnia 2021 roku w Grupie było zatrudnionych 31 916 pracowników, 
+w tym 23 119 pracowników JSW tj.72,4%). 
+** 
+Kalkulacja rezerwy według stanu na 31 grudnia 2021 roku uwzględnia założony na 2022 rok wzrost podstawy kalkulacji rezerwy na odprawy emerytalno-rentowe, nagrody jubileuszowe 
+oraz renty wyrównawcze w wysokości 10% wynikający z zawartego w dniu 28 stycznia 2022 roku porozumienia pomiędzy Zarządem JSW a Reprezentatywnymi Organizacjami 
+Związkowymi działającymi w Jednostce dominującej. Natomiast według stanu na 30 czerwca 2022 roku ww. wzrost wynagrodzeń o 10% jest ujęty bezpośrednio w podstawie kalkulacji 
+rezerw na odprawy emerytalno-rentowe, nagrody jubileuszowe oraz renty wyrównawcze (nie założono dodatkowego wzrostu wynagrodzeń). 
+7.11. REZERWY 
+ 
+Likwidacja 
+zakładu 
+górniczego 
+Szkody 
+ górnicze 
+Ochrona 
+środowiska 
+Pozostałe 
+rezerwy 
+Razem 
+STAN NA 1 STYCZNIA 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+długoterminowe 
+980,9 
+209,0 
+80,4 
+1,3 
+1 271,6 
+ 
+krótkoterminowe 
+12,8 
+111,1 
+31,8 
+85,5 
+241,2 
+RAZEM 
+993,7 
+320,1 
+112,2 
+86,8 
+1 512,8 
+Utworzenie dodatkowych rezerw 
+68,4 
+51,9 
+11,2 
+21,0 
+152,5 
+Utworzenie rezerw – koszt odsetkowy 
+- 
+- 
+- 
+0,4 
+0,4 
+Rozwiązanie niewykorzystanej rezerwy 
+- 
+(2,5) 
+- 
+(7,3) 
+(9,8) 
+Wykorzystanie rezerw 
+(0,5) 
+(35,7) 
+(3,8) 
+(5,3) 
+(45,3) 
+STAN NA 30 CZERWCA 2022 
+1 061,6 
+333,8 
+119,6 
+95,6 
+1 610,6 
+ 
+długoterminowe 
+1 053,0 
+228,5 
+86,8 
+1,5 
+1 369,8 
+ 
+krótkoterminowe 
+8,6 
+105,3 
+32,8 
+94,1 
+240,8 
+LIKWIDACJA ZAKŁADU GÓRNICZEGO 
+Jednostka dominująca tworzy rezerwę na przyszłe koszty związane z likwidacją zakładu górniczego w oparciu o obowiązki wynikające z istniejących 
+przepisów prawa. Wysokość kosztów likwidacji zakładu górniczego wyliczana jest na podstawie założeń odnośnie okresu żywotności zakładu 
+górniczego, przewidywanej inflacji, długoterminowych stóp dyskontowych oraz przewidywanych nominalnych kosztów likwidacji poszczególnych 
+zakładów górniczych, które są określane przez służby wewnętrzne. Wszelkie zmiany tych założeń wpływają na wartość księgową rezerwy. 
+Na dzień 30 czerwca 2022 roku Grupa dokonała aktualizacji wartości rezerwy na likwidację zakładu górniczego, poprzez oszacowanie przyszłych 
+kosztów likwidacji na podstawie określonych przez służby wewnętrzne, przewidywanych nominalnych kosztów likwidacji poszczególnych zakładów 
+górniczych. Koszty likwidacji są szacowane na podstawie publikowanych stawek Sekocenbud, które w 2022 roku wzrosły średnio o 3,5%. 
+
+36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+Inne istotne założenia odnośnie kalkulacji rezerwy na likwidację zakładu górniczego: 
+ 
+30.06.2022 
+31.12.2021 
+ 
+ 
+ 
+Stopa inflacji * 
+5,49% 
+2,83% 
+Nominalna stopa dyskonta ** 
+3,50% 
+2,71% 
+Zastosowana realna stopa dyskonta*** 
+0,00% 
+0,00% 
+* 
+Przyjęta stopa inflacji to średnia z 5 ostatnich lat przyjętej stopy inflacji do wyceny rezerwy. 
+** 
+Przyjęta nominalna stopa dyskonta to średnia z 5 ostatnich lat przyjętej stopy dyskonta do wyceny rezerwy. 
+*** 
+Realna stopa dyskonta na dzień 30 czerwca 2022 roku oraz 31 grudnia 2021 roku oraz średnia realna stopa dyskonta z ostatnich 5 lat przyjęły wartość ujemną, dlatego przeprowadzono 
+aktualizację rezerw na likwidację zakładu górniczego z zastosowaniem realnej stopy dyskonta wynoszącej 0,00%. 
+Zastosowanie powyższych założeń odnośnie kalkulacji rezerwy na dzień 30 czerwca 2022 roku spowodowało zwiększenie wartości rezerwy 
+w wyniku utworzenia dodatkowej rezerwy w wysokości 68,4 mln PLN, która została zgodnie z KIMSF 1 odniesiona na rzeczowe aktywa trwałe 
+(Nota 7.1). Wartość rezerwy na likwidację zakładu górniczego na dzień 30 czerwca 2022 roku wynosi 1 061,6 mln PLN. 
+SZKODY GÓRNICZE 
+Z uwagi na ustawowy obowiązek usunięcia szkód wyrządzonych ruchem zakładów górniczych należących do JSW, Grupa tworzy rezerwę na szkody 
+górnicze. Na dzień 30 czerwca 2022 roku Grupa dokonała aktualizacji wartości rezerwy na szkody górnicze, poprzez uwzględnienie stopy inflacji 
+na poziomie 9% w wyliczeniu wiarygodnego szacunku kosztów napraw obiektów, budowli i odszkodowań będących następstwem wpływu dokonanej 
+eksploatacji górniczej. Wartość prac niezbędnych w celu usunięcia szkód górniczych na dzień 30 czerwca 2022 roku wynosi 333,8 mln PLN. 
+OCHRONA ŚRODOWISKA 
+Na podstawie uzyskanych decyzji administracyjnych, aktualnych planów zagospodarowania przestrzennego oraz obowiązującej ustawy o ochronie 
+gruntów rolnych, na JSW ciąży prawny obowiązek rekultywacji składowisk po zaprzestaniu działalności przemysłowej. Na dzień 30 czerwca 
+2022 roku Jednostka dominująca posiada rezerwę na ochronę środowiska związaną z rekultywacją biologiczną terenów na łączną kwotę 
+90,9 mln PLN. 
+Koksownie Grupy tworzą rezerwę na koszty remediacji terenów zanieczyszczonych. Zgodnie z aktami prawnymi, regulującymi sprawy 
+zanieczyszczenia gleb, ziemi i wód podziemnych, władający powierzchnią ziemi, na której występuje zanieczyszczenie jest obowiązany 
+do przeprowadzenia remediacji. Na dzień 30 czerwca 2022 roku ujęta w księgach rezerwa z tego tytułu wynosi 23,5 mln PLN. 
+POZOSTAŁE REZERWY 
+Pozostałe rezerwy obejmują głównie: 
+ 
+rezerwę na postępowania sądowe od osób fizycznych w Jednostce dominującej w wysokości 28,0 mln PLN, 
+ 
+rezerwę na koszty likwidacji Koksowni Dębieńsko w wysokości 17,4 mln PLN, 
+ 
+rezerwę na podatek od nieruchomości w wysokości 6,2 mln PLN, 
+ 
+rezerwę na postępowanie sądowe wszczęte z powództwa Elektrometal przeciwko JSW o zapłatę należności, w wysokości 6,5 mln PLN, 
+ 
+rezerwę na zobowiązania z tytułu odszkodowań za bezumowne korzystanie z nieruchomości (grunty w byłej strefie ochronnej), na które jedna 
+ze spółek oddziałuje swoimi instalacjami. Okres odszkodowania zgodnie z przepisami kodeksu cywilnego wynosi 10 lat. W związku 
+z powyższym spółka ta ujmuje rezerwę na zobowiązania z tytułu odszkodowań. Na dzień 30 czerwca 2022 roku wartość rezerwy wynosi 
+1,8 mln PLN, 
+ 
+rezerwę na roszczenie Agencji Rozwoju Przemysłu S.A. oraz Towarzystwa Finansowego „Silesia” Sp. z o.o. wynikające z umowy sprzedaży 
+akcji Wałbrzyskich Zakładów Koksowniczych Victoria S.A. w związku z potencjalną korektą ceny sprzedaży w oparciu o wartość skumulowanej 
+EBITDA WZK Victoria za lata 2016-2019, w kwocie 1,8 mln PLN. 
+
+37 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+7.12. ZOBOWIĄZANIA HANDLOWE ORAZ POZOSTAŁE ZOBOWIĄZANIA 
+ 
+30.06.2022 
+31.12.2021 
+ZOBOWIĄZANIA FINANSOWE 
+ 
+ 
+ 
+Zobowiązania handlowe 
+ 
+1 103,1 
+964,4 
+Rozliczenia międzyokresowe bierne 
+ 
+20,5 
+14,3 
+Pozostałe zobowiązania o charakterze finansowym, w tym: 
+ 
+222,5 
+290,4 
+– zobowiązania inwestycyjne 
+ 
+164,8 
+232,0 
+– zobowiązania inne 
+ 
+57,7 
+58,4 
+RAZEM 
+ 
+1 346,1 
+1 269,1 
+ZOBOWIĄZANIA NIEFINANSOWE 
+ 
+ 
+ 
+Przychody przyszłych okresów 
+ 
+96,1 
+97,2 
+Pozostałe zobowiązania o charakterze niefinansowym, w tym: 
+ 
+1 634,6 
+1 080,0 
+– zobowiązania z tytułu ubezpieczeń społecznych i innych podatków 
+ 
+863,0* 
+640,2 
+– zaliczki z tytułu dostaw 
+ 
+20,5 
+22,3 
+– wynagrodzenia 
+ 
+660,5* 
+347,8 
+– pozostałe 
+ 
+90,6 
+69,7 
+RAZEM 
+ 
+1 730,7 
+1 177,2 
+RAZEM ZOBOWIĄZANIA HANDLOWE I POZOSTAŁE ZOBOWIĄZANIA 
+ 
+3 076,8 
+2 446,3 
+ 
+w tym: 
+ 
+ 
+ 
+ 
+długoterminowe 
+ 
+124,0 
+122,9 
+ 
+krótkoterminowe 
+ 
+2 952,8 
+2 323,4 
+* 
+W dniu 5 lipca 2022 roku, realizując zapisy pkt 3 Porozumienia z dnia 28 stycznia 2022 roku, zawarte zostało pomiędzy Zarządem JSW a Reprezentatywnymi Organizacjami 
+Związkowymi działającymi w JSW porozumienie w sprawie wypłaty nagrody jednorazowej. Nagroda została wypłacona w lipcu 2022 roku pracownikom JSW będącym w stanie 
+zatrudnienia w dniu 30 czerwca 2022 roku i spełniającym warunki jej uzyskania. Grupa ujęła na dzień 30 czerwca 2022 roku szacowane zobowiązanie z tytułu nagrody łącznie 
+ze składkami pracodawcy, w wysokości 478,9 mln PLN, z czego w pozycji „wynagrodzenia” 267,4 mln PLN, zaś w pozycji „zobowiązania z tytułu ubezpieczeń społecznych i innych 
+podatków” 211,5 mln PLN. 
+ 
+ 
+
+38 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+ 8. 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z PRZEPŁYWÓW PIENIĘŻNYCH 
+8.1. WPŁYWY PIENIĘŻNE Z DZIAŁALNOŚCI OPERACYJNEJ 
+ 
+Nota 
+Za okres 6 miesięcy 
+zakończony 30 czerwca 
+ 
+2022 
+2021 
+Zysk/(strata) przed opodatkowaniem 
+ 
+5 192,1 
+(396,5) 
+Amortyzacja 
+4.2 
+625,0 
+600,9 
+(Zysk)/strata na sprzedaży rzeczowych aktywów trwałych 
+4.6 
+(0,1) 
+8,0 
+Odsetki i udziały w zyskach 
+ 
+(15,2) 
+25,5 
+Zmiana stanu pochodnych instrumentów finansowych 
+ 
+24,6 
+(3,6) 
+Zmiana stanu zobowiązań z tytułu świadczeń pracowniczych 
+ 
+35,3 
+71,3 
+Zmiana stanu rezerw 
+ 
+29,4 
+(25,7) 
+Zmiana stanu zapasów 
+7.6 
+(131,4) 
+170,5 
+Zmiana stanu należności handlowych oraz pozostałych należności 
+ 
+(889,3) 
+(265,3) 
+Zmiana stanu zobowiązań handlowych oraz pozostałych zobowiązań 
+ 
+699,9 
+281,2 
+Odpis aktualizujący rzeczowe aktywa trwałe, wartości niematerialne i prawo do użytkowania 
+składnika aktywów 
+7.3 
+269,7 
+67,8 
+Transakcje związane z nieodpłatnym przekazaniem zakładu górniczego 
+OG „Jastrzębie III” do SRK 
+4.5 
+(62,8) 
+- 
+Pozostałe przepływy 
+ 
+(14,8) 
+(23,0) 
+WPŁYWY PIENIĘŻNE Z DZIAŁALNOŚCI OPERACYJNEJ 
+ 
+5 762,4 
+511,1 
+Uzgodnienie zmiany stanu pochodnych instrumentów finansowych w skonsolidowanym sprawozdaniu z przepływów pieniężnych: 
+ 
+ 
+Za okres 6 miesięcy 
+zakończony 30 czerwca 
+ 
+2022 
+2021 
+Zmiana stanu pochodnych instrumentów finansowych ze skonsolidowanego sprawozdania 
+z sytuacji finansowej 
+ 
+29,4 
+(9,4) 
+Zyski/(straty) z wyceny instrumentów zabezpieczających w innych całkowitych dochodach - 
+przeniesienie do wyniku finansowego w związku z realizacją pozycji zabezpieczanej 
+ 
+(4,8) 
+5,8 
+ZMIANA STANU POCHODNYCH INSTRUMENTÓW FINANSOWYCH 
+W SKONSOLIDOWANYM SPRAWOZDANIU Z PRZEPŁYWÓW PIENIĘŻNYCH 
+ 
+24,6 
+(3,6) 
+Uzgodnienie zmiany stanu zobowiązań z tytułu świadczeń pracowniczych w skonsolidowanym sprawozdaniu z przepływów pieniężnych: 
+ 
+Nota 
+Za okres 6 miesięcy 
+zakończony 30 czerwca 
+ 
+2022 
+2021 
+Zmiana stanu zobowiązań z tytułu świadczeń pracowniczych ze skonsolidowanego 
+sprawozdania z sytuacji finansowej 
+7.10 
+(24,2) 
+88,1 
+Zyski/(straty) aktuarialne ujęte w innych całkowitych dochodach 
+ 
+59,5 
+(16,8) 
+ZMIANA STANU ZOBOWIĄZAŃ Z TYTUŁU ŚWIADCZEŃ PRACOWNICZYCH 
+W SKONSOLIDOWANYM SPRAWOZDANIU Z PRZEPŁYWÓW PIENIĘŻNYCH 
+ 
+35,3 
+71,3 
+
+39 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+Uzgodnienie zmiany stanu rezerw w skonsolidowanym sprawozdaniu z przepływów pieniężnych: 
+ 
+Nota 
+Za okres 6 miesięcy 
+zakończony 30 czerwca 
+ 
+2022 
+2021 
+Zmiana stanu rezerw ze skonsolidowanego sprawozdania z sytuacji finansowej 
+7.11 
+97,8 
+(25,7) 
+Aktualizacja rezerwy na likwidację zakładu górniczego 
+7.1 
+(68,4) 
+- 
+ZMIANA STANU REZERW 
+W SKONSOLIDOWANYM SPRAWOZDANIU Z PRZEPŁYWÓW PIENIĘŻNYCH 
+ 
+29,4 
+(25,7) 
+Uzgodnienie zmiany stanu należności handlowych oraz pozostałych należności w skonsolidowanym sprawozdaniu z przepływów pieniężnych: 
+ 
+Nota 
+Za okres 6 miesięcy 
+zakończony 30 czerwca 
+ 
+2022 
+2021 
+Zmiana stanu należności handlowych oraz pozostałych należności ze skonsolidowanego 
+sprawozdania z sytuacji finansowej 
+7.7 
+(890,7) 
+(285,7) 
+Korekta o nieotrzymane należności z tytułu sprzedaży rzeczowych aktywów trwałych 
+i wartości niematerialnych 
+ 
+- 
+20,0 
+Pozostałe korekty 
+ 
+1,4 
+0,4 
+ZMIANA STANU NALEŻNOŚCI HANDLOWYCH ORAZ POZOSTAŁYCH NALEŻNOSCI 
+W SKONSOLIDOWANYM SPRAWOZDANIU Z PRZEPŁYWÓW PIENIĘŻNYCH 
+ 
+(889,3) 
+(265,3) 
+ 
+ 
+
+40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+ 9. 
+NOTY OBJAŚNIAJĄCE DO INSTRUMENTÓW FINANSOWYCH 
+9.1. KATEGORIE I KLASY INSTRUMENTÓW FINANSOWYCH 
+AKTYWA FINANSOWE 
+Klasy instrumentów finansowych 
+Nota 
+Kategorie instrumentów finansowych 
+Razem 
+Zamortyzowany 
+koszt 
+Wartość godziwa 
+rozliczana przez wynik 
+finansowy 
+Instrumenty 
+zabezpieczające 
+NA DZIEŃ 30 CZERWCA 2022 
+ 
+ 
+ 
+ 
+ 
+Należności FIZ 
+7.4 
+0,4 
+- 
+- 
+0,4 
+wartość brutto 
+ 
+0,4 
+- 
+- 
+0,4 
+Listy zastawne 
+7.4 
+- 
+61,2 
+- 
+61,2 
+Dłużne papiery wartościowe 
+7.4 
+- 
+1 592,5 
+- 
+1 592,5 
+Instrumenty pochodne (niewystandaryzowane 
+instrumenty pochodne – swap procentowy (IRS) w PLN) 
+7.4 
+- 
+84,2 
+- 
+84,2 
+Środki pieniężne i ich ekwiwalenty FIZ 
+7.4 
+98,2 
+- 
+- 
+98,2 
+wartość brutto 
+ 
+98,2 
+- 
+- 
+98,2 
+Udziały w innych jednostkach 
+7.5 
+- 
+0,1 
+- 
+0,1 
+Należności handlowe 
+7.7 
+2 386,2 
+- 
+- 
+2 386,2 
+wartość brutto 
+ 
+2 440,3 
+- 
+- 
+2 440,3 
+odpisy aktualizujące 
+ 
+(54,1) 
+- 
+- 
+(54,1) 
+Pochodne instrumenty finansowe 
+ 
+- 
+2,8 
+2,3 
+5,1 
+Środki pieniężne i ich ekwiwalenty * 
+7.5, 7.8 
+4 931,6 
+- 
+- 
+4 931,6 
+wartość brutto 
+ 
+4 932,8 
+- 
+- 
+4 932,8 
+odpisy aktualizujące 
+ 
+(1,2) 
+- 
+- 
+(1,2) 
+RAZEM 
+ 
+7 416,4 
+1 740,8 
+2,3 
+9 159,5 
+* 
+Pozycja obejmuje również środki zgromadzone w celu finansowania likwidacji zakładu górniczego, które zostały zaprezentowane w Nocie 7.5. 
+Żaden z istotnych nieprzeterminowanych składników aktywów finansowych nie był renegocjowany w ciągu ostatniego roku. 
+Klasy instrumentów finansowych 
+Nota 
+Kategorie instrumentów finansowych 
+Razem 
+Zamortyzowany 
+koszt 
+Wartość godziwa 
+rozliczana przez wynik 
+finansowy 
+Instrumenty 
+zabezpieczające 
+NA DZIEŃ 31 GRUDNIA 2021 
+ 
+ 
+ 
+ 
+ 
+Należności FIZ 
+7.4 
+0,1 
+- 
+- 
+0,1 
+wartość brutto 
+ 
+0,1 
+- 
+- 
+0,1 
+Listy zastawne 
+7.4 
+- 
+11,5 
+- 
+11,5 
+Dłużne papiery wartościowe* 
+7.4 
+- 
+710,8 
+- 
+710,8 
+Instrumenty pochodne (niewystandaryzowane 
+instrumenty pochodne – swap procentowy (IRS) w PLN) 
+7.4 
+- 
+44,1 
+- 
+44,1 
+Środki pieniężne i ich ekwiwalenty FIZ 
+7.4 
+1,0 
+- 
+- 
+1,0 
+wartość brutto 
+ 
+1,0 
+- 
+- 
+1,0 
+Udziały w innych jednostkach 
+ 
+- 
+0,1 
+- 
+0,1 
+Należności handlowe 
+7.7 
+1 595,8 
+- 
+- 
+1 595,8 
+wartość brutto 
+ 
+1 654,6 
+- 
+- 
+1 654,6 
+odpisy aktualizujące 
+ 
+(58,8) 
+- 
+- 
+(58,8) 
+Pochodne instrumenty finansowe 
+ 
+- 
+9,9 
+0,8 
+10,7 
+
+41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+Klasy instrumentów finansowych 
+Nota 
+Kategorie instrumentów finansowych 
+Razem 
+Zamortyzowany 
+koszt 
+Wartość godziwa 
+rozliczana przez wynik 
+finansowy 
+Instrumenty 
+zabezpieczające 
+Lokaty bankowe 
+9,6 
+- 
+- 
+9,6 
+wartość brutto 
+ 
+9,6 
+- 
+- 
+9,6 
+Środki pieniężne i ich ekwiwalenty ** 
+7.5, 7.8 
+1 662,2 
+- 
+- 
+1 662,2 
+wartość brutto 
+ 
+1 662,5 
+- 
+- 
+1 662,5 
+odpisy aktualizujące 
+ 
+(0,3) 
+- 
+- 
+(0,3) 
+RAZEM 
+3 268,7 
+776,4 
+0,8 
+4 045,9 
+* 
+Pozycja obejmuje dłużne papiery wartościowe notowane i nienotowane na aktywnym rynku. W Skonsolidowanym sprawozdaniu finansowym Grupy Kapitałowej Jastrzębskiej Spółki 
+Węglowej S.A. za rok obrotowy zakończony 31 grudnia 2021 roku dłużne papiery wartościowe nienotowane na aktywnym rynku były prezentowane jako aktywa finansowe wyceniane 
+według zamortyzowanego kosztu. 
+** 
+Pozycja obejmuje również środki zgromadzone w celu finansowania likwidacji zakładu górniczego, które zostały zaprezentowane w Nocie 7.5. 
+ZOBOWIĄZANIA FINANSOWE 
+Klasy instrumentów finansowych 
+Nota 
+Kategorie instrumentów finansowych 
+Razem 
+Zamortyzowany 
+koszt 
+Wartość godziwa 
+rozliczana przez 
+wynik finansowy 
+Instrumenty 
+zabezpieczające 
+Poza zakresem 
+MSSF 9 
+NA DZIEŃ 30 CZERWCA 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+Kredyty i pożyczki 
+6.1 
+1 007,6 
+- 
+253,7 
+- 
+1 261,3 
+Pochodne instrumenty finansowe 
+ 
+- 
+65,0 
+16,1 
+- 
+81,1 
+Zobowiązania z tytułu transakcji przy 
+zobowiązaniu się FIZ do odkupu (transakcje 
+Sell Buy Back) 
+7.4 
+453,7 
+- 
+- 
+- 
+453,7 
+Zobowiązania FIZ z tytułu nabytych aktywów 
+7.4 
+62,9 
+- 
+- 
+- 
+62,9 
+Pozostałe zobowiązania FIZ 
+7.4 
+88,6 
+- 
+- 
+- 
+88,6 
+Zobowiązania z tytułu leasingu 
+6.2 
+- 
+- 
+- 
+530,1 
+530,1 
+Zobowiązania handlowe oraz pozostałe 
+zobowiązania o charakterze finansowym 
+7.12 
+1 346,1 
+- 
+- 
+- 
+1 346,1 
+RAZEM 
+ 
+2 958,9 
+65,0 
+269,8 
+530,1 
+3 823,8 
+ 
+ 
+Klasy instrumentów finansowych 
+Nota 
+Kategorie instrumentów finansowych 
+Razem 
+Zamortyzowany 
+koszt 
+Wartość godziwa 
+rozliczana przez 
+wynik finansowy 
+Instrumenty 
+zabezpieczające 
+Poza zakresem 
+MSSF 9 
+NA DZIEŃ 31 GRUDNIA 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+Kredyty i pożyczki 
+6.1 
+1 557,9 
+- 
+258,3 
+- 
+1 816,2 
+Pochodne instrumenty finansowe 
+ 
+- 
+50,5 
+6,8 
+- 
+57,3 
+Zobowiązania z tytułu transakcji przy 
+zobowiązaniu się FIZ do odkupu (transakcje 
+Sell Buy Back) 
+7.4 
+237,3 
+- 
+- 
+- 
+237,3 
+Zobowiązania FIZ z tytułu nabytych aktywów 
+7.4 
+4,0 
+- 
+- 
+- 
+4,0 
+Pozostałe zobowiązania FIZ 
+7.4 
+18,5 
+- 
+- 
+- 
+18,5 
+Zobowiązania z tytułu leasingu 
+6.2 
+- 
+- 
+- 
+538,8 
+538,8 
+Zobowiązania handlowe oraz pozostałe 
+zobowiązania o charakterze finansowym 
+7.12 
+1 269,1 
+- 
+- 
+- 
+1 269,1 
+RAZEM 
+ 
+3 086,8 
+50,5 
+265,1 
+538,8 
+3 941,2 
+Na dzień 30 czerwca 2022 roku oraz na dzień 31 grudnia 2021 roku wartość godziwa aktywów i zobowiązań finansowych wycenianych według 
+zamortyzowanego kosztu nie odbiega istotnie od ich wartości księgowej. 
+
+42 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+9.2. HIERARCHIA WARTOŚCI GODZIWEJ 
+W okresie 6 miesięcy zakończonym 30 czerwca 2022 roku Grupa nie dokonywała zmian w sposobie (metodzie) ustalania wartości godziwej 
+instrumentów finansowych wycenianych w wartości godziwej. 
+Przeniesienia aktywów pomiędzy Poziomem 1 i Poziomem 2 hierarchii wartości godziwej dokonuje się w przypadku utraty lub uzyskania dostępności 
+notowań obserwowanych na aktywnym rynku. 
+W okresie 6 miesięcy zakończonym 30 czerwca 2022 dokonano następujących przeniesień aktywów pomiędzy poziomami hierarchii wartości 
+godziwej: 
+ 
+z Poziomu 1 do Poziomu 2 przeniesiono dłużne papiery wartościowe (obligacje) o wartości 45,3 mln PLN, dla których zaprzestano wyceny 
+na podstawie cen z rynku ze względu na spadek jego aktywności i dokonano wyceny przy wykorzystaniu wiarygodnej ceny rynkowej z rynku 
+nieaktywnego dla danego aktywa lub porównywalnych aktywów, 
+ 
+z Poziomu 2 do Poziomu 1 przeniesiono dłużne papiery wartościowe (obligacje) o wartości 102,2 mln PLN, które wyceniono na podstawie cen 
+z aktywnego rynku. 
+Na dzień kończący okres sprawozdawczy Grupa posiadała aktywa i zobowiązania finansowe, które są wyceniane w wartości godziwej. Pozycje 
+te obejmują pochodne instrumenty finansowe w postaci transakcji Fx Forward, których data zapadalności przypada po dniu kończącym okres 
+sprawozdawczy, pochodne instrumenty finansowe – swap procentowy IRS, inwestycje w portfel aktywów FIZ (dłużne papiery wartościowe, listy 
+zastawne) oraz udziały i akcje w pozostałych jednostkach. Pod względem założeń przyjętych do wyceny kwalifikują się one 
+do Poziomu 1 i 2 hierarchii wartości godziwej. 
+Istotne aktywa i zobowiązania finansowe Grupy wyceniane według wartości godziwej: 
+30.06.2022 
+31.12.2021 
+Poziom 1 
+Poziom 2 
+Poziom 1 
+Poziom 2 
+ 
+ 
+ 
+ 
+AKTYWA FINANSOWE: 
+ 
+ 
+ 
+ 
+Inwestycje w portfel aktywów FIZ, w tym: 
+ 
+ 
+ 
+ 
+dłużne papiery wartościowe * 
+1 439,2 
+153,3 
+560,6 
+150,2 
+listy zastawne 
+- 
+61,2 
+- 
+11,5 
+instrumenty pochodne - swap procentowy (IRS) 
+- 
+84,2 
+- 
+44,1 
+Pochodne instrumenty finansowe, w tym: 
+- 
+5,1 
+- 
+10,7 
+aktywa finansowe – pochodne instrumenty 
+zabezpieczające walutowe 
+- 
+2,3 
+- 
+0,8 
+ZOBOWIĄZANIA FINANSOWE 
+ 
+ 
+ 
+ 
+Pochodne instrumenty finansowe, w tym: 
+- 
+81,1 
+- 
+57,3 
+zobowiązania finansowe – pochodne instrumenty 
+zabezpieczające walutowe 
+- 
+16,1 
+- 
+6,8 
+* 
+Pozycja obejmuje dłużne papiery wartościowe notowane i nienotowane na aktywnym rynku. W Skonsolidowanym sprawozdaniu finansowym Grupy Kapitałowej Jastrzębskiej Spółki 
+Węglowej S.A. za rok obrotowy zakończony 31 grudnia 2021 roku dłużne papiery wartościowe nienotowane na aktywnym rynku były prezentowane jako aktywa finansowe wyceniane 
+według zamortyzowanego kosztu. 
+9.3. ZARZĄDZANIE RYZYKIEM FINANSOWYM 
+9.3.1. 
+CZYNNIKI RYZYKA FINANSOWEGO 
+Działalność prowadzona przez Grupę naraża ją na następujące ryzyka finansowe: ryzyko rynkowe (w tym: ryzyko cenowe, ryzyko zmiany 
+kursów walut oraz ryzyko zmiany przepływów pieniężnych w wyniku zmian stóp procentowych), ryzyko kredytowe oraz ryzyko utraty 
+płynności. 
+(a) 
+RYZYKO CENOWE 
+Ryzyko cen produktów 
+Sytuacja na rynku węgla koksowego i koksu jest powiązana z rynkiem stali i wyrobów hutniczych, cykle koniunkturalne pokazują wahania cen w tych 
+sektorach. Ceny węgla koksowego są mocno uzależnione od popytu na globalnym rynku hutniczo-stalowym, natomiast ceny węgla do celów 
+
+43 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+energetycznych są dodatkowo uzależnione również od innych producentów krajowych. Brak jednolitych kwartalnych benchmarków dla węgla 
+koksowego, oparcie negocjacji cenowych z kontrahentami na cenach referencyjnych wyznaczanych w oparciu o dzienne notowania indeksów 
+cenowych, duża zmienność rynku wynikająca z silnej koncentracji głównych światowych producentów węgla koksowego oraz znaczącej koncentracji 
+odbiorców, a także aktualnie prowadzone działania wojenne mogą prowadzić do znacznych wahań okresowych cen węgla koksowego uzyskiwanych 
+przez JSW. 
+JSW ograniczając ryzyko wahań notowań dziennych indeksów, najczęściej wyznacza ceny referencyjne do negocjacji z odbiorcami w oparciu 
+o notowania węgla koksowego klasy premium hard HCC FOB Australia uśredniane według dwóch metod: 
+ 
+z wykorzystaniem ceny referencyjnej określanej według metody Nippon Steel. Nippon Steel – referencyjna cena kwartalna: średnia z dwóch 
+pierwszych miesięcy danego kwartału i ostatniego miesiąca kwartału poprzedzającego dla dwóch indeksów: S&P Global Platts Premium Low 
+Vol FOB Australia oraz TSI Premium Hard FOB Australia, 
+ 
+metoda wyznaczania cen (Q-1) – referencyjne ceny kwartalne wyliczane na podstawie średniej notowań z poprzedniego kwartału The Steel 
+Index (TSI) – cena referencyjna węgla koksowego klasy premium hard HCC wykorzystywana przy ustalaniu kontraktów terminowych. 
+Na średnią cenę węgla koksowego w danym kwartale wpływają notowania z pięciu miesięcy (poprzedniego kwartału i dwóch pierwszych miesięcy 
+kwartału bieżącego), co uśrednia gwałtowne wahania i wpływa na większą stabilizację cen JSW. 
+Ceny koksu negocjowane są w oparciu o bieżące uwarunkowania rynkowe. Obecność Grupy na rynkach europejskich i zamorskich pozwala 
+na pełniejsze rozpoznanie rynku, efektywne zarządzanie sprzedażą i polityką cenową w zależności od uwarunkowań na tych rynkach. 
+Procesy zmian właścicielskich w hutnictwie światowym, postępująca konsolidacja przemysłu stalowego, mogą wpływać na wzrost siły przetargowej 
+odbiorców. Grupa stale monitoruje poziom ekspozycji przychodów od największych kontrahentów oraz poszukuje możliwości dywersyfikacji 
+sprzedaży. 
+W przypadku zmian cen na rynku oraz dla zapewnienia stabilnej alokacji wolumenów na rynku, Grupa minimalizuje ich wpływ na sytuację finansową 
+podejmując takie działania jak: 
+ 
+optymalizacja wolumenu produkcji, z uwzględnieniem wymagań ilościowych i jakościowych kontrahentów (stabilność parametrów oraz 
+ich dotrzymywanie wpływa na stabilizację przychodów Grupy oraz możliwość uzyskiwania wyższych relacji cen węgli JSW w stosunku do cen 
+referencyjnych), 
+ 
+optymalizacja struktury produkcji, celem zwiększenia efektywności sprzedaży produktów (zwiększenie produkcji produktów o korzystniejszej 
+cenie i znajdujących zbyt w danym okresie – optymalizacja struktury sprzedaży), 
+ 
+optymalizacja kierunków sprzedaży produktów (m.in. wykorzystanie renty geograficznej, współpraca w oparciu o umowy wieloletnie, 
+co przekłada się na stabilizację przychodów). 
+Dekoniunktura w gospodarkach globalnych, w szczególności w branży stalowej i energetycznej lub zdarzenia mogące skutkować znaczącym 
+spadkiem popytu na węgiel i koks mogą mieć niekorzystny wpływ na działalność, wyniki i sytuację finansową Grupy. 
+Ograniczenie działalności gospodarczej może przejściowo prowadzić do ograniczenia zapotrzebowania i znacznych spadków cen surowców, w tym 
+węgla koksowego, energetycznego i koksu. Ryzyko rynkowe jest wzmacniane przez konflikt w Ukrainie (embargo na import surowców z Rosji może 
+wpływać na rynki globalne, ceny energii w UE, koszty produkcji stali w UE, itp.) oraz niepewność dalszego rozwoju pandemii COVID-19. 
+Aby zareagować na zmianę cen w odpowiednim momencie Grupa prowadzi stały monitoring rynków, ich analizę oraz śledzi na bieżąco trendy 
+cenowe na rynku węgla, koksu, stali i energii elektrycznej oraz frachtów kolejowych i morskich. Prowadzona jest również analiza możliwości 
+i warunków alternatywnego pozyskania przez odbiorców węgla lub koksu z rynku krajowego lub z rynków zagranicznych, w tym głównie zamorskich. 
+Warunki kontraktów długoterminowych umożliwiają okresowe negocjacje cen. Realizując cele zarządzania ryzykiem Grupa działa w ramach zasad 
+opisanych w Procedurze Handlowej Grupy Kapitałowej JSW oraz w ramach decyzji podejmowanych przez Komitet Ryzyka Finansowego Grupy 
+Kapitałowej JSW. 
+Nadrzędnym celem przyjętych w JSW zasad zarządzania ryzykiem cen węgla koksowego jest zmniejszenie wpływu fluktuacji cen węgla koksowego 
+na generowane przez Grupę przepływy pieniężne do akceptowalnego poziomu. Grupa zakłada, że wskutek stosowania zasad zarządzania ryzykiem 
+cen węgla koksowego opisanych w Polityce Zarządzania Ryzykiem Cen Węgla Koksowego zwiększane będzie prawdopodobieństwo realizacji 
+zaplanowanych przepływów pieniężnych oraz stabilność ich planowanego wzrostu w dłuższym okresie. 
+Proces zarządzania ryzykiem cen węgla koksowego realizowany jest z zachowaniem rozdziału ról i obowiązków dotyczących funkcji wykonawczych 
+(powiązanych z zawieraniem transakcji pochodnych) od funkcji kontrolnych, nadzorczych czy zarządczych. Według stanu na dzień 30 czerwca 
+2022 roku Grupa posiadała czynne transakcje zabezpieczające ryzyko zmiany cen węgla koksowego o łącznym nominale 77 tys. ton, których 
+wartość godziwa wyniosła (34,5) mln PLN (na dzień 31 grudnia 2021 roku 179 tys. ton o wartości godziwej (39,7) mln PLN). 
+Notowania węgli HCC w okresie od stycznia 2022 roku do maja 2022 roku (okres wykorzystywany do wyznaczania cen referencyjnych w kontraktach 
+JSW) wahały się w przedziale od 358 USD/t do 670 USD/t (rekordowy poziom osiągnięty w połowie marca 2022 roku). Na początku kwietnia 
+
+44 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+2022 roku nastąpił spadek notowań węgli HCC poniżej 400 USD/t, w maju 2022 roku ceny oscylowały w granicach 442-530 USD/t. Średnia notowań 
+za okres od stycznia 2022 roku do maja 2022 roku wyniosła 487,40 USD/t tj. 25% więcej niż w poprzednim okresie referencyjnym od października 
+2021 roku do lutego 2022 roku. 
+Ceny koksu ustalane są na okresy kwartalne w oparciu o bieżące uwarunkowania rynkowe. W marcu 2022 roku, gdy ustalane były ceny koksu 
+na II kwartał 2022 roku notowania koksu chińskiego wskazywały znaczne wahania z trendem wzrostowym, ceny rosły z 485 USD/t (min. notowanie 
+w lutym 2022 roku) do 680 USD/t (max. notowanie w marcu 2022 roku). Notowania na rynku europejskim utrzymywały się w tym okresie na poziomie 
+605 USD/t (styczeń, luty 2022 roku) i 700 USD/t (zanotowano w marcu 2022 roku). 
+Powyższe uwarunkowania rynkowe miały przełożenie w zrealizowanych cenach przez JSW. Uzyskana średnia cena węgla ogółem w okresie 
+6 miesięcy zakończonym do 30 czerwca 2022 roku wynosiła 1 140,94 PLN/t i była wyższa od osiągniętej w analogicznym okresie ubiegłego roku 
+o 217,6%. Średnia cena węgla koksowego w tym okresie wynosiła 1 636,75 PLN/t (wzrost w stosunku do analogicznego okresu roku ubiegłego 
+o 292,6%), a średnia cena węgla do celów energetycznych osiągnęła poziom 305,20 PLN/t (wzrost do analogicznego okresu roku ubiegłego 
+o 37,6%). Natomiast średnia cena koksu sprzedanego w okresie 6 miesięcy zakończonym 30 czerwca 2022 roku wynosiła 2 300,64 PLN/t i wzrosła 
+o 127,8% w stosunku do tego samego okresu roku ubiegłego. 
+(b) 
+RYZYKO ZMIANY KURSÓW WALUT 
+Grupa jest narażona na znaczące ryzyko zmiany kursów walut wynikające z ekspozycji walutowej, co może wpłynąć na wysokość przyszłych 
+przepływów pieniężnych oraz wynik finansowy. Głównym źródłem ryzyka walutowego w Grupie jest sprzedaż produktów: 
+ 
+denominowana w EUR i USD, 
+ 
+indeksowana do EUR i USD. 
+Mając na celu eliminowanie ryzyka kursowego Grupa w okresie 6 miesięcy zakończonym 30 czerwca 2022 roku zawierała transakcje Fx Forward 
+(zewnętrzne), zgodnie z przyjętymi przez Zarząd JSW i Komitet Ryzyka Finansowego współczynnikami zabezpieczeń. Okres zapadalności 
+zawartych transakcji nie przekraczał 18 miesięcy. 
+W ramach zarządzania ryzykiem walutowym Grupa stosuje również hedging naturalny tj. zaciąga kredyty oraz w niewielkim stopniu dokonuje 
+zakupów materiałów, usług lub dóbr inwestycyjnych w walutach obcych, w których osiąga przychody. 
+Grupa stosuje rachunkowość zabezpieczeń przepływów pieniężnych. Co do zasady, do rachunkowości zabezpieczeń wyznaczane są transakcje 
+pochodne zabezpieczające ekspozycję denominowaną i indeksowaną, których termin zapadalności jest dłuższy niż 6 miesięcy. W momencie 
+ustanowienia zabezpieczenia Grupa formalnie wyznacza i dokumentuje powiązanie zabezpieczające. Skuteczność stosowanych przez Grupę 
+zabezpieczających instrumentów finansowych jest na bieżąco monitorowana i podlega ciągłej ocenie. 
+W I półroczu 2022 roku Grupa wyznaczyła do rachunkowości zabezpieczeń transakcje Fx Forward o nominale 67,0 mln EUR i 102,0 mln USD. 
+Według stanu na 30 czerwca 2022 roku Grupa posiadała czynne transakcje pochodne Fx Forward o łącznym nominale 259,0 mln EUR 
+i 223,0 mln USD, z czego 67,0 mln EUR i 107,0 mln USD stanowią transakcje zabezpieczające w rozumieniu rachunkowości zabezpieczeń (na dzień 
+31 grudnia 2021 roku: 111,5 mln EUR i 116,0 mln USD z czego transakcje zabezpieczające to 24,0 mln EUR i 48,0 mln USD). Transakcje pochodne 
+stanowią zabezpieczenie wpływów ze sprzedaży produktów i towarów, które Grupa spodziewa się otrzymać w okresie do sierpnia 2023 roku. 
+Część skuteczna zmiany wartości godziwej transakcji zabezpieczających w kwocie (46,3) mln PLN została odniesiona w inne całkowite dochody. 
+Część nieskuteczna zmiany wartości godziwej transakcji zabezpieczających oraz zmiana wartości godziwej instrumentów pochodnych 
+niewyznaczonych do rachunkowości zabezpieczeń w wysokości (60,3) mln PLN została odniesiona w wynik finansowy okresu. W wyniku realizacji 
+pozycji zabezpieczanej w I półroczu 2022 roku w wynik finansowy została odniesiona kwota (14,8) mln PLN ujęta w przychodach ze sprzedaży – 
+Nota 4.1. (w 2021 roku część skuteczna wyniosła (26,4) mln PLN, część nieskuteczna (40,9) mln PLN, realizacja pozycji zabezpieczanej 
+(3,1) mln PLN). 
+Analiza wrażliwości na zmiany kursów walutowych: 
+ 
+ 
+Kurs EUR/PLN 
+Kurs USD/PLN 
+30.06.2022 
+31.12.2021 
+30.06.2022 
+31.12.2021 
+wynik netto 
+inne 
+całkowite 
+dochody 
+wynik netto 
+inne 
+całkowite 
+dochody 
+wynik netto 
+inne 
+całkowite 
+dochody 
+wynik netto 
+inne 
+całkowite 
+dochody 
+zmiana % 
+7,6% 
+6,1% 
+12,9% 
+9,2% 
+ 
+ 
+ 
+ 
+ 
+Zmiana wartości aktywów finansowych 
+68,5 
+- 
+31,3 
+- 
+28,3 
+- 
+12,0 
+- 
+Zmiana wartości zobowiązań finansowych 
+(70,3) 
+(23,8) 
+(25,1) 
+(6,7) 
+(71,5) 
+(94,6) 
+(29,2) 
+(41,9) 
+
+45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+ 
+ 
+Kurs EUR/PLN 
+Kurs USD/PLN 
+30.06.2022 
+31.12.2021 
+30.06.2022 
+31.12.2021 
+wynik netto 
+inne 
+całkowite 
+dochody 
+wynik netto 
+inne 
+całkowite 
+dochody 
+wynik netto 
+inne 
+całkowite 
+dochody 
+wynik netto 
+inne 
+całkowite 
+dochody 
+Wpływ na wynik przed opodatkowaniem 
+lub inne całkowite dochody 
+(1,8) 
+(23,8) 
+6,2 
+(6,7) 
+(43,2) 
+(94,6) 
+(17,2) 
+(41,9) 
+Efekt podatkowy 
+0,3 
+4,5 
+(1,2) 
+1,3 
+8,2 
+18,0 
+3,3 
+8,0 
+WPŁYW NA WYNIK NETTO 
+(1,5) 
+ 
+5,0 
+- 
+(35,0) 
+ 
+(13,9) 
+- 
+WPŁYW NA INNE CAŁKOWITE DOCHODY 
+ 
+(19,3) 
+- 
+(5,4) 
+ 
+(76,6) 
+- 
+(33,9) 
+Przy spadku kursów walutowych (odchylenie o minus %) analiza wrażliwości przyjmuje identyczne wartości jak w powyższej tabeli, tylko ze znakiem 
+przeciwnym. 
+Ponadto spółki Grupy posiadają należności oraz zobowiązania handlowe w walutach obcych. 
+(c) 
+RYZYKO ZMIANY PRZEPŁYWÓW PIENIĘŻNYCH W WYNIKU ZMIAN STÓP PROCENTOWYCH 
+Głównym źródłem ryzyka stopy procentowej w Grupie są: 
+ 
+inwestycje w portfel aktywów FIZ, 
+ 
+środki pieniężne i ich ekwiwalenty oraz lokaty, 
+ 
+kredyty i pożyczki, 
+ 
+zobowiązania z tytułu leasingu. 
+Grupa nie wykorzystuje instrumentów pochodnych w celu zabezpieczania się przed ryzykiem zmiany stóp procentowych. 
+W poniższych tabelach zaprezentowano potencjalny wpływ na wynik netto zmiany stóp procentowych. Analiza obejmuje wyłącznie pozycje 
+instrumentów finansowych narażonych na ryzyko zmiany stopy procentowej według stanu na dzień kończący okres sprawozdawczy. Przyjęty 
+w okresie 6 miesięcy zakończonym 30 czerwca 2022 roku poziom wahań stóp procentowych odzwierciedla hipotetyczną zmianę poziomu stopy 
+referencyjnej w PLN. 
+Wpływ wzrostu stopy procentowej: 
+ 
+Stopa procentowa PLN 
+Stopa procentowa USD 
+ 
+30.06.2022 
+31.12.2021 
+30.06.2022 
+31.12.2021 
+Zmienność w punktach bazowych 
++ 50pb 
+ 
+ 
+ 
+ 
+ 
+Zmiana wartości aktywów finansowych 
+29,8 
+4,4 
+0,3 
+- 
+Zmiana wartości zobowiązań finansowych 
+(1,2) 
+(3,2) 
+(1,3) 
+(1,3) 
+Wpływ na wynik przed opodatkowaniem 
+28,6 
+1,2 
+(1,0) 
+(1,3) 
+Efekt podatkowy 
+(5,4) 
+(0,2) 
+0,2 
+0,2 
+WPŁYW NA WYNIK NETTO 
+23,2 
+1,0 
+(0,8) 
+(1,1) 
+Przy odchyleniu stóp procentowych o -50 punktów bazowych analiza wrażliwości przyjmuje identyczne wartości jak w powyższej tabeli tylko 
+ze znakiem przeciwnym. 
+Powyższa tabela prezentuje wrażliwość przepływów pieniężnych, tj. kosztów i przychodów odsetkowych Grupy w wyniku zmiany stóp procentowych 
+dla pozycji bilansowych wyrażonych w PLN i USD. 
+(d) 
+RYZYKO KREDYTOWE 
+Ryzyko kredytowe identyfikowane w zakresie należności handlowych związane jest z ich koncentracją i terminowością obsługi. Sprzedaż 
+realizowana jest do ograniczonej liczby odbiorców, stąd występuje koncentracja ryzyka związanego z należnościami handlowymi. 
+W okresie 6 miesięcy zakończonym 30 czerwca 2022 roku dominującym odbiorcą pozostaje nadal Grupa ArcelorMittal, spółki, w których Skarb 
+Państwa posiada udziały oraz Voestalpine, od których należności stanowią odpowiednio 40,9%, 11,7% i 11,5% ogółu należności handlowych 
+na dzień 30 czerwca 2022 roku (na dzień 31 grudnia 2021 roku udział wymienionych powyżej kontrahentów wyniósł odpowiednio 43,7%, 15,4% 
+i 11,6%). 
+
+46 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+W okresie 6 miesięcy zakończonym 30 czerwca 2022 roku Grupa nie zaobserwowała istotnego pogorszenia zdolności do terminowego regulowania 
+należności, bądź też zwiększenia ilości upadłości lub restrukturyzacji wśród swoich klientów. Głównym elementem polityki Grupy w tym obszarze 
+jest mitygowanie ryzyka utraty należności spowodowanej niewypłacalnością kontrahentów poprzez zastosowanie odpowiednich i dostosowanych 
+do statusu klienta (klient strategiczny, podstawowy) zabezpieczeń finansowych w transakcjach handlowych w postaci m.in. ubezpieczenia 
+należności, akredytyw, przedpłat. Grupa nie realizowała transakcji z podmiotami zarejestrowanymi w Rosji i Ukrainie, sankcje nakładane na Rosję 
+i działania wojenne na terenie Ukrainy nie wpływają na zwiększenie ryzyka, a regulowanie należności wykazanych w skonsolidowanym 
+sprawozdaniu z sytuacji finansowej na dzień 30 czerwca 2022 roku, których termin wymagalności przypada w najbliższych miesiącach, pozostanie 
+na niezmienionym istotnie poziomie. W związku z powyższym, na dzień 30 czerwca 2022 roku Grupa nie zidentyfikowała przesłanek 
+do zmodyfikowania założeń przyjętych do oceny oczekiwanej straty kredytowej pod kątem potencjalnej konieczności uwzględnienia dodatkowego 
+elementu ryzyka związanego z obecną sytuacją gospodarczą oraz prognozami na przyszłość. Grupa na bieżąco analizuje sytuację na rynkach oraz 
+spływające sygnały od kontrahentów mogące świadczyć o pogorszeniu sytuacji finansowej i w razie konieczności dokona aktualizacji przyjętych 
+szacunków do kalkulacji oczekiwanej straty kredytowej w kolejnych okresach sprawozdawczych. 
+Ryzyko kredytowe dotyczące środków pieniężnych i ich ekwiwalentów jest ograniczone, ponieważ Grupa lokuje swoje środki pieniężne w bankach 
+o ugruntowanej pozycji rynkowej i posiadających rating przyznawany przez międzynarodowe agencje ratingowe. Biorąc pod uwagę powyższe, 
+poziom ryzyka związanego z działalnością lokacyjną można oszacować jako niski. 
+W celu dywersyfikacji ryzyka związanego z zawieraniem transakcji zabezpieczających, Komitet Ryzyka Finansowego ustala maksymalny stopień 
+koncentracji transakcji pochodnych (maksymalny nominał otwartych transakcji w jednym banku). Najwyższy stopień koncentracji w jednym banku 
+według stanu na dzień 30 czerwca 2022 roku wynosi około 39% dopuszczalnego limitu (na dzień 31 grudnia 2021 roku: około 25% dopuszczalnego 
+limitu). 
+Grupa ocenia, że maksymalna ekspozycja na ryzyko kredytowe na dzień 30 czerwca 2022 roku sięga pełnej wartości księgowej należności 
+handlowych (bez uwzględnienia wartości godziwej przyjętych zabezpieczeń), środków pieniężnych i ich ekwiwalentów oraz aktywów finansowych 
+w postaci terminowych lokat bankowych i portfela aktywów FIZ. 
+(e) 
+RYZYKO UTRATY PŁYNNOŚCI 
+W związku z silnym uzależnieniem przepływów pieniężnych i poziomu generowanej gotówki od cen sprzedaży węgla i koksu, a także stale wysokim 
+poziomem wydatków o charakterze inwestycyjnym, w przypadku znacznego pogorszenia sytuacji rynkowej Grupa jest narażona na ryzyko utraty 
+płynności. Obecne dobre warunki rynkowe pozwalają na generowanie dodatnich przepływów pieniężnych, co pozwoliło na znaczne zwiększenie 
+salda dostępnych środków pieniężnych w I półroczu 2022 roku. 
+Nadrzędnym zadaniem Grupy w procesie zarządzania ryzykiem płynności jest bieżąca kontrola i planowanie poziomu płynności. Intencją Grupy jest 
+również zachowanie prawidłowej struktury finansowania poprzez utrzymywanie odpowiedniego poziomu źródeł finansowania o charakterze 
+długoterminowym. Nadwyżka środków pieniężnych pozwoliła Jednostce dominującej dokonać w lutym 2022 roku spłaty Kredytu Odnawialnego B 
+w kwocie 360,0 mln PLN. 
+Proces zarządzania ryzykiem utraty płynności w Grupie wspomagany przez wdrożoną Politykę zarzadzania płynnością wraz z procedurą w Grupie 
+Kapitałowej JSW, zakłada między innymi efektywne monitorowanie i raportowanie pozycji płynnościowej umożliwiającej podejmowanie działań 
+prewencyjnych w sytuacji zagrożenia utraty płynności oraz utrzymywanie odpowiedniego (minimalnego) poziomu dostępnych środków na obsługę 
+bieżących płatności. 
+Grupa realizuje politykę w zakresie zarządzania płynnością, polegającą na dywersyfikacji źródeł finansowania i wykorzystywania dostępnych 
+narzędzi do efektywnego zarządzania płynnością. W celu zwiększenia bezpieczeństwa płynności Grupy wykorzystano m.in. następujące narzędzia: 
+ 
+Jednostka dominująca posiada utworzony Fundusz Stabilizacyjny, który w czasach dekoniunktury stanowi bufor bezpieczeństwa w razie 
+konieczności ponoszenia wydatków nieznajdujących pokrycia we wpływach. Wartość aktywów netto Funduszu na dzień 30 czerwca 2022 roku 
+wynosiła 1 231,3 mln PLN. W związku z wygenerowaną nadwyżką środków pieniężnych Grupa w kwietniu 2022 roku dokonała inwestycji 
+w portfel aktywów finansowych poprzez Fundusz o wartości 700,0 mln PLN. Po dniu kończącym okres sprawozdawczy, w lipcu i w sierpniu 
+2022 roku Grupa dokonała inwestycji w portfel aktywów finansowych poprzez Fundusz o wartości 2,0 mld PLN (szerzej w Nocie 7.4.). 
+ 
+W celu efektywniejszego zarządzania bieżącą płynnością finansową w Grupie funkcjonuje system zarządzania środkami pieniężnymi – CPR. 
+Grupa ocenia aktualny poziom ryzyka utraty płynności jako niski. 
+Grupa w ciągu kolejnych 12 miesięcy, nie identyfikuje ryzyka niewywiązania się z umów finansowania i zakłada utrzymanie umownego poziomu 
+długu netto/EBITDA oraz pozostałych wskaźników finansowych uwzględnionych w Umowie Finansowania z Konsorcjum. Na dzień sporządzenia 
+niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego, Grupa ocenia, że posiada wystarczające źródła finansowania 
+do realizacji bieżących zobowiązań, płatności związanych z regulowaniem zobowiązań wynikających z umów finansowania oraz zawartych z PFR 
+umów pożyczki płynnościowej i preferencyjnej zgodnie z harmonogramem, a także zaplanowanych wcześniej strategicznych projektów. 
+
+47 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+9.3.2. 
+ZARZĄDZANIE RYZYKIEM KAPITAŁOWYM 
+W okresie objętym niniejszym śródrocznym skróconym skonsolidowanym sprawozdaniem finansowym nie wystąpiły zmiany celów, zasad i procedur 
+zarządzania ryzykiem kapitałowym, opisanych w Nocie 9.5.2. Skonsolidowanego sprawozdania finansowego Grupy Kapitałowej Jastrzębskiej Spółki 
+Węglowej S.A. za rok obrotowy zakończony 31 grudnia 2021 roku. 
+Umowa Finansowania z Konsorcjum nakłada na JSW oraz spółki z Grupy zobowiązanie do utrzymywania umownego poziomu wskaźników 
+finansowych. Według wstępnych szacunków przeprowadzonych na dzień zatwierdzenia niniejszego śródrocznego skróconego skonsolidowanego 
+sprawozdania finansowego powyższe wskaźniki za okres 12 miesięcy zakończony 30 czerwca 2022 roku zostały spełnione. 
+ 
+ 
+
+48 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+ 10. POZOSTAŁE NOTY OBJAŚNIAJĄCE 
+10.1. POZYCJE WARUNKOWE 
+POZYCJE WARUNKOWE 
+W okresie 6 miesięcy zakończonym 30 czerwca 2022 roku nie wystąpiły istotne zmiany w pozycjach warunkowych ujawnionych w Skonsolidowanym 
+sprawozdaniu finansowym Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A. za rok obrotowy zakończony 31 grudnia 2021 roku w Nocie 10.1. 
+INFORMACJE O ISTOTNYCH POSTĘPOWANIACH SĄDOWYCH 
+W okresie 6 miesięcy zakończonym 30 czerwca 2022 roku w Grupie nie nastąpiły istotne rozstrzygnięcia spraw sądowych. 
+10.2. PRZYSZŁE ZOBOWIĄZANIA UMOWNE 
+Przyszłe zobowiązania umowne zaciągnięte na dni kończące okresy sprawozdawcze, nieujęte w skonsolidowanym sprawozdaniu z sytuacji 
+finansowej obejmują: 
+ 
+30.06.2022 
+31.12.2021 
+Zobowiązania umowne zaciągnięte w celu nabycia rzeczowych aktywów trwałych i wartości 
+niematerialnych 
+903,8 
+835,7 
+Pozostałe 
+90,2 
+46,4 
+RAZEM 
+994,0 
+882,1 
+10.3. TRANSAKCJE Z PODMIOTAMI POWIĄZANYMI 
+Na dzień 30 czerwca 2022 roku oraz na dzień 31 grudnia 2021 roku większościowym akcjonariuszem Grupy był Skarb Państwa. 
+W okresie 6 miesięcy zakończonym 30 czerwca 2022 roku, wszystkie transakcje Grupy z podmiotami powiązanymi, za wyjątkiem transakcji opisanej 
+poniżej, dokonywane były na warunkach rynkowych oraz miały charakter typowy i zawierane były w normalnym trybie działalności. 
+W prezentowanym okresie sprawozdawczym Grupa nie zawierała innych istotnych transakcji z jednostkami powiązanymi, o odmiennym charakterze 
+lub istotnych kwotach niż opisane w ostatnim rocznym skonsolidowanym sprawozdaniu finansowym oraz transakcji opisanej poniżej. 
+W okresie 6 miesięcy zakończonym 30 czerwca 2022 roku zidentyfikowano indywidualne transakcje przeprowadzone między JSW i Skarbem 
+Państwa oraz jednostkami powiązanymi ze Skarbem Państwa, które były znaczące ze względu na nietypowy zakres i/lub kwotę. Transakcje 
+te dotyczą nieodpłatnego przekazania zakładu górniczego OG „Jastrzębie III” do SRK (szerzej omówione w Nocie 4.5.) oraz objęcia przez Skarb 
+Państwa udziałów w podwyższonym kapitale zakładowym JZR (szerzej omówione w Nocie 1.2.). 
+10.4. ZDARZENIA PO DNIU KOŃCZĄCYM OKRES SPRAWOZDAWCZY 
+Po dniu 30 czerwca 2022 roku, tj. po dniu kończącym okres sprawozdawczy, zgodnie z posiadaną wiedzą, nie wystąpiły inne niż wymienione 
+poniżej, istotne zdarzenia mogące znacząco wpłynąć na ocenę sytuacji majątkowej, finansowej i wyniku finansowego, które nie byłyby uwzględnione 
+w śródrocznym skróconym skonsolidowanym sprawozdaniu finansowym za okres 6 miesięcy zakończony 30 czerwca 2022 roku: 
+ 
+W lipcu 2022 roku Grupa dokonała inwestycji w portfel aktywów finansowych poprzez Fundusz o wartości 1,0 mld PLN. 
+ 
+W dniu 5 lipca 2022 roku Zarząd JSW podjął uchwałę w sprawie wyrażenia zgody na zasilenie FIZ w ramach subportfela płynnościowego, 
+środkami finansowymi do kwoty 1,0 mld PLN. Rada Nadzorcza JSW w dniu 20 lipca 2022 roku udzieliła zgody na powyższe zasilenie 
+JSW Stabilizacyjnego FIZ. W sierpniu 2022 roku Grupa dokonała inwestycji w portfel aktywów finansowych poprzez Fundusz o wartości 
+1,0 mld PLN. 
+ 
+W dniu 5 lipca 2022 roku Zarząd JSW, realizując zapisy pkt 3 Porozumienia z dnia 28 stycznia 2022 roku zawartego pomiędzy Zarządem 
+JSW a Reprezentatywnymi Organizacjami Związkowymi działającymi w Jednostce dominującej, podpisał porozumienie w sprawie wypłaty 
+nagrody jednorazowej (szerzej w Nocie 7.12.). Szacowany koszt wypłaty nagrody jednorazowej, łącznie z kosztami pracodawcy, ujęty został 
+w niniejszym śródrocznym skróconym skonsolidowanym sprawozdaniu finansowym za okres 6 miesięcy zakończony 30 czerwca 2022 roku 
+i obciążył wyniki Grupy za II kwartał 2022 roku (Nota 4.2.) 
+ 
+ W dniu 23 sierpnia 2022 roku Zarząd JSW podjął uchwałę w sprawie wyrażenia zgody na nabycie przez JSW akcji PBSz w trybie 
+przymusowego odkupu akcji PBSz zgodnie z art.4181 KSH od akcjonariusza reprezentującego nie więcej niż 5% kapitału zakładowego PBSz, 
+za łączną kwotę 0,7 mln PLN. W dniu 25 sierpnia 2022 roku Nadzwyczajne Walne Zgromadzenie PBSz podjęło uchwałę w sprawie 
+przedmiotowego przymusowego odkupu akcji PBSz w trybie art. 4181 KSH. 
+ 
+
+49 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2022 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej) 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+ 11. OŚWIADCZENIA ZARZĄDU I ZATWIERDZENIE SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO 
+W sprawie rzetelności sporządzenia półrocznego skróconego skonsolidowanego sprawozdania finansowego 
+Zarząd JSW oświadcza, że wedle jego najlepszej wiedzy, niniejsze półroczne skrócone skonsolidowane sprawozdanie finansowe i dane 
+porównawcze sporządzone zostały zgodnie z obowiązującymi zasadami rachunkowości oraz odzwierciedlają w sposób prawdziwy, rzetelny i jasny 
+sytuację majątkową i finansową oraz wynik finansowy Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A. 
+Sprawozdanie Zarządu z działalności Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A. za okres 6 miesięcy zakończony 30 czerwca 2022 roku 
+zawiera prawdziwy obraz rozwoju i osiągnięć oraz sytuacji Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A., w tym opis podstawowych 
+zagrożeń i ryzyka. 
+Niniejsze Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony 30 czerwca 2022 roku zostało 
+zatwierdzone do publikacji oraz podpisane przez Zarząd JSW dnia 29 sierpnia 2022 roku. 
+ 
+Jastrzębie-Zdrój, 29 sierpnia 2022 roku 
+ 
+ 
+ 
+ 
+ 
+Podpis osoby odpowiedzialnej za sporządzenie sprawozdania 
+finansowego: 
+Radosław Cichy – Dyrektor Biura Główny Księgowy 
+ 
+ 
+ 
+ 
+PODPISY CZŁONKÓW ZARZĄDU JSW 
+ 
+ 
+ 
+Tomasz Cudny 
+Prezesa Zarządu 
+ 
+ 
+ 
+ 
+ 
+ 
+Sebastian Bartos 
+Zastępca Prezesa Zarządu 
+ 
+ 
+ 
+ 
+ 
+ 
+Robert Ostrowski 
+Zastępca Prezesa Zarządu 
+ 
+ 
+ 
+ 
+ 
+ 
+Edward Paździorko 
+Zastępca Prezesa Zarządu 
+ 
+ 
+ 
+ 
+ 
+ 
+Artur Wojtków 
+Zastępca Prezesa Zarządu 
+ 
+ 
+Dokument podpisany przez
+Radosław Cichy
+Data: 2022.08.29 07:40:29 CEST
+Signature Not Verified
+Dokument podpisany przez
+Robert Ostrowski
+Data: 2022.08.29 08:00:57 CEST
+Signature Not Verified
+Dokument podpisany przez
+Edward Paździorko
+Data: 2022.08.29 08:03:20 CEST
+Signature Not Verified
+Dokument podpisany przez
+Tomasz Cudny
+Data: 2022.08.29 08:05:36 CEST
+Signature Not Verified
+Dokument podpisany przez Artur
+Józef Wojtków
+Data: 2022.08.29 08:08:40 CEST
+Signature Not Verified
+Sebastian 
+Bartos
+Elektronicznie podpisany 
+przez Sebastian Bartos 
+Data: 2022.08.29 08:57:02 
++02'00'

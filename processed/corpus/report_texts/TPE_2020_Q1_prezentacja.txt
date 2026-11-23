@@ -1,0 +1,1551 @@
+Wyniki finansowe 
+tauron.pl
+Grupy TAURON 
+za I kwartał 2020 r.
+14 maja 2020 r.
+
+tauron.pl
+a
+Struktura prezentacji
+Filip Grzegorczyk
+Prezes Zarządu
+
+Kluczowe dane finansowe
+i operacyjne
+
+Najważniejsze wydarzenia 
+
+Projekty inwestycyjne i CAPEX
+Marek Wadowski
+Wiceprezes Zarządu 
+ds. Finansów
+
+Sytuacja makroekonomiczna 
+i rynkowa
+
+Dane finansowe i wyniki segmentów
+
+Zadłużenie i finansowanie
+
+Perspektywy na 2020 rok
+2/32
+
+3
+tauron.pl
+a
+Kluczowe dane za I kwartał 2020 r.
+Wyniki finansowe
+[mln zł]
+Q1 2020 vs Q1 2019
+Przychody ze sprzedaży
+5 468
+3%
+EBITDA
+957
+(22)%
+Wynik netto*
+162
+(70)%
+CAPEX
+940
+29%
+Dług netto/EBITDA
+3,27x
+wzrost 
+o 0,45x
+(vs 31.12.2019)
+Dane operacyjne
+Q1 2020 vs Q1 2019
+Dystrybucja energii elektrycznej 
+[TWh]
+13,25
+(2)%
+Produkcja energii elektrycznej z OZE 
+[TWh]
+0,57
+48% 
+Produkcja energii elektrycznej
+z jednostek węglowych [TWh]
+2,64
+(23)%
+Wytwarzanie ciepła [PJ]
+4,96
+4%
+Sprzedaż detaliczna energii 
+elektrycznej [TWh]
+8,86
+(1)%
+Produkcja węgla handlowego 
+[mln ton]
+1,18
+(6)%
+3/32
+* Przypadający akcjonariuszom jednostki dominującej
+
+tauron.pl
+Podsumowanie najważniejszych wydarzeń
+4/32
+a
+16 marca
+Zawarcie umowy kredytu o wartości 500 mln zł z bankiem SMBC na finansowanie ogólnych celów 
+korporacyjnych, z wyłączeniem finansowania aktywów węglowych
+25 marca
+Podpisanie umowy kredytu konsorcjalnego o wartości 500 mln zł na finansowanie ogólnych celów 
+korporacyjnych, z wyłączeniem finansowania nowych projektów węglowych
+23 marca
+Podpisanie porozumienia w sprawie warunków współpracy pomiędzy TAURON oraz Polskim 
+Funduszem Rozwoju w zakresie inwestycji w odnawialne źródła energii
+29 kwietnia
+Osiągnięcie porozumienia ze stroną społeczną w TAURON Wydobycie dotyczącego m. in. ograniczenia 
+czasu pracy i wynagrodzeń w okresie od maja do lipca 2020 r.
+4 maja
+Zawarcie porozumienia z konsorcjum RAFAKO-MOSTOSTAL WARSZAWA w sprawie realizacji bloku o mocy 
+910 MW w Jaworznie. Szacowany nowy termin oddania bloku do eksploatacji: do 15 listopada 2020 r. 
+
+tauron.pl
+a
+Sytuacja makroekonomiczna i rynkowa
+Źródło: * GUS ** Bankier.pl ***PSE
+5/32
+Struktura produkcji energii elektrycznej w Polsce*** [TWh]
+3,8%
+3,3% 3,6%
+4,6%
+3,1% 3,4%
+2,7% 2,7%
+4,8%
+4,3%
+5,5% 5,1% 5,2%5,3% 5,2% 4,9%4,8% 4,6%
+3,9%
+3,2%
+44
+46
+48
+50
+52
+54
+56
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1
+2015
+2016
+2017
+2018
+2019
+2020
+PMI
+PKB
+Wzrost PKB Polski* oraz indeks PMI 
+dla przemysłu (średnia kwartalna)**
+Wzrost PKB
+PMI dla przemysłu
+5,3%
+3,9%4,3%
+6,0%
+3,0%
+5,8%
+2,4%1,5%
+7,3%
+4,2%
+6,4%
+8,5%
+5,5%
+7,0%
+5,3%5,5% 6,1%
+4,2%
+3,3%2,4%
+1,0%
+-4%
+-2%
+0%
+2%
+4%
+6%
+8%
+10%
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1
+2015
+2016
+2017
+2018
+2019
+2020
+Wzrost produkcji sprzedanej przemysłu*
+i zużycia energii elektrycznej (zmiana r/r)***
+Wzrost produkcji sprzedanej
+Zmiana krajowego zużycia energii
+Ceny energii w rocznych kontraktach BASE
+20,57
+19,26
+11,01
+9,16
+2,82
+3,57
+5,53
+6,07
+2,78
+2,71
+0
+10
+20
+30
+40
+50
+Q1 2019
+Q1 2020
+El. przemysłowe
+Odnawialne źródła energii
+El. cieplne gazowe
+El. cieplne na węgiel
+brunatny
+El. cieplne na węgiel
+kamienny
+40,77
+42,71
+48,2%
+25,8%
+6,6%
+13,0%
+6,5%
+47,2%
+22,5%
+8,7%
+14,9%
+6,6%
+-6,4%
+-16,8%
+26,6%
+-2,8%
+9,7%
+Ceny energii w rocznych kontraktach BASE
+Średnie ceny sprzedaży energii na rynku konkurencyjnym (wg URE):
+
+2014 r.:
+163,58 PLN/MWh
+
+2015 r.:
+169,99 PLN/MWh
+
+2016 r.:
+169,70 PLN/MWh
+
+2017 r.:
+163,70 PLN/MWh
+
+2018 r.:
+194,30 PLN/MWh
+
+2019 r.:
+245,44 PLN/MWh
+
+2020 r.:
+256,03 PLN/MWh (estymacja)
+Średnia cena 
+[PLN/MWh]
+Wolumen [GWh]
+Y-13
+191,60
+108 861
+Y-14
+160,40
+142 841
+Y-15
+168,11
+146 932
+Y-16
+166,47
+147 923
+Y-17
+160,27
+76 729
+Y-18
+165,98
+65 227
+Y-19
+237,44
+133 170
+Y-20
+265,42
+134 887
+Y-21*
+241,70
+71 263
+Y-22*
+245,10
+11 195
+-4,6%
+
+6
+tauron.pl
+a
+Dane finansowe za I kwartał 2020 r.
+Wynik netto przypadający akcjonariuszom 
+jednostki dominującej [mln zł]
+EBITDA Q1 2020 vs Q1 2019 [mln zł]
+1 232
+1 181
+1 036
+957-51-48
+127
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+Q1 2019
+raportowana
+Wykorzystanie rezerwy
+na umowy rodzące
+obciążenia
+Q1 2019
+porównywalna
+Q1 2020
+porównywalna
+Wykorzystanie rezerwy
+na umowy rodzące
+obciążenia
+Zamiana kontraktów
+na zakup CO2
+Q1 2020
+raportowana(12)%
+Przychody ze sprzedaży [mln zł]
+6/32
+3 114
+3 134
+1 593
+1 710
+236
+237
+96
+56
+35
+73
+238
+2580
+1 000
+2 000
+3 000
+4 000
+5 000
+6 000Q1 2019Q1 2020
+Energia elektryczna
+Usługi dystrybucyjne i handlowe
+Energia cieplna
+Węgiel
+Gaz
+Pozostałe przychody
+5 313
+5 468
+535
+162
+Q1 2019
+Q1 2020
+0
+100
+200
+300
+400
+500
+600
+
+7
+tauron.pl
+a
+Wyniki segmentów za I kwartał 2020 r.
+[mln zł]
+DystrybucjaOZE
+Wytwarzanie
+Sprzedaż
+Wydobycie
+Pozostałe 
+i wyłączenia*
+Przychody 
+1 789
+199
+1 155
+4 231
+236
+(2 143)
+EBITDA
+684
+121
+69
+182
+(36)
+(63)
+EBIT
+400
+83
+(13)
+171
+(84)
+(84)
+CAPEX
+485
+1
+361
+11
+55
+25
+* Pozycje niezawarte w przedstawionych segmentach
+Udział segmentów w EBITDA [%] 
+7/32
+-4%
+-4%
+26%
+7%6%13%
+57%
+71%
+13%
+19%
+2%
+-7%
+1 232
+957
+-200
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+1 600
+Q1 2019
+Q1 2020
+Pozostałe i wyłączenia
+Sprzedaż
+Dystrybucja
+OZE
+Wytwarzanie
+Wydobycie
+mln zł(22)%
+
+8
+tauron.pl
+1 232
+957
+49
+17
+8
+-17 
+-246 
+-87 
+23,2%
+38,2%
+60,8%
+6,0%
+4,3%
+-15,4%
+14,8%
+17,5%
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+1 600
+EBITDA
+Q1 2019
+Dystrybucja
+OZE
+Wytwarzanie
+Sprzedaż
+Wydobycie
+Pozostałe i
+wyłączenia
+EBITDA
+Q1 2020
+EBITDA
+Wzrost w segmencie
+Spadek w segmencie
+Marża EBITDA
+*
+a
+EBITDA za I kwartał 2020 r.
+mln zł
+*Marża EBITDA segmentu Pozostała działalność
+8/32
+(275) mln zł, (22)%
+
+9
+tauron.pl
+Segment Dystrybucja
+9/32
+a
+a
+
+10
+tauron.pl
+a
+Segment Dystrybucja – I kwartał 2020 r.
+Zmiana EBITDA [mln zł]
+EBIT Amortyzacja i odpisy aktualizujące
+Dystrybucja energii elektrycznej [TWh]
+13,54
+13,25
+* Sąsiednie OSD i eksport
+Dane finansowe [mln zł]
+Wyższe przychody ze sprzedaży usługi dystrybucyjnej
+√
+Spadek wolumenu sprzedaży usług dystrybucji energii o 293 
+GWh
+Wyższe koszty różnicy bilansowej 
+10/32
+1 681
+1 789
+701
+684
+404
+400
+351
+485
+0
+500
+1 000
+1 500
+2 000
+Q1 2019
+Q1 2020
+Przychody ze sprzedaży
+EBITDA
+EBIT
+CAPEX
+3,51
+3,56
+4,61
+4,72
+1,92
+2,05
+2,79
+2,76
+0,42
+0,45
+Q1
+2020
+Q1
+2019
+0
+5
+10
+Grupa A
+Grupa B
+Grupa C2+C1+R+D
+Grupa G
+Pozostała*
+---
+-4044002
+0
+200
+400
+600
+800Q1 2019Cena sprzedażyusług dystr.WolumensprzedażyZakup usługOSP/OSDKoszt stratsieciowychPozostałeusługi dystr.Pozo
+
+11
+tauron.pl
+16,9
+17,5
+18,3
+0
+5
+10
+15
+20
+2018
+2019
+2020
+Wartość Regulacyjna Aktywów [mld zł]
+1,9
+9,6
+12,0
+32,8
+2,7
+13,5
+17,3
+44,8
+0
+10
+20
+30
+40
+50
+miasta
+duże
+miasta
+na prawach
+powiatu
+miasta
+pozostałe
+wsie
+Czas Trwania Przerwy [min/odbiorcę] 
+Q1 2019
+Q1 2020
+a
+Segment Dystrybucja – kluczowe parametry
+11/32
+93,50%
+99,23%
+92,58%
+98,63%
+0%
+20%
+40%
+60%
+80%
+100%
+CRP gr. IV
+CRP gr. V
+Czas Realizacji Przyłączenia [%]
+LTM 2019
+LTM 2020
+0,08
+0,17
+0,67
+0,66
+0,07
+0,22
+0,38
+0,91
+0,0
+0,3
+0,6
+0,9
+miasta
+ duże
+miasta
+na prawach
+powiatu
+miasta
+pozostałe
+wsie
+Częstość Przerw [liczba przerw/odbiorcę] 
+Q1 2019
+Q1 2020
+LTM – okres ostatnich 12 miesięcy kończący się 31 marca 2020 r.
+CZAS TRWANIA PRZERWY
+CTP md – duże miasta 
+CTP mp – miasta na prawach powiatu 
+CTP m – miasta
+CTP w – wsie
+
+12
+tauron.pl
+Segment OZE
+12/32
+a
+a
+
+13
+tauron.pl
+A
+Segment OZE – I kwartał 2020 r.
+13/32
+72
+121
+25
+31
+-6
+-1
+0
+20
+40
+60
+80
+100
+120
+140
+Q1 2019
+Marża na EE
+Prawa majątkowe
+Koszty stałe
+Pozostałe
+Q1 2020
+• Wzrost produkcji energii elektrycznej – efekt nabycia 
+farm wiatrowych o mocy 180 MW
+√
+112
+199
+72
+121
+49
+83
+1
+1
+0
+50
+100
+150
+200
+Q1 2019
+Q1 2020
+Przychody ze sprzedaży
+EBITDA
+EBIT
+CAPEX
+• Korzystne warunki wietrzne – wzrost produkcji energii 
+elektrycznej
+√
+• Wzrost cen praw majątkowych 
+√
+• Spadek cen energii elektrycznej
+0,17
+0,36
+0,12
+0,10
+0,0
+0,1
+0,2
+0,3
+0,4
+Q1 2019
+Q1 2020
+Farmy wiatrowe
+Elektrownie wodne
+Zmiana EBITDA [mln zł]
+Produkcja energii elektrycznej [TWh]
+Dane finansowe [mln zł]
+
+14
+tauron.pl
+Segment Wytwarzanie
+14/32
+a
+a
+
+15
+tauron.pl
+a
+1
+Zmiana EBITDA [mln zł]
+315
+69
+11
+-93
+-3
+-127
+-33
+0
+50
+100
+150
+200
+250
+300
+350
+Q1 2019
+Marża na EE
+(jedn. węglowe)
+Marża na EE
+(jedn. biomasowe)
+Marża na cieple
+Zamiana
+kontraktów na
+zakup CO2
+Pozostałe
+Q1 2020
+Dane finansowe [mln zł]
+• Spadek wolumenu sprzedaży energii 
+elektrycznej
+-
+• Spadek clean dark spread
+-
+• Wyższe przychody z interwencyjnej rezerwy 
+zimnej i marża na odkupach energii
+√
+0,09
+0,11
+0,53
+0,51
+0,0
+0,1
+0,2
+0,3
+0,4
+0,5
+0,6
+Q1 2019
+Q1 2020
+Biomasa
+Kogeneracja wysokosprawna
+Produkcja z biomasy i wysokosprawnej 
+kogeneracji [TWh]
+3,44
+2,64
+4,76
+4,96
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+Q1 2019
+Q1 2020
+Energia elektryczna
+Ciepło
+Produkcja energii (jedn. węglowe) [TWh] i ciepła [PJ]
+15/32
+1 277
+1 155
+315*
+69
+231
+-13
+235
+361
+-200
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+Q1 2019
+Q1 2020
+Przychody ze sprzedaży
+EBITDA
+EBIT
+CAPEX
+• Wyższa marża na blokach biomasowych
+√
+Segment Wytwarzanie – I kwartał 2020 r.
+* Od 1 stycznia 2020 r. Grupa wydzieliła nowy segment operacyjny OZE, przypisując do niego dane spółek, których działalność
+związana jest z wytwarzaniem energii elektrycznej ze źródeł odnawialnych, tj. wiatrowych i wodnych. Dane za I kwartał 2019 r. zostały
+doprowadzone do porównywalności. Wynik EBITDA segmentu Wytwarzanie prezentowany za I kwartał 2019 r. wynosił 387 mln zł.
+*
+
+16
+tauron.pl
+Segment Sprzedaż
+16/32
+a
+a
+
+17
+tauron.pl
+3 911
+4 231
+165
+182
+155
+171
+0
+1 000
+2 000
+3 000
+4 000
+5 000
+Q1 2019
+Q1 2020
+Przychody ze sprzedaży
+EBITDA
+EBIT
+155
+171
+10
+12
+139
+-79
+-21
+-22
+165
+182
+0
+50
+100
+150
+200
+250
+300
+350
+Q1 2019
+Energia elektryczna
+cena i wolumen
+Prawa majątkowe
+cena
+Prawa majątkowe
+obowiązek
+Pozostałe
+Q1 2020
+Segment Sprzedaż – I kwartał 2020 r.
+1,11
+1,30
+2,62
+2,50
+1,46
+1,53
+2,71
+2,69
+0,95
+0,91
+Q1 2020
+Q1 2019
+0
+2
+4
+6
+8
+Grupa A
+Grupa B
+Grupa C2+C1+R+D
+Grupa G
+Pozostała
+Zmiana EBITDA [mln zł]
+Sprzedaż detaliczna energii elektrycznej [TWh]
+8,85
+8,92
+Dane finansowe [mln zł]
+Wzrost cen zakupu oraz obowiązku umorzenia PMOZE 
+-
+Brak pełnego pokrycia kosztów zmiennych w taryfie URE
+-
+Wyższa marża na odkupie energii elektrycznej
+17/32
+EBIT Amortyzacja i odpisy aktualizujące
+√
+A
+
+tauron.pl
+Segment Wydobycie
+18/32
+a
+a
+
+19
+tauron.pl
+a
+Segment Wydobycie – I kwartał 2020 r.
+Zmiana EBITDA [mln zł]
+Dane finansowe [mln zł]
+1,26
+1,18
+0,97
+0,71
+0,23
+0,18
+1,20
+0,89
+0,0
+0,5
+1,0
+1,5
+2,0
+Q1 2019
+Q1 2020
+Wolumen produkcji węgla handlowego 
+vs sprzedaż wg sortymentów [mln Mg]
+Produkcja węgla handlowego
+Sprzedaż miałów
+Sprzedaż pozostałych sortymentów
+* Suma wszystkich kosztów rodzajowych bez amortyzacji, odpisów aktualizujących, kosztów niezwiązanych 
+bezpośrednio z produkcją węgla oraz kosztów niemających trwałego wpływu na przepływy spółki
+Niższy wolumen sprzedanego węgla
+Wyższy o 13 zł/Mg jednostkowy mining cash cost* 
+(wzrost z 211 do 224 zł/Mg)
+-
+19/32
+292
+236
+-44
+-36
+-96
+-84
+119
+55
+-100
+0
+100
+200
+300
+Q1 2019
+Q1 2020
+Przychody ze sprzedaży
+EBITDA
+EBIT
+CAPEX
+-44
+-36
+19
+62
+-64
+-9
+-100
+-80
+-60
+-40
+-20
+0
+Q1 2019
+Efekt ceny
+sprzedanego
+węgla
+Efekt wolumenu
+sprzedanego
+węgla
+Efekt jedn. kosztu
+bezpośredniego
+zmiennego
+Pozostałe
+Q1 2020
+√
+Znaczny wzrost produkcji węgla w stosunku do Q3 i Q4 2019
+
+tauron.pl
+a
+Zadłużenie i finansowanie
+Struktura długu
+według stopy oprocentowania 
+[mln zł]
+20/32
+Zapadalność długu Grupy TAURON w ujęciu nominalnym na 31 marca 2020 r. [mln zł]
+187
+336
+5275
+281
+1111
+800
+300
+2561
+270
+935
+850
+500
+100
+100
+865
+0
+1 000
+2 000
+3 000
+4 000
+5 000
+6 000
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Obligacje
+Kredyty i pożyczki
+*
+22
+36
+129
+36
+22
+36
+242
+0
+50
+100
+150
+200
+250
+300
+Q2 2020
+Q3 2020
+Q4 2020
+Q1 2021
+Q2 2021
+Q3 2021
+Q4 2021
+6 543 
+45,2%
+7 916 
+54,7%
+12 
+0,1%
+Struktura długu Grupy TAURON 
+w ujęciu nominalnym na 31.03.2020 r.
+[mln zł]
+Obligacje
+Kredyty
+Pożyczki z NFOŚiGW / WFOŚiGW
+14 471
+1 580
+100%
+Kwoty dostępnego finansowania 
+Grupy TAURON na 31.03.2020 r.
+[mln zł]
+Kredyty bankowy
+1 580 **
+* Z uwzględnieniem maksymalnego terminu zapadalności uruchomionych środków w ramach kredytu bankowego, tj. do 2022 r.
+** Kwota uwzględnia dostępność kredytu Intesa i China Construction Bank po spełnieniu standardowych warunków zawieszających (data spełnienia części warunków jest uzależniona od daty 
+wykorzystania środków). Poza wskazanymi dostępnymi finansowaniami Grupa TAURON korzysta również z kredytów w rachunku bieżącym o maksymalnych dostępnych limitach 300 mln zł 
+oraz 45 mln euro
+Oprocentowanie
+14 471 
+Zabezpieczenie
+oprocentowanie 
+zmienne
+Kwota długu
+Zmienne: 8 638
+Stałe: 5 833
+Brak: 4 698
+IRS: 3 940
+
+Średnioważona zapadalność długu na 31 marca 2020 r.
+wynosi 81 miesięcy (przy założeniu ciągnienia kredytu
+bankowego do 2022 r.)
+
+Dług denominowany
+w EUR (emisja euroobligacji,
+obligacji NSV i obligacji EBI) stanowi 27 proc. długu
+ogółem
+Wskaźnik dług netto/EBITDA na 31 marca 2020 r. = 3,27x
+
+tauron.pl
+a
+CAPEX – status prac przy kluczowych projektach
+21/32
+Inwestycja
+Moc 
+(MWe)
+Moc 
+(MWt)
+Zaawansowanie prac
+(proc.)
+Termin 
+zakończenia
+Budowa bloku energetycznego w Jaworznie
+910
+98
+2020
+Budowa bloku gazowo-parowego
+w Elektrociepłowni Stalowa Wola
+450
+240
+89
+2020
+Uciepłownienie bloku 460 MW w Elektrowni Łagisza modernizacja turbiny, budowa stacji ciepłowniczej oraz 
+kotłów szczytowo-rezerwowych
+150+144
+95
+2020
+Dostosowanie jednostek wytwórczych TAURON 
+Wytwarzanie do konkluzji BAT
+-
+39
+2021
+
+tauron.pl
+a
+CAPEX – podział na segmenty
+Nakłady inwestycyjne wg segmentów* [mln zł]
+22/32
+22
+39
+119
+55
+235
+361
+351
+485
+Q1 2019
+Q1 2020
+Dystrybucja
+Wytwarzanie
+Wydobycie
+Pozostałe segmenty
+29%
+940
+727
+* Nakłady nie uwzględniają inwestycji kapitałowych (zgodnie z prezentacją w sprawozdaniu finansowym)
+Nakłady łącznie z inwestycjami kapitałowymi, bez uwzględnienia kosztów finansowych,
+wyniosły: 690 mln zł w Q1 2019 r. i 881 mln zł w Q1 2020 r.
+Główne inwestycje realizowane w Q1 2020 r.:
+Dystrybucja:
+- Modernizacja i odtworzenie majątku sieciowego (231 mln zł)
+- Budowa nowych przyłączy (226 mln zł)
+Wytwarzanie:
+- Budowa bloku 910 MW w Jaworznie (219 mln zł) 
+- Dostosowanie jednostek wytwórczych do BAT (33 mln zł)
+- Nakłady odtworzeniowo-modernizacyjne i komponenty remontowe 
+(29 mln zł)
+- Uciepłownienie bloku 460 MW w Elektrowni Łagisza (6 mln zł)
+- Odtworzenie stacji przygotowania wody zdemineralizowanej (3 mln zł)
+- Przyłączenia nowych obiektów (7 mln zł)
+- Utrzymanie i rozwój sieci ciepłowniczych (3 mln zł)
+Wydobycie:
+- Program inwestycyjny ZG Brzeszcze (7 mln zł) 
+- Budowa szybu Grzegorz w ZG Sobieski (4 mln zł) 
+- Budowa poziomu 800 m w ZG Janina (19 mln zł)
+- Przygotowanie produkcji (21 mln zł)
+Pozostałe segmenty:
+- Budowa Internetu szerokopasmowego w ramach POPC III (9 mln zł) 
+
+tauron.pl
+Perspektywy na 2020 r.
+Segment
+Perspektywa 
+EBITDA 2020 
+wobec 2019
+Podstawowe czynniki
+Dystrybucja
+spadek 
+
+Niższy wolumen dostarczanej energii r/r – skutek zmniejszonego zużycia energii elektrycznej przez odbiorców 
+(COVID-19) 
+
+Wzrost WRA w 2020 r. z 17,5 mld zł do 18,3 mld zł
+
+WACC na niższym poziomie r/r (5,5 proc. vs 6,0 proc. w 2019 r.) skutkujący niższym zwrotem z kapitału
+OZE
+wzrost
+
+Znacząco wyższy łączny wolumen produkcji energii elektrycznej z OZE – efekt nabycia farm wiatrowych 
+o mocy180 MW
+
+Lepsze warunki wietrzne, gorsze warunki hydrologiczne
+
+Niższe ceny sprzedaży energii elektrycznej – efekt sytuacji rynkowej
+Wytwarzanie
+spadek 
+
+Niższy wolumen produkcji energii elektrycznej – konsekwencja sytuacji rynkowej (wysoki import energii, 
+COVID-19, spadek hurtowych cen energii) i modernizacji BAT
+
+Brak generowanej marży z produkcji bloku 910 MW w Jaworznie
+
+Niższa jednostkowa marża na sprzedaży energii elektrycznej
+Sprzedaż
+wzrost 
+
+Niższy wolumen sprzedanej energii – skutek obniżonego zużycia energii elektrycznej przez odbiorców 
+(COVID-19 i warunki atmosferyczne)
+
+Brak pełnego pokrycia kosztów zmiennych w taryfie URE
+
+Generowanie marży na odkupach energii zakontraktowanej do sprzedaży na rynku terminowym w 2020 r. dla 
+bloku 910 MW w Jaworznie 
+
+Ryzyko wzrostu odpisów na należności przeterminowane
+Wydobycie
+wzrost
+
+Wolumen produkcji węgla handlowego uzależniony od zapotrzebowania na ten surowiec
+
+Niższe zapotrzebowanie na węgiel wynikające z sytuacji rynkowej (COVID-19 i warunki atmosferyczne)
+
+Kontynuacja działań proefektywnościowych
+CAPEX 
+i zadłużenie 
+
+Poziom wydatków inwestycyjnych będzie na bieżąco dostosowywany do sytuacji finansowej Grupy 
+(w szczególności do wartości wskaźnika dług netto/EBITDA)
+23/32
+
+tauron.pl
+a
+Kontakt
+Zespół Relacji Inwestorskich 
+Marcin Lauer 
+marcin.lauer@tauron.pl
+tel. + 48 32 774 27 06
+Paweł Gaworzyński
+pawel.gaworzynski@tauron.pl
+tel. + 48 32 774 25 34
+Mirosław Szczygielski
+miroslaw.szczygielski@tauron.pl
+tel. + 48 32 774 25 38
+Katarzyna Heinz
+katarzyna.heinz@tauron.pl
+tel. + 48 516 111 038
+24/32
+
+tauron.pl
+a
+Zastrzeżenie prawne
+Niniejsza prezentacja ma charakter wyłącznie informacyjny i nie należy jej traktować jako porady inwestycyjnej.
+Niniejsza prezentacja została sporządzona przez TAURON Polska Energia S.A. („Spółka”). 
+Spółka ani żaden z jej podmiotów zależnych nie ponoszą odpowiedzialności z tytułu jakiejkolwiek szkody wynikającej z wykorzystania niniejszej prezentacji
+lub jej treści albo powstałej w jakikolwiek inny sposób związany z niniejszą prezentacją.
+Odbiorcy niniejszej prezentacji ponoszą wyłączną odpowiedzialność za własne analizy i oceny rynku oraz sytuacji rynkowej Spółki i potencjalnych wyników
+Spółki w przyszłości, dokonane w oparciu o informacje zawarte w niniejszej prezentacji.
+W zakresie, w jakim niniejsza prezentacja zawiera stwierdzenia dotyczące przyszłości, a w szczególności słowa „projektowany”, „planowany”,
+„przewidywany” i podobne wyrażenia (łącznie z ich zaprzeczeniami), stwierdzenia te wiążą się ze znanym i nieznanym ryzykiem, niepewnością oraz innymi
+czynnikami, których skutkiem może być to, że rzeczywiste wyniki, sytuacja finansowa, działania i osiągnięcia Spółki albo wyniki branży będą istotnie różnić
+się od jakichkolwiek przyszłych wyników, działań lub osiągnięć wyrażonych w takich stwierdzeniach dotyczących przyszłości.
+Ani Spółka ani żaden z jej podmiotów zależnych nie są zobowiązane zapewnić odbiorcom niniejszej prezentacji jakichkolwiek dodatkowych informacji ani
+aktualizować niniejszej prezentacji.
+25/32
+
+tauron.pl
+Dziękujemy za uwagę
+26/32
+a
+a
+
+tauron.pl
+a
+Pokrycie analityczne TAURON
+27/32
+Instytucja
+Analityk
+Dom Maklerski mBanku*
+Kamil Kliszcz
+Societe Generale
+Bartłomiej Kubicki
+Dom Maklerski Santander
+Paweł Puchalski
+Dom Maklerski PKO BP
+Andrzej Rembelski
+Dom Maklerski Banku Handlowego
+Piotr Dzięciołowski
+Ipopema
+Robert Maj
+Erste Group
+Tomasz Duda
+Instytucja
+Analityk
+Raiffeisen Centrobank
+Teresa Schinwald
+WOOD & Company
+Ondrej Slama
+Dom Maklerski BOŚ
+Jakub Viscardi
+Exane BNP Paribas
+Michael Harleaux
+Pekao Investment Banking
+Maksymilian Piotrowski
+Beskidzki Dom Maklerski
+Krystian Brymora
+Trigon Dom Maklerski
+Michał Kozak
+* wydawanie rekomendacji zostało zawieszone
+
+tauron.pl
+a
+Trendy cenowe na rynku energii elektrycznej
+Energia elektryczna
+Platformy: TGE, TFS
+2019 r.
+2020 r. 
+(notowania do 5 maja 2020 i estymacja)
+2020/2019
+Cena (PLN/MWh)
+Wolumen (GWh)
+Cena (PLN/MWh)
+Wolumen (GWh)
+Cena %
+Wolumen %
+Forward BASE (Y+Q+M)241,94167 413253,97168 0625,0%0,4%
+Forward PEAK (Y+Q+M)334,6013 748319,0419 793-4,7%44,0%
+Forward (średnia ważona)248,97181 161260,83187 8554,8%3,7%
+SPOT (TGE)230,9733 947188,0534 500-18,6%1,6%
+Średnia ważona razem246,13215 108249,54222 3551,4%3,4%
+Prawa majątkowe (PLN/MWh)
+Rodzaj certyfikatu
+Ceny rynkowe 
+(średnia ważona za 
+pierwszy kwartał 
+2020 r.)
+Opłata zastępcza i obowiązek za:
+2019 r.
+2020 r.
+OZE (PMOZE_A)
+147,76
+129,78 (18,5%)
+165,24 (19,5%)
+OZE z biogazowni (PMOZE_BIO)
+300,08
+300,03 (0,5%)
+300,03 (0,5%)
+Uprawnienia do emisji CO2 (EUR/t)Ankieta analityków rynku
+* Źródła: Point Carbon, BNEF, Consus, GDF SUEZ Trading, HSE, Mkonline, Societe Generale, TAURON
+28/32
+
+tauron.pl
+a Notowania kontraktów BASE na 2019
+Średnia cena [PLN/MWh]
+Wolumen [GWh]
+Razem
+237,44
+133 170
+w tym
+na TGE
+238,36
+129 674
+poza TGE
+203,20
+3 495
+Średnia cena energii elektrycznej uwzględniająca kontrakty roczne BASE i PEAK na 2019 r.: 244,92 PLN/MWh, łączny wolumen BASE i PEAK na 2019 r.: 143 508 GWh
+237,44
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+150
+170
+190
+210
+230
+250
+270
+290
+310
+330
+GWh
+PLN/MWh
+BASE Y-19
+Wolumen obrotu
+Notowania
+Średnia
+29/32
+
+tauron.pl
+a Notowania kontraktów BASE na 2020 r.
+Średnia cena [PLN/MWh]
+Wolumen [GWh]
+Razem
+265,42
+134 887
+w tym
+na TGE
+265,44
+134 852
+poza TGE
+208,19
+35
+Średnia cena energii elektrycznej uwzględniająca kontrakty roczne BASE i PEAK na 2020 r.: 271,88 PLN/MWh, łączny wolumen BASE i PEAK na 2020 r.: 151 518 GWh
+265,42
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+150
+170
+190
+210
+230
+250
+270
+290
+310
+330
+GWh
+PLN/MWh
+BASE Y-20
+Wolumen obrotu
+Notowania
+Średnia
+30/32
+
+tauron.pl
+a
+Notowania kontraktów BASE na 2021 r.
+Średnia cena [PLN/MWh]
+Wolumen [GWh]
+Razem
+248,27
+51 702
+w tym
+na TGE
+248,27
+51 702
+poza TGE
+0
+0
+Średnia cena energii elektrycznej uwzględniająca kontrakty roczne BASE i PEAK na 2021 r.: 253,28 PLN/MWh, łączny wolumen BASE i PEAK na 2021 r.: 57 542 GWh
+248,27
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+150
+170
+190
+210
+230
+250
+270
+290
+310
+330
+GWh
+PLN/MWh
+BASE Y-21
+Wolumen obrotu
+Notowania
+Średnia
+31/32
+
+tauron.pl
+a
+Notowania kontraktów BASE na 2022 r.
+Średnia cena [PLN/MWh]
+Wolumen [GWh]
+Razem
+250,75
+8 042
+w tym
+na TGE
+250,75
+8 042
+poza TGE
+0
+0
+Średnia cena energii elektrycznej uwzględniająca kontrakty roczne BASE i PEAK na 2022 r.: 255,57 PLN/MWh, łączny wolumen BASE i PEAK na 2022 r.: 9 036 GWh
+250,75
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+150
+170
+190
+210
+230
+250
+270
+290
+310
+GWh
+PLN/MWh
+BASE Y-22
+Wolumen obrotu
+Notowania
+Średnia
+32/32

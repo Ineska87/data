@@ -1,0 +1,6671 @@
+24 września 2021 
+ 
+ 
+ 
+ 
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI 
+PĄTNÓW – ADAMÓW – KONIN SA 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY DNIA 30 CZERWCA 2021 ROKU 
+WRAZ Z RAPORTEM Z PRZEGLĄDU 
+ 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+2 
+ 
+Spis treści 
+SKONSOLIDOWANY RACHUNEK ZYSKÓW I STRAT .................................................................................. 4 
+SKONSOLIDOWANE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW ................................................. 5 
+SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ .......................................................... 6 
+SKONSOLIDOWANE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH ................................................ 8 
+SKONSOLIDOWANE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM ......................................... 9 
+DODATKOWE NOTY OBJAŚNIAJĄCE ............................................................................................................ 11 
+1. Informacje ogólne ........................................................................................................................................... 11 
+2. Skład Grupy .................................................................................................................................................... 12 
+3. Skład Zarządu jednostki dominującej ............................................................................................................. 13 
+4. Podstawa sporządzenia śródrocznego skróconego skonsolidowanego sprawozdania finansowego ............... 13 
+4.1. 
+Założenie kontynuacji działalności ...................................................................................................... 13 
+5. Nowe standardy i interpretacje, które zostały opublikowane, a nie weszły jeszcze w życie .......................... 14 
+6. Istotne zasady (polityka) rachunkowości ........................................................................................................ 16 
+7. Istotne wartości oparte na profesjonalnym osądzie i szacunkach ................................................................... 16 
+7.1. 
+Wpływ pandemii wywołanej chorobą COVID-19 na działalność Grupy ............................................ 16 
+7.2. 
+Pozostałe istotne wartości oparte na profesjonalnym osądzie i szacunkach ........................................ 17 
+8. Zmiana szacunków.......................................................................................................................................... 17 
+9. Sezonowość działalności................................................................................................................................. 17 
+10. Segmenty operacyjne ...................................................................................................................................... 18 
+11. Przychody i koszty .......................................................................................................................................... 22 
+11.1. Przychody ze sprzedaży ....................................................................................................................... 22 
+11.2. Pozostałe przychody operacyjne .......................................................................................................... 22 
+11.3. Pozostałe koszty operacyjne ................................................................................................................ 23 
+11.4. Przychody finansowe ........................................................................................................................... 23 
+11.5. Koszty finansowe................................................................................................................................. 23 
+11.6. Koszty według rodzajów ..................................................................................................................... 24 
+12. Podatek dochodowy ........................................................................................................................................ 24 
+12.1. Obciążenie podatkowe ......................................................................................................................... 24 
+12.2. Odroczony podatek dochodowy .......................................................................................................... 25 
+13. Zysk przypadający na jedną akcję................................................................................................................... 26 
+14. Rzeczowe aktywa trwałe ................................................................................................................................. 27 
+14.1. Test na utratę wartości aktywów Grupy Kapitałowej ZE PAK SA ..................................................... 29 
+15. Aktywa z tytułu prawa do użytkowania oraz zobowiązania z tytułu leasingu ................................................ 30 
+16. Aktywa niematerialne ..................................................................................................................................... 32 
+17. Aktywa dotyczące zdejmowania nadkładu i inne aktywa górnicze ................................................................ 34 
+18. Pozostałe aktywa ............................................................................................................................................. 34 
+18.1. Pozostałe aktywa finansowe ................................................................................................................ 34 
+18.2. Pozostałe aktywa niefinansowe ........................................................................................................... 35 
+19. Zapasy ............................................................................................................................................................. 35 
+20. Należności z tytułu dostaw i usług oraz pozostałe należności ........................................................................ 36 
+21. Środki pieniężne i ich ekwiwalenty ................................................................................................................ 36 
+22. Dywidendy wypłacone i zaproponowane do wypłaty ..................................................................................... 38 
+23. Oprocentowane kredyty bankowe i pożyczki ................................................................................................. 38 
+24. Rezerwy i rozliczenia międzyokresowe .......................................................................................................... 40 
+24.1. Rozliczenia międzyokresowe bierne.................................................................................................... 40 
+24.2. Zmiany stanu rezerw ............................................................................................................................ 41 
+24.3. Opis istotnych tytułów rezerw ............................................................................................................. 42 
+24.3.1. Rezerwa na zobowiązania z tytułu emisji gazów cieplarnianych (EUA) ...................................... 42 
+24.3.2. Rezerwa na rekultywację składowisk popiołów i koszty likwidacji środków trwałych ............... 43 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+3 
+ 
+24.3.3. Rezerwy rekultywacyjne i inne związane z działalnością górniczą .............................................. 43 
+24.3.4. Rezerwa na umorzenie świadectw pochodzenia energii ............................................................... 43 
+24.3.5. Inne rezerwy ................................................................................................................................. 43 
+25. Zobowiązania z tytułu dostaw i usług, pozostałe zobowiązania i rozliczenia międzyokresowe .................... 44 
+25.1. Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania finansowe (krótkoterminowe) ... 44 
+25.2. Pozostałe zobowiązania niefinansowe ................................................................................................. 44 
+25.3. Dotacje i rozliczenia międzyokresowe przychodów (długoterminowe) .............................................. 45 
+25.4. Dotacje i rozliczenia międzyokresowe przychodów (krótkoterminowe) ............................................. 45 
+26. Zobowiązania warunkowe oraz opis istotnych spraw sądowych .................................................................... 45 
+26.1. Sprawy sądowe .................................................................................................................................... 45 
+26.2. Zobowiązania warunkowe związane z likwidacją elektrowni ............................................................. 47 
+27. Zabezpieczenia spłaty zobowiązań ................................................................................................................. 47 
+28. Otrzymane gwarancje i poręczenia ................................................................................................................. 49 
+29. Informacje o podmiotach powiązanych .......................................................................................................... 49 
+29.1. Pożyczka udzielona członkowi Zarządu .............................................................................................. 50 
+29.2. Inne transakcje z udziałem członków Zarządu .................................................................................... 50 
+29.3. Wynagrodzenie wyższej kadry kierowniczej Grupy ........................................................................... 51 
+29.3.1. Wynagrodzenie wypłacone lub należne członkom Zarządu oraz członkom 
+Rady Nadzorczej Grupy ................................................................................................................ 51 
+29.3.2. 
+Wynagrodzenie wypłacone lub należne pozostałym członkom głównej kadry kierowniczej ............. 51 
+30. Cele i zasady zarządzania ryzykiem finansowym ........................................................................................... 51 
+30.1. Ryzyko stopy procentowej................................................................................................................... 51 
+30.2. Ryzyko walutowe ................................................................................................................................ 54 
+30.3. Ryzyko kredytowe ............................................................................................................................... 56 
+30.4. Ryzyko związane z płynnością ............................................................................................................ 57 
+31. Instrumenty finansowe .................................................................................................................................... 59 
+31.1. Wartość bilansowa i wartość godziwa poszczególnych klas instrumentów finansowych ................... 59 
+31.2. Ryzyko stopy procentowej instrumentów finansowych ...................................................................... 60 
+31.2.1. Zabezpieczenia .............................................................................................................................. 60 
+32. Zarządzanie kapitałem .................................................................................................................................... 61 
+33. Zdarzenia następujące po dniu bilansowym.................................................................................................... 61 
+ 
+ 
+ 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+Zasady (polityki) rachunkowości oraz dodatkowe noty objaśniające do skonsolidowanego sprawozdania finansowego 
+stanowią jego integralną część. 
+ 
+4 
+SKONSOLIDOWANY RACHUNEK ZYSKÓW I STRAT 
+za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+Nota 
+Działalność kontynuowana 
+0 
+0 
+0 
+0 
+Przychody ze sprzedaży, w tym: 
+11.1 
+ 985 718 
+ 523 304 
+ 1 050 461 
+ 526 387 
+Przychody z umów z klientami 
+ 
+784 813 
+420 314 
+926 813 
+468 775 
+Inne przychody 
+200 905 
+102 990 
+123 648 
+57 612 
+Koszt własny sprzedaży, w tym: 
+11.6 
+ (931 053) 
+ (482 406) 
+ (1 305 553) 
+ (802 425) 
+Odpis aktualizujący wartość środków 
+trwałych i aktywów górniczych 
+ 
+- 
+- 
+(289 000) 
+(289 000) 
+Zysk/(strata) brutto ze sprzedaży 
+ 54 665 
+ 40 898 
+ (255 092) 
+ (276 038) 
+Pozostałe przychody operacyjne 
+11.2 
+ 28 440 
+ 20 611 
+ 35 973 
+ 15 337 
+Koszty sprzedaży 
+11.6 
+ (2 513) 
+ (807) 
+ (2 007) 
+ (895) 
+Koszty ogólnego zarządu 
+11.6 
+ (53 491) 
+ (26 222) 
+ (51 730) 
+ (22 627) 
+Pozostałe koszty operacyjne 
+11.3 
+ (11 501) 
+ (10 804) 
+ (35 749) 
+ (15 832) 
+Zysk/ (strata) z działalności 
+operacyjnej 
+ 
+ 15 600 
+ 23 676 
+ (308 605) 
+ (300 055) 
+Przychody finansowe 
+11.4 
+ 1 117 
+ (537) 
+ 5 682 
+ (1 762) 
+Koszty finansowe 
+11.5 
+ (6 274) 
+ (2 708) 
+ (11 540) 
+ (6 998) 
+Zysk/(strata) brutto 
+ 10 443 
+ 20 431 
+ (314 463) 
+ (308 815) 
+Podatek dochodowy (obciążenie 
+podatkowe) 
+12 
+ 9 546 
+ 7 565 
+ 53 631 
+ 58 898 
+Zysk/(strata) netto z działalności 
+kontynuowanej 
+ 
+ 19 989 
+ 27 996 
+ (260 832) 
+ (249 917) 
+Zysk/(strata) netto za okres 
+ 19 989 
+ 27 996 
+ (260 832) 
+ (249 917) 
+Zysk/(strata) przypadający 
+akcjonariuszom jednostki dominującej 
+ 
+ 19 989 
+ 27 996 
+ (257 514) 
+ (247 168) 
+Zysk/(strata) przypadający 
+akcjonariuszom niekontrolującym 
+ 
+ - 
+ - 
+ (3 318) 
+ (2 749) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+30 czerwca 2021 
+roku (niebadane) 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+Zysk/(strata) na jedną akcję (w złotych): 
+ 
+ 
+ 
+ Nota 
+ 
+Podstawowy/rozwodniony za okres 
+obrotowy z działalności kontynuowanej 
+przypadający akcjonariuszom jednostki 
+dominującej 
+13 
+ 0,39 
+ 0,55 
+ (5,07) 
+ (4,86) 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+Zasady (polityki) rachunkowości oraz dodatkowe noty objaśniające do skonsolidowanego sprawozdania finansowego 
+stanowią jego integralną część. 
+ 
+5 
+SKONSOLIDOWANE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW 
+za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+ 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+ 
+30 czerwca 2021 
+roku (niebadane) 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+Nota 
+Zysk netto za okres 
+ 19 989 
+ 27 996 
+ (260 832) 
+ (249 917) 
+Inne całkowite dochody 
+0 
+0 
+0 
+0 
+Pozycje podlegające 
+przeklasyfikowaniu do zysku/(straty) 
+w kolejnych okresach 
+sprawozdawczych: 
+ 
+ - 
+ - 
+ - 
+ - 
+Różnice kursowe z przeliczenia 
+jednostki zagranicznej 
+ 
+ (44) 
+ (58) 
+ (25) 
+ (29) 
+Podatek dochodowy dotyczący 
+innych całkowitych dochodów 
+ 
+ - 
+ - 
+ - 
+ - 
+Inne całkowite dochody netto 
+podlegające przeklasyfikowaniu do 
+zysku/(straty) w kolejnych okresach 
+sprawozdawczych 
+ 
+ (44) 
+ (58) 
+ (25) 
+ (29) 
+Pozycje nie podlegające 
+przeklasyfikowaniu do zysku/(straty) 
+w kolejnych okresach 
+sprawozdawczych: 
+ 
+ - 
+ - 
+ - 
+ - 
+Zyski/(straty) aktuarialne dotyczące 
+rezerw na świadczenia pracownicze 
+po okresie zatrudnienia 
+ 
+ (27) 
+ (20) 
+ (72) 
+ 40 
+Podatek dochodowy dotyczący 
+innych całkowitych dochodów 
+12.1 
+ (13) 
+ (10) 
+ 14 
+ (7) 
+Inne całkowite dochody netto nie 
+podlegające przeklasyfikowaniu do 
+zysku/(straty) w kolejnych okresach 
+sprawozdawczych 
+ 
+ (40) 
+ (30) 
+ (58) 
+ 33 
+Inne całkowite dochody netto 
+ (84) 
+ (88) 
+ (83) 
+ 4 
+Całkowity dochód za okres 
+ 19 905 
+ 27 908 
+ (260 915) 
+ (249 913) 
+Całkowity dochód przypadający 
+akcjonariuszom jednostki 
+dominującej 
+ 
+ 19 905 
+ 27 908 
+ (257 597) 
+ (247 164) 
+Całkowity dochód przypadający 
+akcjonariuszom niekontrolującym 
+ - 
+ - 
+ (3 318) 
+ (2 749) 
+ 
+ 
+ 
+ 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+Zasady (polityki) rachunkowości oraz dodatkowe noty objaśniające do skonsolidowanego sprawozdania finansowego 
+stanowią jego integralną część. 
+ 
+6 
+SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ 
+na dzień 30 czerwca 2021 roku 
+ 
+Nota 
+30 czerwca 2021 roku 
+(niebadane) 
+ 
+31 grudnia 2020 roku 
+AKTYWA 
+2 804 490 
+2 878 628 
+Aktywa trwałe 
+2 000 406 
+1 857 355 
+Rzeczowe aktywa trwałe 
+14 
+ 1 810 433 
+ 1 660 661 
+Aktywa z tytułu prawa do użytkowania 
+15 
+ 47 497 
+ 49 210 
+Nieruchomości inwestycyjne 
+ 2 125 
+ 2 141 
+Aktywa niematerialne 
+16 
+ 2 414 
+ 2 754 
+Aktywa dotyczące zdejmowania nadkładu i inne aktywa 
+górnicze (długoterminowe) 
+17 
+ 48 109 
+ 
+ 52 291 
+Pozostałe aktywa długoterminowe finansowe 
+18.1 
+ 6 072 
+ 5 081 
+Pozostałe aktywa długoterminowe niefinansowe 
+18.2 
+ 1 111 
+ 297 
+Aktywa z tytułu podatku odroczonego 
+12.2 
+ 82 645 
+ 84 920 
+Razem aktywa trwałe 
+ 2 000 406 
+ 1 857 355 
+Aktywa obrotowe 
+ 
+804 084 
+ 
+1 021 273 
+Prawa do emisji 
+16 
+ 15 
+ 3 565 
+Zapasy 
+19 
+ 67 233 
+ 67 859 
+Należności z tytułu dostaw i usług oraz pozostałe należności 
+20 
+ 572 666 
+ 385 056 
+Należności z tytułu podatku dochodowego 
+ 14 181 
+ 19 416 
+Pochodne instrumenty finansowe krótkoterminowe (aktywa) 
+ 
+ - 
+ 
+ 6 550 
+Pozostałe aktywa krótkoterminowe finansowe 
+ - 
+ 10 
+Pozostałe aktywa krótkoterminowe niefinansowe 
+18.2 
+ 60 452 
+ 39 673 
+Kwoty należne od zamawiających z tytułu kontraktów 
+długoterminowych 
+ 
+ 2 490 
+ 
+ 1 283 
+Środki pieniężne i ich ekwiwalenty 
+21 
+ 84 997 
+ 497 861 
+Razem aktywa obrotowe 
+ 
+ 802 034 
+ 
+ 1 021 273 
+SUMA AKTYWÓW 
+ 
+ 2 802 440 
+ 
+ 2 878 628 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+Zasady (polityki) rachunkowości oraz dodatkowe noty objaśniające do skonsolidowanego sprawozdania finansowego 
+stanowią jego integralną część. 
+ 
+7 
+Nota 
+30 czerwca 2021 roku 
+(niebadane) 
+ 
+31 grudnia 2020 roku 
+PASYWA 
+2 804 490 
+2 878 628 
+Kapitał własny 
+969 359 
+949 463 
+Kapitał podstawowy 
+ 101 647 
+ 101 647 
+Kapitał zapasowy 
+ 1 124 376 
+ 1 124 376 
+Pozostałe kapitały rezerwowe 
+ 3 472 
+ 3 472 
+Zyski zatrzymane / Niepokryte straty 
+ (280 124) 
+ (55 931) 
+Zysk (strata) netto 
+ 19 989 
+ (222 393) 
+Różnice kursowe z przeliczenia jednostki zagranicznej 
+ (1) 
+ 43 
+Kapitał własny przypadający akcjonariuszom jednostki 
+dominującej 
+ 
+969 359 
+ 
+951 214 
+Kapitał akcjonariuszy niekontrolujących 
+ - 
+ (1 751) 
+Kapitał własny ogółem 
+ 
+ 969 359 
+ 
+ 949 463 
+Zobowiązania długoterminowe 
+1 002 272 
+861 085 
+Oprocentowane kredyty i pożyczki 
+23 
+ 165 643 
+ - 
+Świadczenia pracownicze długoterminowe 
+ 40 862 
+ 40 886 
+Zobowiązania z tytułu dostaw i usług oraz pozostałe 
+zobowiązania finansowe długoterminowe 
+ 
+ 1 041 
+ 
+ 5 248 
+Zobowiązania z tytułu leasingu długoterminowe 
+15 
+ 47 126 
+ 
+ 51 495 
+Dotacje i rozliczenia międzyokresowe przychodów 
+długoterminowe 
+25.3 
+ 35 834 
+ 
+ 36 027 
+Inne rezerwy długoterminowe i rozliczenia międzyokresowe 
+24 
+ 413 151 
+ 414 527 
+Rezerwa z tytułu odroczonego podatku dochodowego 
+12.2 
+ 298 615 
+ 312 902 
+Zobowiązania długoterminowe ogółem 
+ 
+ 1 002 272 
+ 
+ 861 085 
+Zobowiązania krótkoterminowe 
+832 859 
+1 068 080 
+Zobowiązania z tytułu dostaw i usług oraz pozostałe 
+zobowiązania finansowe krótkoterminowe 
+25.1 
+ 334 434 
+ 
+ 188 261 
+Bieżąca część oprocentowanych kredytów i pożyczek 
+23 
+ 94 301 
+ 55 003 
+Pozostałe zobowiązania niefinansowe 
+25.2 
+ 76 784 
+ 78 152 
+Zobowiązania z tytułu podatku dochodowego 
+ - 
+ 1 279 
+Świadczenia pracownicze krótkoterminowe 
+ 
+ 7 027 
+ 
+ 6 521 
+Dotacje i rozliczenia międzyokresowe przychodów 
+krótkoterminowe 
+25.4 
+ 3 646 
+ 
+ 3 646 
+Kwoty należne zamawiającym z tytułu kontraktów 
+długoterminowych 
+ 
+ 5 821 
+ 
+ 6 680 
+Inne rezerwy krótkoterminowe i rozliczenia międzyokresowe 
+24 
+ 308 796 
+ 728 538 
+Zobowiązania krótkoterminowe ogółem 
+ 
+ 830 809 
+ 
+ 1 068 080 
+Zobowiązania razem 
+ 1 833 081 
+ 1 929 165 
+SUMA PASYWÓW 
+ 2 802 440 
+ 2 878 628 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+Zasady (polityki) rachunkowości oraz dodatkowe noty objaśniające do skonsolidowanego sprawozdania finansowego 
+stanowią jego integralną część. 
+ 
+8 
+SKONSOLIDOWANE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH 
+za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+Okres zakończony 
+Okres zakończony 
+Nota 
+30 czerwca 2021 roku 
+(niebadane) 
+ 
+30 czerwca 2020 roku 
+(niebadane) 
+Przepływy środków pieniężnych z działalności operacyjnej 
+0 
+0 
+Zysk/(strata) brutto 
+ 10 443 
+ (314 463) 
+Korekty o pozycje: 
+-376 449 
+107 516 
+Amortyzacja 
+21 
+ 66 653 
+ 78 724 
+Odsetki i udziały w zyskach 
+ 1 010 
+ 1 117 
+(Zysk)/strata z tytułu różnic kursowych 
+ 257 
+ (18) 
+(Zysk)/strata na działalności inwestycyjnej 
+ (10 075) 
+ (6 126) 
+(Zwiększenie)/zmniejszenie stanu należności 
+21 
+ (183 452) 
+ (13 163) 
+(Zwiększenie)/zmniejszenie stanu zapasów 
+21 
+ 627 
+ (6 487) 
+Zwiększenie/(zmniejszenie) stanu zobowiązań z wyjątkiem 
+kredytów i pożyczek 
+21 
+ 162 827 
+ 
+ (84 948) 
+Zmiana stanu rezerw, rozliczeń międzyokresowych oraz 
+świadczeń pracowniczych 
+21 
+ 222 601 
+ 
+ 341 542 
+Podatek dochodowy zapłacony 
+ 1 479 
+ 33 454 
+Wydatki na nabycie uprawnień do emisji CO2 
+ (633 759) 
+ (525 656) 
+Odpis aktualizujący wartość rzeczowych aktywów trwałych 
+i aktywów górniczych 
+ 
+- 
+ 
+ 289 000 
+Pozostałe 
+ (2 742) 
+ 77 
+Środki pieniężne netto z działalności operacyjnej 
+ (364 131) 
+ (206 947) 
+Przepływy środków pieniężnych z działalności 
+inwestycyjnej 
+ 
+0 
+ 
+0 
+Sprzedaż rzeczowych aktywów trwałych i wartości 
+niematerialnych 
+ 
+ 11 792 
+ 
+ 4 434 
+Nabycie rzeczowych aktywów trwałych i wartości 
+niematerialnych 
+ 
+ (265 539) 
+ 
+ (19 019) 
+Pozostałe 
+ (9) 
+ (13) 
+Środki pieniężne netto z działalności inwestycyjnej 
+ 
+ (253 756) 
+ 
+ (14 598) 
+Przepływy środków pieniężnych z działalności finansowej 
+ 
+0 
+ 
+0 
+Spłata zobowiązań z tytułu leasingu 
+ 
+ (161) 
+ 
+ (624) 
+Wpływy z tytułu kredytów, pożyczek i dłużnych papierów 
+wartościowych 
+ 
+ 272 164 
+ 
+ 13 264 
+Spłata kredytów, pożyczek i dłużnych papierów 
+wartościowych 
+ 
+ (65 077) 
+ 
+ (15 476) 
+Odsetki zapłacone 
+ (1 646) 
+ (1 344) 
+Środki pieniężne netto z działalności finansowej 
+ 205 280 
+ 
+ (4 180) 
+Zwiększenie/(Zmniejszenie) netto stanu środków 
+pieniężnych i ich ekwiwalentów 
+ 
+ (412 607) 
+ 
+ (225 725) 
+Środki pieniężne na początek okresu 
+ 497 601 
+ 414 634 
+Środki pieniężne na koniec okresu 
+ 84 994 
+ 188 909 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+Zasady (polityki) rachunkowości oraz dodatkowe noty objaśniające do skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+ 
+ 
+ 
+9 
+SKONSOLIDOWANE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM 
+za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku (niebadane) 
+ 
+ 
+ 
+Nota 
+Kapitał 
+podstawowy 
+Kapitał 
+zapasowy 
+Pozostałe kapitały 
+rezerwowe 
+Zyski 
+zatrzymane/Niep
+okryte straty 
+Różnice 
+kursowe z 
+przeliczenia 
+jednostki 
+zagranicznej 
+Razem 
+Kapitały 
+akcjonariuszy 
+niekontrolujących 
+Razem kapitał 
+własny 
+Stan na 1 stycznia 2021 roku 
+ 101 647 
+ 1 124 376 
+ 3 472 
+ (278 324) 
+ 43 
+ 951 214 
+ (1 751) 
+ 949 463 
+Zysk netto za okres 
+ - 
+ - 
+ - 
+ 19 989 
+ - 
+ 19 989 
+ - 
+ 19 989 
+Inne całkowite dochody razem 
+ - 
+ - 
+ - 
+ (40) 
+ (44) (84) 
+ - 
+ (84) 
+Całkowity dochód za okres 
+ - 
+ - 
+ - 
+ 19 949 
+ (44) 
+ 19 905 
+ - 
+ 19 905 
+Przeniesienie zysków 
+udziałowców niekontrolujących 
+do zysków zatrzymanych 
+ 
+ - 
+ - 
+ - 
+ (1 751) 
+ - 
+ (1 751) 
+ 1 751 
+ - 
+Pozostałe zmiany 
+ - 
+ - 
+ - 
+ (9) 
+ - (9) 
+ - 
+ (9) 
+Stan na 30 czerwca 2021 roku 
+ 101 647 
+ 1 124 376 
+ 3 472 
+ (260 135) 
+ (1) 
+ 969 359 
+ - 
+ 969 359 
+ 
+Kapitał akcjonariuszy niekontrolujących został przeniesiony do zysków zatrzymanych z powodu wykupienia całości akcji pracowniczych PAK KWB Adamów SA 
+i PAK KWB Konin SA. 
+ 
+ 
+ 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+Zasady (polityki) rachunkowości oraz dodatkowe noty objaśniające do skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+ 
+ 
+ 
+10 
+ 
+SKONSOLIDOWANE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM 
+za okres 6 miesięcy zakończony dnia 30 czerwca 2020 roku (niebadane) 
+ 
+ 
+Nota 
+Kapitał 
+podstawowy 
+Kapitał 
+zapasowy 
+Pozostałe kapitały 
+rezerwowe 
+Zyski 
+zatrzymane/ 
+Niepokryte straty 
+Różnice 
+kursowe z 
+przeliczenia 
+jednostki 
+zagranicznej 
+Razem 
+Kapitały 
+akcjonariuszy 
+niekontrolujących 
+Razem kapitał 
+własny 
+Stan na 1 stycznia 2020 roku 
+ 
+ 101 647 
+ 1 124 376 
+ 3 472 
+ (55 348) 
+ - 
+ 1 174 147 
+ 2 321 
+ 1 176 468 
+Zysk netto za okres 
+ 
+ - 
+ - 
+ - 
+ (257 514) 
+ - (257 514) 
+ (3 318) 
+ (260 832) 
+Inne całkowite dochody razem 
+ - 
+ - 
+ - 
+ (58) 
+ (25) (83) 
+ - 
+ (83) 
+Całkowity dochód za okres 
+ - 
+ - 
+ - 
+ (257 572) 
+ (25) (257 597) 
+ (3 318) 
+ (260 915) 
+Pozostałe zmiany 
+ - 
+ - 
+ - 
+ 1 
+ - 
+ 1 
+ - 
+ 1 
+Stan na 30 czerwca 2020 roku 
+ 101 647 
+ 1 124 376 
+ 3 472 
+ (312 919) 
+ (25) 
+ 916 551 
+ (997) 
+ 915 554 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+11 
+DODATKOWE NOTY OBJAŚNIAJĄCE 
+1. 
+Informacje ogólne 
+Grupa Kapitałowa Zespołu Elektrowni Pątnów – Adamów – Konin SA („Grupa”, Grupa Kapitałowa”, „Grupa ZE PAK 
+SA”) składa się z Zespołu Elektrowni Pątnów – Adamów – Konin SA („jednostka dominująca”, „Spółka”, „ZE PAK 
+SA”) i jej spółek zależnych (patrz Nota 2). 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe Grupy obejmuje okres 6 miesięcy zakończony dnia 
+30 czerwca 2021 roku oraz zawiera dane porównawcze za okres 6 miesięcy zakończony dnia 30 czerwca 2020 roku 
+oraz dane na dzień 31 grudnia 2020 roku. Śródroczne skrócone skonsolidowane sprawozdanie z całkowitych 
+dochodów, skonsolidowany rachunek zysków i strat oraz dodatkowe noty objaśniające przedstawiają dodatkowo 
+informacje finansowe za okres 3 miesięcy zakończony dnia 30 czerwca 2021 roku oraz dane porównawcze za okres 
+3 miesięcy zakończony dnia 30 czerwca 2020 roku. 
+Jednostka dominująca jest wpisana do rejestru przedsiębiorców Krajowego Rejestru Sądowego prowadzonego przez 
+Sąd Rejonowy Poznań – Nowe Miasto i Wilda w Poznaniu, IX Wydział Gospodarczy Krajowego Rejestru Sądowego, 
+pod numerem KRS 0000021374. 
+Jednostce dominującej nadano numer statystyczny REGON 310186795. 
+Czas trwania jednostki dominującej oraz jednostek wchodzących w skład Grupy Kapitałowej jest nieoznaczony. 
+Podstawowym przedmiotem działania Grupy jest: 
+1) 
+wytwarzanie i sprzedaż energii elektrycznej, 
+2) 
+produkcja i sprzedaż ciepła (pary wodnej i gorącej wody), 
+3) 
+wydobywanie węgla brunatnego. 
+Pan Zygmunt Solorz pośrednio posiada akcje Spółki reprezentujące łącznie 65,96% kapitału zakładowego Spółki. 
+Za pośrednictwem Pana Zygmunta Solorza Spółka posiada powiązania osobowe z innymi podmiotami. 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+12 
+2. 
+Skład Grupy 
+W skład Grupy wchodzi Zespół Elektrowni Pątnów – Adamów – Konin SA oraz następujące spółki zależne: 
+ 
+Jednostka 
+Siedziba 
+Zakres działalności 
+Procentowy udział Grupy 
+w kapitale 
+Na dzień 
+30 czerwca 
+2021 roku 
+Na dzień 
+31 grudnia 
+2020 roku 
+„PAK Polska Czysta Energia” 
+sp. z o.o. 
+62-510 Konin 
+ul. Kazimierska 45 
+Działalność firm centralnych, z 
+wyłączeniem holdingów finansowych 
+100,00% 
+100,00% 
+„PAK Kopalnia Węgla Brunatnego 
+Konin” SA 
+62-540 Kleczew 
+ul. 600-lecia 9 
+Wydobycie węgla brunatnego 
+100,00%* 
+97,68%* 
+„PAK Górnictwo” sp. z o.o. 
+62-510 Konin 
+ul. Przemysłowa 158 Naprawa i konserwacja maszyn 
+100,00% 
+100,00% 
+Przedsiębiorstwo Remontowe 
+„PAK SERWIS” sp. z o.o. 
+62-510 Konin 
+ul. Przemysłowa 158 Usługi remontowo-budowlane 
+100,00%* 
+100,00%* 
+„PAK-Volt” SA 
+00-834 Warszawa 
+ul. Pańska 77/79 
+Sprzedaż energii elektrycznej 
+100,00% 
+100,00% 
+„PAK-PCE Polski Autobus 
+Wodorowy” sp. z o.o. 
+62-510 Konin 
+ul. Kazimierska 45 
+Produkcja autobusów 
+100,00%* 
+100,00%* 
+„PAK-PCE Fotowoltaika sp. z o.o. 62-510 Konin 
+ul. Kazimierska 45 
+Wytwarzanie energii elektrycznej 
+100,00% 
+100,00% 
+„PAK-PCE Biogaz” sp. z o.o. 
+62-510 Konin 
+ul. Kazimierska 45 
+Wytwarzanie energii elektrycznej 
+100,00%* 
+100,00%* 
+„PAK-PCE Biopaliwa i Wodór” 
+sp. z o.o. 
+62-510 Konin 
+ul. Przemysłowa 158 Wytwarzanie energii elektrycznej 
+100,00%* 
+100,00%* 
+„PAK-PCE Wiatr” sp. z o.o. 
+62-510 Konin 
+ul. Kazimierska 45 
+Wytwarzanie energii elektrycznej 
+100,00%* 
+100,00%* 
+„PG Hydrogen” sp. z o.o. 
+02-673 Warszawa 
+ul. Konstruktorska 4 
+Produkcja silników i turbin, z 
+wyłączeniem silników lotniczych, 
+samochodowych i motocyklowych 
+52,00%* 
+52,00%* 
+„PAK Kopalnia Węgla Brunatnego 
+Adamów” SA w likwidacji 
+62-700 Turek 
+Warenka 23 
+Wydobycie węgla brunatnego 
+100,00%* 
+99,35% 
+„Aquakon” sp. z o.o. w likwidacji 
+62-610 Sompolno 
+Police 
+Spółka w likwidacji 
+99,08%* 
+96,20%* 
+„Exion Hydrogen Polskie 
+Elektrolizery” sp. z o.o. 
+04-028 Warszawa 
+Al. Stanów 
+Zjednoczonych 61 
+Projektowanie i produkcja 
+elektrolizerów 
+80,00% 
+- 
+ 
+* Podmioty, w których ZE PAK SA posiada pośredni udział w kapitale. 
+ 
+16 sierpnia 2021 roku PAK Polska Czysta Energia sp. z o.o. nabyła udziały w 6 spółkach - po 95% udziałów w każdej 
+z nich (są to spółki o nazwach PCE-OZE 1 sp. z o.o., PCE-OZE 2 sp. z o.o., PCE-OZE 3 sp. z o.o., PCE-OZE 4 sp. z 
+o.o., PCE-OZE 5 sp. z o.o. oraz PCE-OZE 6 sp. z o.o.). Spółki te docelowo będą prowadziły projekty inwestycyjne 
+związane z odnawialnymi źródłami energii, przy wykorzystaniu aktywów należących obecnie do Grupy. 
+18 sierpnia 2021 roku również PAK PCE sp. z o.o. nabyła 100% udziałów spółce celowej Farma Wiatrowa Kazimierz 
+Biskupi sp. z o.o., która realizuje projekt budowy farmy wiatrowej w miejscowości Kazimierz Biskupi 
+Na dzień 30 czerwca 2021 roku udział w ogólnej liczbie głosów posiadany przez Grupę w podmiotach zależnych jest 
+równy udziałowi Grupy w kapitałach tych jednostek. 
+ 
+ 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+13 
+3. 
+Skład Zarządu jednostki dominującej 
+W skład Zarządu ZE PAK SA na dzień publikacji sprawozdania wchodzą: 
+Piotr Woźny – Prezes Zarządu, 
+Zygmunt Artwik – Wiceprezes Zarządu, 
+Maciej Nietopiel – Wiceprezes Zarządu, 
+Andrzej Janiszowski – Wiceprezes Zarządu, 
+Katarzyna Sobierajska – Wiceprezes Zarządu. 
+4. 
+Podstawa sporządzenia śródrocznego skróconego skonsolidowanego 
+sprawozdania finansowego 
+Niniejsze 
+śródroczne 
+skonsolidowane 
+skrócone 
+sprawozdanie 
+finansowe 
+zostało 
+sporządzone 
+zgodnie 
+z Międzynarodowym Standardem Rachunkowości nr 34 „Śródroczna Sprawozdawczość Finansowa” zatwierdzonym 
+przez UE („MSR 34”). 
+Śródroczne skonsolidowane skrócone sprawozdanie finansowe nie obejmuje wszystkich informacji oraz ujawnień 
+wymaganych w rocznym sprawozdaniu finansowym i należy je czytać łącznie ze skonsolidowanym sprawozdaniem 
+finansowym Grupy za rok zakończony 31 grudnia 2020 roku zatwierdzonym do publikacji w dniu 19 kwietnia 2021 
+roku. 
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe zostało sporządzone zgodnie z zasadą kosztu 
+historycznego, za wyjątkiem pochodnych i innych instrumentów finansowych. 
+Wartość bilansowa ujętych zabezpieczanych aktywów i zobowiązań jest korygowana o zmiany wartości godziwej, 
+które można przypisać ryzyku, przed którym te aktywa i zobowiązania są zabezpieczane. 
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe jest przedstawione w złotych („PLN”), 
+a wszystkie wartości, o ile nie wskazano inaczej, podane są w tysiącach złotych. 
+4.1. 
+Założenie kontynuacji działalności 
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe zostało sporządzone przy założeniu 
+kontynuacji działalności przez Grupę w dającej się przewidzieć przyszłości, tj. co najmniej w okresie kolejnych 12 
+miesięcy od daty niniejszego sprawozdania finansowego. 
+Na rynku energii, w sektorze producentów energii elektrycznej z paliw kopalnych, cały czas obserwowana jest 
+tendencja obniżającej się marży na produkcji energii elektrycznej. W zdecydowanie większym stopniu dotyka to 
+wytwórców o wysokim stopniu emisyjności CO2 na jednostkę produkcji. 
+Grupa będąc świadomą tendencji na rynku energii oraz obserwując zaostrzające się regulacje dotyczące ochrony 
+środowiska, rosnące ceny uprawnień do emisji CO2, zawężający się spread pomiędzy ceną energii a ceną uprawnień do 
+emisji CO2, podjęła kierunkowe działania zmierzające do stopniowej rezygnacji z wytwarzania energii z węgla 
+brunatnego oraz jednoczesnego rozwoju wytwarzania energii elektrycznej ze źródeł odnawialnych oraz produkcji 
+i wykorzystania zielonego wodoru. 
+Niekorzystnym czynnikiem, który miał wpływ na wyniki i sytuację finansową w I półroczu 2021 roku była niższa 
+sprzedaż spowodowana niższą produkcją w stosunku do założeń oraz do porównywalnego półrocza ubiegłego roku. 
+Niższy wolumen produkcji bloku 474 MW (dawna Elektrownia Pątnów II) był spowodowany odstawieniem bloku do 
+planowanego remontu w marcu. Na początku roku również wydobycie węgla w kopalniach zaopatrujących Grupę 
+w węgiel było niższe od planowanego, co uniemożliwiło optymalne wykorzystanie źródeł wytwórczych – w kolejnych 
+miesiącach możliwości wydobywcze węgla poprawiły się. 
+Mając w szczególności na uwadze podwyższone standardy sprawozdawczości jednostek zainteresowania publicznego 
+oraz ochronę interesariuszy, Zarząd ZE PAK SA zwraca uwagę, że na dzień 30 czerwca 2021 roku zobowiązania 
+krótkoterminowe, w tym kredyty bankowe, przewyższają aktywa obrotowe Grupy o kwotę 28 775 tysięcy złotych. 
+Natomiast w I półroczu 2021 roku wyniki Grupy na poziomie zysku netto i EBITDA wyniosły odpowiednio 19 989 
+tysięcy złotych i 83 176 tysięcy złotych. Zarząd dokonał analizy prognoz przepływów pieniężnych i potwierdza, że 
+analiza przepływów pieniężnych wskazuje na możliwość generowania wystarczających, pozytywnych przepływów 
+pieniężnych co najmniej w okresie kolejnych 12 miesięcy od daty niniejszego skonsolidowanego sprawozdania 
+finansowego. Analiza ta zakłada odnowienie posiadanych linii kredytowych dotyczących finansowania bieżącej 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+14 
+działalności spółek w Grupie oraz sukcesywne pozyskiwanie finansowania dla nowych inwestycji. Zgodnie z 
+założeniami w I półroczu 2021 roku pozyskano finansowanie dla dwóch inwestycji realizowanych obecnie w Grupie, tj. 
+projektu biomasowego w Elektrowni Konin oraz budowy farmy fotowoltaicznej. Również spółka PAK Polska Czysta 
+Energia Sp. z o.o. pozyskała finansowanie w minionym półroczu. 
+Pomimo opisanych powyżej okoliczności mogących rodzić ryzyka dla kontynuowania przez Grupę działalności, Zarząd 
+nie identyfikuje istotnej niepewności co do kontynuacji działalności Grupy. 
+5. 
+Nowe standardy i interpretacje, które zostały opublikowane, a nie 
+weszły jeszcze w życie 
+W niniejszym śródrocznym skróconym skonsolidowanym sprawozdaniu finansowym Grupa nie zdecydowała 
+o wcześniejszym zastosowaniu następujących opublikowanych standardów, interpretacji lub poprawek do istniejących 
+standardów przed ich datą wejścia w życie: 
+o MSSF 17 „Umowy ubezpieczeniowe” oraz zmiany do MSSF 17 
+MSSF 17 „Umowy ubezpieczeniowe” został wydany przez Radę Międzynarodowych Standardów Rachunkowości 
+18 maja 2017 roku, natomiast zmiany do MSSF 17 opublikowano 25 czerwca 2020 roku. Nowy zmieniony standard 
+obowiązuje dla okresów rocznych rozpoczynających się 1 stycznia 2023 roku lub po tej dacie. 
+MSSF 17 Umowy ubezpieczeniowe zastąpi obecnie obowiązujący MSSF 4, który zezwala na różnorodną praktykę 
+w zakresie rozliczania umów ubezpieczeniowych. MSSF 17 zasadniczo zmieni rachunkowość wszystkich podmiotów, 
+które zajmują się umowami ubezpieczeniowymi i umowami inwestycyjnymi. 
+Na dzień sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego, nowy 
+standard wraz ze zmianami nie został jeszcze zatwierdzony przez Unię Europejską. 
+o Zmiany do MSR 1 „Prezentacja sprawozdań finansowych” 
+Rada opublikowała zmiany do MSR 1, które wyjaśniają kwestię prezentacji zobowiązań jako długo- i krótkoterminowe. 
+Opublikowane zmiany obowiązują dla sprawozdań finansowych za okresy rozpoczynające się z dniem 1 stycznia 2023 
+roku lub po tej dacie. 
+Na dzień sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego, zmiana ta 
+nie została jeszcze zatwierdzona przez Unię Europejską. 
+o Zmiany do MSSF 3 „Połączenia przedsięwzięć” 
+Opublikowane w maju 2020 roku zmiany do standardu mają na celu zaktualizowanie stosownych referencji do Założeń 
+Koncepcyjnych w MSSF, nie wprowadzając zmian merytorycznych dla rachunkowości połączeń przedsiębiorstw. 
+o Zmiany do MSR 16 „Rzeczowe aktywa trwałe” 
+Zmiana wprowadza zakaz korygowania kosztu wytworzenia rzeczowych aktywów trwałych o kwoty uzyskane ze 
+sprzedaży składników wyprodukowanych w okresie przygotowywania rzeczowych aktywów trwałych do rozpoczęcia 
+funkcjonowania zgodnie z zamierzeniami kierownictwa. Zamiast tego jednostka rozpozna ww. przychody ze sprzedaży 
+i powiązane z nimi koszty bezpośrednio w rachunku zysków i strat. Zmiana obowiązuje dla sprawozdań finansowych za 
+okresy rozpoczynające się z dniem 1 stycznia 2022 roku lub po tej dacie. 
+o Zmiany do MSR 37 „Rezerwy, zobowiązania warunkowe i aktywa warunkowe” 
+Zmiany do MSR 37 dostarczają wyjaśnień odnośnie do kosztów, które jednostka uwzględnia w analizie, czy umowa 
+jest kontraktem rodzącym obciążenia. Zmiana obowiązuje dla sprawozdań finansowych za okresy rozpoczynające się 
+z dniem 1 stycznia 2022 roku lub po tej dacie. 
+o Roczne zmiany do MSSF 2018 - 2020 
+„Roczne zmiany MSSF 2018-2020” wprowadzają zmiany do standardów: MSSF 1 „Zastosowanie Międzynarodowych 
+Standardów Sprawozdawczości Finansowej po raz pierwszy”, MSSF 9 „Instrumenty finansowe”, MSR 41 „Rolnictwo” 
+oraz do przykładów ilustrujących do MSSF 16 „Leasing”. 
+Poprawki zawierają wyjaśnienia oraz doprecyzowują wytyczne standardów w zakresie ujmowania oraz wyceny. 
+o Zmiany do MSR 1 „Prezentacja sprawozdań finansowych” oraz wytyczne Rady MSSF w zakresie ujawnień 
+dotyczących polityk rachunkowości w praktyce 
+Zmiana do MSR 1 wprowadza wymóg ujawniania istotnych informacji dotyczących zasad rachunkowości, które zostały 
+zdefiniowane w standardzie. Zmiana wyjaśnia, że informacje na temat polityk rachunkowości są istotne, jeżeli 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+15 
+w przypadku ich braku, użytkownicy sprawozdania finansowego nie byliby w stanie zrozumieć innych istotnych 
+informacji zawartych w sprawozdaniu finansowym. Ponadto, dokonano również zmian wytycznych Rady w zakresie 
+stosowania koncepcji istotności w praktyce, aby zapewnić wytyczne dotyczące stosowania pojęcia istotności do 
+ujawnień dotyczących zasad rachunkowości. Na dzień sporządzenia niniejszego śródrocznego skróconego 
+skonsolidowanego sprawozdania finansowego, zmiany te nie zostały jeszcze zatwierdzone przez Unię Europejską. 
+o Zmiany do MSR 8 „Zasady (polityka) rachunkowości, zmiany wartości szacunkowych i korygowanie błędów” 
+W lutym 2021 roku Rada opublikowała zmianę do MSR 8 „Zasady (polityka) rachunkowości, zmiany wartości 
+szacunkowych i korygowanie błędów” w zakresie definicji wartości szacunkowych. Zmiana do MSR 8 wyjaśnia, w jaki 
+sposób jednostki powinny odróżniać zmiany zasad rachunkowości od zmian wartości szacunkowych. Na dzień 
+sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego, zmiany te nie 
+zostały jeszcze zatwierdzone przez Unię Europejską. 
+o Zmiany do MSSF 16 „Leasing” 
+W związku z pandemią koronawirusa (COVID-19), w 2020 roku wprowadzono zmianę do standardu MSSF 16 
+i umożliwiła zastosowanie uproszczenia w zakresie oceny, czy zmiany w umowach leasingowych wprowadzone w 
+czasach pandemii stanowią modyfikacje leasingu. W rezultacie leasingobiorcy mogli skorzystać z uproszczenia 
+polegającego na niestosowaniu wytycznych MSSF 16 dotyczących modyfikacji umów leasingowych. Ponieważ zmiana 
+ta dotyczyła redukcji w opłatach leasingowych należnych do dnia 30 czerwca 2021 roku i wcześniej, stąd w lutym 
+2021 roku Rada zaproponowała rozszerzenie dostępności praktycznego rozwiązania dotyczącego ulg w płatnościach 
+leasingowych, które miałyby wpływ na płatności pierwotnie należne w czerwcu 2022 roku lub wcześniej. Na dzień 
+sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego, zmiany te nie 
+zostały jeszcze zatwierdzone przez Unię Europejską. 
+o Zmiany do MSR 12 „Podatek dochodowy” 
+Zmiany do MSR 12 precyzują, w jaki sposób rozliczać podatek odroczony od transakcji takich jak leasing 
+i zobowiązania z tytułu wycofania z eksploatacji. Przed zmianą do standardu istniały niejasności co do tego, czy 
+zwolnienie dotyczące ujmowania podatku odroczonego rozpoznanego po raz pierwszy miało zastosowanie do tego typu 
+transakcji, tj. w przypadku których ujmowane są zarówno aktywa, jak i zobowiązania z tytułu podatku odroczonego. 
+Wprowadzone zmiany do MSR 12 wyjaśniają, że zwolnienie nie ma zastosowania oraz że jednostki są zobowiązane do 
+ujmowania podatku odroczonego od takich transakcji. Zmiany nakładają na spółki obowiązek ujmowania podatku 
+odroczonego od transakcji, które w momencie początkowego ujęcia powodują powstanie jednakowych różnic 
+przejściowych podlegających opodatkowaniu i odliczeniu. 
+Zmiana obowiązuje dla sprawozdań finansowych za okresy rozpoczynające się z dniem 1 stycznia 2023 roku lub po tej 
+dacie. Na dzień sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego, 
+zmiany te nie zostały jeszcze zatwierdzone przez Unię Europejską. 
+o MSSF 14 „Regulacyjne rozliczenia międzyokresowe” 
+Standard ten pozwala jednostkom, które sporządzają sprawozdanie finansowe zgodnie z MSSF po raz pierwszy 
+(z dniem 1 stycznia 2016 roku lub po tej dacie), do ujmowania kwot wynikających z działalności o regulowanych 
+cenach, zgodnie z dotychczas stosowanymi zasadami rachunkowości. Dla poprawienia porównywalności, 
+z jednostkami które stosują już MSSF i nie wykazują takich kwot, zgodnie z opublikowanym MSSF 14 kwoty 
+wynikające z działalności o regulowanych cenach, powinny podlegać prezentacji w odrębnej pozycji zarówno 
+w sprawozdaniu z sytuacji finansowej jak i w rachunku zysków i strat oraz sprawozdaniu z innych całkowitych 
+dochodów. 
+Decyzją Unii Europejskiej MSSF 14 nie zostanie zatwierdzony. 
+o Zmiany do MSSF 10 i MSR 28 dot. sprzedaży lub wniesienia aktywów pomiędzy inwestorem a jego 
+jednostkami stowarzyszonymi lub wspólnymi przedsięwzięciami 
+Zmiany rozwiązują problem aktualnej niespójności pomiędzy MSSF 10 a MSR 28. Ujęcie księgowe zależy od tego, czy 
+aktywa niepieniężne sprzedane lub wniesione do jednostki stowarzyszonej lub wspólnego przedsięwzięcia stanowią 
+„biznes” (ang. business). 
+W przypadku, gdy aktywa niepieniężne stanowią „biznes”, inwestor wykazuje pełny zysk lub stratę na transakcji. Jeżeli 
+zaś aktywa nie spełniają definicji biznesu, inwestor ujmuje zysk lub stratę z tylko w zakresie części stanowiącej udziały 
+innych inwestorów. 
+Zmiany zostały opublikowane 11 września 2014 roku. Na dzień sporządzenia niniejszego śródrocznego skróconego 
+skonsolidowanego sprawozdania finansowego, zatwierdzenie tej zmiany jest odroczone przez Unię Europejską. 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+16 
+Na dzień zatwierdzenia niniejszego skróconego śródrocznego skonsolidowanego sprawozdania finansowego do 
+publikacji Zarząd nie zakończył jeszcze prac nad oceną wpływu wprowadzenia powyższych standardów oraz 
+interpretacji na stosowane przez Grupę zasady (politykę) rachunkowości w odniesieniu do działalności Grupy lub jej 
+wyników finansowych. 
+Daty wejścia w życie są datami wynikającymi z treści standardów ogłoszonych przez Radę ds. Międzynarodowej 
+Sprawozdawczości Finansowej. Daty stosowania standardów w Unii Europejskiej mogą różnić się od dat stosowania 
+wynikających z treści standardów i są ogłaszane w momencie zatwierdzenia do stosowania przez Unię Europejską. 
+Grupa nie zdecydowała się na wcześniejsze zastosowanie żadnego standardu, interpretacji lub zmiany, która została 
+opublikowana, lecz nie weszła dotychczas w życie w świetle przepisów Unii Europejskiej. 
+6. 
+Istotne zasady (polityka) rachunkowości 
+Zasady (polityki) rachunkowości zastosowane do sporządzenia śródrocznego skróconego skonsolidowanego 
+sprawozdania finansowego są spójne z tymi, które zastosowano przy sporządzaniu rocznego skonsolidowanego 
+sprawozdania finansowego Grupy za rok, który rozpoczął się dnia 1 stycznia 2020 roku. 
+Przychody z rynku mocy 
+Począwszy od 1 stycznia 2021 roku Grupa rozpoznaje przychody z rynku mocy. Przychody z tytułu rynku mocy są to 
+przychody z tytułu realizacji umów (obowiązków) mocowych zawartych w wyniku Aukcji 2021 (rynek pierwotny) oraz 
+wykonania obowiązku mocowego wynikającego z porozumień zawartych na rynku wtórnym. Rynek mocy jest 
+mechanizmem rynkowym mającym na celu zapewnienie stabilnych dostaw energii elektrycznej w horyzoncie 
+długoterminowym. Grupie kapitałowej ZE PAK SA po zakończeniu każdego miesiąca przysługuje od PSE SA 
+wynagrodzenie za wykonanie obowiązku mocowego. W związku z tym spółki z Grupy, będące dostawcami mocy na 
+rzecz PSE S.A., każdego miesiąca ujmują przychody z transakcji dotyczących rynku mocy. 
+Zmiany standardów 
+Wprowadzenie poniższych zmian do standardów nie miało istotnego wpływu na politykę rachunkowości: 
+o Zmiany do MSR 1 „Prezentacja sprawozdań finansowych” i MSR 8 „Zasady (polityka) rachunkowości, zmiany 
+wartości szacunkowych i korygowanie błędów” – Definicja istotności (obowiązuje w odniesieniu do okresów 
+rocznych rozpoczynających się 1 stycznia 2020 roku lub później). 
+o Zmiany do Odniesień do Założeń Koncepcyjnych zawartych w Międzynarodowych Standardach 
+Sprawozdawczości Finansowej (opublikowano dnia 29 marca 2018 roku) – do dnia zatwierdzenia niniejszego 
+sprawozdania finansowego niezatwierdzone przez UE – mające zastosowanie dla okresów rocznych 
+rozpoczynających się dnia 1 stycznia 2020 roku lub później. 
+o Zmiany do MSSF 9, MSR 39 i MSSF 7- reforma wskaźnika referencyjnego stopy procentowej - (obowiązujące w 
+odniesieniu do okresów rocznych rozpoczynających się 1 stycznia 2020 roku lub później), 
+o Zmiany do MSSF 3 „Połączenia przedsięwzięć” – definicja przedsięwzięcia (obowiązujące w odniesieniu do 
+połączeń, w przypadku których data przejęcia przypada na początek pierwszego okresu rocznego 
+rozpoczynającego się 1 stycznia 2020 roku lub później oraz w odniesieniu do nabycia aktywów, które nastąpiło 
+w dniu rozpoczęcia w/w okresu rocznego lub później), 
+Grupa nie zdecydowała się na wcześniejsze zastosowanie żadnego standardu, interpretacji lub zmiany, która została 
+opublikowana, lecz nie weszła dotychczas w życie w świetle przepisów Unii Europejskiej. 
+7. 
+Istotne wartości oparte na profesjonalnym osądzie i szacunkach 
+Zakres istotnych wartości opartych na profesjonalnym osądzie i szacunkach został przedstawiony w skonsolidowanym 
+sprawozdaniu finansowym sporządzonym na dzień 31 grudnia 2020 roku i w bieżącym okresie nie uległ zmianie, poza 
+pozycjami opisanymi poniżej. 
+7.1. 
+Wpływ pandemii wywołanej chorobą COVID-19 na działalność Grupy 
+Sytuacja związana z niekorzystnymi następstwami pandemii COVID-19 w każdym kolejnym miesiącu 2021 roku 
+wydaje się ulegać poprawie. Coraz większa liczba zaszczepionych osób budzi nadzieję na coraz mniejszą liczbę 
+zachorowań w kolejnych kwartałach, a co za tym idzie znoszenie obostrzeń w kolejnych miesiącach. Powinno to 
+również pozytywnie wpłynąć na wyższe zapotrzebowanie na energię. 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+17 
+Spółka zakłada, że następstwa sytuacji pandemicznej będą dużo lżejsze niż w ubiegłym roku. Pomimo, że nie da się 
+wykluczyć negatywnego scenariusza, kolejnych fal wzmożonych zachorowań, to jednak zdolności adaptacyjne 
+przedsiębiorstw są na dużo wyższym poziomie niż miało to miejsce rok temu. 
+Miniony rok udowodnił, że Spółka jest odpowiednio przygotowana do funkcjonowania w warunkach pandemii. 
+Wypracowane rozwiązania w zakresie ochrony pracowników, niedopuszczenia do przerwania ciągłości produkcji, 
+zabezpieczenia pozycji finansowej pozwalają zakładać, że w przypadku realizacji niekorzystnego scenariusza, 
+funkcjonowanie Spółki nie jest obarczone zbyt wysokim ryzykiem. 
+7.2. 
+Pozostałe istotne wartości oparte na profesjonalnym osądzie i szacunkach 
+Wycena certyfikatów energetycznych 
+Z tytułu produkcji energii w źródłach odnawialnych, gazowych oraz wysokiej kogeneracji Grupa rozpoznaje 
+świadectwa pochodzenia energii (zielone i czerwone certyfikaty) według wartości godziwej na koniec miesiąca, 
+w którym zostały wyprodukowane. Na dzień bilansowy Grupa wycenia świadectwa pochodzenia do wartości netto 
+możliwej do uzyskania – dla zielonych certyfikatów na dzień 30 czerwca 2021 roku do ceny 167,18 PLN/MWh. Dane 
+na temat cen pochodzą z notowań na Towarowej Giełdzie Energii SA. Odpis aktualizujący wartość świadectw 
+tworzony jest w przypadku, gdy cena sprzedaży możliwa do uzyskania pomniejszona o koszty zbycia jest niższa od 
+historycznego kosztu wytworzenia. Kwota odpisu na dzień 30 czerwca 2021 roku wynosi 3 600 tysięcy złotych. 
+Wartość odpisu aktualizującego zmniejsza wartość zapasów z tytułu świadectw pochodzenia i zwiększa koszt własny 
+sprzedaży. Źródłem niepewności są regulacje prawne dotyczące rynku odnawialnych źródeł energii. 
+Rezerwa na zobowiązania z tytułu emisji gazów cieplarnianych (EUA) 
+Grupa rozpoznaje rezerwę na zobowiązania z tytułu emisji gazów cieplarnianych. Od 1 stycznia 2013 roku obowiązuje 
+kolejny okres rozliczeniowy 2013 – 2020 dotyczący uprawnień do emisji. Założeniem tego okresu jest przyznanie dla 
+Grupy darmowych uprawnień EUA wynikających z produkcji energii cieplnej, aczkolwiek energetyka została 
+dodatkowo objęta możliwością derogacji, wynikającej z art. 10c Dyrektywy ETS, polegającej na przyznaniu 
+dodatkowych darmowych uprawnień pod warunkiem poniesienia zadeklarowanych nakładów inwestycyjnych na 
+inwestycje zgłoszone w Krajowym Planie Inwestycyjnym (KPI). Źródłem niepewności są znaczące wahania cen 
+uprawnień do emisji CO2 oraz regulacje prawne związane z polityką klimatyczną Unii Europejskiej. 
+Emisja w Grupie ZE PAK SA w I półroczu 2021 roku wyniosła 2 090 125 ton CO2. 
+Szczegóły odnośnie rezerwy na zobowiązania z tytułu emisji gazów cieplarnianych zostały zaprezentowane w nocie 
+24.3.1. 
+8. 
+Zmiana szacunków 
+W okresie 6 miesięcy zakończonym dnia 30 czerwca 2021 roku za wyjątkiem tych opisanych w sprawozdaniu 
+finansowym nie miały miejsca istotne zmiany wielkości szacunkowych oraz metodologii dokonywania szacunków, 
+które miałyby wpływ na okres bieżący lub na okresy przyszłe. 
+9. 
+Sezonowość działalności 
+Popyt na energię elektryczną oraz ciepło, zwłaszcza wśród konsumentów, podlega sezonowym wahaniom. Dotychczas 
+praktyka pokazywała, że zużycie energii elektrycznej zwiększało się zimą (głównie z powodu niskich temperatur 
+i krótszego dnia) oraz spadało w okresie letnim (w związku z okresem wakacyjnym, wyższymi temperaturami 
+otoczenia i dłuższym dniem). W ostatnich latach systematycznie odnotowuje się wzrost zapotrzebowania na energię 
+elektryczną latem, spowodowany w głównej mierze rosnącą liczbą wykorzystywanych urządzeń chłodniczych 
+i klimatyzacji. 
+Niezależnie od czynników opisanych powyżej coraz istotniejsze dla poziomu produkcji Grupy stają się warunki 
+meteorologiczne. Kiedyś działalność Grupy nie podlegała w znaczącym stopniu sezonowości popytu, ze względu na 
+niskie koszty praca bloków prowadzona była w sposób ciągły (w podstawie) przez niemal cały rok. Obecnie biorąc pod 
+uwagę rosnący udział OZE w segmencie wytwórców energii, w tym przede wszystkim źródeł wiatrowych oraz 
+fotowoltaiki, przy szacowaniu wielkości produkcji Grupy coraz większego znaczenia nabierają warunki pogodowe, ze 
+szczególnym uwzględnieniem warunków wietrznych w okresach I i IV kwartału oraz słonecznych w okresach II i III 
+kwartału. Jednak ryzyko związane z sezonowością i warunkami meteorologicznymi nie jest kluczowe w działalności 
+Grupy. 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+18 
+10. 
+Segmenty operacyjne 
+Dla celów zarządczych Grupa została podzielona na części w oparciu o wytwarzane produkty i świadczone usługi. 
+Wyodrębniono zatem następujące segmenty operacyjne: 
+ 
+Segment Wytwarzanie obejmujący wytwarzanie energii elektrycznej zarówno w źródłach konwencjonalnych 
+(w tym również w kogeneracji) jak również wytwarzanie energii elektrycznej przy spalaniu i współspalaniu 
+biomasy. Podstawowe paliwa wykorzystywane przez Segment Wytwarzanie to węgiel brunatny oraz biomasa. 
+Segment Wytwarzanie obejmuje następujące jednostki: 
+o 
+Zespół Elektrowni „Pątnów – Adamów – Konin” SA 
+o 
+PAK-Polska Czysta Energia sp. z o.o. 
+o 
+PAK-PCE Fotowoltaika sp. z o.o. 
+o 
+PAK-PCE Biogaz sp. z o.o. 
+o 
+PAK-PCE Biopaliwa i Wodór sp. z o.o. 
+o 
+PAK-PCE Wiatr sp. z o.o. 
+ 
+Segment Wydobycie, który obejmuje wydobycie węgla brunatnego. W Segmencie Wydobycie w ramach 
+Grupy Kapitałowej ZE PAK SA działają: 
+o 
+„PAK Kopalnia Węgla Brunatnego Konin” SA 
+o 
+„PAK Kopalnia Węgla Brunatnego Adamów” SA w likwidacji 
+ 
+Segment Remontowy świadczący usługi w obszarze usług budowlanych i remontowych. Segment obejmuje 
+działalność spółki Przedsiębiorstwo Remontowe „PAK SERWIS” sp. z o.o. 
+ 
+Segment Sprzedaż świadczący usługi sprzedaży energii elektrycznej. Do segmentu Sprzedaż należy spółka 
+„PAK-Volt” SA. 
+Grupa ZE PAK SA prowadzi również inne rodzaje działalności, które zostały ujęte w kolumnie „Pozostałe”. 
+W I półroczu 2021 roku zawiera się tam działalność pozostałych spółek. 
+Ceny transakcyjne stosowane w transakcjach pomiędzy segmentami operacyjnymi są ustalane na zasadach rynkowych 
+podobnie jak w transakcjach ze stronami niepowiązanymi. Żaden z segmentów operacyjnych Grupy nie został 
+połączony z innym segmentem w celu stworzenia powyższych sprawozdawczych segmentów operacyjnych. 
+Przychody z tytułu transakcji pomiędzy segmentami są eliminowane w procesie konsolidacji. 
+Organem podejmującym kluczowe decyzje w Grupie jest Zarząd ZE PAK SA. Zarząd monitoruje oddzielnie wyniki 
+operacyjne segmentów w celu podejmowania decyzji dotyczących alokacji zasobów, oceny skutków tej alokacji oraz 
+wyników działalności. Podstawą oceny wyników działalności jest zysk lub strata na działalności operacyjnej oraz 
+EBITDA. EBITDA należy postrzegać jako dodatek, a nie zastępstwo dla wyników działalności przedstawionych 
+zgodnie z MSSF. EBITDA jest użytecznym wskaźnikiem zdolności zaciągania i obsługi zadłużenia. Poziom EBITDA 
+nie jest zdefiniowana przez MSSF i może być wyliczana inaczej przez inne podmioty. Poniżej przedstawiono 
+uzgodnienie i definicje, jakie stosuje Grupa ZE PAK SA przy ustalaniu tych mierników. 
+Grupa definiuje EBITDA jako zysk netto bez przychodów i kosztów finansowych, podatku dochodowego oraz 
+amortyzacji i odpisów aktualizujących wartość środków trwałych i aktywów górniczych. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+19 
+ 
+EBITDA łącznie dla Całej Grupy Kapitałowej ZE PAK SA 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2021 roku 
+(niebadane) 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2020 roku 
+(niebadane) 
+Zysk/(Strata) netto 
+19 989 
+ 
+(260 832) 
+Przychody finansowe 
+- 1 117 
+ 
+- 5 682 
+Koszty finansowe 
++ 6 274 
+ 
++ 11 540 
+Podatek dochodowy 
+- 9 546 
+ 
+- 53 631 
+Amortyzacja i odpisy aktualizujące 
++ 67 576 
+ 
++ 369 547 
+EBITDA 
+83 176 
+ 
+60 942 
+W następnych tabelach przedstawiono wyniki segmentów dla okresów 6 miesięcy zakończonych dnia 30 czerwca 2021 
+roku oraz 30 czerwca 2020 roku. 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+20 
+Okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku (niebadane) 
+ 
+Wytwarzanie 
+Wydobycie 
+Remont 
+Sprzedaż 
+Pozostałe 
+Korekty 
+konsolidacyjne 
+Suma 
+Przychody ze sprzedaży do klientów zewnętrznych 
+ 836 820 
+ 7 252 
+ 25 251 
+ 113 591 
+ 2 804 
+ - 
+ 985 718 
+Przychody ze sprzedaży między segmentami 
+ 61 314 
+ 201 763 
+ 76 102 
+ - 
+ 69 955 
+ (409 134) 
+ - 
+Przychody ze sprzedaży 
+ 898 134 
+ 209 015 
+ 101 353 
+ 113 591 
+ 72 759 
+ (409 134) 
+ 985 718 
+Koszt własny sprzedaży 
+ (838 525) 
+ (228 566) 
+ (87 247) 
+ (109 359) 
+ (70 816) 
+ 403 460 
+ (931 053) 
+Zysk/(strata) brutto ze sprzedaży 
+ 59 609 
+ (19 551) 
+ 14 106 
+ 4 232 
+ 1 943 
+ (5 674) 
+ 54 665 
+ 
+Pozostałe przychody operacyjne 
+ 17 467 
+ 9 829 
+ 416 
+ 1 709 
+ 165 
+ (1 146) 
+ 28 440 
+Koszty sprzedaży 
+ (1 028) 
+ - 
+ - 
+ (1 304) 
+ (181) 
+ - 
+ (2 513) 
+Koszty ogólnego zarządu 
+ (21 920) 
+ (21 759) 
+ (4 848) 
+ (1 468) 
+ (3 496) 
+ - 
+ (53 491) 
+Pozostałe koszty operacyjne 
+ (9 745) 
+ (1 560) 
+ (88) 
+ (99) 
+ (93) 
+ 84 
+ (11 501) 
+ 
+Przychody finansowe 
+ 1 533 
+ - 
+ - 
+ - 
+ - 
+ (416) 
+ 1 117 
+Koszty finansowe 
+ (9 685) 
+ (3 671) 
+ (287) 
+ (158) 
+ (114) 
+ 7 641 
+ (6 274) 
+Zysk/(strata) brutto 
+ 36 231 
+ (36 712) 
+ 9 299 
+ 2 912 
+ (1 776) 
+ 489 
+ 10 443 
+Podatek dochodowy (obciążenie podatkowe) 
+ 14 244 
+ (2 979) 
+ (1 882) 
+ (1 207) 
+ 73 
+ 1 297 
+ 9 546 
+Zysk/(strata) netto z działalności kontynuowanej 
+ 50 475 
+ (39 691) 
+ 7 417 
+ 1 705 
+ (1 703) 
+ 1 786 
+ 19 989 
+Zysk/(strata) z działalności operacyjnej, bez operacji 
+finansowych i podatku dochodowego 
+ 44 383 
+ (33 041) 
+ 9 586 
+ 3 070 
+ (1 662) 
+ (6 736) 
+ 15 600 
+Amortyzacja 
+ 56 774 
+ 6 999 
+ 1 324 
+ 5 
+ 1 993 
+ 481 
+ 67 576 
+Odpis aktualizujący 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+EBITDA 
+ 101 157 
+ (26 042) 
+ 10 910 
+ 3 075 
+ 331 
+ (6 255) 
+ 83 176 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+21 
+ 
+Okres 6 miesięcy zakończony dnia 30 czerwca 2020 roku (niebadane) 
+ 
+ 
+Wytwarzanie 
+Wydobycie 
+Remont 
+Sprzedaż 
+Pozostałe 
+Korekty 
+konsolidacyjne 
+Suma 
+Przychody ze sprzedaży do klientów zewnętrznych 
+ 829 151 
+ 2 925 
+ 24 342 
+ 191 925 
+ 2 118 
+ - 
+ 1 050 461 
+Przychody ze sprzedaży między segmentami 
+ 42 428 
+ 253 654 
+ 45 239 
+ - 
+ 82 757 
+ (424 078) 
+ - 
+Przychody ze sprzedaży 
+ 871 579 
+ 256 579 
+ 69 581 
+ 191 925 
+ 84 875 
+ (424 078) 
+ 1 050 461 
+Koszt własny sprzedaży 
+ (992 637) 
+ (382 212) 
+ (65 126) 
+ (195 976) 
+ (95 117) 
+ 425 515 
+ (1 305 553) 
+Zysk/(strata) brutto ze sprzedaży 
+ (121 058) 
+ (125 633) 
+ 4 455 
+ (4 051) 
+ (10 242) 
+ 1 437 (255 092) 
+Pozostałe przychody operacyjne 
+ 33 041 
+ 3 685 
+ 111 
+ 35 
+ 491 
+ (1 390) 
+ 35 973 
+Koszty sprzedaży 
+ (814) 
+ - 
+ - 
+ (961) 
+ (232) 
+ - 
+ (2 007) 
+Koszty ogólnego zarządu 
+ (23 854) 
+ (18 641) 
+ (4 823) 
+ (1 384) 
+ (3 028) 
+ - 
+ (51 730) 
+Pozostałe koszty operacyjne 
+ (35 989) 
+ (526) 
+ (552) 
+ (18) 
+ (54) 
+ 1 390 
+ (35 749) 
+Przychody finansowe 
+ 5 774 
+ 181 
+ 53 
+ 144 
+ 9 
+ (479) 
+ 5 682 
+Koszty finansowe 
+ (4 767) 
+ (7 057) 
+ (132) 
+ (1) 
+ (62) 
+ 479 
+ (11 540) 
+Zysk/(strata) brutto 
+ (147 667) 
+ (147 991) 
+ (888) 
+ (6 236) 
+ (13 118) 
+ 1 437 (314 463) 
+Podatek dochodowy (obciążenie podatkowe) 
+ 46 356 
+ 4 341 
+ 1 687 
+ 1 050 
+ 206 
+ (9) 
+ 53 631 
+Zysk/(strata) netto z działalności kontynuowanej 
+ (101 311) 
+ (143 650) 
+ 799 
+ (5 186) 
+ (12 912) 
+ 1 428 (260 832) 
+Zysk/(strata) z działalności operacyjnej, bez operacji 
+finansowych i podatku dochodowego 
+ (148 674) (141 115) 
+ (809) 
+ (6 379) 
+ (13 065) 
+ 1 437 (308 605) 
+Amortyzacja 
+ 49 502 
+ 26 086 
+ 1 632 
+ 2 
+ 2 020 
+ 1 305 
+ 80 547 
+Odpis aktualizujący 
+ 152 000 137 000 
+ - 
+ - 
+ - 
+ - 289 000 
+EBITDA 
+ 52 828 
+ 21 971 
+ 823 
+ (6 377) 
+ (11 045) 
+ 2 742 
+ 60 942 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+22 
+11. 
+Przychody i koszty 
+11.1. Przychody ze sprzedaży 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+Struktura rzeczowa 
+989 580 
+527 166 
+1 050 461 
+526 387 
+Przychody ze sprzedaży dóbr i usług 
+w tym: 
+ 
+ 
+ 
+ 
+Przychody ze sprzedaży energii 
+elektrycznej z produkcji własnej 
+ 523 322 
+ 301 634 
+ 647 714 
+ 328 435 
+Przychody ze sprzedaży energii 
+elektrycznej z obrotu 
+ 191 501 
+ 82 144 
+ 219 188 
+ 109 731 
+Przychody ze sprzedaży energii cieplnej 
+ 28 672 
+ 10 632 
+ 26 570 
+ 10 249 
+Pozostałe przychody ze sprzedaży 
+ 22 788 
+ 11 117 
+ 17 067 
+ 10 158 
+Przychody z umów o usługi budowlane 
+ 19 187 
+ 14 938 
+ 17 124 
+ 10 581 
+Razem przychody ze sprzedaży dóbr 
+i usług 
+785 470 
+420 465 
+927 663 
+469 154 
+Akcyza 
+ (657) 
+ (151) 
+ (850) 
+ (379) 
+Razem przychody ze sprzedaży dóbr i 
+usług z uwzględnieniem podatku 
+akcyzowego 
+784 813 
+ 
+420 314 
+ 
+926 813 
+ 
+468 775 
+Prawa majątkowe ze świadectw 
+pochodzenia energii 
+ 31 490 
+ 17 592 
+ 24 812 
+ 8 863 
+Rekompensaty z tytułu rozwiązania KDT 
+ 77 612 
+ 36 425 
+ 98 836 
+ 48 749 
+Przychody z rynku mocy 
+ 91 803 
+ 48 973 
+ - 
+ - 
+Przychody ze sprzedaży ogółem 
+ 985 718 
+ 523 304 
+ 1 050 461 
+ 526 387 
+Przychody z rynku mocy stanowią przychody z tytułu gotowości do dostarczania mocy elektrycznej do systemu lub do 
+dostaw określonej mocy. 
+Głównymi składnikami pozycji „Pozostałe przychody ze sprzedaży” w pierwszym półroczu 2021 roku są: sprzedaż 
+materiałów oraz pozostałych towarów w kwocie 10 209 tysięcy złotych oraz prace warsztatowe i serwisowe w kwocie 
+5 358 tysięcy złotych. 
+11.2. Pozostałe przychody operacyjne 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+Przychody ze sprzedaży uprawnień CO2 
+ 6 186 
+ 6 186 
+ 2 658 
+ 2 658 
+Przychody z tytułu odszkodowań 
+ 367 
+ 79 
+ 718 
+ 20 
+Wykorzystanie kontraktu forward 
+zabezpieczającego zakup uprawnień do 
+emisji CO2 
+5 515 
+ 
+1 629 
+ 
+ 26 210 
+ 
+ 11 686 
+Rozwiązanie odpisu aktualizującego 
+należności 
+ 316 
+ (256) 
+ - 
+ - 
+Rozliczenie dotacji 
+ 923 
+ 911 
+ 2 050 
+ (473) 
+Zysk ze zbycia niefinansowych aktywów 
+trwałych 
+ 9 555 
+ 8 646 
+ 3 624 
+ 51 
+Rozwiązanie rezerwy na koszty i straty 
+oraz umorzenie zobowiązań 
+ 1 816 
+ 1 816 
+ 5 
+ 4 
+Przychody z rozbiórki i sprzedaży złomu 
+ 3 762 
+ 1 966 
+- 
+- 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+23 
+Inne 
+ - 
+ (366) 
+ 708 
+ 1 391 
+Pozostałe przychody operacyjne ogółem 
+ 28 440 
+ 20 611 
+ 35 973 
+ 15 337 
+ 
+11.3. Pozostałe koszty operacyjne 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+Strata na sprzedaży rzeczowych aktywów 
+trwałych 
+ 9 
+ 4 
+ - 
+ (2) 
+Utworzenie rezerw 
+ 976 
+ 884 
+ 398 
+ (84) 
+Aktualizacja rezerw na umorzenie 
+uprawnień do emisji CO2 za 2019 rok 
+- 
+- 
+ 30 045 
+ 11 256 
+Aktualizacja rezerw na rekultywację 
+składowisk popiołów 
+- 
+- 
+ 3 152 
+ 3 075 
+Odpis aktualizujący należności 
+ 9 028 
+ 9 028 
+ 568 
+ 501 
+Kary i odszkodowania 
+ 451 
+ 440 
+ 80 
+ 79 
+Szkody energetyczne 
+ 98 
+ 98 
+ 38 
+ 38 
+Przekazane darowizny 
+ 57 
+ 23 
+ 32 
+ 12 
+Inne 
+ 882 
+ 327 
+ 1 436 
+ 957 
+Pozostałe koszty operacyjne ogółem 
+ 11 501 
+ 10 804 
+ 35 749 
+ 15 832 
+ 
+11.4. Przychody finansowe 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+Przychody z tytułu odsetek 
+ 21 
+ - 
+ 1 881 
+ 77 
+Dodatnie różnice kursowe 
+ 1 095 
+ (538) 
+ 2 228 
+ 200 
+Wycena instrumentów zabezp. kurs 
+walutowy (forward) 
+ - 
+ - 
+ 1 551 
+ (2 042) 
+Inne 
+ 1 
+ 1 
+ 22 
+ 3 
+Przychody finansowe ogółem 
+ 1 117 
+ (537) 
+ 5 682 
+ (1 762) 
+ 
+11.5. Koszty finansowe 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+Odsetki 
+ 2 908 
+ 1 222 
+ 2 927 
+ 1 332 
+Ujemne różnice kursowe 
+ 204 
+ 179 
+ 2 560 
+ 2 558 
+Dyskonto rezerwy na likwidację bloków 
+energetycznych 
+ 152 
+ 76 
+ 285 
+ 220 
+Dyskonto rezerwy na rekultywację 
+ 2 596 
+ 1 036 
+ 5 014 
+ 2 429 
+Inne 
+ 414 
+ 195 
+ 754 
+ 459 
+Koszty finansowe ogółem 
+ 6 274 
+ 2 708 
+ 11 540 
+ 6 998 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+24 
+ 
+11.6. Koszty według rodzajów 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+Amortyzacja 
+ 67 576 
+ 33 762 
+ 80 547 
+ 41 777 
+Odpisy aktualizujące wartość środków 
+trwałych 
+ - 
+ - 
+ 289 000 
+ 289 000 
+Odpisy aktualizujące wartość zapasów 
+ - 
+ (30) 
+ 3 400 
+ 1 804 
+Zużycie materiałów 
+ 163 487 
+ 81 710 
+ 136 896 
+ 64 189 
+Usługi obce 
+ 41 151 
+ 25 027 
+ 41 958 
+ 21 582 
+Podatki i opłaty z wyłączeniem podatku 
+akcyzowego 
+ 73 750 
+ 35 136 
+ 75 813 
+ 34 739 
+Koszty emisji CO2 
+ 230 260 
+ 135 103 
+ 309 089 
+ 161 653 
+Koszty świadczeń pracowniczych 
+ 188 552 
+ 96 795 
+ 204 624 
+ 105 406 
+Pozostałe koszty rodzajowe 
+ 17 970 
+ 12 908 
+ 15 758 
+ 11 340 
+Wartość sprzedanych towarów i 
+materiałów oraz sprzedanej energii 
+zakupionej z obrotu 
+ 220 683 
+ 97 554 
+ 226 773 
+ 112 253 
+Koszty według rodzaju ogółem 
+ 1 003 429 
+ 517 965 
+ 1 383 858 
+ 843 743 
+Pozycje ujęte w koszcie własnym 
+sprzedaży 
+ 931 053 
+ 482 406 
+ 1 305 553 
+ 802 425 
+Pozycje ujęte w kosztach sprzedaży 
+ 2 513 
+ 807 
+ 2 007 
+ 895 
+Pozycje ujęte w kosztach ogólnego 
+zarządu 
+ 53 491 
+ 26 222 
+ 51 730 
+ 22 627 
+Zmiana stanu produktów 
+ 16 157 
+ 8 320 
+ 24 287 
+ 17 735 
+Koszt wytworzenia świadczeń na własne 
+potrzeby 
+ 215 
+ 210 
+ 281 
+ 61 
+ 
+12. 
+Podatek dochodowy 
+12.1. Obciążenie podatkowe 
+Główne składniki obciążenia podatkowego za okres 6 miesięcy zakończony 30 czerwca 2021 roku oraz 30 czerwca 
+2020 roku przedstawiają się następująco: 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 3 miesięcy 
+zakończony dnia 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+ 
+30 czerwca 2020 
+roku (niebadane) 
+Ujęte w zysku lub stracie 
+1 134 
+852 
+-94 
+-64 
+Bieżący podatek dochodowy 
+0 
+0 
+0 
+0 
+Bieżące obciążenie z tytułu podatku 
+dochodowego 
+ 2 975 
+ 1 415 
+ 120 
+ 58 
+Odroczony podatek dochodowy 
+0 
+0 
+0 
+0 
+Związany z powstaniem i odwróceniem 
+się różnic przejściowych 
+ (12 530) 
+ (8 981) 
+ (52 110) 
+ (58 963) 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+25 
+Inne zmiany 
+ 9 
+ 1 
+ (1 641) 
+ 7 
+Obciążenie podatkowe w 
+skonsolidowanym zysku lub stracie 
+ (9 546) 
+ (7 565) 
+ (53 631) 
+ (58 898) 
+Ujęte w skonsolidowanym sprawozdaniu z 
+całkowitych dochodów 
+0 
+0 
+0 
+0 
+Podatek dotyczący zysków/strat 
+aktuarialnych 
+ (13) 
+ (10) 
+ 14 
+ (7) 
+Korzyść podatkowa/(obciążenie 
+podatkowe) ujęta/e w innych 
+całkowitych dochodach 
+ (13) 
+ (10) 
+ 14 
+ (7) 
+ 
+12.2. Odroczony podatek dochodowy 
+Odroczony podatek dochodowy wynika z następujących pozycji: 
+ 
+30 czerwca 2021 roku 
+(niebadane) 
+31 grudnia 2020 roku 
+Aktywo z tytułu podatku odroczonego 
+109 530 
+112 128 
+Rezerwy bilansowe 
+ 65 915 
+ 60 908 
+Aktywa dotyczące zdejmowania nadkładu i inne aktywa 
+górnicze 
+ 
+ 4 818 
+ 4 811 
+Odsetki i różnice kursowe 
+ - 
+ 2 
+Wycena niezakończonych umów o usługi budowlane 
+ 3 039 
+ 1 510 
+Strata podatkowa z lat ubiegłych 
+ 10 192 
+ 10 192 
+Odpis aktualizujący wartość zapasów 
+ 6 087 
+ 6 530 
+Odpis aktualizujący wartość należności 
+ 2 605 
+ 932 
+Różnica pomiędzy bilansową a podatkową wartością 
+środków trwałych 
+ 
+ 12 428 
+ 16 103 
+Rozrachunki z pracownikami 
+ 1 989 
+ 5 689 
+Inne 
+ 2 457 
+ 5 451 
+Razem 
+ 109 530 
+ 112 128 
+Rezerwa z tytułu podatku odroczonego 
+ 
+325 500 
+340 110 
+Różnica pomiędzy bilansową a podatkową wartością 
+środków trwałych 
+ 
+ 289 899 
+ 316 977 
+Należności z tytułu KDT 
+ 
+ 26 302 
+ 15 942 
+Certyfikaty energetyczne 
+ 3 144 
+ 4 311 
+Odsetki i różnice kursowe 
+ 828 
+ 509 
+Wycena niezakończonych umów o usługi budowlane 
+ 2 406 
+ 501 
+Inne 
+ 2 921 
+ 1 870 
+Razem 
+ 325 500 
+ 340 110 
+Po skompensowaniu sald na poziomie spółek z Grupy 
+Kapitałowej podatek odroczony prezentowany jest jako: 
+ 
+381 260 
+397 822 
+Aktywo: 
+ 82 645 
+ 84 920 
+Rezerwa: 
+ 298 615 
+ 312 902 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+26 
+13. 
+Zysk przypadający na jedną akcję 
+Zysk podstawowy przypadający na jedną akcję oblicza się poprzez podzielenie zysku netto za okres przypadającego 
+na zwykłych akcjonariuszy jednostki dominującej przez średnią ważoną liczbę wyemitowanych akcji zwykłych 
+występujących w ciągu okresu. 
+Zysk rozwodniony przypadający na jedną akcję oblicza się poprzez podzielenie zysku netto za okres przypadającego 
+na zwykłych akcjonariuszy przez średnią ważoną liczbę wyemitowanych akcji zwykłych występujących w ciągu okresu 
+skorygowaną o średnią ważoną akcji zwykłych, które zostałyby wyemitowane na konwersji wszystkich 
+rozwadniających potencjalnych instrumentów kapitałowych w akcje zwykłe. 
+Poniżej przedstawione zostały dane dotyczące zysku oraz akcji, które posłużyły do wyliczenia podstawowego 
+i rozwodnionego zysku na jedną akcję: 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+Okres 3 miesięcy 
+zakończony dnia 
+Okres 6 miesięcy 
+zakończony dnia 
+Okres 3 miesięcy 
+zakończony dnia 
+30 czerwca 2021 
+roku (niebadane) 
+30 czerwca 2021 
+roku (niebadane) 
+30 czerwca 2020 
+roku (niebadane) 
+30 czerwca 2020 
+roku (niebadane) 
+Zysk/(strata) netto z działalności 
+kontynuowanej przypadający na 
+akcjonariuszy jednostki dominującej 
+ 
+ 19 989 
+ 27 996 (257 514) 
+ (247 168) 
+Zysk na działalności zaniechanej 
+przypadający na akcjonariuszy jednostki 
+dominującej 
+ 
+ - 
+ - 
+ - 
+ - 
+Zysk/(strata) netto przypadający na 
+akcjonariuszy jednostki dominującej, 
+zastosowany do obliczenia rozwodnionego 
+zysku na jedną akcję 
+ 
+ 19 989 
+ 27 996 
+ (257 514) 
+ (247 168) 
+Średnia ważona liczba wyemitowanych 
+akcji zwykłych, zastosowana do obliczenia 
+podstawowego i rozwodnionego zysku na 
+jedną akcję (w szt.) 
+ 
+ 50 823 547 
+ 50 823 547 
+ 50 823 547 
+ 50 823 547 
+ 
+Tabela poniżej przedstawia zysk/(stratę) na jedną akcję w złotych polskich za okres 6 miesięcy zakończony dnia 
+30 czerwca 2021 roku i 30 czerwca 2020 roku zaprezentowany w rachunku zysków i strat. 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+Okres 3 miesięcy 
+zakończony dnia 
+Okres 6 miesięcy 
+zakończony dnia 
+Okres 3 miesięcy 
+zakończony dnia 
+30 czerwca 2021 
+roku (niebadane) 
+30 czerwca 2021 
+roku (niebadane) 
+30 czerwca 2020 
+roku (niebadane) 
+30 czerwca 2020 
+roku (niebadane) 
+Podstawowy z zysku/(straty) za okres 
+obrotowy przypadającego akcjonariuszom 
+jednostki dominującej 
+ 
+ 0,39 
+ 0,55 (5,07) (4,86) 
+Rozwodniony z zysku/(straty) za okres 
+obrotowy przypadającego akcjonariuszom 
+jednostki dominującej 
+ 
+ 0,39 
+ 0,55 
+ (5,07) 
+ (4,86) 
+W okresie między dniem bilansowym a dniem sporządzenia niniejszego sprawozdania finansowego nie wystąpiły 
+zmiany ilości akcji zwykłych lub potencjalnych akcji zwykłych. 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+27 
+14. 
+Rzeczowe aktywa trwałe 
+Okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku (niebadane) 
+ 
+Grunty* 
+Budynki i 
+budowle 
+Urządzenia 
+techniczne 
+Środki 
+transportu 
+Inne środki trwałe 
+Środki trwałe w 
+budowie 
+Razem 
+Wartość brutto na dzień 1 stycznia 2021 
+roku 
+ 
+ 227 051 
+ 2 041 008 
+ 4 958 644 
+ 62 817 
+ 33 561 
+ 194 765 
+ 7 517 846 
+Zakup bezpośredni 
+ 738 
+ - 
+ 2 205 
+ 100 
+ 1 221 
+ 209 615 
+ 213 879 
+Remonty 
+ - 
+ - 
+ (144) 
+ - 
+ - 
+ (233) 
+ (377) 
+Transfer ze środków trwałych w budowie 
+ 12 020 
+ 532 
+ 3 912 
+ - 
+ 180 
+ (16 644) 
+ - 
+Sprzedaż i likwidacja 
+ 
+ (1 379) 
+ (1 214) 
+ (21 295) 
+ (4 443) 
+ (194) 
+ - 
+ (28 525) 
+Wartość brutto na dzień 30 czerwca 2021 
+roku 
+ 
+ 238 430 
+ 2 040 326 
+ 4 943 322 
+ 58 474 
+ 34 768 
+ 387 503 
+ 7 702 823 
+Umorzenie i odpisy aktualizujące na dzień 
+1 stycznia 2021 roku 
+ 53 801 
+ 1 635 308 
+ 4 021 745 
+ 55 656 
+ 23 534 
+ 67 141 
+ 5 857 185 
+Odpis amortyzacyjny za okres 
+ 2 093 
+ 16 182 
+ 41 031 
+ 1 107 
+ 776 
+ - 
+ 61 189 
+Sprzedaż i likwidacja 
+ (1 167) 
+ (1 214) 
+ (19 011) 
+ (4 403) 
+ (189) 
+ - 
+ (25 984) 
+Umorzenie i odpisy aktualizujące na dzień 
+30 czerwca 2021 roku 
+ 54 727 
+ 1 650 276 
+ 4 043 765 
+ 52 360 
+ 24 121 
+ 67 141 
+ 5 892 390 
+Wartość netto na dzień 1 stycznia 2021 
+roku 
+ 173 250 
+ 405 700 
+ 936 899 
+ 7 161 
+ 10 027 
+ 127 624 
+ 1 660 661 
+Wartość netto na dzień 30 czerwca 2021 
+roku 
+ 183 703 
+ 390 050 
+ 899 557 
+ 6 114 
+ 10 647 
+ 320 362 
+ 1 810 433 
+*w tej pozycji ujęte są także grunty eksploatowane pod wydobycie kopalin metodą odkrywkową 
+Środki trwałe w budowie obejmują głównie nakłady na budowę farmy fotowoltaicznej o mocy 70 MWp w kwocie 138 499 tysięcy złotych oraz nakłady na przystosowanie 
+kotła K7 w Elektrowni Konin do spalania biomasy w kwocie 83 730 tysięcy złotych. 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+28 
+ 
+Okres 6 miesięcy zakończony dnia 30 czerwca 2020 roku (niebadane) 
+ 
+Grunty* 
+Budynki 
+i budowle 
+Urządzenia 
+techniczne 
+Środki 
+transportu 
+Inne środki trwałe 
+Środki trwałe 
+w budowie 
+Razem 
+Wartość brutto na dzień 1 stycznia 2020 
+roku 
+ 
+ 223 248 
+ 2 054 574 
+ 5 008 834 
+ 68 269 
+ 33 695 
+ 110 079 
+ 7 498 699 
+Zakup bezpośredni 
+ 1 
+ - 
+ 170 
+ - 
+ 326 
+ 5 485 
+ 5 982 
+Remonty 
+ - 
+ - 
+ (144) 
+ - 
+ - 
+ - 
+ (144) 
+Transfer ze środków trwałych w budowie 
+ 3 774 
+ - 
+ 65 
+ - 
+ 68 
+ (3 907) 
+ - 
+Sprzedaż i likwidacja 
+ 
+ (494) 
+ (28) 
+ (11 683) 
+ (167) 
+ (230) 
+ - 
+ (12 602) 
+Wartość brutto na dzień 30 czerwca 2020 
+roku 
+ 
+ 226 529 
+ 2 054 546 
+ 4 997 242 
+ 68 102 
+ 33 859 
+ 111 657 
+ 7 491 935 
+Umorzenie i odpisy aktualizujące na dzień 
+1 stycznia 2020 roku 
+ 49 888 
+ 1 485 397 
+ 3 848 829 
+ 49 283 
+ 23 113 
+ 82 328 
+ 5 538 838 
+Odpis amortyzacyjny za okres 
+ 1 901 
+ 21 178 
+ 46 315 
+ 1 866 
+ 648 
+ - 
+ 71 908 
+Odpis aktualizujący (zmiana stanu) 
+ - 
+ 127 531 
+ 142 840 
+ 8 588 
+ 41 
+ - 
+ 279 000 
+Sprzedaż i likwidacja 
+ - 
+ (28) 
+ (10 914) 
+ (166) 
+ (229) 
+ - 
+ (11 337) 
+Umorzenie i odpisy aktualizujące na dzień 
+30 czerwca 2020 roku 
+ 51 789 
+ 1 634 078 
+ 4 027 070 
+ 59 571 
+ 23 573 
+ 82 328 
+ 5 878 409 
+Wartość netto na dzień 1 stycznia 2020 
+roku 
+ 173 360 
+ 569 177 
+ 1 160 005 
+ 18 986 
+ 10 582 
+ 27 751 
+ 1 959 861 
+Wartość netto na dzień 30 czerwca 2020 
+roku 
+ 174 740 
+ 420 468 
+ 970 172 
+ 8 531 
+ 10 286 
+ 29 329 
+ 1 613 526 
+*w tej pozycji ujęte są także grunty eksploatowane pod wydobycie kopalin metodą odkrywkową 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+29 
+14.1. Test na utratę wartości aktywów Grupy Kapitałowej ZE PAK SA 
+Identyfikacja ośrodków wypracowujących środki pieniężne (CGU) 
+Zgodnie z MSR 36 „ośrodki wypracowujące środki pieniężne (CGU) to najmniejsze identyfikowalne grupy aktywów 
+generujące wpływy z bieżącego użytkowania, które są niezależne od wpływów z innych aktywów lub grup aktywów. 
+Jeśli istnieją jakiekolwiek przesłanki świadczące o tym, że dany składnik aktywów mógł utracić część swojej wartości, 
+szacuje się wartość odzyskiwalną tego pojedynczego składnika aktywów. Jeśli oszacowanie wartości odzyskiwalnej 
+pojedynczego składnika aktywów nie jest możliwe, jednostka ustala wartość odzyskiwalną ośrodka wypracowującego 
+środki pieniężne, do którego należy dany składnik aktywów (ośrodek wypracowujący środki pieniężne danego 
+składnika aktywów)”. 
+Przy wyodrębnianiu CGU w ramach spółek Grupy dokonano analizy niezależności generowania przepływów 
+pieniężnych w aspekcie funkcjonowania poszczególnych spółek oraz uwzględniono dodatkowe przesłanki, w oparciu o 
+które dokonano aktualizacji projekcji finansowych. 
+W ramach ZE PAK SA wyodrębniono CGU: 
+ 
+CGU Elektrownia Pątnów I 
+ 
+CGU Elektrownia Pątnów II 
+ 
+CGU dla energii zielonej opartej na biomasie CGU Elektrownia Konin. 
+Na dzień 30 czerwca 2021 roku kopalnia węgla brunatnego PAK KWB Konin SA prowadzi działalność gospodarczą na 
+odkrywkach Jóźwin, Tomisławice i Drzewce. 
+W spółkach tych, jako ośrodkach wypracowujących zysk nie zidentyfikowano mniejszych zespołów aktywów 
+generujących niezależne wpływy pieniężne, gdyż z wielu względów generowane przez poszczególne zespoły aktywów 
+wpływy są bardzo ściśle z sobą powiązane. W efekcie bowiem kopalnia ma dostarczyć do elektrowni określoną ilość 
+węgla, bez znaczenia jest fakt, z której odkrywki będzie on pochodził. W rezultacie węgiel jest dostarczany do 
+elektrowni z kilku odkrywek zamiennie. Również struktura organizacyjna i systemy ewidencji są podporządkowane tak 
+postawionemu celowi produkcyjnemu. Dodatkowym czynnikiem decydującym o wydzieleniu CGU była aktualizacja 
+strategii Grupy ZE PAK SA, która z jednej strony zakładała przyśpieszenie wygaszania działalności węglowej z drugiej 
+strony rozwój działalności OZE. 
+Powyższe argumenty przesądziły o wydzieleniu w ramach Grupy Kapitałowej ZE PAK SA następujących ośrodków 
+wypracowujących środki pieniężne: 
+ 
+aktywa trwałe (wytwórcze) ZE PAK SA Elektrownia Pątnów I („CGU ZE PAK Elektrownia Pątnów I 
+- energia czarna”) 
+ 
+aktywa trwałe (wytwórcze) ZE PAK SA Elektrownia Pątnów II („CGU ZE PAK Elektrownia Pątnów II 
+- energia czarna”) 
+ 
+aktywa trwałe (wytwórcze) ZE PAK SA Elektrownia Konin („CGU ZE PAK Elektrownia Konin - energia 
+zielona z biomasy”), 
+ 
+aktywa trwałe (wydobywcze) oraz aktywa górnicze PAK KWB Konin SA dotyczące odkrywek w Jóźwinie, 
+Tomisławicach i Drzewcach („CGU PAK KWB Konin”), 
+Ponadto, dokonano wydzielenia pozostałych CGU w ramach segmentów: Remonty, Sprzedaż oraz Pozostałe. 
+ 
+Analiza przesłanek do przeprowadzenia testów na utratę wartości na dzień 30 czerwca 2021 roku 
+Zgodnie z MSR 36 na koniec każdego okresu sprawozdawczego Zarząd Grupy ocenia, czy istnieją jakiekolwiek 
+przesłanki wskazujące na to, że mogła nastąpić utrata wartości składników aktywów trwałych. W razie stwierdzenia, że 
+przesłanki takie zachodzą, Grupa szacuje wartość odzyskiwalną składników aktywów. W związku z powyższym Grupa 
+każdorazowo dokonuje analizy przesłanek mogących mieć wpływ na utratę wartości któregokolwiek ze składników 
+aktywów, oraz ustalenia ośrodków wypracowujących środki pieniężne (CGU) w ramach spółek Grupy. 
+W związku z okresowym utrzymywaniem się w roku 2020 kapitalizacji giełdowej Jednostki Dominującej poniżej 
+wartości bilansowej aktywów netto (będącej zgodnie z MSR 36 przesłanką do przeprowadzenia testów na utratę 
+wartości), zgodnie z MSR 36 Zarząd ZE PAK SA dokonał analizy, który obszar działalności Spółki może być dotknięty 
+utratą wartości. Przeprowadzono analizę poszczególnych CGU: 
+ 
+CGU związane z wytwarzaniem energii tzw. czarnej tj. CGU ZE PAK Elektrownia Pątnów I oraz CGU 
+ZE PAK Elektrownia Pątnów II - w ocenie Grupy większość aktywów wytwórczych została już spisana, okres 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+30 
+ich użytkowania został znacznie skrócony tj. dla Elektrowni Pątnów I do 2024 roku, dla Elektrowni Pątnów II 
+do 2030 roku z uwagi na wzrost ryzyka związanego z uruchomieniem perspektywicznych złóż węgla 
+brunatnego. Ponadto należy zauważyć, że z dniem 30 czerwca 2020 roku zostały odstawione z eksploatacji 
+niezmodernizowane bloki 3 i 6. W eksploatacji pozostały zmodernizowane bloki 1,2,5 w Elektrowni Pątnów I. 
+Założenia te wynikały ze zaktualizowanej strategii, stąd Grupa nie widzi już dalszej konieczności testowania 
+tych aktywów; 
+ 
+CGU działalności wydobywczej - aktywa górnicze zostały spisane już do wartości godziwej gruntów, stąd 
+Grupa również nie widzi konieczności testowania tych aktywów; 
+ 
+CGU związane z energią zieloną tj. CGU ZE PAK Elektrownia Konin - energia zielona z biomasy - zgodnie z 
+przyjętą strategią, jest to gałąź rozwojowa Grupy i najbardziej dochodowa. Wpisuje się ona w politykę 
+klimatyczną Unii Europejskiej zmierzającą do radykalnego podwyższenia celu redukcji emisji do 2030 roku z 
+40% do co najmniej 55% w odniesieniu do poziomu z 1990 roku. Ponadto obserwuje się rosnące 
+zapotrzebowanie na produkcję z jednostek biomasowych z uwagi na kwalifikację – jako OZE stabilizującego 
+produkcję niesterowalnych modułów farm wiatrowych oraz fotowoltaicznych; stąd Grupa odstąpiła od 
+testowania tych aktywów. 
+Ponadto Grupa wzięła pod uwagę fakt, że kurs akcji ZE PAK SA od końca 2020 roku do czerwca 2021 roku wzrósł 
+o 5,4%, a w porównaniu do czerwca 2020 roku nawet o 16,5%. Dodatkowo Grupa przeanalizowała sytuację rynkową 
+i otoczenie zewnętrzne. Należy zauważyć, że dnia 2 lutego 2021 Rada Ministrów zatwierdziła „Politykę energetyczną 
+Polski do 2040r.” (PEP2040), która ma stanowić jasną wizję strategii Polski w zakresie transformacji energetycznej, a 
+10 marca 2021 roku ukazała się w Monitorze Polskim. Zawarte w niej tezy i kierunki rozwoju, potwierdzają słuszność 
+kierunków rozwoju przyjętych przez Spółkę w nowej strategii. 
+W efekcie przeprowadzonej powyższej analizy uznano, że nie zaistniały okoliczności do zmiany założeń 
+strategicznych i tym samym nie przeprowadzono testów na utratę wartości rzeczowych aktywów trwałych na dzień 
+30 czerwca 2021 roku. 
+Należy podkreślić, że Grupa ZE PAK SA w 2020 roku ogłosiła nową strategię zakładającą m.in. wygaszanie produkcji 
+węglowej – najszybciej i w najkrótszym czasie w Polsce, czyli 20 lat wcześniej niż zakładana neutralność klimatyczna 
+Unii Europejskiej i jednocześnie zakłada rozwijanie nowych obszarów, w których Grupa ZE PAK SA zamierza 
+zaistnieć. 
+Na 30 czerwca 2021 roku Zarząd podtrzymuje budżety przepływów pieniężnych użyte w ostatnich testach i nie 
+identyfikuje powodów by je zmieniać, budżety te są realizowane. 
+ 
+15. 
+Aktywa z tytułu prawa do użytkowania oraz zobowiązania z tytułu 
+leasingu 
+Począwszy od 1 stycznia 2019 roku Grupa zastosowała po raz pierwszy MSSF 16 Leasing. Zgodnie z tym standardem 
+Grupa ujmuje w bilansie składnik aktywów z tytułu prawa do użytkowania oraz zobowiązanie z tytułu leasingu. 
+Grupa jako leasingobiorca 
+Grupa jest stroną umów leasingu w zakresie bazowych składników aktywów takich jak: 
+ 
+grunty, w tym prawo wieczystego użytkowania gruntów, 
+ 
+pojazdy samochodowe, 
+ 
+maszyny. 
+Umowy leasingu gruntów są zawarte na okres od 4 do 14 lat oraz na czas nieoznaczony, a prawa wieczystego 
+użytkowania gruntów zostały otrzymane na okres od 40 do 100 lat. Opłaty leasingowe są waloryzowane zgodnie 
+z ustawą o gospodarce gruntami. 
+Okres leasingu pojazdów samochodowych wynosi od 2 do 5 lat. 
+Okres leasingu maszyn wynosi od 2 do 5 lat. Umowa zawiera opcję zakupu bazowego składnika aktywów po 
+zakończeniu okresu leasingu. 
+Wszystkie umowy leasingu zostały zawarte w walucie PLN. 
+Analiza wymagalności zobowiązań z tytułu leasingu na 30 czerwca 2021 roku: 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+31 
+ 
+ 
+30 czerwca 2021 roku 
+(niebadane) 
+ 
+31 grudnia 2020 roku 
+Do jednego roku 
+ 
+5 347 
+6 330 
+Od 1 roku do 3 lat 
+ 
+14 516 
+14 558 
+Od 3 lat do 5 lat 
+ 
+8 364 
+8 337 
+Powyżej 5 lat 
+ 
+123 687 
+128 765 
+Razem według niezdyskontowanych płatności 
+ 
+151 914 
+157 990 
+Wartość księgowa 
+ 
+47 126 
+51 495 
+Kwoty ujęte w rachunku przepływów pieniężnych 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2021 roku 
+(niebadane) 
+ 
+Rok zakończony 
+31 grudnia 2020 roku 
+Całkowity wypływ środków pieniężnych 
+ 
+6 076 
+8 990 
+Prawo do użytkowania 
+Aktywa z tytułu prawa do użytkowania obejmują aktywa użytkowane na podstawie umów dzierżawy gruntów, prawa 
+wieczystego użytkowania gruntów oraz leasingu finansowego w PAK KWB Konin SA, PAK KWB Adamów SA w 
+likwidacji oraz ZE PAK SA. 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2021 roku 
+(niebadane) 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2020 roku 
+(niebadane) 
+Wartość brutto na 1 stycznia 2019 roku 
+67 296 
+67 296 
+Umorzenie na 1 stycznia 
+ (18 087) 
+ (11 087) 
+Wartość netto na 1 stycznia 
+ 
+49 209 
+56 209 
+Amortyzacja za okres 
+(1 712) 
+(3 646) 
+Stan na koniec okresu 
+47 497 
+52 563 
+Dodatkowe informacje jakościowe i ilościowe w zakresie czynności związanych z leasingiem 
+W związku z zawartymi umowami leasingu, Grupa jest potencjalnie narażona na przyszłe wypływy pieniężne, które nie 
+zostały uwzględnione w wycenie zobowiązań z tytułu leasingu. Obejmuje to narażenie wynikające: 
+ 
+ze zmiennych opłat leasingowych, 
+ 
+z opcji przedłużenia leasingu i opcji wypowiedzenia leasingu, 
+ 
+z gwarantowanej wartości końcowej, oraz 
+ 
+z nierozpoczętych jeszcze leasingów, do których zobligowany jest leasingobiorca. 
+Zmienne opłaty leasingowe 
+Obecne umowy leasingów nie zawierają zmiennych opłat leasingowych 
+Opcja przedłużenia 
+Do dnia publikacji niniejszego sprawozdania Grupa nie zawarła umów leasingu, które zawierają opcje przedłużenia. 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+32 
+16. 
+Aktywa niematerialne 
+Aktywa niematerialne długoterminowe – okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku (niebadane) 
+ 
+ 
+Patenty i licencje 
+Oprogramowanie 
+komputerowe 
+Inne aktywa 
+niematerialne 
+Razem 
+Wartość brutto na dzień 1 stycznia 2021 roku 
+ 
+ 23 444 
+ 2 128 
+ 417 
+ 25 989 
+Zmniejszenia 
+ 
+ (1 379) 
+ - 
+ - 
+ (1 379) 
+Zwiększenia 
+ 
+ 74 
+ - 
+ - 
+ 74 
+Wartość brutto na dzień 30 czerwca 2021 roku 
+ 
+ 22 139 
+ 2 128 
+ 417 
+ 24 684 
+ 
+ 
+ 
+ 
+Umorzenie i odpisy aktualizujące na dzień 1 stycznia 
+2021 roku 
+ 
+ 
+ 20 741 
+ 2 128 
+ 366 
+ 23 235 
+Odpis amortyzacyjny za okres 
+ 
+ 414 
+ - 
+ - 
+ 414 
+Odpis aktualizujący 
+ 
+ - 
+ - 
+ - 
+ - 
+Zmniejszenia 
+ 
+ (1 379) 
+ - 
+ - 
+ (1 379) 
+Umorzenie i odpisy aktualizujące na dzień 30 czerwca 
+2021 roku 
+ 
+ 
+ 19 776 
+ 2 128 
+ 366 
+ 22 270 
+ 
+Wartość netto na dzień 1 stycznia 2021 roku 
+ 
+ 2 703 
+ - 
+ 51 
+ 2 754 
+Wartość netto na dzień 30 czerwca 2021 roku 
+ 
+ 2 363 
+ - 
+ 51 
+ 2 414 
+ 
+ 
+ 
+ 
+ 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+33 
+ 
+Aktywa niematerialne długoterminowe – okres 6 miesięcy zakończony dnia 30 czerwca 2020 roku (niebadane) 
+ 
+ 
+ 
+Patenty 
+i licencje 
+Oprogramowanie 
+komputerowe 
+Inne aktywa 
+niematerialne 
+Razem 
+Wartość brutto na dzień 1 stycznia 2020 roku 
+ 
+ 22 607 
+ 2 128 
+ 417 
+ 25 152 
+Zmniejszenia 
+ 
+ (5) 
+ (33) 
+ - 
+ (38) 
+Zwiększenia 
+ 
+ 215 
+ - 
+ - 
+ 215 
+Wartość brutto na dzień 30 czerwca 2020 roku 
+ 
+ 22 817 
+ 2 095 
+ 417 
+ 25 329 
+ 
+ 
+ 
+ 
+Umorzenie i odpisy aktualizujące na dzień 1 stycznia 
+2020 roku 
+ 
+ 
+ 19 911 
+ 2 128 
+ 365 
+ 22 404 
+Odpis amortyzacyjny za okres 
+ 
+ 482 
+ - 
+ 1 
+ 483 
+Odpis aktualizujący 
+ 
+ - 
+ - 
+ - 
+ - 
+Zmniejszenia 
+ 
+ (5) 
+ (33) 
+ - 
+ (38) 
+Umorzenie i odpisy aktualizujące na dzień 30 czerwca 
+2020 roku 
+ 
+ 
+ 20 388 
+ 2 095 
+ 366 
+ 22 849 
+ 
+Wartość netto na dzień 1 stycznia 2020 roku 
+ 
+ 2 696 
+ - 
+ 52 
+ 2 748 
+Wartość netto na dzień 30 czerwca 2020 roku 
+ 
+ 2 429 
+ - 
+ 51 
+ 2 480 
+ 
+ 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+34 
+Prawa do emisji 
+30 czerwca 2021 roku 
+(niebadane) 
+30 czerwca 2020 roku 
+(niebadane) 
+Jednostki 
+poświadczonej 
+redukcji emisji (EUA) 
+Jednostki 
+poświadczonej redukcji 
+emisji (EUA) 
+Wartość brutto na dzień 1 stycznia 2021 roku 
+ 3 565 
+ 93 218 
+Zakup 
+ 648 054 
+ 571 814 
+Sprzedaż 
+ 
+ (8 989) 
+ (43 500) 
+Umorzenie EUA 
+ (642 615) 
+ (618 090) 
+Wartość netto na dzień 1 stycznia 2021 roku 
+ 3 565 
+ 93 218 
+Wartość netto na dzień 30 czerwca 2021 roku 
+ 15 
+ 3 442 
+ 
+17. 
+Aktywa dotyczące zdejmowania nadkładu i inne aktywa górnicze 
+Na dzień 30 czerwca 2021 roku pozycja aktywów dotyczących zdejmowania nadkładu i innych aktywów górniczych 
+obejmuje aktywa dotyczące zdejmowania nadkładu oraz inne aktywa górnicze PAK KWB Konin SA 
+w kwocie 48 109 tysięcy złotych. 
+ 
+30 czerwca 2021 roku 
+(niebadane) 
+31 grudnia 2020 roku 
+Stan na 1 stycznia 2021 roku 
+ 52 291 
+ 70 620 
+Zwiększenie 
+ 79 
+ 7 599 
+Zmniejszenie 
+ - 
+ (13 318) 
+Odpis aktualizujący 
+ 
+ - 
+ (3 631) 
+Amortyzacja za okres 
+ (4 261) 
+ (8 979) 
+Stan na koniec okresu 
+ 48 109 
+ 52 291 
+długoterminowe 
+ 48 109 
+ 52 291 
+krótkoterminowe 
+ - 
+ - 
+ 
+18. 
+Pozostałe aktywa 
+18.1. Pozostałe aktywa finansowe 
+ 
+30 czerwca 2021 roku 
+(niebadane) 
+31 grudnia 2020 roku 
+Lokaty i depozyty 
+ - 
+ 1 
+Lokaty i depozyty FLZG* 
+ 3 997 
+ 3 470 
+Udziały 
+ 345 
+ 345 
+Inne 
+ 1 730 
+ 1 275 
+Pozostałe aktywa finansowe ogółem 
+ 6 072 
+ 5 091 
+krótkoterminowe 
+ - 
+ 10 
+długoterminowe 
+ 6 072 
+ 5 081 
+ *FLZG – fundusz likwidacji zakładu górniczego 
+Tworzenie funduszu likwidacji zakładu górniczego wynika z Ustawy Prawo Geologiczne i Górnicze. 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+35 
+ 
+18.2. Pozostałe aktywa niefinansowe 
+ 
+30 czerwca 2021 roku 
+(niebadane) 
+31 grudnia 2020 roku 
+Należności z tytułu VAT 
+ 46 259 
+ 34 536 
+Ubezpieczenia 
+ 62 
+ 371 
+Pozostałe należności budżetowe 
+ 197 
+ - 
+Inne aktywa niefinansowe 
+ 2 196 
+ - 
+Pozostałe rozliczenia międzyokresowe 
+ 9 357 
+ 1 779 
+Prace badawczo rozwojowe 
+ 
+ 2 508 
+ 1 572 
+Zaliczki na dostawy 
+ 907 
+ 508 
+Zaliczki na środki trwałe w budowie 
+ 119 
+ - 
+Inne 
+ (42) 
+ 1 204 
+Pozostałe aktywa niefinansowe ogółem 
+ 61 563 
+ 39 970 
+krótkoterminowe 
+ 60 452 
+ 39 673 
+długoterminowe 
+ 1 111 
+ 297 
+ 
+Największymi składnikami pozycji „Pozostałe rozliczenia międzyokresowe” są rozliczenia dotyczące opłaty za 
+wyłączenie gruntów z produkcji rolnej i leśnej w kwocie 3 792 tysiące złotych, rozliczenia dotyczące ZFŚS w kwocie 
+1 656 tysięcy złotych. 
+19. 
+Zapasy 
+ 
+30 czerwca 2021 roku 
+(niebadane) 
+31 grudnia 2020 roku 
+Paliwo produkcyjne 
+ 9 020 
+ 6 599 
+Części zamienne i pozostałe materiały 
+ 41 327 
+ 33 265 
+Świadectwa pochodzenia energii 
+ 16 882 
+ 27 995 
+Towary 
+ 4 
+ - 
+Zapasy ogółem według niższej z dwóch wartości: ceny 
+nabycia (kosztu wytworzenia) oraz wartości netto 
+możliwej do uzyskania 
+ 67 233 
+ 67 859 
+ 
+Świadectwa pochodzenia energii z tytułu produkcji energii w źródłach odnawialnych oraz wysokosprawnej kogeneracji 
+wykazywane są według wartości godziwej na koniec miesiąca, w którym została wyprodukowana energia w źródłach 
+odnawialnych. 
+Na dzień 30 czerwca 2021 roku Grupa nie posiadała praw majątkowych zielonych certyfikatów wyprodukowanej 
+i zweryfikowanej przez URE zielonej energii. Od 1 stycznia 2021 roku do dnia 30 czerwca 2021 roku Grupa otrzymała 
+196 404,651 MWh certyfikatów za produkcję w październiku, listopadzie i grudniu 2020 roku oraz za styczeń, luty 
+i marzec 2021. W tym okresie złożony został wniosek o wydanie 33 704,016 MWh za produkcje w kwietniu 2021. 
+Uzyskiwanie świadectw pochodzenia odbywało się na bieżąco. W I półroczu 2021 roku sprzedano 243 250,000 MWh 
+na TGE SA, przychód z tego tytułu wyniósł 36 417 tysięcy złotych. Wycena świadectw z tytułu złożonych wniosków 
+dotyczących kwietnia, maja i czerwca 2021 roku wynosi 17 982 tysiące złotych. 
+Części zamienne stanowią zapas na potrzeby bieżących remontów i serwisu. Odpis aktualizujący pozostałe materiały 
+i niestrategiczne części zamienne na dzień 30 czerwca 2021 roku wynosi 32 039 tysięcy złotych. 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+36 
+20. 
+Należności z tytułu dostaw i usług oraz pozostałe należności 
+ 
+30 czerwca 2021 roku 
+(niebadane) 
+31 grudnia 2020 roku 
+Należności z tytułu dostaw i usług 
+ 177 924 
+ 155 289 
+Należności z tytułu rekompensaty w związku 
+z rozwiązaniem KDT 
+ 138 431 
+ 83 908 
+Należności z tytułu zabezpieczenia zakupów energii na 
+rynku bilansującym 
+ 2 555 
+ 2 293 
+Pozostałe należności 
+ 253 756 
+ 143 566 
+Należności netto 
+ 572 666 
+ 385 056 
+Odpis aktualizujący należności 
+ 54 811 
+ 46 105 
+Należności brutto 
+ 627 477 
+ 431 161 
+W linii pozostałe należności na dzień 30 czerwca 2021 roku Grupa prezentuje głównie należności z tytułu depozytów 
+zabezpieczających transakcje na Towarowej Giełdzie Energii oraz zabezpieczających zakup jednostek uprawniających 
+do emisji CO2 (EUA) w kwocie 223 766 tysięcy złotych (na dzień 31 grudnia 2020 roku była to kwota 94 569 tysięcy 
+złotych). 
+Grupa analizuje i redukuje ryzyko kredytowe w odniesieniu do środków pieniężnych poprzez bieżący monitoring 
+ratingów instytucji finansowych oraz ogranicza ryzyko koncentracji nadwyżek środków pieniężnych w jednej instytucji 
+finansowej, wykorzystując do tego wewnętrzny regulamin zasad zarządzania ryzykiem. Całość odpisu aktualizującego 
+należności dotyczy należności indywidualnych. 
+Grupa posiada odpowiednią politykę w zakresie dokonywania sprzedaży tylko zweryfikowanym klientom. Dzięki temu, 
+zdaniem kierownictwa, nie istnieje dodatkowe ryzyko kredytowe, ponad poziom określony odpisem aktualizującym 
+nieściągalne należności właściwym dla należności handlowych Grupy. 
+21. 
+Środki pieniężne i ich ekwiwalenty 
+Środki pieniężne i lokaty krótkoterminowe wykazane w bilansie obejmują środki pieniężne w banku i kasie oraz lokaty 
+krótkoterminowe o pierwotnym okresie zapadalności nieprzekraczającym trzech miesięcy. 
+Środki pieniężne w banku są oprocentowane według zmiennych stóp procentowych, których wysokość zależy od stopy 
+oprocentowania jednodniowych lokat bankowych. Lokaty krótkoterminowe są dokonywane na różne okresy, 
+od jednego dnia do trzech miesięcy, w zależności od aktualnego zapotrzebowania Grupy na środki pieniężne 
+i są oprocentowane według ustalonych dla nich stóp procentowych. Wartość godziwa środków pieniężnych i ich 
+ekwiwalentów na dzień 30 czerwca 2021 roku wynosi 84 997 tysięcy złotych (na dzień 30 czerwca 2020 roku: 
+188 923 tysiące złotych). 
+Saldo środków pieniężnych i ich ekwiwalentów wykazane w skonsolidowanym sprawozdaniu z przepływów 
+pieniężnych składało się z następujących pozycji: 
+ 
+Struktura środków pieniężnych 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2021 roku 
+(niebadane) 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2020 roku 
+(niebadane) 
+Środki pieniężne w banku i kasie 
+ 84 902 
+ 50 000 
+Lokaty krótkoterminowe 
+ 95 
+ 138 923 
+Razem saldo środków pieniężnych i ich ekwiwalentów 
+wykazane w bilanse: 
+ 
+ 84 997 
+ 188 923 
+Różnice kursowe 
+ (3) 
+ (14) 
+Razem saldo środków pieniężnych i ich ekwiwalentów 
+wykazanych w sprawozdaniu z przepływów 
+pieniężnych: 
+ 
+ 84 994 
+ 188 909 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+37 
+ 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2021 roku 
+(niebadane) 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2020 roku 
+(niebadane) 
+Amortyzacja: 
+ - 
+ - 
+Amortyzacja wykazana w rachunku zysków i strat 
+ 67 576 
+ 80 547 
+Rozliczenie dotacji 
+ (923) 
+ (1 823) 
+Amortyzacja wykazana w sprawozdaniu 
+z przepływów pieniężnych 
+ 
+ 66 653 
+ 78 724 
+ 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2021 roku 
+(niebadane) 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2020 roku 
+(niebadane) 
+Należności: 
+ - 
+ - 
+Bilansowa zmiana stanu należności z tytułu dostaw i 
+usług oraz pozostałych należności 
+ 
+ (187 610) 
+ (7 921) 
+Bilansowa zmiana stanu pozostałych aktywów 
+niefinansowych długo i krótkoterminowych 
+ 
+ (21 594) 
+ (20 398) 
+Bilansowa zmiana kwot należnych od zamawiających z 
+tytułu kontraktów długoterminowych 
+ 
+ (1 207) 
+ (4 712) 
+Zmiana stanu zaliczek na środki trwałe w budowie 
+ 25 036 
+ 17 670 
+Pozostałe zmiany 
+ 1 923 
+ 2 198 
+Zmiana stanu należności wykazana w sprawozdaniu 
+z przepływów pieniężnych 
+ 
+ (183 452) 
+ (13 163) 
+ 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2021 roku 
+(niebadane) 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2020 roku 
+(niebadane) 
+Zobowiązania: 
+ - 
+ - 
+Bilansowa zmiana stanu zobowiązań z tytułu dostaw i 
+usług oraz pozostałych zobowiązań finansowych długo i 
+krótkoterminowych 
+ 
+ 141 966 
+ (31 405) 
+Bilansowa zmiana pozostałych zobowiązań 
+niefinansowych 
+ 
+ (1 368) 
+ (44 312) 
+Bilansowa zmiana kwot należnych zamawiającym z 
+tytułu kontraktów długoterminowych 
+ 
+ (859) 
+ 171 
+Zmiana zobowiązań z tytułu rozrachunków 
+inwestycyjnych 
+ 
+ 22 504 
+ (5 049) 
+Wykup dłużnych papierów wartościowych 
+ - 
+ - 
+Nowe umowy leasingowe i spłaty zobow. leasingowych 
+ 584 
+ 1 053 
+Pozostałe zmiany 
+ - 
+ (5 406) 
+Zmiana stanu zobowiązań wykazana w sprawozdaniu 
+z przepływów pieniężnych 
+ 
+ 162 827 
+ (84 948) 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+38 
+ 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2021 roku 
+(niebadane) 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2020 roku 
+(niebadane) 
+Zmiana stanu rezerw, rozliczeń międzyokresowych 
+oraz świadczeń pracowniczych: 
+ 
+ 
+ 
+Zmiana stanu rezerw i rozliczeń międzyokresowych 
+ (421 120) 
+ (276 312) 
+Zmiana stanu świadczeń pracowniczych długo 
+i krótkoterminowych 
+ 
+ 482 
+ 663 
+Zmiana stanu rezerwy z tytułu umorzenia jednostek CER 
+ 642 615 
+ 618 090 
+Zmiana stanu rezerw i innych pozycji ujmowana w 
+pozostałych całkowitych dochodach 
+ 
+ (27) 
+ (72) 
+Pozostałe zmiany 
+ 651 
+ (827) 
+Zmiana stanu rezerw, rozliczeń międzyokresowych 
+oraz świadczeń pracowniczych 
+ 
+ 222 601 
+ 341 542 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2021 roku 
+(niebadane) 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2020 roku 
+(niebadane) 
+Zapasy 
+ - 
+ - 
+Bilansowa zmiana stanu zapasów 
+ 627 
+ (6 487) 
+Zmiana stanu zapasów wykazana w sprawozdaniu z 
+przepływów pieniężnych 
+ 
+ 627 
+ (6 487) 
+ 
+22. 
+Dywidendy wypłacone i zaproponowane do wypłaty 
+Spółka ZE PAK SA nie wypłaciła ani nie deklarowała dywidendy w okresie 6 miesięcy 2021 roku. 
+23. 
+Oprocentowane kredyty bankowe i pożyczki 
+Krótkoterminowe 
+Termin Spłaty 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+31 grudnia 2020 roku 
+Kredyt w rachunku bieżącym w Santander Bank 
+Polska SA w kwocie 40 000 tysięcy PLN, 
+oprocentowany według stopy WIBOR 1M + marża 
+banku (PAK KWB Konin SA) 
+30.06.2021 
+- 
+24 123 
+Kredyt w rachunku bieżącym w Pekao SA w kwocie 
+100 000 tysięcy PLN, oprocentowany według stopy 
+WIBOR 1M + marża banku (ZE PAK SA) 
+31.12.2021 
+ 51 466 
+ - 
+Kredyt nieodnawialny w Alior Banku SA w kwocie 
+66 700 tysięcy PLN, oprocentowany według stopy 
+WIBOR 3M + marża banku 
+(PAK KWB Konin SA) 
+15.12.2021 
+ 15 439 
+ 30 880 
+Kredyt inwestycyjny w Pekao SA w kwocie 160 000 
+tysięcy PLN, oprocentowany według stopy WIBOR 
+3M + marża banku (ZE PAK SA) 
+31.12.2030 
+ 4 617 
+ - 
+Kredyt inwestycyjny terminowy w konsorcjum 
+banków PKO BP, Pekao SA oraz mBank SA w 
+kwocie 138 000 tysięcy PLN, oprocentowany według 
+stopy WIBOR 1M + marża banku (PAK-PCE 
+Fotowoltaika Sp. z o.o.) 
+31.12.2035 
+ 5 849 
+- 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+39 
+Kredyt obrotowy VAT w PKO BP i Pekao SA w 
+kwocie 37 000 tysięcy PLN, oprocentowany według 
+stopy WIBOR 1M + marża banku (PAK-PCE 
+Fotowoltaika Sp. z o.o.) 
+30.06.2022 
+ 16 873 
+- 
+Pożyczka w kwocie 58 tysięcy PLN od Galeon sp.z 
+o.o., oprocentowana według stopy WIBOR 6M (PG 
+Hydrogen sp. z o.o.) 
+06.09.2021 
+57 
+- 
+RAZEM 
+ 
+94 301 
+55 003 
+ 
+ 
+Długoterminowe 
+Termin Spłaty 
+30 czerwca 2021 
+roku (niebadane) 
+ 
+31 grudnia 2020 roku 
+Kredyt inwestycyjny w Pekao SA w kwocie 160 000 
+tysięcy PLN, oprocentowany według stopy WIBOR 
+3M + marża banku (ZE PAK SA) 
+31.12.2030 
+ 82 099 
+ - 
+Kredyt inwestycyjny terminowy w konsorcjum 
+banków PKO BP, Pekao SA oraz mBank SA w 
+kwocie 138 000 tysięcy PLN, oprocentowany według 
+stopy WIBOR 1M + marża banku (PAK-PCE 
+Fotowoltaika Sp. z o.o.) 
+31.12.2035 
+ 83 544 
+- 
+RAZEM 
+ 
+165 643 
+- 
+ 
+Zmiana stanu kredytów i pożyczek za okres 6 miesięcy zakończony 30 czerwca 2021 roku (niebadane) 
+ 
+ 
+Kredyty bankowe 
+ 
+Kredyty inwestycyjne 
+ 
+Razem 
+Stan na 1 stycznia 
+ 
+55 003 
+ 
+- 
+ 
+55 003 
+Zaciągnięcie 
+ 
+93 925 
+ 
+178 239 
+ 
+272 164 
+Spłata w tym: 
+ 
+(65 077) 
+ 
+- 
+ 
+(65 077) 
+ Spłata kapitału 
+ 
+(65 077) 
+ 
+- 
+ 
+(65 077) 
+ Spłata odsetek 
+ 
+- 
+ 
+- 
+ 
+- 
+ Zapłacone prowizje 
+ 
+- 
+ 
+- 
+ 
+- 
+Zmiana wyceny 
+ 
+(15) 
+ 
+(2 131) 
+ 
+(2 146) 
+Stan na koniec okresu 
+ 
+83 836 
+ 
+176 108 
+ 
+259 944 
+Zmiana stanu kredytów i pożyczek za rok zakończony 31 grudnia 2020 roku 
+ 
+ 
+Kredyty bankowe 
+ 
+Kredyty inwestycyjne 
+ 
+Razem 
+Stan na 1 stycznia 
+ 
+76 540 
+ 
+- 
+ 
+76 540 
+Zaciągnięcie 
+ 
+10 946 
+ 
+- 
+ 
+10 946 
+Spłata w tym: 
+ 
+(32 483) 
+ 
+- 
+ 
+(32 483) 
+ Spłata kapitału 
+ 
+(30 914) 
+ 
+- 
+ 
+(30 914) 
+ Spłata odsetek 
+ 
+(1 569) 
+ 
+- 
+ 
+(1 569) 
+ Zapłacone prowizje 
+ 
+- 
+ 
+- 
+ 
+- 
+Zmiana wyceny 
+ 
+- 
+ 
+- 
+ 
+- 
+Stan na koniec okresu 
+ 
+55 003 
+ 
+- 
+ 
+55 003 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+40 
+24. 
+Rezerwy i rozliczenia międzyokresowe 
+24.1. Rozliczenia międzyokresowe bierne 
+ 
+30 czerwca 2021 roku 
+(niebadane) 
+31 grudnia 2020 roku 
+Rezerwa na premię i urlopy wypoczynkowe 
+ 18 660 
+ 24 283 
+Odszkodowania z zakładu ubezpieczeń 
+ 735 
+ 647 
+Badanie sprawozdania finansowego 
+ - 
+ 290 
+Inne 
+ 7 162 
+ 2 565 
+Razem 
+ 26 557 
+ 27 785 
+krótkoterminowe 
+ 26 557 
+ 27 785 
+długoterminowe 
+ - 
+ - 
+Rezerwy z tytułu świadczeń emerytalnych oraz innych świadczeń po okresie zatrudnienia Grupa prezentuje 
+w sprawozdaniu z sytuacji finansowej pozycji „świadczenia pracownicze” w podziale na długo i krótkoterminowe. 
+Głównymi składnikami pozycji „Inne” są rezerwy na opłaty za gospodarcze korzystanie ze środowiska w kwocie 5 162 
+tysiące złotych oraz rezerwa na karę za przekroczenie ilości pyłu wprowadzonego do powietrza w 2015 roku w kwocie 
+1 190 tysięcy złotych. Na wniosek Grupy Wojewódzki Inspektor Ochrony Środowiska wyznaczył termin odroczenia 
+płatności ww. kary na dzień 31 marca 2023 roku, zgodnie z realizacją poszczególnych etapów harmonogramu 
+przedsięwzięcia „Przygotowanie terenów Elektrowni Adamów do nowych inwestycji”. 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+41 
+24.2. Zmiany stanu rezerw 
+ 
+ 
+Rezerwa na 
+umorzenie 
+EUA 
+Rezerwa na 
+zwrot 
+darmowych 
+uprawnień do 
+emisji CO2 
+ 
+Rezerwa 
+na koszty 
+likwidacji 
+środków 
+trwałych 
+Rezerwa na 
+rekultywację 
+składowisk 
+popiołów 
+ 
+Rezerwa na stratę 
+na kontrakcie 
+długoterminowym 
+Rezerwa na 
+umorzenie 
+świadectw 
+pochodzenia 
+energii 
+Rezerwy na 
+rekultywację 
+terenów 
+górniczych 
+Inne 
+Razem 
+ Stan na 1 stycznia 2021 roku 
+ 640 512 
+ 7 038 
+18 451 
+67 313 
+ 36 
+11 245 
+351 779 
+18 906 
+1 115 280 
+ zwiększenia 
+ 228 083 
+ - 130 
+ 22 
+ - 
+ 4 469 
+ 36 293 
+ 7 618 
+ 276 615 
+ zmniejszenia w tym: 
+ (640 438) 
+ (103) 
+ - 
+ - 
+ (1) 
+ (11 087) 
+ (41 564) 
+ (3 312) 
+ (696 505) 
+ wykorzystanie 
+ (640 438) 
+ - 
+ - 
+ - 
+ - 
+ (279) 
+ (5 742) 
+ (22) 
+ (646 481) 
+ rozwiązanie 
+ - 
+ (103) 
+ - 
+ - 
+ (1) 
+ (10 808) 
+ (35 822) 
+ (3 290) 
+ (50 024) 
+ Stan na 30 czerwca 2021 roku 
+ 228 157 
+ 6 935 18 581 
+ 67 335 
+ 35 
+ 4 627 
+ 346 508 
+ 23 212 
+ 695 390 
+ Długoterminowe 
+ - 
+ - 18 581 
+ 67 335 
+ - 
+ - 
+ 326 104 
+ 1 131 
+ 413 151 
+ Krótkoterminowe 
+ 228 157 
+ 6 935 
+ - 
+ - 
+ 35 
+ 4 627 
+ 20 404 
+ 22 081 
+ 282 239 
+ 
+ 
+ 
+ Stan na 1 stycznia 2020 roku 
+ 
+587 487 
+ 6 362 
+18 190 
+63 921 
+ 66 
+19 249 
+361 134 
+24 121 
+1 080 530 
+ zwiększenia 
+ 649 190 
+ 676 
+ 261 
+ 3 392 
+ 10 
+ 11 245 
+ 25 775 
+ 1 309 
+ 691 858 
+ zmniejszenia w tym: 
+ (596 165) 
+ - - 
+ - 
+ (40) 
+ (19 249) 
+ (35 130) 
+ (6 524) 
+ (657 108) 
+ wykorzystanie 
+ 
+ (596 081) 
+ - - 
+ - 
+ - 
+ (16 649) 
+ (31 332) 
+ (2 042) 
+ (646 104) 
+ rozwiązanie 
+ 
+ (84) 
+ - - 
+ - 
+ (40) 
+ (2 600) 
+ (3 798) 
+ (4 482) 
+ (11 004) 
+ Stan na 31 grudnia 2020 roku 
+ 640 512 
+ 7 038 
+ 18 451 
+ 67 313 
+ 36 
+ 11 245 
+ 351 779 
+ 18 906 
+ 1 115 280 
+ Długoterminowe 
+ - 
+ - 
+ 18 451 
+ 67 313 
+ - 
+ - 
+ 327 631 
+ 1 132 
+ 414 527 
+ Krótkoterminowe 
+ 640 512 
+ 7 038 
+ - 
+ - 
+ 36 
+ 11 245 
+ 24 148 
+ 17 774 
+ 700 753 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+42 
+24.3. Opis istotnych tytułów rezerw 
+24.3.1. Rezerwa na zobowiązania z tytułu emisji gazów cieplarnianych (EUA) 
+Grupa rozpoznaje rezerwę na umorzenie uprawnień do emisji gazów cieplarnianych. Na dzień 30 czerwca 2021 roku 
+kwota rezerwy wynosi 228 157 tysięcy złotych. 
+Prawa do emisji dwutlenku węgla 
+Od 1 stycznia 2013 roku obowiązuje kolejny okres rozliczeniowy dotyczący uprawnień do emisji, który zakończy się 
+31 grudnia 2020 roku. Założeniem tego okresu jest nieodpłatne przyznanie uprawnień do emisji (EUA) wynikających z 
+produkcji energii cieplnej na podstawie art. 10a Dyrektywy 2009/29/WE, aczkolwiek energetyka została dodatkowo 
+objęta możliwością derogacji. Derogacja wynikająca z art. 10c Dyrektywy 2009/29/WE polega na przyznaniu 
+dodatkowych nieodpłatnych uprawnień pod warunkiem poniesienia zadeklarowanych nakładów inwestycyjnych na 
+inwestycje zgłoszone w Krajowym Planie Inwestycyjnym (KPI) i przedstawienie sprawozdania rzeczowo-finansowego 
+z ich realizacji. 
+Stan jednostek EUA na 1 stycznia 2021 roku w ZE PAK SA wynosił 88 998 EUA. W pierwszym kwartale 2021 roku 
+ZE PAK SA dokonał przeniesienia 1 256 000 EUA jako zabezpieczenie pod zawarte transakcje zakupu/sprzedaży 
+energii elektrycznej do Izby Rozliczeniowej Giełd Towarowych. W marcu i kwietniu 2021 roku na konto ZE PAK SA 
+wpłynęło 5 258 000 EUA z zawartych kontraktów terminowych na MAR21. Stan uprawnień do emisji na koncie w 
+KOBIZE na 31 marca 2021 wynosi 4 090 998 EUA. W kwietniu 2021 roku wpłynęło 263 000 jednostek EUA na konto 
+w KOBIZE. Jednocześnie ZE PAK SA dokonał zwrotu 1 231 873 EUA z zabezpieczenia w IRGIT (pozostawiając na 
+zabezpieczeniach w IRGIT 23 987 EUA) i następnie umorzył 5 510 871 jednostek EUA za 2020 rok. Po umorzeniu 
+emisji CO2 za 2020 rok stan jednostek EUA w KOBIZE na 30 czerwca 2021 roku wyniósł 140 EUA. 
+Rezerwa tworzona jest w korespondencji z kosztem własnym sprzedaży. 
+Prawa do emisji dwutlenku węgla za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku (niebadane) 
+ 
+Zespół Elektrowni Pątnów-Adamów-Konin SA 
+ 
+Emisja CO2 (w tonach)* 
+ 2 090 125 
+ 
+ 
+Ilość (w tonach) 
+kwota (w tys. złotych) 
+ 
+Saldo na początek okresu 
+ 88 998 
+3 565 
+Nabyte 
+ 5 521 000 
+648 054 
+EUA 
+Przekazane na zabezpieczenie do IRGIT 
+(23 987) 
+- 
+ 
+Sprzedaż 
+(75 000) 
+(8 989) 
+ 
+Umorzenie 
+(5 510 871) 
+(642 615) 
+ 
+Saldo na koniec okresu 
+ 140 
+15 
+ 
+Pozostało do nabycia 
+2 089 985 
+228 142 
+ *Fizyczne umorzenie uprawnień do emisji za dany rok następuje w pierwszych miesiącach roku następnego. 
+Prawa do emisji dwutlenku węgla za okres 6 miesięcy zakończony dnia 30 czerwca 2020 roku (niebadane) 
+ 
+ 
+Zespół Elektrowni Pątnów-AdamówKonin SA 
+Elektrownia Pątnów II 
+ sp. z o.o. 
+ 
+Emisja CO2 (w tonach)* 
+1 491 795 
+ 
+1 155 267 
+ 
+ 
+ 
+ilość (w tonach) 
+kwota (w tys. złotych) 
+ilość (w tonach) 
+kwota (w tys. złotych) 
+ 
+ Saldo na początek okresu 
+62 269 
+ 88 
+1 045 676 
+ 93 129 
+ 
+ Nabyte 
+4 154 000 
+ 390 473 
+1 406 000 
+ 137 842 
+EUA 
+ Otrzymane darmowe 
+29 370 
+ - 
+- 
+ - 
+ 
+ Umorzenie 
+(4 158 913) 
+ (387 240) 
+(2 450 404) 
+ (230 850) 
+ 
+Saldo na koniec okresu 
+86 726 
+ 3 321 
+1 272 
+ 121 
+ 
+Pozostało do nabycia 
+1 405 069 
+ 167 882 
+1 153 995 
+ 137 773 
+*Fizyczne umorzenie uprawnień do emisji za dany rok następuje w pierwszych miesiącach roku następnego. 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+43 
+24.3.2. Rezerwa na rekultywację składowisk popiołów i koszty likwidacji środków trwałych 
+Grupa tworzy rezerwę na przyszłe koszty rekultywacji terenu w oparciu o prawny obowiązek wynikający z „Pozwoleń 
+zintegrowanych”. Podstawą szacowania wielkości rezerwy są dane przygotowywane przez służby wewnętrzne. Wartość 
+rezerwy jest szacowana i weryfikowana na każdy dzień bilansowy na podstawie oszacowanych kosztów do poniesienia 
+w przyszłości oraz dyskonta. Na dzień 30 czerwca 2021 roku utworzona rezerwa wynosiła 67 335 tysięcy złotych. 
+Ze względu na istnienie prawnego obowiązku likwidacji środków trwałych po ich okresie użytkowania Grupa tworzy 
+rezerwę na przewidywane przyszłe koszty, które będą niezbędne do poniesienia dla wypełnienia tego obowiązku. 
+Na dzień 30 czerwca 2021 roku rezerwa z tego tytułu wynosiła 18 581 tysięcy złotych. Rezerwa tworzona jest 
+w korespondencji z kosztem własnym sprzedaży. Kwota dyskonta odniesiona w koszty finansowe wynosi 152 tysiące 
+złotych. Zmiana strategii i związane z nią skrócenie produkcji energii elektrycznej w oparciu o spalanie węgla 
+brunatnego spowoduje wcześniejsze rozpoczęcie procesu rekultywacji składowiska popiołów. 
+24.3.3. Rezerwy rekultywacyjne i inne związane z działalnością górniczą 
+PAK KWB Konin SA oraz PAK KWB Adamów SA w likwidacji są zobowiązane na podstawie ustawy prawo górnicze 
+i geologiczne do dokonania rekultywacji terenów, na których prowadzone były prace wydobywcze. W związku z tym 
+Grupa tworzy rezerwę zarówno na koszty rekultywacji terenu związanej z bieżącym wydobyciem węgla na danej 
+odkrywce jak również na koszty rekultywacji wyrobiska końcowego w stopniu zaawansowania wydobycia węgla w 
+poszczególnych odkrywkach na dany dzień bilansowy. 
+Rezerwa tworzona jest w oparciu o szacunki przyszłych kosztów rekultywacji w oparciu o raporty niezależnych 
+ekspertów szacujących koszty rekultywacji na zlecenie Zarządu. Szacunki dotyczące przewidywanych kosztów 
+rekultywacyjnych aktualizuje się okresowo, z tym że na każdą datę sprawozdawczą weryfikowana jest wielkość 
+rezerwy zgodnie z aktualnymi założeniami w zakresie stopy dyskontowej, inflacji oraz wielkości wydobycia. 
+PAK KWB Konin SA oraz PAK KWB Adamów SA w likwidacji w ramach prowadzonej działalności zobowiązane są 
+do przywrócenia stanu pierwotnego lub odbudowy zniszczeń spowodowanych ruchem zakładu górniczego. W związku 
+z tym Grupa tworzy rezerwę na przewidywane koszty, do których poniesienia jest zobligowana na podstawie zawartych 
+porozumień. Szacunki dotyczące przewidywanych kosztów związanych z ruchem zakładu górniczego aktualizowane są 
+na każdą datę sprawozdawczą. 
+Rezerwa na likwidację obiektów i rekultywację terenów górniczych oraz z tytułu przygotowania terenów 
+eksploatacyjnych w PAK KWB Konin SA oraz PAK KWB Adamów SA w likwidacji wg stanu na dzień 30 czerwca 
+2021 roku wyniosła 346 508 tysięcy złotych i zmniejszyła się w porównaniu z rokiem zakończonym dnia 31 grudnia 
+2020 roku o 5 271 tysięcy złotych. Kalkulując rezerwę Grupa przyjęła następujące założenia: stopa dyskonta liczona za 
+okres 3 lat na poziomie 2,6%, poziom inflacji na poziomie 2,5%. 
+Rezerwa tworzona jest w korespondencji z kosztem własnym sprzedaży. Kwota dyskonta odniesiona w koszty 
+finansowe wynosi 2 596 tysięcy złotych. 
+24.3.4. Rezerwa na umorzenie świadectw pochodzenia energii 
+W związku ze sprzedażą energii elektrycznej do odbiorców finalnych, Grupa ma obowiązek umorzenia określonej 
+liczby certyfikatów pochodzenia energii elektrycznej ze źródeł odnawialnych, gazowych i kogeneracji. 
+Na dzień 30 czerwca 2021 roku utworzona rezerwa z tego tytułu wyniosła 4 627 tysięcy złotych. Rezerwa tworzona jest 
+w korespondencji z kosztem własnym sprzedaży. 
+24.3.5. Inne rezerwy 
+Głównymi pozycjami pozostałych rezerw na 30 czerwca 2021 roku są w PAK KWB Konin SA: rezerwy na szkody 
+górnicze w kwocie 329 tysięcy złotych, rezerwy na toczące się postępowania sądowe w kwocie 1 366 tysięcy złotych, 
+rezerwa na wynagrodzenie za użytkowanie górnicze w kwocie 1 240 tysięcy złotych, w PAK KWB Adamów SA w 
+likwidacji: rezerwy z tytułu trwałego wyłączenia z produkcji leśnej gruntów pod końcowy zbiornik po odkrywce 
+Adamów w kwocie 15 828 tysięcy złotych, rezerwy na sprawy sądowe w kwocie 554 tysiące złotych. Rezerwy na 
+szkody górnicze i rezerwa z tytułu trwałego wyłączenia z produkcji są tworzone w korespondencji z kosztem własnym 
+sprzedaży, a rezerwy na toczące się postępowania sądowe w korespondencji z pozostałymi kosztami operacyjnymi. 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+44 
+25. 
+Zobowiązania z tytułu dostaw i usług, pozostałe zobowiązania 
+i rozliczenia międzyokresowe 
+25.1. Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania finansowe 
+(krótkoterminowe) 
+ 
+30 czerwca 2021 roku 
+(niebadane) 
+31 grudnia 2020 roku 
+Zobowiązania z tytułu dostaw i usług: 
+ 137 342 
+ 98 960 
+Pozostałe zobowiązania w tym: 
+ 197 092 
+ 89 301 
+ Zobowiązania inwestycyjne 
+ 30 513 
+ 50 818 
+ Zobowiązania wobec pracowników z tytułu 
+ wynagrodzeń 
+ 
+ 14 564 
+ 16 119 
+ Inne zobowiązania 
+ 152 015 
+ 22 364 
+Razem 
+ 334 434 
+ 188 261 
+ 
+W linii inne zobowiązania na dzień 30 czerwca 2021 roku Grupa prezentuje głównie zobowiązania dotyczące 
+zabezpieczenia zmiennego związanego z zakupem uprawnień do emisji CO2 w kwocie 143 686 tysięcy złotych. 
+Zasady i warunki płatności powyższych zobowiązań finansowych: 
+Zobowiązania z tytułu dostaw i usług są nieoprocentowane i zazwyczaj rozliczane w terminach 14 bądź 30-dniowych. 
+Zobowiązania z tytułu odsetek są zazwyczaj rozliczane w okresach miesięcznych bądź kwartalnych w ciągu całego 
+roku obrotowego. 
+25.2. Pozostałe zobowiązania niefinansowe 
+ 
+30 czerwca 2021 roku 
+(niebadane) 
+31 grudnia 2020 roku 
+Zobowiązania z tytułu podatku VAT 
+ 45 730 
+ 31 182 
+Zobowiązania z tytułu opłat środowiskowych 
+ - 
+ 11 926 
+Zobowiązania z tytułu podatku akcyzowego 
+ 502 
+ 519 
+Zobowiązania z tytułu ubezpieczeń społecznych 
+ 20 993 
+ 19 191 
+Podatek dochodowy od osób fizycznych 
+ 3 762 
+ 4 409 
+Pozostałe zobowiązania budżetowe 
+ 380 
+ 3 827 
+Zaliczki na dostawy 
+ - 
+ 329 
+Opłata eksploatacyjna 
+ 3 958 
+ 6 153 
+Inne 
+ 1 459 
+ 616 
+Razem 
+ 76 784 
+ 78 152 
+Zobowiązania z tytułu opłat środowiskowych dotyczą opłat za zanieczyszczanie powietrza, składowanie odpadów oraz 
+pobór wód i odprowadzanie ścieków. Okresem rozliczeniowym jest rok. 
+Zobowiązania z tytułu opłat eksploatacyjnych dotyczą opłat od wydobytej kopaliny, które wynikają z Prawa 
+geologicznego i górniczego. Okresem rozliczeniowym jest półrocze. 
+Głównymi składnikami pozycji „Inne” są nadwyżka zobowiązań nad aktywami ZFŚS w kwocie 769 tysięcy złotych 
+oraz zobowiązania wobec PFRON w kwocie 291 tysięcy złotych. 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+45 
+25.3. Dotacje i rozliczenia międzyokresowe przychodów (długoterminowe) 
+ 
+30 czerwca 2021 roku 
+(niebadane) 
+31 grudnia 2020 roku 
+Dotacje długoterminowe 
+ 31 788 
+ 32 710 
+Pozostałe 
+ 4 046 
+ 3 317 
+Razem 
+ 35 834 
+ 36 027 
+Główny składnik pozycji „Dotacje długoterminowe”: Zaprezentowane na dzień 30 czerwca 2021 roku dotacje 
+w kwocie 31 493 tysiące złotych powstały na skutek wyceny otrzymanej z Narodowego Funduszu Ochrony Środowiska 
+i Gospodarki Wodnej pożyczki, tak jakby została ona udzielona na warunkach rynkowych. Dotacja rozliczana jest 
+zgodnie z okresem użyteczności środków trwałych wchodzących w skład bloku 464 MW. 
+Głównym składnikiem pozycji „Pozostałe” są otrzymane nieodpłatnie od Starostwa Powiatowego oraz Gminy grunty 
+w kwocie 3 895 tysięcy złotych. 
+25.4. Dotacje i rozliczenia międzyokresowe przychodów (krótkoterminowe) 
+ 
+30 czerwca 2021 roku 
+(niebadane) 
+31 grudnia 2020 roku 
+Dotacje krótkoterminowe 
+ 3 646 
+ 3 646 
+Razem 
+ 3 646 
+ 3 646 
+ 
+26. 
+Zobowiązania warunkowe oraz opis istotnych spraw sądowych 
+Poza zobowiązaniami opisanymi w notach 26.2, 27 i 28 Grupa na dzień 30 czerwca 2021 roku nie posiadała innych 
+zobowiązań warunkowych, udzielonych gwarancji oraz poręczeń. 
+26.1. Sprawy sądowe 
+Zaskarżenie indywidualnej interpretacji przepisów prawa podatkowego w zakresie zwrotów do Zarządcy 
+Rozliczeń SA ujemnych korekt wynikających z ustawy o KDT 
+W dniu 7 lipca 2017 roku Elektrownia Pątnów II sp. z o.o. złożyła do Wojewódzkiego Sądu Administracyjnego w 
+Poznaniu (za pośrednictwem Dyrektora Krajowej Informacji Skarbowej) skargę na indywidualną interpretację 
+przepisów prawa podatkowego, wydaną przez Dyrektora Krajowej Informacji Skarbowej z dnia 20 kwietnia 2017 roku 
+w zakresie spłaty na rzecz Zarządcy Rozliczeń SA, na podstawie zawartego przez strony porozumienia, zobowiązań 
+tytułem zwrotu ujemnej korekty kosztów osieroconych za rok 2008 oraz innych przyszłych spłat (ujemnych korekt) od 
+Elektrowni Pątnów II sp. z o.o. na rzecz Zarządcy Rozliczeń SA, których zasadność będzie wynikała z ustawy z dnia 29 
+czerwca 2007 roku o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym 
+rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. z 2017 roku, poz. 569 ze zm.; 
+dalej: „ustawa o KDT”). 
+Dnia 10 sierpnia 2017 roku Dyrektor Krajowej Informacji Skarbowej przesłał do Wojewódzkiego Sądu 
+Administracyjnego w Poznaniu odpowiedzi na ww. skargę. 
+W opinii Elektrowni Pątnów II sp. z o.o. wszelkie zwroty/spłaty od Elektrowni Pątnów II sp. z o.o. na rzecz Zarządcy 
+Rozliczeń SA wynikające z ustawy o KDT stanowią koszty uzyskania przychodów w momencie faktycznego 
+dokonania tych spłat. Spółka ma prawo uwzględniać te koszty w rozliczeniu za rok podatkowy, w którym 
+nastąpiła/nastąpi zapłata na rzecz Zarządcy Rozliczeń SA. Przesądza o tym uregulowanie zawarte w art. 42 ust. 4 
+ustawy o KDT. 
+Powyższa opinia spółki jest również zgodna z szerokim orzecznictwem w tym zakresie. 
+Odmiennego zdania jest Dyrektor Krajowej Informacji Skarbowej, który wydając indywidualną interpretację uznał 
+stanowisko spółki za nieprawidłowe i stwierdził, że spłaty na rzecz Zarządcy Rozliczeń SA na podstawie zawartego 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+46 
+porozumienia w latach 2014-2017 (w zakresie dokonanych spłat), w roku 2017 (w zakresie przyszłych jeszcze nie 
+dokonanych spłat) oraz inne spłaty od spółki na rzecz Zarządcy Rozliczeń SA, których zasadność będzie wynikała 
+z ustawy o KDT stanowią/stanowić będą koszty uzyskania przychodów w dniu ich poniesienia, tj. zaksięgowania 
+w księgach rachunkowych. 
+W dniu 18 stycznia 2018 roku spółka wygrała przed Sądem Apelacyjnym w Poznaniu spór z Dyrektorem Krajowej 
+Informacji Skarbowej w ww. sprawie. Wyrok sądu oznacza, że spółka w prawidłowy sposób rozpoznawała koszty 
+uzyskania przychodu z ww. tytułu. 
+W marcu 2018 roku Dyrektor Krajowej Informacji Skarbowej odwołał się od wyroku sądu. 
+25 sierpnia 2020 roku odbyła się przed Naczelnym Sądem Administracyjnym rozprawa, w wyniku której sąd oddalił 
+skargę kasacyjną Dyrektora Krajowej Informacji Skarbowej, podzielając tym samym argumentację Elektrowni Pątnów 
+II sp. z o.o. 
+W konsekwencji sprawa wraca do Dyrektora Krajowej Informacji Skarbowej, który zobligowany jest do wydania 
+interpretacji indywidualnej zgodnej z wyrokiem NSA czyli korzystnej dla Spółki. 
+Dnia 12 marca 2021 roku Dyrektor Krajowej Informacji Skarbowej wydał interpretację indywidualną zgodną 
+z wyrokiem NSA. 
+Sprawa zakończona. 
+Postępowanie w sprawie decyzji środowiskowej wydanej na rzecz PAK KWB Konin SA dotyczącej złoża 
+węgla brunatnego w Tomisławicach 
+PAK KWB Konin SA jest stroną postępowań administracyjnych dotyczących decyzji środowiskowej związanej ze 
+złożem węgla brunatnego w Tomisławicach. W dniu 7 sierpnia 2007 roku wójt gminy Wierzbinek wydał decyzję 
+środowiskową dotyczącą odkrywki węgla brunatnego. W dniu 5 grudnia 2008 roku decyzja ta została zaskarżona przez 
+dziewięć osób fizycznych wspieranych przez fundację Greenpeace z powodu rzekomego rażącego naruszenia 
+przepisów prawa. W dniu 25 marca 2009 roku Samorządowe Kolegium Odwoławcze odmówiło uchylenia decyzji 
+środowiskowej. Powodowie złożyli wniosek o ponowne rozpatrzenie sprawy. W dniu 4 maja 2009 roku, po ponownym 
+rozpatrzeniu sprawy, Samorządowe Kolegium Odwoławcze podtrzymało swoje wcześniejsze orzeczenie. Powodowie 
+po raz kolejny złożyli odwołanie od decyzji środowiskowej. W dniu 5 maja 2010 roku Wojewódzki Sąd 
+Administracyjny w Poznaniu orzekł, iż decyzja środowiskowa, na podstawie której została udzielona koncesja na 
+wydobycie węgla brunatnego ze złoża Tomisławice, w rażący sposób narusza przepisy prawa. PAK KWB Konin SA i 
+Samorządowe Kolegium Odwoławcze złożyły odwołanie od tego wyroku. W dniu 21 marca 2012 roku Naczelny Sąd 
+Administracyjny uchylił zaskarżone orzeczenie Wojewódzkiego Sądu Administracyjnego w Poznaniu i przekazał 
+sprawę do ponownego rozpatrzenia. W dniu 6 listopada 2012 roku Wojewódzki Sąd Administracyjny w Poznaniu 
+ogłosił wyrok uchylający decyzję Samorządowego Kolegium Odwoławczego z dnia 25 marca 2009 roku odmawiającą 
+stwierdzenia nieważności decyzji środowiskowej wydanej w dniu 7 sierpnia 2007 roku przez Wójta Gminy Wierzbinek 
+związanej z eksploatacją przez PAK KWB Konin SA odkrywki węgla brunatnego Tomisławice. W dniu 7 stycznia 
+2013 roku PAK KWB Konin SA złożyła skargę kasacyjną od opisywanego wyroku. 
+Po rozpoznaniu na rozprawie w dniu 7 października 2014 roku Naczelny Sąd Administracyjny oddalił skargę kasacyjną 
+PAK KWB Konin SA od wyroku Wojewódzkiego Sądu Administracyjnego w Poznaniu z dnia 6 listopada 2012 roku 
+uchylającego decyzję Samorządowego Kolegium Odwoławczego w Koninie z dnia 25 marca 2009 roku odmawiającą 
+stwierdzenia nieważności decyzji środowiskowej wydanej w dniu 7 sierpnia 2007 roku przez Wójta Gminy Wierzbinek 
+związanej z eksploatacja odkrywki węgla brunatnego Tomisławice. 
+Oddalenie skargi kasacyjnej PAK KWB Konin SA oznacza, że wyrok Wojewódzkiego Sądu Administracyjnego 
+w Poznaniu z dnia 6 listopada 2012 roku stał się prawomocny, a sprawa dotycząca stwierdzenia nieważności decyzji 
+środowiskowej wróciła ponownie do Samorządowego Kolegium Odwoławczego. W dniu 18 stycznia 2019 roku 
+Samorządowe Kolegium Odwoławcze w Koninie wydało decyzję odmawiającą stwierdzenia nieważności decyzji 
+środowiskowej wydanej w dniu 7 sierpnia 2007 roku przez Wójta Gminy Wierzbinek związanej z eksploatacją 
+odkrywki węgla brunatnego Tomisławice. Następnie Kolegium utrzymało w mocy swoją decyzję, od której została 
+wniesiona skarga do WSA w Poznaniu. 
+Decyzja Samorządowego Kolegium Odwoławczego w Koninie oznacza tym samym, że decyzja środowiskowa wydana 
+przez Wójta Gminy Wierzbinek cały czas pozostaje w obrocie prawnym. Decyzja nie jest ostateczna. Został złożony 
+wniosek o ponowne rozpatrzenie sprawy przez Samorządowe Kolegium Odwoławcze w Koninie. 
+19 czerwca 2020 roku Spółka powzięła informację o wydaniu, na posiedzeniu niejawnym przez Wojewódzki Sąd 
+Administracyjny w Poznaniu, wyroku oddalającego skargę na decyzję Samorządowego Kolegium Odwoławczego w 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+47 
+Koninie w przedmiocie odmowy stwierdzenia nieważności decyzji środowiskowej wydanej w dniu 7 sierpnia 2007 
+roku przez Wójta Gminy Wierzbinek związanej z eksploatacją odkrywki węgla brunatnego Tomisławice. 
+Wyrok Wojewódzkiego Sądu Administracyjnego w Poznaniu, datowany na 18 czerwca 2020 roku oznacza tym 
+samym, że decyzja środowiskowa wydana w dniu 7 sierpnia 2007 roku przez Wójta Gminy Wierzbinek, cały czas 
+pozostaje w obrocie prawnym. 
+Od wyroku z dnia 18 czerwca 2020 roku WSA w Poznaniu Fundacja Greenpeace Polska z siedzibą w Warszawie 
+i Józef Imbiorski złożyli skargę kasacyjną do NSA. W dniu 26 października 2020 roku PAK KWB Konin złożyła 
+odpowiedź na skargę kasacyjna wnosząc o jej oddalenie. W tej sprawie nadal nie wyznaczono terminu rozprawy. 
+Postanowienia w sprawie decyzji Ministra Klimatu (dostosowanie do kBAT) oraz wyrok Wojewódzkiego 
+Sądu Administracyjnego w Warszawie 
+Marszałek Województwa Wielkopolskiego decyzją z dnia 2 października 2020 r. znak: DSR-II-1.7222.89.2019 zmienił 
+pozwolenie zintegrowanego na prowadzenie Instalacji Spalania Paliw w Elektrowni 
+Pątnów i Elektrowni Konin w zakresie dostosowania do wymagań konkluzji BAT oraz udzielenia częściowego 
+odstępstwa od granicznych wielkości emisyjnych określonych w konkluzjach BAT na podstawie art. 204 ust. 2 ustawy 
+Prawo ochrony środowiska. Decyzja ta została opatrzona rygorem natychmiastowej wykonalności ze względu na ważny 
+interes społeczny oraz wyjątkowo ważny interes Spółki, i jest obowiązująca, znajduje się w obiegu prawnym. Z racji 
+trwającego postępowania odwoławczego, jej ostateczność zostanie dopiero potwierdzona, kiedy Minister Klimatu wyda 
+decyzję w przedmiotowej sprawie podtrzymującą ww. decyzję. 
+Analogicznie sytuacja prawna przedstawia się w odniesieniu do pozwolenia zintegrowanego na prowadzenie Instalacji 
+Spalania Paliw w Elektrowni Pątnów II, które decyzją Marszałka Województwa Wielkopolskiego z 29 kwietnia 2020 
+znak DSR-II-1.7222.83.2019 roku zostało zmienione w zakresie dostosowania do wymagań konkluzji BAT oraz 
+udzielenia odstępstwa od granicznych wielkości emisyjnych określonych w konkluzjach BAT na podstawie art. 204 ust. 
+2 ustawy Prawo ochrony środowiska, która to decyzja została sprostowana decyzją Marszałka Województwa 
+Wielkopolskiego z dnia 17 lutego 2021 roku znak: DSR-II-1.7222.11.2021. 
+26.2. Zobowiązania warunkowe związane z likwidacją elektrowni 
+Obowiązek przeprowadzenia likwidacji i rekultywacji terenu wynika z pozwoleń zintegrowanych na prowadzenie 
+instalacji spalania paliw w elektrowniach Pątnów i Konin oraz Adamów należących do ZE PAK SA. Na wyżej 
+wymienionych podmiotach w przypadku zakończenia działalności ciąży obowiązek do przeprowadzenia likwidacji 
+wszystkich obiektów i urządzeń instalacji zgodnie z wymaganiami wynikającymi z przepisów prawa budowlanego. 
+Teren instalacji po ich likwidacji winien być zagospodarowany według ustaleń dokonanych z organem samorządowym. 
+W szczególności należy sporządzić projekt likwidacji obiektów i urządzeń uwzględniający wymagania ochrony 
+środowiska, głównie w odniesieniu do gospodarki odpadami. 
+Elektrownia Adamów zakończyła już swoją działalność i obecnie przeprowadzany jest proces likwidacji 
+zlokalizowanych tam instalacji. Z uwagi na ogłoszone w minionym roku kierunki strategii można również określić 
+termin zakończenia działalności instalacji zlokalizowanych w Pątnowie. Okres zakończenia eksploatacji starszych 
+jednostek w Pątnowie można określić na koniec 2024 roku a nowsza jednostka o mocy 474 MW (dawna Elektrownia 
+Pątnów II), przy założeniu obowiązywania efektywnego systemu wsparcia, mogłaby być eksploatowana maksymalnie 
+do 2030 roku. Bazując na doświadczeniach związanych z likwidacją elektrowni Adamów, zainteresowania oraz 
+wartości złożonych ofert należy racjonalnie założyć, że wartość zdemontowanych urządzeń, złomu oraz kruszywa z 
+likwidowanych instalacji jest w stanie pokryć koszty likwidacji i rekultywacji jednostek. 
+27. 
+Zabezpieczenia spłaty zobowiązań 
+W celu zabezpieczenia spłaty zobowiązań Grupa stosuje wiele form zabezpieczeń. Do najpowszechniejszych należą 
+hipoteki oraz zastawy rejestrowe. 
+Na dzień 30 czerwca 2021 roku oraz na dzień 31 grudnia 2020 roku Grupa posiadała następujące zobowiązania 
+zabezpieczone na jej majątku oraz pozostałe zabezpieczenia spłaty zobowiązań: 
+ 
+ 
+ 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+48 
+ 
+Zobowiązania zabezpieczone na majątku 
+ 
+ 
+30 czerwca 2021 
+(niebadane) 
+Waluta 
+31 grudnia 2020 
+Waluta 
+Umowa 
+Rodzaj zabezpieczenia 
+Kwota 
+zabezpieczenia 
+Kwota 
+zabezpieczenia 
+Umowa kredytu 
+nieodnawialnego z Alior Bank 
+SA z dnia 25 lipca 2019 roku na 
+kwotę 66 700 tysięcy złotych dla 
+PAK KWB Konin SA 
+Zastaw rejestrowy na 
+maszynach i urządzeniach 
+Do kwoty 141 400 
+PLN 
+Do kwoty 141 400 
+PLN 
+Umowa kredytu inwestycyjnego 
+terminowego w Pekao SA w 
+kwocie 160 000 tysięcy złotych 
+dla ZE PAK SA 
+Pierwszorzędny zastaw 
+finansowy i rejestrowy 
+ustanowiony na rachunkach 
+bankowych ZE PAK w 
+banku Pekao SA 
+Do kwoty 192 000 
+PLN 
+- 
+PLN 
+Pierwszorzędna hipoteka na 
+nieruchomościach 
+Elektrowni Konin 
+Do kwoty 192 000 
+PLN 
+- 
+PLN 
+Umowa kredytu inwestycyjnego 
+terminowego i kredytu VAT w 
+PKO BP SA, Pekao SA oraz 
+mBank SA w kwocie 175 000 
+tysięcy złotych dla PAK-PCE 
+Fotowoltaika Sp. z o.o. 
+Pierwszorzędny zastaw 
+finansowy i rejestrowy 
+ustanowiony na rachunkach 
+bankowych PAK-PCE 
+Fotowoltaika w bankach 
+PKO BP SA, Pekao SA i 
+mBank SA 
+Do kwoty 262 500 
+PLN 
+- 
+PLN 
+Pierwszorzędna hipoteka na 
+nieruchomościach PAK-PCE 
+Fotowoltaika 
+Do kwoty 262 500 
+PLN 
+- 
+PLN 
+Drugorzędna hipoteka na 
+nieruchomościach PAK-PCE 
+Fotowoltaika na 
+zabezpieczenie zobowiązań 
+z tytułu umów 
+zabezpieczających IRS oraz 
+powiązanych z nią transakcji 
+w bankach PKO BP SA, 
+Pekao SA i mBank SA 
+Do kwoty 12 000 
+(PKO BP SA) 
+ 
+Do kwoty 12 000 
+(Pekao SA) 
+ 
+Do kwoty 7 500 
+(mBank SA) 
+PLN 
+ 
+ 
+PLN 
+ 
+ 
+PLN 
+ 
+- 
+ 
+ 
+- 
+ 
+ 
+- 
+ 
+ 
+PLN 
+ 
+ 
+ PLN 
+ 
+ 
+PLN 
+ 
+ 
+Pierwszorzędny zastaw 
+rejestrowy ustanowiony na 
+zbiorze rzeczy i praw PAKPCE Fotowoltaika w banku 
+PKO BP SA 
+Do kwoty 262 500 
+PLN 
+- 
+PLN 
+Pierwszorzędny zastaw 
+finansowy i rejestrowy 
+ustanowiony na wszystkich 
+udziałach w kapitale 
+zakładowym PAK-PCE 
+Fotowoltaika w bankach 
+PKO BP SA, Pekao SA i 
+mBank SA 
+Do kwoty 262 500 
+PLN 
+- 
+PLN 
+ 
+Pozostałe zabezpieczenia spłaty zobowiązań 
+Udzielone gwarancje 
+30 czerwca 2021 roku 
+(niebadane) 
+Waluta 
+31 grudnia 2020 roku 
+Waluta 
+Rodzaj gwarancji 
+Kwota zabezpieczenia 
+Kwota zabezpieczenia 
+Gwarancje dobrego wykonania umowy 
+8 435 
+PLN 
+8 819 
+PLN 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+49 
+Gwarancje usunięcia wad i usterek 
+6 697 
+484 
+PLN 
+EUR 
+7 223 
+434 
+PLN 
+EUR 
+Gwarancje płatności (w tym gwarancje zabezpieczające 
+transakcje na TGE / IRGIT) 
+ 
+110 000 
+ 
+PLN 
+ 
+30 000 
+9 980 
+ 
+PLN 
+EUR 
+Ponadto Grupa stosuje jako zabezpieczenia spłaty zobowiązań cesje z umów sprzedaży, cesje z polis 
+ubezpieczeniowych, pełnomocnictwa do rachunków bankowych oraz oświadczenia o poddaniu się egzekucji. 
+Poniższa tabela pokazuje sumę udzielonych poręczeń. 
+30 czerwca 2021 roku 
+(niebadane) 
+Waluta 
+31 grudnia 2020 
+Waluta 
+Poręczenia wewnątrzgrupowe 
+95 747 
+PLN 
+125 578 
+PLN 
+Poręczenia udzielone podmiotom spoza Grupy 
+- 
+PLN 
+- 
+PLN 
+Razem udzielone poręczenia 
+95 747 
+PLN 
+125 578 
+PLN 
+28. 
+Otrzymane gwarancje i poręczenia 
+30 czerwca 2021 
+(niebadane) 
+Waluta 
+31 grudnia 2020 
+waluta 
+Rodzaj gwarancji 
+Kwota 
+zabezpieczenia 
+Kwota 
+zabezpieczenia 
+Gwarancje dobrego wykonania umowy 
+25 373 
+PLN 
+23 437 
+PLN 
+Gwarancje usunięcia wad i usterek 
+3 274 
+- 
+PLN 
+EUR 
+2 711 
+- 
+PLN 
+EUR 
+Gwarancje płatności 
+- 
+- 
+PLN 
+EUR 
+- 
+- 
+PLN 
+EUR 
+Gwarancje zwrotu zaliczki 
+7 237 
+2 083 
+PLN 
+EUR 
+12 705 
+2 083 
+PLN 
+EUR 
+Grupa posiada poręczenia otrzymane, są to tylko poręczenia wewnątrzgrupowe. 
+29. 
+Informacje o podmiotach powiązanych 
+Następująca tabela przedstawia łączne kwoty istotnych transakcji zawartych z podmiotami powiązanymi za okres 
+6 miesięcy zakończony 30 czerwca 2021 roku i 30 czerwca 2020 roku oraz należności i zobowiązań na dzień 30 
+czerwca 2021 roku oraz 30 czerwca 2020 roku. Transakcje z podmiotami powiązanymi są realizowane na zasadach 
+rynkowych. 
+Podmiot powiązany 
+Sprzedaż na 
+rzecz podmiotów 
+powiązanych 
+Zakupy od 
+podmiotów 
+powiązanych 
+Należności 
+od 
+podmiotów 
+powiązanych 
+Zobowiązania 
+wobec 
+podmiotów 
+powiązanych 
+Elektrim S.A. 
+I półrocze 2021 
+ 
+- 
+- 
+- 
+- 
+I półrocze 2020 
+ 
+- 
+60 
+- 
+- 
+Megadex Development sp. z o.o. 
+I półrocze 2021 
+ 
+29 
+- 
+- 
+- 
+ 
+I półrocze 2020 
+ 
+32 
+- 
+4 
+- 
+Megadex Expo sp. zo.o. 
+I półrocze 2021 
+ 
+294 
+- 
+- 
+- 
+ 
+I półrocze 2020 
+ 
+341 
+- 
+67 
+- 
+Polkomtel sp. z o.o. 
+I półrocze 2021 
+ 
+44 796 
+1 191 
+9 616 
+371 
+I półrocze 2020 
+ 
+56 289 
+3 462 
+11 004 
+440 
+Polkomtel Infrastruktura sp. z o.o. 
+I półrocze 2021 
+ 
+87 
+- 
+34 
+- 
+ 
+I półrocze 2020 
+ 
+55 
+- 
+22 
+- 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+50 
+Laris Investments sp. z o.o. 
+I półrocze 2021 
+241 
+137 
+61 
+- 
+I półrocze 2020 
+260 
+184 
+14 
+- 
+Laris Technologies sp. z o.o. 
+I półrocze 2021 
+1 231 
+- 
+- 
+- 
+ 
+I półrocze 2020 
+1 281 
+- 
+127 
+- 
+CPE sp. z o.o. 
+I półrocze 2021 
+- 
+390 
+- 
+231 
+I półrocze 2020 
+1 
+421 
+- 
+103 
+Plus Flota sp. z o.o. 
+I półrocze 2021 
+- 
+1 284 
+4 
+276 
+ 
+I półrocze 2020 
+- 
+1 417 
+4 
+287 
+Cyfrowy Polsat 
+I półrocze 2021 
+1 697 
+4 
+701 
+- 
+ 
+I półrocze 2020 
+1 796 
+4 
+716 
+1 
+Esoleo sp. z o.o. 
+I półrocze 2021 
+1 984 
+106 054 
+993 
+16 857 
+ 
+I półrocze 2020 
+- 
+- 
+- 
+- 
+Maciej Nietopiel 
+I półrocze 2021 
+ 
+120 
+- 
+25 
+ 
+I półrocze 2020 
+ 
+- 
+- 
+- 
+Tomasz Zadroga 
+I półrocze 2021 
+- 
+120 
+- 
+25 
+ 
+I półrocze 2020 
+- 
+120 
+- 
+25 
+KD Management 
+Krzysztof Dziaduszyński 
+I półrocze 2021 
+- 
+30 
+- 
+6 
+ 
+I półrocze 2020 
+- 
+100 
+- 
+18 
+Doradztwo Strategiczne 
+Maciej Koński 
+I półrocze 2021 
+- 
+150 
+- 
+31 
+ 
+I półrocze 2020 
+- 
+125 
+- 
+31 
+Paweł Markowski 
+I półrocze 2021 
+- 
+165 
+- 
+34 
+ 
+I półrocze 2020 
+- 
+- 
+- 
+- 
+Impact Paweł Lisowski 
+I półrocze 2021 
+- 
+165 
+- 
+34 
+ 
+I półrocze 2020 
+- 
+- 
+- 
+- 
+Razem 
+I półrocze 2021 
+50 359 
+109 810 
+11 409 
+17 890 
+I półrocze 2020 
+60 055 
+5 893 
+11 958 
+905 
+Elektrim SA jest jednostką dominującą w stosunku do Grupy ZE PAK SA. Pozostałe spółki są spółkami zależnymi lub 
+powiązanymi z Elektrim SA. 
+Transakcje z Polkomtel sp. z o.o. dotyczą głównie sprzedaży energii elektrycznej. 
+Transakcje z ESOLEO sp. z o.o. dotyczą głównie budowy farmy fotowoltaicznej o mocy 70 MWp. 
+Transakcje z podmiotami powiązanymi są dokonywane na warunkach rynkowych. 
+29.1. Pożyczka udzielona członkowi Zarządu 
+Zarówno w okresie 6 miesięcy kończącym się dnia 30 czerwca 2021 roku jak i w okresie 6 miesięcy zakończonym dnia 
+30 czerwca 2020 roku Jednostka dominująca nie udzieliła osobom wchodzącym w skład organów zarządzających 
+i nadzorujących żadnych pożyczek i świadczeń o podobnym charakterze. 
+29.2. Inne transakcje z udziałem członków Zarządu 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 roku oraz w okresie 6 miesięcy zakończonym 30 czerwca 2020 
+roku miały miejsce transakcje z udziałem osób wchodzących w skład organów zarządzających i nadzorujących 
+w kwotach wymienionych w nocie 29. 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+51 
+29.3. Wynagrodzenie wyższej kadry kierowniczej Grupy 
+29.3.1. Wynagrodzenie wypłacone lub należne członkom Zarządu oraz członkom Rady Nadzorczej Grupy 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2021 roku 
+(niebadane) 
+ 
+30 czerwca 2020 roku 
+(niebadane) 
+Zarząd jednostki dominującej 
+2 045 
+2 938 
+Krótkoterminowe świadczenia pracownicze 
+ 1 408 
+ 2 369 
+Świadczenia z tytułu rozwiązania stosunku pracy 
+ 1 
+ 1 
+Rada Nadzorcza jednostki dominującej 
+0 
+0 
+Krótkoterminowe świadczenia pracownicze 
+ 636 
+ 568 
+Zarządy jednostek zależnych 
+1 514 
+1 284 
+Krótkoterminowe świadczenia pracownicze 
+ 1 514 
+ 1 284 
+Razem 
+ 3 559 
+ 4 222 
+ 
+29.3.2. Wynagrodzenie wypłacone lub należne pozostałym członkom głównej kadry kierowniczej 
+Okres 6 miesięcy 
+zakończony dnia 
+ 
+Okres 6 miesięcy 
+zakończony dnia 
+30 czerwca 2021 roku 
+(niebadane) 
+ 
+30 czerwca 2020 roku 
+(niebadane) 
+Krótkoterminowe świadczenia pracownicze 
+ 5 803 
+ 6 101 
+Świadczenia po okresie zatrudnienia 
+ 58 
+ 54 
+Świadczenia z tytułu rozwiązania stosunku pracy 
+ 177 
+ 22 
+Łączna kwota wynagrodzenia wypłaconego głównej 
+kadrze kierowniczej (za wyjątkiem członków Zarządu i 
+Rady Nadzorczej) 
+ 
+ 6 038 
+ 6 177 
+ 
+30. 
+Cele i zasady zarządzania ryzykiem finansowym 
+Do głównych instrumentów finansowych, z których korzysta Grupa, należą kredyty bankowe, pożyczki otrzymane od 
+jednostek powiązanych i innych instytucji, środki pieniężne oraz lokaty krótkoterminowe. Głównym celem tych 
+instrumentów finansowych jest pozyskanie środków finansowych na działalność Grupy. Grupa posiada też inne 
+instrumenty finansowe, takie jak należności i zobowiązania z tytułu dostaw i usług, które powstają bezpośrednio w toku 
+prowadzonej przez nią działalności. 
+Główne rodzaje ryzyka wynikającego z instrumentów finansowych Grupy obejmują ryzyko stopy procentowej, ryzyko 
+związane z płynnością, ryzyko walutowe oraz ryzyko kredytowe. Zarząd weryfikuje i uzgadnia zasady zarządzania 
+każdym z tych rodzajów ryzyka – zasady te zostały w skrócie omówione poniżej. Grupa monitoruje również ryzyko cen 
+rynkowych dotyczące wszystkich posiadanych przez nią instrumentów finansowych. 
+30.1. Ryzyko stopy procentowej 
+Potencjalne narażenie Grupy na ryzyko wywołane zmianami stóp procentowych dotyczy przede wszystkim 
+zobowiązań finansowych. 
+Ryzyko stopy procentowej – wrażliwość na zmiany 
+W analizie wrażliwości na ryzyko stopy procentowej Grupa stosuje równoległe przesunięcie krzywej stóp 
+procentowych o potencjalną możliwą zmianę referencyjnych stóp procentowych w trakcie najbliższego roku. Dla celów 
+analizy wrażliwości na ryzyko zmian stóp procentowych wykorzystano średnie poziomy referencyjnych stóp 
+procentowych w danym roku. Skala potencjalnych zmian stóp procentowych została oszacowana na podstawie 
+zmienności implikowanych ATMF („At-the-Money-Forward” opcja na forwardy do ustalania zmienności instrumentów 
+finansowych) opcji na stopę procentową kwotowanych na rynku międzybankowym dla walut, dla których Grupa 
+posiada ekspozycję na ryzyko stóp procentowych z daty bilansowej. 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+52 
+pb- punkty bazowe 
+ 
+30 czerwca 2021 roku 
+(niebadane) 
+Analiza wrażliwości na ryzyko stopy procentowej na 30 czerwca 2021 roku 
+WIBOR 
+EURIBOR 
+Klasy instrumentów 
+finansowych 
+ 
+ 
+WIBOR + 15pb 
+WIBOR – 15pb 
+ 
+EURIBOR + 13,25pb 
+EURIBOR - 13,25pb 
+ 
+wartość 
+bilansowa 
+wartość 
+narażona na 
+ryzyko 
+Wynik 
+finansowy 
+Inne całkowite 
+dochody 
+Wynik 
+finansowy 
+Inne 
+całkowite 
+dochody 
+Wynik 
+finansowy 
+Inne 
+całkowite 
+dochody 
+Wynik 
+finansowy 
+Inne 
+całkowite 
+dochody 
+Pozostałe aktywa 
+finansowe 
+ 6 072 
+ 3 997 
+ 6 
+ - 
+ (6) 
+ 
+- 
+ - 
+ - 
+ - 
+ 
+- 
+Należności z tytułu dostaw 
+i usług oraz pozostałe 
+należności 
+ 572 666 
+ - 
+ - 
+ - 
+ - 
+ 
+- 
+ - 
+ - 
+ - 
+ 
+- 
+Pochodne instrumenty 
+finansowe 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+- 
+ - 
+ - 
+ - 
+ 
+- 
+Środki pieniężne i ich 
+ekwiwalenty 
+ 84 997 
+ 84 997 
+ 97 
+ - 
+ (97) 
+ 
+- 
+ 27 
+ - 
+ (27) 
+ 
+- 
+Oprocentowane kredyty i 
+pożyczki 
+ (259 944) 
+ (259 944) 
+ (389) 
+ - 
+ 389 
+ 
+- 
+ - 
+ - 
+ - 
+ 
+- 
+Zobowiązania z tytułu 
+dostaw i usług oraz 
+pozostałe zobowiązania 
+finansowe 
+ (335 475) 
+ - 
+ - 
+ - 
+ - 
+ 
+- 
+ - 
+ - 
+ - 
+ 
+- 
+Zobowiązania z tytułu 
+leasingu finansowego 
+(47 126) 
+(47 126) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pochodne instrumenty 
+finansowe 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+- 
+ - 
+ - 
+ - 
+ 
+- 
+Razem 
+ 21 190 
+ (218 076) 
+ (286) 
+ - 
+ 286 
+ 
+- 
+ 27 
+ - 
+ (27) 
+ 
+- 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+53 
+ 
+ 
+30 czerwca 2020 roku 
+(niebadane) 
+Analiza wrażliwości na ryzyko stopy procentowej na 30 czerwca 2020 roku 
+WIBOR 
+EURIBOR 
+Klasy instrumentów 
+finansowych 
+ 
+ 
+WIBOR + 394pb 
+WIBOR - 394pb 
+ 
+EURIBOR + 18,8pb 
+EURIBOR - 18,8pb 
+ 
+wartość 
+bilansowa 
+wartość 
+narażona na 
+ryzyko 
+Wynik 
+finansowy 
+Inne całkowite 
+dochody 
+Wynik 
+finansowy 
+Inne 
+całkowite 
+dochody 
+Wynik 
+finansowy 
+Inne 
+całkowite 
+dochody 
+Wynik 
+finansowy 
+Inne 
+całkowite 
+dochody 
+Pozostałe aktywa 
+finansowe 
+ 3 603 
+ 3 080 
+ 121 
+ - 
+ (121) - 
+ - 
+ - - 
+ - 
+Należności z tytułu dostaw 
+i usług oraz pozostałe 
+należności 
+ 236 499 
+ - 
+ - 
+ - 
+ - - 
+ - 
+ - - 
+ - 
+Pochodne instrumenty 
+finansowe 
+ - 
+ - 
+ - 
+ - 
+ - - 
+ - 
+ - - 
+ - 
+Środki pieniężne i ich 
+ekwiwalenty 
+ 188 923 
+ 188 923 
+ 7 294 
+ - 
+ (7 294) - 
+ 7 
+ - (7) 
+ - 
+Oprocentowane kredyty i 
+pożyczki 
+ (74 328) 
+ (74 328) 
+ (2 929) 
+ - 
+ 2 929 - 
+ - 
+ - - 
+ - 
+Zobowiązania z tytułu 
+dostaw i usług oraz 
+pozostałe zobowiązania 
+finansowe 
+ (86 360) 
+ - 
+ - 
+ - 
+ - - 
+ - 
+ - - 
+ - 
+Zobowiązania z tytułu 
+leasingu finansowego 
+ (51 320) 
+ (51 320) 
+ (2 022) 
+ - 
+ 2 022 
+ - 
+ - 
+ - - 
+ - 
+Pochodne instrumenty 
+finansowe 
+ - 
+ - 
+ - 
+ - 
+ - - 
+ - 
+ - - 
+ - 
+Razem 
+ 217 017 
+ 66 355 
+ 2 464 
+ - 
+ (2 464) - 
+ 7 
+ - (7) 
+ - 
+ 
+pb – punkty bazowe 
+ 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+54 
+30.2. Ryzyko walutowe 
+Grupa narażona jest na ryzyko walutowe z tytułu zawieranych transakcji. Na dzień 30 czerwca 2021 roku żadna ze spółek Grupy nie miała aktywnych instrumentów 
+służących ograniczaniu ryzyka wynikającego ze zmian kursów walutowych (np. transakcje forward na walutę EUR/PLN). 
+Potencjalne możliwe zmiany kursów walutowych zostały obliczone na podstawie rocznych zmienności implikowanych dla opcji walutowych kwotowanych na rynku 
+międzybankowym dla danej pary walut z daty bilansowej. 
+Grupa identyfikuje ekspozycję na ryzyko zmian kursów walutowych EUR/PLN. Poniższa tabela przedstawia wrażliwość wyniku finansowego brutto na racjonalne możliwe 
+do zaistnienia zmiany kursów walutowych, przy założeniu niezmienności innych czynników ryzyka dla tych klas instrumentów finansowych, które są narażone na ryzyko 
+zmiany kursów walutowych. 
+ 
+ 
+ 
+ 
+30 czerwca 2021 roku (niebadane) 
+Analiza wrażliwości na ryzyko walutowe na 30 czerwca 2021 roku 
+EUR/PLN 
+Klasy instrumentów finansowych 
+kurs EUR/PLN + 5,125% 
+kurs EUR/PLN - 5,125% 
+4,7525 
+4,2891 
+ 
+wartość bilansowa 
+wartość narażona na 
+ryzyko 
+Wynik finansowy 
+Inne całkowite 
+dochody 
+Wynik finansowy 
+Inne całkowite 
+dochody 
+Pozostałe aktywa finansowe 
+ 6 072 
+ - 
+ - 
+ - 
+ - 
+ - 
+Należności z tytułu dostaw i usług oraz pozostałe 
+należności 
+ 572 666 
+ 999 
+ 51 
+ - 
+ (51) 
+ - 
+Pochodne instrumenty finansowe 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+Środki pieniężne i ich ekwiwalenty 
+ 84 997 
+ 20 073 
+ 1 029 
+ - 
+ (1 029) 
+ - 
+Oprocentowane kredyty i pożyczki 
+ (259 944) 
+ - 
+ - 
+ - 
+ - 
+ - 
+Zobowiązania z tytułu dostaw i usług oraz 
+pozostałe zobowiązania finansowe 
+ (335 475) 
+ (2 215) 
+ (114) 
+ - 
+ 114 
+ - 
+Zobowiązania z tytułu leasingu 
+ (47 126) 
+ 
+ 
+ 
+ 
+ 
+Pochodne instrumenty finansowe 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+Razem 
+ 21 190 
+ 18 857 
+ 966 
+ - 
+ (966) 
+ - 
+ 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+55 
+ 
+ 
+ 
+30 czerwca 2020 roku (niebadane) 
+Analiza wrażliwości na ryzyko walutowe na 30 czerwca 2020 roku 
+EUR/PLN 
+Klasy instrumentów finansowych 
+kurs EUR/PLN + 5,85% 
+kurs EUR/PLN - 5,85% 
+4,7273 
+4,2047 
+ 
+wartość bilansowa 
+wartość narażona na 
+ryzyko 
+Wynik finansowy 
+Inne całkowite 
+dochody 
+Wynik finansowy 
+Inne całkowite 
+dochody 
+Pozostałe aktywa finansowe 
+ 3 603 
+ - 
+ - 
+ - 
+ - 
+ - 
+Należności z tytułu dostaw i usług oraz pozostałe 
+należności 
+ 236 499 
+ 23 536 
+ 1 377 
+ - 
+ (1 377) 
+ - 
+Pochodne instrumenty finansowe 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+Środki pieniężne i ich ekwiwalenty 
+ 188 923 
+ 3 789 
+ 222 
+ - 
+ (222) 
+ - 
+Oprocentowane kredyty i pożyczki 
+ (74 328) 
+ - 
+ - 
+ - 
+ - 
+ - 
+Zobowiązania z tytułu dostaw i usług oraz 
+pozostałe zobowiązania finansowe 
+ (86 360) 
+ (2 246) 
+ (131) 
+ - 
+ 131 
+ - 
+Zobowiązania z tytułu leasingu 
+ (51 320) 
+ - 
+ - 
+ - 
+ - 
+ - 
+Pochodne instrumenty finansowe 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+Razem 
+ 217 017 
+ 25 079 
+ 1 468 
+ - 
+ (1 468) 
+ - 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+56 
+30.3. Ryzyko kredytowe 
+Ryzyko kredytowe jest potencjalnym zdarzeniem kredytowym, które może zmaterializować się w postaci następujących 
+czynników: niewypłacalności kontrahenta, częściowej spłaty należności, istotnego opóźnienia w spłacie należności lub 
+innego nieprzewidzianego odstępstwa od warunków kontraktowych. 
+Grupa zawiera transakcje wyłącznie z renomowanymi firmami o dobrej zdolności kredytowej. Wszyscy klienci, którzy 
+pragną korzystać z kredytów kupieckich, poddawani są procedurom wstępnej weryfikacji. Ponadto, dzięki bieżącemu 
+monitorowaniu stanów należności, narażenie Grupy na ryzyko nieściągalnych należności jest nieznaczne. 
+Głównym odbiorcą energii elektrycznej Grupy jest Towarowa Giełda Energii SA. Transakcje dokonywane na giełdzie 
+rozliczane są w trybie dziennym co minimalizuje ryzyko kredytowe. Z tego względu Grupa nie stosuje dodatkowych 
+zabezpieczeń wynikających ze zjawiska koncentracji należności. 
+W odniesieniu do innych aktywów finansowych Grupy, takich jak środki pieniężne i ich ekwiwalenty, aktywa 
+finansowe dostępne do sprzedaży oraz niektóre instrumenty pochodne, ryzyko kredytowe Grupy powstaje w wyniku 
+niemożności dokonania zapłaty przez drugą stronę umowy, a maksymalna ekspozycja na to ryzyko równa jest wartości 
+bilansowej tych instrumentów. 
+Grupa analizuje i redukuje ryzyko kredytowe w odniesieniu do środków pieniężnych poprzez bieżący monitoring 
+ratingów instytucji finansowych oraz ogranicza ryzyko koncentracji nadwyżek środków pieniężnych w jednej instytucji 
+finansowej, wykorzystując do tego wewnętrzny regulamin zasad zarządzania ryzykiem. 
+Długoterminowe ratingi przyznane bankom, w których Grupa posiada środki pieniężne: 
+ 
+Nazwa banku 
+Rating przyznany przez Agencję Ratingową 
+Fitch 
+S&P 
+Moody's 
+PEKAO SA 
+BBB+ 
+BBB+ 
+A2 
+PKO BP 
+- 
+- 
+A2 
+BGK 
+A- 
+- 
+- 
+mBank 
+BBB 
+- 
+- 
+Bank Millennium 
+- 
+- 
+Baa1 
+Santander Bank Polska 
+BBB+ 
+- 
+A3 
+Alior Bank 
+BB 
+BB 
+- 
+BNP Paribas Bank Polska 
+- 
+- 
+Baa1 
+ 
+Środki pieniężne GK ZE PAK na dzień 30 czerwca 2021 roku w podziale na poszczególne ratingi kredytowe banków: 
+ 
+Poziom ratingu poszczególnych agencji 
+ratingowych 
+Kwota środków pieniężnych na 
+dzień 30 czerwca 2021 roku 
+(bez środków w kasie) 
+(niebadane) 
+Moody’s 
+S&P 
+Fitch 
+Aaa 
+AAA 
+AAA 
+ - 
+Aa1 
+AA+ 
+AA+ 
+ - 
+Aa2 
+AA 
+AA 
+ - 
+Aa3 
+AA- 
+AA- 
+1 
+A1 
+A+ 
+A+ 
+ - 
+A2 
+A 
+A 
+5 239 
+A3 
+A- 
+A- 
+4 
+Baa1 
+BBB+ 
+BBB+ 
+23 331 
+Baa2 
+BBB 
+BBB 
+ - 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+57 
+Baa3 
+BBB- 
+BBB- 
+47 769 
+Ba1 
+BB+ 
+BB+ 
+ - 
+Ba2 
+BB 
+BB 
+8 653 
+Ba3 
+BB- 
+BB- 
+ - 
+B1 
+B+ 
+B+ 
+ - 
+B2 
+B 
+B 
+ - 
+B3 
+B- 
+B- 
+ - 
+Caa1 
+CCC+ 
+CCC 
+ - 
+Caa2 
+CCC 
+ - 
+Caa3 
+CCC- 
+ - 
+Ca 
+CC 
+ - 
+C 
+ - 
+C 
+D 
+DDD 
+ - 
+– 
+DD 
+ - 
+– 
+D 
+ - 
+SUMA 
+84 997 
+30.4. Ryzyko związane z płynnością 
+Grupa monitoruje ryzyko braku funduszy przy pomocy narzędzia okresowego planowania płynności. Narzędzie to 
+uwzględnia terminy wymagalności / zapadalności zarówno inwestycji jak i aktywów finansowych (np. konta 
+należności, pozostałych aktywów finansowych) oraz prognozowane przepływy pieniężne z działalności operacyjnej. 
+Celem Grupy jest utrzymanie równowagi pomiędzy ciągłością a elastycznością finansowania, poprzez korzystanie 
+z rozmaitych źródeł finansowania, takich jak kredyty w rachunku bieżącym, kredyty bankowe, obligacje, akcje 
+uprzywilejowane oraz umowy leasingu finansowego. 
+Ryzyka związane z prowadzoną działalnością, w tym ryzyka płynności i zdolności do generowania odpowiednich 
+przepływów pieniężnych zostały także opisane w nocie 4.1 dotyczącej założenia kontynuacji działalności przez Grupę. 
+Tabela poniżej przedstawia zobowiązania finansowe Grupy na dzień 30 czerwca 2021 roku oraz 30 czerwca 2020 roku 
+według daty zapadalności na podstawie umownych niezdyskontowanych płatności. 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+58 
+ 
+ 
+30 czerwca 2021 roku (niebadane) 
+ 
+ 
+Poniżej 3 miesięcy 
+Od 3 do 12 miesięcy 
+Od 1 roku do 5 lat 
+Powyżej 5 lat 
+Razem 
+Oprocentowane kredyty i pożyczki 
+ 
+ 
+ 7 713 
+ 76 065 
+ 85 349 
+ 92 891 
+ 262 018 
+Zobowiązania z tytułu dostaw i usług oraz pozostałe 
+zobowiązania finansowe 
+ 
+ 
+ 299 085 
+ 35 349 
+ 1 041 
+ - 
+ 335 475 
+Zobowiązania z tytułu leasingu 
+ 
+ 
+ 1 867 
+ 3 480 
+ 22 880 
+ 123 687 
+ 151 914 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Razem 
+ 310 715 
+ 114 894 
+ 109 270 
+ 216 578 
+ 751 457 
+ 
+ 
+ 
+30 czerwca 2020 roku (niebadane) 
+ 
+Poniżej 3 miesięcy 
+Od 3 do 12 miesięcy 
+Od 1 roku do 5 lat 
+Powyżej 5 lat 
+Razem 
+Oprocentowane kredyty i pożyczki 
+ 7 806 
+ 51 428 
+ 15 094 
+ - 
+ 74 328 
+Zobowiązania z tytułu dostaw i usług oraz pozostałe 
+zobowiązania finansowe 
+ 
+ 45 980 
+ 34 381 
+ 5 999 
+ - 
+ 86 360 
+Zobowiązania z tytułu leasingu 
+ 
+81 
+5 020 
+23 511 
+131 937 
+160 549 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Razem 
+ 53 867 
+ 90 829 
+ 44 604 131 937 
+ 321 237 
+ 
+Wykazane w powyższych tabelach instrumenty pochodne zostały zaprezentowane w wartościach brutto niezdyskontowanych płatności. Jednak, kontrakty te mogą być 
+rozliczone w wartościach brutto lub w kwotach netto. 
+ 
+ 
+ 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+ 
+59 
+31. 
+Instrumenty finansowe 
+31.1. Wartość bilansowa i wartość godziwa poszczególnych klas instrumentów 
+finansowych 
+Poniższa tabela przedstawia wykaz instrumentów finansowych Grupy, w podziale na poszczególne klasy 
+i kategorie aktywów i zobowiązań zgodnie z MSSF 9. 
+ 
+Aktywa finansowe 
+Kategoria zgodnie z 
+MSSF 9 
+30 czerwca 2021 roku 
+(niebadane) 
+ 
+31 grudnia 2020 roku 
+Pozostałe aktywa finansowe 
+AFwgZK 
+ 6 072 
+ 5 091 
+Należności z tytułu dostaw i usług oraz 
+pozostałe należności 
+AFwgZK 
+ 
+ 572 666 
+ 385 056 
+Pochodne instrumenty finansowe 
+WwWGpWF 
+ 
+ - 
+ 6 550 
+Środki pieniężne i ich ekwiwalenty 
+AFwgZK 
+ 84 997 
+ 497 861 
+Zobowiązania finansowe 
+ 757 891 
+ 808 609 
+Oprocentowane kredyty bankowe i pożyczki, 
+w tym: 
+ 
+ 
+ 259 944 
+ 55 003 
+Długoterminowe 
+PZFwgZK 
+ 165 643 
+ - 
+Krótkoterminowe 
+PZFwgZK 
+ 94 301 
+ 55 003 
+Zobowiązania z tytułu dostaw i usług oraz 
+pozostałe zobowiązania finansowe 
+PZFwgZK 
+ 
+ 335 475 
+ 193 509 
+Zobowiązania z tytułu leasingu 
+ 
+ 
+47 126 
+51 495 
+Pochodne instrumenty finansowe 
+WwWGpWF 
+ 
+ - 
+ - 
+Użyte skróty: 
+WwWGpWF 
+– Aktywa / zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy / kapitały 
+PZFwgZK 
+– Pozostałe zobowiązania finansowe wyceniane według zamortyzowanego kosztu 
+AFwgZK 
+– Aktywa finansowe wg zamortyzowanego kosztu 
+ 
+ 
+Na dzień 30 czerwca 2021 roku oraz na dzień 31 grudnia 2020 roku, Grupa posiadała następujące instrumenty 
+finansowe wyceniane w wartości godziwej: 
+ 
+30 czerwca 2021 roku 
+(niebadane) 
+Poziom 1 
+Poziom 2 
+Poziom 3 
+Instrumenty pochodne zabezpieczające 
+aktywa 
+ 
+ 
+ - 
+ - - - 
+Instrumenty pochodne zabezpieczające 
+zobowiązania 
+ 
+ 
+ - 
+ - - - 
+31 grudnia 2020 roku 
+Poziom 1 
+Poziom 2 
+Poziom 3 
+Instrumenty pochodne zabezpieczające 
+aktywa 
+ - 
+ - 
+ 6 550 
+ - 
+Instrumenty pochodne zabezpieczające 
+zobowiązania 
+ - 
+ - 
+ - 
+ - 
+ 
+Wartość godziwa instrumentów finansowych innych niż instrumenty pochodne na dzień 30 czerwca 2021 roku oraz 
+31 grudnia 2020 roku nie odbiegała istotnie od wartości bilansowych, z uwagi głównie na fakt iż dla instrumentów 
+krótkoterminowych efekt zastosowania dyskonta nie jest istotny oraz fakt, iż dotyczące transakcje są zawierane na 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+ 
+60 
+warunkach rynkowych; z tego powodu wartość godziwa wspomnianych instrumentów została zaprezentowana 
+w wysokości wartości bilansowej. 
+Wycena oprocentowanych pożyczek i kredytów po początkowym ujęciu dokonywana jest wg metody 
+zamortyzowanego kosztu, uwzględniając umowne koszty związane z uzyskaniem danego kredytu lub pożyczki oraz 
+dyskonto i uzyskane premie. 
+Na dzień 30 czerwca 2021 roku instrumenty pochodne, transakcje terminowe kupna waluty, zostały wycenione do 
+wartości godziwej. Dla potrzeb wyceny kontraktów walutowych obliczana jest różnica zdyskontowanych przyszłych 
+przepływów pieniężnych pomiędzy ceną terminową na dzień wyceny a ceną transakcyjną, wg notowań 
+przygotowywanych przez odpowiedni bank, przemnożona przez wartość nominalną kontraktu w walucie obcej. 
+Wycena tych instrumentów została sklasyfikowana do poziomu 2 hierarchii wyceny wartości godziwej. 
+W okresie 6 miesięcy zakończonym dnia 30 czerwca 2021 roku oraz w roku zakończonym dnia 31 grudnia 2020 roku, 
+nie miały miejsca przesunięcia między poziomem 1 a poziomem 2 hierarchii wartości godziwej, ani też żaden z 
+instrumentów nie został przesunięty do poziomu 3 hierarchii wartości godziwej. 
+ 
+31.2. Ryzyko stopy procentowej instrumentów finansowych 
+Poniższa tabela prezentuje lukę stopy procentowej, stanowiącą ekspozycję Grupy na ryzyko stopy procentowej, oraz 
+koncentrację tego ryzyka w podziale na waluty oraz rodzaj oprocentowania. 
+ 
+Wartość bilansowa na dzień 
+Wartość bilansowa na dzień 
+ 
+Rodzaj 
+oprocentowania 
+30 czerwca 2021 roku 
+(niebadane) 
+31 grudnia 2020 roku 
+Aktywa finansowe narażone na ryzyko 
+stopy procentowej -PLN 
+Stała 
+ - - 
+ 
+Zmienna 
+ 68 921 463 022 
+Aktywa finansowe narażone na ryzyko 
+stopy procentowej -Inne waluty 
+Stała 
+ - - 
+ 
+Zmienna 
+ 20 073 38 310 
+Zobowiązania finansowe narażone na 
+ryzyko stopy procentowej- PLN 
+Stała 
+ - - 
+ 
+Zmienna 
+ 259 944 55 003 
+Zobowiązania finansowe narażone na 
+ryzyko stopy procentowej- Inne waluty 
+Stała 
+ - - 
+ 
+ 
+ 
+Zmienna 
+ - - 
+Ekspozycja netto -PLN 
+Stała 
+ - - 
+Zmienna 
+ (191 023) 408 019 
+Ekspozycja netto-Inne waluty 
+Stała 
+ - - 
+Zmienna 
+ 20 073 38 310 
+ 
+Oprocentowanie instrumentów finansowych o zmiennym oprocentowaniu jest aktualizowane w okresach poniżej 
+jednego roku. Odsetki od instrumentów finansowych o stałym oprocentowaniu są stałe przez cały okres do upływu 
+terminu zapadalności / wymagalności tych instrumentów. Pozostałe instrumenty finansowe Grupy, które nie zostały 
+ujęte w powyższych tabelach, nie są oprocentowane i w związku z tym nie podlegają ryzyku stopy procentowej. 
+31.2.1. Zabezpieczenia 
+Na dzień 30 czerwca 2021 roku żadna ze spółek Grupy nie miała aktywnych instrumentów służących ograniczaniu 
+ryzyka wynikającego ze zmian kursów walutowych (np. transakcje forward na walutę EUR/PLN). 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+ 
+61 
+Grupa zabezpiecza ryzyko zmian cen uprawnień do emisji CO2 wykorzystując transakcje terminowe na zakup 
+uprawnień na własne potrzeby. W poniższych tabelach przestawiono podsumowanie aktywnych na dzień 30 czerwca 
+2021 roku oraz 30 czerwca 2020 roku transakcji terminowych. 
+30 czerwca 2021 (niebadane) 
+Rodzaj zawartych transakcji 
+Ilość zakupionych 
+uprawnień 
+Łączny nominał 
+transakcji w tys. EUR 
+Waluta 
+transakcji 
+Termin 
+zapadalności 
+Transakcje forward 
+ 4 089 140 
+122 825 
+EUR 
+Do 1 roku 
+Transakcje forward 
+ 127 000 
+ 6 926 
+EUR 
+Powyżej 1 roku 
+30 czerwca 2020 (niebadane) 
+Rodzaj zawartych transakcji 
+Ilość zakupionych 
+uprawnień 
+Łączny nominał 
+transakcji w tys. EUR 
+Waluta 
+transakcji 
+Termin 
+zapadalności 
+Transakcje forward 
+5 499 000 
+139 689 
+EUR 
+Do 1 roku 
+Transakcje forward 
+ 779 000 
+ 17 125 
+EUR 
+Powyżej 1 roku 
+32. 
+Zarządzanie kapitałem 
+Głównym celem zarządzania kapitałem Grupy jest utrzymanie dobrego ratingu kredytowego i bezpiecznych 
+wskaźników kapitałowych, które wspierałyby działalność operacyjną Grupy i zwiększały wartość dla jej akcjonariuszy. 
+Grupa zarządza strukturą kapitałową i w wyniku zmian warunków ekonomicznych wprowadza do niej zmiany. 
+W okresie 6 miesięcy zakończonym dnia 30 czerwca 2021 roku oraz w roku zakończonym dnia 31 grudnia 2020 roku 
+nie wprowadzono żadnych zmian do celów, zasad i procesów obowiązujących w tym obszarze. 
+Grupa monitoruje stan kapitałów stosując wskaźnik dźwigni, który jest liczony jako stosunek zadłużenia netto do sumy 
+kapitałów powiększonych o zadłużenie netto. Oczekiwana wartość wskaźnika dźwigni dla Grupy powinna wynosić 
+maksymalnie 50%. Do zadłużenia netto Grupa wlicza oprocentowane kredyty i pożyczki, zobowiązania z tytułu dostaw 
+i usług i inne zobowiązania, pomniejszone o środki pieniężne i ekwiwalenty środków pieniężnych. Kapitał obejmuje 
+kapitał własny pomniejszony o kapitały rezerwowe z tytułu niezrealizowanych zysków netto. 
+ 
+30 czerwca 2021 roku 
+(niebadane) 
+31 grudnia 2020 roku 
+Oprocentowane kredyty i pożyczki 
+ 259 944 
+ 55 003 
+Zobowiązania z tytułu dostaw i usług oraz pozostałe 
+zobowiązania finansowe 
+ 335 475 
+ 193 509 
+Minus środki pieniężne i ich ekwiwalenty 
+ 84 997 
+ 497 861 
+Zadłużenie netto 
+ 510 422 
+ (249 349) 
+Kapitał własny 
+ 969 359 
+ 949 463 
+Kapitał razem 
+ 969 359 
+ 949 463 
+Kapitał i zadłużenie netto 
+ 1 479 781 
+ 700 114 
+Wskaźnik dźwigni 
+ 34,49% 
+ (35,62%) 
+ 
+33. 
+Zdarzenia następujące po dniu bilansowym 
+Decyzja środowiskowa dla wytwórni wodoru 
+21 lipca 2021 roku Spółka otrzymała Decyzję o środowiskowych uwarunkowaniach dla przedsięwzięcia polegającego 
+na budowie wytwórni wodoru wraz z infrastrukturą towarzyszącą na terenie Elektrowni Konin. 
+Wytwórnia wodoru na terenie Elektrowni Konin ma powstać w oparciu o elektrolizery z membraną elektrolitowopolimerową (technologia „PEM”). Pierwszy elektrolizer został już przez Spółkę zamówiony a jego dostawa 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+ 
+62 
+przewidywana jest na przełomie roku 2021/2022. Energia elektryczna wykorzystywana do celu eksploatacji 
+elektrolizera będzie pochodziła w 100% z odnawialnego źródła energii. 
+Wytwórnia będzie wykonana w technologii modułowej (kontenerowej), co pozwala na jej stosunkowo prostą 
+rozbudowę. Zamówiony elektrolizer dla pierwszego etapu realizacji zadania będzie miał moc 2,5 MW, co pozwoli na 
+maksymalną produkcję wodoru w ilości 1000 kg na dobę. W przypadku konieczności rozbudowy, przyznana decyzja 
+środowiskowa daje możliwość zwiększenia produkcji wodoru do 20 000 kg na dobę. Woda do produkcji wodoru 
+dostarczona będzie z istniejącej w elektrowni stacji DEMI. 
+Nabycie projektu wiatrowego przez PAK Polska Czysta Energia Sp. z o.o. 
+18 sierpnia 2021 roku PAK PCE Sp. z o.o. podpisała z KI Foundation z siedzibą na Malcie, umowę nabycia 100% 
+udziałów spółki celowej Farma Wiatrowa Kazimierz Biskupi Sp. z o.o. z siedzibą w Warszawie, realizującej projekt 
+budowy farmy wiatrowej. 
+Projekt przewiduje budowę farmy wiatrowej składającej się z 7 turbin wiatrowych o łącznej mocy 17,5 MW, w 
+miejscowości Kazimierz Biskupi, w bezpośrednim sąsiedztwie elektrowni Pątnów. Korzystne warunki wietrzne w tym 
+regionie pozwalają szacować roczną produkcję farmy na blisko 60 GWh. Projekt posiada komplet pozwoleń 
+administracyjnoprawnych pozwalających na rozpoczęcie prac budowlanych i przyłączenie farmy do sieci. 
+Przewidywany termin uruchomienia farmy to III kwartał 2023 roku. Łączne nakłady inwestycyjne związane z nabyciem 
+oraz realizacją farmy wyniosą blisko 150 mln zł. W 2019 roku farma wygrała aukcję na sprzedaż dla wytwórców 
+energii odnawialnej, w której zakontraktowano łącznie 0,55 TWh energii elektrycznej w okresie 15 lat, począwszy od 
+2023 roku, z ceną referencyjną na poziomie 214,47 zł/MWh (indeksowaną zgodnie z zasadami aukcji oze). 
+Nabycie farmy jest pierwszym krokiem w realizacji strategii rozwoju Grupy Kapitałowej ZE PAK SA w obszarze 
+energetyki wiatrowej oraz przyczynia się do pozyskania kompetencji w obszarze zarządzania projektami w tej 
+dziedzinie. Spółka zamierza realizować projekty z zakresu energetyki wiatrowej na bazie własnego zasobu terenów 
+pogórniczych ale nie wyklucza również kolejnych transakcji nabycia zewnętrznych projektów. 
+Zmiana Miejscowego planu zagospodarowania przestrzennego – Projekt farmy fotowoltaicznej Przykona 
+23 sierpnia 2021 roku w życie weszła Uchwała NR 0007.272.2021 Rady Gminy Przykona dotycząca Miejscowego 
+planu zagospodarowania przestrzennego. Z punktu widzenia Spółki Uchwała ma znaczenie ponieważ dotyczy terenów 
+pogórniczych, będących obecnie własnością spółki zależnej od Spółki, na których docelowo Grupa ZE PAK planuje 
+budowę farmy fotowoltaicznej. 
+Przyjęty plan zagospodarowania przestrzennego, w zakresie dotyczącym gruntów należących do Grupy ZE PAK, ustala 
+przeznaczenie terenów pod budowę elektrowni fotowoltaicznej wraz z infrastrukturą towarzyszącą. Dostępny obszar 
+pozwala na budowę farmy o mocy około 180 – 200 MWp. Intencją Spółki jest realizacja projektu w oddzielnej spółce 
+celowej. 
+Projekt budowy farmy fotowoltaicznej w miejscowości Przykona byłby kolejnym dużym projektem fotowoltaicznym 
+realizowanym przez Grupę ZE PAK, obecnie w finalnym etapie realizacji znajduje się projekt budowy farmy 
+fotowoltaicznej Brudzew o mocy 70 MWp. Na podstawie doświadczeń z realizacji projektu Brudzew Spółka szacuje 
+okres realizacji budowy farmy Przykona na około 15 miesięcy (od uzyskania kompletu zgód formalnoprawnych), 
+natomiast nakłady inwestycyjne dotyczące farmy Przykona na około 500 mln zł. 
+Zawarcie umowy o współpracy z MS Innovation Impulse GMBH 
+31 sierpnia 2021 roku Spółka podpisała umowę o współpracy z MS Innovation Impulse GMBH z siedzibą w Wiedniu, 
+Austria, w obecności i przy udziale Argumenol Investment Company Limited, z siedzibą na Cyprze i Synthos Green 
+Energy Spółka Akcyjna z siedzibą w Warszawie (SGE). 
+Na podstawie Umowy Strony zamierzają podjąć wzajemną współpracę poprzez utworzenie wspólnego przedsiębiorcy 
+(SPV), prowadzącego działalność w obszarze energetyki jądrowej, w szczególności polegającej na budowie źródeł 
+wytwórczych opartych o technologię SMR (Small Modular Reactor) na terenie Pątnowa, na którym Spółka prowadzi 
+obecnie działalność w zakresie wytwarzania energii elektrycznej z węgla brunatnego. 
+Intencją Stron jest zbycie lub wniesienie do SPV aktywów, w formie zorganizowanej części przedsiębiorstwa, 
+związanych z wytwarzaniem energii elektrycznej w Elektrowni Pątnów, doprowadzenie do zakończenia obecnie 
+prowadzonej działalności polegającej na produkcji energii z węgla brunatnego (z zachowaniem zobowiązań w tym 
+zakresie) a następnie rozwijanie na bazie SPV projektu budowy i eksploatacji SMR. 
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+ 
+63 
+Strony będą, co do zasady, finansować działalności SPV, w częściach równych odpowiadających udziałowi w kapitale 
+zakładowym, na każdym etapie działalności SPV, tj. zarówno na etapie prowadzenia, a następnie likwidacji działalności 
+opartej na spalaniu węgla brunatnego, na etapie przygotowania terenu pod proces inwestycyjny, jak i na etapie procesu 
+inwestycyjnego polegającego na budowie jednostek SMR. Strony będą również wspólnie eksploatowały jednostki. 
+SGE jako strona umowy zawartej z GE Hitachi Nuclear Energy Americas LLC (GEH), z siedzibą Wilmington w USA, 
+dotyczącej w szczególności wyłączności SGE na implementację technologii GEH na terytorium Polski zobowiązał się 
+zapewnić SPV możliwość korzystania z technologii GEH, w przypadku jeśli w ramach projektu Strony zdecydują o 
+zastosowaniu tej technologii. 
+Jednocześnie, strony przystępują do przygotowania ostatecznej wersji umowy Joint Venture w celu uzgodnienia 
+dalszych szczegółów współpracy i realizacji wspólnego projektu. 
+Przeprowadzenie transakcji związanej z powołaniem SPV uzależnione będzie od spełnienia się poniższych warunków 
+zawieszających: 
+ 
+wydania przez właściwy organ ochrony konkurencji bezwarunkowej decyzji udzielającej Stronom zgody na 
+dokonanie transakcji lub upływ ustawowego terminu, w którym właściwy organ ochrony konkurencji 
+powinien wydać decyzję wyrażającą zgodę na dokonanie transakcji, po upływie którego zgodę uważa się za 
+wydaną z mocy prawa; 
+ 
+podjęcia przez nadzwyczajne walne zgromadzenie Spółki uchwały w sprawie zbycia ZCP. 
+Dofinansowanie z Unii Europejskiej na produkcję zielonego wodoru 
+W lipcu 2021 roku Komisja Europejska ogłosiła wyniki pierwszego naboru na granty przyznawane w ramach 
+Innovation Fund. Wśród 32 projektów wybranych do dofinansowania znalazł się zgłoszony przez ZE PAK SA projekt 
+budowy instalacji wytwarzającej zielony wodór. Projekt uzyska grant w wysokości ok. 4,5 mln euro bezzwrotnego 
+dofinansowania. Zawarcie umowy o dofinansowanie planowane jest w czwartym kwartale 2021 roku. 
+Projekt realizowany przez Spółkę zakłada budowę instalacji umożliwiającej produkcję i magazynowanie zielonego 
+wodoru przeznaczonego na potrzeby sektora transportowego. Wodór będzie produkowany przez dwa elektrolizery z 
+membraną elektrolitowo-polimerową (PEM - Proton Exchange Membrane) o łącznej mocy 5MW, w których zostaną 
+zaimplementowane innowacyjne rozwiązania zwiększające ich wydajność. Elektrolizery będą zasilane energią 
+pochodzącą ze źródeł OZE, a instalacja pozwoli na wyprodukowanie ok. 710 ton zielonego wodoru rocznie. 
+Przewiduje się, że projekt wytwarzania wodoru i jego wykorzystanie w sektorze transportowym pozwoli na uniknięcie 
+ok 96% emisji gazów cieplarnianych w porównaniu do technologii konwencjonalnej. 
+Dofinansowanie z Unii Europejskiej wspomoże ZE PAK SA w realizacji inwestycji w produkcję zielonego wodoru, na 
+wykonanie których pozwala decyzja o środowiskowych uwarunkowaniach dla przedsięwzięcia polegającego na 
+budowie wytwórni wodoru wraz z infrastrukturą towarzyszącą wydaną wcześniej dla Spółki przez Prezydenta Miasta 
+Konina. 
+ 
+Konin, dnia 24 września 2021 roku 
+ 
+PODPISY: 
+Piotr Woźny 
+Prezes Zarządu 
+ ......................................................................................... 
+Zygmunt Artwik 
+Wiceprezes Zarządu 
+ ......................................................................................... 
+Signed by /
+Podpisano przez:
+Zygmunt Jan
+Artwik
+Date / Data:
+2021-09-24 11:49
+Signed by /
+Podpisano przez:
+Piotr Stanisław
+Woźny
+Date / Data: 202109-24 12:36
+
+GRUPA KAPITAŁOWA ZESPOŁU ELEKTROWNI PĄTNÓW – ADAMÓW – KONIN SA 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony dnia 30 czerwca 2021 roku 
+(w tysiącach złotych) 
+ 
+ 
+ 
+64 
+ 
+Andrzej Janiszowski 
+Wiceprezes Zarządu 
+ ......................................................................................... 
+Maciej Nietopiel 
+Wiceprezes Zarządu 
+ ......................................................................................... 
+Katarzyna Sobierajska 
+Wiceprezes Zarządu 
+ ......................................................................................... 
+Aneta Desecka 
+Główny Księgowy 
+ ......................................................................................... 
+ 
+ 
+ 
+Signed by /
+Podpisano przez:
+Aneta Desecka
+Date / Data:
+2021-09-24 08:36
+Signed by /
+Podpisano przez:
+Andrzej Tadeusz
+Janiszowski
+Date / Data:
+2021-09-24 09:30
+Signed by /
+Podpisano przez:
+Maciej Nietopiel
+Date / Data:
+2021-09-24 10:44
+Signed by /
+Podpisano przez:
+Katarzyna Danuta
+Sobierajska
+Date / Data:
+2021-09-24 10:55

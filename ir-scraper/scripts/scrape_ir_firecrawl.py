@@ -7,23 +7,25 @@ Wersja 3.0 - jawna pętla paginacji (scrape_url per strona)
 """
 
 import argparse
+from collections import Counter
 import json
 import os
+import random
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
+from email.utils import parsedate_to_datetime
+from itertools import count
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional
 from urllib.parse import urljoin
 
-from dotenv import load_dotenv
-
-from firecrawl import Firecrawl
-from firecrawl.v2.types import JsonFormat
+from firecrawl_cache import FirecrawlCache, UnbilledFetchError, canonical_url, read_legacy_pages
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRIPT_DIR.parents[1] / "scripts"))
-from data_paths import DATA_ROOT
+from data_paths import DATA_ROOT, load_study_scope
+from espi_identity import classify_report, deduplicate_reports, url_identity
 
 
 # ============================================================
@@ -149,52 +151,6 @@ COMPANIES: Dict[str, Dict[str, Any]] = {
 }
 
 
-REPORT_EXTRACTION_SCHEMA: Dict[str, Any] = {
-    "type": "object",
-    "properties": {
-        "raporty": {
-            "type": "array",
-            "items": {
-                "type": "object",
-                "properties": {
-                    "numer": {"type": "string"},
-                    "data": {"type": "string"},
-                    "godzina": {"type": "string"},
-                    "tytul": {"type": "string"},
-                    "url": {"type": "string"},
-                },
-                "required": ["tytul"],
-            },
-        },
-        "total_pages": {
-            "type": "integer",
-            "description": "Ostatni numer strony widoczny w głównej nawigacji paginacji",
-        },
-        "total_sub_pages": {
-            "type": "integer",
-            "description": "Liczba podstron w ramach bieżącej listy (np. nawigacja '1 2' na dole = 2)",
-        },
-        "next_page_url": {
-            "type": "string",
-            "description": "Pełny URL następnej strony (link '2', '>', 'następna', 'dalej' w nawigacji) — tylko jeśli istnieje kolejna strona",
-        },
-    },
-    "required": ["raporty"],
-}
-
-SCRAPE_PROMPT = (
-    "Wyodrębnij WSZYSTKIE widoczne raporty (bieżące lub okresowe) z tej strony. "
-    "Dla każdego raportu wyciągnij: numer (np. 'RB nr 29/2026'), datę (DD.MM.YYYY), "
-    "godzinę publikacji (HH:MM, jeśli widoczna na stronie), tytuł oraz link (pełny URL). "
-    "Wyciągnij też całkowitą liczbę stron paginacji (total_pages) — "
-    "to jest największy numer strony widoczny w głównej nawigacji. "
-    "Jeśli na dole strony widoczna jest dodatkowa nawigacja z numerami podstron "
-    "(np. '1 2' lub '« 1 2 »'), podaj total_sub_pages jako największy widoczny numer. "
-    "Jeśli w paginacji istnieje link do następnej strony (np. '>', '2', 'następna', 'dalej'), "
-    "podaj jego pełny URL jako next_page_url."
-)
-
-
 def get_api_key() -> str:
     api_key = os.getenv("FIRECRAWL_API_KEY")
     if not api_key:
@@ -227,14 +183,7 @@ def normalize_reports(reports: List[Dict[str, Any]], base_url: str) -> List[Dict
 
 
 def deduplicate(reports: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    seen: set = set()
-    unique = []
-    for r in reports:
-        key = r.get("url") or r.get("tytul")
-        if key and key not in seen:
-            seen.add(key)
-            unique.append(r)
-    return unique
+    return deduplicate_reports(reports)
 
 
 def build_page_url(base_url: str, page: int, page_param: str) -> str:
@@ -244,26 +193,124 @@ def build_page_url(base_url: str, page: int, page_param: str) -> str:
     return f"{base_url}{separator}{page_param}={page}"
 
 
-def scrape_page(app: Any, url: str) -> Tuple[List[Dict], str, Optional[int], Optional[int], Optional[str]]:
-    """Scrapuje pojedynczą stronę. Zwraca (raporty, markdown, total_pages, total_sub_pages, next_page_url)."""
-    result = app.scrape_url(
-        url,
-        formats=[
-            "markdown",
-            JsonFormat(
-                type="json",
-                schema=REPORT_EXTRACTION_SCHEMA,
-                prompt=SCRAPE_PROMPT,
-            ),
-        ],
-    )
-    json_data = result.json or {}
-    reports = json_data.get("raporty", []) if isinstance(json_data, dict) else []
-    total_pages = json_data.get("total_pages") if isinstance(json_data, dict) else None
-    total_sub_pages = json_data.get("total_sub_pages") if isinstance(json_data, dict) else None
-    next_page_url = json_data.get("next_page_url") if isinstance(json_data, dict) else None
-    markdown = result.markdown or ""
-    return reports, markdown, total_pages, total_sub_pages, next_page_url
+def retry_delay(error, attempt):
+    response = getattr(error, "response", None)
+    value = response.headers.get("Retry-After", "").strip() if response is not None else ""
+    if value.isdecimal():
+        return int(value)
+    if value:
+        try:
+            when = parsedate_to_datetime(value)
+            if when.tzinfo is None:
+                when = when.replace(tzinfo=timezone.utc)
+            return max(0, (when - datetime.now(timezone.utc)).total_seconds())
+        except (TypeError, ValueError, OverflowError):
+            pass
+    return 2 ** (attempt + 1) + random.random()
+
+
+class ScrapeSession:
+    """Read saved pages first and open a paid client only for permitted misses."""
+
+    def __init__(self, cache, env_file, max_uncached, delay, *, proxy="basic"):
+        self.cache = cache
+        self.env_file = env_file
+        self.max_uncached = max_uncached
+        self.delay = delay
+        self.proxy = proxy
+        self.api_requests = 0
+        self.requested_urls = 0
+        self.confirmed_credits = 0
+        self.uncertain_charge = False
+        self.cache_hits = 0
+        self.client = None
+
+    def read(self, url):
+        cached = self.cache.get(url)
+        if cached is not None:
+            self.cache_hits += 1
+            return cached
+        if self.max_uncached is not None and self.requested_urls >= self.max_uncached:
+            raise RuntimeError(f"Limit nowych zapytań osiągnięty. Brak strony w cache: {url}")
+        if not self.client:
+            from dotenv import load_dotenv
+            from firecrawl import Firecrawl
+
+            load_dotenv(dotenv_path=self.env_file, override=False)
+            self.client = Firecrawl(api_key=get_api_key(), timeout=90, max_retries=0)
+        result, hit = self.cache.get_or_fetch(url, self.fetch)
+        self.cache_hits += int(hit)
+        return result
+
+    def fetch(self, url):
+        from firecrawl.v2.utils.error_handler import BadRequestError, PaymentRequiredError, RateLimitError, UnauthorizedError
+        from requests.exceptions import ConnectTimeout
+
+        if self.api_requests:
+            time.sleep(self.delay)
+        self.requested_urls += 1
+        max_attempts = 5
+        for attempt in range(max_attempts):
+            self.api_requests += 1
+            try:
+                result = self.client.scrape(url, formats=["markdown", "html"], parsers=[], proxy=self.proxy)
+            except (RateLimitError, ConnectTimeout) as error:
+                if attempt == max_attempts - 1:
+                    raise UnbilledFetchError(f"Firecrawl nie przyjął {url} po {max_attempts} próbach.") from error
+                wait = retry_delay(error, attempt)
+                print(f"Firecrawl wznawia za {wait:.1f} s ({attempt + 2}/{max_attempts}) dla {url}.", file=sys.stderr)
+                try:
+                    time.sleep(wait)
+                except KeyboardInterrupt as interrupted:
+                    raise UnbilledFetchError(f"Anulowano ponowienie dla {url}.") from interrupted
+            except (BadRequestError, UnauthorizedError, PaymentRequiredError) as error:
+                raise UnbilledFetchError(str(error)) from error
+            except BaseException:
+                self.uncertain_charge = True
+                raise
+            else:
+                break
+
+        credits = getattr(result.metadata, "credits_used", None)
+        credits = 1 if credits is None else credits
+        self.confirmed_credits += credits
+        return {
+            "markdown": result.markdown or "",
+            "html": result.html or "",
+            "provenance": {
+                "source": "Firecrawl",
+                "captured_at": datetime.now(timezone.utc).isoformat(),
+                "credits_used": credits,
+                "http_status": getattr(result.metadata, "status_code", None),
+                "source_url": getattr(result.metadata, "source_url", None),
+                "resolved_url": getattr(result.metadata, "url", None),
+            },
+        }
+
+    def usage_summary(self):
+        credits = f"{self.confirmed_credits} kredytów"
+        if self.uncertain_charge:
+            credits = f"co najmniej {credits} (jedno żądanie bez potwierdzenia rozliczenia)"
+        return f"{self.api_requests} prób API, {credits}, {self.cache_hits} odczytów cache"
+
+
+def scrape_page(app: ScrapeSession, url: str, *, ticker: str, report_type: str, reparse_archive=False):
+    from espi_listings import parse_archive_page
+    from standard_listings import parse_standard_listing
+
+    payload = app.read(url)
+    status = payload.get("provenance", {}).get("http_status")
+    if status is not None and status >= 400:
+        raise RuntimeError(f"Emitent zwrócił HTTP {status} dla {url}. Odpowiedź jest zapisana w cache.")
+    markdown = payload.get("markdown", "")
+    if report_type == "biezace" and "raporty" in payload:
+        data = payload
+        if reparse_archive and markdown:
+            data = {**payload, "raporty": parse_archive_page(ticker, url, markdown) or payload["raporty"]}
+    else:
+        data = parse_standard_listing(url, payload, ticker, report_type)
+    return (data["raporty"], markdown, data.get("total_pages"),
+            data.get("total_sub_pages"), data.get("next_page_url"))
 
 
 def scrape_with_pagination(
@@ -271,10 +318,13 @@ def scrape_with_pagination(
     base_url: str,
     page_param: str,
     page_start: int,
-    max_pages: int,
+    max_pages: Optional[int],
     delay: float = 1.5,
     page_step: int = 1,
     sub_page_template: Optional[str] = None,
+    *,
+    ticker: str,
+    report_type: str,
 ) -> Dict[str, Any]:
     """Scrapuje kolejne strony paginacji do limitu lub końca wyników."""
     all_reports: List[Dict] = []
@@ -283,7 +333,8 @@ def scrape_with_pagination(
     total_pages_detected: Optional[int] = None
 
     try:
-        for i in range(max_pages):
+        visited_batches = set()
+        for i in range(max_pages) if max_pages is not None else count():
             page_value = page_start + i * page_step
             if i > 0:
                 time.sleep(delay)
@@ -292,11 +343,7 @@ def scrape_with_pagination(
             limit = total_pages_detected or max_pages
             print(f"  → Strona {i + 1}/{limit}: {url}")
 
-            try:
-                page_reports, page_md, detected, sub_pages, _ = scrape_page(app, url)
-            except Exception as e:
-                print(f"  ✗ Błąd na stronie {i + 1}: {e} — pomijam stronę")
-                continue
+            page_reports, page_md, detected, sub_pages, _ = scrape_page(app, url, ticker=ticker, report_type=report_type)
 
             # wyświetl wykrytą liczbę stron (tylko informacyjnie, nie używaj do zatrzymania)
             if page_step == 1 and detected is not None and detected > (i + 1) and total_pages_detected is None:
@@ -306,6 +353,11 @@ def scrape_with_pagination(
             if not page_reports:
                 print(f"  ⚠ Brak raportów na stronie {i + 1} — zatrzymuję pętlę")
                 break
+            signature = tuple((r.get("numer"), r.get("data"), r.get("url")) for r in page_reports)
+            if signature in visited_batches:
+                print(f"  Koniec paginacji, strona {i + 1} powtórzyła znaną listę.")
+                break
+            visited_batches.add(signature)
 
             # obsługa podstron (np. ZE PAK: raporty-biezace/2.html?y=2020)
             if sub_page_template and sub_pages and sub_pages > 1:
@@ -314,14 +366,11 @@ def scrape_with_pagination(
                     time.sleep(delay)
                     sub_url = sub_page_template.format(sub=sp, year=page_value)
                     print(f"    → Podstrona {sp}/{sub_pages}: {sub_url}")
-                    try:
-                        sp_reports, sp_md, _, _, _ = scrape_page(app, sub_url)
-                        page_reports.extend(sp_reports)
-                        if sp_md:
-                            page_md += f"\n\n### Podstrona {sp}\n\n" + sp_md
-                        sources.append(sub_url)
-                    except Exception as e:
-                        print(f"    ✗ Błąd podstrony {sp}: {e}")
+                    sp_reports, sp_md, _, _, _ = scrape_page(app, sub_url, ticker=ticker, report_type=report_type)
+                    page_reports = [*page_reports, *sp_reports]
+                    if sp_md:
+                        page_md += f"\n\n### Podstrona {sp}\n\n" + sp_md
+                    sources.append(sub_url)
 
             all_reports.extend(page_reports)
             if page_md:
@@ -329,7 +378,7 @@ def scrape_with_pagination(
             sources.append(url)
 
     except KeyboardInterrupt:
-        print(f"\n  ⚠ Przerwano przez użytkownika po {len(sources)} stronach — zapisuję zebrane dane...")
+        raise SystemExit("Przerwano pobieranie. Zapisane już strony pozostają w cache.")
 
     normalized = normalize_reports(all_reports, base_url)
     unique = deduplicate(normalized)
@@ -344,10 +393,10 @@ def scrape_with_pagination(
     }
 
 
-def scrape_single_page(app: Any, url: str) -> Dict[str, Any]:
+def scrape_single_page(app: Any, url: str, *, ticker: str, report_type: str) -> Dict[str, Any]:
     """Scrapuje jedną stronę bez paginacji."""
     print(f"  → Scrapowanie: {url}")
-    reports, markdown, _, _, _ = scrape_page(app, url)
+    reports, markdown, _, _, _ = scrape_page(app, url, ticker=ticker, report_type=report_type)
     normalized = normalize_reports(reports, url)
     return {
         "reports": normalized,
@@ -366,6 +415,9 @@ def scrape_years_follow_next(
     year_end: int,
     max_sub_pages: int = 15,
     delay: float = 1.5,
+    *,
+    ticker: str,
+    report_type: str,
 ) -> Dict[str, Any]:
     """Scrapuje strony z rokiem w URL (np. JSW), śledząc next_page_url dla podstron.
 
@@ -388,11 +440,9 @@ def scrape_years_follow_next(
             while current_url and sub_page <= max_sub_pages:
                 if sub_page > 1:
                     time.sleep(delay)
-                try:
-                    page_reports, page_md, _, _, next_page_url = scrape_page(app, current_url)
-                except Exception as e:
-                    print(f"    ✗ Błąd (strona {sub_page}): {e} — pomijam")
-                    break
+                page_reports, page_md, _, _, next_page_url = scrape_page(
+                    app, current_url, ticker=ticker, report_type=report_type,
+                )
 
                 if not page_reports and sub_page == 1:
                     print(f"    ⚠ Brak raportów dla roku {year} — pomijam rok")
@@ -419,7 +469,7 @@ def scrape_years_follow_next(
             print(f"  ✓ Rok {year} zakończony: {len(year_reports)} raportów")
 
     except KeyboardInterrupt:
-        print(f"\n  ⚠ Przerwano — zapisuję zebrane dane ({len(sources)} stron)...")
+        raise SystemExit("Przerwano pobieranie. Zapisane już strony pozostają w cache.")
 
     base = url_template.split("{")[0]
     normalized = normalize_reports(all_reports, base)
@@ -469,16 +519,172 @@ def generate_summary_table(reports: List[Dict[str, Any]]) -> str:
     return "\n".join(lines) + "\n"
 
 
+def legacy_pages(data_root, ticker):
+    """Pair a dated JSON snapshot with the matching per-page historical export."""
+    from espi_listings import ARCHIVE_STEMS
+
+    folder = data_root / "raw" / "espi"
+    if ticker == "LWB":
+        candidates = data_root / "raw" / "context" / "espi" / ticker
+        stem = "bogdanka_biezace_20260625_164542"
+    else:
+        candidates = folder / ticker
+        stem = ARCHIVE_STEMS[ticker]
+    markdown = folder / "archivemd_backup" / f"{stem}.md"
+    if not markdown.is_file():
+        return {}
+    for snapshot in sorted(candidates.glob("*.json")):
+        try:
+            return read_legacy_pages(snapshot, markdown)
+        except (KeyError, ValueError):
+            continue
+    raise RuntimeError(f"Nie znaleziono JSON odpowiadającego archiwum {markdown.name}.")
+
+
+def study_plan(tickers, start, end, cache, archived=None):
+    from espi_listings import load_archived_pages
+
+    plans = {}
+    for ticker in tickers:
+        pages = load_archived_pages(DATA_ROOT, ticker, start, end)
+        if not pages:
+            raise RuntimeError(f"Brak zweryfikowanych adresów list dla {ticker}.")
+        urls = dict.fromkeys(map(canonical_url, pages))
+        outside_cache = [url for url in urls if cache.get(url) is None]
+        reusable = [url for url in outside_cache if url in (archived or {}).get(ticker, {})]
+        missing = [url for url in outside_cache if url not in set(reusable)]
+        plans[ticker] = (urls, missing)
+        print(f"{ticker} {start}–{end}: {len(urls)} stron, {len(urls) - len(outside_cache)} w cache, "
+              f"{len(reusable)} do odzyskania lokalnie, {len(missing)} do pobrania.")
+        for url in missing:
+            print(f"  poza cache: {url}")
+    print(f"Razem poza cache: {len({url for _, missing in plans.values() for url in missing})}.")
+    return plans
+
+
+def archive_keys(rows, start, end):
+    return {
+        (classify_report(row["numer"], row["tytul"]).report_number, row["data"], url_identity(row["url"]))
+        for row in rows if start <= date.fromisoformat(row["data"]) <= end
+    }
+
+
+def export_study(tickers, start, end, app, output_dir, verify_public, output_format):
+    from espi_listings import PUBLIC_LISTINGS, load_public_pages
+
+    completed = []
+    plans = study_plan(tickers, start, end, app.cache)
+    for ticker, (urls, _) in plans.items():
+        rows = []
+        markdown_pages = []
+        for url in urls:
+            parsed, markdown, _, _, _ = scrape_page(
+                app, url, ticker=ticker, report_type="biezace", reparse_archive=True,
+            )
+            if not parsed:
+                raise RuntimeError(f"Brak rozpoznawalnych rekordów ze strony {url}.")
+            rows.extend(row for row in parsed if start <= date.fromisoformat(row["data"]) <= end)
+            if output_format in {"md", "both"} and markdown:
+                markdown_pages.append(f"## Źródło strony: {url}\n\n{markdown}")
+        unique = deduplicate(rows)
+        counts = Counter(date.fromisoformat(row["data"]).year for row in unique)
+        if set(counts) != set(range(start.year, end.year + 1)):
+            raise RuntimeError(f"Zrzut {ticker} nie pokrywa każdego roku w zakresie: {dict(counts)}.")
+        verification = {}
+        if verify_public and ticker in PUBLIC_LISTINGS:
+            public = load_public_pages(ticker, start, end)
+            public_keys = archive_keys((row for page in public.values() for row in page["reports"]), start, end)
+            archive = archive_keys(unique, start, end)
+            if public_keys != archive:
+                raise RuntimeError(f"{ticker}: wykaz publiczny różni się od cache. "
+                                   f"Tylko publiczny: {len(public_keys - archive)}, tylko archiwalny: {len(archive - public_keys)}.")
+            verification = {"kind": "direct_issuer_html", "pages": list(public),
+                            "matching_disclosures": len(public_keys)}
+            print(f"{ticker}: {len(public_keys)} rekordów zgodnych z {len(public)} aktualnymi stronami emitenta.")
+            for url, page in public.items():
+                if app.cache.get(url) is None:
+                    app.cache.put(url, {"raporty": page["reports"], "markdown": "",
+                                        "provenance": {"source": "issuer_html"}})
+        completed.append((ticker, urls, unique, counts, verification, markdown_pages))
+
+    captured_at = datetime.now(timezone.utc)
+    batch = captured_at.strftime("%Y%m%dT%H%M%S%fZ")
+    for ticker, urls, reports, counts, verification, markdown_pages in completed:
+        target = (output_dir or DATA_ROOT / "staging" / "espi") / ticker / f"{ticker.lower()}_espi_{batch}"
+        key, company = next((key, company) for key, company in COMPANIES.items() if company["ticker"] == ticker)
+        metadata = {
+            "spolka": company["nazwa"], "spolka_key": key, "ticker": ticker, "typ": "biezace",
+            "zrodla": list(urls), "data_scrapowania": captured_at.isoformat(),
+            "source_kind": "issuer_listing_reparse",
+            "period": {"start": start.isoformat(), "end": end.isoformat()},
+            "coverage_verification": verification,
+            "liczba_stron": len(urls), "liczba_raportow": len(reports),
+            "reports_by_year": dict(sorted(counts.items())), "raporty": reports,
+        }
+        if output_format in {"json", "both"}:
+            save_json(metadata, target.with_suffix(".json"))
+        if output_format in {"md", "both"}:
+            target.parent.mkdir(parents=True, exist_ok=True)
+            content = generate_summary_table(reports) + "\n\n" + "\n\n---\n\n".join(markdown_pages)
+            save_markdown(content, metadata, target.with_suffix(".md"))
+
+
 def main():
     parser = argparse.ArgumentParser(description="Scrapuj raporty IR spółek giełdowych")
     parser.add_argument("--spolka", choices=list(COMPANIES.keys()), default="orlen")
     parser.add_argument("--typ", choices=["biezace", "okresowe"], default="biezace")
-    parser.add_argument("--format", choices=["json", "md", "both"], default="both")
-    parser.add_argument("--max-pages", type=int, default=10, help="Maksymalna liczba stron do scrapowania")
+    parser.add_argument("--format", choices=["json", "md", "both"], help="Domyślnie JSON w trybie badania")
+    parser.add_argument("--max-pages", type=int, help="Opcjonalny limit dla pojedynczego archiwum poza trybem badania")
     parser.add_argument("--delay", type=float, default=1.5, help="Opóźnienie między stronami w sekundach")
     parser.add_argument("--output-dir", type=Path, help="Domyślnie data/staging/<rodzaj>/<ticker>")
-    parser.add_argument("--env-file", type=Path, default=SCRIPT_DIR.parents[2] / ".env")
+    parser.add_argument("--env-file", type=Path, default=DATA_ROOT.parent / ".env")
+    parser.add_argument("--study", action="store_true", help="ESPI sześciu emitentów i lata z study_scope.json")
+    parser.add_argument("--seed-cache", action="store_true", help="Zaimportuj zachowane odpowiedzi do cache i zakończ bez API")
+    parser.add_argument("--dry-run", action="store_true", help="Pokaż adresy poza cache bez zapytań Firecrawl")
+    parser.add_argument("--cache-dir", type=Path, default=DATA_ROOT / "raw" / "firecrawl_cache")
+    parser.add_argument("--max-uncached", type=int, help="Limit nowych URL-i w Firecrawl, 0 oznacza tylko cache")
+    parser.add_argument("--verify-public", action="store_true", help="Porównaj z publicznym HTML emitenta tam, gdzie jest parser")
     args = parser.parse_args()
+    if args.max_pages is not None and args.max_pages < 1:
+        parser.error("--max-pages musi być dodatnie.")
+    if args.max_uncached is not None and args.max_uncached < 0:
+        parser.error("--max-uncached musi być nieujemne.")
+    if args.delay < 0:
+        parser.error("--delay musi być nieujemne.")
+    if args.dry_run and args.seed_cache:
+        parser.error("Użyj osobno --seed-cache oraz --dry-run.")
+    cache = FirecrawlCache(args.cache_dir)
+    scope = load_study_scope()
+    selected_ticker = COMPANIES[args.spolka]["ticker"]
+    use_study = args.study or (args.typ == "biezace" and args.max_pages is None and selected_ticker in scope["tickers"])
+    if args.verify_public and (not use_study or args.seed_cache or args.dry_run):
+        parser.error("--verify-public dotyczy zapisu zrzutów badania.")
+    if use_study:
+        if args.typ != "biezace" or args.max_pages is not None:
+            parser.error("Tryb --study obejmuje całe ESPI z lat określonych w study_scope.json.")
+        start = date.fromisoformat(scope["period"]["start"])
+        end = date.fromisoformat(scope["period"]["end"])
+        tickers = scope["tickers"] if args.study else [selected_ticker]
+        archived = {ticker: legacy_pages(DATA_ROOT, ticker) for ticker in tickers}
+        if args.dry_run:
+            study_plan(tickers, start, end, cache, archived)
+            print("Firecrawl: 0 zapytań, 0 kredytów.")
+            return
+        for ticker, pages in archived.items():
+            count_seeded = sum(cache.put(url, payload) for url, payload in pages.items())
+            if args.seed_cache or count_seeded:
+                print(f"{ticker}: {count_seeded} nowych wpisów cache z {len(pages)} stron archiwalnych.")
+        if args.seed_cache:
+            print("Firecrawl: 0 zapytań, 0 kredytów.")
+            return
+        app = ScrapeSession(cache, args.env_file, args.max_uncached, args.delay)
+        try:
+            export_study(tickers, start, end, app, args.output_dir, args.verify_public, args.format or "json")
+        finally:
+            print(f"Firecrawl: {app.usage_summary()}.")
+        return
+    if args.seed_cache:
+        parser.error("Dodaj --study, aby zaimportować sześć archiwów.")
 
     cfg = COMPANIES[args.spolka]
     typ_cfg = cfg.get(f"raporty_{args.typ}")
@@ -495,6 +701,17 @@ def main():
     page_step: int = typ_cfg.get("page_step", 1)
     sub_page_template: Optional[str] = typ_cfg.get("sub_page_template")
 
+    if args.dry_run:
+        if not page_param and not follow_next:
+            print(f"{base_url}: {int(cache.get(base_url) is None)} stron poza cache.")
+        else:
+            print("Liczba stron poza cache zależy od nawigacji wybranego archiwum. Dla sześciu badanych emitentów użyj --study.")
+        print("Firecrawl: 0 zapytań, 0 kredytów.")
+        return
+    if selected_ticker == "LWB" or (args.typ == "biezace" and selected_ticker in scope["tickers"]):
+        for url, payload in legacy_pages(DATA_ROOT, selected_ticker).items():
+            cache.put(url, payload)
+
     print("=" * 70)
     print(f"Scrapowanie: {cfg['nazwa']}")
     print(f"Typ: {args.typ}")
@@ -509,22 +726,23 @@ def main():
         print(f"Paginacja: {'?' + page_param + '=N' if page_param else 'brak'} | Krok: {page_step} | Limit stron: {args.max_pages}")
     print("=" * 70)
 
-    load_dotenv(dotenv_path=args.env_file, override=False)
-    api_key = get_api_key()
-    app = Firecrawl(api_key=api_key)
+    app = ScrapeSession(cache, args.env_file, args.max_uncached, args.delay)
 
-    if url_template and follow_next:
-        result = scrape_years_follow_next(
-            app, url_template,
-            typ_cfg.get("year_start", 2026),
-            typ_cfg.get("year_end", 2011),
-            typ_cfg.get("max_sub_pages", 15),
-            args.delay,
-        )
-    elif page_param:
-        result = scrape_with_pagination(app, base_url, page_param, page_start, args.max_pages, args.delay, page_step, sub_page_template)
-    else:
-        result = scrape_single_page(app, base_url)
+    try:
+        if url_template and follow_next:
+            result = scrape_years_follow_next(
+                app, url_template, year_start, year_end, max_sub, args.delay,
+                ticker=selected_ticker, report_type=args.typ,
+            )
+        elif page_param:
+            result = scrape_with_pagination(
+                app, base_url, page_param, page_start, args.max_pages, args.delay, page_step, sub_page_template,
+                ticker=selected_ticker, report_type=args.typ,
+            )
+        else:
+            result = scrape_single_page(app, base_url, ticker=selected_ticker, report_type=args.typ)
+    finally:
+        print(f"Firecrawl: {app.usage_summary()}.")
 
     reports = result["reports"]
     scraped_at = datetime.now(timezone.utc)
@@ -550,10 +768,11 @@ def main():
     out_dir.mkdir(parents=True, exist_ok=True)
     base_name = f"{args.spolka}_{args.typ}_{timestamp}"
 
-    if args.format in ("json", "both"):
+    output_format = args.format or "both"
+    if output_format in ("json", "both"):
         save_json({**base_meta, "raporty": reports}, out_dir / f"{base_name}.json")
 
-    if args.format in ("md", "both"):
+    if output_format in ("md", "both"):
         table = generate_summary_table(reports)
         save_markdown(
             table + "\n\n## Oryginalna treść stron (markdown z Firecrawl)\n\n" + result["markdown"],

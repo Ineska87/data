@@ -27,6 +27,7 @@ from __future__ import annotations
 import json
 import re
 import unicodedata
+from collections import defaultdict
 from pathlib import Path
 
 import numpy as np
@@ -39,7 +40,7 @@ except ImportError as e:
 
 from data_paths import DATA_ROOT, LEGACY, load_study_scope
 from investment_sentiment import (
-    AR_PACKAGE, ORLEN_PILOT_PACKAGES, build_current_corpus, read_management_archive, read_orlen_archive,
+    AR_PACKAGE, BASELINE_ARCHIVE, ORLEN_PILOT_PACKAGES, build_current_corpus, read_management_archive, read_orlen_archive,
 )
 
 ROOT = DATA_ROOT.parent
@@ -244,7 +245,7 @@ def score_text(text: str) -> dict:
 # Discovery + extraction
 # ---------------------------------------------------------------------------
 FNAME_RE = re.compile(
-    r"^(?P<ticker>[A-Z]+)_(?P<year>\d{4})_(?P<period>AR|Q1|Q2|H1|Q3|Q4)_(?P<kind>.+)\.(?:pdf|zip|7z)$",
+    r"^(?P<ticker>[A-Z]+)_(?P<year>\d{4})_(?P<period>AR|Q1|Q2|H1|Q3|Q4)_(?P<kind>.+)\.(?:pdf|zip|7z|xhtml|html|htm)$",
     re.I,
 )
 
@@ -258,6 +259,7 @@ def discover_docs(tickers=TICKERS, first_year: int = 2020, last_year: int = 2025
         for p in sorted(tdir.iterdir()):
             if not p.is_file() or not (
                 p.suffix.lower() == ".pdf" or AR_PACKAGE.fullmatch(p.name) or p.name in ORLEN_PILOT_PACKAGES
+                or BASELINE_ARCHIVE.fullmatch(p.name)
             ):
                 continue
             m = FNAME_RE.match(p.name)
@@ -274,6 +276,9 @@ def discover_docs(tickers=TICKERS, first_year: int = 2020, last_year: int = 2025
             if "sprawozdanie-zarzadu" in kind or "sprawozdanie_zarzadu" in kind:
                 doc_type = "sprawozdanie_zarzadu"
                 priority = 1
+            elif year == 2019 and kind in {"komentarz-zarzadu", "pozostale-informacje", "sprawozdanie-pozostale-informacje"}:
+                doc_type = "periodic_management_comment"
+                priority = 1
             elif "letter" in kind or "list" in kind:
                 doc_type = "letter_ceo"
                 priority = 2
@@ -289,6 +294,9 @@ def discover_docs(tickers=TICKERS, first_year: int = 2020, last_year: int = 2025
                 # often not a real PDF (7z payload) — lowest priority, may fail open
                 doc_type = "tpe_ar_package"
                 priority = 5
+            elif year == 2019 and kind in {"sprawozdanie", "skonsolidowany"}:
+                doc_type = "periodic_consolidated"
+                priority = 3
             else:
                 continue
 
@@ -326,6 +334,54 @@ def discover_docs(tickers=TICKERS, first_year: int = 2020, last_year: int = 2025
         seen.add(r["abs_path"])
         out.append(r)
     return out
+
+
+def discover_corpus_docs(scope: dict) -> list[dict]:
+    """Choose local source packages before inspecting their individual documents."""
+    study = set(scope["tickers"])
+    validation = set(scope.get("possible_validation_tickers", []))
+    start = int(scope["period"]["start"][:4])
+    last = int(scope["period"]["end"][:4])
+    receipts = REPORTS / "manifest_stage3_bundles.json"
+    baseline = set(json.loads(receipts.read_text(encoding="utf-8"))["files"]) if receipts.exists() else set()
+    groups = defaultdict(list)
+    kinds = {
+        "sprawozdanie": "periodic_statement",
+        "skonsolidowany": "consolidated_package",
+        "sprawozdanie-zarzadu": "management_report",
+        "sprawozdanie-zarzadu-spolki": "management_report",
+        "sprawozdanie-pozostale-informacje": "management_commentary",
+        "pozostale-informacje": "management_commentary",
+        "komentarz-zarzadu": "management_commentary",
+        "prezentacja": "presentation",
+        "letter-ceo": "ceo_letter",
+        "raport-zintegrowany": "integrated_report",
+    }
+    formats = {".zip": 0, ".7z": 0, ".xbri": 0, ".xhtml": 1, ".pdf": 2, ".html": 3, ".htm": 3}
+    for ticker in sorted(study | validation):
+        folder = REPORTS / ticker
+        if not folder.is_dir():
+            continue
+        for path in sorted(folder.iterdir()):
+            match = FNAME_RE.fullmatch(path.name) if path.is_file() else None
+            if not match:
+                continue
+            year = int(match["year"])
+            relative = path.relative_to(DATA_ROOT).as_posix()
+            kind = kinds.get(match["kind"].lower().replace("_", "-"))
+            period = match["period"]
+            if not kind or not (start <= year <= last or relative in baseline):
+                continue
+            if ticker in validation and period not in {"AR", "H1"}:
+                continue
+            key = ticker, year, period, kind
+            groups[key].append(path)
+    docs = []
+    for (ticker, year, period, kind), files in groups.items():
+        path = min(files, key=lambda item: (formats[item.suffix.lower()], item.name))
+        docs.append({"ticker": ticker, "year": year, "period": period, "doc_type": kind,
+                     "filename": path.name, "abs_path": str(path)})
+    return sorted(docs, key=lambda row: (row["ticker"], row["year"], row["period"], row["filename"]))
 
 
 def extract_pdf_text(path: Path | bytes, max_pages: int | None = None) -> tuple[str, int, str]:
@@ -605,7 +661,4 @@ if __name__ == "__main__":
         legacy_main()
     else:
         scope = load_study_scope()
-        tickers = dict.fromkeys(scope["tickers"] + scope.get("possible_validation_tickers", []))
-        first_year = int(scope["period"]["start"][:4]) - 1
-        last_year = int(scope["period"]["end"][:4])
-        build_current_corpus(discover_docs(tickers, first_year, last_year), extract_pdf_text)
+        build_current_corpus(discover_corpus_docs(scope), extract_pdf_text)

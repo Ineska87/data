@@ -1,0 +1,4948 @@
+2 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+SPIS TREŚCI 
+SKONSOLIDOWANE SPRAWOZDANIE Z WYNIKU FINANSOWEGO I INNYCH CAŁKOWITYCH DOCHODÓW .............................................. 4 
+SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ .................................................................................................................. 5 
+SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ (CD.) ......................................................................................................... 6 
+SKONSOLIDOWANE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM .................................................................................................... 7 
+SKONSOLIDOWANE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH .......................................................................................................... 8 
+INFORMACJE DODATKOWE ................................................................................................................................................................................... 9 
+NOTY DO ŚRÓDROCZNEGO SKRÓCONEGO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO .................................................. 9 
+1. INFORMACJE OGÓLNE .................................................................................................................................................................................... 9 
+1.1. NAZWA, SIEDZIBA, PRZEDMIOT DZIAŁALNOŚCI ................................................................................................................................ 9 
+1.2. SKŁAD GRUPY KAPITAŁOWEJ .............................................................................................................................................................. 9 
+2. ZASADY RACHUNKOWOŚCI .......................................................................................................................................................................... 12 
+2.1. PODSTAWA SPORZĄDZENIA SPRAWOZDANIA FINANSOWEGO .................................................................................................... 12 
+2.2. ZAŁOŻENIE KONTYNUACJI DZIAŁALNOŚCI ....................................................................................................................................... 12 
+2.3. NOWE STANDARDY, INTERPRETACJE I ICH ZMIANY ...................................................................................................................... 13 
+2.4. ZMIANY ZASAD RACHUNKOWOŚCI I ZASAD PREZENTACJI STOSOWANYCH PRZEZ GRUPĘ .................................................. 14 
+2.5. INFORMACJE DOTYCZĄCE SEZONOWOŚCI ..................................................................................................................................... 15 
+2.6. ISTOTNE ZMIANY POZYCJI SPRAWOZDAWCZYCH, KWOTY MAJĄCE ZNACZĄCY WPŁYW NA AKTYWA, ZOBOWIĄZANIA, 
+KAPITAŁ WŁASNY, WYNIK FINANSOWY NETTO LUB PRZEPŁYWY PIENIĘŻNE, KTÓRE SĄ NIETYPOWE ZE WZGLĘDU 
+NA ICH RODZAJ, WIELKOŚĆ, WYWIERANY WPŁYW LUB CZĘSTOTLIWOŚĆ ................................................................................ 15 
+2.7. ZMIANA SZACUNKÓW .......................................................................................................................................................................... 17 
+3. NOTY OBJAŚNIAJĄCE DO SEGMENTÓW OPERACYJNYCH ..................................................................................................................... 18 
+3.1. SEGMENTY OPERACYJNE ................................................................................................................................................................... 18 
+4. NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z WYNIKU FINANSOWEGO I INNYCH CAŁKOWITYCH 
+DOCHODÓW..................................................................................................................................................................................................... 19 
+4.1. PRZYCHODY ZE SPRZEDAŻY ............................................................................................................................................................. 19 
+4.2. KOSZT SPRZEDANYCH PRODUKTÓW, MATERIAŁÓW I TOWARÓW .............................................................................................. 19 
+4.3. POZOSTAŁE KOSZTY ........................................................................................................................................................................... 20 
+4.4. POZOSTAŁE ZYSKI/(STRATY) – NETTO ............................................................................................................................................. 20 
+4.5. STRATA NA AKCJĘ ............................................................................................................................................................................... 20 
+5. NOTY OBJAŚNIAJĄCE DOTYCZĄCE OPODATKOWANIA .......................................................................................................................... 21 
+5.1. PODATEK DOCHODOWY ..................................................................................................................................................................... 21 
+6. NOTY OBJAŚNIAJĄCE DOTYCZĄCE ZADŁUŻENIA .................................................................................................................................... 22 
+6.1. KREDYTY I POŻYCZKI .......................................................................................................................................................................... 22 
+6.2. ZOBOWIĄZANIA Z TYTUŁU LEASINGU ............................................................................................................................................... 25 
+6.3. UZGODNIENIE ZADŁUŻENIA ................................................................................................................................................................ 25 
+7. NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z SYTUACJI FINANSOWEJ ..................................................... 27 
+7.1. RZECZOWE AKTYWA TRWAŁE ........................................................................................................................................................... 27 
+7.2. PRAWO DO UŻYTKOWANIA SKŁADNIKA AKTYWÓW ....................................................................................................................... 27 
+7.3. UTRATA WARTOŚCI NIEFINANSOWYCH AKTYWÓW TRWAŁYCH .................................................................................................. 28 
+7.4. INWESTYCJE W PORTFEL AKTYWÓW FIZ ........................................................................................................................................ 29 
+7.5. POZOSTAŁE DŁUGOTERMINOWE AKTYWA FINANSOWE ............................................................................................................... 31 
+7.6. ZAPASY . .............................................................................................................................................................................................. 31 
+7.7. NALEŻNOŚCI HANDLOWE ORAZ POZOSTAŁE NALEŻNOŚCI.......................................................................................................... 32 
+7.8. ŚRODKI PIENIĘŻNE I ICH EKWIWALENTY ......................................................................................................................................... 32 
+7.9. KAPITAŁ WŁASNY ................................................................................................................................................................................. 33 
+7.9.1. 
+KAPITAŁ PODSTAWOWY .................................................................................................................................................... 33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+7.9.2. 
+KAPITAŁ Z TYTUŁU WYCENY INSTRUMENTÓW FINANSOWYCH .................................................................................. 33 
+7.9.3. 
+DYWIDENDY WYPŁACONE I ZAPROPONOWANE DO WYPŁATY ................................................................................... 33 
+7.10. ZOBOWIĄZANIA Z TYTUŁU ŚWIADCZEŃ PRACOWNICZYCH .......................................................................................................... 34 
+7.11. REZERWY .............................................................................................................................................................................................. 34 
+7.12. ZOBOWIĄZANIA HANDLOWE ORAZ POZOSTAŁE ZOBOWIĄZANIA ................................................................................................ 35 
+8. NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z PRZEPŁYWÓW PIENIĘŻNYCH ............................................ 36 
+8.1. WPŁYWY PIENIĘŻNE NETTO Z DZIAŁALNOŚCI OPERACYJNEJ ..................................................................................................... 36 
+9. NOTY OBJAŚNIAJĄCE DO INSTRUMENTÓW FINANSOWYCH .................................................................................................................. 38 
+9.1. KATEGORIE I KLASY INSTRUMENTÓW FINANSOWYCH.................................................................................................................. 38 
+9.2. HIERARCHIA WARTOŚCI GODZIWEJ ................................................................................................................................................. 40 
+9.3. ZARZĄDZANIE RYZYKIEM FINANSOWYM .......................................................................................................................................... 40 
+9.3.1. 
+CZYNNIKI RYZYKA FINANSOWEGO .................................................................................................................................. 40 
+9.3.2. 
+ZARZĄDZANIE RYZYKIEM KAPITAŁOWYM ....................................................................................................................... 45 
+10. POZOSTAŁE NOTY OBJAŚNIAJĄCE ............................................................................................................................................................ 46 
+10.1. POZYCJE WARUNKOWE ...................................................................................................................................................................... 46 
+10.2. PRZYSZŁE ZOBOWIĄZANIA UMOWNE ............................................................................................................................................... 46 
+10.3. TRANSAKCJE Z PODMIOTAMI POWIĄZANYMI .................................................................................................................................. 46 
+10.4. ZDARZENIA PO DNIU KOŃCZĄCYM OKRES SPRAWOZDAWCZY ................................................................................................... 47 
+11. OŚWIADCZENIA ZARZĄDU I ZATWIERDZENIE SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO...................................... 48 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+4 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+SKONSOLIDOWANE SPRAWOZDANIE Z WYNIKU FINANSOWEGO I INNYCH CAŁKOWITYCH DOCHODÓW 
+ 
+ 
+Nota 
+Za okres 
+3 miesięcy 
+zakończony
+30 czerwca 2021 
+Za okres 
+6 miesięcy 
+zakończony
+30 czerwca 2021
+Za okres 
+3 miesięcy 
+zakończony
+30 czerwca 2020
+(dane przekształcone)* 
+Za okres
+ 6 miesięcy 
+zakończony
+30 czerwca 2020
+(dane przekształcone)* 
+Przychody ze sprzedaży 
+4.1 
+2 178,9
+4 177,0
+1 460,4
+3 425,0
+Koszt sprzedanych produktów, materiałów i towarów 
+4.2 
+(2 040,2)
+(3 985,4)
+(1 681,0)
+(3 532,8)
+ZYSK/(STRATA) BRUTTO ZE SPRZEDAŻY 
+138,7
+191,6
+(220,6)
+(107,8)
+Koszty sprzedaży 
+4.2 
+(68,6)
+(143,4)
+(62,5)
+(138,0)
+Koszty administracyjne 
+4.2 
+(176,5)
+(341,2)
+(175,1)
+(346,5)
+Pozostałe przychody 
+13,9
+57,9
+28,1
+54,6
+Pozostałe koszty 
+4.3 
+(68,4)
+(120,0)
+(534,8)
+(557,7)
+Pozostałe zyski/(straty) - netto 
+4.4 
+9,8
+10,1
+57,7
+(45,8)
+STRATA OPERACYJNA 
+(151,1)
+(345,0)
+(907,2)
+(1 141,2)
+Przychody finansowe 
+(1,5)
+2,7
+1,2
+6,1
+Koszty finansowe 
+(26,4)
+(54,3)
+(25,9)
+(51,0)
+Udział w zyskach/(stratach) jednostek stowarzyszonych 
+0,1
+0,1
+0,1
+0,1
+STRATA PRZED OPODATKOWANIEM 
+(178,9)
+(396,5)
+(931,8)
+(1 186,0)
+Podatek dochodowy 
+5.1 
+27,6
+66,0
+166,9
+212,2
+STRATA NETTO 
+(151,3)
+(330,5)
+(764,9)
+(973,8)
+Inne całkowite dochody, które będą podlegały 
+przeklasyfikowaniu do wyniku netto: 
+ 
+ 
+ 
+Zmiana wartości instrumentów zabezpieczających 
+7.9.2 
+21,1
+2,2
+51,3
+(11,2)
+Podatek dochodowy 
+5.1 
+(4,0)
+(0,4)
+(9,8)
+2,1
+Inne całkowite dochody, które nie będą podlegały 
+przeklasyfikowaniu do wyniku netto: 
+ 
+Straty aktuarialne 
+ 
+(16,8)
+(16,8)
+(12,9)
+(13,0)
+Podatek dochodowy 
+5.1 
+3,2
+3,2
+2,4
+2,4
+INNE CAŁKOWITE DOCHODY RAZEM 
+3,5
+(11,8)
+31,0
+(19,7)
+CAŁKOWITE DOCHODY RAZEM 
+(147,8)
+(342,3)
+(733,9)
+(993,5)
+Zysk/(strata) netto przypadający/a na: 
+- akcjonariuszy Jednostki dominującej 
+(169,0)
+(356,5)
+(765,4)
+(977,3)
+- udziały niekotrolujące 
+17,7
+26,0
+0,5
+3,5
+Całkowite dochody przypadające na: 
+ 
+ 
+- akcjonariuszy Jednostki dominującej 
+(165,5)
+(368,3)
+(734,4)
+(997,0)
+- udziały niekotrolujące 
+17,7
+26,0
+0,5
+3,5
+Podstawowa i rozwodniona strata na akcję przypadająca 
+na akcjonariuszy Jednostki dominującej (wyrażona w PLN 
+na jedną akcję) 
+4.5 
+-
+(3,04)
+-
+(8,32)
+* 
+Dane przekształcone w związku z zastosowaną zmianą zasad prezentacji, która została szerzej opisana w Nocie 2.4
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+5 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ 
+ 
+ 
+Nota 
+30.06.2021 
+31.12.2020 
+AKTYWA 
+ 
+AKTYWA TRWAŁE 
+ 
+Rzeczowe aktywa trwałe 
+7.1 
+9 094,7 
+8 995,6
+Wartość firmy 
+ 
+57,0 
+57,0
+Wartości niematerialne 
+111,4 
+95,2
+Nieruchomości inwestycyjne 
+ 
+23,0 
+23,2
+Prawo do użytkowania składnika aktywów 
+7.2 
+564,1 
+598,6
+Inwestycje w jednostkach stowarzyszonych 
+ 
+1,1 
+1,2
+Aktywa z tytułu odroczonego podatku dochodowego 
+1 054,3 
+877,0
+Inwestycje w portfel aktywów FIZ 
+7.4 
+674,5 
+612,0
+Pozostałe długoterminowe aktywa finansowe 
+7.5 
+398,4 
+378,7
+RAZEM AKTYWA TRWAŁE 
+ 
+11 978,5 
+11 638,5
+AKTYWA OBROTOWE 
+ 
+ 
+Zapasy 
+7.6 
+709,8 
+880,3
+Należności handlowe oraz pozostałe należności 
+7.7 
+1 184,1 
+898,4
+Nadpłacony podatek dochodowy 
+5,6 
+3,4
+Pochodne instrumenty finansowe 
+8,3 
+7,8
+Inne krótkoterminowe aktywa finansowe 
+3,2 
+5,2
+Środki pieniężne i ich ekwiwalenty 
+7.8 
+1 026,6 
+1 597,3
+RAZEM AKTYWA OBROTOWE 
+ 
+2 937,6 
+3 392,4
+RAZEM AKTYWA 
+ 
+14 916,1 
+15 030,9
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+6 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+ 
+SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ (CD.) 
+ 
+ 
+Nota 
+30.06.2021 
+31.12.2020
+KAPITAŁ WŁASNY 
+ 
+Kapitał podstawowy 
+7.9.1 
+1 251,9
+1 251,9
+Nadwyżka wartości emisyjnej akcji nad ich wartością nominalną 
+905,0
+905,0
+Kapitał z tytułu wyceny instrumentów finansowych 
+7.9.2 
+3,3
+1,5
+Zyski zatrzymane 
+4 391,9
+4 761,9
+RAZEM KAPITAŁ WŁASNY PRZYPADAJĄCY NA AKCJONARIUSZY 
+JEDNOSTKI DOMINUJĄCEJ 
+ 
+6 552,1
+6 920,3
+UDZIAŁY NIEKONTROLUJĄCE 
+ 
+422,7
+396,8
+RAZEM KAPITAŁ WŁASNY 
+ 
+6 974,8
+7 317,1
+ZOBOWIĄZANIA 
+ 
+ZOBOWIĄZANIA DŁUGOTERMINOWE 
+ 
+Kredyty i pożyczki 
+6.1 
+1 601,1
+1 686,3
+Zobowiązania z tytułu odroczonego podatku dochodowego 
+ 
+10,1
+15,3
+Zobowiązania z tytułu świadczeń pracowniczych 
+7.10 
+919,9
+886,7
+Rezerwy 
+7.11 
+1 019,0
+1 010,1
+Zobowiązania z tytułu leasingu 
+6.2 
+359,4
+406,2
+Zobowiązania handlowe oraz pozostałe zobowiązania 
+7.12 
+130,5
+128,9
+RAZEM ZOBOWIĄZANIA DŁUGOTERMINOWE 
+ 
+4 040,0
+4 133,5
+ZOBOWIĄZANIA KRÓTKOTERMINOWE 
+ 
+Kredyty i pożyczki 
+6.1 
+389,9
+321,5
+Pochodne instrumenty finansowe 
+0,2
+9,1
+Zobowiązania z tytułu bieżącego podatku dochodowego 
+32,4
+3,6
+Zobowiązania z tytułu świadczeń pracowniczych 
+7.10 
+243,7
+188,8
+Rezerwy 
+7.11 
+251,4
+286,0
+Zobowiązania z tytułu leasingu 
+6.2 
+240,0
+226,7
+Zobowiązania FIZ 
+7.4 
+168,1
+121,3
+Zobowiązania handlowe oraz pozostałe zobowiązania 
+7.12 
+2 575,6
+2 423,3
+RAZEM ZOBOWIĄZANIA KRÓTKOTERMINOWE 
+ 
+3 901,3
+3 580,3
+RAZEM ZOBOWIĄZANIA 
+ 
+7 941,3
+7 713,8
+RAZEM KAPITAŁ WŁASNY I ZOBOWIĄZANIA 
+ 
+14 916,1
+15 030,9
+ 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+7 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+SKONSOLIDOWANE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM 
+ 
+ 
+ 
+Przypadające na akcjonariuszy Jednostki dominującej 
+Udziały 
+niekontrolujące
+Razem
+kapitał własny
+Kapitał
+podstawowy
+Nadwyżka
+wartości 
+emisyjnej 
+akcji nad ich 
+wartością 
+nominalną
+Kapitał
+z tytułu wyceny 
+instrumentów 
+finansowych
+Razem
+Zyski
+zatrzymane
+STAN NA 1 STYCZNIA 2021 
+ 
+1 251,9
+905,0
+1,5
+4 761,9
+6 920,3
+396,8
+7 317,1
+Całkowite dochody razem: 
+ 
+-
+1,8
+(370,1)
+(368,3)
+26,0
+(342,3)
+- zysk/(strata) netto 
+ 
+-
+-
+-
+(356,5)
+(356,5)
+26,0
+(330,5)
+- inne całkowite dochody 
+ 
+-
+1,8
+(13,6)
+(11,8)
+-
+(11,8)
+Dywidendy 
+ 
+-
+-
+-
+-
+-
+(0,1)
+(0,1)
+Pozostałe 
+ 
+-
+-
+0,1
+0,1
+0,1
+STAN NA 30 CZERWCA 2021 
+ 
+1 251,9
+905,0
+3,3
+4 391,9
+6 552,1
+422,7
+6 974,8
+STAN NA 1 STYCZNIA 2020 
+ 
+1 251,9
+905,0
+(20,6)
+6 326,9
+8 463,2
+388,3
+8 851,5
+Całkowite dochody razem: 
+ 
+-
+-
+(9,1)
+(987,9)
+(997,0)
+3,5
+(993,5)
+- zysk/(strata) netto 
+ 
+-
+-
+-
+(977,3)
+(977,3)
+3,5
+(973,8)
+- inne całkowite dochody 
+ 
+-
+-
+(9,1)
+(10,6)
+(19,7)
+-
+(19,7)
+Pozostałe 
+ 
+-
+-
+-
+(0,1)
+(0,1)
+-
+(0,1)
+STAN NA 30 CZERWCA 2020 
+ 
+1 251,9
+905,0
+(29,7)
+5 338,9
+7 466,1
+391,8
+7 857,9
+ 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+8 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+SKONSOLIDOWANE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH 
+ 
+ 
+Nota 
+Za okres 6 miesięcy 
+zakończony
+30 czerwca 2021
+Za okres 6 miesięcy 
+zakończony
+30 czerwca 2020 
+PRZEPŁYWY PIENIĘŻNE Z DZIAŁALNOŚCI OPERACYJNEJ 
+ 
+Wpływy pieniężne z działalności operacyjnej 
+8.1 
+511,1
+(42,1)
+Odsetki zapłacone 
+(0,9)
+(3,4)
+Podatek dochodowy (zapłacony)/otrzymane zwroty 
+(87,1)
+139,1
+PRZEPŁYWY PIENIĘŻNE NETTO Z DZIAŁALNOŚCI OPERACYJNEJ 
+ 
+423,1
+93,6
+PRZEPŁYWY PIENIĘŻNE Z DZIAŁALNOŚCI INWESTYCYJNEJ 
+ 
+ 
+Nabycie rzeczowych aktywów trwałych 
+(829,0)
+(1 238,9)
+Nabycie wartości niematerialnych 
+(10,5)
+(4,9)
+Nabycie aktywów finansowych 
+ 
+(17,6)
+(5,1)
+Wpływy ze sprzedaży rzeczowych aktywów trwałych 
+2,0
+1,2
+Sprzedaż aktywów finansowych 
+2,1
+985,4
+Odsetki otrzymane 
+0,3
+3,3
+PRZEPŁYWY PIENIĘŻNE NETTO Z DZIAŁALNOŚCI INWESTYCYJNEJ 
+ 
+(852,7)
+(259,0)
+PRZEPŁYWY PIENIĘŻNE Z DZIAŁALNOŚCI FINANSOWEJ 
+ 
+ 
+Otrzymane kredyty i pożyczki 
+26,7
+477,2
+Otrzymane dotacje 
+ 
+3,1
+4,6
+Spłaty kredytów i pożyczek 
+6.3 
+(45,3)
+(36,2)
+Płatności związane z leasingiem 
+6.3 
+(91,9)
+(91,3)
+Odsetki zapłacone z działalności finansowej 
+6.3 
+(33,5)
+(33,3)
+PRZEPŁYWY PIENIĘŻNE NETTO Z DZIAŁALNOŚCI FINANSOWEJ 
+ 
+(140,9)
+321,0
+ZMIANA NETTO STANU ŚRODKÓW PIENIĘŻNYCH I ICH EKWIWALENTÓW 
+ 
+(570,5)
+155,6
+Środki pieniężne i ich ekwiwalenty na początek okresu 
+1 597,3
+350,3
+Różnice kursowe z przeliczenia środków pieniężnych i ich ekwiwalentów 
+(0,2)
+0,1
+ŚRODKI PIENIĘŻNE I ICH EKWIWALENTY NA KONIEC OKRESU 
+7.8 
+1 026,6
+506,0
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+9 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+INFORMACJE DODATKOWE 
+NOTY DO ŚRÓDROCZNEGO SKRÓCONEGO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO 
+1. 
+INFORMACJE OGÓLNE 
+1.1. 
+NAZWA, SIEDZIBA, PRZEDMIOT DZIAŁALNOŚCI 
+Niniejsze sprawozdanie finansowe jest śródrocznym skróconym skonsolidowanym sprawozdaniem finansowym Grupy Kapitałowej Jastrzębskiej 
+Spółki Węglowej S.A. Walutą funkcjonalną i walutą prezentacji niniejszego sprawozdania jest złoty polski („PLN”). 
+Grupa Kapitałowa Jastrzębskiej Spółki Węglowej S.A. („Grupa”, „Grupa Kapitałowa”) składa się z Jastrzębskiej Spółki Węglowej S.A. („JSW”, 
+„Jednostka dominująca”) i jej spółek zależnych zlokalizowanych na terenie Polski. 
+Podstawowe informacje o Jednostce dominującej 
+NAZWA 
+Jastrzębska Spółka Węglowa S.A. 
+SIEDZIBA 
+Aleja Jana Pawła II 4, 44-330 Jastrzębie-Zdrój, Polska 
+KRS 
+0000072093 – Sąd Rejonowy w Gliwicach X Wydział Gospodarczy Krajowego Rejestru Sądowego, Polska 
+REGON 
+271747631 
+NIP 
+633 000 51 10 
+PODSTAWOWY PRZEDMIOT DZIAŁALNOŚCI 
+Wydobywanie, wzbogacanie i sprzedaż węgla kamiennego oraz sprzedaż koksu i węglopochodnych 
+Jastrzębska Spółka Węglowa S.A. jest jednostką dominującą Grupy Kapitałowej. Zgodnie ze Statutem, Jednostka dominująca może działać 
+na obszarze Rzeczypospolitej Polskiej i poza jej granicami. Czas trwania działalności JSW jest nieoznaczony. Akcje Jednostki dominującej znajdują 
+się w publicznym obrocie od 6 lipca 2011 roku. 
+Grupa Kapitałowa Jastrzębskiej Spółki Węglowej S.A. jest największym producentem węgla metalurgicznego (koksowego) typu hard i znaczącym 
+producentem koksu w Unii Europejskiej. Od lat zajmuje kluczową pozycję na polskim i europejskim rynku węgla metalurgicznego (koksowego), 
+za sprawą produkcji wysokiej jakości węgla metalurgicznego (koksowego) oraz dzięki usytuowaniu działalności w sąsiedztwie jej głównych 
+odbiorców. Grupa wydobywa również węgiel do celów energetycznych. 
+Na dzień 30 czerwca 2021 roku większościowym akcjonariuszem Grupy był Skarb Państwa. 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 roku Skarb Państwa był bezpośrednim podmiotem kontrolującym najwyższego szczebla. 
+1.2. 
+SKŁAD GRUPY KAPITAŁOWEJ 
+Na dzień 30 czerwca 2021 roku JSW posiadała bezpośrednio lub pośrednio udziały i akcje w 20 spółkach powiązanych, w tym: 
+ 
+19 spółkach zależnych (bezpośrednio i pośrednio), 
+ 
+1 spółce stowarzyszonej. 
+Spółki zależne podlegają konsolidacji metodą pełną. Ponadto konsolidacją objęto JSW Stabilizacyjny Fundusz Inwestycyjny Zamknięty. 
+Udziały w jednostce stowarzyszonej (Remkoks Sp. z o.o.) są w skonsolidowanym sprawozdaniu finansowym wyceniane metodą praw własności. 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+10 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+Poniżej przedstawiono informacje o spółkach wchodzących w skład Grupy Kapitałowej objętych konsolidacją metodą pełną: 
+Lp. 
+Nazwa spółki 
+Siedziba 
+Podstawowy przedmiot działalności 
+Procentowy udział spółek 
+Grupy w kapitale 
+podstawowym 
+ 
+ 
+ 
+ 
+30.06.2021
+31.12.2020
+ 
+Jednostka dominująca 
+ 
+ 
+ 
+ 
+1. 
+Jastrzębska Spółka Węglowa S.A. 
+(„JSW”) 
+JastrzębieZdrój 
+Wydobywanie i sprzedaż węgla kamiennego, sprzedaż koksu 
+i węglopochodnych 
+nie dotyczy 
+ 
+Spółki bezpośrednio zależne 
+ 
+ 
+ 
+ 
+2. 
+JSW KOKS S.A. 
+(„JSW KOKS”) 
+Zabrze 
+Produkcja koksu oraz produktów węglopochodnych 
+96,28% 
+96,28% 
+3. 
+Jastrzębskie Zakłady Remontowe 
+Sp. z o.o. („JZR”) 
+JastrzębieZdrój 
+Działalność usługowa w zakresie remontów maszyn 
+i urządzeń, usługi serwisowe, produkcja maszyn dla górnictwa 
+i do wydobywania oraz budownictwa, a także wytwarzanie, 
+przesyłanie, dystrybucja i handel energią elektryczną 
+62,09% 
+62,09% 
+4. 
+Przedsiębiorstwo Budowy 
+Szybów S.A. („PBSz”) 
+Tarnowskie 
+Góry 
+Specjalistyczne usługi górnicze: projektowanie i wykonywanie 
+wyrobisk pionowych, poziomych i tuneli, budownictwo, 
+działalność w zakresie architektury i inżynierii, wynajem 
+maszyn i urządzeń, instalowanie, naprawa i konserwacja 
+maszyn dla górnictwa, kopalnictwa i budownictwa 
+95,01% 
+95,01% 
+5. 
+JSW Innowacje S.A. 
+(„JSW Innowacje”) 
+Katowice 
+Działalność o charakterze badawczo-rozwojowym Grupy 
+Kapitałowej, analizy wykonalności i nadzór nad realizacją 
+projektów i wdrożeń 
+100,00% 
+100,00% 
+6. 
+Przedsiębiorstwo Gospodarki 
+Wodnej i Rekultywacji S.A. 
+(„PGWiR”) 
+JastrzębieZdrój 
+Świadczenie usług wodno-ściekowych, oczyszczanie 
+i odprowadzanie słonych wód, dostarczanie wody 
+przemysłowej dla zakładów sektora węglowego oraz 
+energetycznego, działalność rekultywacyjna, produkcja soli 
+100,00% 
+100,00% 
+7. 
+Centralne Laboratorium 
+Pomiarowo – Badawcze Sp. z o.o. 
+(„CLP-B”) 
+JastrzębieZdrój 
+Wykonywanie usług badań technicznych, analiz chemicznych 
+i fizyko-chemicznych kopalin, materiałów oraz produktów 
+stałych, ciekłych i gazowych 
+99,92% 
+99,92% 
+8. 
+Jastrzębska Spółka Kolejowa 
+Sp. z o.o. („JSK”) 
+JastrzębieZdrój 
+Udostępnianie linii kolejowych, utrzymanie budowli i urządzeń 
+infrastruktury kolejowej, budowa i remonty układów torowych 
+oraz obiektów kolejowych 
+100,00% 
+100,00% 
+9. 
+JSW IT Systems Sp. z o.o. 
+(„JSW IT Systems”) 
+JastrzębieZdrój 
+Doradztwo w zakresie sprzętu komputerowego, działalność 
+w zakresie oprogramowania i przetwarzanie danych 
+100,00% 
+100,00% 
+10. 
+JSU Sp. z o.o. („JSU”) 
+JastrzębieZdrój 
+Pośrednictwo ubezpieczeniowe wraz z obsługą ubezpieczeń 
+w zakresie likwidacji szkód ubezpieczeniowych, świadczenie 
+usług turystycznych i hotelarskich 
+100,00% 
+100,00% 
+11. 
+JSW Logistics Sp. z o.o. 
+(„JSW Logistics”) 
+Katowice 
+Obsługa bocznic kolejowych, przewóz węgla i koksu, 
+organizacja przewozu ładunków oraz techniczne utrzymanie 
+i naprawa pojazdów kolejowych 
+100,00% 
+100,00% 
+12. 
+JSW Szkolenie i Górnictwo 
+Sp. z o.o. („JSW SiG”) 
+JastrzębieZdrój 
+Działalność wspomagająca górnictwo oraz obsługa łaźni przy 
+kopalniach JSW 
+100,00% 
+100,00% 
+13. 
+JSW Shipping Sp. z o.o. 
+w likwidacji 
+(„JSW Shipping”) 
+Gdynia 
+Usługi spedycji portowej i morskich agencji transportowych 
+100,00% 
+100,00% 
+ 
+Spółki pośrednio zależne 
+ 
+ 
+ 
+ 
+14. 
+BTS Sp. z o.o. 
+(„BTS”) 
+Dąbrowa 
+Górnicza 
+Usługi w zakresie wykonywania prac transportowych oraz 
+ogólnobudowlanych 
+100,00% 
+100,00% 
+15. 
+ZREM-BUD Sp. z o.o. 
+(„ZREM-BUD”) 
+Dąbrowa 
+Górnicza 
+Produkcja części zamiennych, zespołów i urządzeń, 
+konstrukcji stalowych, osprzętu technologicznego, narzędzi 
+i przyrządów oraz wykonywanie remontów mechanicznych 
+i elektrycznych oraz serwis automatyki, usługi remontowo- 
+budowlane 
+100,00% 
+100,00% 
+16. 
+CARBOTRANS Sp. z o.o. 
+(„Carbotrans”) 
+Zabrze 
+Transport drogowy towarów, głównie węglopochodnych 
+i surowców do ich produkcji 
+100,00% 
+100,00% 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+11 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+Lp. 
+Nazwa spółki 
+Siedziba 
+Podstawowy przedmiot działalności 
+Procentowy udział spółek 
+Grupy w kapitale 
+podstawowym 
+ 
+ 
+ 
+ 
+30.06.2021
+31.12.2020
+17. 
+JZR Dźwigi Sp. z o.o. 
+(„JZR Dźwigi”) 
+JastrzębieZdrój 
+Usługi z zakresu produkcji, modernizacji, remontów, 
+konserwacji, przeglądów oraz serwisu urządzeń transportu 
+bliskiego 
+84,97% 
+84,97% 
+18. 
+JSW Ochrona Sp. z o.o. 
+(“JSW Ochrona”) 
+JastrzębieZdrój 
+Działalność ochroniarska, działalność pomocnicza związana 
+z utrzymaniem porządku w budynkach 
+100,00% 
+100,00% 
+19. 
+Hawk-e Sp. z o.o. 
+(„Hawk-e”) 
+Katowice 
+Dostawca usługi w zakresie wykorzystywania samolotów 
+bezzałogowych dla potrzeb komercyjnych 
+100,00% 
+100,00% 
+20. 
+JSW Zwałowanie i Rekultywacja 
+Sp. z o.o. („JSW Zwałowanie 
+i Rekultywacja”) 
+JastrzębieZdrój 
+Świadczenie usług zagospodarowania odpadów 
+pokopalnianych oraz rekultywacji 
+100,00% 
+100,00% 
+ 
+Inne jednostki 
+ 
+ 
+ 
+ 
+21. 
+JSW Stabilizacyjny Fundusz 
+Inwestycyjny Zamknięty („JSW 
+Stabilizacyjny FIZ”, „Fundusz”)* 
+Warszawa 
+Lokowanie środków pieniężnych zebranych w drodze 
+niepublicznego proponowania nabycia Certyfikatów 
+Inwestycyjnych w określone w Statucie papiery wartościowe, 
+Instrumenty Rynku Pieniężnego oraz inne prawa majątkowe 
+100,00% 
+100,00% 
+* 
+Procentowy udział określony na podstawie procentowego zaangażowania Jednostki dominującej w certyfikaty inwestycyjne Funduszu. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+12 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+2. 
+ZASADY RACHUNKOWOŚCI 
+2.1. 
+PODSTAWA SPORZĄDZENIA SPRAWOZDANIA FINANSOWEGO 
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A. zostało 
+sporządzone zgodnie z Międzynarodowym Standardem Rachunkowości nr 34 „Śródroczna sprawozdawczość finansowa”. Prezentowane 
+śródroczne skrócone skonsolidowane sprawozdanie finansowe przedstawia rzetelnie sytuację finansową i majątkową Grupy Kapitałowej na dzień 
+30 czerwca 2021 roku, wyniki jej działalności oraz przepływy pieniężne za okres 6 miesięcy zakończony 30 czerwca 2021 roku. 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe nie obejmuje wszystkich informacji oraz ujawnień wymaganych w rocznym 
+skonsolidowanym sprawozdaniu finansowym i należy je czytać łącznie ze skonsolidowanym sprawozdaniem finansowym Grupy za rok obrotowy 
+zakończony 31 grudnia 2020 roku sporządzonym zgodnie z Międzynarodowymi Standardami Sprawozdawczości Finansowej („MSSF”) przyjętymi 
+do stosowania w Unii Europejskiej („UE”). 
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe sporządzone zostało zgodnie z zasadą kosztu historycznego, z wyjątkiem 
+pochodnych instrumentów finansowych, inwestycji w portfel aktywów FIZ, udziałów w innych jednostkach oraz świadectw efektywności 
+energetycznej (certyfikaty białe), które są wyceniane na moment początkowego ujęcia według wartości godziwej. 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony 30 czerwca 2021 roku było przedmiotem przeglądu 
+przez biegłego rewidenta. 
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe jest częścią raportu skonsolidowanego, w skład którego wchodzi również 
+Śródroczne skrócone sprawozdanie finansowe Jastrzębskiej Spółki Węglowej S.A. za okres 6 miesięcy zakończony 30 czerwca 2021 roku oraz 
+Sprawozdanie Zarządu z działalności Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A. za okres 6 miesięcy zakończony 30 czerwca 2021 roku. 
+2.2. 
+ZAŁOŻENIE KONTYNUACJI DZIAŁALNOŚCI 
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania działalności 
+gospodarczej w niezmienionej formie i zakresie przez okres co najmniej 12 miesięcy od dnia kończącego okres sprawozdawczy. 
+Dokonując oceny zdolności Grupy do kontynuowania działalności, Zarząd JSW analizuje występowanie niepewności dotyczących zdarzeń lub 
+okoliczności, które mogą nasuwać wątpliwości co do zdolności kontynuacji działalności. Do takich zdarzeń należą istotne zmiany w otoczeniu 
+rynkowym, systemie gospodarczym i finansowym zarówno w Polsce jak i na świecie, spowodowane sytuacją wynikającą z rozprzestrzeniania się 
+pandemii koronawirusa SARS-CoV-2, które wpływają na operacyjną i finansową sytuację Grupy. Szczególne okoliczności sprawiają, że Grupa 
+na bieżąco przeprowadza analizę sytuacji, stopnia jej ekspozycji na skutki pandemii oraz podejmuje czynności ograniczające ryzyko związane 
+z zakłóceniem ciągłości działania. W Nocie 9.3. przedstawione zostały działania podejmowane w celu zabezpieczenia ryzyka utraty płynności oraz 
+plany kierownictwa dotyczące radzenia sobie z sytuacją wywołaną pandemią koronawirusa SARS-CoV-2. 
+Dokonując oceny zdolności Grupy do kontynuowania działalności sporządzono prognozę na kolejne 12 miesięcy, od końca okresu 
+sprawozdawczego. Prognoza zakłada częściowe umorzenie pożyczki preferencyjnej otrzymanej z Polskiego Funduszu Rozwoju (według 
+Regulaminu „Tarcza Finansowa Polskiego Funduszu Rozwoju dla Dużych Firm" do 75% „Faktycznej Szkody Covid”), jak również spłaty 
+odroczonych płatności składek ZUS, a także regulowanie bieżących składek ZUS w terminach ustawowych. Prognoza zakłada również 
+wykorzystanie przez JSW środków finansowych z funkcjonującego w Grupie systemu zarządzania środkami pieniężnymi (Cash Pooling 
+Rzeczywisty („CPR”)). Głównym podmiotem zasilającym CPR w okresie kolejnych 12 miesięcy jest JSW KOKS, dla której projekcje cenowe koksu 
+kształtują się na poziomach gwarantujących zwiększenie środków pieniężnych, pomimo zwiększonych wydatków inwestycyjnych. Prognoza 
+płynnościowa nie zakłada złamania wskaźników finansowych wynikających z umowy finansowania w przeciągu kolejnych 12 miesięcy. 
+W aspekcie rynkowym zauważalne jest odbicie cenowe oraz wolumenowe. W połowie maja 2021 roku pomimo utrzymującego się chińskiego zakazu 
+importu, ceny australijskiego węgla koksowego HCC zaczęły systematycznie wzrastać, przekraczając w lipcu 2021 roku poziom 200 USD/t. Wzrost 
+notowań był wspierany przez szybciej niż prognozowano odradzający się po COVID-19 przemysł stalowy, rekordowe ceny stali, ograniczoną podaż 
+węgli australijskich i atlantyckich oraz wzrost zapotrzebowania u praktycznie wszystkich odbiorców. Tak wysokie wzrosty cen nie były przewidziane 
+w żadnej z dostępnych prognoz. W czerwcu 2021 roku ukazały się dwie prognozy dla węgla koksowego: 
+ 
+prognozy rządu australijskiego opracowane przez Department of Industry, Innovation and Science, zakładające spadek cen węgla 
+koksowego do poziomu pomiędzy 160-165 USD/t, 
+ 
+prognozy CRU, zakładające ich spadek już w lipcu 2021 roku poniżej 140 USD/t (argumentując to zapowiadanym drastycznym 
+obniżeniem produkcji stali w Chinach). 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+13 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+Pozostałe prognozy, którymi dysponuje JSW zostały opublikowane przed okresem wzrostów cen, mogą więc nie uwzględniać obserwowanej zmiany 
+sytuacji rynkowej. 
+Biorąc pod uwagę wysokość bieżących notowań węgla koksowego, analizę kontraktów terminowych na węgiel koksowy na giełdzie w Singapurze 
+znacznie przewyższających prognozy oraz opinie kontrahentów pozyskane podczas negocjacji cenowych, Grupa do projekcji przyjęła ścieżki 
+cenowe węgla metalurgicznego (koksowego) zgodne z prognozami rządu australijskiego. Uwzględniając aktualne wyższe notowania 
+zmodyfikowano prognozę na lipiec 2021 roku i złagodzono spadek notowań w III kwartale 2021 roku. Przyjęte przez Grupę w prognozach ceny 
+węgli metalurgicznych (koksowych) z kopalń JSW uwzględniają stosowane reguły i praktyki w zakresie relacji tych węgli do cen referencyjnych. 
+Natomiast na rynku koksu utrzymuje się wysokie zapotrzebowanie, które w warunkach ograniczonej podaży generuje wysokie relacje cen koksu 
+do cen węgla metalurgicznego (koksowego), co umożliwia osiąganie ponadprzeciętnych wyników finansowych zakładów koksowniczych. Ceny oraz 
+zapotrzebowanie na koks w Europie są wysokie, koksownie w Europie pracują z wykorzystaniem pełnych mocy produkcyjnych. Wysokie ceny stali 
+wspierają ceny koksu. W projekcji przychodów JSW przyjęto wariant ostrożnościowy i założono spadek cen koksu w IV kwartale 2021 roku o 15% 
+oraz w I kwartale 2022 roku o kolejne 10%. 
+Mając na uwadze powyższe, na dzień zatwierdzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego nie 
+stwierdzono istnienia istotnych niepewności i okoliczności (w tym uwzględnionych w Nocie 2.6. zdarzeń) wskazujących na zagrożenie 
+kontynuowania działalności w dającej się przewidzieć przyszłości. Wobec powyższego, rozważając czynniki odnośnie bieżącej, jak i oczekiwanej 
+sytuacji finansowej Grupy, przekładające się na realne do osiągnięcia projekcje finansowe, Zarząd uznaje przyjęcie założenia kontynuacji 
+działalności jako zasadne. 
+Aktywa i zobowiązania wykazywane są w śródrocznym skróconym skonsolidowanym sprawozdaniu z sytuacji finansowej przy założeniu, że Grupa 
+będzie mogła uzyskać korzyści ekonomiczne z aktywów i wypełnić zobowiązania w toku normalnej działalności. 
+2.3. 
+NOWE STANDARDY, INTERPRETACJE I ICH ZMIANY 
+Zasady (polityka) rachunkowości zastosowane do sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania 
+finansowego są spójne z tymi, które zastosowano przy sporządzaniu skonsolidowanego sprawozdania finansowego Grupy za rok obrotowy 
+zakończony 31 grudnia 2020 roku, za wyjątkiem zmian wynikających z zastosowania nowych standardów, które opisano poniżej oraz zmian zasad 
+rachunkowości i zasad prezentacji, które zostały przedstawione w Nocie 2.4. 
+a) 
+Standardy i interpretacje zastosowane po raz pierwszy w roku 2021 
+Poniżej wymienione zmiany obowiązujące od 1 stycznia 2021 roku nie dotyczą działalności Grupy lub nie mają istotnego wpływu na śródroczne 
+skrócone skonsolidowane sprawozdanie finansowe Grupy: 
+ 
+Zmiany do MSSF 4 „Umowy ubezpieczeniowe” – odroczenie zastosowania MSSF 9 „Instrumenty finansowe”, 
+ 
+Zmiany dotyczące MSSF 9, MSR 39, MSSF 7, MSSF 4, MSSF 16 – reforma IBOR (faza druga). 
+b) 
+Standardy i interpretacje, jakie zostały już opublikowane i zatwierdzone przez UE, ale jeszcze nie weszły w życie 
+Zatwierdzając niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe Grupa nie zdecydowała się na wcześniejsze zastosowanie 
+wymienionych poniżej standardów, zmian standardów i interpretacji, które zostały opublikowane i zatwierdzone do stosowania w UE, ale które nie 
+weszły jeszcze w życie. Grupa zastosuje standardy, zmiany do istniejących standardów i interpretacje w zakresie mającym zastosowanie 
+do prowadzonej przez nią działalności od momentu ich wejścia w życie: 
+Standard 
+Data wejścia 
+w życie 
+Zmiany do MSSF 3 „Połączenia jednostek gospodarczych” dotyczące referencji do Założeń Koncepcyjnych 
+1 stycznia 2022 
+Zmiany do MSR 16 „Rzeczowe aktywa trwałe”- przychody z produktów wyprodukowanych w okresie przed rozpoczęciem 
+funkcjonowania rzeczowych aktywów trwałych 
+1 stycznia 2022 
+Zmiany do MSR 37 „Rezerwy, zobowiązania warunkowe i aktywa warunkowe” dotyczące kosztów branych pod uwagę przez 
+jednostkę w analizie, czy kontrakt jest umową rodzącą obciążenia 
+1 stycznia 2022 
+Roczne zmiany do MSSF 2018-2020 w zakresie MSSF 1 „Zastosowanie Międzynarodowych Standardów Sprawozdawczości 
+Finansowej po raz pierwszy”, MSSF 9 „Instrumenty finansowe”, MSR 41 „Rolnictwo”, MSSF 16 „Leasing” 
+1 stycznia 2022 
+Wyżej wymienione standardy i interpretacje nie dotyczą działalności Grupy lub nie będą mieć istotnego wpływu na skonsolidowane sprawozdanie 
+finansowe. 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+14 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+c) 
+Standardy i interpretacje przyjęte przez RMSR, ale jeszcze niezatwierdzone przez UE 
+MSSF w kształcie zatwierdzonym przez UE nie różnią się obecnie w znaczący sposób od regulacji przyjętych przez Radę Międzynarodowych 
+Standardów Rachunkowości („RMSR”), z wyjątkiem poniższych standardów, zmian do standardów i interpretacji, które według stanu na dzień 
+sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego nie zostały jeszcze przyjęte do stosowania. 
+Poniższe standardy i interpretacje nie dotyczą działalności Grupy lub nie będą mieć istotnego wpływu na skonsolidowane sprawozdanie finansowe. 
+Standard 
+Data wejścia 
+w życie * 
+Zmiany do MSSF 10 „Skonsolidowane sprawozdania finansowe” oraz MSR 28 „Inwestycje w jednostkach stowarzyszonych 
+i wspólnych przedsięwzięciach” – Sprzedaż lub wniesienie aktywów pomiędzy inwestorem a jego jednostką stowarzyszoną 
+lub wspólnym przedsięwzięciem 
+Zatwierdzenie zmiany jest 
+odroczone przez UE 
+Zmiany do MSSF 16 „Leasing” - Ulgi w czynszach związane z COVID-19 - zmiany dotyczące daty płatności pierwotnie 
+wymagalnych 
+1 kwietnia 2021 
+MSSF 17 „Umowy ubezpieczeniowe” oraz zmiany do MSSF 17 
+1 stycznia 2023 
+Zmiany do MSR 1 „Prezentacja sprawozdań finansowych” – klasyfikacja zobowiązań jako krótkoterminowe lub długoterminowe 
+1 stycznia 2023 
+Zmiany do MSR 1 „Prezentacja sprawozdań finansowych” oraz wytyczne Rady MSSF w zakresie ujawnień dotyczących polityki 
+rachunkowości w praktyce 
+1 stycznia 2023 
+Zmiany do MSR 8 „Zasady (polityka) rachunkowości, zmiany wartości szacunkowych i korygowanie błędów” - w zakresie definicji 
+wartości szacunkowych 
+1 stycznia 2023 
+Zmiany do MSR 12 „Podatek dochodowy” w zakresie podatku odroczonego dotyczącego aktywów i zobowiązań wynikających 
+z pojedynczej transakcji 
+1 stycznia 2023 
+* 
+Okresy roczne rozpoczynające się dnia lub po tej dacie, określone przez RMSR, które po zatwierdzeniu przez UE mogą ulec zmianie. 
+Grupa zamierza zastosować ww. zmiany, mające zastosowanie do prowadzonej przez nią działalności, od momentu ich wejścia w życie. 
+2.4. 
+ZMIANY ZASAD RACHUNKOWOŚCI I ZASAD PREZENTACJI STOSOWANYCH PRZEZ GRUPĘ 
+ZMIANA ZASAD (POLITYKI) RACHUNKOWOŚCI 
+Z mocą obowiązującą od 1 stycznia 2021 roku Grupa dokonała zmiany zasad (polityki) rachunkowości w zakresie ujęcia nakładów na zbrojenie 
+ścian. Nakłady na zbrojenie ścian obejmują koszty zabudowy maszyn i urządzeń w przecince ścianowej, chodniku podścianowym 
+oraz nadścianowym (np. koszty materiałów, energii, wynagrodzeń wraz z narzutami, remonty urządzeń zamontowanych w zbrojonej ścianie, 
+pozostałych usług) niezbędnych do eksploatacji i transportu węgla ze ściany. 
+Zgodnie ze zmienioną polityką rachunkowości skumulowane nakłady na zbrojenie ścian, ewidencjonowane na kontach rozliczeń międzyokresowych, 
+prezentuje się w sprawozdaniu finansowym w oddzielnej pozycji rzeczowych aktywów trwałych. Rozliczenie nakładów na zbrojenie ścian 
+proporcjonalnie do ilości wydobytych ton węgla ze zbrojonej ściany jest prezentowane w wyniku finansowym jako amortyzacja. Taka zmiana polityki 
+rachunkowości była rekomendowana przez firmę audytorską badającą sprawozdania finansowe Grupy w latach poprzednich. 
+Przed zmianą zasad rachunkowości koszty prac związanych ze zbrojeniem ścian ujmowane były w wyniku finansowym w okresie, w którym zostały 
+poniesione. 
+Powyższa zmiana została zaprezentowana w śródrocznym skróconym skonsolidowanym sprawozdaniu finansowym za okres 3 miesięcy 
+zakończony 31 marca 2021 roku i dokonana prospektywnie, tzn. bez przekształcania danych porównawczych. W poprzednich latach Grupa oceniała 
+wpływ rozliczenia w czasie kosztów zbrojenia ścian za nieistotny na wynik finansowy. 
+Biegły rewident dokonujący przeglądu śródrocznego skróconego skonsolidowanego sprawozdania finansowego za okres 6 miesięcy zakończony 
+30 czerwca 2021 roku, w oparciu o techniczne zestawienia zbrojonych w JSW ścian, stwierdził iż potencjalny wpływ na kapitał własny mógłby być 
+znaczący. W związku z czym zarekomendował cofnięcie zmiany polityki rachunkowości w niniejszym śródrocznym skróconym skonsolidowanym 
+sprawozdaniu finansowym do czasu ustalenia bilansu otwarcia. Grupa zastosowała się do zalecenia biegłego rewidenta, nie mniej nie odstąpiła 
+od zamiaru wdrożenia przedmiotowej zmiany polityki rachunkowości, którą planuje wprowadzić po ustaleniu kompletnych danych pozwalających 
+na wprowadzenie zmiany zasad (polityki) rachunkowości retrospektywnie. 
+ZMIANA PREZENTACJI 
+W śródrocznym skróconym skonsolidowanym sprawozdaniu finansowym za okres 6 miesięcy zakończony 30 czerwca 2021 roku Grupa 
+zdecydowała o zmianie prezentacji w skonsolidowanym sprawozdaniu z wyniku finansowego i innych całkowitych dochodów, kwoty wynikającej 
+z realizacji instrumentów zabezpieczających objętych rachunkowością zabezpieczeń, przeklasyfikowanej z innych całkowitych dochodów do wyniku 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+15 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+finansowego. Od 1 stycznia 2021 roku Grupa ujmuje przeklasyfikowanie wyniku skutecznego w związku z realizacją pozycji zabezpieczanej, 
+z innych całkowitych dochodów do wyniku finansowego, jako korektę pozycji zabezpieczanej. 
+Na dzień 30 czerwca 2021 roku Grupa posiada w rachunkowości zabezpieczeń transakcje Fx Forward oraz kredyty denominowane w USD. 
+Instrumenty te zabezpieczają przepływy pieniężne z tytułu realizowanej przez Jednostkę dominującą sprzedaży koksu. Zgodnie z przyjętą zmianą 
+prezentacji, wynik skuteczny z realizacji pozycji zabezpieczanej przeklasyfikowany z innych całkowitych dochodów do wyniku finansowego, koryguje 
+przychody ze sprzedaży (przed zmianą prezentacji korygował „Pozostałe zyski/(straty) – netto” w przypadku transakcji Fx Forward oraz „Koszty 
+finansowe” w odniesieniu do kredytów denominowanych w USD). Zmiana prezentacji lepiej odzwierciedla ekonomiczną treść transakcji oraz jej 
+wpływ na osiągane wielkości finansowe. 
+Grupa przekształciła dane porównawcze prezentowane w skonsolidowanym sprawozdaniu z wyniku finansowego i innych całkowitych dochodów. 
+Przekształcenie zostało przedstawione w poniższej tabeli. 
+SKONSOLIDOWANE SPRAWOZDANIE Z WYNIKU FINANSOWEGO I INNYCH 
+CAŁKOWITYCH DOCHODÓW 
+Za okres 6 miesięcy 
+zakończony 
+30 czerwca 2020
+(dane zatwierdzone) 
+Zmiana prezentacji 
+Za okres 6 miesięcy 
+zakończony 
+30 czerwca 2020
+(dane przekształcone) 
+Przychody ze sprzedaży 
+3 453,7 
+(28,7) 
+3 425,0 
+STRATA BRUTTO ZE SPRZEDAŻY 
+(79,1) 
+(28,7) 
+(107,8) 
+Pozostałe zyski/(straty) - netto 
+(55,6) 
+9,8 
+(45,8) 
+STRATA OPERACYJNA 
+(1 122,3) 
+(18,9) 
+(1 141,2) 
+Koszty finansowe 
+(69,9) 
+18,9 
+(51,0) 
+STRATA PRZED OPODATKOWANIEM 
+(1 186,0) 
+- 
+(1 186,0) 
+STRATA NETTO 
+(973,8) 
+- 
+(973,8) 
+2.5. 
+INFORMACJE DOTYCZĄCE SEZONOWOŚCI 
+Działalność Grupy nie ma charakteru sezonowego, zatem w tym zakresie przedstawiane wyniki nie odnotowują istotnych wahań w trakcie roku. 
+2.6. 
+ISTOTNE ZMIANY POZYCJI SPRAWOZDAWCZYCH, KWOTY MAJĄCE ZNACZĄCY WPŁYW NA AKTYWA, 
+ZOBOWIĄZANIA, KAPITAŁ WŁASNY, WYNIK FINANSOWY NETTO LUB PRZEPŁYWY PIENIĘŻNE, KTÓRE SĄ 
+NIETYPOWE ZE WZGLĘDU NA ICH RODZAJ, WIELKOŚĆ, WYWIERANY WPŁYW LUB CZĘSTOTLIWOŚĆ 
+Wszelkie istotne zmiany pozycji sprawozdawczych po zakończeniu ostatniego rocznego okresu sprawozdawczego tj. 2020 roku, zostały 
+zaprezentowane w podstawowych częściach niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego uzupełnionych 
+dodatkową informacją zawartą w poszczególnych notach objaśniających. 
+Opis zmian istotnych pozycji sprawozdawczych oraz czynników wpływających na wyniki finansowe osiągnięte w okresie sprawozdawczym 
+przedstawiono w Sprawozdaniu Zarządu z działalności Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A. za okres 6 miesięcy zakończony 
+30 czerwca 2021 roku w Punkcie 7. 
+WPŁYW PANDEMII KORONAWIRUSA SARS-CoV-2 NA DZIAŁALNOŚĆ GRUPY 
+W I półroczu 2021 roku pandemia COVID-19 w dalszym ciągu wywierała wpływ na światową gospodarkę oraz sytuację w kraju, powodując 
+zakłócenia w systemie gospodarczym i administracyjnym. 
+Od chwili wybuchu pandemii Grupa podjęła szereg działań prewencyjnych oraz wzmacniających bezpieczeństwo pracowników w celu zapobiegania 
+rozprzestrzeniania się koronawirusa SARS-CoV-2, a także wdrożyła plan awaryjny obejmujący działania dla zapewnienia ciągłości operacyjnej. 
+Działania te były kontynuowane w I półroczu 2021 roku. 
+W porównaniu do prognoz wynikających z opracowanego na 2021 rok PTE wydobycie węgla w I półroczu 2021 roku było większe o 89,2 tys. ton. 
+Grupa na bieżąco realizuje zawarte kontrakty handlowe w zakresie dostaw węgla i koksu. 
+Ryzykiem dla działalności Grupy może być powrót w kolejnych kwartałach restrykcji związanych z kolejnymi falami COVID-19. Rosnąca liczba 
+zachorowań może doprowadzić do kolejnego wprowadzenia lub rozszerzenia ograniczeń wpływających na zapotrzebowanie na produkty Grupy. 
+Kolejnym czynnikiem ryzyka, który może zakłócić działalność handlową Grupy może być ograniczenie transportu kolejowego lub morskiego 
+na skutek wprowadzanych środków w ramach zapobiegania pandemii COVID-19. Skutkiem kolejnych fal zakażeń COVID-19 mogą być również 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+16 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+braki kadrowe w poszczególnych krajach, sektorach czy zakładach przemysłowych, zakłócające ich działalność i ograniczające popyt na produkty 
+Grupy. 
+Poniesione koszty 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 roku Grupa poniosła koszty pracy związane z zachorowaniem pracowników na COVID–19, 
+ich kwarantanną, realizacją działań profilaktycznych oraz koszty związane z obsługą i organizacją procesu, aby skutki pandemii były jak najmniej 
+dotkliwe. Łączne koszty poniesione na walkę z pandemią w Grupie w okresie 6 miesięcy zakończonym 30 czerwca 2021 roku wyniosły 
+20,5 mln PLN, z czego 19,3 mln PLN ujęto w pozostałych kosztach, 1,0 mln PLN w „Kosztach sprzedanych produktów, towarów i materiałów”, 
+a pozostała część obciążyła „Koszty sprzedaży” i „Koszty administracyjne” (w okresie 6 miesięcy zakończonym 30 czerwca 2020 roku łączne koszty 
+poniesione na walkę z pandemią w Grupie wynosiły 75,8 mln PLN). 
+Utrata wartości aktywów trwałych 
+Na dzień 30 czerwca 2021 roku Grupa nie zidentyfikowała przesłanek wskazujących na konieczność przeprowadzenia testów na utratę wartości 
+aktywów trwałych. Jednocześnie zaszła konieczność utworzenia dodatkowego odpisu aktualizującego wartość majątku KWK Jastrzębie-Bzie 
+w wysokości 73,0 mln PLN obejmującego zmiany wartości aktywów trwałych w okresie I półrocza 2021 roku. Szczegółowe informacje opisane 
+zostały w Nocie 7.3. 
+Wpływ pandemii koronawirusa SARS-CoV-2 na ocenę oczekiwanych strat kredytowych 
+Na dzień 30 czerwca 2021 roku Grupa nie zidentyfikowała przesłanek do zmian założeń przyjętych do oceny wpływu pandemii COVID-19 na jakość 
+kredytową odbiorców. Efekt uwzględnienia wpływu pandemii koronawirusa SARS-CoV-2 na wysokość dokonanego na dzień 30 czerwca 2021 roku 
+odpisu dla należności węglowo-koksowych wyniósł 1,3 mln PLN. 
+Grupa na bieżąco analizuje wpływ pandemii koronawirusa SARS-CoV-2 na sytuację rynkową oraz sygnały mogące świadczyć o pogarszającej się 
+sytuacji finansowej kontrahentów spowodowanej pandemią i w razie konieczności dokona dalszej aktualizacji przyjętych szacunków do kalkulacji 
+oczekiwanych strat kredytowych w kolejnych okresach sprawozdawczych. 
+Sytuacja płynnościowa 
+Grupa kontynuuje podjęte działania minimalizujące wpływ pandemii na jej płynność poprzez wykorzystanie dostępnych na rynku rozwiązań 
+wspierających zarządzanie kapitałem pracującym (szerzej w Nocie 9.3.). 
+Zastosowane rozwiązania pomocowe 
+Grupa w okresie 6 miesięcy zakończonym 30 czerwca 2021 roku korzystała z dostępnych rozwiązań pomocowych (wynikających z Ustawy z dnia 
+31 marca 2020 roku o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, 
+innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, wprowadzającej rozwiązania mające m.in. 
+na celu wsparcie przedsiębiorstw w kryzysie wywołanym pandemią COVID-19 („Tarcza antykryzysowa”)), w tym głównie: 
+ 
+Odroczenie zapłaty składek na ubezpieczenie społeczne, zdrowotne, Fundusz Pracy, Fundusz Gwarantowanych Świadczeń 
+Pracowniczych, Fundusz Emerytur Pomostowych oraz Fundusz Solidarnościowy – JSW korzysta z odroczenia zapłaty składek ZUS 
+po pozytywnym rozpatrzeniu złożonych przez JSW kolejnych wniosków. W I półroczu 2021 roku Jednostka dominująca uzyskała odroczenie 
+o 6 miesięcy płatności składek ZUS za miesiąc styczeń, luty, marzec oraz kwiecień 2021 roku. Składki za maj oraz czerwiec 2021 roku zostały 
+opłacone w terminie ustawowym. Grupa zamierza regulować bieżące składki w terminach ustawowych. Na dzień 30 czerwca 2021 roku łączny 
+stan zobowiązań z tytułu ubezpieczeń społecznych, których termin płatności został odroczony wynosi 579,2 mln PLN. 
+ 
+Program Pomocowy Polskiego Funduszu Rozwoju – w grudniu 2020 roku JSW i JSW KOKS podpisały umowy pożyczek (płynnościowej 
+i preferencyjnej) w ramach „Tarczy Finansowej Polskiego Funduszu Rozwoju dla Dużych Firm” na łączą kwotę 1 198,5 mln PLN. Pożyczki 
+w całości zostały uruchomione w grudniu 2020 roku. Pożyczki mogą zostać wykorzystane wyłącznie w celu finansowania bieżącej działalności, 
+w tym kapitału obrotowego. W dniu 31 marca 2021 roku JSW i JSW KOKS w ramach uzyskanych pożyczek preferencyjnych w łącznej 
+wysokości 198,5 mln PLN (JSW: 173,6 mln PLN, JSW KOKS: 24,9 mln PLN) zwróciły się do Polskiego Funduszu Rozwoju („PFR”) z wnioskami 
+o umorzenie ich części, zgodnie z postanowieniami i na warunkach określonych w umowach oraz w Regulaminie „Tarcza Finansowa 
+Polskiego Funduszu Rozwoju dla Dużych Firm", tj. do 75% „Faktycznej Szkody Covid”. Decyzja o potencjalnym umorzeniu będzie należała 
+do PFR. Zgodnie z wyżej wymienionym regulaminem wysokość umorzenia zostanie określona nie później niż do 30 września 2021 roku. 
+W dniu 19 maja 2021 roku oraz 28 czerwca 2021 roku JSW podpisała aneksy do umów pożyczki płynnościowej i preferencyjnej, zmieniające 
+oprocentowanie pożyczki płynnościowej oraz harmonogramy spłat rat kapitałowych tych pożyczek. Szczegóły podpisanych aneksów zostały 
+przedstawione w Nocie 6.1. 
+Pozostałe rozwiązania pomocowe, z których korzysta Grupa zostały przedstawione w Punkcie 1.3. Sprawozdania Zarządu z działalności Grupy 
+Kapitałowej Jastrzębskiej Spółki Węglowej S.A. za okres 6 miesięcy zakończony 30 czerwca 2021 roku. 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+17 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+2.7. 
+ZMIANA SZACUNKÓW 
+Sporządzenie śródrocznego skróconego skonsolidowanego sprawozdania finansowego zgodnie z MSR 34 „Śródroczna sprawozdawczość 
+finansowa” wymaga wykorzystania pewnych znaczących szacunków księgowych. Wymaga również od Zarządu własnego osądu przy stosowaniu 
+przyjętych przez Grupę zasad rachunkowości. Założenia i szacunki wynikają z dotychczasowych doświadczeń oraz innych czynników, w tym 
+przewidywań odnośnie do przyszłych zdarzeń, które w danej sytuacji wydają się zasadne. Oszacowania i osądy księgowe podlegają regularnej 
+ocenie. 
+Na dzień 30 czerwca 2021 roku Grupa nie dokonała zmian założeń przyjętych do oceny oczekiwanej straty kredytowej kontrahentów z grupy 
+należności węglowo-koksowych, w stosunku do założeń przyjętych na dzień 31 grudnia 2020 roku. W razie konieczności, Grupa przeprowadzi 
+aktualizację tych szacunków w kolejnych okresach sprawozdawczych. 
+Na dzień 30 czerwca 2021 roku Grupa dokonała zmiany szacunku ceny sprzedaży netto stosowanej do wyceny zapasu węgla metalurgicznego 
+(koksowego). Cena referencyjna węgla metalurgicznego (koksowego) wyliczana jest w każdym miesiącu jako krocząca średnia notowań węgli PLV 
+(publikowanych przez Platts) z ostatnich 3 miesięcy z zastosowaniem relacji węgli dla poszczególnych kopalń do powyższej ceny referencyjnej 
+zgodnych z przyjętymi cenami w kontrakcie handlowym z największym odbiorcą (Arcelor Mittal). Kurs USD zastosowany do wyceny zapasów jest 
+przyjęty zgodnie ze średnim kursem NBP na ostatni dzień każdego okresu sprawozdawczego, dla którego dokonuje się wyceny. Zmiana metodologii 
+została dokonana w oparciu o najbardziej wiarygodne dowody, dostępne w czasie sporządzania szacunków, co do przewidywanej kwoty możliwej 
+do zrealizowania z tytułu sprzedaży zapasów. 
+Na dzień 30 czerwca 2021 roku Jednostka dominująca dokonała zmiany szacunku zobowiązań z tytułu świadczeń pracowniczych w związku 
+z uchwałą Zarządu JSW w sprawie podwyżek płac dla pracowników z dniem 1 lipca 2021 roku o 3,4% oraz zmianą stopy dyskonta na dzień 
+30 czerwca 2021 roku do poziomu 2,0%. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+18 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+3. 
+NOTY OBJAŚNIAJĄCE DO SEGMENTÓW OPERACYJNYCH 
+3.1. 
+SEGMENTY OPERACYJNE 
+Organem podejmującym kluczowe decyzje w Grupie jest Zarząd JSW. Miarą wyniku finansowego poszczególnych segmentów operacyjnych Grupy 
+analizowaną przez Zarząd Jednostki dominującej jest zysk/strata operacyjny/a segmentu ustalony/a według zasad MSSF. Przychody z transakcji 
+z podmiotami zewnętrznymi są wyceniane w sposób spójny ze sposobem zastosowanym w skonsolidowanym wyniku finansowym. Przychody 
+z tytułu transakcji pomiędzy segmentami są eliminowane w procesie konsolidacji. Sprzedaż między segmentami realizowana jest na warunkach 
+rynkowych. Zgodnie z zasadami stosowanymi przez Zarząd Jednostki dominującej do oceny wyników działalności poszczególnych segmentów, 
+przychód oraz marża są rozpoznawane w wyniku segmentu w momencie dokonanej sprzedaży poza segment. W wyniku finansowym 
+poszczególnych segmentów nie są zawarte przychody i koszty finansowe. 
+INFORMACJE O SEGMENTACH DLA CELÓW SPRAWOZDAWCZYCH: 
+ 
+Węgiel
+Koks 
+Pozostałe 
+segmenty * 
+Korekty 
+konsolida- 
+cyjne **
+Razem 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 
+ 
+ 
+ 
+ 
+ 
+Łączne przychody ze sprzedaży segmentu 
+2 937,7
+2 095,5
+797,6
+(1 653,8)
+4 177,0
+Przychody ze sprzedaży pomiędzy segmentami 
+1 080,5
+573,3
+(1 653,8)
+Przychody ze sprzedaży od odbiorców zewnętrznych 
+1 857,2
+2 095,5
+224,3
+4 177,0
+Zysk/(strata) brutto ze sprzedaży segmentu 
+(559,3)
+798,3
+83,2
+(130,6)
+191,6
+Zysk/(strata) operacyjny/a segmentu 
+(986,0)
+700,8
+48,1
+(107,9)
+(345,0)
+Amortyzacja 
+(513,9)
+(56,5)
+(68,4)
+37,9
+(600,9)
+ 
+ 
+Węgiel 
+Koks 
+Pozostałe 
+segmenty * 
+Korekty 
+konsolida- 
+cyjne ** 
+Razem 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2020 
+(dane przekształcone) 
+ 
+ 
+ 
+ 
+ 
+Łączne przychody ze sprzedaży segmentu 
+2 820,4 
+1 483,1 
+712,1 
+(1 590,6) 
+3 425,0 
+Przychody ze sprzedaży pomiędzy segmentami 
+1 068,2 
+- 
+522,4 
+(1 590,6) 
+- 
+Przychody ze sprzedaży od odbiorców zewnętrznych 
+1 752,2 
+1 511,8 
+189,7 
+- 
+3 453,7 
+Korekta przychodów ze sprzedaży z tytułu realizacji transakcji 
+zabezpieczających 
+- 
+(28,7) 
+- 
+- 
+(28,7) 
+Zysk/(strata) brutto ze sprzedaży segmentu 
+(154,8) 
+18,2 
+90,8 
+(62,0) 
+(107,8) 
+Zysk/(strata) operacyjny/(a) segmentu 
+(1 067,8) 
+(94,2) 
+48,3 
+(27,5) 
+(1 141,2) 
+Amortyzacja 
+(466,1) 
+(52,7) 
+(62,2) 
+35,0 
+(546,0) 
+* 
+Żadna z działalności wykazywanych w „Pozostałe segmenty” nie spełnia kryteriów agregacji oraz progów ilościowych określonych przez MSSF 8 „Segmenty operacyjne” skutkujących 
+wyodrębnieniem jej jako osobny segment operacyjny 
+** 
+Kolumna: „Korekty konsolidacyjne” eliminuje skutki transakcji między segmentami w ramach Grupy Kapitałowej 
+Poniżej przedstawione jest uzgodnienie wyników segmentów (straty operacyjnej) ze stratą przed opodatkowaniem: 
+ 
+Za okres 6 miesięcy
+zakończony 30 czerwca
+ 
+2021
+ 
+2020
+(dane przekształcone)
+STRATA OPERACYJNA 
+(345,0)
+(1 141,2)
+Przychody finansowe 
+2,7
+6,1
+Koszty finansowe 
+(54,3)
+(51,0)
+Udział w zyskach/(stratach) jednostek stowarzyszonych 
+0,1
+0,1
+STRATA PRZED OPODATKOWANIEM 
+(396,5)
+(1 186,0)
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+19 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+4. 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z WYNIKU FINANSOWEGO 
+I INNYCH CAŁKOWITYCH DOCHODÓW 
+4.1. 
+PRZYCHODY ZE SPRZEDAŻY 
+ 
+Za okres
+3 miesięcy
+zakończony
+30 czerwca
+2021 
+Za okres
+6 miesięcy
+zakończony
+30 czerwca
+2021
+Za okres
+3 miesięcy
+zakończony
+30 czerwca
+2020
+(dane przekształcone) 
+Za okres
+6 miesięcy
+zakończony
+30 czerwca
+2020
+(dane przekształcone)
+ 
+Sprzedaż węgla 
+939,6
+1 857,2
+834,1
+1 752,2
+Sprzedaż koksu 
+1 003,2
+1 897,4
+528,6
+1 403,1
+Sprzedaż węglopochodnych 
+117,6
+198,1
+35,5
+108,7
+Pozostała działalność 
+118,1
+224,3
+89,5
+189,7
+Korekta przychodów ze sprzedaży z tytułu realizacji transakcji 
+zabezpieczających * 
+0,4
+-
+(27,3)
+(28,7)
+RAZEM PRZYCHODY ZE SPRZEDAŻY 
+2 178,9
+4 177,0
+1 460,4
+3 425,0
+* 
+Pozycja obejmuje przeklasyfikowanie wyniku skutecznego, w związku z realizacją pozycji zabezpieczanej, z innych całkowitych dochodów do wyniku finansowego - omówione 
+w Nocie 2.4. W I półroczu 2021 roku korekta dotyczy przychodów ze sprzedaży koksu, natomiast w I półroczu 2020 roku przychodów ze sprzedaży koksu i węglopochodnych. 
+4.2. 
+KOSZT SPRZEDANYCH PRODUKTÓW, MATERIAŁÓW I TOWARÓW 
+ 
+Za okres
+3 miesięcy
+zakończony
+30 czerwca
+2021
+Za okres
+6 miesięcy
+zakończony
+30 czerwca
+2021
+Za okres 
+3 miesięcy 
+zakończony 
+30 czerwca 
+2020 
+Za okres
+6 miesięcy
+zakończony
+30 czerwca
+2020
+Amortyzacja 
+302,6
+600,9
+261,7 
+546,0
+Zużycie materiałów i energii, w tym: 
+440,6
+875,7
+341,6 
+768,3
+ - zużycie materiałów 
+319,7
+618,3
+246,9 
+568,6
+ - zużycie energii 
+120,9
+257,4
+94,7 
+199,7
+Usługi obce 
+386,8
+781,6
+355,3 
+784,1
+Świadczenia na rzecz pracowników 
+1 155,0
+2 306,2
+1 071,4 
+2 193,7
+Podatki i opłaty 
+53,4
+106,5
+49,3 
+99,7
+Pozostałe koszty rodzajowe 
+24,3
+31,5
+17,5 
+30,6
+Wartość sprzedanych materiałów i towarów 
+10,5
+18,2
+7,2 
+12,4
+RAZEM KOSZTY RODZAJOWE 
+2 373,2
+4 720,6
+2 104,0 
+4 434,8
+Koszty sprzedaży 
+(68,6)
+(143,4)
+(62,5) 
+(138,0)
+Koszty administracyjne 
+(176,5)
+(341,2)
+(175,1) 
+(346,5)
+Wartość świadczeń i rzeczowych aktywów trwałych wytworzonych 
+na potrzeby własne oraz wyrobisk ruchowych 
+(192,4)
+(477,4)
+(281,5) 
+(495,3)
+Zmiana stanu produktów 
+104,5
+226,8
+96,1 
+77,8
+KOSZT SPRZEDANYCH PRODUKTÓW, MATERIAŁÓW 
+I TOWARÓW
+2 040,2
+3 985,4
+1 681,0 
+3 532,8
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+20 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+4.3. 
+POZOSTAŁE KOSZTY 
+ 
+ 
+Nota 
+Za okres 
+3 miesięcy 
+zakończony 
+30 czerwca 
+2021 
+Za okres 
+6 miesięcy 
+zakończony 
+30 czerwca 
+2021 
+Za okres 
+3 miesięcy 
+zakończony 
+30 czerwca 
+2020 
+Za okres 
+6 miesięcy 
+zakończony 
+30 czerwca 
+2020 
+Odpis aktualizujący rzeczowe aktywa trwałe, wartości 
+niematerialne oraz prawo do użytkowania składnika 
+aktywów 
+7.3 
+73,0 
+73,0 
+430,9 
+430,9 
+Koszty poniesione w związku z pandemią COVID - 19 
+ 
+10,4 
+19,3 
+73,8 
+73,8 
+Odsetki 
+ 
+(7,0) 
+10,1 
+8,9 
+23,3 
+Darowizny 
+ 
+0,3 
+0,6 
+0,8 
+1,9 
+Opłaty egzekucyjne i kary 
+ 
+0,7 
+1,1 
+0,7 
+1,3 
+Utworzenie odpisu aktualizującego należności i pozostałe 
+aktywa finansowe 
+ 
+(12,8) 
+7,8 
+1,8 
+3,2 
+Pozostałe 
+ 
+3,8 
+8,1 
+17,9 
+23,3 
+RAZEM POZOSTAŁE KOSZTY 
+ 
+68,4 
+120,0 
+534,8 
+557,7 
+4.4. 
+POZOSTAŁE ZYSKI/(STRATY) – NETTO 
+ 
+Za okres
+3 miesięcy
+zakończony
+30 czerwca
+2021
+Za okres
+6 miesięcy
+zakończony
+30 czerwca
+2021
+Za okres 
+3 miesięcy 
+zakończony 
+30 czerwca 
+2020 
+(dane przekształcone)* 
+Za okres
+6 miesięcy
+zakończony
+30 czerwca
+2020
+(dane przekształcone)*
+Zyski/(straty) z tytułu zbycia rzeczowych aktywów trwałych 
+(4,1)
+(8,0)
+0,7 
+(3,5)
+Różnice kursowe 
+(10,1)
+(0,9)
+(5,2) 
+13,3
+Zyski/(straty) na pochodnych instrumentach finansowych 
+23,6
+3,3
+53,7 
+(52,8)
+Zyski/(straty) z tytułu portfela aktywów FIZ 
+0,4
+15,7
+8,5 
+(2,8)
+RAZEM POZOSTAŁE ZYSKI/(STRATY) – NETTO 
+9,8
+10,1
+57,7 
+(45,8)
+* 
+Dane przekształcone w związku z zastosowaną zmianą zasad prezentacji, która została szerzej opisana w Nocie 2.4. 
+4.5. 
+STRATA NA AKCJĘ 
+Podstawowa strata na akcję 
+Podstawowa strata na akcję wylicza się jako iloraz straty przypadającej na akcjonariuszy Jednostki dominującej oraz średniej ważonej liczby akcji 
+zwykłych w ciągu okresu sprawozdawczego. 
+Rozwodniona strata na akcję 
+Rozwodniona strata na akcję wylicza się, korygując średnią ważoną liczbę akcji zwykłych w taki sposób, jak gdyby nastąpiła zamiana na potencjalne 
+akcje zwykłe powodujące rozwodnienie. Jednostka dominująca nie posiada instrumentów powodujących rozwodnienie potencjalnych akcji zwykłych. 
+W związku z powyższym rozwodniona strata na akcję równa jest podstawowej stracie na akcję Jednostki dominującej. 
+ 
+Za okres 6 miesięcy
+zakończony 30 czerwca
+ 
+2021
+2020
+Strata netto przypadająca na akcjonariuszy Jednostki dominującej 
+(356,5)
+(977,3)
+Średnia ważona liczba akcji zwykłych (szt.) 
+117 411 596
+117 411 596
+PODSTAWOWA I ROZWODNIONA STRATA NA JEDNĄ AKCJĘ (W PLN NA JEDNĄ AKCJĘ) 
+(3,04)
+(8,32)
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+21 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+5. 
+NOTY OBJAŚNIAJĄCE DOTYCZĄCE OPODATKOWANIA 
+5.1. 
+PODATEK DOCHODOWY 
+Podatek dochodowy ujęty w wyniku netto: 
+ 
+Za okres 6 miesięcy
+zakończony 30 czerwca
+ 
+2021
+2020
+Podatek bieżący: 
+113,7
+17,1
+– bieżące obciążenie podatkowe 
+113,5
+16,5
+– korekty wykazane w bieżącym okresie w odniesieniu do podatku z lat ubiegłych 
+0,2
+0,6
+Podatek odroczony 
+(179,7)
+(229,3)
+RAZEM PODATEK DOCHODOWY UJĘTY W WYNIKU NETTO 
+(66,0)
+(212,2)
+Podatek dochodowy ujęty w innych całkowitych dochodach: 
+ 
+Za okres 6 miesięcy
+zakończony 30 czerwca
+ 
+2021
+2020
+Podatek odroczony: 
+ 
+– straty aktuarialne 
+(3,2)
+(2,4)
+– zmiana wartości instrumentów zabezpieczających 
+0,4
+(2,1)
+RAZEM PODATEK DOCHODOWY UJĘTY W INNYCH CAŁKOWITYCH DOCHODACH 
+(2,8)
+(4,5)
+Podatek dochodowy w niniejszym śródrocznym skróconym skonsolidowanym sprawozdaniu finansowym został ustalony według rzeczywistej 
+efektywnej stopy podatkowej w wysokości 16,7%. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+22 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+6. 
+NOTY OBJAŚNIAJĄCE DOTYCZĄCE ZADŁUŻENIA 
+ZOBOWIĄZANIA Z TYTUŁU ZADŁUŻENIA 
+ 
+Nota 
+30.06.2021 
+31.12.2020 
+Kredyty i pożyczki 
+6.1 
+1 991,0
+2 007,8
+Zobowiązania z tytułu leasingu 
+6.2 
+599,4
+632,9
+RAZEM 
+2 590,4
+2 640,7
+ 
+w tym: 
+ 
+ 
+ 
+długoterminowe 
+1 960,5 
+2 092,5 
+ 
+krótkoterminowe 
+629,9 
+548,2 
+6.1. 
+KREDYTY I POŻYCZKI 
+ 
+30.06.2021 
+31.12.2020 
+DŁUGOTERMINOWE: 
+1 601,1 
+1 686,3
+Kredyty bankowe 
+574,7 
+598,6
+Pożyczki 
+1 026,4 
+1 087,7
+KRÓTKOTERMINOWE: 
+389,9 
+321,5
+Kredyty bankowe 
+54,8 
+40,9
+Pożyczki 
+335,1 
+280,6
+RAZEM 
+1 991,0 
+2 007,8
+Grupa dysponuje następującymi niewykorzystanymi liniami kredytowymi: 
+ 
+30.06.2021 
+31.12.2020 
+Niewykorzystane linie kredytowe 
+39,6
+39,6 
+Wartość godziwa kredytów i pożyczek nie różni się istotnie od ich wartości księgowej. 
+Szczegóły dotyczące zawartych przez Grupę umów kredytów i pożyczek zostały przedstawione w Nocie 6.1. Skonsolidowanego sprawozdania 
+finansowego Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A. za rok obrotowy zakończony 31 grudnia 2020 roku. Grupa nie zawierała nowych 
+umów kredytów i pożyczek w I półroczu 2021 roku. 
+Główne zobowiązania z tytułu kredytów i pożyczek po przeliczeniu na PLN przedstawia tabela poniżej. 
+Kredyt/ pożyczka 
+Data 
+zawarcia 
+Cel 
+Oprocentowanie 
+Termin 
+spłaty 
+Waluta 
+kredytów 
+oraz 
+pożyczek 
+Wycena 
+bilansowa 
+na dzień 
+30.06.2021 
+Wycena 
+bilansowa 
+na dzień 
+31.12.2020 
+FINANSOWANIE UDZIELONE JSW 
+ 
+ 
+ 
+ 
+1 857,7 
+1 885,6 
+POŻYCZKA PŁYNNOŚCIOWA 
+POLSKIEGO FUNDUSZU ROZWOJU * 
+09.12.2020
+Finansowanie bieżącej 
+działalności, w tym kapitału 
+obrotowego 
+stałe 
+30.09.2024 
+kwartalnie 
+od czerwca 
+2021 roku 
+PLN 
+964,2 
+977,6 
+POŻYCZKA PREFERENCYJNA 
+POLSKIEGO FUNDUSZU ROZWOJU * 
+23.12.2020
+Finansowanie bieżącej 
+działalności, w tym kapitału 
+obrotowego 
+stałe 
+30.09.2024 
+kwartalnie 
+od czerwca 
+2021 roku 
+PLN 
+169,8 
+169,6 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+23 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+Kredyt/ pożyczka 
+Data 
+zawarcia 
+Cel 
+Oprocentowanie 
+Termin 
+spłaty 
+Waluta 
+kredytów 
+oraz 
+pożyczek 
+Wycena 
+bilansowa 
+na dzień 
+30.06.2021 
+Wycena 
+bilansowa 
+na dzień 
+31.12.2020 
+UMOWA FINANSOWANIA Z KONSORCJUM, w tym: 
+ 
+ POŻYCZKA TERMINOWA 
+09.04.2019
+Finansowanie inwestycji 
+Grupy, finansowanie innych 
+celów ogólnokorporacyjnych 
+Grupy oraz sfinansowanie 
+nabycia przez JSW 95,01% 
+akcji spółki PBSz 
+zmienne 
+09.04.2026 
+kwartalnie 
+od czerwca 
+2021 roku 
+PLN 
+94,9 
+99,6 
+ KREDYT TERMINOWY A i C 
+zmienne 
+09.04.2026 
+kwartalnie 
+od czerwca 
+2021 roku 
+USD 
+268,7 
+278,7 
+ KREDYT ODNAWIALNY B 
+zmienne 09.04.2024** 
+PLN 
+360,1 
+360,1 
+FINANSOWANIE UDZIELONE JSW KOKS 
+ 
+ 
+ 
+ 
+132,6 
+121,6 
+POŻYCZKA PREFERENCYJNA 
+POLSKIEGO FUNDUSZU ROZWOJU * 
+23.12.2020
+Finansowanie bieżącej 
+działalności, w tym kapitału 
+obrotowego 
+stałe 
+30.09.2024 
+kwartalnie 
+od czerwca 
+2021 roku 
+PLN 
+23,2 
+24,9 
+POŻYCZKA PREFERENCYJNA 
+Z NFOŚiGW*** 
+19.12.2018
+Realizacja projektu „Poprawa 
+efektywności energetycznej 
+w JSW KOKS” związanego 
+z budową bloku 
+energetycznego w Koksowni 
+Radlin 
+stałe 
+20.12.2030 
+kwartalnie 
+od września 
+2022 roku 
+PLN 
+66,4 
+49,2 
+POŻYCZKA Z NFOŚiGW 
+27.06.2014
+Realizacja przedsięwzięcia 
+„Modernizacja benzolowni 
+wraz z obiektami 
+towarzyszącymi 
+węglopochodnych 
+w Koksowni Radlin” 
+zmienne 
+30.06.2023 
+PLN 
+18,0 
+22,5 
+POŻYCZKA PREFERENCYJNA 
+Z WFOŚiGW 
+12.08.2020
+Dofinansowanie 
+przedsięwzięcia „Budowa 
+bloku energetycznego w 
+Koksowni Radlin”. Pożyczka 
+została udzielona w ramach 
+pomocy horyzontalnej na 
+ochronę środowiska 
+zmienne 
+15.12.2030 
+kwartalnie 
+od grudnia 
+2022 roku 
+PLN 
+25,0 
+25,0 
+ * 
+Wsparcie finansowe w ramach Programu Rządowego „Tarczy Finansowej Polskiego Funduszu Rozwoju dla Dużych Firm” zostało udzielone na preferencyjnych warunkach. Zgodnie 
+z wymogami MSR 20 „Dotacje rządowe oraz ujawnianie informacji na temat pomocy rządowej”, ujęcie bilansowe pożyczki otrzymanej na warunkach preferencyjnych następuje 
+w wartości godziwej. Grupa dokonała takiej wyceny i prezentuje pożyczkę z uwzględnieniem wartości odsetek rynkowych. Z tego powodu faktyczna wartość zadłużenia wynosi 
+1 186,9 mln PLN i różni się od stanu zobowiązania na dzień kończący okres sprawozdawczy o 29,7 mln PLN. 
+ ** 
+Możliwość przedłużenia okresu spłaty maksymalnie o dwa lata. 
+ *** Stan zadłużenia na 30 czerwca 2021 roku wynosi 80,2 mln PLN. Zgodnie z wymogami MSR 20 „Dotacje rządowe oraz ujawnianie informacji na temat pomocy rządowej”, ujęcie 
+bilansowe pożyczki otrzymanej na warunkach preferencyjnych następuje w wartości godziwej. Z tego powodu faktyczna wartość zadłużenia różni się od stanu zobowiązania na dzień 
+kończący okres sprawozdawczy. 
+POŻYCZKI W RAMACH PROGRAMU RZĄDOWEGO TARCZA FINANSOWA POLSKIEGO FUNDUSZU ROZWOJU DLA DUŻYCH FIRM 
+W dniu 31 marca 2021 roku JSW i JSW KOKS w ramach uzyskanych pożyczek preferencyjnych w wysokości 198,5 mln PLN zwróciły się do PFR 
+z wnioskami o umorzenie części pożyczek preferencyjnych, zgodnie z postanowieniami i na warunkach określonych w umowach oraz 
+w Regulaminie „Tarcza Finansowa Polskiego Funduszu Rozwoju dla Dużych Firm", tj. do 75% „Faktycznej Szkody Covid”. Decyzja o potencjalnym 
+umorzeniu będzie należała do PFR. Zgodnie z wyżej wymienionym regulaminem wysokość umorzenia zostanie określona nie później niż 
+do 30 września 2021 roku. 
+W dniu 19 maja 2021 roku został podpisany aneks do umowy pożyczki płynnościowej otrzymanej przez Jednostkę dominującą w wysokości 
+1,0 mld PLN zawartej pomiędzy JSW, Polskim Funduszem Rozwoju S.A. oraz spółką JZR jako jednym z poręczycieli. Na mocy aneksu, którego 
+zapisy weszły w życie z dniem 1 kwietnia 2021 roku zmniejszone zostało oprocentowanie pożyczki, które po zmianie wynosi: w I roku 0,75%, 
+w II i III roku 1,25%, w IV roku 2,25%. 
+W dniu 28 czerwca 2021 roku zostały podpisane aneksy do umów JSW pożyczki preferencyjnej oraz pożyczki płynnościowej, na mocy których 
+zostały zmienione harmonogramy spłaty rat kapitałowych tych pożyczek. Raty kapitałowe przypadające na II i III kwartał 2021 roku zostały 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+24 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+zmniejszone łącznie o 145,7 mln PLN, z czego 122,9 mln PLN dotyczy pożyczki płynnościowej, a 22,8 mln PLN dotyczy pożyczki preferencyjnej. 
+Raty kapitałowe wymagalne w kolejnych kwartałach zostały odpowiednio zwiększone. 
+UMOWA FINANSOWANIA Z KONSORCJUM 
+W 2020 roku Jednostka dominująca zwróciła się do Konsorcjum z prośbą o wyznaczenie w okresie trwania pandemii koronawirusa SARS-CoV-2 
+mniej restrykcyjnych wartości referencyjnych dla wybranych kowenantów. 
+W dniu 12 października 2020 roku w JSW wszedł w życie Aneks nr 1 do Umowy Finansowania z Konsorcjum, na mocy którego m.in. zostało 
+obniżone wymagalne saldo Bufora Gotówki do kwoty 760,0 mln PLN (do dnia 31 grudnia 2021 roku) oraz podniesiono limity dozwolonego 
+zadłużenia. 
+W dniu 9 grudnia 2020 roku Konsorcjum wydało zgodę na zawieszenie sankcji wynikających z niewypełnienia: 
+ 
+wskaźnika Zadłużenie Finansowe Netto/EBITDA za okres IV kwartału 2020 roku oraz I kwartału 2021 roku, 
+ 
+zobowiązania, by łączny udział EBITDA poręczycieli (JSW KOKS i JZR) oraz JSW w sumie EBITDA Grupy Kapitałowej wynosił nie mniej 
+niż 85% za okres III i IV kwartału 2020 roku oraz I kwartału 2021 roku. 
+Z wyliczeń przeprowadzonych przez JSW na dzień zatwierdzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania 
+finansowego wynika, że powyższe wskaźniki za okres 12 miesięcy zakończony 30 czerwca 2021 roku zostaną spełnione. 
+Istotnym elementem Bufora Gotówki są środki ulokowane w portfel aktywów FIZ. Na dzień 30 czerwca 2021 roku warunek dotyczący utrzymywania 
+Bufora Gotówki został spełniony. 
+UMOWA POŻYCZKI PREFERENCYJNEJ Z NFOŚiGW 
+W marcu 2021 roku z uwagi na opóźnienia w realizacji projektu został zaktualizowany harmonogram wypłat kolejnych transz pożyczki. Do dnia 
+9 kwietnia 2021 roku JSW KOKS wykorzystała 12,9 mln PLN z otrzymanej 2 października 2020 roku transzy pożyczki oraz dokonała zwrotu 
+pozostałej części transzy w kwocie 9,9 mln PLN do Ministerstwa Finansów. W I półroczu 2021 roku JSW KOKS otrzymała kolejne transze pożyczki: 
+w dniu 20 maja 2021 roku w formie zaliczki 22,8 mln PLN oraz w dniu 11 czerwca 2021 roku w formie refundacji 7,0 mln PLN. Na dzień 30 czerwca 
+2021 roku pożyczka została wyceniona w wysokości 66,4 mln PLN. Różnicę stanowi preferencyjne oprocentowanie w kwocie 13,8 mln PLN. 
+ZABEZPIECZENIA KREDYTÓW I POŻYCZEK UMOWA POŻYCZKI PREFERENCYJNEJ Z NFOŚiGW 
+W umowach pożyczki płynnościowej oraz pożyczki preferencyjnej przewidziano zabezpieczenia w formie poręczeń na rzecz PFR następujących 
+spółek zależnych: 
+ 
+JZR do łącznej wysokości 300,0 mln PLN (na dzień 30 czerwca 2021 roku poręczenie ustanowione do kwoty 300,0 mln PLN), 
+ 
+JSW KOKS do łącznej wysokości 1 375,1 mln PLN (na dzień 30 czerwca 2021 roku poręczenie ustanowione do kwoty 434,0 mln PLN). 
+Na dzień kończący okres sprawozdawczy współdzielone na zasadzie pari passu zabezpieczenia umów finansowania z Konsorcjum oraz 
+Europejskim Bankiem Inwestycyjnym („EBI”) stanowią: 
+1) Zastawy rejestrowe do najwyższej sumy zabezpieczenia wynoszącej 690,0 mln PLN, 117,8 mln USD oraz 87,8 mln EUR ustanowione na rzecz 
+PKO BP jako administratora zastawu na: 
+ 
+aktywach ruchomych ZORG Knurów-Szczygłowice, ZORG Pniówek, ZORG Zofiówka, ZORG Bzie-Dębina, 
+ 
+akcjach posiadanych przez JSW w spółkach JSW KOKS i PBSz, 
+ 
+rachunkach bankowych JSW. 
+2) Hipoteki umowne łączne ustanowione na rzecz PKO BP jako administratora hipoteki do kwoty 690,0 mln PLN oraz do kwoty 117,8 mln USD 
+oraz na rzecz EBI do kwoty 87,8 mln EUR na nieruchomościach będących przedmiotem własności lub wieczystego użytkowania JSW, 
+wchodzących w skład zorganizowanych części przedsiębiorstwa JSW w postaci, ZORG Knurów-Szczygłowice, ZORG Pniówek, 
+ZORG Zofiówka, ZORG Bzie-Dębina. 
+3) Poręczenie udzielone na rzecz Konsorcjum przez JSW KOKS do kwoty 690,0 mln PLN oraz 117,8 mln USD i poręczenie udzielone na rzecz 
+Konsorcjum przez JZR do kwoty 690,0 mln PLN oraz 117,8 mln USD. 
+4) Przelew wierzytelności z umowy handlowej oraz wierzytelności z tytułu umów ubezpieczenia dokonany na podstawie umowy przelewu 
+rządzonej prawem polskim z dnia 9 kwietnia 2019 roku pomiędzy JSW jako cedentem a PKO BP jako cesjonariuszem. 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+25 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+W dniu 20 października 2020 roku nastąpiło podpisanie porozumienia rozwiązującego umowę finansowania z Europejskim Bankiem Inwestycyjnym. 
+Na dzień sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego trwa proces zwalniania zabezpieczeń 
+ustanowionych na rzecz EBI. 
+Pozostałe zabezpieczenia kredytów i pożyczek (bez uwzględnienia zabezpieczeń, które zostały opisane powyżej): 
+ 
+hipoteki na nieruchomościach w wysokości 325,9 mln PLN, 
+ 
+zastawy rejestrowe na rzeczach ruchomych w kwocie 56,3 mln PLN, 
+ 
+przelewy wierzytelności z umów/rachunków bankowych oraz rachunków lokat terminowych. 
+W przypadku zabezpieczenia kredytów i pożyczek na aktywach trwałych dodatkowe zabezpieczenie stanowi cesja praw z umów ubezpieczenia 
+tych aktywów. Ponadto stosowaną formą zabezpieczenia wierzytelności z tytułu zaciągniętych kredytów i pożyczek są weksle in blanco wraz 
+z deklaracją wekslową. 
+6.2. 
+ZOBOWIĄZANIA Z TYTUŁU LEASINGU 
+ 
+ 
+30.06.2021
+31.12.2020
+Zobowiązania z tytułu leasingu 
+ 
+599,4 
+632,9 
+RAZEM 
+ 
+599,4 
+632,9 
+ 
+w tym: 
+ 
+ 
+ 
+długoterminowe 
+359,4 
+406,2 
+ 
+krótkoterminowe 
+240,0 
+226,7 
+Grupa ujmuje w wycenie zobowiązania z tytułu leasingu zmienne opłaty leasingowe powiązane z referencyjnymi stopami procentowymi. 
+Na dzień 30 czerwca 2021 roku PBSz posiada niewykorzystaną linię leasingową w kwocie 4,7 mln PLN w ING Lease Polska Sp. z o.o. 
+6.3. 
+UZGODNIENIE ZADŁUŻENIA 
+Zmianę stanu zadłużenia na dzień 30 czerwca 2021 roku przedstawia poniższa tabela: 
+ 
+Kredyty i pożyczki 
+Zobowiązania 
+z tytułu leasingu 
+RAZEM 
+STAN NA 1 STYCZNIA 2021 
+2 007,8 
+632,9 
+2 640,7 
+Wpływy z tytułu zaciągnięcia zadłużenia: 
+26,7 
+50,5 
+77,2 
+- otrzymane finansowanie 
+26,7 
+- 
+26,7 
+- zawarcie nowych umów leasingu 
+- 
+50,5 
+50,5 
+Korekty związane ze zmianami w umowach leasingowych 
+- 
+(12,5) 
+(12,5) 
+Naliczone odsetki 
+27,7 
+14,1 
+41,8 
+Płatności z tytułu zadłużenia: 
+(63,8) 
+(106,9) 
+(170,7) 
+- spłata zobowiązania (kapitału) 
+(45,3) 
+(91,9) 
+(137,2) 
+- odsetki zapłacone 
+(18,5) 
+(15,0) 
+(33,5) 
+Różnice kursowe 
+3,2 
+(0,1) 
+3,1 
+Inne zwiększenia / (zmniejszenia) 
+(10,6) 
+21,4 
+10,8 
+STAN NA 30 CZERWCA 2021 
+1 991,0 
+599,4 
+2 590,4 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+26 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+Zmianę stanu zadłużenia na dzień 31 grudnia 2020 roku przedstawia poniższa tabela: 
+ 
+Kredyty i pożyczki 
+Zobowiązania 
+z tytułu leasingu 
+RAZEM 
+STAN NA 1 STYCZNIA 2020 
+ 
+359,1 
+613,1 
+972,2 
+Wpływy z tytułu zaciągnięcia zadłużenia: 
+ 
+1 698,2 
+210,2 
+1 908,4 
+ - otrzymane finansowanie 
+ 
+1 698,2 
+- 
+1 698,2 
+- zawarcie nowych umów leasingu 
+ 
+- 
+210,2 
+210,2 
+Korekty związane ze zmianami w umowach leasingowych 
+ 
+- 
+(5,2) 
+(5,2) 
+Naliczone odsetki i prowizje 
+ 
+31,3 
+30,6 
+61,9 
+Płatności z tytułu zadłużenia: 
+ 
+(73,2) 
+(215,6) 
+(288,8) 
+- spłata zobowiązania (kapitału) 
+ 
+(45,1) 
+(185,7) 
+(230,8) 
+- odsetki i prowizje zapłacone 
+ 
+(28,1) 
+(29,9) 
+(58,0) 
+Różnice kursowe 
+ 
+(2,5) 
+0,4 
+(2,1) 
+Inne zwiększenia / (zmniejszenia) 
+ 
+(5,1) 
+(0,6) 
+(5,7) 
+STAN NA 31 GRUDNIA 2020 
+2 007,8 
+632,9 
+2 640,7 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+27 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+7. 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z SYTUACJI FINANSOWEJ 
+7.1. 
+RZECZOWE AKTYWA TRWAŁE 
+ 
+30.06.2021 
+31.12.2020 
+Grunty 
+62,5 
+55,2 
+Budynki i budowle 
+3 976,5 
+3 954,8 
+Wyrobiska ruchowe 
+1 296,1 
+1 216,0 
+Urządzenia techniczne i maszyny 
+2 539,7 
+2 571,6 
+Inne rzeczowe aktywa trwałe 
+130,2 
+128,2 
+Inwestycje rozpoczęte 
+1 089,7 
+1 069,8 
+RAZEM RZECZOWE AKTYWA TRWAŁE 
+9 094,7 
+8 995,6 
+ 
+ 
+Za okres
+6 miesięcy
+ zakończony
+30 czerwca 2021 
+Za okres
+12 miesięcy
+ zakończony
+31 grudnia 2020 
+Za okres
+6 miesięcy
+zakończony
+30 czerwca 2020 
+Wartość brutto na początek okresu 
+20 102,7 
+18 926,3 
+18 926,3 
+Umorzenie na początek okresu * 
+(11 107,1) 
+(10 254,0) 
+(10 254,0) 
+Wartość księgowa netto na początek okresu 
+8 995,6 
+8 672,3 
+8 672,3 
+Zwiększenia 
+704,8 
+1 654,1 
+740,1 
+Zmiana wartości rezerwy na koszty likwidacji zakładu górniczego 
+- 
+107,6 
+- 
+Zmniejszenia 
+(33,8) 
+(47,9) 
+(13,6) 
+Amortyzacja 
+(504,2) 
+(901,2) 
+(444,9) 
+Odpis aktualizujący - utworzenie 
+(68,4) 
+(493,4) 
+(412,6) 
+Odpis aktualizujący - odwrócenie 
+0,7 
+4,1 
+3,0 
+WARTOŚĆ KSIĘGOWA NETTO NA KONIEC OKRESU 
+9 094,7 
+8 995,6 
+8 544,3 
+* 
+Pozycja obejmuje umorzenie oraz odpisy aktualizujące rzeczowe aktywa trwałe 
+7.2. 
+PRAWO DO UŻYTKOWANIA SKŁADNIKA AKTYWÓW 
+30.06.2021 
+31.12.2020 
+Grunty 
+14,2 
+14,4 
+Budynki i budowle 
+11,9 
+12,8 
+Urządzenia techniczne i maszyny 
+334,5 
+356,1 
+Inne rzeczowe aktywa trwałe 
+23,6 
+28,0 
+Prawo wieczystego użytkowania gruntów 
+179,9 
+187,3 
+RAZEM PRAWO DO UŻYTKOWANIA SKŁADNIKA AKTYWÓW 
+564,1 
+598,6 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+28 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+ 
+Za okres
+6 miesięcy
+zakończony
+30 czerwca 2021 
+Za okres
+12 miesięcy
+zakończony
+31 grudnia 2020 
+Za okres
+6 miesięcy 
+Zakończony
+ 30 czerwca 2020 
+Wartość początkowa (brutto) na początek okresu 
+930,1 
+882,3 
+882,3 
+Umorzenie na początek okresu * 
+(331,5) 
+(264,0) 
+(264,0) 
+Wartość księgowa netto na początek okresu 
+598,6 
+618,3 
+618,3 
+Zwiększenia 
+58,6 
+206,7 
+115,3 
+Amortyzacja 
+(91,3) 
+(193,8) 
+(96,3) 
+Zmniejszenia 
+(2,2) 
+(20,5) 
+(17,3) 
+Odpis aktualizujący - utworzenie 
+(4,1) 
+(18,2) 
+(14,4) 
+Odpis aktualizujący - odwrócenie 
+4,5 
+6,1 
+1,0 
+WARTOŚĆ KSIĘGOWA NETTO NA KONIEC OKRESU 
+564,1 
+598,6 
+606,6 
+* 
+Pozycja obejmuje umorzenie oraz odpisy aktualizujące prawo do użytkowania składników aktywów 
+Wysokość opłat leasingu krótkoterminowego, ujęta w kosztach w Śródrocznym skróconym skonsolidowanym sprawozdaniu z wyniku finansowego 
+i innych całkowitych dochodów za okres 6 miesięcy zakończony 30 czerwca 2021 roku wynosi 11,8 mln PLN, natomiast koszt leasingu dla umów 
+niskocennych wynosi 0,2 mln PLN. 
+7.3. 
+UTRATA WARTOŚCI NIEFINANSOWYCH AKTYWÓW TRWAŁYCH 
+Z uwagi na zmienne otoczenie makroekonomiczne Grupa okresowo weryfikuje przesłanki mogące świadczyć o utracie wartości odzyskiwalnej 
+majątku poszczególnych spółek Grupy. Analiza utraty wartości aktywów trwałych dokonywana jest poprzez oszacowanie wartości odzyskiwalnej 
+ośrodków wypracowujących przepływy pieniężne („CGU”). Analiza taka opiera się na szeregu istotnych założeń, których część jest poza kontrolą 
+Grupy. Istotne zmiany tych założeń mają wpływ na wyniki testów na utratę wartości i w konsekwencji mogą doprowadzić do istotnych zmian sytuacji 
+finansowej oraz wyników finansowych Grupy. 
+W bieżącym okresie sprawozdawczym Grupa dokonała analizy przesłanek świadczących o utracie wartości bilansowej składników aktywów zgodnie 
+z MSR 36 „Utrata wartości aktywów” w celu weryfikacji, czy mogła nastąpić dalsza utrata wartości aktywów. Nie zaobserwowano istotnych zmian 
+na dzień kończący okres sprawozdawczy w zakresie wielkości i mierników stanowiących przesłanki do wcześniej utworzonych odpisów i nie 
+zachodzi konieczność ich aktualizacji. 
+Zmiany stanu odpisów aktualizujących aktywa trwałe przedstawia poniższa tabela: 
+ 
+30.06.2021 
+31.12.2020 
+Rzeczowe 
+aktywa 
+trwałe 
+Wartości 
+niematerialne 
+Prawo do 
+użytkowania 
+składnika 
+aktywów 
+RAZEM 
+Rzeczowe 
+aktywa 
+trwałe 
+Wartości 
+niematerialne
+Prawo do 
+użytkowania 
+składnika 
+aktywów 
+RAZEM 
+STAN NA POCZĄTEK OKRESU 
+4 019,6 
+7,3
+52,0
+4 078,9
+3 630,9
+2,3
+62,2
+3 695,4
+Utworzenie odpisu 
+68,4 
+0,5
+4,1
+73,0
+493,4
+5,0
+18,2
+516,6
+Przeklasyfikowanie odpisu z tytułu 
+utraty wartości prawa do 
+użytkowania składnika aktywów na 
+odpis z tytułu utraty wartości 
+rzeczowych aktywów trwałych 
+0,2 
+-
+(0,2)
+13,8
+-
+(13,8)
+Wykorzystanie odpisu 
+(81,3) 
+-
+(4,0)
+(85,3)
+(113,3)
+-
+(8,5)
+(121,8)
+Odwrócenie odpisu 
+(0,7) 
+-
+(4,5)
+(5,2)
+(4,1)
+-
+(6,1)
+(10,2)
+Przeklasyfikowanie odpisu z tytułu 
+utraty wartości aktywów na poczet 
+umorzenia 
+(1,8) 
+-
+-
+(1,8)
+(1,0)
+-
+-
+(1,0)
+Inne zmniejszenia 
+(0,1) 
+-
+-
+(0,1)
+(0,1)
+-
+-
+(0,1)
+STAN NA KONIEC OKRESU 
+4 004,3 
+7,8
+47,4
+4 059,5
+4 019,6
+7,3
+52,0
+4 078,9
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+29 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+Mając na uwadze: 
+a) 
+istniejącą wartość majątku KWK Jastrzębie-Bzie, KWK Borynia-Zofiówka Ruch Zofiówka, KWK Knurów-Szczygłowice, KWK Budryk oraz 
+generowane przez nie przepływy pieniężne w Modelu finansowym wykorzystanym na potrzeby przeprowadzenia testu na utratę wartości 
+aktywów na dzień 30 czerwca 2020 roku; 
+b) 
+niestabilność rynku węgla metalurgicznego (koksowego) wywołanego skutkami pandemii COVID-19 oraz sporem chińsko-australijskim; 
+c) 
+brak prognoz długoterminowych na dzień 30 czerwca 2021 roku uwzględniających skokowy wzrost cen węgla metalurgicznego 
+(koksowego), który nastąpił w czerwcu 2021 roku oraz brak pewności co do czasu utrzymania się wyższych cen węgla w dłuższym 
+okresie czasu, 
+zasadne jest dokonanie odpisu aktualizującego majątek KWK Jastrzębie-Bzie na kwotę 73,0 mln PLN obejmującego zmiany wartości aktywów CGU 
+pomiędzy 31 grudnia 2020 roku a 30 czerwca 2021 roku. 
+Na dzień 30 czerwca 2021 roku ze względu na ujemną wartość odzyskiwalną KWK Jastrzębie-Bzie w wysokości (2 458,5) mln PLN wynikającą 
+z obliczeń przeprowadzonych w 2020 roku dla pięcioletniego okresu prognozy oraz na wzrost aktywów trwałych (będący wynikiem działań 
+inwestycyjnych) KWK Jastrzębie-Bzie w wysokości 64,7 mln PLN, dokonano kalkulacji majątku KWK Jastrzębie-Bzie. Majątek KWK Jastrzębie-Bzie 
+na dzień 30 czerwca 2021 roku, po kalkulacji uwzględniającej rezerwy, zobowiązania długoterminowe i kapitał obrotowy oraz dokonane w 2020 roku 
+odpisy z tytułu utraty wartości, wyniósł 73,0 mln PLN i w całości został ujęty w pozostałych kosztach w śródrocznym skróconym skonsolidowanym 
+sprawozdaniu z wyniku finansowego i innych całkowitych dochodów na dzień 30 czerwca 2021 roku. Dla pozostałych CGU na dzień 30 czerwca 
+2021 roku nie stwierdzono przesłanek do wykonania testów i w związku z tym odpisy nie były aktualizowane. 
+7.4. 
+INWESTYCJE W PORTFEL AKTYWÓW FIZ 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 roku Grupa nadal utrzymuje inwestycje w portfel aktywów finansowych poprzez Fundusz, 
+w którym Jednostka dominująca posiada 100% wyemitowanych certyfikatów inwestycyjnych. 
+Wartość bilansowa inwestycji w portfel aktywów FIZ na dzień 30 czerwca 2021 roku wynosi 674,5 mln PLN, natomiast na dzień 31 grudnia 
+2021 roku wyniosła 612,0 mln PLN. 
+Z uwagi na istotną wartość zobowiązań Funduszu na dzień kończący okres sprawozdawczy, Grupa zaprezentowała zobowiązania Funduszu 
+w śródrocznym skróconym skonsolidowanym sprawozdaniu z sytuacji finansowej w odrębnej pozycji jako „Zobowiązania FIZ”. Wysokość aktywów 
+netto Funduszu stanowi faktyczne zaangażowanie Jednostki dominującej w wyemitowane przez Fundusz Certyfikaty Inwestycyjne i na dzień 
+30 czerwca 2021 roku wyniosła 506,4 mln PLN (na dzień 31 grudnia 2020 roku: 490,7 mln PLN). 
+Środki ulokowane w portfel aktywów FIZ są istotnym elementem „Bufora Gotówki” tj. zobowiązania wynikającego z umowy finansowania zawartej 
+z Konsorcjum. W dniu 12 października 2020 roku wszedł w życie Aneks nr 1 do Umowy Finansowania z Konsorcjum, na mocy którego m.in. zostało 
+obniżone wymagalne saldo Bufora Gotówki do kwoty 760,0 mln PLN (do dnia 31 grudnia 2021 roku) oraz podniesiono limity dozwolonego 
+zadłużenia. Na dzień 30 czerwca 2021 roku warunek dotyczący utrzymywania Bufora Gotówki oraz limit dozwolonego zadłużenia został spełniony. 
+W I półroczu 2021 roku nie dokonywano umorzeń Certyfikatów Inwestycyjnych JSW Stabilizacyjnego FIZ. 
+Poniższa tabela prezentuje strukturę portfela aktywów netto Funduszu na dzień kończący okres sprawozdawczy. 
+ 
+30.06.2021 
+31.12.2020 
+AKTYWA FUNDUSZU 
+674,5 
+612,0 
+Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy 
+455,3 
+368,7 
+Listy zastawne (nienotowane na aktywnym rynku) 
+16,0 
+30,6 
+Dłużne papiery wartościowe, w tym: 
+439,3 
+338,1 
+- obligacje (notowane) 
+439,3 
+338,1 
+Aktywa finansowe wyceniane według zamortyzowanego kosztu 
+219,2 
+243,3 
+Dłużne papiery wartościowe, w tym: 
+- obligacje (nienotowane) 
+172,6 
+189,3 
+172,6 
+189,3 
+Instrumenty pochodne (niewystandaryzowane instrumenty pochodne – swap procentowy (IRS) w PLN) 
+12,8 
+- 
+Środki pieniężne i ich ekwiwalenty 
+7,9 
+53,9 
+Należności Funduszu 
+25,9 
+0,1 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+30 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+ 
+30.06.2021 
+31.12.2020 
+ZOBOWIĄZANIA FUNDUSZU 
+(168,1) 
+(121,3) 
+Zobowiązania 
+(168,1) 
+(121,3) 
+Instrumenty pochodne (niewystandaryzowane instrumenty pochodne – swap procentowy (IRS) w PLN) 
+(2,2) 
+(25,0) 
+Zobowiązania z tytułu transakcji przy zobowiązaniu się Funduszu do odkupu (transakcje Sell Buy Back) * 
+(136,0) 
+(91,5) 
+Zobowiązania Funduszu z tytułu nabytych aktywów ** 
+(21,1) 
+(2,9) 
+Pozostałe zobowiązania Funduszu 
+(8,8) 
+(1,9) 
+AKTYWA NETTO FUNDUSZU 
+506,4 
+490,7 
+* 
+Transakcje Sell-Buy-Back polegają na sprzedaży posiadanych papierów wartościowych z jednoczesnym ustaleniem ich odkupu w przyszłości na ustalonych przez strony warunkach. 
+Na dzień 30 czerwca 2021 roku zobowiązania z tytułu transakcji SBB wynoszą 136,0 mln PLN. Przedmiotowa transakcja została zawarta na portfelu JSW Stabilizacyjny FIZ 28 czerwca 
+2021 roku. W tej dacie sprzedano 90 tys. sztuk obligacji IZ0823 z jednoczesnym ustaleniem parametrów odkupienia przez Fundusz tej samej liczby obligacji w dniu 13 lipca 2021 roku. 
+W wyniku zawartej transakcji SBB, w dniu 29 czerwca 2021 roku rachunek Funduszu został uznany kwotą 136,0 mln PLN, obligacje zaś zostały przekazane nabywcy. (Na dzień 
+31 grudnia 2020 roku zobowiązania z tytułu transakcji SBB wynosiły 91,5 mln PLN. Transakcja została zawarta na portfelu JSW Stabilizacyjny FIZ 18 grudnia 2020 roku. W tej dacie 
+sprzedano 63 tys. sztuk obligacji IZ0823 z jednoczesnym ustaleniem parametrów odkupienia przez Fundusz tej samej liczby obligacji w dniu 12 stycznia 2021 roku.) 
+** 
+Zobowiązania Funduszu z tytułu nabytych aktywów na dzień 30 czerwca 2021 roku dotyczą transakcji zawartej przez Fundusz w dniu 28 czerwca 2021 roku z datą realizacji pierwotnie 
+ustaloną na dzień 30 czerwca 2021 roku, która nie została dotrzymana przez kontrpartnera Funduszu i ostatecznie transakcja została rozliczona po dniu kończącym okres 
+sprawozdawczy oraz transakcji zawartej przez Fundusz w dniu 30 czerwca 2021 roku z datą realizacji przypadającą na dzień 2 lipca 2021 roku. 
+Ryzyko kredytowe 
+W przypadku aktywów finansowych wycenianych według zamortyzowanego kosztu (tj. depozytów oraz środków pieniężnych i ich ekwiwalentów) 
+Grupa klasyfikuje je do Stopnia 1 klasyfikacji pod kątem utraty ich wartości, ze względu na wysoką ocenę jakości kredytowej, a potencjalny odpis 
+jest nieistotny, stąd nie został ujęty. 
+Ryzyko kredytowe 
+30.06.2021 
+31.12.2020 
+ 
+ 
+ 
+Kwoty odzwierciedlające maksymalne narażenie na ryzyko kredytowe bez uwzględnienia 
+wartości godziwych dodatkowych zabezpieczeń: 
+674,5 
+612,0 
+- Środki na rachunkach bankowych 
+7,9 
+53,9 
+- Należności 
+25,9 
+0,1 
+- Składniki lokat notowane na aktywnym rynku (obligacje Skarbu Państwa) 
+439,3 
+338,1 
+- Składniki lokat nienotowane na aktywnym rynku 
+201,4 
+219,9 
+Tabela nie uwzględnia zobowiązań Funduszu i z tego względu nie uzgadnia się do tabeli prezentującej strukturę portfela aktywów netto Funduszu 
+na dzień kończący okres sprawozdawczy. 
+Za znaczącą koncentrację ryzyka kredytowego uznano poziom 10% udziału procentowego danego emitenta w aktywach ogółem. 
+Ryzyko kredytowe 
+30.06.2021 
+31.12.2020 
+Przypadki znaczącej koncentracji ryzyka kredytowego w poszczególnych kategoriach inwestycji 
+w podziale na kategorie bilansowe: 
+502,1 
+476,8 
+SANTANDER BANK POLSKA SA 
+- 
+26,2 
+Środki pieniężne 
+- 
+26,0 
+Instrumenty pochodne 
+- 
+0,2 
+BANK GOSPODARSTWA KRAJOWEGO 
+270,3 
+253,3 
+Obligacje notowane na aktywnym rynku 
+207,5 
+211,0 
+Obligacje nienotowane na aktywnym rynku 
+62,8 
+42,3 
+SKARB PAŃSTWA RZECZYPOSPOLITEJ POLSKIEJ 
+231,8 
+127,1 
+Obligacje notowane na aktywnym rynku 
+231,8 
+127,1 
+POLSKI FUNDUSZ ROZWOJU 
+- 
+70,2 
+Obligacje nienotowane na aktywnym rynku 
+- 
+70,2 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+31 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+7.5. 
+POZOSTAŁE DŁUGOTERMINOWE AKTYWA FINANSOWE 
+ 
+Nota 
+30.06.2021 
+31.12.2020 
+Długoterminowe aktywa finansowe - środki pieniężne i ich ekwiwalenty 
+Funduszu Likwidacji Zakładów Górniczych 
+9.1 
+366,0 
+348,4 
+wartość brutto 
+ 
+366,3 
+348,7 
+odpis aktualizujący 
+ 
+(0,3) 
+(0,3) 
+Udziały i akcje w jednostkach pozostałych 
+ 
+0,1 
+0,1 
+Należności finansowe 
+ 
+3,0 
+0,6 
+Pozostałe należności niefinansowe 
+ 
+29,3 
+29,6 
+RAZEM 
+ 
+398,4 
+378,7 
+Wszystkie długoterminowe aktywa finansowe wyrażone są w PLN. Wartość godziwa długoterminowych aktywów finansowych nie różni się istotnie 
+od ich wartości księgowej. 
+7.6. 
+ZAPASY . 
+ 
+30.06.2021 
+31.12.2020 
+Materiały 
+163,7 
+105,3 
+Produkcja w toku 
+13,6 
+7,7 
+Wyroby gotowe 
+523,5 
+756,2 
+Towary 
+9,0 
+11,1 
+RAZEM 
+709,8 
+880,3 
+Zapas wyrobów gotowych na dzień 30 czerwca 2021 roku obejmuje m.in. zapas 1 412,9 tys. ton węgla wyprodukowanego w Grupie o wartości 
+425,6 mln PLN oraz zapas 145,8 tys. ton koksu wyprodukowanego w Grupie o wartości 90,4 mln PLN (na dzień 31 grudnia 2020 roku: 2 180,0 tys. 
+ton węgla o wartości 629,9 mln PLN oraz 183,1 tys. ton koksu o wartości 122,4 mln PLN). 
+ODPISY AKTUALIZUJĄCE ZAPASY 
+Odpisy aktualizujące wartość zapasów przedstawia poniższa tabela: 
+ 
+ 
+2021 
+2020 
+STAN NA 1 STYCZNIA 
+225,1 
+149,0 
+Utworzenie odpisu 
+ 
+93,7 
+117,0 
+Wykorzystanie odpisu 
+ 
+(172,4) 
+(67,6) 
+Odwrócenie odpisu 
+ 
+(1,0) 
+(0,1) 
+STAN NA 30 CZERWCA 
+145,4 
+198,3 
+Utworzenie i odwrócenie kwot odpisu z tytułu utraty wartości zapasów zostało ujęte w wyniku finansowym bieżącego okresu sprawozdawczego. 
+Odpisy aktualizujące wartość zapasów ujęte w okresie 6 miesięcy zakończonym 30 czerwca 2021 roku dotyczą wyrobów gotowych oraz materiałów. 
+Aktualizacja zasad wyceny zapasów węgla metalurgicznego (koksowego) została opisana w Nocie 2.7. 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+32 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+7.7. 
+NALEŻNOŚCI HANDLOWE ORAZ POZOSTAŁE NALEŻNOŚCI 
+ 
+Nota 
+30.06.2021
+31.12.2020
+Należności handlowe brutto 
+9.1 
+859,5 
+732,4 
+- w tym należności z tytułu wyceny kontraktów długoterminowych 
+ 
+27,3 
+24,0 
+Odpis aktualizujący 
+ 
+(74,6) 
+(73,2) 
+Należności handlowe netto 
+ 
+784,9 
+659,2 
+Czynne rozliczenia międzyokresowe 
+ 
+118,3 
+25,3 
+Przedpłaty 
+ 
+2,2 
+1,2 
+Należności z tytułu podatków i ubezpieczeń społecznych 
+ 
+230,2 
+189,9 
+Pozostałe należności 
+ 
+48,5 
+22,8 
+NALEŻNOŚCI HANDLOWE ORAZ POZOSTAŁE NALEŻNOŚCI RAZEM 
+ 
+1 184,1 
+898,4 
+Wartość godziwa należności handlowych oraz pozostałych należności nie różni się istotnie od ich wartości księgowej. 
+ODPISY AKTUALIZUJĄCE NALEŻNOŚCI 
+Zmiany stanu odpisu aktualizującego należności handlowe przedstawia poniższa tabela: 
+ 
+2021 
+2020 
+STAN NA 1 STYCZNIA 
+73,2 
+80,4 
+Utworzenie odpisu 
+5,0 
+6,7 
+Wykorzystanie odpisu na należności nieściągalne 
+(0,5) 
+(25,3) 
+Odwrócenie kwot niewykorzystanych 
+(2,9) 
+(0,7) 
+Inne zmniejszenia 
+(0,2) 
+(0,5) 
+STAN NA 30 CZERWCA 
+74,6 
+60,6 
+7.8. 
+ŚRODKI PIENIĘŻNE I ICH EKWIWALENTY 
+ 
+Nota 
+30.06.2021 
+31.12.2020 
+Środki pieniężne w banku i w kasie 
+ 
+745,5 
+1 492,8 
+wartość brutto 
+ 
+745,5 
+1 492,9 
+odpis aktualizujący 
+ 
+- 
+(0,1) 
+Krótkoterminowe depozyty bankowe 
+ 
+281,1 
+104,5 
+wartość brutto 
+ 
+281,1 
+104,5 
+RAZEM 
+9.1 
+1 026,6 
+1 597,3 
+w tym: o ograniczonej możliwości dysponowania 
+ 
+49,7 
+60,3 
+Wartość środków pieniężnych o ograniczonej możliwości dysponowania wynosi na dzień 30 czerwca 2021 roku 49,7 mln PLN (31 grudnia 2020 roku: 
+60,3 mln PLN) i obejmuje głównie środki zgromadzone na rachunku VAT (w ramach split payment), wadia i zabezpieczenia należytego wykonania 
+umowy (Grupa w toku prowadzonej działalności na bieżąco reguluje płatności z powyższych tytułów). 
+Składniki środków pieniężnych i ich ekwiwalentów w skonsolidowanym sprawozdaniu z przepływów pieniężnych i skonsolidowanym sprawozdaniu 
+z sytuacji finansowej są tożsame. 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+33 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+7.9. 
+KAPITAŁ WŁASNY 
+7.9.1. 
+KAPITAŁ PODSTAWOWY 
+ 
+Liczba akcji
+(w tys. sztuk)
+Akcje zwykłe
+wartość nominalna
+Korekta
+hiperinflacyjna
+Razem
+Stan na 31 grudnia 2020 roku 
+117 412 
+587,0 
+664,9 
+1 251,9 
+Stan na 30 czerwca 2021 roku 
+117 412 
+587,0 
+664,9 
+1 251,9 
+Na dzień 30 czerwca 2021 roku kapitał zakładowy JSW wynosił 587 057 980,00 PLN i dzielił się na 117 411 596 akcji zwykłych 
+nieuprzywilejowanych co do głosu, w pełni opłaconych, o wartości nominalnej 5,00 PLN każda. Wszystkie akcje były wyemitowane i zarejestrowane 
+na dzień kończący okres sprawozdawczy. Ogólna liczba głosów wynikająca z wszystkich wyemitowanych przez JSW akcji odpowiada 117 411 596 
+głosom na Walnym Zgromadzeniu JSW. 
+7.9.2. 
+KAPITAŁ Z TYTUŁU WYCENY INSTRUMENTÓW FINANSOWYCH 
+Zmiana stanu kapitału z tytułu wyceny instrumentów finansowych: 
+ 
+30.06.2021 
+31.12.2020 
+STAN NA POCZĄTEK OKRESU 
+1,5 
+(20,6) 
+Zmiana wyceny instrumentów zabezpieczających 
+2,2 
+(26,2) 
+Zmiana wyceny instrumentów zabezpieczających odniesiona do wyniku finansowego okresu wynikająca 
+z realizacji pozycji zabezpieczanej 
+- 
+53,4 
+Podatek odroczony 
+(0,4) 
+(5,1) 
+STAN NA KONIEC OKRESU 
+3,3 
+1,5 
+7.9.3. 
+DYWIDENDY WYPŁACONE I ZAPROPONOWANE DO WYPŁATY 
+Wskaźnik dywidendy na akcję wylicza się jako iloraz dywidendy przypadającej na akcjonariuszy Jednostki dominującej oraz liczby akcji zwykłych 
+na dzień dywidendy. 
+ 
+Za okres 6 miesięcy 
+zakończony 30 czerwca 
+ 
+2021 
+2020 
+Dywidendy 
+- 
+- 
+Liczba akcji zwykłych na dzień dywidendy (szt.) 
+117 411 596 
+117 411 596 
+DYWIDENDA NA AKCJĘ (W PLN NA JEDNĄ AKCJĘ) 
+- 
+- 
+Pokrycie straty za rok 2020 
+W dniu 25 czerwca 2021 roku Zwyczajne Walne Zgromadzenie JSW podjęło decyzję w sprawie pokrycia straty netto w wysokości 1 541,1 mln PLN 
+oraz pokrycia straty netto powstałej w Innych całkowitych dochodach z wyceny programów określonych świadczeń pracowniczych po okresie 
+zatrudnienia w wysokości 13,6 mln PLN za rok obrotowy zakończony 31 grudnia 2020 roku w całości z kapitału zapasowego. 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+34 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+7.10. ZOBOWIĄZANIA Z TYTUŁU ŚWIADCZEŃ PRACOWNICZYCH 
+ 
+30.06.2021 
+31.12.2020 
+ZOBOWIĄZANIA Z TYTUŁU ŚWIADCZEŃ PRACOWNICZYCH UJĘTE W SPRAWOZDANIU Z SYTUACJI 
+FINANSOWEJ Z TYTUŁU: 
+ 
+ 
+– odpraw emerytalnych i rentowych 
+267,5 
+255,2 
+– nagród jubileuszowych 
+555,0 
+530,6 
+– rent wyrównawczych 
+147,8 
+143,7 
+– odpisów na ZFŚS dla emerytów i rencistów 
+22,9 
+22,7 
+– pozostałych świadczeń dla pracowników 
+170,4 
+123,3 
+RAZEM 
+1 163,6 
+1 075,5 
+w tym:
+ – część długoterminowa 
+919,9 
+886,7 
+ – część krótkoterminowa 
+243,7 
+188,8 
+Kwoty zobowiązań z tytułu świadczeń pracowniczych ujętych przez Jednostkę dominującą zostały na dzień 30 czerwca 2021 roku przeliczone 
+w związku z uchwałą Zarządu JSW w sprawie podwyżek płac dla pracowników z dniem 1 lipca 2021 roku o 3,4% oraz zmianą stopy dyskonta na 
+dzień 30 czerwca 2021 roku do poziomu 2,0% (na dzień 31 grudnia 2020 roku stopa dyskonta wynosiła 1,5%). 
+7.11. REZERWY 
+ 
+Likwidacja zakładu 
+górniczego 
+Szkody górnicze 
+Ochrona 
+środowiska 
+Pozostałe rezerwy 
+Razem 
+STAN NA 1 STYCZNIA 2021
+ 
+długoterminowe 
+707,8
+219,3
+79,0
+4,0
+1 010,1
+ 
+krótkoterminowe 
+22,6
+144,0
+25,5
+93,9
+286,0
+ 
+RAZEM 
+730,4
+363,3
+104,5
+97,9
+1 296,1
+Utworzenie dodatkowych rezerw 
+28,1
+17,0
+45,1
+Utworzenie rezerwy - koszt odsetkowy 
+5,5
+-
+-
+5,5
+Rozwiązanie niewykorzystanej rezerwy 
+-
+(2,5)
+-
+(18,1)
+(20,6)
+Wykorzystanie rezerw 
+(5,8)
+(44,1)
+(1,4)
+(4,4)
+(55,7)
+STAN NA 30 CZERWCA 2021 
+730,1
+344,8
+103,1
+92,4
+1 270,4
+ 
+długoterminowe 
+713,3
+222,9
+79,0
+3,8
+1 019,0
+ 
+krótkoterminowe 
+16,8
+121,9
+24,1
+88,6
+251,4
+LIKWIDACJA ZAKŁADU GÓRNICZEGO 
+Jednostka dominująca tworzy rezerwę na przyszłe koszty związane z likwidacją zakładu górniczego w oparciu o obowiązki wynikające z istniejących 
+przepisów prawa. Wartość rezerwy na likwidację zakładu górniczego na dzień 30 czerwca 2021 roku wynosi 730,1 mln PLN. Wysokość kosztów 
+likwidacji zakładu górniczego wyliczana jest na podstawie założeń odnośnie okresu żywotności kopalni, przewidywanej inflacji, długoterminowych 
+stóp dyskontowych oraz przewidywanych nominalnych kosztów likwidacji poszczególnych zakładów górniczych, które są określane przez służby 
+wewnętrzne. Wszelkie zmiany tych założeń wpływają na wartość księgową rezerwy. 
+SZKODY GÓRNICZE 
+Z uwagi na potrzebę usunięcia szkód górniczych będących skutkiem działalności eksploatacyjnej zakładów górniczych, Jednostka dominująca 
+tworzy rezerwę na szkody górnicze. Wartość prac niezbędnych dla usunięcia szkód górniczych na dzień 30 czerwca 2021 roku wynosi 
+344,8 mln PLN i wynika z oszacowanych kosztów napraw obiektów, budowli i odszkodowań będących następstwem wpływów dokonanej 
+eksploatacji górniczej. 
+OCHRONA ŚRODOWISKA 
+Na dzień 30 czerwca 2021 roku Jednostka dominująca posiada rezerwę na ochronę środowiska związaną z rekultywacją biologiczną terenów 
+na łączną kwotę 82,9 mln PLN. Na podstawie uzyskanych decyzji administracyjnych, aktualnych planów zagospodarowania przestrzennego oraz 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+35 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+obowiązującej ustawy o ochronie gruntów rolnych na JSW ciąży prawny obowiązek rekultywacji składowisk po zaprzestaniu działalności 
+przemysłowej. 
+Koksownie Grupy tworzą rezerwę na koszty remediacji terenów zanieczyszczonych. Zgodnie z aktami prawnymi, regulującymi sprawy 
+zanieczyszczenia gleb, ziemi i wód podziemnych, władający powierzchnią ziemi, na której występuje zanieczyszczenie jest obowiązany 
+do przeprowadzenia remediacji. Na dzień 30 czerwca 2021 roku ujęta w księgach rezerwa z tego tytułu wynosi 19,9 mln PLN. 
+POZOSTAŁE REZERWY 
+Pozostałe rezerwy obejmują głównie: 
+ 
+rezerwę na koszty likwidacji Koksowni Dębieńsko w wysokości 15,4 mln PLN, 
+ 
+rezerwę na podatek od nieruchomości w wysokości 9,7 mln PLN, 
+ 
+rezerwę na postępowanie sądowe wszczęte z powództwa Elektrometal przeciwko JSW o zapłatę należności. Łączna kwota rezerwy wynosi 
+6,3 mln PLN, 
+ 
+rezerwę utworzoną przez JSW KOKS na fundusz rekultywacyjny składowiska odpadów w wysokości 4,6 mln PLN, 
+ 
+rezerwę na zobowiązania z tytułu odszkodowań za bezumowne korzystanie z nieruchomości (grunty w byłej strefie ochronnej), na które jedna 
+ze spółek oddziałuje swoimi instalacjami. Okres odszkodowania zgodnie z przepisami kodeksu cywilnego wynosi 10 lat. W związku 
+z powyższym spółka ta ujmuje rezerwę na zobowiązania z tytułu odszkodowań. Na dzień 30 czerwca 2021 roku wartość rezerwy wynosi 
+1,8 mln PLN, 
+ 
+rezerwę na roszczenie Agencji Rozwoju Przemysłu S.A. oraz Towarzystwa Finansowego „Silesia” Sp. z o.o. wynikające z umowy sprzedaży 
+akcji Wałbrzyskich Zakładów Koksowniczych Victoria S.A. w związku z niewypełnieniem obowiązków wynikających z umowy (korekta ceny 
+sprzedaży w oparciu o wartość skumulowanej EBITDA WZK Victoria za lata 2016-2019) w kwocie 1,8 mln PLN, 
+ 
+rezerwę na postępowania sądowe od osób fizycznych w Jednostce dominującej w wysokości 17,6 mln PLN. 
+7.12. ZOBOWIĄZANIA HANDLOWE ORAZ POZOSTAŁE ZOBOWIĄZANIA 
+ 
+ 
+30.06.2021
+31.12.2020
+ZOBOWIĄZANIA FINANSOWE 
+Zobowiązania handlowe 
+937,7 
+902,8 
+Rozliczenia międzyokresowe bierne 
+28,6 
+14,6 
+Pozostałe zobowiązania o charakterze finansowym, w tym: 
+178,7 
+317,0 
+– zobowiązania inwestycyjne 
+120,9 
+250,9 
+– zobowiązania inne 
+57,8 
+66,1 
+RAZEM 
+1 145,0 
+1 234,4 
+ZOBOWIĄZANIA NIEFINANSOWE 
+Przychody przyszłych okresów 
+ 
+103,8 
+102,0 
+Pozostałe zobowiązania o charakterze niefinansowym, w tym: 
+ 
+1 457,3 
+1 215,8 
+– zobowiązania z tytułu ubezpieczeń społecznych i innych podatków 
+ 
+1 028,3 
+801,0 
+– zaliczki z tytułu dostaw 
+ 
+9,8 
+6,5 
+– wynagrodzenia 
+ 
+352,4 
+347,1 
+– pozostałe 
+ 
+66,8 
+61,2 
+RAZEM 
+ 
+1 561,1 
+1 317,8 
+RAZEM ZOBOWIĄZANIA HANDLOWE I POZOSTAŁE ZOBOWIĄZANIA 
+ 
+2 706,1 
+2 552,2 
+ 
+w tym: 
+ 
+ 
+ 
+ 
+długoterminowe 
+ 
+130,5 
+128,9 
+ 
+krótkoterminowe 
+ 
+2 575,6 
+2 423,3 
+W związku z wejściem w życie z dniem 1 kwietnia 2020 roku Ustawy z dnia 31 marca 2020 roku o zmianie ustawy o szczególnych rozwiązaniach 
+związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych 
+oraz niektórych innych ustaw Grupa korzysta z wprowadzonych rozwiązań pomocowych w zakresie prolongaty terminu płatności zobowiązań 
+cywilno – i publicznoprawnych. Na dzień 30 czerwca 2021 roku łączny stan zobowiązań z tytułu ubezpieczeń społecznych, których termin płatności 
+został odroczony wynosi 579,2 mln PLN . 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+36 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+8. 
+NOTY OBJAŚNIAJĄCE DO SKONSOLIDOWANEGO SPRAWOZDANIA Z PRZEPŁYWÓW PIENIĘŻNYCH 
+8.1. 
+WPŁYWY PIENIĘŻNE NETTO Z DZIAŁALNOŚCI OPERACYJNEJ 
+ 
+Nota 
+Za okres 6 miesięcy 
+zakończony 30 czerwca 
+ 
+2021 
+2020 
+Strata przed opodatkowaniem 
+ 
+(396,5) 
+(1 186,0) 
+Amortyzacja 
+4.2 
+600,9 
+546,0 
+Strata na sprzedaży rzeczowych aktywów trwałych 
+4.4 
+8,0 
+3,5 
+Odsetki i udziały w zyskach 
+ 
+25,5 
+32,6 
+Zmiana stanu pochodnych instrumentów finansowych 
+ 
+(3,6) 
+58,3 
+Zmiana stanu zobowiązań z tytułu świadczeń pracowniczych 
+ 
+71,3 
+73,3 
+Zmiana stanu rezerw 
+7.11 
+(25,7) 
+(25,6) 
+Zmiana stanu zapasów 
+7.6 
+170,5 
+47,4 
+Zmiana stanu należności handlowych oraz pozostałych należności 
+ 
+(265,3) 
+40,0 
+Zmiana stanu zobowiązań handlowych oraz pozostałych zobowiązań 
+ 
+281,2 
+(47,1) 
+Odpis aktualizujący rzeczowe aktywa trwałe, wartości niematerialne i prawo do użytkowania 
+składnika aktywów 
+7.3 
+67,8 
+426,9 
+Pozostałe przepływy 
+ 
+(23,0) 
+(11,4) 
+WPŁYWY PIENIĘŻNE Z DZIAŁALNOŚCI OPERACYJNEJ 
+ 
+511,1 
+(42,1) 
+Uzgodnienie zmiany stanu pochodnych instrumentów finansowych w skonsolidowanym sprawozdaniu z przepływów pieniężnych: 
+ 
+ 
+Za okres 6 miesięcy 
+zakończony 30 czerwca 
+ 
+2021 
+2020 
+Zmiana stanu pochodnych instrumentów finansowych ze skonsolidowanego sprawozdania 
+z sytuacji finansowej 
+ 
+(9,4) 
+56,5 
+Zyski/(straty) z wyceny instrumentów zabezpieczających w innych całkowitych dochodach - 
+przeniesienie do wyniku finansowego w związku z realizacją pozycji zabezpieczanej 
+ 
+5,8 
+1,8 
+ZMIANA STANU POCHODNYCH INSTRUMENTÓW FINANSOWYCH 
+W SKONSOLIDOWANYM SPRAWOZDANIU Z PRZEPŁYWÓW PIENIĘŻNYCH 
+ 
+(3,6) 
+58,3 
+Uzgodnienie zmiany stanu zobowiązań z tytułu świadczeń pracowniczych w skonsolidowanym sprawozdaniu z przepływów pieniężnych: 
+ 
+Nota 
+Za okres 6 miesięcy 
+zakończony 30 czerwca 
+ 
+2021 
+2020 
+Zmiana stanu zobowiązań z tytułu świadczeń pracowniczych ze skonsolidowanego 
+sprawozdania z sytuacji finansowej 
+7.10 
+88,1 
+86,3 
+Straty aktuarialne ujęte w innych całkowitych dochodach 
+ 
+(16,8) 
+(13,0) 
+ZMIANA STANU ZOBOWIĄZAŃ Z TYTUŁU ŚWIADCZEŃ PRACOWNICZYCH 
+W SKONSOLIDOWANYM SPRAWOZDANIU Z PRZEPŁYWÓW PIENIĘŻNYCH 
+ 
+71,3 
+73,3 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+37 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+Uzgodnienie zmiany stanu należności handlowych oraz pozostałych należności w skonsolidowanym sprawozdaniu z przepływów pieniężnych: 
+ 
+Nota 
+Za okres 6 miesięcy 
+zakończony 30 czerwca 
+ 
+2021 
+2020 
+Zmiana stanu należności handlowych oraz pozostałych należności ze skonsolidowanego 
+sprawozdania z sytuacji finansowej 
+7.7 
+(285,7) 
+(71,9) 
+Korekta o nieotrzymane należności z tytułu umorzenia certyfikatów inwestycyjnych 
+prezentowanych jako inwestycje w portfel aktywów FIZ 
+ 
+- 
+100,8 
+Korekta o nieotrzymane należności z tytułu sprzedaży środków trwałych i wartości 
+niematerialnych 
+ 
+20,0 
+8,5 
+Pozostałe 
+ 
+0,4 
+2,6 
+ZMIANA STANU NALEŻNOŚCI HANDLOWYCH ORAZ POZOSTAŁYCH NALEŻNOŚCI 
+W SKONSOLIDOWANYM SPRAWOZDANIU Z PRZEPŁYWÓW PIENIĘŻNYCH 
+ 
+(265,3) 
+40,0 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+38 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+9. 
+NOTY OBJAŚNIAJĄCE DO INSTRUMENTÓW FINANSOWYCH 
+9.1. 
+KATEGORIE I KLASY INSTRUMENTÓW FINANSOWYCH 
+AKTYWA FINANSOWE: 
+Klasy instrumentów finansowych 
+Nota 
+Kategorie instrumentów finansowych 
+Zamortyzowany 
+koszt 
+Wartość godziwa 
+ rozliczana przez wynik 
+finansowy 
+Instrumenty 
+zabezpieczające 
+Razem 
+NA DZIEŃ 30 CZERWCA 2021 
+ 
+ 
+Należności FIZ 
+7.4 
+25,9 
+- 
+- 
+25,9 
+ wartość brutto 
+ 
+25,9 
+- 
+- 
+25,9 
+Listy zastawne 
+7.4 
+- 
+16,0 
+- 
+16,0 
+Dłużne papiery wartościowe 
+7.4 
+172,6 
+439,3 
+- 
+611,9 
+Pochodne instrumenty FIZ – swap procentowy 
+(IRS) w PLN 
+7.4 
+12,8 
+- 
+- 
+12,8 
+Środki pieniężne i ich ekwiwalenty FIZ 
+7.4 
+7,9 
+- 
+- 
+7,9 
+ wartość brutto 
+ 
+7,9 
+- 
+- 
+7,9 
+Należności finansowe długoterminowe 
+7.5 
+3,0 
+- 
+- 
+3,0 
+ wartość brutto 
+ 
+3,0 
+- 
+- 
+3,0 
+Udziały w innych jednostkach 
+ 
+- 
+0,1 
+- 
+0,1 
+Należności handlowe 
+7.7 
+784,9 
+- 
+- 
+784,9 
+ wartość brutto 
+ 
+859,5 
+- 
+- 
+859,5 
+ odpisy aktualizujące 
+ 
+(74,6) 
+- 
+- 
+(74,6) 
+Pochodne instrumenty finansowe 
+ 
+- 
+4,2 
+4,1 
+8,3 
+Lokaty bankowe 
+ 
+3,2 
+- 
+- 
+3,2 
+ wartość brutto 
+ 
+3,2 
+- 
+- 
+3,2 
+Środki pieniężne i ich ekwiwalenty * 
+7.5, 7.8
+1 392,6 
+- 
+- 
+1 392,6 
+ wartość brutto 
+ 
+1 392,9 
+- 
+- 
+1 392,9 
+ odpisy aktualizujące 
+ 
+(0,3) 
+- 
+- 
+(0,3) 
+RAZEM 
+2 402,9 
+459,6 
+4,1 
+2 866,6 
+* 
+Pozycja obejmuje również środki zgromadzone w celu finansowania likwidacji zakładu górniczego, które zostały opisane w Nocie 7.5. 
+Żaden z istotnych nieprzeterminowanych składników aktywów finansowych nie był renegocjowany w ciągu ostatniego roku. 
+Klasy instrumentów finansowych 
+Nota 
+Kategorie instrumentów finansowych 
+Razem 
+Zamortyzowany 
+koszt 
+Wartość godziwa 
+rozliczana przez wynik 
+finansowy 
+Instrumenty 
+zabezpieczające 
+NA DZIEŃ 31 GRUDNIA 2020 
+ 
+ 
+Należności FIZ 
+7.4 
+0,1 
+- 
+- 
+0,1 
+ wartość brutto 
+ 
+0,1 
+- 
+- 
+0,1 
+Listy zastawne 
+7.4 
+- 
+30,6 
+- 
+30,6 
+Dłużne papiery wartościowe 
+7.4 
+189,3 
+338,1 
+- 
+527,4 
+Środki pieniężne i ich ekwiwalenty FIZ 
+7.4 
+53,9 
+- 
+- 
+53,9 
+ wartość brutto 
+ 
+53,9 
+- 
+- 
+53,9 
+Należności finansowe długoterminowe 
+7.5 
+0,6 
+- 
+- 
+0,6 
+ wartość brutto 
+ 
+0,6 
+- 
+- 
+0,6 
+Udziały w innych jednostkach 
+ 
+- 
+0,1 
+- 
+0,1 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+39 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+Klasy instrumentów finansowych 
+Nota 
+Kategorie instrumentów finansowych 
+Razem 
+Zamortyzowany 
+koszt 
+Wartość godziwa 
+rozliczana przez wynik 
+finansowy 
+Instrumenty 
+zabezpieczające 
+Należności handlowe 
+7.7 
+659,2 
+- 
+- 
+659,2 
+ wartość brutto 
+ 
+732,4 
+- 
+- 
+732,4 
+ odpisy aktualizujące 
+ 
+(73,2) 
+- 
+- 
+(73,2) 
+Pochodne instrumenty finansowe 
+ 
+- 
+7,4 
+0,4 
+7,8 
+Lokaty bankowe 
+ 
+5,2 
+- 
+- 
+5,2 
+ wartość brutto 
+ 
+5,2 
+- 
+- 
+5,2 
+Środki pieniężne i ich ekwiwalenty * 
+7.5, 7.8
+1 945,7 
+- 
+- 
+1 945,7 
+ wartość brutto 
+ 
+1 946,1 
+- 
+- 
+1 946,1 
+ odpisy aktualizujące 
+ 
+(0,4) 
+- 
+- 
+(0,4) 
+RAZEM 
+2 854,0 
+376,2 
+0,4 
+3 230,6 
+* 
+Pozycja obejmuje również środki zgromadzone w celu finansowania likwidacji zakładu górniczego, które zostały opisane w Nocie 7.5. 
+ZOBOWIĄZANIA FINANSOWE: 
+Klasy instrumentów finansowych 
+Nota 
+Kategorie instrumentów finansowych 
+Razem 
+Zamortyzowany 
+koszt 
+Wartość godziwa 
+rozliczana przez 
+wynik finansowy
+Instrumenty 
+zabezpieczające 
+Poza zakresem 
+MSSF 9 
+NA DZIEŃ 30 CZERWCA 2021 
+ 
+Kredyty i pożyczki 
+6.1 
+1 722,3 
+- 
+268,7 
+- 
+1 991,0 
+Pochodne instrumenty finansowe 
+ 
+- 
+0,1 
+0,1 
+- 
+0,2 
+Pochodne instrumenty FIZ – swap procentowy 
+(IRS) w PLN 
+7.4 
+2,2 
+- 
+- 
+- 
+2,2 
+Zobowiązania z tytułu transakcji przy 
+zobowiązaniu się Funduszu do odkupu 
+(transakcje Sell Buy Back) 
+7.4 
+136,0 
+- 
+- 
+- 
+136,0 
+Zobowiązania Funduszu z tytułu nabytych 
+aktywów 
+7.4 
+21,1 
+- 
+- 
+- 
+21,1 
+Pozostałe zobowiązania FIZ 
+7.4 
+8,8 
+- 
+- 
+- 
+8,8 
+Zobowiązania z tytułu leasingu 
+6.2 
+- 
+- 
+- 
+599,4 
+599,4 
+Zobowiązania handlowe oraz pozostałe 
+zobowiązania o charakterze finansowym 
+7.12 
+1 145,0 
+- 
+- 
+- 
+1 145,0 
+RAZEM 
+ 
+3 035,4 
+0,1 
+268,8 
+599,4 
+3 903,7 
+ 
+Klasy instrumentów finansowych 
+Nota 
+Kategorie instrumentów finansowych 
+Razem 
+Zamortyzowany 
+koszt 
+Wartość godziwa 
+rozliczana przez 
+wynik finansowy
+Instrumenty 
+zabezpieczające 
+Poza zakresem 
+MSSF 9 
+NA DZIEŃ 31 GRUDNIA 2020 
+ 
+Kredyty i pożyczki 
+6.1 
+1 729,1 
+- 
+278,7 
+- 
+2 007,8 
+Pochodne instrumenty finansowe 
+ 
+- 
+6,4 
+2,7 
+- 
+9,1 
+Pochodne instrumenty FIZ – swap procentowy 
+(IRS) w PLN 
+7.4 
+25,0 
+- 
+- 
+- 
+25,0 
+Zobowiązania z tytułu transakcji przy 
+zobowiązaniu się Funduszu do odkupu 
+(transakcje Sell Buy Back) 
+7.4 
+91,5 
+- 
+- 
+- 
+91,5 
+Zobowiązania Funduszu z tytułu nabytych 
+aktywów 
+7.4 
+2,9 
+- 
+- 
+- 
+2,9 
+Pozostałe zobowiązania FIZ 
+7.4 
+1,9 
+- 
+- 
+- 
+1,9 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+40 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+Klasy instrumentów finansowych 
+Nota 
+Kategorie instrumentów finansowych 
+Razem 
+Zamortyzowany 
+koszt 
+Wartość godziwa 
+rozliczana przez 
+wynik finansowy
+Instrumenty 
+zabezpieczające 
+Poza zakresem 
+MSSF 9 
+Zobowiązania z tytułu leasingu 
+6.2 
+- 
+- 
+- 
+632,9 
+632,9 
+Zobowiązania handlowe oraz pozostałe 
+zobowiązania o charakterze finansowym 
+7.12 
+1 234,4 
+- 
+- 
+- 
+1 234,4 
+RAZEM 
+ 
+3 084,8 
+6,4 
+281,4 
+632,9 
+4 005,5 
+Na dzień 30 czerwca 2021 roku oraz na dzień 31 grudnia 2020 roku wartość godziwa aktywów i zobowiązań finansowych wycenianych według 
+zamortyzowanego kosztu nie odbiega istotnie od ich wartości księgowej. 
+9.2. 
+HIERARCHIA WARTOŚCI GODZIWEJ 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 roku Grupa nie dokonywała zmian w sposobie (metodzie) ustalania wartości godziwej 
+instrumentów finansowych wycenianych w wartości godziwej (metody wyceny do wartości godziwej opisano w Nocie 9.2. Skonsolidowanego 
+sprawozdania finansowego Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A. za rok obrotowy zakończony 31 grudnia 2020 roku). 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 roku nie wystąpiły przesunięcia instrumentów finansowych pomiędzy poziomami hierarchii 
+wartości godziwej, ani też nie dokonywano zmiany klasyfikacji instrumentów finansowych. 
+Na dzień kończący okres sprawozdawczy Grupa posiadała pochodne instrumenty finansowe, inwestycje w portfel aktywów FIZ oraz udziały w innych 
+jednostkach zaliczane do poziomu 2 hierarchii wartości godziwej. 
+Istotne aktywa i zobowiązania finansowe Grupy wyceniane według wartości godziwej: 
+ 
+30.06.2021
+Poziom 2 
+31.12.2020
+Poziom 2 
+AKTYWA FINANSOWE 
+ 
+ 
+Inwestycje w portfel aktywów FIZ 
+674,5 
+612,0 
+Pochodne instrumenty finansowe, w tym: 
+8,3 
+7,8 
+aktywa finansowe – pochodne instrumenty zabezpieczające 
+4,1 
+0,4 
+ZOBOWIĄZANIA FINANSOWE 
+ 
+ 
+Zobowiązania FIZ 
+168,1 
+121,3 
+Pochodne instrumenty finansowe, w tym: 
+0,2 
+9,1 
+zobowiązania finansowe – pochodne instrumenty zabezpieczające 
+0,1 
+2,7 
+9.3. 
+ZARZĄDZANIE RYZYKIEM FINANSOWYM 
+9.3.1. 
+CZYNNIKI RYZYKA FINANSOWEGO 
+Działalność prowadzona przez Grupę naraża ją na następujące ryzyka finansowe: ryzyko rynkowe (w tym: ryzyko cenowe, ryzyko zmiany 
+kursów walut oraz ryzyko zmiany przepływów pieniężnych w wyniku zmian stóp procentowych), ryzyko kredytowe oraz ryzyko utraty 
+płynności. 
+Na moment sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego sytuacja finansowa Grupy wskazuje 
+na pogorszenie się podstawowych mierników płynności, nie mniej jednak nadal pozostaje stabilna. Kapitał pracujący wykazuje wartości ujemne, 
+czego główną przyczyną jest spadek poziomu aktywów obrotowych (w tym głównie środków pieniężnych), wzrost salda zobowiązań 
+krótkoterminowych (w tym zobowiązań handlowych i kredytowych). Niemniej jednak należy zaznaczyć, iż Grupa dysponuje środkami pieniężnymi 
+zgromadzonymi w Funduszu Stabilizacyjnym („FIZ”), które w ujęciu bilansowym prezentowane są jako długoterminowe aktywa, a zatem nie 
+są uwzględniane w kalkulacji klasycznych mierników płynności, w tym kapitału pracującego. Środki pieniężne ulokowane w portfel aktywów 
+FIZ stanowią zabezpieczenie potrzeb płynnościowych i inwestycyjnych w okresie dekoniunktury. Ponadto, aktualne projekcje finansowe opisujące 
+sytuację finansową w nadchodzących 12 miesiącach jednoznacznie wskazują na poprawę przepływów pieniężnych na poziomie operacyjnym oraz 
+wyniku finansowego, jako konsekwencja pozytywnych trendów rynkowych na rynku węgla metalurgicznego (koksowego) i stali odnotowanych 
+końcem II kwartału 2021 roku oraz utrzymujących się na dzień sporządzenia niniejszego sprawozdania. Jednocześnie okres generowania ujemnych 
+przepływów pieniężnych przez Jednostkę dominująca na poziomie działalności operacyjnej i finansowej zabezpieczony jest mechanizmem 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+41 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+Cash Poolingu Rzeczywistego („CPR”), a co za tym idzie wdrożonymi w poprzednich latach praktykami zarządzania gotówką na poziomie Grupy. 
+Na dzień sporządzenia niniejszego sprawozdania mechanizm CPR zasilany jest w znaczącej mierze wpływami wygenerowanymi w segmencie 
+koksowym. Projekcje finansowe zakładają również sukcesywną spłatę zobowiązań z tytułu zaciągniętego finansowania oraz wobec ZUS. Mając 
+powyższe na uwadze Zarząd JSW zakłada kontynuację działalności na okres co najmniej 12 miesięcy. 
+(a) 
+RYZYKO CENOWE 
+Ryzyko cen produktów 
+Sytuacja na rynku węgla metalurgicznego (koksowego) i koksu jest powiązana z rynkiem stali i wyrobów hutniczych, cykle koniunkturalne pokazują 
+wahania cen w tych sektorach. Ceny węgla metalurgicznego (koksowego) są mocno uzależnione od popytu na globalnym rynku hutniczo-stalowym, 
+natomiast ceny węgla do celów energetycznych są dodatkowo uzależnione również od innych producentów krajowych. Wzrost znaczenia indeksów 
+cenowych i zanik tradycyjnego benchmarku dla węgla metalurgicznego (koksowego) uzgadnianego przed okresem dostaw otwierają możliwości 
+stosowania różnych okresów rozliczeniowych i cen referencyjnych. Może to prowadzić do większych wahań i okresowych różnic cenowych, niż miało 
+to miejsce w przypadku oparcia negocjacji o jednolity kwartalny benchmark. W JSW ceny węgla metalurgicznego (koksowego) ustalane są głównie 
+w oparciu o dwie metody: 
+ 
+z wykorzystaniem ceny referencyjnej określanej według metody Nippon Steel. Nippon Steel – cena kwartalna: średnia z dwóch miesięcy 
+danego kwartału i miesiąca poprzedzającego dla dwóch indeksów: S&P Global Platts Premium Low Vol FOB Australia oraz TSI Premium 
+Hard FOB Australia, 
+ 
+metoda wyznaczania cen (Q-1) - ceny kwartalne wyliczane na podstawie średniej notowań z poprzedniego kwartału The Steel Index 
+(TSI) – cena referencyjna węgla koksowego klasy premium hard HCC wykorzystywana przy ustalaniu kontraktów terminowych. 
+Procesy zmian właścicielskich w hutnictwie europejskim wymuszają większą aktywność rynkową, efektem której jest zwiększenie dywersyfikacji 
+sprzedaży. W przypadku zmian cen na rynku oraz dla zapewnienia stabilnej alokacji wolumenów na rynku, Grupa minimalizuje ich wpływ na sytuację 
+finansową podejmując takie działania jak: 
+ 
+optymalizacja wolumenu produkcji, z uwzględnieniem wymagań ilościowych i jakościowych kontrahentów (stabilność parametrów oraz 
+ich dotrzymywanie wpływa na stabilizację przychodów Grupy oraz możliwość uzyskiwania wyższych relacji cen węgli JSW w stosunku 
+do cen referencyjnych), 
+ 
+optymalizacja struktury produkcji, celem zwiększenia efektywności sprzedaży produktów (zwiększenie produkcji produktów 
+o korzystniejszej cenie i znajdujących zbyt w danym okresie – optymalizacja struktury sprzedaży), 
+ 
+optymalizacja kierunków sprzedaży produktów (m.in. wykorzystanie renty geograficznej, współpraca w oparciu o umowy wieloletnie, 
+co przekłada się na stabilizację przychodów). 
+Dekoniunktura w gospodarkach globalnych, w szczególności w branży stalowej i energetycznej lub zdarzenia mogące skutkować znaczącym 
+spadkiem popytu na węgiel i koks mogą mieć niekorzystny wpływ na działalność, wyniki i sytuację finansową Grupy. 
+Ograniczenie działalności gospodarczej może przejściowo prowadzić do ograniczenia zapotrzebowania i znacznych spadków cen surowców, w tym 
+węgla metalurgicznego (koksowego), energetycznego i koksu. 
+Aby zareagować na zmianę cen w odpowiednim momencie Grupa prowadzi stały monitoring rynków, ich analizę oraz śledzi na bieżąco trendy 
+cenowe na rynku węgla, koksu, stali i energii elektrycznej oraz frachtów kolejowych i morskich. Prowadzona jest również analiza możliwości 
+i warunków alternatywnego pozyskania przez odbiorców węgla lub koksu z rynku krajowego lub z rynków zagranicznych, w tym głównie zamorskich. 
+Warunki kontraktów długoterminowych umożliwiają okresowe negocjacje cen. Realizując cele zarządzania ryzykiem Grupa działa w ramach zasad 
+opisanych w Procedurze Handlowej Grupy Kapitałowej JSW oraz w ramach zasad Komitetu Ryzyka Finansowego Grupy Kapitałowej JSW, który 
+monitoruje wpływ walut z dostaw węgla, koksu i węglopochodnych. 
+Nadrzędnym celem przyjętych w JSW zasad zarządzania ryzykiem cen węgla metalurgicznego (koksowego) jest zmniejszenie wpływu fluktuacji 
+cen węgla metalurgicznego (koksowego) na generowane przez Grupę przepływy pieniężne do akceptowalnego poziomu. Grupa zakłada, 
+że wskutek stosowania zasad zarządzania ryzykiem cen węgla metalurgicznego (koksowego) opisanych w Polityce Zarządzania Ryzykiem Cen 
+Węgla Koksowego zwiększane będzie prawdopodobieństwo realizacji zaplanowanych przepływów pieniężnych oraz stabilność ich planowanego 
+wzrostu w dłuższym okresie. 
+Proces zarządzania ryzykiem cen węgla metalurgicznego (koksowego) realizowany jest z zachowaniem rozdziału ról i obowiązków dotyczących 
+funkcji wykonawczych (powiązanych z zawieraniem transakcji pochodnych) od funkcji kontrolnych, nadzorczych czy zarządczych. W I półroczu 
+2021 roku Grupa nie wdrożyła transakcji pochodnych zabezpieczających ryzyko zmiany ceny węgla metalurgicznego (koksowego). 
+W okresie I półrocza 2021 roku pomimo widocznego ożywienia sektora stalowego, przywrócenia do pracy pełnych zdolności produkcyjnych wielkich 
+pieców, najwyższych od lat cen wyrobów stalowych oraz wzrostów notowań większości surowców, notowania australijskich węgli koksowych 
+do połowy maja 2021 roku pozostawały na niskim poziomie około 110 USD. Oprócz braku eksportu do Chin na utrzymywanie się niskich cen węgla 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+42 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+australijskiego wpływała słaba aktywność odbiorców indyjskich, gdzie z powodu zaostrzenia sytuacji pandemicznej opóźniony zostały proces 
+uzupełniania zapasów przed okresem monsunowym. Odmienna sytuacja występowała na rynku amerykańskim. Konieczność poszukiwania 
+alternatywnych źródeł zaopatrzenia dla Chin na ograniczonym rynku zwiększyła znacząco zapotrzebowanie na węgle amerykańskie, 
+co doprowadziło do znaczącego wzrostu ich cen i powstania niespotykanych wcześniej dysproporcji w stosunku do węgli australijskich. 
+Od połowy maja 2021 roku w wyniku wyraźnego wzrostu popytu przy ograniczeniach podaży nastąpił sukcesywny wzrost notowań węgli koksowych. 
+Dynamika wzrostu cen węgli australijskich była znacznie wyższa niż cen węgli amerykańskich, co wpłynęło na znaczące zmniejszenie różnicy 
+notowań tych węgli. Na koniec czerwca 2021 roku wartość indeksu TSI Premium Hard Coking Coal wyniosła 194 USD. 
+Powyższe uwarunkowania rynkowe miały przełożenie w zrealizowanych cenach węgla metalurgicznego (koksowego) przez JSW. Uzyskana średnia 
+cena węgla ogółem w okresie 6 miesięcy zakończonym 30 czerwca 2021 roku wynosiła 359,19 PLN/t i była niższa od osiągniętej w analogicznym 
+okresie ubiegłego roku o 13,7%. Cena węgla do celów energetycznych spadła o 11,5%, a węgla metalurgicznego (koksowego) o 14,5%. Pomimo 
+niższych cen węgla zwiększono wolumeny sprzedaży do kluczowych odbiorców zewnętrznych (wzrost o niespełna 23%) i uzyskano przychody 
+wyższe o 6%. 
+Bardzo dobra koniunktura na rynku koksu, wysokie relacje cen koksu do cen węgla metalurgicznego (koksowego) z wykorzystaniem pełnych 
+zdolności produkcyjnych przyczyniły się do sprzedaży koksu w porównaniu do I półrocza roku ubiegłego wyższej o 11,8%, wyższej o 21,7% ceny 
+i wzrostu przychodów segmentu koksowego o 38,6%. 
+(b) 
+RYZYKO ZMIANY KURSÓW WALUT 
+Grupa jest narażona na znaczące ryzyko zmiany kursów walut wynikające z ekspozycji walutowej, które może wpłynąć na wysokość przyszłych 
+przepływów pieniężnych oraz wynik finansowy. Głównym źródłem ryzyka walutowego w Grupie jest sprzedaż produktów: 
+ 
+denominowana w EUR i USD, 
+ 
+indeksowana do EUR i USD. 
+Mając na celu eliminowanie ryzyka kursowego Grupa w I półroczu 2021 roku zawierała transakcje Fx Forward (zewnętrzne), zgodnie z przyjętymi 
+przez Zarząd JSW i Komitet Ryzyka Finansowego współczynnikami zabezpieczeń. Okres zapadalności zawartych transakcji nie przekraczał 
+18 miesięcy. 
+W ramach zarządzania ryzykiem walutowym Grupa stosuje również hedging naturalny tj. zaciąga kredyty oraz w niewielkim stopniu dokonuje 
+zakupów materiałów, usług lub dóbr inwestycyjnych w walutach obcych w których osiąga przychody. 
+Grupa stosuje rachunkowość zabezpieczeń przepływów pieniężnych. Co do zasady, do rachunkowości zabezpieczeń wyznaczane są transakcje 
+pochodne zabezpieczające ekspozycję denominowaną, których termin zapadalności jest dłuższy niż sześć miesięcy. W momencie ustanowienia 
+zabezpieczenia Grupa formalnie wyznacza i dokumentuje powiązanie zabezpieczające. Skuteczność stosowanych przez Grupę zabezpieczających 
+instrumentów finansowych jest na bieżąco monitorowana i podlega ciągłej ocenie. 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 roku Grupa wyznaczyła do rachunkowości zabezpieczeń transakcje Fx Forward o nominale 
+22,0 mln EUR i 25,0 mln USD. 
+Według stanu na 30 czerwca 2021 roku Grupa posiadała czynne transakcje pochodne Fx Forward o łącznym nominale 80,8 mln EUR 
+i 70,7 mln USD, z czego 34,0 mln EUR i 25,0 mln USD stanowią transakcje zabezpieczające w rozumieniu rachunkowości zabezpieczeń. Transakcje 
+pochodne stanowią zabezpieczenie wpływów ze sprzedaży produktów i towarów, które Grupa spodziewa się otrzymać w okresie do czerwca 
+2022 roku. 
+Część skuteczna zmiany wartości godziwej transakcji zabezpieczających w kwocie 2,2 mln PLN została odniesiona w inne całkowite dochody. 
+Część nieskuteczna zmiany wartości godziwej transakcji zabezpieczających oraz zmiana wartości godziwej instrumentów pochodnych 
+nie wyznaczonych do rachunkowości zabezpieczeń w wysokości 3,6 mln PLN została odniesiona w wynik finansowy okresu. 
+Analiza wrażliwości na zmiany kursów walutowych: 
+ 
+ 
+Kurs EUR/PLN 
+Kurs USD/PLN 
+30.06.2021 
+31.12.2020 
+30.06.2021 
+31.12.2020 
+wynik netto
+inne 
+całkowite 
+dochody 
+wynik netto
+inne 
+całkowite 
+dochody 
+wynik netto
+inne 
+całkowite 
+dochody 
+wynik netto
+inne 
+całkowite 
+dochody 
+zmiana % 
+5,2% 
+5,9% 
+8,6% 
+10,1% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zmiana wartości aktywów finansowych 
+15,6 
+- 
+13,0 
+- 
+10,4 
+- 
+7,1 
+- 
+Zmiana wartości zobowiązań finansowych 
+(11,5) 
+(7,9) 
+(12,6) 
+(9,3) 
+(16,6) 
+(31,3) 
+(23,8) 
+(30,5) 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+43 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+ 
+ 
+Kurs EUR/PLN 
+Kurs USD/PLN 
+30.06.2021 
+31.12.2020 
+30.06.2021 
+31.12.2020 
+wynik netto
+inne 
+całkowite 
+dochody 
+wynik netto
+inne 
+całkowite 
+dochody 
+wynik netto
+inne 
+całkowite 
+dochody 
+wynik netto
+inne 
+całkowite 
+dochody 
+Wpływ na wynik przed opodatkowaniem 
+lub inne całkowite dochody 
+4,1 
+(7,9) 
+0,4 
+(9,3) 
+(6,2) 
+(31,3) 
+(16,7) 
+(30,5) 
+Efekt podatkowy 
+(0,8) 
+1,5 
+(0,1) 
+1,8 
+1,2 
+5,9 
+3,2 
+5,8 
+WPŁYW NA WYNIK NETTO 
+3,3 
+- 
+0,3 
+- 
+(5,0) 
+- 
+(13,5) 
+- 
+WPŁYW NA INNE CAŁKOWITE DOCHODY 
+- 
+(6,4) 
+- 
+(7,5) 
+- 
+(25,4) 
+- 
+(24,7) 
+Przy spadku kursów walutowych (odchylenie o minus %) analiza wrażliwości przyjmuje identyczne wartości jak w powyższej tabeli, tylko ze znakiem 
+przeciwnym. 
+W okresie I półrocza 2021 roku średni kurs EUR/PLN wyniósł 4,54 i był o ok. 3% wyższy od notowanego w analogicznym okresie roku poprzedniego. 
+Średni kurs USD/PLN wyniósł 3,77 w porównaniu z 4,01 w I półroczu roku poprzedniego. Ze względu na posiadaną przez Grupę pozycję walutową, 
+osłabienie krajowej waluty w stosunku do EUR wpływa pozytywnie na rentowność eksportu, a także pozycję konkurencyjną na krajowym rynku. 
+Ponadto spółki Grupy posiadają należności oraz zobowiązania handlowe w walutach obcych. 
+(c) 
+RYZYKO ZMIANY PRZEPŁYWÓW PIENIĘŻNYCH W WYNIKU ZMIAN STÓP PROCENTOWYCH 
+Głównym źródłem ryzyka stopy procentowej w Grupie są: 
+ 
+inwestycje w portfel aktywów FIZ, 
+ 
+środki pieniężne i ich ekwiwalenty oraz lokaty, 
+ 
+zobowiązania z tytułu kredytów i pożyczek, 
+ 
+zobowiązania z tytułu leasingu. 
+Grupa nie wykorzystuje instrumentów pochodnych w celu zabezpieczania się przed ryzykiem zmiany stóp procentowych. 
+W poniższych tabelach zaprezentowano potencjalny wpływ na wynik netto zmiany stóp procentowych. Analiza obejmuje wyłącznie pozycje 
+instrumentów finansowych narażonych na ryzyko zmiany stopy procentowej według stanu na dzień kończący okres sprawozdawczy. Przyjęty 
+w I półroczu 2021 roku poziom wahań stóp procentowych odzwierciedla hipotetyczną zmianę poziomu stopy referencyjnej w PLN. 
+Wpływ wzrostu stopy procentowej: 
+ 
+Stopa procentowa PLN 
+Stopa procentowa USD 
+ 
+30.06.2021 
+31.12.2020 
+30.06.2021 
+31.12.2020 
+Zmienność w punktach bazowych 
++ 50pb 
+Zmiana wartości aktywów finansowych 
+5,8 
+4,7 
+- 
+- 
+Zmiana wartości zobowiązań finansowych 
+(3,0) 
+(3,2) 
+(1,4) 
+(1,4) 
+Wpływ na wynik przed opodatkowaniem 
+2,8 
+1,5 
+(1,4) 
+(1,4) 
+Efekt podatkowy 
+(0,5) 
+(0,3) 
+0,3 
+0,3 
+WPŁYW NA WYNIK NETTO 
+2,3 
+1,2 
+(1,1) 
+(1,1) 
+Wpływ spadku stopy procentowej: 
+ 
+Stopa procentowa PLN 
+Stopa procentowa USD 
+ 
+30.06.2021 
+31.12.2020 
+30.06.2021 
+31.12.2020 
+Zmienność w punktach bazowych 
+- 50pb 
+Zmiana wartości aktywów finansowych 
+(5,8) 
+(4,7) 
+- 
+- 
+Zmiana wartości zobowiązań finansowych 
+0,8 
+0,8 
+0,3 
+0,3 
+Wpływ na wynik przed opodatkowaniem 
+(5,0) 
+(3,9) 
+0,3 
+0,3 
+Efekt podatkowy 
+0,9 
+0,7 
+(0,1) 
+(0,1) 
+WPŁYW NA WYNIK NETTO 
+(4,1) 
+(3,2) 
+0,2 
+0,2 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+44 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+Grupa jest głównie narażona na ryzyko zmiany stopy procentowej w PLN i USD. W przypadku stóp procentowych EURIBOR, ze względu na ich 
+małą zmienność oraz niewielki udział środków walutowych w ogóle środków pieniężnych narażonych na ryzyko zmiany stopy procentowej, wpływ 
+na wynik finansowy Grupy jest nieistotny. 
+(d) 
+RYZYKO KREDYTOWE 
+Ryzyko kredytowe identyfikowane w zakresie należności handlowych związane jest z ich koncentracją i terminowością obsługi. Sprzedaż 
+realizowana jest do ograniczonej liczby odbiorców, stąd występuje koncentracja ryzyka związanego z należnościami handlowymi. 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 roku dominującym odbiorcą pozostaje nadal Grupa ArcelorMittal, a także Voestalpine oraz 
+spółki, w których Skarb Państwa posiada udziały, od których należności stanowią odpowiednio 22,4%, 13,4% i 17,0% ogółu należności handlowych 
+na dzień 30 czerwca 2021 roku. 
+W I półroczu 2021 roku Grupa nie zaobserwowała istotnego pogorszenia spłacalności, bądź też zwiększenia ilości upadłości lub restrukturyzacji 
+wśród swoich klientów. Głównym elementem polityki Grupy w tym obszarze jest mitygowanie ryzyka utraty należności spowodowanej 
+niewypłacalnością kontrahentów poprzez zastosowanie odpowiednich i dostosowanych do statusu klienta (klient strategiczny, podstawowy) 
+zabezpieczeń finansowych w transakcjach handlowych w postaci m.in. ubezpieczenia należności, akredytyw, przedpłat. Grupa ocenia, że pomimo 
+przedłużającej się pandemii koronawirusa ryzyko nieuregulowania należności przez kontrahentów nie uległo istotnej zmianie, a spłacalność 
+należności wykazanych w bilansie na dzień 30 czerwca 2021 roku, których termin wymagalności przypada w najbliższych miesiącach, pozostanie 
+na niezmienionym istotnie poziomie. W związku z powyższym, na dzień 30 czerwca 2021 roku Grupa nie zidentyfikowała przesłanek 
+do zmodyfikowania założeń przyjętych do oceny oczekiwanej straty kredytowej pod kątem potencjalnej konieczności uwzględnienia dodatkowego 
+elementu ryzyka związanego z obecną sytuacją gospodarczą oraz prognozami na przyszłość. Grupa na bieżąco analizuje sytuację na rynkach oraz 
+spływające sygnały od kontrahentów mogące świadczyć o pogorszeniu sytuacji finansowej i w razie konieczności dokona aktualizacji przyjętych 
+szacunków do kalkulacji oczekiwanej straty kredytowej w kolejnych okresach sprawozdawczych. 
+Ryzyko kredytowe dotyczące środków pieniężnych i ich ekwiwalentów jest ograniczone, ponieważ Grupa lokuje swoje środki pieniężne w bankach 
+o ugruntowanej pozycji rynkowej i posiadających rating przyznawany przez międzynarodowe agencje ratingowe. Biorąc pod uwagę powyższe, 
+poziom ryzyka związanego z działalnością lokacyjną można oszacować jako niski. W celu dywersyfikacji ryzyka związanego z zawieraniem 
+transakcji zabezpieczających, Komitet Ryzyka Finansowego ustala maksymalny stopień koncentracji transakcji pochodnych. 
+Najwyższy stopień koncentracji w jednym banku według stanu na dzień 30 czerwca 2021 roku wynosi około 13,9% dopuszczalnego limitu 
+(w 2020 roku wynosił około 15% dopuszczalnego limitu). 
+Grupa ocenia, że maksymalna ekspozycja na ryzyko kredytowe na dzień 30 czerwca 2021 roku sięga pełnej wartości księgowej należności 
+handlowych (bez uwzględnienia wartości godziwej przyjętych zabezpieczeń), środków pieniężnych i ich ekwiwalentów oraz aktywów finansowych 
+w postaci terminowych lokat bankowych i portfela aktywów FIZ. 
+(e) 
+RYZYKO UTRATY PŁYNNOŚCI 
+Obecne trudne warunki rynkowe, będące m.in. efektem pandemii, wciąż istotnie negatywnie wpływają na płynność, głównie ze względu na obniżone 
+przychody ze sprzedaży, a tym samym obniżone przepływy z działalności operacyjnej. W I półroczu 2021 roku Grupa wygenerowała dodatnie 
+przepływy pieniężne z działalności operacyjnej, jednak ich poziom nie pokrywał wysokich ujemnych przepływów z działalności inwestycyjnej głównie 
+dotyczących wydatków na nabycie rzeczowych aktywów trwałych. Grupa wygenerowała również ujemne przepływy na działalności finansowej, 
+będące wynikiem płatności związanych z leasingiem, spłaty kredytów i pożyczek oraz odsetek z działalności finansowej. Głównym narzędziem 
+efektywnego zarządzania zasobami finansowymi jest funkcjonująca w Grupie usługa Cash Poolingu Rzeczywistego, polegająca na fizycznej 
+konsolidacji dostępnych środków na rachunkach bankowych spółek Grupy, co pozwoliło na czasowe pokrycie niedoborów pieniężnych uczestników 
+ujemnych. 
+Zarządzanie płynnością 
+Nadrzędnym zadaniem Grupy w procesie zarządzania ryzykiem płynności jest bieżąca kontrola i planowanie poziomu płynności. Intencją Grupy jest 
+również zachowanie prawidłowej struktury finansowania poprzez utrzymywanie odpowiedniego poziomu źródeł finansowania o charakterze 
+długoterminowym. 
+Proces zarządzania ryzykiem utraty płynności w Grupie zakłada między innymi efektywne monitorowanie i raportowanie pozycji płynnościowej 
+umożliwiającej podejmowanie działań prewencyjnych w sytuacji zagrożenia utraty płynności oraz utrzymywanie odpowiedniego (minimalnego) 
+poziomu dostępnych środków na obsługę bieżących płatności. 
+Grupa realizuje politykę w zakresie zarządzania płynnością, polegającą na dywersyfikacji źródeł finansowania i wykorzystywania dostępnych 
+narzędzi do efektywnego zarządzania płynnością. W celu zwiększenia bezpieczeństwa płynności Grupy wykorzystywane są m.in. następujące 
+narzędzia: 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+45 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+ 
+Jednostka dominująca posiada utworzony Fundusz Stabilizacyjny, który w czasach dekoniunktury stanowi bufor bezpieczeństwa w razie 
+konieczności ponoszenia wydatków nieznajdujących pokrycia we wpływach. W tym celu została zawarta Umowa o Współpracy 
+z TFI Energia S.A., na podstawie której Jednostka dominująca utworzyła JSW Stabilizacyjny FIZ. Wartość aktywów netto funduszu 
+na dzień 30 czerwca 2021 roku wynosi 506,4 mln PLN. Środki ulokowane w portfel aktywów FIZ są istotnym elementem „Bufora Gotówki”, 
+tj. zobowiązania wynikającego z umowy finansowania zawartej z Konsorcjum. 
+Jednostka dominująca zmierza do utrzymania Funduszu oraz odbudowy jego wartości kiedy warunki rynkowe będą sprzyjające. 
+ 
+Grupa korzysta z możliwości odroczenia płatności zobowiązań publicznoprawnych (szerzej w Nocie 2.6.). 
+ 
+W celu efektywniejszego zarządzania bieżącą płynnością finansową w Grupie funkcjonuje system zarządzania środkami pieniężnymi - 
+Cash Pooling Rzeczywisty. 
+ 
+W grudniu 2020 roku JSW podpisała umowę pożyczki płynnościowej na kwotę 1,0 mld PLN oraz umowę pożyczki preferencyjnej na kwotę 
+173,6 mln PLN z PFR w ramach Programu Rządowego „Tarcza Finansowa Polskiego Funduszu Rozwoju dla Dużych Firm”. Umowę 
+pożyczki preferencyjnej z PFR podpisała w 2020 roku także spółka JSW KOKS na kwotę 24,9 mln PLN. Pożyczki w całości zostały 
+uruchomione w grudniu 2020 roku. W dniu 31 marca 2021 roku JSW i JSW KOKS w ramach uzyskanych pożyczek preferencyjnych 
+w łącznej wysokości 198,5 mln PLN (JSW: 173,6 mln PLN, JSW KOKS: 24,9 mln PLN) zwróciły się do Polskiego Funduszu Rozwoju 
+(„PFR”) z wnioskami o umorzenie ich części, zgodnie z postanowieniami i na warunkach określonych w umowach oraz w Regulaminie 
+„Tarcza Finansowa Polskiego Funduszu Rozwoju dla Dużych Firm", tj. do 75% „Faktycznej Szkody Covid”. Decyzja o potencjalnym 
+umorzeniu będzie należała do PFR. Zgodnie z wyżej wymienionym regulaminem wysokość umorzenia zostanie określona nie później 
+niż do 30 września 2021 roku. 
+W dniu 28 czerwca 2021 roku zostały podpisane aneksy do umów JSW: pożyczki preferencyjnej oraz pożyczki płynnościowej, na mocy 
+których zostały zmienione harmonogramy spłaty rat kapitałowych tych pożyczek. Raty kapitałowe przypadające na II i III kwartał 
+2021 roku zostały zmniejszone w sumie o 145,7 mln PLN, z czego 122,9 mln PLN dotyczy pożyczki płynnościowej, a 22,8 mln PLN 
+dotyczy pożyczki preferencyjnej. Raty kapitałowe wymagalne w kolejnych kwartałach zostały odpowiednio zwiększone. 
+ 
+W celu poprawy płynności Jednostka dominująca zapoczątkowała proces pozyskania finansowania w postaci faktoringu klasycznego. 
+Przeprowadzenie procesu planowane jest na III i IV kwartał 2021 roku. Ponadto na dzień 30 czerwca 2021 roku w Grupie dostępne 
+i niewykorzystane są wolne linie kredytowe na łączną kwotę 39,6 mln PLN. 
+Grupa ocenia aktualny poziom ryzyka utraty płynności jako akceptowalny. 
+Grupa w ciągu kolejnych 12 miesięcy, nie identyfikuje ryzyka niewywiązania się z umów finansowania i zakłada utrzymanie umownego poziomu 
+długu netto/EBITDA oraz pozostałych wskaźników finansowych uwzględnionych w umowie Konsorcjum. Na dzień sporządzenia niniejszego 
+śródrocznego skróconego skonsolidowanego sprawozdania finansowego, Grupa ocenia, że posiada wystarczające źródła finansowania do realizacji 
+bieżących zobowiązań, zobowiązań wynikających z zawartych umów z ZUS dotyczących odroczenia płatności składek, płatności związanych 
+z regulowaniem zobowiązań wynikających z umów finansowania oraz zawartych z PFR umów pożyczek płynnościowej i preferencyjnej zgodnie 
+z harmonogramem, a także zaplanowanych wcześniej strategicznych projektów. 
+9.3.2. 
+ZARZĄDZANIE RYZYKIEM KAPITAŁOWYM 
+W okresie objętym niniejszym śródrocznym skróconym skonsolidowanym sprawozdaniem finansowym nie wystąpiły zmiany celów, zasad i procedur 
+zarządzania ryzykiem kapitałowym, opisanych w Nocie 9.5.2. Skonsolidowanego sprawozdania finansowego Grupy Kapitałowej Jastrzębskiej Spółki 
+Węglowej S.A. za rok obrotowy zakończony 31 grudnia 2020 roku. 
+Informacja na temat stopnia realizacji wskaźników finansowych wynikających z umowy finansowania zamieszczona została w Nocie 6.1. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+46 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+10. 
+POZOSTAŁE NOTY OBJAŚNIAJĄCE 
+10.1. POZYCJE WARUNKOWE 
+POZYCJE WARUNKOWE 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 roku nie wystąpiły inne niż wymienione poniżej, istotne zmiany w pozycjach warunkowych 
+ujawnionych w Skonsolidowanym sprawozdaniu finansowym Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A. za rok obrotowy zakończony 
+31 grudnia 2020 roku w Nocie 10.1. 
+Zarząd JSW w dniu 30 marca 2021 roku podjął uchwałę o przedłużeniu okresu obowiązywania zawartego w dniu 5 maja 2011 roku Porozumienia 
+zbiorowego zawartego pomiędzy Zarządem JSW a Reprezentatywnymi Organizacjami Związków Zawodowych działających w JSW, dotyczącego 
+gwarancji zatrudnienia dla pracowników JSW („Porozumienie”). Zgodnie z zapisami zawartego w 2011 roku Porozumienia gwarancje zatrudnienia 
+dla wszystkich pracowników JSW wynosiły 10 lat licząc od dnia upublicznienia akcji JSW na Giełdzie Papierów Wartościowych w Warszawie. 
+Na mocy podjętej uchwały Zarządu JSW gwarancje pracownicze będą przedłużone o okres kolejnych 10 lat. 
+W dniu 31 marca 2021 roku Zarząd JSW zawarł Porozumienie Zbiorowe („Porozumienie”) z Reprezentatywnymi Organizacjami Związkowymi 
+działającymi w JSW. Porozumienie zakłada gwarancje zatrudnienia dla wszystkich pracowników Jednostki dominującej na okres 10 lat, licząc 
+od dnia zawarcia Porozumienia. Strony zobowiązały się do wzajemnej współpracy w celu zachowania aktualnych miejsc pracy i rozwoju JSW. 
+Strony postanowiły, że Porozumienie będzie obowiązywać do czasu wejścia w życie nowego jednolitego Zakładowego Układu Zbiorowego Pracy 
+dla Pracowników JSW, a do tego czasu warunki umów o pracę pracowników zakładów JSW nie ulegną zmianom i nie będą podlegać 
+wypowiedzeniom. 
+UDZIELONE PORĘCZENIA I GWARANCJE 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 roku spółki Grupy nie udzielały poręczeń oraz gwarancji łącznie jednemu podmiotowi 
+lub jednostce zależnej od tego podmiotu, o istotnej łącznej wartości. 
+INFORMACJE O ISTOTNYCH POSTĘPOWANIACH SĄDOWYCH, ADMINISTRACYJNYCH I ARBITRAŻOWYCH 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 roku spółki Grupy uczestniczyły w postępowaniach sądowych i administracyjnych związanych 
+z prowadzoną przez nie działalnością. Postępowania sądowe, które mogłyby w istotny sposób wpłynąć na sytuację finansową Grupy zostały 
+zaprezentowane w Punkcie 6.5. Sprawozdania Zarządu z działalności Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A. za okres 6 miesięcy 
+zakończony 30 czerwca 2021 roku. 
+10.2. PRZYSZŁE ZOBOWIĄZANIA UMOWNE 
+Przyszłe zobowiązania umowne zaciągnięte na dni kończące okresy sprawozdawcze, nie ujęte w skonsolidowanym sprawozdaniu z sytuacji 
+finansowej obejmują: 
+ 
+30.06.2021 
+31.12.2020 
+Zobowiązania umowne zaciągnięte w celu nabycia rzeczowych aktywów trwałych i wartości niematerialnych
+687,7 
+576,0 
+Pozostałe 
+56,5 
+17,3 
+RAZEM 
+744,2 
+593,3 
+10.3. TRANSAKCJE Z PODMIOTAMI POWIĄZANYMI 
+Na dzień 30 czerwca 2021 roku większościowym akcjonariuszem Grupy był Skarb Państwa. 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 roku, wszystkie transakcje Grupy z podmiotami powiązanymi dokonywane były na warunkach 
+rynkowych oraz miały charakter typowy i zawierane były w normalnym trybie działalności. W prezentowanym okresie sprawozdawczym Grupa nie 
+zawierała innych istotnych transakcji z jednostkami powiązanymi, o odmiennym charakterze lub istotnych kwotach niż opisane w ostatnim rocznym 
+skonsolidowanym sprawozdaniu finansowym. 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 roku nie zidentyfikowano indywidualnych transakcji przeprowadzonych między jednostkami 
+Grupy i jednostkami powiązanymi ze Skarbem Państwa, które były znaczące ze względu na nietypowy zakres i/lub kwotę. 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+47 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+10.4. ZDARZENIA PO DNIU KOŃCZĄCYM OKRES SPRAWOZDAWCZY 
+Po dniu 30 czerwca 2021 roku tj. po dniu kończącym okres sprawozdawczy, zgodnie z posiadaną wiedzą, nie wystąpiły inne niż wymienione poniżej, 
+istotne zdarzenia mogące znacząco wpłynąć na ocenę sytuacji majątkowej, finansowej i wyniku finansowego, które nie byłyby uwzględnione 
+w śródrocznym skróconym skonsolidowanym sprawozdaniu finansowym za okres 6 miesięcy zakończony 30 czerwca 2021 roku: 
+ 
+W dniu 20 lipca 2021 roku JSW podpisała z NFOŚiGW umowę o dofinansowanie w formie pożyczki do kwoty 24,5 mln PLN 
+przedsięwzięcia pod nazwą: „Rekultywacja terenu położonego pomiędzy rzeką „Szotkówką”, a zwałowiskiem „Pochwacie” w Połomii – 
+Etap II”. Pożyczka będzie wypłacana w transzach. Do dnia zatwierdzenia niniejszego sprawozdania finansowanie nie zostało 
+uruchomione. Pożyczka oprocentowana jest według zmiennej stopy procentowej. Spłata pożyczki będzie następować kwartalnie 
+począwszy od marca 2028 roku. Zabezpieczenie umowy o dofinansowanie w formie pożyczki będzie stanowić weksel in blanco wraz 
+z deklaracją wekslową oraz przelew wierzytelności z umowy handlowej. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Noty do śródrocznego skróconego skonsolidowanego sprawozdania finansowego stanowią jego integralną część. 
+48 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE 
+GRUPY KAPITAŁOWEJ JASTRZĘBSKIEJ SPÓŁKI WĘGLOWEJ S.A. 
+ZA OKRES 6 MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2021 ROKU 
+(Wszystkie kwoty w tabelach wyrażone w milionach PLN, o ile nie podano inaczej)
+11. 
+OŚWIADCZENIA ZARZĄDU I ZATWIERDZENIE SKONSOLIDOWANEGO SPRAWOZDANIA 
+FINANSOWEGO 
+W sprawie rzetelności sporządzenia półrocznego skróconego skonsolidowanego sprawozdania finansowego 
+Zarząd JSW oświadcza, że wedle jego najlepszej wiedzy, niniejsze półroczne skrócone skonsolidowane sprawozdanie finansowe i dane 
+porównawcze sporządzone zostały zgodnie z obowiązującymi zasadami rachunkowości oraz odzwierciedlają w sposób prawdziwy, rzetelny i jasny 
+sytuację majątkową i finansową oraz wynik finansowy Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A. 
+Sprawozdanie Zarządu z działalności Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A. za okres 6 miesięcy zakończony 30 czerwca 2021 roku 
+zawiera prawdziwy obraz rozwoju i osiągnięć oraz sytuacji Grupy Kapitałowej Jastrzębskiej Spółki Węglowej S.A., w tym opis podstawowych 
+zagrożeń i ryzyka. 
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 6 miesięcy zakończony 30 czerwca 2021 roku zostało 
+zatwierdzone do publikacji oraz podpisane przez Zarząd JSW dnia 18 sierpnia 2021 roku. 
+ 
+Jastrzębie-Zdrój, 18 sierpnia 2021 roku 
+ 
+Podpis osoby odpowiedzialnej za sporządzenie sprawozdania 
+finansowego: 
+Adam Mańka – Dyrektor Biura Główny Księgowy 
+ 
+PODPISY CZŁONKÓW ZARZĄDU JSW
+ 
+Stanisław Prusek 
+p.o. Prezesa Zarządu 
+ 
+ 
+ 
+ 
+ 
+ 
+Sebastian Bartos 
+Zastępca Prezesa Zarządu 
+ 
+ 
+ 
+Robert Ostrowski 
+Zastępca Prezesa Zarządu 
+ 
+ 
+ 
+Artur Wojtków 
+Zastępca Prezesa Zarządu 
+ 
+ 
+Dokument podpisany przez Adam Zbigniew Mańka
+Data: 2021.08.18 07:40:53 CEST
+Signature Not Verified
+Dokument podpisany przez Robert
+Ostrowski
+Data: 2021.08.18 07:46:42 CEST
+Signature Not Verified
+Dokument podpisany przez Artur
+Józef Wojtków
+Data: 2021.08.18 08:49:41 CEST
+Signature Not Verified
+Dokument podpisany przez
+Sebastian Bartos
+Data: 2021.08.18 09:14:25 CEST
+Signature Not Verified
+Signed by /
+Podpisano przez:
+Stanisław Prusek
+Date / Data: 202108-18 10:29

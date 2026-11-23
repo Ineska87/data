@@ -1,0 +1,177 @@
+Waluta funkcjonalna i waluta prezentacji ................................................................................. 16 Segmenty operacyjne ......................................................................................................................... 16 Noty objaśniające do skonsolidowanego sprawozdania z całkowitych dochodów ................... 24 7.
+
+Rozliczenia dochodu z tytułu dotacji oraz usług modernizacji oświetlenia drogowego ........... 39 Instrumenty finansowe ....................................................................................................................... 40 20.
+
+Odpisy aktualizujące wartość należności z tytułu dostaw i usług oraz pozostałych należności ................................................................................................................................ 43 23.
+
+W Grupie Kapitałowej ENEA wyodrębnia się cztery segmenty działalności oraz pozostałą działalność, przedstawione poniżej.
+
+ORAZ POZOSTAŁA DZIAŁALNOŚĆ Konserwacja i modernizacja urządzeń oświetlenia drogowego, usługi transportowe, usługi remontowe i budowlane.
+
+Przychody segmentu są przychodami osiąganymi ze sprzedaży zewnętrznym klientom oraz transakcji z innymi segmentami, które dają się bezpośrednio przyporządkować do danego segmentu.
+
+Analizując wyniki poszczególnych segmentów działalności, Grupa zwraca przede wszystkim uwagę na wynik EBITDA.
+
+Jest ona definiowana jako wynik operacyjny (obliczony jako wynik przed opodatkowaniem skorygowany o udział w wynikach jednostek stowarzyszonych i współkontrolowanych, odpisy aktualizujące aktywa finansowe wyceniane w zamortyzowanym koszcie, odpis z tytułu utraty wartości inwestycji w jednostkach współkontrolowanych, przychody finansowe, przychody z tytułu dywidend oraz koszty finansowe) powiększony o amortyzację oraz odpis z tytułu utraty wartości niefinansowych aktywów trwałych.
+
+Zasady stosowane do ustalenia wyników segmentów oraz aktywów i zobowiązań segmentów są zgodne z zasadami rachunkowości stosowanymi do sporządzenia skonsolidowanego sprawozdania finansowego.
+
+W związku z brakiem możliwości określenia wartości godziwej dla bardzo dużej grupy aktywów dla których nie ma aktywnego rynku, jak również brak jest porównywalnych transakcji, określenie wartości odzyskiwalnej testowanych aktywów nastąpiło w wyniku oszacowania ich wartości użytkowej przy pomocy metody zdyskontowanych przepływów pieniężnych na podstawie przygotowanych przez Grupę projekcji finansowych od 2020 (za drugą połowę roku) do 2051 r.
+
+Poniżej przedstawione zostały kluczowe założenia przy jakich dokonano oszacowania wartości użytkowej testowanych aktywów:  z uwagi na powiązania pomiędzy poszczególnymi działami i funkcjonujący w kopalni sposób organizacji wszystkie aktywa LWB zostały uznane za jeden CGU;  określono średnioroczny poziom wolumenu sprzedaży węgla na 9,3 mln ton w latach 2021-2035;  okres prognozy od 2020 (drugie półrocze) do 2051 r. – został oszacowany na podstawie posiadanych przez spółkę na dzień bilansowy zasobów operatywnych węgla (dostępnych do wykorzystania przy pomocy obecnej – tj. istniejącej na dzień bilansowy – infrastruktury, głównie w odniesieniu do szybów), przy uwzględnieniu średniorocznego poziomu wydobycia 9,3 mln ton w latach 2021-2035 (w kolejnych latach średnioroczny poziom wydobycia systematycznie maleje, co jest wynikiem wyczerpywania się złóż w polu „Bogdanka” oraz przyjętego założenia wykorzystywania jedynie obecnie dostępnej infrastruktury);  założenie odnośnie ceny węgla w drugim półroczu 2020 roku oraz w latach 2021-2043 przyjęto na podstawie opracowań dokonanych na potrzeby całej Grupy; średnią cenę sprzedaży węgla w tym okresie oszacowano na poziomie 10,81 zł/GJ, przy założeniu trendu bocznego w przedziale +/- 5%; od roku 2044 przyjęta została Grupa Kapitałowa ENEA Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2020 r. (wszystkie kwoty wyrażone są w tys. złotych, o ile nie podano inaczej) Dodatkowe informacje i objaśnienia przedstawione na stronach 10-51 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 28 cena stała, na poziomie roku 2043;  cały model jest bezinflacyjny;  założono realny wzrost wynagrodzeń w całym okresie prognozy na poziomie odzwierciedlającym najlepszy możliwy szacunek spółki na dzień sporządzenia testu;  jako stopę dyskontową przed opodatkowaniem przyjęto średnioważony, realny koszt kapitału (WACC) w wysokości 6,77% w całym okresie prognozy, oszacowany na podstawie najnowszych danych ekonomicznych (przy stopie wolnej od ryzyka wynoszącej 1,98% oraz współczynniku beta wynoszącym 1,07);  średnioroczny poziom nakładów inwestycyjnych w całym okresie prognozy w wysokości 253 562 tys. złotych, w tym średnio 338 253 tys. złotych w latach 2021-2035.
+
+Wyniki przeprowadzonego testu przedstawia poniższa tabela: CGU [tys. zł] - stan na 30 czerwca 2020 Wartość odzyskiwalna Wartość księgowa CGU Wydobycie 2 827 861 2 773 884 Przeprowadzona analiza wrażliwości wskazuje, że istotnymi czynnikami wpływającymi na szacunki wartości odzyskiwalnej ośrodków generujących przepływy pieniężne są między innymi stopa dyskontowa, cena węgla energetycznego oraz realny wzrost wynagrodzeń.
+
+Zmiana wartości odzyskiwalnej 130 582 2 827 861 (122 525) Grupa Kapitałowa ENEA Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2020 r. (wszystkie kwoty wyrażone są w tys. złotych, o ile nie podano inaczej) Dodatkowe informacje i objaśnienia przedstawione na stronach 10-51 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 29 11.
+
+Inwestycje w jednostki stowarzyszone i współkontrolowane W poniższej tabeli przedstawiono podstawowe dane finansowe dotyczące jednostek stowarzyszonych i współkontrolowanych konsolidowanych metodą praw własności: Stan na 30 września 2020 Elektrownia Ostrołęka Sp. z o.o.
+
+Razem Udział w własności 50,00% 16,48% 7,66% 25% Aktywa obrotowe 49 862 1 084 081 1 743 569 22 244 2 899 756 Aktywa trwałe 205 953 657 600 9 008 003 34 925 9 906 481 Aktywa razem 255 815 1 741 681 10 751 572 57 169 12 806 237 Zobowiązania krótkoterminowe 907 208 789 989 4 384 648 982 6 082 827 Zobowiązania długoterminowe 10 287 288 441 4 711 109 18 5 009 855 Zobowiązania razem 917 495 1 078 430 9 095 757 1 000 11 092 682 Aktywa netto (661 680) 663 251 1 655 815 56 169 1 713 555 Udział w aktywach netto - 109 304 126 835 14 042 250 181 Wartość firmy - 15 954 - - 15 954 Eliminacja strat/zysków niezrealizowanych - (7 118) 2 373 - (4 745) Odpis aktualizujący wartość inwestycji - - (129 208) - (129 208) Wartość księgowa inwestycji wycenianych metodą praw własności na 30 września 2020 - 118 140 - 14 042 132 182 Grupa dokonała korekty konsolidacyjnej dotyczącej marż ze sprzedaży na transakcjach pomiędzy Grupą a spółkami Polimex – Mostostal S.A. oraz Polska Grupa Górnicza S.A.
+
+Biorąc pod uwagę trudną sytuację finansową Polskiej Grupy Górniczej S.A. (PGG), negatywne zmiany w środowisku rynkowym i gospodarczym tej spółki oraz plany wygaszania górnictwa węgla kamiennego w Polsce Grupa zidentyfikowała przesłanki świadczące o utracie wartości inwestycji w akcje PGG.
+
+W związku z powyższym, po przeprowadzeniu testu na utratę wartości, Grupa zdecydowała się objąć odpisem aktualizującym całą wartość inwestycji w akcje PGG.
+
+Na dzień 30 września 2020 r. wartość inwestycji w akcje PGG w skróconym śródrocznym skonsolidowanym sprawozdaniu finansowym wynosi zero.
+
+Grupa Kapitałowa ENEA Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2020 r. (wszystkie kwoty wyrażone są w tys. złotych, o ile nie podano inaczej) Dodatkowe informacje i objaśnienia przedstawione na stronach 10-51 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 30 Stan na 31 grudnia 2019 Elektrownia Ostrołęka Sp. z o.o.
+
+Razem Udział w własności 50,00% 16,48% 7,66% 25% Aktywa obrotowe 37 549 964 470 2 226 017 40 174 3 268 210 Aktywa trwałe 65 419 718 259 9 794 651 17 542 10 595 871 Aktywa razem 102 968 1 682 729 12 020 668 57 716 13 864 081 Zobowiązania krótkoterminowe 86 271 779 861 4 040 084 1 297 4 907 513 Zobowiązania długoterminowe 170 532 319 677 4 694 514 3 5 184 726 Zobowiązania razem 256 803 1 099 538 8 734 598 1 300 10 092 239 Aktywa netto (153 835) 583 191 3 286 070 56 416 3 771 842 Udział w aktywach netto - 96 110 251 713 14 104 361 927 Wartość firmy 7 080 15 954 52 697 - 75 731 Odpis aktualizujący (7 080) - (52 697) - (59 777) Wartość firmy po odpisie aktualizującym - 15 954 - - 15 954 Eliminacja strat/zysków niezrealizowanych - (7 573) 2 708 - (4 865) Wartość księgowa inwestycji wycenianych metodą praw własności na 31 grudnia 2019 - 104 491 254 421 14 104 373 016 Grupa Kapitałowa ENEA Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2020 r. (wszystkie kwoty wyrażone są w tys. złotych, o ile nie podano inaczej) Dodatkowe informacje i objaśnienia przedstawione na stronach 10-51 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 31 Zmiana stanu inwestycji w jednostki stowarzyszone i współkontrolowane Stan na 30 września 2020 31 grudnia 2019 Stan na początek okresu 373 016 734 268 Udział w zmianie stanu aktywów netto (111 626) (482 165) Odpis z tytułu utraty wartości inwestycji w jednostkach współkontrolowanych (129 208) (59 777) Nabycie inwestycji - 180 690 Stan na dzień sprawozdawczy 132 182 373 016 Realizacja projektu budowy Elektrowni Ostrołęka C Według stanu na 30 września 2020 r.
+
+ENEA S.A. posiadała 9 124 821 udziałów w Elektrownia Ostrołęka Sp. z o.o. o wartości nominalnej 50 zł jeden udział i o łącznej wartości nominalnej 456 241 tys. zł. 23 grudnia 2019 r.
+
+W wyniku tego wezwania PKN Orlen S.A. nabył 331 313 082 akcje ENERGA S.A., które stanowią około 80% kapitału zakładowego ENERGA S.A. oraz około 85% ogólnej liczby głosów na walnym zgromadzeniu ENERGA S.A. 13 lutego 2020 r.
+
+ENEA S.A. zawarła porozumienie z ENERGA S.A. dotyczące zawieszenia przez ENERGA S.A. i ENEA S.A. finansowania projektu budowy Elektrowni Ostrołęka C.
+
+W porozumieniu ENEA S.A. oraz ENERGA S.A. zobowiązały się dokonać analiz w szczególności dotyczących parametrów technicznych, technologicznych, ekonomicznych i organizacyjnych oraz dalszego finasowania projektu.
+
+ENERGA S.A. i ENEA S.A. przyjęły, że wstrzymanie finansowania projektu będzie powodowało konieczność zawieszenia przez spółkę wykonywania zawartego 12 lipca 2018 r. kontraktu na budowę Elektrowni Ostrołęka C o mocy ok. 1000 MW, a także umowy na przebudowę infrastruktury kolejowej dla obsługi Elektrowni Ostrołęka C z dnia 4 października 2019 r. 14 lutego 2020 r.
+
+Elektrownia Ostrołęka Sp. z o.o. przekazała Generalnemu Wykonawcy kontraktu budowa Elektrowni Ostrołęka "C" o mocy ok. 1000 MW z dnia 12 lipca 2018 r. polecenie zawieszenia wykonywania całości prac związanych z tym kontraktem, z terminem wejścia w życie zawieszenia w dniu 14 lutego 2020 r. 18 kwietnia 2020 r. podpisane zostało porozumienie pomiędzy PKN Orlen a Skarbem Państwa w związku z planowanym przejęciem przez PKN Orlen kontroli kapitałowej nad ENERGA S.A.
+
+Strony Porozumienia przewidywały, że po przejęciu przez PKN Orlen kontroli nad ENERGA S.A. kontynuowane będą inwestycje strategiczne ENERGA S.A.
+
+PKN Orlen zadeklarował, że niezwłocznie po przejęciu kontroli nad ENERGA S.A. dokona weryfikacji warunków kontynuowania tych inwestycji, w szczególności budowy Elektrowni Ostrołęka C. 7 maja 2020 r.
+
+Zgodnie z treścią raportu bieżącego, przyjęto założenie, że prace w ramach analiz potrwają jeszcze około miesiąca.
+
+W ramach prac analitycznych realizowanych w ramach porozumienia, ENEA S.A. i ENERGA S.A. pracowały m.in. nad aktualizacją założeń biznesowych, technicznych oraz dotyczących struktury finansowania w modelu finansowym.
+
+Wyniki tych prac ze strony ENERGA S.A. zostały przekazane spółce Elektrownia Ostrołęka Sp. z o.o. 14 maja 2020 r., kiedy to spółka otrzymała kalkulacje dotyczące rentowności Projektu w wariancie jego kontynuowania w oparciu o paliwo węglowe.
+
+Grupa Kapitałowa ENEA Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2020 r. (wszystkie kwoty wyrażone są w tys. złotych, o ile nie podano inaczej) Dodatkowe informacje i objaśnienia przedstawione na stronach 10-51 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 32 Wyniki te zostały wykorzystane do stworzenia testu CGU przez spółkę.
+
+Przeprowadzony przez spółkę test CGU wskazuje, że dokończenie Projektu będzie generować ujemną wartość, co oznacza brak zasadności kontynuowania Projektu. 19 maja 2020 r.
+
+PKN Orlen, posiadający 80% udział w kapitale zakładowym i 85% głosów na walnym zgromadzeniu ENERGA S.A., opublikował raport bieżący nr 31/2020, w którym poinformował, że przekazał do ENERGA S.A. swoje stanowisko w związku z zapytaniem skierowanym do PKN Orlen przez ENERGA S.A. dotyczącym woli bezpośredniego zaangażowania finansowego w inwestycję obejmującą budowę energetycznego bloku węglowego realizowaną przez spółkę Elektrownia Ostrołęka Sp. z o.o. z siedzibą w Ostrołęce (Inwestycja).
+
+PKN Orlen zadeklarował wstępną gotowość bezpośredniego zaangażowania finansowego w Inwestycję, wyłącznie w przypadku zmiany założeń technologicznych dla Inwestycji na technologię opartą na paliwie gazowym.
+
+PKN Orlen zadeklarował także swoją gotowość do rozmów z udziałowcami spółki, czyli z ENERGA S.A. oraz ENEA S.A. co do formy, zakresu i sposobu zaangażowania w Inwestycję, o którym mowa powyżej.
+
+ENERGA S.A. opublikowała raport bieżący nr 41/2020, w którym poinformowała o otrzymaniu 19 maja 2020 r. od PKN Orlen, większościowego akcjonariusza ENERGA S.A., deklarację wstępnej gotowości bezpośredniego zaangażowania finansowego w inwestycję obejmującą budowę bloku energetycznego realizowaną przez spółkę Elektrownia Ostrołęka sp. z o.o.
+
+Deklaracja jest odpowiedzią na zapytanie ENERGA S.A. skierowane do PKN Orlen i została złożona wyłącznie pod warunkiem zmiany założeń technologicznych dla Inwestycji na technologię opartą na paliwie gazowym, co jest jednym ze scenariuszy rozważanych w ramach analiz, o których ENERGA S.A. informowała w raportach bieżących nr 8/2020 z 13 lutego 2020 r., nr 11/2020 z 23 lutego 2020 r. oraz nr 38/2020 z 7 maja 2020 r. 19 maja 2020 r.
+
+ENEA S.A. otrzymała drogą elektroniczną kopię Uchwały nr 39/2020 Zarządu Elektrownia Ostrołęka Sp. z o.o. z dnia 19 maja 2020 r. w sprawie utworzenia odpisów aktualizujących wartość księgową aktywów Spółki.
+
+Na skutek przeprowadzonego w spółce Elektrownia Ostrołęka Sp. z o.o. testu na utratę wartości majątku trwałego, który jest konsekwencją aktualizacji przez Elektrownia Ostrołęka Sp. z o.o. założeń biznesowych dotyczących realizacji projektu budowy elektrowni Ostrołęka C opartego o technologię węglową, w skonsolidowanym sprawozdaniu finansowym za rok 2019 ujęto udział ENEA S.A. w stracie netto Elektrowni Ostrołęka Sp. z o.o.
+
+Z uwagi na to, że był on większy od wartości udziałów w tej spółce, została ona zmniejszona do zera.
+
+Na 30 września 2020 r. wartość udziałów ENEA S.A. w spółce Elektrownia Ostrołęka Sp. z o.o. wynosiła 0 zł. 2 czerwca 2020 r.
+
+Zarząd ENEA S.A. przyjął raport końcowy z analiz przeprowadzonych we współpracy z ENERGA S.A. w zakresie aspektów techniczno-technologicznych, ekonomicznych i organizacyjno-prawnych oraz dalszego finansowania projektu.
+
+Wnioski z przeprowadzonych analiz nie uzasadniają kontynuowania jego realizacji w dotychczasowej formie, tj. jako projektu budowy elektrowni wytwarzającej energię elektryczną w procesie spalania węgla kamiennego.
+
+Na powyższą ocenę wpływ mają m.in.: 1) zmiany regulacyjne na poziomie Unii Europejskiej i polityka kredytowa poszczególnych instytucji finansowych, wskazujące na istotnie większą dostępność finansowania dla projektów energetycznych opartych na spalaniu gazu, niż projektów węglowych; oraz 2) przejęcie kontroli nad Energą przez PKN Orlen, którego strategia nie zakłada inwestycji w wytwarzanie energii elektrycznej w oparciu o spalanie węgla.
+
+Jednocześnie, analiza techniczna potwierdziła możliwość realizacji wariantu budowy elektrowni wytwarzającej energię elektryczną w procesie spalania gazu ziemnego ("Projekt gazowy") w dotychczasowej lokalizacji budowanego bloku węglowego.
+
+W konsekwencji powyższego, Zarząd Jednostki Dominującej podjął decyzję o zamiarze kontynuacji budowy jednostki wytwórczej w Ostrołęce z uwzględnieniem zmiany źródła zasilania z węglowego na gazowe. 2 czerwca 2020 r. zostało zawarte trójstronne porozumienie pomiędzy Jednostką Dominującą, ENERGA S.A. oraz PKN Orlen, określające następujące główne zasady współpracy w Projekcie gazowym:  z zastrzeżeniami poczynionymi poniżej, kontynuację współpracy Jednostki Dominującej z ENERGA S.A. w ramach istniejącej spółki celowej, tj.
+
+Elektrownia Ostrołęka Sp. z o.o. i dokonanie rozliczenia pomiędzy Jednostką Dominującą i ENERGA S.A. kosztów związanych z Projektem oraz dokonanie rozliczenia z wykonawcami Projektu, według dotychczasowych zasad,  uwzględnienie ewentualnej roli PKN Orlen w Projekcie gazowym w charakterze nowego wspólnika,  udział ENEA S.A. w Projekcie gazowym jako wspólnika mniejszościowego z ograniczonym kwotowo limitem zaangażowania, w konsekwencji czego Spółka nie będzie podmiotem współkontrolującym Elektrownię Ostrołęka, Grupa Kapitałowa ENEA Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2020 r. (wszystkie kwoty wyrażone są w tys. złotych, o ile nie podano inaczej) Dodatkowe informacje i objaśnienia przedstawione na stronach 10-51 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 33  z zastrzeżeniem uzyskania niezbędnych zgód korporacyjnych, zawarcie nowej umowy wspólników w sprawie realizacji Projektu gazowego uwzględniającej powyższe zasady współpracy,  realizację działań dla pozyskania finansowania dla Projektu gazowego przez ENERGA S.A. wspólnie z PKN Orlen.
+
+W związku z powyższym, Grupa na dzień 30 czerwca 2020 r. rozpoznała przesłankę do dokonania dodatkowego odpisu pożyczek udzielonych spółce Elektrownia Ostrołęka Sp. z o.o. (SPV), w wysokości 136 653 tys. zł.
+
+Łączny odpis aktualizujący wartość pożyczek udzielonych spółce Elektrownia Ostrołęka Sp. z o.o. rozpoznany w okresie 9 miesięcy zakończonym 30 września 2020 r. wyniósł 141 470 tys. zł i kwota ta została ujęta w skonsolidowanym sprawozdaniu z całkowitych dochodów w pozycji „Odpisy aktualizujące aktywa finansowe wyceniane w zamortyzowanym koszcie”.
+
+Ponadto, w związku z przedstawioną w dniu 23 czerwca przez Generalnego Wykonawcę („GW”) propozycją rozliczenia inwestycji, polegającej na budowie elektrowni Ostrołęka C w technologii węglowej, rozpoznano przesłankę do utworzenia rezerwy w kwocie 222 200 tys. zł (kwota ta została ujęta w skonsolidowanym sprawozdaniu z całkowitych dochodów w pozycji „Udział w wynikach jednostek stowarzyszonych i współkontrolowanych”) na przyszłe zobowiązania inwestycyjne wobec spółki Elektrownia Ostrołęka Sp. z o.o. oraz ENERGA S.A.
+
+Wysokość tej rezerwy, w związku z dużym stopniem niepewności co do ostatecznych kwot roszczeń, jest najlepszym możliwym szacunkiem, opartym m.in. na propozycjach GW.
+
+Były to przede wszystkim środki pieniężne na depozyty transakcyjne energii elektrycznej i praw do emisji CO2 (głównie środki pieniężne stanowiące zabezpieczenie rozliczeń z IRGiT), środki pieniężne na rachunku VAT (split payment), wadia i kaucje wpłacone przez dostawców oraz blokady środków pieniężnych na zabezpieczenie należytego wykonania robót. 16.
+
+Zwyczajne Walne Zgromadzenie ENEA S.A. podjęło uchwałę nr 6 w sprawie podziału zysku netto za rok obrotowy obejmujący okres od 1 stycznia 2019 r. do 31 grudnia 2019 r., zgodnie z którą 100% zysku netto za rok 2019 zostało przekazane na kapitał rezerwowy z przeznaczeniem na finansowanie inwestycji. 20 maja 2019 r.
+
+Zwyczajne Walne Zgromadzenie ENEA S.A. podjęło uchwałę nr 6 w sprawie podziału zysku netto za rok obrotowy obejmujący okres od 1 stycznia 2018 r. do 31 grudnia 2018 r., zgodnie z którą 100% zysku netto za rok 2018 zostało przekazane na kapitał rezerwowy z przeznaczeniem na finansowanie inwestycji.
+
+Grupa Kapitałowa ENEA Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2020 r. (wszystkie kwoty wyrażone są w tys. złotych, o ile nie podano inaczej) Dodatkowe informacje i objaśnienia przedstawione na stronach 10-51 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 35 17.
+
+ENEA S.A. posiada obecnie umowy kredytowe zawarte z Europejskim Bankiem Inwestycyjnym (EBI) na łączną kwotę 2 371 000 tys. zł (Umowa A 950 000 tys. zł i Umowa B 475 000 tys. zł oraz Umowa C 946 000 tys. zł).
+
+Środki pozyskane z EBI zostały przeznaczone na sfinansowanie wieloletniego planu inwestycyjnego dotyczącego modernizacji i rozbudowy sieci energetycznych ENEA Operator Sp. z o.o.
+
+W okresie 9 miesięcy, zakończonym 30 września 2020 r., ENEA S.A. nie zawierała nowych umów kredytowych.
+
+Pozostałe rezerwy dotyczą głównie:  potencjalnych zobowiązań związanych z majątkiem sieciowym wynikających z różnic w interpretacjach przepisów 176 374 tys. zł (na dzień 31 grudnia 2019 r. 170 985 tys. zł), czas realizacji tej rezerwy jest trudny do określenia, jednak w sprawozdaniu przyjęto, że nie zrealizuje się ona w okresie krótszym niż 12 miesięcy,  kosztów korzystania z gruntów leśnych będących w zarządzie Lasów Państwowych 69 829 tys. zł (na dzień 31 grudnia 2019 r. 96 278 tys. zł), czas realizacji tej rezerwy jest trudny do określenia, jednak w sprawozdaniu przyjęto, że nie zrealizuje się ona w okresie krótszym niż 12 miesięcy,  przyszłych zobowiązań inwestycyjnych wobec spółki Elektrownia Ostrołęka Sp. z o.o. oraz ENERGA S.A. 222 200 tys. zł (na dzień 31 grudnia 2019 r. 0 tys. zł), szczegółowe informacje dotyczące tej rezerwy są zawarte w nocie 11,  umów rodzących obciążenia 15 133 tys. zł (na dzień 31 grudnia 2019 r. 68 565 tys. zł), czas realizacji tej rezerwy to rok 2020 (nota 25.1),  podatku od nieruchomości w spółce Lubelski Węgiel Bogdanka S.A. 10 761 tys. zł (na dzień 31 grudnia 2019 r. 10 306 tys. zł),  usuwania szkód górniczych 1 243 tys. zł (na dzień 31 grudnia 2019 r. 2 149 tys. zł). 19.
+
+Rozliczenia dochodu z tytułu dotacji oraz usług modernizacji oświetlenia drogowego Rozliczenia dochodu z tytułu dotacji oraz usług modernizacji oświetlenia drogowego Stan na 30 września 2020 31 grudnia 2019 Długoterminowe Rozliczenia międzyokresowe przychodów z tytułu dotacji 155 020 147 268 Rozliczenie międzyokresowe przychodów z tytułu usług modernizacji oświetlenia drogowego 86 555 80 145 Długoterminowe rozliczenia międzyokresowe przychodów razem 241 575 227 413 Krótkoterminowe Rozliczenia międzyokresowe przychodów z tytułu dotacji 9 592 9 663 Rozliczenie międzyokresowe przychodów z tytułu usług modernizacji oświetlenia drogowego 3 458 3 141 Krótkoterminowe rozliczenia międzyokresowe przychodów razem 13 050 12 804 Harmonogram rozliczenia międzyokresowego przychodów Stan na 30 września 2020 31 grudnia 2019 Do jednego roku 13 050 12 804 Od jednego do pięciu lat 51 831 49 538 Powyżej pięciu lat 189 744 177 875 Rozliczenia międzyokresowe przychodów razem 254 625 240 217 W okresie 9 miesięcy zakończonym 30 września 2020 r. wartość księgowa rozliczeń dochodu z tytułu dotacji oraz usług modernizacji oświetlenia drogowego zwiększyła się o kwotę netto 14 408 tys. zł (w okresie 9 miesięcy zakończonym 30 września 2019 r. wartość księgowa rozliczeń dochodu z tytułu dotacji oraz usług modernizacji oświetlenia drogowego zwiększyła się o kwotę netto 19 110 tys. zł).
+
+W pozycji „rozliczenia międzyokresowe przychodów z tytułu dotacji” Grupa ujmuje przede wszystkim dotacje unijne i z NFOŚiGW na rozwój infrastruktury energetycznej i ciepłowniczej.
+
+Usługa modernizacji oświetlenia drogowego (tzw. poprawa jakości i efektywności oświetlenia drogowego) to usługa świadczona w sposób ciągły.
+
+Przychody z tytułu poprawy jakości i efektywności oświetlenia drogowego ujmuje się proporcjonalnie do okresu ekonomicznej użyteczności powstałych środków trwałych.
+
+Grupa Kapitałowa ENEA Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2020 r. (wszystkie kwoty wyrażone są w tys. złotych, o ile nie podano inaczej) Dodatkowe informacje i objaśnienia przedstawione na stronach 10-51 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 40 Instrumenty finansowe 20.
+
+Instrumenty finansowe i wartość godziwa Poniższa tabela zawiera zestawienie wartości godziwych z wartościami księgowymi: Stan na 30 września 2020 Stan na 31 grudnia 2019 Wartość księgowa Wartość godziwa Wartość księgowa Wartość godziwa AKTYWA FINANSOWE Długoterminowe 366 040 46 574 236 923 40 172 Aktywa finansowe wyceniane w wartości godziwej 46 574 46 574 40 172 40 172 Dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie 7 797 (*) 48 649 (*) Należności z tytułu dostaw i usług oraz pozostałe należności 176 237 (*) 13 785 (*) Należności z tytułu leasingu i subleasingu finansowego 450 (*) 319 (*) Środki zgromadzone w ramach Funduszu Likwidacji Kopalń 134 982 (*) 133 998 (*) Krótkoterminowe 6 617 844 32 870 5 652 186 7 056 Aktywa finansowe wyceniane w wartości godziwej 32 870 32 870 7 056 7 056 Dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie 8 552 (*) 3 576 (*) Aktywa z tytułu umów z klientami 355 192 (*) 330 447 (*) Inne inwestycje krótkoterminowe - (*) 477 (*) Należności z tytułu dostaw i usług oraz pozostałe należności 1 638 931 (*) 1 547 733 (*) Należności z tytułu leasingu i subleasingu finansowego 1 191 (*) 950 (*) Środki pieniężne i ich ekwiwalenty 4 581 108 (*) 3 761 947 (*) AKTYWA FINANSOWE RAZEM 6 983 884 79 444 5 889 109 47 228 ZOBOWIĄZANIA FINANSOWE Długoterminowe 7 523 257 6 923 181 8 451 708 7 870 704 Kredyty, pożyczki i dłużne papiery wartościowe 6 676 575 6 749 250 7 803 113 7 846 208 Zobowiązania z tytułu leasingu 489 244 (*) 504 324 (*) Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania 183 507 (*) 119 775 (*) Zobowiązania z tytułu umów z klientami - - - - Zobowiązania finansowe wyceniane w wartości godziwej 173 931 173 931 24 496 24 496 Krótkoterminowe 3 437 492 1 947 943 3 659 422 2 139 349 Kredyty, pożyczki i dłużne papiery wartościowe 1 947 087 1 947 087 2 102 911 2 102 911 Zobowiązania z tytułu leasingu 25 540 (*) 27 939 (*) Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania 1 459 368 (*) 1 479 503 (*) Zobowiązania z tytułu umów z klientami 4 641 (*) 12 631 (*) Zobowiązania finansowe wyceniane w wartości godziwej 856 856 36 438 36 438 ZOBOWIĄZANIA FINANSOWE RAZEM 10 960 749 8 871 124 12 111 130 10 010 053 (*) Wartość księgowa jest zbliżona do ich wartości godziwej wycenianej zgodnie z poziomem 2 poniższej hierarchii.
+
+Grupa Kapitałowa ENEA Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2020 r. (wszystkie kwoty wyrażone są w tys. złotych, o ile nie podano inaczej) Dodatkowe informacje i objaśnienia przedstawione na stronach 10-51 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 41 Wycena instrumentów finansowych mierzonych w wartości godziwej według poziomów hierarchii.
+
+Krótkoterminowe dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie obejmują udzielone pożyczki o terminie wymagalności poniżej jednego roku.
+
+W pozycji inne inwestycje krótkoterminowe znajdują się lokaty o terminie zapadalności powyżej 3 miesięcy.
+
+Wartość godziwa kredytów bankowych, pożyczek i dłużnych papierów wartościowych wyliczana jest dla instrumentów finansowych opartych na stałej stopie procentowej, na podstawie bieżącego WIBOR-u.
+
+W celu zabezpieczenia się przed ewentualnymi negatywnymi konsekwencjami dla Grupy w postaci odsetek od zaległości w podatku od nieruchomości, w przypadku gdyby decyzje Gmin uwzględniające w podstawie opodatkowania wyposażenie i obudowę znajdujące się w wyrobiskach górniczych zostały ostatecznie utrzymane, w połowie 2019 roku LWB podjęła decyzję o uwzględnieniu dla potrzeb kalkulacji tego podatku wartości podziemnych wyrobisk górniczych oraz wyposażenia (w związku z pojawieniem się przeważającej linii orzecznictwa w zakresie opodatkowania elementów wchodzących w skład wyrobisk górniczych).
+
+Zarząd ENEA S.A. złożył w grudniu 2018 r. odpowiedź na pozew w sprawie z powództwa akcjonariusza Spółki Fundacji "CLIENTEARTH Prawnicy dla ziemi" z siedzibą w Warszawie o stwierdzenie nieważności lub ewentualnie ustalenie nieistnienia lub ewentualnie o uchylenie uchwały nr 3 Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. z 24 września 2018 r. w sprawie wyrażenia kierunkowej zgody na przystąpienie do Etapu Budowy w ramach projektu Ostrołęka C i zażądał oddalenia powództwa w całości jako bezzasadnego oraz zasądzenia kosztów zastępstwa procesowego. 10 kwietnia 2019 r. odbyła się pierwsza rozprawa w sprawie, na rozprawę nie byli wzywani świadkowie.
+
+Sąd zobowiązał Spółkę do złożenia Umowy Inwestycyjnej w terminie 14 dni, co najmniej w zakresie punktów od 1 do 8 (w szczególności pkt. 8.6) pod rygorem ujemnych skutków procesowych wskazanych w art. 233 § 2 k.p.c.
+
+W konsekwencji, z dniem 8 lipca 2020 r. wyrok Sądu Okręgowego w Poznaniu stwierdzający nieważność Uchwały stał się prawomocny.
+
+Zarząd ENEA S.A. złożył w grudniu 2018 r. odpowiedź na pozew w sprawie z powództwa Międzyzakładowego Związku Zawodowego Synergia Pracowników Grupy Kapitałowej ENEA z siedzibą w Poznaniu o stwierdzenie nieważności lub ewentualnie o uchylenie uchwały nr 3 Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. z 24 września 2018 r. w sprawie wyrażenia kierunkowej zgody na przystąpienie do Etapu Budowy w ramach projektu Ostrołęka C i zażądał oddalenia powództwa w całości jako bezzasadnego oraz zasądzenia kosztów zastępstwa procesowego.
+
+Rozprawa ta nie odbyła się, podobnie jak kolejne wyznaczone na 30 lipca 2019 r. i 1 października 2019 r.
+
+W przyszłości Grupa może być zobowiązana do ponoszenia kosztów z tytułu bezumownego korzystania z nieruchomości.
+
+Rozstrzygnięcia zapadające w tych sprawach są o tyle istotne, że w znaczący sposób wpływają zarówno na kształtowanie postępowania Grupy wobec osób zgłaszających roszczenia przedsądowe w związku z urządzeniami zlokalizowanymi na ich nieruchomościach w przeszłości, jak i na sposób regulowania stanu prawnego tych urządzeń w przypadku nowych inwestycji.
+
+Brak uregulowanego stanu prawnego nieruchomości pod urządzeniami energetycznymi nie stanowi ryzyka utraty przez Grupę majątku, a jedynie powoduje zagrożenie powstania dodatkowych kosztów związanych z żądaniami wypłaty odszkodowań za tzw. bezumowne korzystanie z gruntu, czynszu dzierżawnego kosztów ustanowienia służebności przesyłu lub wyjątkowo, w pojedynczych przypadkach z żądaniami związanymi ze zmianą lokalizacji obiektu (przywrócenie gruntu do stanu pierwotnego).
+
+Zmiany prawa, do których doszło po dniu zawarcia wymienionych Umów, tj. w szczególności:  rozporządzenie Ministra Gospodarki z 18 października 2012 r. w sprawie szczegółowego zakresu obowiązków uzyskania i przedstawienia do umorzenia świadectw pochodzenia, uiszczenia opłaty zastępczej, zakupu energii elektrycznej i ciepła wytworzonych w odnawialnych źródłach energii oraz obowiązku potwierdzania danych dotyczących ilości energii elektrycznej wytworzonej w odnawialnym źródle energii (Dz.
+
+U. z 2012 r., poz. 1229);  ustawa z 20 lutego 2015 r. o odnawialnych źródłach energii (Dz.U. z 2015 r. poz. 478) i związane z tą ustawą kolejne zmiany prawa oraz ogłoszone projekty zmian prawa, tj. w szczególności: - ustawa z 22 czerwca 2016 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz.U. z 2016 r. poz. 925); oraz - projekt rozporządzenia Ministra Energii w sprawie zmiany wielkości udziału ilościowego sumy energii elektrycznej wynikającej z umorzonych świadectw pochodzenia potwierdzających wytworzenie energii elektrycznej z odnawialnych źródeł energii, które ma zostać wydane na podstawie upoważnienia wynikającego z art. 12 ust. 5 ustawy z 22 czerwca 2016 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw; spowodowały obiektywny brak możliwości sporządzenia wiarygodnych modeli prognozujących kształtowanie się cen zielonych certyfikatów.
+
+Celem rozwiązania Umów jest uniknięcie przez Spółkę straty stanowiącej różnicę między cenami umownymi a ceną rynkową zielonych certyfikatów.
+
+KGHM Polska Miedź S.A., TAURON S.A. oraz ENEA S.A. nabyły od PGE S.A. po 10% udziałów (łącznie 30% udziałów) w PGE EJ 1.
+
+Zaangażowanie finansowe ENEA S.A. w ramach fazy wstępnej Projektu (Etap rozwoju) nie przekroczy kwoty ok. 107 mln zł.
+
+Łączne nakłady ENEA S.A. wynikające z nabycia udziałów i podwyższenia kapitału zakładowego spółki wyniosły dotychczas 32 544 tys. zł.
+
+W celu zapewnienia PGE EJ 1 środków finansowych na bieżącą działalność, Wspólnicy udzielili spółce pożyczek.
+
+Efektem tej analizy był dodatkowy odpis na oczekiwane straty, jednak jego poziom jest nieistotny z punktu widzenia sprawozdawczego.
+
+Niemniej, Grupa ocenia, że w przypadku ponownego wprowadzania ograniczeń związanych z epidemią COVID-19 i tym samym ograniczaniem aktywności gospodarczej, możliwe jest pogorszenie się wskaźnika rotacji należności, w związku z ograniczeniem zdolności płatniczych odbiorców energii elektrycznej.  W związku z reorganizacją pracy i zwiększonymi zabezpieczeniami spowodowanymi stanem epidemicznym Grupa identyfikuje ryzyko przesunięcia terminów zakończenia planowanych remontów i modernizacji jednostek wytwórczych, m.in. do konkluzji BAT.
+
+Na dzień sporządzenia niniejszego skonsolidowanego sprawozdania finansowego, rozwój sytuacji jest trudny do przewidzenia, podobnie jak potencjalne negatywne skutki dla działalności operacyjnej i finansowej Jednostki Dominującej oraz Grupy w przyszłości.

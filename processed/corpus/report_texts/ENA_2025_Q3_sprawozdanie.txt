@@ -1,0 +1,5458 @@
+SKRÓCONE 
+ŚRÓDROCZNE 
+SKONSOLIDOWANE 
+SPRAWOZDANIE 
+FINANSOWE 
+GRUPY KAPITAŁOWEJ 
+ENEA 
+za okres od 1 stycznia 
+do 30 września 2025 r. 
+zgodne z MSSF UE 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+2 
+SPIS TREŚCI 
+ 
+SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW ............... 4 
+SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ ....................... 5 
+SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM ......... 7 
+SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH .............. 8 
+DODATKOWE INFORMACJE I OBJAŚNIENIA ................................................................................... 9 
+Informacje ogólne .................................................................................................................................. 9 
+1. 
+Informacje ogólne o jednostce dominującej ............................................................................... 9 
+2. 
+Skład Grupy Kapitałowej ............................................................................................................ 9 
+3. 
+Skład Zarządu i Rady Nadzorczej jednostki dominującej ........................................................ 12 
+4. 
+Podstawa sporządzenia sprawozdania finansowego .............................................................. 13 
+5. 
+Zasady (polityka) rachunkowości i ważne oszacowania i założenia ........................................ 13 
+6. 
+Waluta funkcjonalna i waluta prezentacji ................................................................................. 13 
+Segmenty operacyjne ......................................................................................................................... 14 
+Noty objaśniające do skonsolidowanego sprawozdania z całkowitych dochodów ................... 21 
+7. 
+Przychody ze sprzedaży .......................................................................................................... 21 
+8. 
+Opodatkowanie ........................................................................................................................ 22 
+Noty objaśniające do skonsolidowanego sprawozdania z sytuacji finansowej .......................... 23 
+9. 
+Rzeczowe aktywa trwałe .......................................................................................................... 23 
+10. Wartości niematerialne ............................................................................................................. 23 
+11. Inwestycje w jednostki stowarzyszone i współkontrolowane ................................................... 24 
+12. Zapasy ...................................................................................................................................... 27 
+13. Świadectwa pochodzenia energii ............................................................................................. 27 
+14. Aktywa i zobowiązania z tytułu umów z klientami .................................................................... 28 
+15. Środki pieniężne o ograniczonej możliwości dysponowania.................................................... 28 
+16. Podział zysku ........................................................................................................................... 28 
+17. Zobowiązania z tytułu zadłużenia ............................................................................................ 29 
+18. Rezerwy ................................................................................................................................... 33 
+19. Rozliczenie przychodów z tytułu dotacji ................................................................................... 34 
+20. Rozliczenie przychodów z tytułu modernizacji oświetlenia drogowego ................................... 34 
+Instrumenty finansowe ....................................................................................................................... 36 
+21. Instrumenty finansowe i wartość godziwa ................................................................................ 36 
+22. Odpis aktualizujący na oczekiwane straty kredytowe dla należności z tytułu dostaw i usług 
+oraz pozostałych należności, stanowiących instrumenty finansowe ....................................... 38 
+23. Analiza struktury wiekowej należności z tytułu dostaw i usług oraz pozostałych należności, 
+stanowiących instrumenty finansowe ....................................................................................... 39 
+Pozostałe noty objaśniające .............................................................................................................. 41 
+24. Transakcje z jednostkami powiązanymi ................................................................................... 41 
+25. Zobowiązania warunkowe, postępowania sądowe oraz sprawy toczące się przed organem 
+administracji publicznej ............................................................................................................ 41 
+25.1. Poręczenia i gwarancje ................................................................................................... 42 
+25.2. Postępowania toczące się przed sądami powszechnymi ............................................... 42 
+25.3. Ryzyko związane ze stanem uregulowania sytuacji prawnej nieruchomości 
+wykorzystywanych przez Grupę ..................................................................................... 42 
+25.4. Sprawy dotyczące niezbilansowania za 2012 r. ............................................................. 43 
+25.5. Spór dotyczący cen na świadectwa pochodzenia energii OZE oraz wypowiedziane 
+umowy na zakup praw majątkowych wynikających ze świadectw pochodzenia energii 
+z odnawialnych źródeł ..................................................................................................... 43 
+26. Istotne zdarzenia mające wpływ na skrócone śródroczne skonsolidowane sprawozdanie 
+finansowe Grupy za okres 9 miesięcy zakończony 30 września 2025 r. ................................. 45 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+3 
+Niniejsze skrócone śródroczne skonsolidowane sprawozdanie finansowe zostało sporządzone zgodnie z wymogami 
+Międzynarodowego Standardu Sprawozdawczości Finansowej MSR 34 Śródroczna sprawozdawczość finansowa, który 
+został zatwierdzony przez Unię Europejską i zostało zatwierdzone przez Zarząd ENEA S.A. 
+ 
+ 
+Członkowie Zarządu 
+ 
+ 
+ 
+ 
+ 
+ 
+Prezes Zarządu 
+Grzegorz Kinelski 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Członek Zarządu 
+Dalida Gepfert 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Członek Zarządu 
+Bartosz Krysta 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Członek Zarządu 
+Marek Lelątko 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENEA Centrum Sp. z o.o. 
+Podmiot odpowiedzialny za prowadzenie ksiąg 
+rachunkowych i sporządzenie sprawozdania finansowego 
+ENEA Centrum Sp. z o.o. Pl. Władysława Andersa 7, 61-894 Poznań 
+KRS 0000477231, NIP 777-00-02-843, REGON 630770227 
+Robert Kiereta 
+ 
+ 
+Poznań, 18 listopada 2025 r.
+Robert 
+Leszek 
+Kiereta
+Elektronicznie 
+podpisany przez 
+Robert Leszek Kiereta 
+Data: 2025.11.18 
+07:17:04 +01'00'
+MAREK 
+LELĄTKO
+Elektronicznie 
+podpisany przez 
+MAREK LELĄTKO 
+Data: 2025.11.18 
+08:38:45 +01'00'
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Skonsolidowane sprawozdanie z całkowitych dochodów należy analizować łącznie z dodatkowymi informacjami i objaśnieniami stanowiącymi 
+integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 
+4 
+ 
+SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW 
+ 
+ 
+ 
+Za okres 9 
+miesięcy 
+Za okres 3 
+miesięcy 
+Za okres 9 
+miesięcy 
+Za okres 3 
+miesięcy 
+ 
+ 
+zakończony 
+zakończony 
+zakończony 
+zakończony 
+ 
+Nota 
+30 września 
+2025 
+(niebadane) 
+30 września 
+2025 
+(niebadane) 
+30 września 
+2024 
+(niebadane) 
+30 września 
+2024 
+(niebadane) 
+Przychody ze sprzedaży 
+7 
+20 276 195 
+6 465 617
+22 952 695 
+7 667 106
+Podatek akcyzowy 
+ 
+(67 876) 
+(22 013)
+(74 895) 
+(24 425)
+Przychody ze sprzedaży netto 
+ 
+20 208 319 
+6 443 604
+22 877 800 
+7 642 681
+Rekompensaty 
+7 
+462 228 
+141 899
+1 270 064 
+372 315
+Przychody z tytułu leasingu i subleasingu operacyjnego 
+ 
+13 235 
+3 677
+13 478 
+4 345
+Przychody ze sprzedaży oraz inne dochody 
+ 
+20 683 782 
+6 589 180
+24 161 342 
+8 019 341
+Pozostałe przychody operacyjne 
+26 
+291 948 
+60 170
+154 513 
+35 008
+Zmiana rezerwy dotyczącej umów rodzących obciążenia 
+18 
+48 191 
+20 299
+20 682 
+15 737
+Amortyzacja 
+ 
+(1 014 061) 
+(359 676)
+(1 127 967) 
+(384 963)
+Koszty świadczeń pracowniczych 
+ 
+(2 448 538) 
+(777 629)
+(2 500 692) 
+(798 339)
+Zużycie materiałów i surowców oraz wartość sprzedanych 
+towarów 
+ 
+(5 382 258) 
+(1 745 233)
+(7 295 396) 
+(2 352 943)
+Zakup energii i gazu na potrzeby sprzedaży 
+ 
+(6 446 618) 
+(2 190 505)
+(7 265 970) 
+(2 437 201)
+Usługi przesyłowe 
+ 
+(489 979) 
+(161 472)
+(469 866) 
+(156 816)
+Inne usługi obce 
+ 
+(975 675) 
+(348 086)
+(883 126) 
+(280 281)
+Podatki i opłaty 
+ 
+(443 660) 
+(142 872)
+(409 058) 
+(134 935)
+Strata na zmianie, sprzedaży i likwidacji rzeczowych aktywów 
+trwałych oraz prawa do korzystania ze składnika aktywów 
+ 
+(8 647) 
+(104)
+(40 028) 
+(5 686)
+(Odpis)/odwrócenie odpisu z tytułu utraty wartości 
+niefinansowych aktywów trwałych 
+ 
+(143) 
+−
+16 619 
+−
+Pozostałe koszty operacyjne 
+ 
+(170 309) 
+(32 311)
+(139 326) 
+(41 231)
+Zysk operacyjny 
+ 
+3 644 033 
+911 761
+4 221 727 
+1 477 691
+Koszty finansowe 
+ 
+(401 875) 
+(123 242)
+(399 133) 
+(143 940)
+Przychody finansowe 
+ 
+255 407 
+98 117
+204 940 
+95 392
+Straty z pochodnych instrumentów walutowych 
+niewykorzystywanych w rachunkowości zabezpieczeń 
+ 
+(141 336) 
+(30 639)
+(234 942) 
+(99 226)
+Przychody z tytułu dywidend 
+ 
+− 
+−
+14 
+−
+Udział w wynikach jednostek stowarzyszonych 
+i współkontrolowanych 
+11 
+601 
+8 418
+(40 593) 
+(10 002)
+Zysk przed opodatkowaniem 
+ 
+3 356 830 
+864 415
+3 752 013 
+1 319 915
+Podatek dochodowy 
+8 
+(634 804) 
+(165 420)
+(756 151) 
+(293 750)
+Zysk netto okresu sprawozdawczego 
+ 
+2 722 026 
+698 995
+2 995 862 
+1 026 165
+Inne całkowite dochody 
+ 
+ 
+ 
+Podlegające przeklasyfikowaniu do zysków lub strat: 
+ 
+ 
+ 
+- wycena instrumentów zabezpieczających 
+ 
+(28 082) 
+(3 697)
+(52 060) 
+(8 502)
+- podatek dochodowy 
+8 
+5 336 
+702
+9 891 
+1 614
+ 
+Niepodlegające przeklasyfikowaniu do zysków lub strat: 
+ 
+ 
+ 
+- przeszacowanie programu określonych świadczeń 
+ 
+(42 585) 
+−
+41 391 
+−
+- podatek dochodowy 
+8 
+8 091 
+−
+(7 864) 
+−
+Inne całkowite dochody netto 
+ 
+(57 240) 
+(2 995)
+(8 642) 
+(6 888)
+Całkowity dochód za okres sprawozdawczy 
+ 
+2 664 786 
+696 000
+2 987 220 
+1 019 277
+Z tego zysk netto: 
+ 
+ 
+ 
+przypadający na akcjonariuszy Jednostki Dominującej 
+ 
+2 672 449 
+747 062
+3 251 515 
+970 789
+przypadający na udziały niekontrolujące 
+ 
+49 577 
+(48 067)
+(255 653) 
+55 376
+Z tego całkowity dochód: 
+ 
+ 
+ 
+przypadający na akcjonariuszy Jednostki Dominującej 
+ 
+2 617 059 
+744 067
+3 248 902 
+963 901
+przypadający na udziały niekontrolujące 
+ 
+47 727 
+(48 067)
+(261 682) 
+55 376
+Zysk netto przypadający na akcjonariuszy Jednostki 
+Dominującej 
+ 
+2 672 449 
+747 062
+3 251 515 
+970 789
+Średnioważona liczba akcji zwykłych (w szt.) 
+ 
+529 731 093 
+529 731 093
+529 731 093 
+529 731 093
+Zysk netto przypadający na akcjonariuszy Jednostki 
+Dominującej na akcję (w zł na jedną akcję) 
+ 
+5,04 
+1,41
+6,14 
+1,83
+Zysk rozwodniony na akcję (w zł na jedną akcję) 
+ 
+5,04 
+1,41
+6,14 
+1,83
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Skonsolidowane sprawozdanie z sytuacji finansowej należy analizować łącznie z dodatkowymi informacjami i objaśnieniami stanowiącymi integralną 
+część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 
+5 
+ 
+SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ 
+ 
+ 
+ 
+Stan na 
+ 
+Nota 30 września 2025 
+(niebadane) 
+31 grudnia 2024 
+AKTYWA 
+ 
+Aktywa trwałe 
+ 
+Rzeczowe aktywa trwałe 
+9 
+21 290 252
+17 955 724
+Prawo do korzystania ze składnika aktywów 
+ 
+885 105
+834 829
+Wartości niematerialne 
+10 
+332 656
+317 912
+Nieruchomości inwestycyjne 
+ 
+13 598
+20 746
+Inwestycje w jednostki stowarzyszone i współkontrolowane 
+11 
+111 413
+105 711
+Aktywa z tytułu odroczonego podatku dochodowego 
+8 
+1 363 365
+851 582
+Aktywa finansowe wyceniane w wartości godziwej 
+21 
+51 997
+44 920
+Należności z tytułu dostaw i usług oraz pozostałe należności 
+ 
+111 974
+17 306
+Koszty doprowadzenia do zawarcia umowy 
+ 
+12 639
+11 586
+Należności z tytułu leasingu i subleasingu finansowego 
+ 
+1 129
+1 646
+Środki zgromadzone w ramach Funduszu Likwidacji Kopalń 
+ 
+178 142
+177 394
+Aktywa trwałe razem 
+ 
+24 352 270
+20 339 356
+Aktywa obrotowe 
+ 
+Prawa do emisji CO2 
+18 
+399 435
+6 952 783
+Zapasy 
+12 
+1 298 774
+1 384 643
+Należności z tytułu dostaw i usług oraz pozostałe należności 
+ 
+4 158 114
+4 647 741
+Koszty doprowadzenia do zawarcia umowy 
+ 
+16 148
+16 836
+Aktywa z tytułu umów z klientami 
+14 
+459 625
+455 963
+Należności z tytułu leasingu i subleasingu finansowego 
+ 
+2 050
+2 188
+Należności z tytułu bieżącego podatku dochodowego 
+ 
+117 885
+1 210 095
+Aktywa finansowe wyceniane w wartości godziwej 
+21 
+14 236
+46 111
+Inne inwestycje krótkoterminowe 
+21 
+613 884
+−
+Środki pieniężne i ich ekwiwalenty 
+15 
+7 777 145
+4 412 137
+Aktywa obrotowe razem 
+ 
+14 857 296
+19 128 497
+Aktywa razem 
+ 
+39 209 566
+39 467 853
+ 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Skonsolidowane sprawozdanie z sytuacji finansowej należy analizować łącznie z dodatkowymi informacjami i objaśnieniami stanowiącymi integralną 
+część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 
+6 
+ 
+SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ 
+ 
+ 
+ 
+Stan na 
+ 
+Nota 30 września 2025 
+(niebadane) 
+31 grudnia 2024 
+PASYWA 
+ 
+Kapitał własny 
+ 
+Kapitał własny przypadający na akcjonariuszy jednostki dominującej 
+ 
+Kapitał zakładowy 
+ 
+676 306
+676 306
+Kapitał z nadwyżki ceny emisyjnej nad wartością nominalną akcji 
+ 
+3 348 670
+3 348 670
+Kapitał z aktualizacji wyceny instrumentów finansowych 
+ 
+(7 273)
+(7 273)
+Kapitał rezerwowy z wyceny instrumentów zabezpieczających 
+ 
+(7 703)
+15 043
+Zyski zatrzymane 
+ 
+13 651 785
+11 276 846
+Kapitał własny przypadający na akcjonariuszy jednostki dominującej razem 
+ 
+17 661 785
+15 309 592
+Udziały niekontrolujące 
+ 
+1 070 147
+1 023 226
+Kapitał własny razem 
+ 
+18 731 932
+16 332 818
+ZOBOWIĄZANIA 
+ 
+Zobowiązania długoterminowe 
+ 
+Kredyty, pożyczki i dłużne papiery wartościowe 
+17 
+5 973 985
+6 094 390
+Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania 
+ 
+146 384
+19 875
+Zobowiązania z tytułu umów z klientami 
+14 
+21 172
+17 614
+Zobowiązania z tytułu leasingu 
+ 
+730 812
+690 977
+Rozliczenie przychodów z tytułu dotacji 
+19 
+585 037
+510 796
+Rozliczenie przychodów z tytułu modernizacji oświetlenia drogowego 
+20 
+203 401
+174 278
+Rezerwa z tytułu odroczonego podatku dochodowego 
+8 
+436 644
+389 462
+Zobowiązania z tytułu świadczeń pracowniczych 
+ 
+1 306 616
+1 222 335
+Zobowiązania finansowe wyceniane w wartości godziwej 
+21 
+48 893
+20 457
+Rezerwy na pozostałe zobowiązania i inne obciążenia 
+18 
+1 433 617
+1 421 435
+Zobowiązania długoterminowe razem 
+ 
+10 886 561
+10 561 619
+Zobowiązania krótkoterminowe 
+ 
+Kredyty, pożyczki i dłużne papiery wartościowe 
+17 
+752 699
+755 981
+Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania 
+ 
+2 405 461
+3 224 235
+Zobowiązania z tytułu umów z klientami 
+14 
+570 955
+482 418
+Zobowiązania z tytułu leasingu 
+ 
+38 641
+36 620
+Rozliczenie przychodów z tytułu dotacji 
+19 
+20 327
+20 804
+Rozliczenie przychodów z tytułu modernizacji oświetlenia drogowego 
+20 
+10 689
+9 028
+Zobowiązania z tytułu bieżącego podatku dochodowego 
+ 
+842 333
+88 731
+Zobowiązania z tytułu świadczeń pracowniczych 
+ 
+837 996
+878 835
+Zobowiązania z tytułu ekwiwalentu prawa do nieodpłatnego nabycia akcji 
+ 
+281
+281
+Zobowiązania finansowe wyceniane w wartości godziwej 
+21 
+161 633
+54 956
+Rezerwy na pozostałe zobowiązania i inne obciążenia 
+18 
+3 950 058
+7 021 527
+Zobowiązania krótkoterminowe razem 
+ 
+9 591 073
+12 573 416
+Zobowiązania razem 
+ 
+20 477 634
+23 135 035
+KAPITAŁ WŁASNY I ZOBOWIĄZANIA RAZEM 
+ 
+39 209 566
+39 467 853
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Skonsolidowane sprawozdanie ze zmian w kapitale własnym należy analizować łącznie z dodatkowymi informacjami i objaśnieniami stanowiącymi integralną część skróconego śródrocznego skonsolidowanego sprawozdania 
+finansowego 
+7 
+ 
+SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM 
+ 
+(a) III kwartał 2025 (niebadane) 
+ 
+ 
+ 
+ Kapitał własny przypadający na akcjonariuszy jednostki dominującej 
+ 
+ 
+Kapitał 
+zakładowy 
+(wartość 
+nominalna) 
+Kapitał z 
+przeszacowania 
+oraz z 
+rozliczenia 
+połączenia 
+Kapitał 
+zakładowy 
+razem 
+Kapitał 
+z nadwyżki ceny 
+emisyjnej nad 
+wartością 
+nominalną akcji 
+Kapitał 
+z aktualizacji 
+wyceny 
+instrumentów 
+finansowych 
+Kapitał rezerwowy 
+z wyceny 
+instrumentów 
+zabezpieczających 
+Zyski 
+zatrzymane 
+Udziały 
+niekontrolujące 
+Kapitał 
+własny 
+razem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stan na 1 stycznia 2025 
+529 731 
+146 575 
+676 306 
+3 348 670 
+(7 273) 
+15 043 
+11 276 846 
+1 023 226 
+16 332 818 
+Zysk netto okresu sprawozdawczego 
+- 
+- 
+- 
+- 
+- 
+- 
+2 672 449 
+49 577 
+2 722 026 
+Inne całkowite dochody netto 
+- 
+- 
+- 
+- 
+- 
+(22 746) 
+(32 644) 
+(1 850) 
+(57 240) 
+Całkowite dochody netto rozpoznane 
+w okresie 
+- 
+- 
+- 
+- 
+- 
+(22 746) 
+2 639 805 
+47 727 
+2 664 786 
+Dywidendy na rzecz udziałowców 
+niekontrolujących 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+(806) 
+(806) 
+Dywidendy na rzecz akcjonariuszy 
+jednostki dominującej 
+- 
+- 
+- 
+- 
+- 
+- 
+(264 866) 
+- 
+(264 866) 
+Stan na 30 września 2025 
+529 731 
+146 575 
+676 306 
+3 348 670 
+(7 273) 
+(7 703) 
+13 651 785 
+1 070 147 
+18 731 932 
+ 
+(b) III kwartał 2024 (niebadane) 
+ 
+ 
+Kapitał własny przypadający na akcjonariuszy jednostki dominującej 
+ 
+ 
+Kapitał 
+zakładowy 
+(wartość 
+nominalna) 
+Kapitał z 
+przeszacowania 
+oraz z rozliczenia 
+połączenia 
+Kapitał 
+zakładowy 
+razem 
+Kapitał z nadwyżki ceny 
+emisyjnej nad 
+wartością nominalną 
+akcji 
+ 
+Kapitał rezerwowy 
+z wyceny 
+instrumentów 
+zabezpieczających 
+Zyski 
+zatrzymane 
+Udziały 
+niekontrolujące 
+Kapitał 
+własny 
+razem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stan na 1 stycznia 2024 
+529 731 
+146 575 
+676 306 
+3 348 670 
+55 249 
+9 858 705 
+1 500 669 
+15 439 599 
+Zysk/(strata) netto okresu 
+sprawozdawczego 
+- 
+- 
+- 
+- 
+- 
+3 251 515 
+(255 653) 
+2 995 862 
+Inne całkowite dochody netto 
+- 
+- 
+- 
+- 
+(42 169) 
+39 556 
+(6 029) 
+(8 642) 
+Całkowite dochody netto rozpoznane 
+w okresie 
+- 
+- 
+- 
+- 
+(42 169) 
+3 291 071 
+(261 682) 
+2 987 220 
+Dywidendy na rzecz udziałowców 
+niekontrolujących 
+- 
+- 
+- 
+- 
+- 
+- 
+(30 260) 
+(30 260) 
+Stan na 30 września 2024 
+529 731 
+146 575 
+676 306 
+3 348 670 
+13 080 
+13 149 776 
+1 208 727 
+18 396 559 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Skonsolidowane sprawozdanie z przepływów pieniężnych należy analizować łącznie z dodatkowymi informacjami i objaśnieniami stanowiącymi 
+integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 
+8 
+ 
+SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH 
+ 
+ 
+ 
+Za okres 9 miesięcy zakończony 
+ 
+Nota 30 września 2025 
+(niebadane) 
+30 września 2024 
+(niebadane) 
+Przepływy pieniężne z działalności operacyjnej 
+ 
+Zysk netto okresu sprawozdawczego 
+ 
+2 722 026
+2 995 862
+Korekty: 
+ 
+Podatek dochodowy w zyskach i stratach 
+8 
+634 804
+756 151
+Amortyzacja 
+ 
+1 014 061
+1 127 967
+Strata na zmianie, sprzedaży i likwidacji rzeczowych aktywów trwałych 
+oraz prawa do korzystania ze składnika aktywów 
+ 
+8 647
+40 028
+Odpis/(odwrócenie odpisu) z tytułu utraty wartości niefinansowych 
+aktywów trwałych 
+ 
+143
+(16 619)
+(Zysk)/strata na sprzedaży aktywów finansowych 
+ 
+(4 008)
+17 373
+Przychody z tytułu odsetek 
+ 
+(45 775)
+(66 101)
+Przychody z tytułu dywidend 
+ 
+−
+(14)
+Koszty z tytułu odsetek 
+ 
+302 531
+306 634
+Strata z wyceny instrumentów finansowych 
+ 
+130 665
+117 928
+Udział w wynikach jednostek stowarzyszonych i współkontrolowanych 
+ 
+(601)
+40 593
+Inne korekty 
+ 
+(17 973)
+(30 624)
+Korekty razem 
+ 
+2 022 494
+2 293 316
+Podatek dochodowy zapłacony 
+ 
+746 705
+(101 920)
+Zmiany kapitału obrotowego: 
+ 
+Prawa do emisji CO2 
+ 
+6 553 348
+3 481 146
+Zapasy 
+ 
+82 522
+562 072
+Należności z tytułu dostaw i usług oraz pozostałe należności 
+ 
+495 686
+1 115 503
+Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania 
+ 
+(368 505)
+(1 011 132)
+Zobowiązania z tytułu świadczeń pracowniczych 
+ 
+857
+53 491
+Rozliczenie przychodów z tytułu dotacji 
+ 
+10 675
+31 494
+Rozliczenie przychodów z tytułu modernizacji oświetlenia drogowego 
+ 
+5 556
+4 727
+Pozostałe rezerwy na zobowiązania i inne obciążenia 
+ 
+(3 068 618)
+(1 642 853)
+Zmiany kapitału obrotowego razem 
+ 
+3 711 521
+2 594 448
+Przepływy pieniężne netto z działalności operacyjnej 
+ 
+9 202 746
+7 781 706
+Przepływy pieniężne z działalności inwestycyjnej 
+ 
+Nabycie rzeczowych i niematerialnych aktywów trwałych 
+ 
+(3 889 945)
+(2 159 833)
+Wpływy ze sprzedaży rzeczowych i niematerialnych aktywów trwałych 
+ 
+8 868
+1 987
+Nabycie aktywów finansowych 
+ 
+(600 000)
+−
+Nabycie jednostek zależnych 
+ 
+−
+(3 001)
+Nabycie jednostek stowarzyszonych i współkontrolowanych 
+ 
+(6 679)
+(2 500)
+Zbycie jednostek stowarzyszonych i współkontrolowanych 
+ 
+3 199
+42 000
+Dywidendy otrzymane 
+ 
+−
+14
+Wypływy z tytułu gromadzenia środków pieniężnych na rachunku bankowym Funduszu 
+Likwidacji Kopalń 
+ 
+(748)
+(4 225)
+Odsetki otrzymane 
+ 
+33 841
+66 443
+Inne wpływy/(wydatki) z działalności inwestycyjnej 
+ 
+924
+(400)
+Przepływy pieniężne netto z działalności inwestycyjnej 
+ 
+(4 450 540)
+(2 059 515)
+Przepływy pieniężne z działalności finansowej 
+ 
+Otrzymane kredyty i pożyczki 
+ 
+1 288 869
+1 099 388
+Emisja obligacji 
+ 
+−
+1 172 400
+Spłata kredytów i pożyczek 
+ 
+(1 874 737)
+(1 931 135)
+Wykup obligacji 
+ 
+(156 110)
+(1 328 510)
+Dywidendy wypłacone 
+ 
+(265 672)
+(30 260)
+Spłata zobowiązań z tytułu leasingu 
+ 
+(40 287)
+(44 085)
+Odsetki zapłacone 
+ 
+(339 261)
+(299 857)
+Przepływy pieniężne netto z działalności finansowej 
+ 
+(1 387 198)
+(1 362 059)
+Przepływy pieniężne netto razem 
+ 
+3 365 008
+4 360 132
+Stan środków pieniężnych na początek okresu sprawozdawczego 
+ 
+4 412 137
+3 026 133
+Stan środków pieniężnych na koniec okresu sprawozdawczego 
+ 
+7 777 145
+7 386 265
+w tym o ograniczonej możliwości dysponowania 
+ 
+488 255
+528 141
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+9 
+ 
+DODATKOWE INFORMACJE I OBJAŚNIENIA 
+Informacje ogólne 
+ 
+1. 
+Informacje ogólne o jednostce dominującej 
+ 
+Nazwa (firma): 
+ENEA Spółka Akcyjna 
+Forma prawna: 
+spółka akcyjna 
+Kraj rejestracji: 
+Rzeczpospolita Polska 
+Siedziba: 
+Poznań, Rzeczpospolita Polska 
+Adres: 
+ul. Pastelowa 8, 60-198 Poznań 
+Miejsce prowadzenia działalności: 
+Rzeczpospolita Polska 
+KRS: 
+0000012483 
+Numer telefonu: 
+(+48 61) 884 55 44 
+Numer faksu: 
+(+48 61) 884 59 59 
+E-mail: 
+enea@enea.pl 
+Strona internetowa: 
+www.enea.pl 
+Numer klasyfikacji statystycznej (REGON): 
+630139960 
+Numer klasyfikacji podatkowej (NIP): 
+777-00-20-640 
+ENEA S.A. (zwana dalej „Spółka”, „Jednostka Dominująca”) jest jednostką dominującą Grupy Kapitałowej ENEA („Grupa”, 
+„Grupa Kapitałowa”). 
+Na 30 września 2025 r. struktura akcjonariuszy Jednostki Dominującej przedstawiała się następująco: 
+ 
+Skarb Państwa 
+Rzeczypospolitej Polskiej 
+Pozostali 
+akcjonariusze 
+Razem 
+Stan na 30 września 2025 
+52,29% 
+47,71% 
+100,00% 
+Na 30 września 2025 r. podmiotem kontrolującym Jednostkę Dominującą był Skarb Państwa będący stroną kontrolującą 
+najwyższego szczebla. 
+Na 30 września 2025 r. statutowy kapitał zakładowy ENEA S.A. był równy 529 731 tys. zł (676 306 tys. zł 
+po przekształceniu na MSSF UE z uwzględnieniem hiperinflacji i innych korekt) i dzielił się na 529 731 093 akcje. 
+Czas trwania Jednostki Dominującej jest nieoznaczony. 
+Działalność prowadzona jest na podstawie odpowiednich koncesji przyznawanych Jednostce Dominującej 
+i poszczególnym jednostkom wchodzącym w skład Grupy Kapitałowej. 
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe Grupy obejmuje okres 9 miesięcy zakończony 
+30 września 2025 r. i zawiera dane porównawcze za okres 9 miesięcy zakończony 30 września 2024 r. 
+oraz na dzień 31 grudnia 2024 r. 
+2. 
+Skład Grupy Kapitałowej 
+Na 30 września 2025 r. Grupa Kapitałowa składała się z jednostki dominującej ENEA S.A., 53 spółek zależnych, w tym 
+33 spółek pośrednio zależnych oraz 4 spółek stowarzyszonych. 
+Głównym przedmiotem działalności Grupy Kapitałowej jest: 
+− 
+produkcja energii elektrycznej i cieplnej (ENEA Wytwarzanie Sp. z o.o., ENEA Elektrownia Połaniec S.A., 
+Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o. w Obornikach, Miejska Energetyka Cieplna Piła Sp. z o.o., 
+ENEA Ciepło Sp. z o.o., ENEA Nowa Energia Sp. z o.o.); 
+− 
+obrót energią elektryczną (ENEA S.A., ENEA Trading Sp. z o.o.); 
+− 
+dystrybucja energii elektrycznej (ENEA Operator Sp. z o.o.); 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+10 
+ 
+− 
+dystrybucja ciepła (Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o. w Obornikach, Miejska Energetyka Cieplna 
+Piła Sp. z o.o., ENEA Ciepło Sp. z o.o.); 
+− 
+górnictwo i wzbogacanie węgla kamiennego (Grupa Lubelski Węgiel „Bogdanka” S.A.). 
+ 
+Nazwa spółki 
+Przedmiot 
+działalności 
+Siedziba 
+Udział ENEA S.A. 
+w całkowitej 
+liczbie głosów na 
+30 września 2025 
+Udział ENEA S.A. 
+w całkowitej 
+liczbie głosów na 
+31 grudnia 2024 
+SPÓŁKI ZALEŻNE 
+1. 
+ENEA Operator Sp. z o.o. 
+dystrybucja 
+Poznań 
+100% 
+100% 
+2. 
+ENEA Wytwarzanie Sp. z o.o. 
+wytwarzanie 
+Świerże Górne 
+100% 
+100% 
+3. 
+ENEA Elektrownia Połaniec S.A. 
+wytwarzanie 
+Połaniec 
+100% 
+100% 
+4. 
+ENEA Oświetlenie Sp. z o.o. 
+pozostała 
+działalność 
+Szczecin 
+100% 
+100% 
+5. 
+ENEA Trading Sp. z o.o. 
+obrót 
+Świerże Górne 
+100% 
+100% 
+6. 
+ENEA Serwis Sp. z o.o. 
+dystrybucja 
+Lipno 
+100% 
+100% 
+7. 
+ENEA Centrum Sp. z o.o. 
+pozostała 
+działalność 
+Poznań 
+100% 
+100% 
+8. 
+ENEA Pomiary Sp. z o.o. 
+dystrybucja 
+Poznań 
+100% 
+100% 
+9. 
+ENEA Innowacje Sp. z o.o. 
+w likwidacji 
+pozostała 
+działalność 
+Warszawa 
+- 9 
+100% 
+10. Lubelski Węgiel BOGDANKA S.A. 
+wydobycie 
+Bogdanka 
+64,57% 
+64,57% 
+11. ENEA Ciepło Sp. z o.o. 
+wytwarzanie 
+Białystok 
+99,94% 
+99,94% 
+12. Przedsiębiorstwo Energetyki Cieplnej 
+Sp. z o.o. 
+wytwarzanie 
+Oborniki 
+99,93% 
+99,93% 
+13. Miejska Energetyka Cieplna Piła 
+Sp. z o.o. 
+wytwarzanie 
+Piła 
+71,11% 
+71,11% 
+14. ENEA Nowa Energia Sp. z o.o. 
+wytwarzanie 
+Radom 
+100% 
+100% 
+15. ENEA ELKOGAZ Sp. z o.o. 
+wytwarzanie 
+Świerże Górne 
+100% 
+100% 
+16. ENEA Power&Gas 
+Trading Sp. z o.o. 
+obrót 
+Warszawa 
+100% 
+100% 
+17. ENEA Eko Sp. z o.o. 
+obrót 
+Warszawa 
+100%22 
+100%22 
+18. EW Magazyn Energii Sp. z o.o. 
+wytwarzanie 
+Świerże Górne 
+100%6,22 
+- 
+19. EW MPŻ Sp. z o.o. 
+wytwarzanie 
+Świerże Górne 
+100%7,22 
+- 
+20. ENEA Połaniec Gaz Sp. z o.o. 
+wytwarzanie 
+Połaniec 
+100%10,22 
+- 
+21. ENEA Połaniec Peak Sp. z o.o. 
+wytwarzanie 
+Połaniec 
+100%20,22 
+- 
+SPÓŁKI POŚREDNIO ZALEŻNE 
+22. ENEA Logistyka Sp. z o.o. 
+dystrybucja 
+Poznań 
+100%3 
+100%3 
+23. ENEA Bioenergia Sp. z o.o. 
+wytwarzanie 
+Połaniec 
+100%1 
+100%1 
+24. EkoTRANS Bogdanka Sp. z o.o. 
+wydobycie 
+Bogdanka 
+64,57%2 
+64,57%2 
+25. RG Bogdanka Sp. z o.o. 
+wydobycie 
+Bogdanka 
+64,57%2 
+64,57%2 
+26. MR Bogdanka Sp. z o.o. 
+wydobycie 
+Bogdanka 
+64,57%2 
+64,57%2 
+27. Łęczyńska Energetyka Sp. z o.o. 
+wydobycie 
+Bogdanka 
+57,27%2 
+57,27%2 
+28. ENEBIOGAZ 1 Sp. z o.o. 
+wytwarzanie 
+Radom 
+100%4,22 
+100%4,22 
+29. ENEBIOGAZ 2 Sp. z o.o. 
+wytwarzanie 
+Radom 
+100%4,22 
+100%4,22 
+30. Farma Wiatrowa Bejsce Sp. z o.o. 
+wytwarzanie 
+Radom 
+100%4 
+100%4 
+31. WMC SPV 2 Sp. z o.o. 
+wytwarzanie 
+Warszawa 
+-4,15 
+100%4 
+32. WMC SPV 4 Sp. z o.o. 
+wytwarzanie 
+Warszawa 
+-4,15 
+100%4 
+33. EN101 Sp. z o.o. 
+wytwarzanie 
+Poznań 
+100%4,22 
+100%4,22 
+34. EN102 Sp. z o.o. 
+wytwarzanie 
+Poznań 
+100%4,22 
+100%4,22 
+35. EN103 Sp. z o.o. 
+wytwarzanie 
+Poznań 
+100%4,22 
+100%4,22 
+36. EN201 Sp. z o.o. 
+wytwarzanie 
+Poznań 
+100%4,22 
+100%4,22 
+37. EN202 Sp. z o.o. 
+wytwarzanie 
+Poznań 
+100%4,22 
+100%4,22 
+38. EN203 Sp. z o.o. 
+wytwarzanie 
+Poznań 
+100%4,22 
+100%4,22 
+39. 
+ENEA PV Gablin Sp. z o.o. (dawniej: 
+Wielkopolskie Elektrownie Słoneczne 3 
+Sp. z o.o.) 
+wytwarzanie 
+Poznań 
+100%4,5,22 
+- 
+40. PRO-WIND Sp. z o.o. 
+wytwarzanie 
+Poznań 
+100%4,16,21 
+100% 
+41. PV Tykocin Sp. z o.o. 
+wytwarzanie 
+Poznań 
+100%4,17,21 
+100% 
+42. PV Genowefa Sp. z o.o. 
+wytwarzanie 
+Poznań 
+100%4,17,21 
+100% 
+43. PV Stare Brynki Sp. z o.o 
+wytwarzanie 
+Poznań 
+100%4,11,22 
+- 
+44. ENEA FW Pelplin Sp. z o.o. 
+(dawniej: Radan Nordwind Sp. z o.o.) 
+wytwarzanie 
+Radom 
+100%4,13 
+- 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+11 
+ 
+45. ENEA PV Rydzyna 
+Sp. z o.o. (dawniej: RRSP 88 Sp. z o.o. ) 
+wytwarzanie 
+Poznań 
+100%4,12,22 
+- 
+46. ENEA FW Skibno Sp. z o.o. 
+(dawnej: EKO-EN Skibno 2 Sp. z o. o.) 
+wytwarzanie 
+Radom 
+100%4,18 
+- 
+47. EE Grunhof GmbH 
+wytwarzanie 
+Husum 
+100%4,19,22 
+- 
+48. EE Liskowo Sp. z o.o. 
+wytwarzanie 
+Warszawa 
+100%4,19 
+- 
+49. EE Pommern GmbH 
+wytwarzanie 
+Husum 
+100%4,19,22 
+- 
+50. EE Pomorze Sp. z o.o. 
+wytwarzanie 
+Warszawa 
+100%4,19 
+- 
+51. Farma Wiatrowa Kołobrzeg Sp. z o.o 
+wytwarzanie 
+Warszawa 
+100%4,19 
+- 
+52. Farma Wiatrowa Drawsko II Sp. z o.o. 
+wytwarzanie 
+Warszawa 
+100%4,19 
+- 
+53. Farma Wiatrowa Siemyśl Sp. z o.o. 
+wytwarzanie 
+Warszawa 
+100%4,19 
+- 
+54. European Wind Farms Polska Sp. z o.o. 
+wytwarzanie 
+Warszawa 
+100%4,19 
+- 
+55. European Wind Farms Polska Sp. z o.o. 
+Grzmiąca sp. k. 
+wytwarzanie 
+Warszawa 
+100%4,19 
+- 
+56. European Wind Farms Polska Sp. z o.o. 
+Białogard sp. k. 
+wytwarzanie 
+Warszawa 
+100%4,19 
+- 
+SPÓŁKI STOWARZYSZONE 
+56. Polimex – Mostostal S.A. 
+- 
+Warszawa 
+16,13%8 
+16,33% 
+58. Elektrownia Wiatrowa Baltica-4 Sp. z o.o. 
+- 
+Warszawa 
+33,81% 
+33,81% 
+59. Elektrownia Wiatrowa Baltica-5 Sp. z o.o. 
+- 
+Warszawa 
+33,81%14 
+33,81% 
+60. Elektrownia Wiatrowa Baltica-6 Sp. z o.o. 
+- 
+Warszawa 
+33,76% 
+33,76% 
+1 – spółka pośrednio zależna poprzez udziały w spółce ENEA Elektrownia Połaniec S.A. 
+2 – spółka pośrednio zależna poprzez udziały w spółce Lubelski Węgiel BOGDANKA S.A. 
+3 – spółka pośrednio zależna poprzez udziały w spółce ENEA Operator Sp. z o.o. 
+4 – spółka pośrednio zależna poprzez udziały w spółce ENEA Nowa Energia Sp. z o.o. 
+5 – 20 lutego 2025 r. ENEA Nowa Energia Sp. z o.o. nabyła 100% udziałów w spółce Wielkopolskie Elektrownie 
+Słoneczne 3 Sp. z o.o. 13 czerwca 2025 r. w KRS została zarejestrowana zmiana nazwy spółki na ENEA 
+PV Gablin Sp. z o.o. 
+6 – 24 marca 2025 r. ENEA S.A. zawiązała spółkę EW Magazyn Energii Sp. z o.o. z kapitałem zakładowym w wysokości 
+10 tys. zł dzielącym się na 100 udziałów o wartości nominalnej po 100,00 zł każdy. Kapitał zakładowy EW Magazyn Energii 
+Sp. z o.o. został w całości pokryty wkładem pieniężnym, a wszystkie udziały zostały objęte przez ENEA S.A. 8 maja 
+2025 r. spółka została zarejestrowana w KRS. 
+7 – 24 marca 2025 r. ENEA S.A. zawiązała spółkę EW MPŻ Sp. z o.o. z kapitałem zakładowym w wysokości 10 tys. zł 
+dzielącym się na 100 udziałów o wartości nominalnej po 100,00 zł każdy. Kapitał zakładowy EW MPŻ Sp. z o.o. został 
+w całości pokryty wkładem pieniężnym, a wszystkie udziały zostały objęte przez ENEA S.A. 7 maja 2025 r. spółka została 
+zarejestrowana w KRS. 
+8 – Na podstawie umowy opcji zakupu akcji Polimex-Mostostal S.A. z 18 stycznia 2017 r. z późniejszymi zmianami, ENEA 
+S.A. nabyła od Towarzystwa Finansowego Silesia Sp. z o.o. opcje call na zakup akcji Polimex-Mostostal S.A. W wyniku 
+realizacji opcji call 16, 30 kwietnia 2025 r. ENEA S.A. nabyła od Towarzystwa Finansowego Silesia Sp. z o.o. 375 000 szt. 
+akcji. W kwietniu i maju 2025 r. ENEA S.A. dokonała sprzedaży 355 000 szt. akcji na Giełdzie Papierów Wartościowych 
+w Warszawie. W wyniku realizacji opcji call 17, 8 sierpnia 2025 r. ENEA S.A. nabyła od Towarzystwa Finansowego Silesia 
+Sp. z o.o. 375 000 szt. akcji. W sierpniu i wrześniu 2025 r. ENEA S.A. dokonała sprzedaży 395 000 szt. akcji na Giełdzie 
+Papierów Wartościowych w Warszawie. Na 30 września 2025 r. ENEA S.A. posiadała 40 475 024 akcje, a udział ENEA 
+S.A. w kapitale zakładowym Polimex Mostostal S.A. wynosił 16,13%. 
+9 – 31 marca 2025 r. Zwyczajne Zgromadzenie Wspólników ENEA Innowacje Sp. z o.o. w likwidacji zatwierdziło 
+sprawozdanie finansowe likwidacyjne spółki sporządzone na 19 marca 2025 r., tj. na dzień poprzedzający podział majątku 
+spółki między wspólników, oraz sprawozdanie finansowe sporządzone na 20 marca 2025 r., tj. na dzień zakończenia 
+likwidacji spółki, a także postanowiło zakończyć proces likwidacji spółki i rozwiązać spółkę. 10 kwietnia 2025 r. nastąpiło 
+wykreślenie spółki z rejestru przedsiębiorców w KRS. 
+10 – 7 kwietnia 2025 r. ENEA S.A. zawiązała spółkę ENEA Połaniec Gaz Sp. z o.o. z kapitałem zakładowym w wysokości 
+18 000 tys. zł dzielącym się na 180 000 udziałów o wartości nominalnej po 100,00 zł każdy. Kapitał zakładowy ENEA 
+Połaniec Gaz Sp. z o.o. został w całości pokryty wkładem pieniężnym, a wszystkie udziały zostały objęte przez ENEA S.A. 
+11 kwietnia 2025 r. spółka została zarejestrowana w KRS. 
+11 – 9 kwietnia 2025 r. ENEA Nowa Energia Sp. z o.o. nabyła 100% udziałów w spółce PV Stare Brynki Sp. z o.o. 1 lipca 
+2025 r. w KRS została zarejestrowana zmiana nazwy spółki na ENEA PV Stare Brynki Sp. z o.o. 
+12 – 17 kwietnia 2025 r. ENEA Nowa Energia Sp. z o.o. nabyła 100% udziałów w spółce RRSP 88 Sp. z o.o. 10 czerwca 
+2025 r. w KRS została zarejestrowana zmiana nazwy spółki na ENEA PV Rydzyna Sp. z o.o. 
+13 – 22 kwietnia 2025 r. ENEA Nowa Energia Sp. z o.o. nabyła 100% udziałów w spółce Radan Nordwind Sp. z o.o. 
+22 lipca 2025 r. w KRS została zarejestrowana zmiana nazwy spółki na ENEA FW Pelplin Sp. z o.o. 
+14 – 28 kwietnia 2025 r. na Nadzwyczajnym Zgromadzeniu Wspólników Elektrownia Wiatrowa Baltica – 5 Sp. z o.o. podjęto 
+uchwałę w sprawie podwyższenia kapitału zakładowego Elektrownia Wiatrowa Baltica – 5 Sp. z o.o. o kwotę 281 tys. zł, 
+to jest z kwoty 281 tys. zł do kwoty 562 tys. zł, poprzez utworzenie 281 nowych udziałów o wartości nominalnej 1 000,00 
+zł każdy. ENEA S.A. objęła 95 nowoutworzonych udziałów w podwyższonym kapitale zakładowym Elektrownia Wiatrowa 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+12 
+ 
+Baltica – 5 Sp. z o.o. pokrywając je w całości wkładem pieniężnym w kwocie 4 429 tys. zł, przy czym nadwyżka wartości 
+wnoszonego wkładu pieniężnego ponad wartość nominalną obejmowanych udziałów w kwocie 4 334 tys. zł została 
+przelana do kapitału zapasowego spółki (agio). 16 maja 2025 r. podwyższenie kapitału zostało zarejestrowane w KRS, 
+a udział ENEA S.A. nie zmienił się i wynosi 33,81%. 
+15 – 30 kwietnia 2025 r. odbyły się Nadzwyczajne Zgromadzenia Wspólników w spółkach WMC SPV 2 Sp. z o.o. oraz 
+WMC SPV 4 Sp. z o.o. w sprawie połączenia ze spółką ENEA Nowa Energia Sp. z o.o. (spółka przejmująca). Rejestracja 
+połączenia w KRS nastąpiła 2 czerwca 2025 r. 
+16 – 20 maja 2025 r. nastąpiło wniesienie aportem udziałów spółki PRO-WIND Sp. z o.o. do ENEA Nowa Energia 
+Sp. z o.o. 
+17 – 20 maja 2025 r. nastąpiła sprzedaż udziałów spółek PV Genowefa Sp. z o.o. i PV Tykocin Sp. z o.o. do ENEA Nowa 
+Energia Sp. z o.o. 
+18 – 26 maja 2025 r. ENEA Nowa Energia Sp. z o.o. nabyła 100% udziałów w spółce EKO-EN Skibno 2 Sp. z o.o. 
+12 września 2025 r. w KRS została zarejestrowana zmiana nazwy spółki na ENEA FW Skibno Sp. z o.o. oraz zmiana 
+siedziby spółki na Radom. 
+19 – 27 maja 2025 r. ENEA Nowa Energia Sp. z o.o. nabyła: 
+- 75% udziałów w spółce EE Liskowo Sp. z o.o. oraz 100% udziałów w spółce EE Grunhof GmbH z siedzibą w Husum 
+(Niemcy), która jest właścicielem 25% udziałów w spółce EE Liskowo Sp. z o.o., 
+- 100% udziałów w spółce EE Pommern GmbH z siedzibą w Husum (Niemcy), która jest właścicielem 100% udziałów 
+spółki EE Pomorze Sp. z o.o., będącej właścicielem 100% udziałów w spółkach: Farma Wiatrowa Kołobrzeg Sp. z o.o. 
+Farma Wiatrowa Drawsko II Sp. z o.o., Farma Wiatrowa Siemyśl Sp. z o.o. oraz European Wind Farms Polska 
+Sp. z o.o., będącej właścicielem 100% udziałów w spółkach European Wind Farm Polska Sp. z o.o. Grzmiąca Sp. k. 
+oraz European Wind Farm Sp. z o.o. Białogard Sp. k. 
+20 – 24 sierpnia 2025 r. ENEA S.A. zawiązała spółkę ENEA Połaniec Peak Sp. z o.o. z kapitałem zakładowym w wysokości 
+5 000 tys. zł dzielącym się na 50 000 udziałów o wartości nominalnej 100,00 zł każdy. Kapitał zakładowy ENEA Połaniec 
+Peak Sp. z o.o. został w całości pokryty wkładem pieniężnym, a wszystkie udziały zostały objęte przez ENEA S.A. 
+9 września 2025 r. spółka została zarejestrowana w KRS. 
+21 – 27 sierpnia 2025 r. odbyły się Nadzwyczajne Zgromadzenia Wspólników w spółkach PRO-WIND Sp. z o.o., PV Tykocin 
+Sp. z o.o. oraz PV Genowefa Sp. z o.o. w sprawie połączenia ze spółką ENEA Nowa Energia Sp. z o.o. (spółka 
+przejmująca). Rejestracja połączenia w KRS nastąpiła 1 października 2025 r. 
+22 – z uwagi na nieistotność spółka nie została uwzględniona w niniejszym skróconym śródrocznym skonsolidowanym 
+sprawozdaniu finansowym. 
+3. 
+Skład Zarządu i Rady Nadzorczej jednostki dominującej 
+ 
+Zarząd 
+ 
+Stan na 
+ 
+30 września 2025 
+31 grudnia 2024 
+ 
+ 
+ 
+Prezes Zarządu 
+Grzegorz Kinelski 
+Grzegorz Kinelski 
+Członek Zarządu ds. Finansowych 
+Marek Lelątko 
+Marek Lelątko 
+Członek Zarządu ds. Handlowych 
+Bartosz Krysta 
+Bartosz Krysta 
+Członek Zarządu ds. Korporacyjnych 
+Dalida Gepfert 
+Dalida Gepfert 
+Rada Nadzorcza 
+ 
+Stan na 
+30 września 2025 
+Powołanie 
+Stan na 
+31 grudnia 2024 
+ 
+ 
+ 
+ 
+Przewodnicząca Rady Nadzorczej 
+Ewa Bagińska 
+ 
+Ewa Bagińska 
+Wiceprzewodnicząca Rady Nadzorczej 
+Monika Starecka 
+ 
+Monika Starecka 
+Sekretarz Rady Nadzorczej 
+Mariusz Pliszka 
+ 
+Mariusz Pliszka 
+Członek Rady Nadzorczej 
+Monika Bartoszewicz 
+13 lutego 2025 r. 
+- 
+Członek Rady Nadzorczej 
+Mariusz Damasiewicz 
+ 
+Mariusz Damasiewicz 
+Członek Rady Nadzorczej 
+Michał Gniatkowski 
+ 
+Michał Gniatkowski 
+Członek Rady Nadzorczej 
+Michał Kempa 
+13 lutego 2025 r. 
+- 
+Członek Rady Nadzorczej 
+Agata Michalska-Olek 
+ 
+Agata Michalska-Olek 
+Członek Rady Nadzorczej 
+Mariusz Romańczuk 
+ 
+Mariusz Romańczuk 
+Członek Rady Nadzorczej 
+Zbigniew Szymczak 
+ 
+Zbigniew Szymczak 
+13 lutego 2025 r. Nadzwyczajne Walne Zgromadzenie ENEA S.A. podjęło uchwały, na mocy których w skład Rady 
+Nadzorczej ENEA S.A. XI kadencji powołani zostali: 
+- Pani Monika Bartoszewicz, 
+- Pan Michał Kempa. 
+23 października 2025 r. Zarząd ENEA S.A. powziął informację o rezygnacji Pana Michała Kempy z pełnienia funkcji 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+13 
+ 
+Członka Rady Nadzorczej ENEA S.A., ze skutkiem na dzień 1 listopada 2025 r. 
+4. 
+Podstawa sporządzenia sprawozdania finansowego 
+Niniejsze skrócone śródroczne skonsolidowane sprawozdanie finansowe zostało sporządzone zgodnie z wymogami 
+Międzynarodowego Standardu Sprawozdawczości Finansowej MSR 34 Śródroczna sprawozdawczość finansowa 
+zatwierdzonego przez Unię Europejską i zostało zatwierdzone przez Zarząd ENEA S.A. 
+Zarząd Jednostki Dominującej wykorzystał swoją najlepszą wiedzę co do zastosowania standardów i interpretacji, jak 
+również metod i zasad wyceny poszczególnych pozycji skróconego śródrocznego skonsolidowanego sprawozdania 
+finansowego Grupy Kapitałowej ENEA zgodnie z MSSF UE na 30 września 2025 r. Przedstawione zestawienia 
+i objaśnienia zostały ustalone przy dołożeniu należytej staranności. Niniejsze skrócone śródroczne skonsolidowane 
+sprawozdanie finansowe nie podlegało przeglądowi przez biegłego rewidenta. Zasady rachunkowości stosowane były 
+w sposób spójny we wszystkich prezentowanych okresach. 
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania 
+działalności gospodarczej w dającej się przewidzieć przyszłości. Nie istnieją okoliczności wskazujące na zagrożenie 
+kontynuowania działalności przez Grupę. 
+Niniejsze skrócone śródroczne skonsolidowane sprawozdanie finansowe należy czytać łącznie ze skonsolidowanym 
+sprawozdaniem finansowym Grupy Kapitałowej ENEA za rok obrotowy zakończony 31 grudnia 2024 r. 
+5. 
+Zasady (polityka) rachunkowości i ważne oszacowania i założenia 
+Niniejsze skrócone śródroczne skonsolidowane sprawozdanie finansowe zostało sporządzone z zastosowaniem zasad 
+rachunkowości spójnych z zasadami zastosowanymi przy sporządzeniu ostatniego rocznego skonsolidowanego 
+sprawozdania finansowego za rok obrotowy zakończony 31 grudnia 2024 r. 
+Sporządzenie skróconego śródrocznego skonsolidowanego sprawozdania finansowego zgodnie z MSR 34 wymaga 
+od Zarządu założeń, osądów i szacunków, które mają wpływ na przyjęte zasady oraz prezentowane wartości aktywów, 
+zobowiązań, przychodów oraz kosztów. Założenia tych szacunków opierają się na najlepszej wiedzy Zarządu odnośnie 
+bieżących i przyszłych działań i zdarzeń w poszczególnych obszarach. Szacunki i związane z nimi założenia podlegają 
+bieżącej weryfikacji. Szacunki przyjęte do sporządzenia skróconego śródrocznego skonsolidowanego sprawozdania 
+finansowego są spójne z szacunkami przyjętymi przy sporządzaniu skonsolidowanego sprawozdania finansowego 
+za ostatni rok obrotowy. Wartości szacunkowe podawane w poprzednich latach obrotowych nie wywierają istotnego 
+wpływu na bieżący okres śródroczny. 
+6. 
+Waluta funkcjonalna i waluta prezentacji 
+Pozycje zawarte w sprawozdaniach finansowych poszczególnych jednostek Grupy wycenia się w walucie podstawowego 
+środowiska gospodarczego, w którym dana jednostka prowadzi działalność (w walucie funkcjonalnej). Skrócone 
+śródroczne skonsolidowane sprawozdanie finansowe prezentowane jest w złotych polskich (PLN), które stanowią walutę 
+funkcjonalną i walutę prezentacji wszystkich jednostek Grupy Kapitałowej. Pozycje sprawozdania prezentowane są 
+w zaokrągleniu do pełnych tysięcy złotych (tys. zł), o ile nie wskazano inaczej.
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+14 
+ 
+Segmenty operacyjne 
+Grupa prezentuje informacje dotyczące segmentów działalności zgodnie z MSSF 8 Segmenty operacyjne. Segmenty 
+operacyjne odpowiadają segmentom sprawozdawczym i nie podlegają agregacji. Zarządzanie działalnością Grupy 
+dokonywane jest w podziale na segmenty operacyjne, które wyodrębnione są ze względu na rodzaj oferowanych 
+produktów i usług. W Grupie Kapitałowej ENEA wyodrębnia się cztery segmenty działalności oraz pozostałą działalność, 
+przedstawione poniżej. 
+ 
+OBRÓT 
+Zakup i sprzedaż energii elektrycznej. 
+ 
+ 
+ 
+ 
+DYSTRYBUCJA 
+Usługi 
+dystrybucji 
+oraz 
+przesyłania 
+energii 
+elektrycznej. 
+ 
+ 
+ 
+ 
+WYTWARZANIE 
+Wytwarzanie 
+energii 
+elektrycznej 
+ze 
+źródeł 
+konwencjonalnych i odnawialnych, wytwarzanie 
+ciepła oraz obrót energią elektryczną w związku 
+z posiadanym potencjałem wytwórczym w ramach 
+przyznanych koncesji. 
+ 
+ 
+ 
+ 
+WYDOBYCIE 
+Produkcja i sprzedaż węgla, spółki wspierające 
+działalność kopalni. 
+ 
+ 
+ 
+ 
+ORAZ 
+ 
+ 
+ 
+ 
+ 
+POZOSTAŁA DZIAŁALNOŚĆ 
+Konserwacja i modernizacja urządzeń oświetlenia 
+drogowego, usługi transportowe, usługi remontowe 
+i budowlane. 
+Przychody segmentu są przychodami osiąganymi ze sprzedaży zewnętrznym klientom oraz transakcji z innymi 
+segmentami, które dają się bezpośrednio przyporządkować do danego segmentu. Koszty segmentu są kosztami 
+składającymi się z kosztów sprzedaży zewnętrznym klientom oraz kosztów transakcji realizowanych z innymi segmentami 
+w ramach Grupy, które wynikają z działalności operacyjnej danego segmentu i dają się bezpośrednio przyporządkować 
+do tego segmentu. W transakcjach międzysegmentowych stosowane są ceny rynkowe zapewniające poszczególnym 
+jednostkom uzyskanie marży właściwej do samodzielnego funkcjonowania na rynku. 
+Analizując wyniki poszczególnych segmentów działalności, Zarząd Jednostki Dominującej zwraca przede wszystkim 
+uwagę na wynik EBITDA. Jest ona definiowana jako wynik operacyjny (obliczony jako wynik przed opodatkowaniem 
+skorygowany o udział w wynikach jednostek stowarzyszonych i współkontrolowanych, odpisy aktualizujące aktywa 
+finansowe wyceniane w zamortyzowanym koszcie, odpis z tytułu utraty wartości inwestycji w jednostkach 
+współkontrolowanych, (straty)/zyski z pochodnych instrumentów walutowych nie wykorzystywanych w rachunkowości 
+zabezpieczeń, przychody finansowe, przychody z tytułu dywidend oraz koszty finansowe) powiększony o amortyzację 
+oraz odpis z tytułu utraty wartości niefinansowych aktywów trwałych. 
+Zasady stosowane do ustalenia wyników segmentów oraz aktywów i zobowiązań segmentów są zgodne z zasadami 
+rachunkowości stosowanymi do sporządzenia skonsolidowanego sprawozdania finansowego. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 
+15 
+ 
+Wyniki segmentów: 
+Za okres od 1 stycznia do 30 września 2025 r. przedstawiają się następująco: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OBRÓT 
+DYSTRYBUCJA WYTWARZANIE 
+WYDOBYCIE 
+POZOSTAŁA 
+DZIAŁALNOŚĆ WYŁĄCZENIA 
+RAZEM 
+Przychody ze sprzedaży netto 
+11 860 041
+4 037 649
+3 799 380 
+385 279
+125 970
+−
+20 208 319
+Sprzedaż między segmentami 
+901 584
+41 394
+6 295 353 
+1 615 302
+420 840
+(9 274 473)
+−
+Przychody ze sprzedaży netto ogółem 
+12 761 625
+4 079 043
+10 094 733 
+2 000 581
+546 810
+(9 274 473)
+20 208 319
+Rekompensaty 
+463 885
+(1 657)
+− 
+−
+−
+−
+462 228
+Przychody z tytułu leasingu i subleasingu operacyjnego 
+−
+−
+1 011 
+8 659
+4 110
+(545)
+13 235
+Przychody ze sprzedaży oraz inne dochody 
+13 225 510
+4 077 386
+10 095 744 
+2 009 240
+550 920
+(9 275 018)
+20 683 782
+Koszty ogółem 
+(12 640 619)
+(2 611 366)
+(8 805 963) 
+(1 868 293)
+(473 814)
+9 471 607
+(16 928 448)
+Wynik segmentu 
+584 891
+1 466 020
+1 289 781 
+140 947
+77 106
+196 589
+3 755 334
+Amortyzacja 
+(2 463)
+(632 917)
+(179 635) 
+(163 789)
+(60 989)
+Odpis z tytułu utraty wartości niefinansowych aktywów trwałych 
+−
+−
+− 
+(143)
+−
+Wynik segmentu - EBITDA 
+587 354
+2 098 937
+1 469 416 
+304 879
+138 095
+% przychodów ze sprzedaży oraz innych dochodów 
+4,4%
+51,5%
+14,6% 
+15,2%
+25,1%
+Nieprzypisane koszty całej Grupy (koszty zarządu) 
+ 
+(111 301)
+Zysk z działalności operacyjnej 
+ 
+3 644 033
+Koszty finansowe 
+ 
+(401 875)
+Przychody finansowe 
+ 
+255 407
+Straty z pochodnych instrumentów walutowych 
+niewykorzystywanych w rachunkowości zabezpieczeń 
+ 
+(141 336)
+Udział w wynikach jednostek stowarzyszonych 
+i współkontrolowanych 
+ 
+601
+Zysk brutto 
+ 
+3 356 830
+Podatek dochodowy 
+ 
+(634 804)
+Zysk netto 
+ 
+2 722 026
+Udział w zysku udziałowców niekontrolujących 
+ 
+49 577
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 
+16 
+ 
+Wyniki segmentów: 
+Za okres od 1 lipca do 30 września 2025 r. przedstawiają się następująco: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OBRÓT 
+DYSTRYBUCJA WYTWARZANIE 
+WYDOBYCIE 
+POZOSTAŁA 
+DZIAŁALNOŚĆ WYŁĄCZENIA 
+RAZEM 
+Przychody ze sprzedaży netto 
+3 814 335
+1 334 145
+1 159 414 
+90 278
+45 432
+−
+6 443 604
+Sprzedaż między segmentami 
+279 252
+5 215
+1 942 035 
+393 443
+134 759
+(2 754 704)
+−
+Przychody ze sprzedaży netto ogółem 
+4 093 587
+1 339 360
+3 101 449 
+483 721
+180 191
+(2 754 704)
+6 443 604
+Rekompensaty 
+141 899
+−
+− 
+−
+−
+−
+141 899
+Przychody z tytułu leasingu i subleasingu operacyjnego 
+−
+−
+346 
+2 932
+583
+(184)
+3 677
+Przychody ze sprzedaży oraz inne dochody 
+4 235 486
+1 339 360
+3 101 795 
+486 653
+180 774
+(2 754 888)
+6 589 180
+Koszty ogółem 
+(4 065 957)
+(856 023)
+(2 701 966) 
+(656 330)
+(154 722)
+2 796 864
+(5 638 134)
+Wynik segmentu 
+169 529
+483 337
+399 829 
+(169 677)
+26 052
+41 976
+951 046
+Amortyzacja 
+(857)
+(217 402)
+(66 860) 
+(63 261)
+(19 933)
+Wynik segmentu - EBITDA 
+170 386
+700 739
+466 689 
+(106 416)
+45 985
+% przychodów ze sprzedaży oraz innych dochodów 
+4,0%
+52,3%
+15,0% 
+(21,9%)
+25,4%
+Nieprzypisane koszty całej Grupy (koszty zarządu) 
+ 
+(39 285)
+Zysk z działalności operacyjnej 
+ 
+911 761
+Koszty finansowe 
+ 
+(123 242)
+Przychody finansowe 
+ 
+98 117
+Straty z pochodnych instrumentów walutowych 
+niewykorzystywanych w rachunkowości zabezpieczeń 
+ 
+(30 639)
+Udział w wynikach jednostek stowarzyszonych 
+i współkontrolowanych 
+ 
+8 418
+Zysk brutto 
+ 
+864 415
+Podatek dochodowy 
+ 
+(165 420)
+Zysk netto 
+ 
+698 995
+Udział w zysku udziałowców niekontrolujących 
+ 
+(48 067)
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 
+17 
+ 
+Wyniki segmentów: 
+Za okres od 1 stycznia do 30 września 2024 r. przedstawiają się następująco: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OBRÓT 
+ 
+DYSTRYBUCJA 
+ 
+WYTWARZANIE 
+ 
+WYDOBYCIE 
+POZOSTAŁA 
+DZIAŁALNOŚĆ 
+ 
+WYŁĄCZENIA 
+ 
+RAZEM 
+Przychody ze sprzedaży netto 
+12 725 349
+3 686 298
+5 935 688 
+409 409
+121 056
+−
+22 877 800
+Sprzedaż między segmentami 
+4 997 445
+21 436
+8 077 607 
+2 182 689
+442 225
+(15 721 402)
+−
+Przychody ze sprzedaży netto ogółem 
+17 722 794
+3 707 734
+14 013 295 
+2 592 098
+563 281
+(15 721 402)
+22 877 800
+Rekompensaty 
+1 072 629
+197 435
+− 
+−
+−
+−
+1 270 064
+Przychody z tytułu leasingu i subleasingu operacyjnego 
+−
+−
+871 
+8 014
+5 208
+(615)
+13 478
+Przychody ze sprzedaży oraz inne dochody 
+18 795 423
+3 905 169
+14 014 166 
+2 600 112
+568 489
+(15 722 017)
+24 161 342
+Koszty ogółem 
+(18 565 672)
+(2 756 328)
+(11 557 001) 
+(2 312 870)
+(466 248)
+15 824 167
+(19 833 952)
+Wynik segmentu 
+229 751
+1 148 841
+2 457 165 
+287 242
+102 241
+102 150
+4 327 390
+Amortyzacja 
+(2 299)
+(597 344)
+(225 063) 
+(268 537)
+(55 456)
+Odwrócenie odpisu/(odpis) z tytułu utraty wartości 
+niefinansowych aktywów trwałych 
+−
+−
+16 691 
+(72)
+−
+Wynik segmentu - EBITDA 
+232 050
+1 746 185
+2 665 537 
+555 851
+157 697
+% przychodów ze sprzedaży oraz innych dochodów 
+1,2%
+44,7%
+19,0% 
+21,4%
+27,7%
+Nieprzypisane koszty całej Grupy (koszty zarządu) 
+ 
+(105 663)
+Zysk z działalności operacyjnej 
+ 
+4 221 727
+Koszty finansowe 
+ 
+(399 133)
+Przychody finansowe 
+ 
+204 940
+Straty z pochodnych instrumentów walutowych 
+niewykorzystywanych w rachunkowości zabezpieczeń 
+ 
+(234 942)
+Przychody z tytułu dywidend 
+ 
+14
+Udział w wynikach jednostek stowarzyszonych 
+i współkontrolowanych 
+ 
+(40 593)
+Zysk brutto 
+ 
+3 752 013
+Podatek dochodowy 
+ 
+(756 151)
+Zysk netto 
+ 
+2 995 862
+Udział w zysku udziałowców niekontrolujących 
+ 
+(255 653)
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 
+18 
+ 
+Wyniki segmentów: 
+Za okres od 1 lipca do 30 września 2024 r. przedstawiają się następująco: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OBRÓT 
+ 
+DYSTRYBUCJA 
+ 
+WYTWARZANIE 
+ 
+WYDOBYCIE 
+POZOSTAŁA 
+DZIAŁALNOŚĆ 
+ 
+WYŁĄCZENIA 
+ 
+RAZEM 
+Przychody ze sprzedaży netto 
+4 155 871
+1 285 074
+2 046 720 
+112 362
+42 654
+−
+7 642 681
+Sprzedaż między segmentami 
+366 817
+6 541
+2 503 613 
+814 442
+138 382
+(3 829 795)
+−
+Przychody ze sprzedaży netto ogółem 
+4 522 688
+1 291 615
+4 550 333 
+926 804
+181 036
+(3 829 795)
+7 642 681
+Rekompensaty 
+372 513
+(198)
+− 
+−
+−
+−
+372 315
+Przychody z tytułu leasingu i subleasingu operacyjnego 
+−
+−
+264 
+2 727
+1 529
+(175)
+4 345
+Przychody ze sprzedaży oraz inne dochody 
+4 895 201
+1 291 417
+4 550 597 
+929 531
+182 565
+(3 829 970)
+8 019 341
+Koszty ogółem 
+(4 859 886)
+(907 039)
+(3 627 045) 
+(738 013)
+(154 233)
+3 775 935
+(6 510 281)
+Wynik segmentu 
+35 315
+384 378
+923 552 
+191 518
+28 332
+(54 035)
+1 509 060
+Amortyzacja 
+(807)
+(202 113)
+(76 676) 
+(93 532)
+(18 799)
+Wynik segmentu - EBITDA 
+36 122
+586 491
+1 000 228 
+285 050
+47 131
+% przychodów ze sprzedaży oraz innych dochodów 
+0,7%
+45,4%
+22,0% 
+30,7%
+25,8%
+Nieprzypisane koszty całej Grupy (koszty zarządu) 
+ 
+(31 369)
+Zysk z działalności operacyjnej 
+ 
+1 477 691
+Koszty finansowe 
+ 
+(143 940)
+Przychody finansowe 
+ 
+95 392
+Straty z pochodnych instrumentów walutowych 
+niewykorzystywanych w rachunkowości zabezpieczeń 
+ 
+(99 226)
+Udział w wynikach jednostek stowarzyszonych 
+i współkontrolowanych 
+ 
+(10 002)
+Zysk brutto 
+ 
+1 319 915
+Podatek dochodowy 
+ 
+(293 750)
+Zysk netto 
+ 
+1 026 165
+Udział w zysku udziałowców niekontrolujących 
+ 
+55 376
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 
+19 
+ 
+Pozostałe informacje dotyczące segmentów na dzień 30 września 2025 r. oraz za okres 9 miesięcy kończący się tego dnia przedstawiają się następująco: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Obrót 
+Dystrybucja 
+Wytwarzanie 
+Wydobycie 
+Pozostała 
+działalność 
+Wyłączenia 
+Razem 
+Rzeczowe aktywa trwałe 
+14 221
+14 307 637
+5 214 904 
+2 124 049
+461 241
+(847 887)
+21 274 165
+Należności z tytułu dostaw i usług oraz pozostałe należności 
+2 662 903
+758 602
+3 019 409 
+350 861
+228 960
+(2 765 413)
+4 255 322
+Koszty doprowadzenia do zawarcia umowy 
+28 787
+-
+- 
+-
+-
+28 787
+Aktywa z tytułu umów z klientami 
+291 755
+173 230
+24 705 
+150
+(30 215)
+459 625
+Razem 
+2 997 666
+15 239 469
+8 259 018 
+2 474 910
+690 351
+(3 643 515)
+26 017 899
+AKTYWA wyłączone z segmentacji 
+ 
+13 191 667
+- w tym rzeczowe aktywa trwałe 
+ 
+16 087
+- w tym należności z tytułu dostaw i usług oraz pozostałe 
+należności 
+ 
+14 766
+AKTYWA RAZEM 
+ 
+39 209 566
+Zobowiązania z tytułu dostaw i usług oraz pozostałe 
+zobowiązania 
+546 420
+918 903
+848 366 
+306 277
+146 628
+(505 202)
+2 261 392
+Zobowiązania z tytułu umów z klientami 
+2 438 856
+423 542
+16 535 
+1 005
+2 615
+(2 290 426)
+592 127
+Razem 
+2 985 276
+1 342 445
+864 901 
+307 282
+149 243
+(2 795 628)
+2 853 519
+Kapitał własny i zobowiązania wyłączone z segmentacji 
+ 
+36 356 047
+- w tym zobowiązania z tytułu dostaw i usług oraz pozostałe 
+zobowiązania 
+ 
+290 453
+KAPITAŁ WŁASNY I ZOBOWIĄZANIA RAZEM 
+ 
+39 209 566
+za okres 9 miesięcy kończący się 30 września 2025 
+ 
+Nakłady inwestycyjne na rzeczowe aktywa trwałe i wartości 
+niematerialne 
+1
+1 561 074
+2 406 919 
+446 307
+104 616
+(76 534)
+4 442 383
+Nakłady inwestycyjne na rzeczowe aktywa trwałe i wartości 
+niematerialne wyłączone z segmentacji 
+ 
+Amortyzacja 
+2 463
+632 917
+179 635 
+163 789
+60 989
+(27 969)
+1 011 824
+Amortyzacja wyłączona z segmentacji 
+ 
+2 237
+Utworzenie/(rozwiązanie/wykorzystanie) odpisów 
+aktualizujących należności 
+2 814
+7 539
+(1 182) 
+29
+557
+9 757
+Utworzenie odpisów z tytułu utraty wartości niefinansowych 
+aktywów trwałych 
+-
+-
+- 
+143
+-
+143
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 
+20 
+ 
+Pozostałe informacje dotyczące segmentów na dzień 31 grudnia 2024 r. oraz za okres 9 miesięcy kończący się 30 września 2024 r. przedstawiają się następująco: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Obrót 
+Dystrybucja 
+Wytwarzanie 
+Wydobycie 
+Pozostała 
+działalność 
+Wyłączenia 
+Razem 
+Rzeczowe aktywa trwałe 
+14 604
+13 397 126
+3 048 715 
+1 849 121
+426 737
+(797 853)
+17 938 450
+Należności z tytułu dostaw i usług oraz pozostałe należności 
+3 143 435
+679 938
+1 357 598 
+582 690
+208 969
+(1 315 205)
+4 657 425
+Koszty doprowadzenia do zawarcia umowy 
+28 422
+-
+- 
+-
+-
+28 422
+Aktywa z tytułu umów z klientami 
+206 272
+277 021
+246 
+13 021
+(40 597)
+455 963
+Razem 
+3 392 733
+14 354 085
+4 406 559 
+2 431 811
+648 727
+(2 153 655)
+23 080 260
+AKTYWA wyłączone z segmentacji 
+ 
+16 387 593
+- w tym rzeczowe aktywa trwałe 
+ 
+17 274
+- w tym należności z tytułu dostaw i usług oraz pozostałe 
+należności 
+ 
+7 622
+AKTYWA RAZEM 
+ 
+39 467 853
+Zobowiązania z tytułu dostaw i usług oraz pozostałe 
+zobowiązania 
+1 411 222
+1 013 438
+1 165 037 
+444 638
+184 604
+(1 063 814)
+3 155 125
+Zobowiązania z tytułu umów z klientami 
+431 554
+356 326
+- 
+450
+3 690
+(291 988)
+500 032
+Razem 
+1 842 776
+1 369 764
+1 165 037 
+445 088
+188 294
+(1 355 802)
+3 655 157
+Kapitał własny i zobowiązania wyłączone z segmentacji 
+ 
+35 812 696
+- w tym zobowiązania z tytułu dostaw i usług oraz pozostałe 
+zobowiązania 
+ 
+88 985
+KAPITAŁ WŁASNY I ZOBOWIĄZANIA RAZEM 
+ 
+39 467 853
+za okres 9 miesięcy kończący się 30 września 2024 
+ 
+Nakłady inwestycyjne na rzeczowe aktywa trwałe i wartości 
+niematerialne 
+24
+1 075 437
+347 472 
+643 453
+45 156
+(62 511)
+2 049 031
+Nakłady inwestycyjne na rzeczowe aktywa trwałe i wartości 
+niematerialne wyłączone z segmentacji 
+ 
+Amortyzacja 
+2 299
+597 344
+225 063 
+268 537
+55 456
+(23 097)
+1 125 602
+Amortyzacja wyłączona z segmentacji 
+ 
+2 365
+Utworzenie/(rozwiązanie/wykorzystanie) odpisów 
+aktualizujących należności 
+8 891
+9 670
+(519) 
+(689)
+90
+17 443
+(Rozwiązanie)/utworzenie odpisów z tytułu utraty wartości 
+niefinansowych aktywów trwałych 
+-
+-
+(16 691) 
+72
+-
+-
+(16 619)
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+21 
+ 
+ 
+Noty objaśniające do skonsolidowanego sprawozdania z całkowitych dochodów 
+ 
+7. 
+Przychody ze sprzedaży 
+Przychody ze sprzedaży netto 
+ 
+Za okres 9 miesięcy zakończony 
+ 
+30 września 2025 
+30 września 2024 
+Przychody świadczone w sposób ciągły 
+19 418 967
+22 041 975
+Przychody ze sprzedaży energii elektrycznej 
+13 996 627
+17 188 050
+Przychody ze sprzedaży usług dystrybucyjnych 
+3 863 612
+3 468 762
+Przychody ze sprzedaży energii cieplnej 
+516 224
+457 153
+Przychody ze sprzedaży gazu 
+2 348
+166
+Przychody z tytułu Rynku Mocy 
+ 919 854
+816 929
+Przychody z tytułu oświetlenia drogowego 
+120 302
+110 915
+Przychody świadczone w określonym momencie 
+789 352
+835 825
+Przychody ze sprzedaży towarów i materiałów 
+280 544
+299 906
+Przychody ze sprzedaży pozostałych produktów i usług 
+53 082
+25 143
+Przychody z tytułu świadectw pochodzenia 
+3 865
+7 523
+Przychody ze sprzedaży węgla 
+349 798
+370 309
+Przychody z tytułu opłat przyłączeniowych 
+102 063
+132 944
+Razem przychody ze sprzedaży netto 
+20 208 319
+22 877 800
+Grupa dzieli przychody przede wszystkim w oparciu o typ produktów/usług. Główne grupy przychodów to przychody 
+ze sprzedaży energii elektrycznej (segment Obrót oraz Wytwarzanie), przychody ze sprzedaży usług dystrybucyjnych 
+(segment Dystrybucja), przychody z tytułu Rynku Mocy (segment Wytwarzanie), przychody ze sprzedaży węgla (segment 
+Wydobycie), przychody ze sprzedaży energii cieplnej (segment Wytwarzanie) oraz przychody ze sprzedaży gazu 
+(segment Obrót). 
+Sprzedaż energii elektrycznej: Grupa ujmuje przychody na koniec każdego okresu rozliczeniowego, który wynika 
+z umów sprzedaży, według ilości energii elektrycznej dostarczonej do klienta w danym okresie rozliczeniowym. Grupa 
+ujmuje przychody w okresie czasu i korzysta z uproszczenia dotyczącego ujmowania przychodów zgodnie 
+z fakturowaniem, ponieważ odzwierciedla ono stopień wykonania zobowiązania do wykonania świadczenia na dzień 
+sprawozdawczy. Do głównych grup umów należą umowy sprzedaży energii elektrycznej (w tym również umowy 
+kompleksowe) klientom indywidualnym, biznesowym, kluczowym i strategicznym. W umowach tych usługa świadczona 
+jest w sposób ciągły, wysokość przychodu uzależniona jest od zużycia. Występuje także sprzedaż dla Izby Rozliczeniowej 
+Giełd Towarowych S.A. oraz na Towarowej Giełdzie Energii. 
+Standardowy termin płatności faktur sprzedażowych energii elektrycznej w ENEA S.A. wynosi 14 dni od daty wystawienia 
+faktury VAT. W przypadku biznesowych, kluczowych i strategicznych klientów okres ten może podlegać negocjacji. 
+Termin płatności faktur sprzedażowych dotyczących sprzedaży energii elektrycznej do IRGiT to 1-3 dni od dostarczenia 
+energii i wystawienia faktury. W przypadku sprzedaży na TGE terminy płatności wynikają z Regulaminu Giełdy. 
+Sprzedaż usług dystrybucyjnych: W przypadku sprzedaży usług dystrybucji, ENEA Operator nalicza opłatę zawierającą 
+odrębne składniki: składnik zmienny stawki sieciowej, stawka opłaty jakościowej, składnik stały stawki sieciowej, stawka 
+opłaty abonamentowej, stawka opłaty przejściowej, opłaty mocowej oraz opłata OZE. 
+W przypadku opłaty jakościowej, przejściowej, mocowej oraz OZE, ENEA Operator pełni, co do zasady, rolę jednostki 
+pobierającej opłaty i przekazującej świadczenie innym uczestnikom rynku, np. na rzecz Polskich Sieci 
+Elektroenergetycznych S.A. (PSE). Opłaty (tj. opłata jakościowa, przejściowa, mocowa i OZE) maja charakter quasipodatków pobieranych na rzecz innych podmiotów. ENEA Operator występuje w roli pośrednika pobierającego opłaty 
+na rzecz innych uczestników rynku energii, w tym PSE. W konsekwencji, przychody ze sprzedaży usług dystrybucji są 
+pomniejszone o wartość pobieranej opłaty OZE, opłaty jakościowej, opłaty mocowej oraz opłaty przejściowej. 
+Jednocześnie korekcie ulegają koszty związane z nabyciem usług przesyłowych a także koszty związane z otrzymanymi 
+fakturami z tytułu wsparcia OZE oraz wsparcia wytwórców. Wielkość przychodów ze sprzedaży usług dystrybucji energii 
+elektrycznej wynika z udokumentowanej sprzedaży, powiększonej o dokonane doszacowanie niezafakturowanej w danym 
+okresie 
+sprzedaży 
+usług 
+dystrybucji 
+energii 
+elektrycznej 
+oraz 
+pomniejszone 
+o 
+wartość 
+doszacowania 
+tej sprzedaży z poprzedniego okresu. Doszacowanie sprzedaży jest dokonywane na koniec każdego miesiąca. Przychód 
+z tytułu usługi dystrybucyjnej rozpoznawany jest w momencie wykonania usługi, na podstawie wskazań układów 
+pomiarowo-rozliczeniowych, z uwzględnieniem doszacowania zużycia. 
+Przychody z tytułu Rynku Mocy stanowią przychody z tytułu realizacji umów (obowiązków) mocowych zawartych w wyniku 
+Aukcji. Rynek Mocy jest mechanizmem rynkowym, który ma na celu zapewnienie stabilnych dostawy energii elektrycznej 
+do gospodarstw domowych oraz przemysłu w horyzoncie długoterminowym. Po zakończeniu każdego miesiąca spółkom 
+Grupy przysługuje od PSE S.A. wynagrodzenie za wykonanie obowiązku mocowego. W związku z tym obowiązkiem, 
+spółki Grupy, będące dostawcami mocy na rzecz PSE S.A., każdego miesiąca ujmują przychody z transakcji dotyczących 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+22 
+ 
+Rynku Mocy. 
+Rekompensaty 
+Zgodnie z zapisami ustawy z 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii 
+elektrycznej w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku energii elektrycznej oraz ustawy z 27 października 
+2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu 
+niektórych odbiorców w latach 2023-2025 podmiotowi uprawnionemu przysługują rekompensaty. 
+Grupa w skonsolidowanym sprawozdaniu z całkowitych dochodów rozpoznała w okresie od 1 stycznia do 30 września 
+2025 r. przychody z tytułu rekompensat w wysokości 462 228 tys. zł. Łącznie Grupa ujęła jako należności 
+od Zarządcy Rozliczeń S.A. w sprawozdaniu z sytuacji finansowej w pozycji należności z tytułu dostaw i usług oraz 
+pozostałych należności kwotę 107 304 tys. zł. 
+ENEA S.A. w okresie 9 miesięcy zakończonym 30 września 2025 r. rozpoznała przychody z tytułu rekompensat w łącznej 
+wysokości 463 885 tys. zł, w tym: 
+• 
+(8 903) tys. zł* z tytułu stosowania rozliczeń z odbiorcami uprawnionymi zgodnie z zapisami ustawy 
+z 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej 
+w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku energii elektrycznej; 
+• 
+472 788 tys. zł tytułem stosowania ceny maksymalnej zgodnie z zapisami ustawy z 27 października 2022 r. 
+o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu 
+niektórych odbiorców w latach 2023-2025. 
+* kwota rekompensaty wynikająca z rozliczenia rocznego dotyczącego roku ubiegłego 
+Kwota rekompensaty finansowej stanowi przychód Spółki i została ujęta w odrębnej pozycji Rekompensaty. 
+Spółka w okresie 9 miesięcy zakończonym 30 września 2025 r., zgodnie z terminami wynikającymi z wyżej wymienionych 
+ustaw złożyła do Zarządcy Rozliczeń S.A. stosowne wnioski o wypłatę rekompensat za okres do sierpnia 2025 r. Wnioski 
+za wrzesień 2025 r. zostały złożone 15 października 2025 r. – kwota rekompensaty za wrzesień 2025 r. została ujęta w 
+przychodach Spółki na podstawie danych szacunkowych i nie odbiegała istotnie od wnioskowanej. 
+Na 30 września 2025 r. ENEA S.A. oczekiwała na wypłatę 107 304 tys. zł. 
+Na mocy Ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii 
+elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej (tekst jedn. Dz.U. 2024 poz. 
+1288 z późn. zm.) ENEA Operator Sp. z o.o. w roku 2023 oraz 2024 otrzymała rekompensaty z tytułu stosowania 
+w rozliczeniach z odbiorcami uprawnionymi cen energii elektrycznej, o których mowa w art. 7 ust. 1 oraz art. 15 ustawy. 
+W 2025 roku Zarządca Rozliczeń dokonał ostatecznego rozliczenia złożonych przez spółkę wniosków o rozliczenie 
+rekompensaty. W III kwartale 2025 r. nastąpiło Wzajemne rozliczenie z Zarządcą Rozliczeń, którego wartość ujęta 
+w sprawozdaniu na 30 września 2025 r. wynosi 1 657 tys. zł. Rozliczenie uwzględnia 2 tys. zł. zwrotu z rozliczenia 
+rekompensat za rok 2023, szacunek zwrotu rekompensat za 2024 rok w wysokości 2 160 tys. zł oraz 505 tys. zł upustu 
+udzielonego zgodnie z art. 15 przedmiotowej ustawy. 
+8. 
+Opodatkowanie 
+Odroczony podatek dochodowy 
+Zmiany stanu aktywów i rezerwy z tytułu odroczonego podatku dochodowego (po uwzględnieniu kompensaty aktywów 
+i rezerwy) przedstawiają się w sposób następujący: 
+ 
+Stan na 
+ 
+30 września 2025 
+31 grudnia 2024 
+ 
+ 
+ 
+Aktywa netto z tytułu odroczonego podatku dochodowego na początek 
+okresu w tym: 
+ 462 120 
+ 1 096 646 
+- aktywa z tytułu odroczonego podatku dochodowego na początek okresu 
+851 582 
+1 703 670 
+- rezerwa z tytułu odroczonego podatku dochodowego na początek okresu 
+389 462 
+607 024 
+Nabycie spółki zależnej 
+(10 229) 
+192 
+Uznanie/(obciążenie) wyniku finansowego 
+461 403 
+ (640 673) 
+Uznanie w innych całkowitych dochodach 
+ 13 427 
+ 5 955 
+Aktywa netto z tytułu odroczonego podatku dochodowego na koniec 
+okresu, w tym: 
+ 926 721 
+ 462 120 
+- aktywa z tytułu odroczonego podatku dochodowego na koniec okresu 
+1 363 365 
+851 582 
+- rezerwa z tytułu odroczonego podatku dochodowego na koniec okresu 
+436 644 
+389 462 
+W okresie 9 miesięcy zakończonym 30 września 2025 r. uznanie zysku przed opodatkowaniem Grupy w wyniku 
+zwiększenia aktywa netto z tytułu odroczonego podatku dochodowego wyniosło 461 403 tys. zł (w okresie 9 miesięcy 
+zakończonym 30 września 2024 r. uznanie zysku przed opodatkowaniem Grupy w wyniku zwiększenia aktywa netto 
+z tytułu odroczonego podatku dochodowego wyniosło 759 520 tys. zł).
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+23 
+ 
+ 
+Noty objaśniające do skonsolidowanego sprawozdania z sytuacji finansowej 
+ 
+9. 
+Rzeczowe aktywa trwałe 
+ 
+W okresie 9 miesięcy zakończonym 30 września 2025 r. Grupa dokonała nabycia rzeczowych aktywów trwałych 
+na łączną kwotę 4 349 987 tys. zł (w okresie 9 miesięcy zakończonym 30 września 2024 r. odpowiednio: 2 017 955 
+tys. zł). Kwoty te dotyczą przede wszystkim segmentów wytwarzania (2 404 517 tys. zł), wydobycia (446 167 tys. zł) oraz 
+dystrybucji (1 440 779 tys. zł). Kwota 1 802 289 tys. zł dotyczy nabycia aktywów w obszarze OZE, które zostało opisane 
+w nocie 11. 
+W okresie 9 miesięcy zakończonym 30 września 2025 r. Grupa dokonała sprzedaży i likwidacji rzeczowych aktywów 
+trwałych w łącznej wartości księgowej netto 56 226 tys. zł (w okresie 9 miesięcy zakończonym 30 września 2024 r. 
+odpowiednio: 90 238 tys. zł). 
+W okresie 9 miesięcy zakończonym 30 września 2025 r. odpisy aktualizujące wartość księgową rzeczowych aktywów 
+trwałych zmniejszyły się netto o kwotę 44 709 tys. zł (w okresie 9 miesięcy zakończonym 30 września 2024 r. odpisy 
+aktualizujące wartość księgową rzeczowych aktywów trwałych zmniejszyły się netto o kwotę 81 149 tys. zł). 
+Na 30 września 2025 r. łączny odpis aktualizujący wartość księgową rzeczowych aktywów trwałych wyniósł 
+10 616 366 tys. zł (na dzień 31 grudnia 2024 r. było to odpowiednio: 10 661 075 tys. zł). 
+Zgodnie z MSR 36 „Utrata wartości aktywów”, jednostka na każdy dzień bilansowy ocenia czy istnieją przesłanki 
+wskazujące na możliwość utraty wartości aktywów. Dodatkowo w myśl MSR 34 „Śródroczna sprawozdawczość 
+finansowa”, jednostka w ramach sprawozdania śródrocznego stosuje te samy zasady ujmowania i wyceny, co w rocznym 
+sprawozdaniu finansowym, chyba że zmiana tych zasad zostałaby odpowiednio ujawniona. Mając powyższe na uwadze, 
+na potrzeby skróconego śródrocznego skonsolidowanego sprawozdania finansowego za okres kończący się 
+30 września 2025 r. Grupa dokonała przeglądu czynników wewnętrznych i zewnętrznych mogących wskazywać na 
+konieczność przeprowadzenia testów na utratę wartości. W ramach przeglądu nie zidentyfikowano istotnych zmian w 
+otoczeniu gospodarczym ani sytuacji operacyjnej poszczególnych CGU, które mogłoby stanowić przesłanki utraty wartości 
+aktywów zgodnie z MSR 36. Grupa planuje dokonanie pełnej analizy przesłanek w ramach sprawozdania rocznego na 
+dzień bilansowy 31 grudnia 2025 r. 
+Przyszłe umowne zobowiązania związane z nabyciem rzeczowych aktywów trwałych zaciągnięte na koniec okresu 
+sprawozdawczego, lecz jeszcze nie ujęte w sprawozdaniu z sytuacji finansowej, wynoszą 5 355 463 tys. zł na dzień 
+30 września 2025 r. (1 720 435 tys. zł na dzień 31 grudnia 2024 r.). 
+10. Wartości niematerialne 
+W okresie 9 miesięcy zakończonym 30 września 2025 r. Grupa dokonała nabycia wartości niematerialnych na łączną 
+kwotę 92 396 tys. zł (w okresie 9 miesięcy zakończonym 30 września 2024 r. Grupa dokonała nabycia wartości 
+niematerialnych na łączną kwotę 31 076 tys. zł). 
+W okresie 9 miesięcy zakończonym 30 września 2025 r. Grupa nie dokonała istotnych sprzedaży i likwidacji wartości 
+niematerialnych (w okresie 9 miesięcy zakończonym 30 września 2024 r. Grupa również nie dokonała istotnych sprzedaży 
+i likwidacji wartości niematerialnych). 
+Przyszłe umowne zobowiązania związane z nabyciem wartości niematerialnych zaciągnięte na koniec okresu 
+sprawozdawczego, lecz jeszcze nie ujęte w sprawozdaniu z sytuacji finansowej, wynoszą 453 491 tys. zł na dzień 
+30 września 2025 r. (453 304 tys. zł na dzień 31 grudnia 2024 r.). 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 
+24 
+ 
+11. Inwestycje w jednostki stowarzyszone i współkontrolowane 
+ 
+W poniższej tabeli przedstawiono podstawowe dane finansowe dotyczące jednostek stowarzyszonych i współkontrolowanych konsolidowanych metodą praw własności: 
+Stan na 30 września 2025 
+Polimex - 
+Mostostal S.A. 
+Elektrownia 
+Wiatrowa Baltica4 Sp. z o.o 
+Elektrownia 
+Wiatrowa Baltica5 Sp. z o.o. 
+Elektrownia 
+Wiatrowa Baltica6 Sp. z o.o. 
+Razem 
+Udział w własności 
+16,13%
+33,81% 
+33,81%
+33,76% 
+Aktywa obrotowe 
+2 083 817
+34 
+429
+36 
+2 084 316
+Aktywa trwałe 
+815 624
+− 
+9 051
+− 
+824 675
+Aktywa razem 
+2 899 441
+34 
+9 480
+36 
+2 908 991
+Zobowiązania krótkoterminowe 
+2 120 939
+2 153 
+ 479
+558 
+2 124 129
+Zobowiązania długoterminowe 
+180 747
+− 
+−
+− 
+180 747
+Zobowiązania razem 
+2 301 686
+2 153 
+ 479
+558 
+2 304 876
+Aktywa netto 
+ 597 755
+(2 119) 
+9 001
+(522) 
+ 604 115
+Udział w aktywach netto 
+96 418
+− 
+3 043
+(176) 
+99 285
+Wartość firmy 
+15 954
+− 
+268
+216 
+16 438
+Eliminacja strat/zysków niezrealizowanych 
+(4 310)
+− 
+−
+− 
+(4 310)
+Wartość księgowa inwestycji wycenianych metodą praw własności 
+na 30 września 2025 
+108 062
+− 
+3 311
+40 
+111 413
+ 
+ 
+Grupa dokonała korekty konsolidacyjnej dotyczącej marż ze sprzedaży na transakcjach pomiędzy Grupą a spółką Polimex – Mostostal S.A. o wartości 4 310 tys. zł. 
+ 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 
+25 
+ 
+Stan na 31 grudnia 2024 
+Polimex - 
+Mostostal S.A. 
+Elektrownia 
+Wiatrowa Baltica4 Sp. z o.o 
+Elektrownia 
+Wiatrowa Baltica5 Sp. z o.o. 
+Elektrownia 
+Wiatrowa Baltica6 Sp. z o.o. 
+Razem 
+Udział w własności 
+16,33%
+33,81% 
+33,81%
+33,76% 
+Aktywa obrotowe 
+2 169 474
+264 
+493
+193 
+2 170 424
+Aktywa trwałe 
+889 418
+− 
+9 051
+− 
+898 469
+Aktywa razem 
+3 058 892
+264 
+9 544
+193 
+3 068 893
+Zobowiązania krótkoterminowe 
+2 288 489
+1 983 
+12 607
+473 
+2 303 552
+Zobowiązania długoterminowe 
+192 008
+− 
+−
+− 
+192 008
+Zobowiązania razem 
+2 480 497
+1 983 
+12 607
+473 
+2 495 560
+Aktywa netto 
+578 395
+(1 719) 
+(3 063)
+(280) 
+573 333
+Udział w aktywach netto 
+94 452
+− 
+−
+(95) 
+94 357
+Wartość firmy 
+15 954
+− 
+−
+216 
+16 170
+Eliminacja strat/zysków niezrealizowanych 
+(4 816)
+− 
+−
+− 
+(4 816)
+Wartość księgowa inwestycji wycenianych metodą praw własności 
+na 31 grudnia 2024 
+105 590
+− 
+−
+121 
+105 711
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+26 
+ 
+Zmiana stanu inwestycji w jednostki stowarzyszone i współkontrolowane 
+Stan na 
+ 
+30 września 2025 
+31 grudnia 2024 
+ 
+ 
+ 
+ 
+Stan na początek okresu 
+105 711 
+216 140 
+Udział w zmianie stanu aktywów netto 
+601 
+(71 372) 
+Nabycie inwestycji 
+ 
+ 6 679 
+3 390 
+Zbycie inwestycji 
+ 
+(1 578) 
+(42 447) 
+Stan na dzień sprawozdawczy 
+111 413 
+105 711 
+Nabycie nowych spółek zależnych 
+22 kwietnia 2025 r. ENEA Nowa Energia Sp. z o.o. nabyła od Greenvolt Power Group Sp. z o.o. 100% udziałów w spółce 
+Radan Nordwind Sp. z o.o. (obecnie ENEA FW Pelplin Sp. z o.o.) posiadającej projekt lądowej farmy wiatrowej „Pelplin”, 
+składającej się z 16 elektrowni wiatrowych o łącznej mocy zainstalowanej 83,2 MW. Łączna cena nabycia 100% udziałów 
+wyniosła 295 981 tys. zł. W dniu nabycia ENEA Nowa Energia Sp. z o.o. spłaciła kredyt zaciągnięty przez nabywaną 
+spółkę w Banque Nomura France i Haitong Bank S.A. na kwotę 254 928 tys. zł. W dniu nabycia ENEA Nowa Energia 
+Sp. z o.o. spłaciła również pożyczki udzielone nabywanej spółce bezpośrednio na rzecz odpowiednich pożyczkodawców 
+z wykorzystaniem mechanizmu subrogacji na łączną kwotę 239 501 tys. zł. 
+26 maja 2025 r. ENEA Nowa Energia Sp. z o.o. nabyła od Greenvolt Power Group Sp. z o.o. 100% udziałów w spółce 
+EKO-EN Skibno 2 Sp. z o.o. posiadającej projekt lądowej farmy wiatrowej „Skibno”, składającej się z 5 elektrowni 
+wiatrowych o łącznej mocy zainstalowanej 10 MW. Łączna cena nabycia 100% udziałów wyniosła 7 759 tys. zł. W dniu 
+nabycia ENEA Nowa Energia Sp. z o.o. spłaciła kredyt zaciągnięty przez nabywaną spółkę w mBank S.A. i DNB Bank 
+ASA na kwotę 34 512 tys. zł. W dniu nabycia ENEA Nowa Energia Sp. z o.o. spłaciła również pożyczki udzielone 
+nabywanej spółce bezpośrednio na rzecz odpowiednich pożyczkodawców z wykorzystaniem mechanizmu subrogacji 
+na łączną kwotę 63 461 tys. zł. 
+27 maja 2025 r. ENEA Nowa Energia Sp. z o.o. nabyła: 
+- 75% udziałów w spółce EE Liskowo Sp. z o.o. oraz 100% udziałów w spółce EE Grunhof GmbH z siedzibą w Husum 
+(Niemcy), która jest właścicielem 25% udziałów w spółce EE Liskowo Sp. z o.o., 
+- 100% udziałów w spółce EE Pommern GmbH z siedzibą w Husum (Niemcy), która jest właścicielem 100% udziałów 
+spółki EE Pomorze Sp. z o.o., będącej właścicielem 100% udziałów w spółkach: Farma Wiatrowa Kołobrzeg Sp. z o.o. 
+Farma Wiatrowa Drawsko II Sp. z o.o., Farma Wiatrowa Siemyśl Sp. z o.o. oraz European Wind Farms Polska 
+Sp. z o.o., będącej właścicielem 100% udziałów w spółkach European Wind Farm Polska Sp. z o.o. Grzmiąca Sp. k. oraz 
+European Wind Farm Sp. z o.o. Białogard Sp. k. 
+Łączna cena nabycia 100% udziałów wyniosła 219 959 tys. zł. W dniu nabycia ENEA Nowa Energia Sp. z o.o. spłaciła 
+kredyty zaciągnięte przez nabywane spółki w Norddeutsche Landesbank Gieozentrale na łączną kwotę 408 843 tys. zł. 
+W dniu nabycia ENEA Nowa Energia Sp. z o.o. spłaciła również 4 pożyczki udzielone nabywanym spółkom bezpośrednio 
+na rzecz odpowiednich pożyczkodawców z wykorzystaniem mechanizmu subrogacji na łączną kwotę 330 000 tys. zł. 
+Grupa oceniła, że powyższe transakcje nie spełniają warunków MSSF3 do ujęcia jako przedsięwzięcie, dlatego też 
+w niniejszym skonsolidowanym sprawozdaniu finansowym wykazano nabycie tych spółek zależnych jako nabycie 
+aktywów. 
+Poniżej przedstawiono wstępne ujęcie nabycia nowych spółek zależnych w niniejszym śródrocznym skróconym 
+skonsolidowanym sprawozdaniu finansowym. 
+1) 
+ENEA FW Pelplin Sp. z o.o.: 
+Cena nabycia udziałów 295 981 tys. zł 
+Umowy subrogacji 239 501 tys. zł 
+Łączna cena nabycia 535 482 tys. zł 
+Przejęte aktywa netto 21 507 tys. zł 
+Umowy subrogacji 239 501 tys. zł 
+Skorygowane aktywa netto 261 008 tys. zł 
+Wartość odniesiona na rzeczowe aktywa trwałe 274 474 tys. zł 
+ 
+2) 
+EKO-EN Skibno 2 Sp. z o.o.: 
+Cena nabycia udziałów 7 759 tys. zł 
+Umowy subrogacji 63 461 tys. zł 
+Łączna cena nabycia 71 220 tys. zł 
+Przejęte aktywa netto 2 938 tys. zł 
+Umowy subrogacji 63 461 tys. zł 
+Skorygowane aktywa netto 66 399 tys. zł 
+Wartość odniesiona na rzeczowe aktywa trwałe 4 821 tys. zł 
+ 
+ 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+27 
+ 
+3) 
+EE Liskowo Sp. z o.o.: 
+Cena nabycia udziałów 91 685 tys. zł 
+Umowy subrogacji 146 426 tys. zł 
+Łączna cena nabycia 238 111 tys. zł 
+Przejęte aktywa netto (65 929) tys. zł 
+Umowy subrogacji 146 426 tys. zł 
+Skorygowane aktywa netto 80 497 tys. zł 
+Wartość odniesiona na rzeczowe aktywa trwałe 157 614 tys. zł 
+4) 
+Grupa EE Pomorze: 
+Cena nabycia udziałów 128 274 tys. zł 
+Umowy subrogacji 183 574 tys. zł 
+Łączna cena nabycia 311 848 tys. zł 
+Przejęte aktywa netto (30 192) tys. zł 
+Umowy subrogacji 183 574 tys. zł 
+Skorygowane aktywa netto 153 382 tys. zł 
+Wartość odniesiona na rzeczowe aktywa trwałe 158 466 tys. zł 
+Grupa, w wyniku powyższych transakcji, nabyła rzeczowe aktywa trwałe w kwocie 1 802 289 tys. zł (1 186 492 tys. zł 
+w sprawozdaniach z sytuacji finansowej nabywanych jednostek na dzień nabycia oraz 615 797 tys. zł jako nadwyżka ceny 
+nabycia nad wartością aktywów netto). W skonsolidowanym sprawozdaniu z przepływów pieniężnych w działalności 
+inwestycyjnej wykazano kwotę 415 860 tys. zł (środki pieniężne zapłacone za nabyte aktywa, pomniejszone o stan 
+środków pieniężnych w przejmowanych jednostkach na dzień nabycia) oraz 632 962 tys. zł (spłacone pożyczki wobec 
+poprzednich właścicieli w ramach umów subrogacji), natomiast w działalności finansowej ujęto kwotę 698 261 tys. zł 
+(spłata kredytów bankowych stanowiących dług nabytych spółek na dzień nabycia). 
+12. Zapasy 
+Zapasy 
+ 
+Stan na 
+ 
+30 września 2025 
+31 grudnia 2024 
+ 
+ 
+ 
+ Materiały 
+1 141 129 
+1 229 178 
+ Półprodukty i produkty w toku 
+12 507 
+3 756 
+ Produkty gotowe 
+13 411 
+59 029 
+ Świadectwa pochodzenia energii 
+141 002 
+105 959 
+ Towary 
+25 985 
+21 588 
+ Wartość brutto zapasów 
+1 334 034 
+1 419 510 
+ Odpis aktualizujący wartość zapasów 
+(35 260) 
+(34 867) 
+ Wartość netto zapasów 
+1 298 774 
+1 384 643 
+W okresie 9 miesięcy zakończonym 30 września 2025 r. odpis aktualizujący wartość księgową zapasów zwiększył się 
+o 393 tys. zł (w okresie 9 miesięcy zakończonym 30 września 2024 r. odpis aktualizujący zwiększył się o 337 tys. zł). 
+13. Świadectwa pochodzenia energii 
+Świadectwa pochodzenia energii 
+ 
+Stan na 
+ 
+30 września 2025 
+31 grudnia 2024 
+ 
+ 
+ 
+ Wartość netto na początek okresu 
+105 959 
+114 019 
+ Wytworzenie we własnym zakresie 
+23 770 
+75 637 
+ Nabycie 
+39 391 
+73 724 
+ Umorzenie 
+(25 185) 
+(153 210) 
+ Sprzedaż 
+(2 933) 
+(4 211) 
+ Wartość netto na dzień sprawozdawczy 
+141 002 
+105 959 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+28 
+ 
+14. Aktywa i zobowiązania z tytułu umów z klientami 
+Aktywa i zobowiązania z tytułu umów z klientami 
+ 
+Aktywa z tytułu umów 
+z klientami 
+Zobowiązania z tytułu umów 
+z klientami 
+ 
+ 
+ 
+Stan na 1 stycznia 2024 
+528 106 
+615 189 
+Zmiana stanu należności niezafakturowanych 
+(72 120) 
+- 
+Przychód rozpoznany w okresie, który był uwzględniony 
+w bilansie otwarcia zobowiązań z tytułu umów z klientami 
+- 
+(166 949) 
+Zwiększenie z tytułu przedpłat otrzymanych 
+od klientów 
+- 
+52 923 
+Zobowiązania wynikające z korekt sprzedaży 
+- 
+(1 131) 
+Odpis aktualizujący 
+(23) 
+- 
+Stan na 31 grudnia 2024 
+455 963 
+500 032 
+Zmiana stanu należności niezafakturowanych 
+3 598 
+- 
+Przychód rozpoznany w okresie, który był uwzględniony 
+w bilansie otwarcia zobowiązań z tytułu umów z klientami 
+- 
+(24 163) 
+Zwiększenie z tytułu przedpłat otrzymanych 
+od klientów 
+- 
+120 990 
+Zobowiązania wynikające z korekt sprzedaży 
+- 
+(4 732) 
+Odpis aktualizujący 
+64 
+- 
+Stan na 30 września 2025 
+459 625 
+592 127 
+Saldo aktywów z tytułu umów z klientami obejmuje przede wszystkim niezafakturowaną sprzedaż energii elektrycznej, 
+natomiast saldo zobowiązań z tytułu umów z klientami obejmuje przede wszystkim otrzymane zaliczki na opłaty 
+przyłączeniowe. 
+15. Środki pieniężne o ograniczonej możliwości dysponowania 
+Środki pieniężne o ograniczonej możliwości dysponowania w Grupie wyniosły na dzień 30 września 2025 r. 488 255 
+tys. zł (na dzień 31 grudnia 2024 r. 781 569 tys. zł). Były to przede wszystkim środki pieniężne na depozyty transakcyjne 
+energii elektrycznej (głównie środki pieniężne stanowiące zabezpieczenie rozliczeń z IRGiT), środki pieniężne 
+na rachunku VAT (split payment), wadia i kaucje wpłacone przez dostawców oraz blokady środków pieniężnych 
+na zabezpieczenie należytego wykonania robót. 
+16. Podział zysku 
+26 czerwca 2025 r. Zwyczajne Walne Zgromadzenie ENEA S.A. podjęło uchwałę nr 7 w sprawie pokrycia straty za rok 
+obrotowy kończący się 31 grudnia 2023 r. i podziału zysku netto za rok obrotowy kończący się 31 grudnia 2024 r., zgodnie 
+z którą: 
+1. pokryta została część straty ENEA S.A. za rok 2023, w łącznej wysokości 1 602 940 tys. zł, kwotą 1 068 878 tys. zł 
+z kapitału rezerwowego, utworzonego pierwotnie z przeznaczeniem na finansowanie inwestycji, 
+2. dokonano podziału zysku netto za rok obrotowy kończący się 31 grudnia 2024 r. w wysokości 798 928 tys. zł, 
+w następujący sposób: 
+a) 534 062 tys. zł – na pokrycie pozostałej części straty za rok 2023, 
+b) 264 866 tys. zł – na wypłatę dywidendy dla akcjonariuszy. 
+24 czerwca 2024 r. Zwyczajne Walne Zgromadzenie ENEA S.A. podjęło uchwałę nr 7 w sprawie pokrycia straty netto 
+za rok obrotowy obejmujący okres od 1 stycznia 2023 r. do 31 grudnia 2023 r., zgodnie z którą strata pokryta zostanie 
+z przyszłych zysków. 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+29 
+ 
+17. Zobowiązania z tytułu zadłużenia 
+Kredyty, pożyczki i dłużne papiery wartościowe 
+ 
+Stan na 
+ 
+30 września 2025 
+31 grudnia 2024 
+ 
+ 
+ 
+Kredyty bankowe 
+3 622 636 
+3 615 435 
+Pożyczki 
+40 528 
+7 544 
+Obligacje 
+2 310 821 
+2 471 411 
+Długoterminowe 
+5 973 985 
+6 094 390 
+ 
+ 
+Kredyty bankowe 
+ 541 548 
+564 087 
+Pożyczki 
+7 497 
+7 445 
+Obligacje 
+ 203 654 
+ 184 449 
+Krótkoterminowe 
+ 752 699 
+ 755 981 
+ 
+ 
+Razem 
+6 726 684 
+6 850 371 
+W okresie 9 miesięcy zakończonym 30 września 2025 r. wartość księgowa kredytów, pożyczek i dłużnych papierów 
+wartościowych spadła netto o kwotę 123 687 tys. zł (w okresie 9 miesięcy zakończonym 30 września 2024 r. wartość 
+księgowa kredytów i pożyczek spadła o 981 001 tys. zł). 
+Zgodnie z przyjętym modelem finansowania, ENEA S.A., w celu zapewnienia finansowania bieżącej działalności 
+oraz potrzeb inwestycyjnych spółek należących do Grupy Kapitałowej ENEA, zawiera z zewnętrznymi instytucjami 
+finansowymi umowy dotyczące programów emisji obligacji i/lub umowy kredytowe. W dalszych działaniach ENEA S.A. 
+będzie koncentrować się na zapewnieniu odpowiedniej dywersyfikacji zewnętrznych źródeł finansowania dla inwestycji 
+zaplanowanych w "Strategii Rozwoju Grupy Kapitałowej ENEA do 2035 roku", ze szczególnym uwzględnieniem 
+transformacji istniejących aktywów węglowych w kierunku niskoemisyjnego wytwarzania energii, rozwoju mocy 
+wytwórczych z odnawialnych źródeł energii oraz magazynowania energii, a także działań inwestycyjnych w segmencie 
+dystrybucji. 
+Kredyty i pożyczki 
+Poniżej przedstawiono zestawienie kredytów i pożyczek w Grupie: 
+Lp. 
+Spółka 
+Podmiot 
+udzielający 
+Data zawarcia 
+umowy 
+Łączna 
+kwota 
+umowy 
+Wartość 
+zadłużenia 
+na 30 
+września 
+2025 
+Wartość 
+zadłużenia 
+na 31 
+grudnia 
+2024 
+Oprocentowanie 
+Termin 
+obowiązywania umowy 
+1. 
+ENEA S.A. 
+EBI 
+18 października 
+2012 r. (A) 
+oraz 19 czerwca 
+2013 r. (B) 
+1 425 000 
+441 457 
+511 891 
+Stała stopa 
+procentowa 
+lub 
+WIBOR 6M 
++marża 
+17 czerwca 
+2030 r. 
+2. 
+ENEA S.A. 
+EBI 
+29 maja 2015 r. (C) 
+946 000 
+502 667 
+566 500 
+Stała stopa 
+procentowa 
+lub 
+WIBOR 6M 
++marża 
+15 września 
+2032 r. 
+3. 
+ENEA S.A. 
+Bank Pekao S.A., 
+Alior Bank S.A., 
+Bank of China 
+S.A., 
+PKO BP S.A., 
+BGK 
+27 stycznia 
+2023 r. 
+2 500 000 
+1 200 000 
+1 500 000 
+WIBOR 
+6M+marża 
+27 stycznia 
+2028 r. 
+4. 
+ENEA S.A. 
+EBI 
+22 grudnia 
+2023 r. 
+1 000 000 
+1 000 000 
+1 000 000 
+Stała stopa 
+procentowa 
+20 czerwca 
+2042 r. 
+5. 
+ENEA S.A. 
+EBI 
+25 stycznia 2024 r. 
+1 000 000 
+1 000 000 
+100 000 
+Stała stopa 
+procentowa 
+20 marca 
+2043 r. 
+6. 
+ENEA S.A. 
+Bank Pekao S.A. 
+i PKO BP S.A. 
+19 lutego 
+2024 r. 
+1 000 000 
+- 
+450 000 
+WIBOR 
+6M+marża 
+6 lat od 
+uruchomienia 
+transzy 
+7. 
+ENEA S.A. 
+BGK 
+17 grudnia 
+2024 r. 
+1 000 000 
+- 
+- 
+WIBOR 
+6M+marża 
+5 lat od 
+podpisania 
+umowy 
+8. 
+ENEA S.A. 
+PKO BP S.A. 
+28 stycznia 
+2014 r., 
+Aneks nr 4 
+z 19 grudnia 
+2024 r. 
+500 000 
+- 
+- 
+WIBOR 1M 
++marża 
+30 czerwca 
+2026 r. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+30 
+ 
+9. 
+ENEA S.A. 
+Pekao S.A. 
+28 stycznia 
+2014 r., Aneks 
+nr 4 z 30 grudnia 
+2024 r. 
+150 000 
+- 
+- 
+WIBOR 1M 
++marża 
+30 czerwca 
+2028 r. 
+10. 
+ENEA S.A. 
+PKO BP S.A. 
+3 października 
+2022 r. 
+Aneks nr 4 z 
+19 grudnia 
+2024 r. 
+500 000 
+- 
+- 
+WIBOR 1M 
++marża dla 
+PLN lub 
+EURIBOR 
+1M+marża dla 
+EUR 
+30 czerwca 
+2026 r. 
+11. 
+ENEA S.A. 
+BGK 
+7 września 2022 r. 
+Aneks nr 4 z 25 
+lipca 2023 r. 
+1 250 000 
+- 
+- 
+WIBOR 
+1M+marża 
+28 lipca 2025 r. 
+12. 
+ENEA S.A. 
+Pekao S.A. 
+7 marca 2024 r. 
+250 000 
+- 
+- 
+WIBOR 
+1M+marża 
+31 grudnia 
+2026 r. 
+13. 
+ENEA S.A. 
+BGK 
+21 maja 2025 r. 
+9 996 390 
+99 966 
+- 
+Stała stopa 
+procentowa 
+20 maja 2050 r. 
+14. 
+ENEA Ciepło 
+Sp. z o.o. 
+NFOŚiGW 
+22 grudnia 
+2015 r. 
+60 075 
+10 432 
+13 912 
+ WIBOR 3M, 
+nie mniej niż 
+2% 
+20 grudnia 
+2026 r. 
+15. 
+Pozostałe 
+- 
+- 
+- 
+719 
+1 077 
+- 
+- 
+ 
+RAZEM 
+ 
+ 
+21 577 465 
+4 255 241 
+4 143 380 
+ 
+ 
+Wycena do wartości 
+godziwej* 
+Koszty transakcyjne oraz 
+efekt wyceny według 
+efektywnej stopy 
+procentowej 
+ 
+ 
+ 
+(63 100) 
+ 
+20 068 
+- 
+ 
+51 131 
+ 
+ 
+ 
+RAZEM 
+ 
+ 
+21 577 465 
+4 212 209 
+4 194 511 
+ 
+ 
+* wycena do wartości godziwej dotyczy pożyczki z 21 maja 2025 r. udzielonej na preferencyjnych warunkach w ramach Krajowego Planu 
+Odbudowy i Zwiększania Odporności 
+ENEA S.A. 21 maja 2025 r. zawarła z Bankiem Gospodarstwa Krajowego umowę pożyczki w kwocie ok 9,13 mld zł 
+(„Umowa Pożyczki"). Pożyczka została udzielona ze środków Krajowego Planu Odbudowy i Zwiększania Odporności, 
+w ramach Inwestycji G3.1.4 pn. "Wsparcie krajowego systemu energetycznego (Fundusz Wsparcia Energetyki)" w ramach 
+komponentu G (RePowerEU). Środki finansowe pochodzące z Umowy Pożyczki zostaną przeznaczone wyłącznie 
+na refinansowanie wydatków kwalifikowalnych, ponoszonych przez ENEA Operator Sp. z o.o., na rozwój 
+elektroenergetycznej infrastruktury dystrybucyjnej na obszarze północnozachodniej Polski ukierunkowany na wzrost 
+jakości i bezpieczeństwa dostaw energii elektrycznej oraz wsparcie procesu transformacji energetycznej poprzez 
+zwiększenie zdolności sieci elektroenergetycznej ENEA Operator Sp. z o.o. do współpracy ze źródłami energii 
+odnawialnej, w tym w oparciu o technologie sieci inteligentnej. Zgodnie z warunkami Umowy Pożyczki w przypadku 
+powiększenia puli środków finansowych w ramach Inwestycji G3.1.4 kwota finansowania udostępnianego Spółce może 
+podlegać podwyższeniu, co wymagać będzie zawarcia stosownych aneksów do Umowy Pożyczki. Środki udostępnione 
+w ramach Umowy Pożyczki są oprocentowane według stałej stopy procentowej wynoszącej 0,5% w skali roku i będą 
+uruchamiane w transzach w latach 2025-2036. Kapitał pożyczki będzie spłacany ratalnie w okresach półrocznych, przy 
+czym ostateczny termin spłaty to 20 maja 2050 r. 
+29 września 2025 r. ENEA S.A. zawarła z Bankiem Gospodarstwa Krajowego aneks do Umowy Pożyczki zwiększający 
+udostępnione finansowanie do łącznej kwoty ok 10 mld zł. 
+W ramach Umowy Pożyczki 29 września 2025 r. Grupa uruchomiła pierwszą transzę o wartości 99 966 tys. zł. 
+W związku z tym, że finansowanie zostało udzielone przez BGK w oparciu o stałą stopię procentową 0,5%, tj. poniżej 
+warunków rynkowych, należy je traktować jako preferencyjne. Zgodnie z MSSF 9 Instrumenty finansowe transza pożyczki 
+została ujęta w sprawozdaniu z sytuacji finansowej w wartości godziwej w kwocie 36 866 tys. zł. Natomiast, zgodnie 
+z MSR 20 Dotacje rządowe oraz ujawnienie informacji na temat pomocy rządowej, różnicę między początkową wartością 
+godziwą pożyczki a otrzymanymi wpływami, wynoszącą 63 100 tys. zł, ujęto jako dotację w pozycji „Długoterminowe 
+rozliczenie przychodów z tytułu dotacji”. W skonsolidowanym sprawozdaniu z przepływów pieniężnych wpływ pożyczki 
+został zaprezentowany w przepływach z działalności finansowej w pozycji „Otrzymane kredyty i pożyczki” w kwocie 99 966 
+tys. zł. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+31 
+ 
+Programy emisji obligacji 
+Poniżej przedstawiono zestawienie obligacji wyemitowanych przez ENEA S.A. 
+Lp. 
+Nazwa programu emisji 
+obligacji 
+Data 
+zawarcia 
+Programu 
+Kwota 
+Programu 
+Wartość 
+wyemitowanych 
+niewykupionych 
+obligacji 
+na 30 września 2025 
+Wartość 
+wyemitowanych 
+niewykupionych 
+obligacji 
+na 31 grudnia 2024 
+Oprocento
+-wanie 
+Termin wykupu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+Umowa Programu Emisji 
+Obligacji zawarta 
+z Bankiem Gospodarstwa 
+Krajowego 
+15 maja 
+2014 r. 
+1 000 000 
+320 000 
+400 000 WIBOR 6M 
++marża 
+Wykup w ratach, 
+ostatnia rata płatna 
+w grudniu 2026 r. 
+2. 
+Umowa Programu Emisji 
+Obligacji zawarta 
+z Bankiem Gospodarstwa 
+Krajowego 
+3 grudnia 
+2015 r. 
+700 000 
+152 227 
+228 337 WIBOR 6M 
++marża 
+Wykup w ratach, 
+ostatnia rata płatna 
+we wrześniu 2027 r. 
+3. 
+Umowa Programu Emisji 
+Obligacji zawarta z PKO 
+BP S.A., Bankiem Pekao 
+S.A. oraz mBankiem S.A. 
+30 czerwca 
+2014 r. 
+5 000 000 
+1 000 000 
+1 000 000 WIBOR 6M 
++marża 
+Wykup obligacji 
+w maju 2027 r. 
+4. 
+Umowa Programu Emisji 
+Obligacji zawarta z PKO 
+BP S.A., Bankiem Pekao 
+S.A. oraz mBankiem S.A. 
+30 czerwca 
+2014 r. 
+5 000 000 
+1 000 000 
+1 000 000 
+WIBOR 6M 
++marża 
+Wykup obligacji 
+w maju 2030 r. 
+ 
+RAZEM 
+ 
+ 
+2 472 227 
+2 628 337 
+ 
+ 
+Koszty transakcyjne oraz efekt 
+wyceny według efektywnej 
+stopy procentowej 
+ 
+ 
+42 248 
+27 523 
+ 
+ 
+ 
+RAZEM 
+ 
+ 
+2 514 475 
+2 655 860 
+ 
+ 
+W okresie 9 miesięcy zakończonym 30 września 2025 r. ENEA S.A. nie zawierała nowych umów programowych 
+dotyczących emisji obligacji. 
+Transakcje zabezpieczające ryzyko stopy procentowej oraz ryzyko walutowe 
+W okresie 9 miesięcy zakończonym 30 września 2025 r. ENEA S.A. nie zawierała transakcji zabezpieczających ryzyko 
+stopy procentowej (IRS). Łączna wartość ekspozycji dotycząca obligacji i kredytów zabezpieczona transakcjami IRS 
+na 30 września 2025 r. wyniosła 2 526 133 tys. zł. Ponadto ENEA S.A. posiada kredyty zaciągnięte na stałej stopie 
+procentowej o łącznej wartości 2 374 915 tys. zł. Zawarte transakcje wpływają w istotny sposób na przewidywalność 
+strumieni wydatków i kosztów finansowych. Spółka prezentuje wycenę tych instrumentów w pozycji: Zobowiązania 
+finansowe wyceniane w wartości godziwej. Instrumenty pochodne są traktowane jako zabezpieczenie przepływów, 
+w związku z czym są ujmowane i rozliczane w księgach z zastosowaniem zasad dotyczących rachunkowości 
+zabezpieczeń. 
+Na 30 września 2025 r. zobowiązania finansowe wyceniane w wartości godziwej, dotyczące wyceny IRS, wyniosły 8 587 
+tys. zł (na 31 grudnia 2024 r. aktywa finansowe wyceniane w wartości godziwej, dotyczące wyceny IRS, wyniosły 24 695 
+tys. zł). 
+W okresie 9 miesięcy zakończonym 30 września 2025 r. Spółka nie zawierała nowych transakcji zabezpieczających ryzyko 
+walutowe FX Forward. Na 30 września 2025 r. zobowiązania finansowe wyceniane w wartości godziwej, dotyczące 
+wyceny transakcji FX Forward wyniosły 41 tys. zł (na 31 grudnia 2024 r. zobowiązania finansowe wyceniane w wartości 
+godziwej, dotyczące wyceny transakcji FX Forward wyniosły 63 tys. zł). 
+ENEA Trading Sp. z o.o. zawarła w okresie 9 miesięcy zakończonym 30 września 2025 r. 114 transakcji 
+FX Forward o wartości 671 482 tys. EUR. Wycena księgowa wszystkich istniejących instrumentów na 30 września 2025 
+r. wynosiła 183 535 tys. zł (na 31 grudnia 2024 r. 50 795 tys. zł). 
+ENEA Nowa Energia Sp. z o.o. w okresie 9 miesięcy zakończonym 30 września 2025 r. zawarła 20 transakcji FX Forward 
+o łącznej wartości 427 683 tys. EUR. Wycena księgowa instrumentów FX Forward na dzień 30 września 2025 r. była 
+ujemna i wyniosła (2 542) tys. zł. Wycena księgowa instrumentów na dzień 31 grudnia 2024 r. wyniosła (116) tys. zł. 
+ENEA Centrum Sp. z o.o. w okresie 9 miesięcy zakończonym 30 września 2025 r. zawarła 1 transakcję FX Forward 
+o wartości 5 796 tys. EUR. Wycena księgowa istniejących instrumentów FX Forward na dzień 30 września 2025 r. była 
+ujemna i wyniosła (363) tys. zł. Wycena księgowa instrumentów na dzień 31 grudnia 2024 r. wyniosła (72) tys. zł. 
+ENEA Elektrownia Połaniec S.A. w okresie 9 miesięcy zakończonym 30 września 2025 r. nie zawierała transakcji 
+zabezpieczających FX Forward. Wartość wyceny istniejących instrumentów FX Forward na dzień 30 września 2025 r. była 
+ujemna i wyniosła (113) tys. zł. Wycena księgowa instrumentów na dzień 31 grudnia 2024 r. wyniosła (93) tys. zł. 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+32 
+ 
+Warunki finansowania – kowenanty 
+Zapisy umów o finansowanie nakładają na ENEA S.A. m.in. zobowiązania dotyczące kalkulacji i raportowania określonych 
+wskaźników finansowych. Według stanu na 30 września 2025 r. ENEA S.A. nie odnotowała ich przekroczenia i nie była 
+zobowiązana do wcześniejszej spłaty jakiegokolwiek zadłużenia finansowego. 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 
+33 
+ 
+18. Rezerwy 
+W okresie 9 miesięcy zakończonym 30 września 2025 r. rezerwy na pozostałe zobowiązania i inne obciążenia zmniejszyły się netto o 3 059 287 tys. zł (w okresie 9 miesięcy zakończonym 
+30 września 2024 r. rezerwy na pozostałe zobowiązania i inne obciążenia zmniejszyły się o 1 650 984 tys. zł). 
+Zmiana stanu rezerw na zobowiązania i inne obciążenia za okres kończący się 30 września 2025 r. 
+ 
+Rezerwa na 
+bezumowne 
+korzystanie 
+z gruntów 
+Rezerwa na inne 
+zgłoszone 
+roszczenia 
+Rezerwa na 
+rekultywację 
+składowiska 
+Rezerwa na 
+świadectwa 
+pochodzenia 
+energii 
+Rezerwa na 
+zakup praw do 
+emisji CO2 
+Likwidacja 
+zakładu 
+górniczego 
+Rezerwa 
+na umowy 
+rodzące 
+obciążenia 
+Pozostałe 
+Razem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stan na 1 stycznia 2025 
+251 685 
+287 704 
+69 542 
+95 269 
+6 607 901 
+156 409 
+673 359 
+301 093 
+8 442 962 
+Nabycie spółek zależnych 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+13 271 
+13 271 
+Odwrócenie dyskonta i zmiana 
+stopy dyskontowej 
+- 
+- 
+1 047 
+- 
+- 
+ 6 569 
+- 
+- 
+7 616 
+Zwiększenie istniejących rezerw 
+21 197 
+7 156 
+2 859 
+104 658 
+3 521 571 
+- 
+- 
+25 834 
+3 683 275 
+Wykorzystanie rezerw 
+(428) 
+(5 348) 
+- 
+(84 213) 
+(6 604 714) 
+- 
+(48 191) 
+(13 605) 
+(6 756 499) 
+Rozwiązanie niewykorzystanej 
+rezerwy 
+(8) 
+(2 212) 
+- 
+- 
+(411) 
+(2 805) 
+- 
+(1 514) 
+(6 950) 
+Stan na 30 września 2025 
+272 446 
+287 300 
+73 448 
+115 714 
+3 524 347 
+160 173 
+625 168 
+325 079 
+5 383 675 
+Długoterminowe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 433 617 
+Krótkoterminowe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 950 058 
+ 
+Zmiana stanu rezerw na zobowiązania i inne obciążenia za okres kończący się 31 grudnia 2024 r. 
+ 
+Rezerwa na 
+bezumowne 
+korzystanie 
+z gruntów 
+Rezerwa na inne 
+zgłoszone 
+roszczenia 
+Rezerwa na 
+rekultywację 
+składowiska 
+Rezerwa na 
+świadectwa 
+pochodzenia 
+energii 
+Rezerwa na 
+zakup praw do 
+emisji CO2 
+Likwidacja 
+zakładu 
+górniczego 
+Rezerwa na 
+umowy 
+rodzące 
+obciążenia 
+Pozostałe 
+Razem 
+Stan na 1 stycznia 2024 
+246 704
+127 086
+67 228 
+161 237 
+6 536 904
+153 468 
+450 896
+249 006 
+7 992 529
+Odwrócenie dyskonta i zmiana 
+stopy dyskontowej 
+3 146
+-
+(561) 
+- 
+8 134 
+-
+- 
+10 719
+Zwiększenie istniejących rezerw 
+2 351
+170 570
+3 003 
+76 615 
+6 842 974
+- 
+255 384
+74 474 
+7 425 371
+Wykorzystanie rezerw 
+-
+(3 816)
+(128) 
+(142 583) 
+(6 771 977)
+- 
+(32 921)
+(18 249) 
+(6 969 674)
+Rozwiązanie niewykorzystanej 
+rezerwy 
+(516)
+(6 136)
+- 
+- 
+-
+(5 193) 
+-
+(4 138) 
+(15 983)
+Stan na 31 grudnia 2024 
+251 685
+287 704
+69 542 
+95 269 
+6 607 901
+156 409 
+673 359
+301 093 
+8 442 962
+Długoterminowe 
+ 
+ 
+ 
+ 
+1 421 435
+Krótkoterminowe 
+ 
+ 
+ 
+ 
+7 021 527
+ 
+Opis istotnych roszczeń oraz zobowiązań warunkowych został przedstawiony w nocie 25. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+34 
+ 
+Rezerwa na zakup praw do emisji CO2 
+Wysokość rezerwy na zakup praw do emisji CO2 oraz wartość posiadanych praw do emisji CO2 mogą podlegać istotnym 
+wahaniom w trakcie roku. W okresie 9 miesięcy zakończonym 30 września 2025 r. nastąpiło wykorzystanie rezerwy 
+z 31 grudnia 2024 r. poprzez umorzenie posiadanych na 31 grudnia 2024 r. uprawnień. Jednocześnie w trakcie 2025 r. 
+Grupa zawiązuje rezerwę odpowiadającą wykonanej do dnia bilansowego emisji CO2. Nabycie uprawnień na potrzeby 
+umorzenia za 2025 r. nastąpi w grudniu 2025 r. oraz w marcu 2026 r. w związku z realizacją kontraktów terminowych na 
+zakup tych uprawnień. 
+Rezerwa na umowy rodzące obciążenia 
+Na 30 września 2025 r. Grupa dokonała aktualizacji rezerwy na kontrakty rodzące obciążenia z tytułu rozliczeń 
+z prosumentami do poziomu 625 168 tys. zł. 
+Pozostałe rezerwy dotyczą głównie potencjalnych zobowiązań związanych z majątkiem sieciowym wynikających z różnic 
+w interpretacjach przepisów 244 031 tys. zł (na dzień 31 grudnia 2024 r. 226 119 tys. zł), czas realizacji tej rezerwy jest 
+trudny do określenia, jednak w sprawozdaniu przyjęto, że nie zrealizuje się ona w okresie krótszym niż 12 miesięcy. 
+19. Rozliczenie przychodów z tytułu dotacji 
+Rozliczenie przychodów z tytułu dotacji 
+Stan na 
+ 
+30 września 2025 
+31 grudnia 2024 
+Długoterminowe 
+585 037 
+510 796 
+Krótkoterminowe 
+20 327 
+20 804 
+Rozliczenie przychodów z tytułu dotacji razem 
+605 364 
+531 600 
+W okresie 9 miesięcy zakończonym 30 września 2025 r. wartość księgowa rozliczenia przychodów z tytułu dotacji 
+zwiększyła się o kwotę netto 73 764 tys. zł (w okresie 9 miesięcy zakończonym 30 września 2024 r. wartość księgowa 
+rozliczenia przychodów z tytułu dotacji zwiększyła się o kwotę netto 31 903 tys. zł). 
+W pozycji tej Grupa ujmuje przede wszystkim dotacje unijne i z NFOŚiGW na rozwój infrastruktury energetycznej 
+i ciepłowniczej. Dotacje dotyczą głównie inwestycji oraz prowadzenia prac badawczo-rozwojowych. Każda dotacja 
+przyznawana jest na podstawie odrębnej umowy, z której wynika szereg obowiązków. Wykonawcy muszą być wyłonieni 
+na podstawie przejrzystych procedur, które podlegają badaniom przez instytucje finansujące. Wydatki, na podstawie 
+których przyznawana jest dotacja muszą spełniać kryteria kwalifikowalności, które są bardzo szczegółowe i różnią się 
+w zależności od typu realizowanego projektu (inwestycyjny/B+R). W większości przypadków dotacje przyznawane są 
+w formie refundacji poniesionych wydatków kwalifikowalnych. Sporadycznie występują zaliczki. Każda umowa zawiera też 
+obowiązki informacyjne a także obowiązek utrzymania rezultatów w tak zwanym okresie trwałości, który w przypadku 
+dużych przedsiębiorstw wynosi 5 lat. 
+Zgodnie z MSR 20 Dotacje rządowe oraz ujawnienie informacji na temat pomocy rządowej w pozycji „Długoterminowe 
+rozliczenie przychodów z tytułu dotacji” ujęto różnicę między początkową wartością godziwą pożyczki z BGK ze środków 
+KPO a otrzymanymi wpływami, wynoszącą 63 100 tys. zł. Szczegóły opisano w nocie nr 17. 
+20. Rozliczenie przychodów z tytułu modernizacji oświetlenia drogowego 
+Rozliczenie przychodów z tytułu modernizacji oświetlenia drogowego 
+Stan na 
+ 
+30 września 2025 
+31 grudnia 2024 
+Długoterminowe 
+203 401 
+174 278 
+Krótkoterminowe 
+10 689 
+9 028 
+Rozliczenie przychodów z tytułu modernizacji oświetlenia drogowego razem 
+214 090 
+183 306 
+Harmonogram rozliczenia międzyokresowego przychodów z tytułu modernizacji oświetlenia drogowego 
+ 
+Stan na 
+30 września 2025 
+31 grudnia 2024 
+Do jednego roku 
+10 689 
+9 028 
+Od jednego do pięciu lat 
+42 756 
+36 152 
+Powyżej pięciu lat 
+160 645 
+138 126 
+Rozliczenie przychodów z tytułu modernizacji oświetlenia drogowego razem 
+214 090 
+183 306 
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+35 
+ 
+Zmiana stanu rozliczenia przychodów z tytułu modernizacji oświetlenia drogowego 
+Stan na 
+ 
+30 września 2025 
+31 grudnia 2024 
+ 
+ 
+ 
+Stan na początek okresu 
+183 306 
+143 226 
+Zwiększenia 
+38 157 
+49 108 
+Zmniejszenia 
+(7 562) 
+(9 028) 
+Inne 
+189 
+- 
+Stan na dzień sprawozdawczy 
+214 090 
+183 306 
+W okresie 9 miesięcy zakończonym 30 września 2025 r. wartość księgowa rozliczenia przychodów z tytułu modernizacji 
+oświetlenia drogowego zwiększyła się o kwotę netto 30 784 tys. zł (w okresie 9 miesięcy zakończonym 
+30 września 2024 r. wartość księgowa rozliczenia przychodów z tytułu modernizacji oświetlenia drogowego zwiększyła 
+się o kwotę netto 6 982 tys. zł). 
+Grupa zawiera umowy na świadczenie usług oświetleniowych na rzecz Gmin, na których ciąży obowiązek zapewnienia 
+oświetlenia miejsc publicznych. Usługa oświetleniowa świadczona przez Grupę obejmuje eksploatację oświetlenia 
+drogowego, jednocześnie Grupa świadczy także obowiązki w zakresie dostaw energii. Usługa oświetleniowa świadczona 
+jest w sposób ciągły. Grupa świadczy usługi oświetleniowe przy użyciu posiadanego majątku oświetleniowego (sieci 
+oświetlenia drogowego). Ponadto Grupa świadczy usługę poprawy jakości i efektywności oświetlenia drogowego. Usługa 
+obejmuje modernizację lub rozbudowę majątku oświetleniowego ze środków Grupy. Dzięki temu Gminy kupują usługę 
+oświetleniową o podwyższonym standardzie. Grupa otrzymuje również majątek oświetleniowy od Gmin lub innych 
+podmiotów. W związku z powyższym, zdaniem Grupy, zawarte umowy dotyczące poprawy jakości i efektywności 
+oświetlenia drogowego, otrzymania infrastruktury oświetleniowej oraz jej eksploatacji należy traktować łącznie. 
+W rezultacie, Grupa dokonuje rozliczenia przychodów z tytułu poprawy jakości i efektywności oświetlenia drogowego 
+i przychodów z tytułu nieodpłatnie otrzymanego majątku oświetleniowego proporcjonalnie do okresu ekonomicznej 
+użyteczności powstałych środków trwałych. 
+W grudniu 2023 roku uruchomiony został program „Rozświetlamy Polskę” w ramach edycji 9 Polskiego Ładu. W wyniku 
+programu Gminy otrzymują dofinansowanie w wysokości 80% na wymianę opraw sodowych na ledowe. W związku 
+z powyższym Grupa nawiązała współpracę z Gminami, ponieważ jest właścicielem opraw sodowych, podpisując umowy 
+dzierżawy na okres 5 lat i umowy na wymianę opraw sodowych na ledowe. W wyniku transakcji Grupa rozkłada pozostały 
+okres użytkowania opraw sodowych na czas pozostały do wymiany opraw, następnie likwiduje je oraz wprowadza 
+na majątek nowe oprawy ledowe. Grupa analizuje korzyści ekonomiczne wynikające z umów o współpracę z Gminami 
+i rozpoznaje przychód z tytułu umów z klientami sukcesywnie do ponoszonych kosztów realizacji tych umów.
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego 
+36 
+ 
+Instrumenty finansowe 
+ 
+21. Instrumenty finansowe i wartość godziwa 
+ 
+ 
+Stan na 30 września 2025 
+Stan na 31 grudnia 2024 
+ 
+Wartość księgowa 
+Wartość godziwa 
+Wartość księgowa 
+Wartość godziwa 
+AKTYWA FINANSOWE 
+ 
+ 
+Długoterminowe 
+335 140 
+51 997
+231 318
+44 920 
+Aktywa finansowe wyceniane w wartości godziwej 
+51 997 
+51 997
+44 920
+44 920 
+Należności z tytułu dostaw i usług oraz pozostałe należności 
+103 872 
+(*)
+7 358
+(*) 
+Należności z tytułu leasingu i subleasingu finansowego 
+1 129 
+(*)
+1 646
+(*) 
+Środki zgromadzone w ramach Funduszu Likwidacji Kopalń 
+178 142 
+(*)
+177 394
+(*) 
+Krótkoterminowe 
+12 368 624 
+14 236
+8 938 933
+46 111 
+Aktywa finansowe wyceniane w wartości godziwej 
+14 236 
+14 236
+46 111
+46 111 
+Aktywa z tytułu umów z klientami 
+459 625 
+(*)
+455 963
+(*) 
+Inne inwestycje krótkoterminowe 
+613 884 
+(*)
+-
+(*) 
+Należności z tytułu dostaw i usług oraz pozostałe należności 
+3 501 684 
+(*)
+4 022 534
+(*) 
+Należności z tytułu leasingu i subleasingu finansowego 
+2 050 
+(*)
+2 188
+(*) 
+Środki pieniężne i ich ekwiwalenty 
+7 777 145 
+(*)
+4 412 137
+(*) 
+AKTYWA FINANSOWE RAZEM 
+12 703 764 
+66 233
+9 170 251
+91 031 
+ZOBOWIĄZANIA FINANSOWE 
+ 
+ 
+Długoterminowe 
+6 900 074 
+5 868 142
+6 825 699
+5 964 865 
+Kredyty, pożyczki i dłużne papiery wartościowe 
+5 973 985 
+5 819 249
+6 094 390
+5 944 408 
+Zobowiązania z tytułu leasingu 
+730 812 
+(*)
+690 977
+(*) 
+Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania 
+146 384 
+(*)
+19 875
+(*) 
+Zobowiązania finansowe wyceniane w wartości godziwej 
+48 893 
+48 893
+20 457
+20 457 
+Krótkoterminowe 
+2 952 392 
+ 914 332
+3 743 747
+810 937 
+Kredyty, pożyczki i dłużne papiery wartościowe 
+752 699 
+ 752 699
+755 981
+755 981 
+Zobowiązania z tytułu leasingu 
+38 641 
+(*)
+36 620
+(*) 
+Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania 
+1 848 998 
+(*)
+2 756 625
+(*) 
+Zobowiązania z tytułu umów z klientami 
+150 421 
+(*)
+139 565
+(*) 
+Zobowiązania finansowe wyceniane w wartości godziwej 
+161 633 
+ 161 633
+54 956
+54 956 
+ZOBOWIĄZANIA FINANSOWE RAZEM 
+9 852 466 
+6 782 474
+10 569 446
+6 775 802 
+(*) Wartość księgowa jest zbliżona do ich wartości godziwej wycenianej zgodnie z poziomem 2 poniższej hierarchii. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+37 
+ 
+ 
+Stan na 30 września 2025 
+ 
+Poziom 1 
+Poziom 2 
+Poziom 3 
+Razem 
+Aktywa finansowe wyceniane w wartości godziwej 
+28 600 
+28 778
+8 855 
+71 019
+Instrumenty pochodne wykorzystywane w rachunkowości 
+zabezpieczeń (m.in. zabezpieczające transakcje swap na 
+stopę procentową) 
+− 
+−
+− 
+−
+Instrumenty kapitałowe wyceniane w wartości godziwej 
+przez inne całkowite dochody 
+− 
+−
+5 314 
+5 314
+Opcje call (wyceniane w wartości godziwej przez wynik 
+finansowy) 
+− 
+9 759
+− 
+9 759
+Inne instrumenty pochodne wyceniane w wartości 
+godziwej przez wynik finansowy 
+− 
+19 019
+− 
+19 019
+Akcje i udziały wyceniane w wartości godziwej przez wynik 
+finansowy 
+28 600 
+−
+3 541 
+32 141
+Razem 
+28 600 
+28 778
+8 855 
+66 233
+Zobowiązania finansowe wyceniane w wartości 
+godziwej 
+− 
+(210 526)
+− 
+(210 526)
+Instrumenty pochodne wyceniane w wartości godziwej 
+przez wynik finansowy 
+− 
+(201 939)
+− 
+(201 939)
+Instrumenty pochodne wykorzystywane w rachunkowości 
+zabezpieczeń (m.in. zabezpieczające transakcje swap na 
+stopę procentową) 
+− 
+(8 587)
+− 
+(8 587)
+Kredyty, pożyczki i dłużne papiery wartościowe* 
+− 
+(6 571 948)
+− 
+(6 571 948)
+Razem 
+− 
+(6 782 474)
+− 
+(6 782 474)
+ 
+ 
+Stan na 31 grudnia 2024 
+ 
+Poziom 1 
+Poziom 2 
+Poziom 3 
+Razem 
+Aktywa finansowe wyceniane w wartości godziwej 
+24 810 
+57 431
+8 790 
+91 031
+Instrumenty pochodne wykorzystywane w rachunkowości 
+zabezpieczeń (m.in. zabezpieczające transakcje swap na 
+stopę procentową) 
+− 
+24 695
+− 
+24 695
+Instrumenty kapitałowe wyceniane w wartości godziwej 
+przez inne całkowite dochody 
+− 
+−
+5 314 
+5 314
+Opcje call (wyceniane w wartości godziwej przez wynik 
+finansowy) 
+− 
+1 739
+− 
+1 739
+Inne instrumenty pochodne wyceniane w wartości 
+godziwej przez wynik finansowy 
+− 
+30 997
+− 
+30 997
+Akcje i udziały wyceniane w wartości godziwej przez wynik 
+finansowy 
+24 810 
+−
+3 476 
+28 286
+Razem 
+24 810 
+57 431
+8 790 
+91 031
+Zobowiązania finansowe wyceniane w wartości 
+godziwej 
+− 
+(75 413)
+− 
+(75 413)
+Instrumenty pochodne wyceniane w wartości godziwej 
+przez wynik finansowy 
+− 
+(75 413)
+− 
+(75 413)
+Kredyty, pożyczki i dłużne papiery wartościowe* 
+− 
+(6 700 389)
+− 
+(6 700 389)
+Razem 
+− 
+(6 775 802)
+− 
+(6 775 802)
+*w odniesieniu do kredytów, pożyczek i dłużnych papierów wartościowych wartość godziwa wyliczana jest wyłącznie w celu 
+ujawnienia w sprawozdaniu finansowym różnicy między tą wartością godziwą, a wartością bilansową ustaloną zgodnie z zasadą 
+zamortyzowanego kosztu 
+Aktywa finansowe i zobowiązania finansowe wyceniane w wartości godziwej to między innymi: 
+− 
+udziały i akcje w jednostkach niepowiązanych, w których udział w kapitale jest mniejszy niż 20%; w pozycji 
+na 30 września 2025 r. prezentowane są między innymi udziały w spółce ElectroMobility Poland S.A., dla których 
+nie istnieje cena rynkowa notowana na aktywnym rynku, Grupa po analizie standardu MSSF 9, podjęła decyzję 
+o zakwalifikowaniu tych udziałów do instrumentów finansowych wycenianych przez inne całkowite dochody (ICD); 
+w przypadku, gdy udziały i akcje w jednostkach niepowiązanych notowane są na Giełdzie Papierów 
+Wartościowych, ich wartość godziwa ustalana jest w oparciu o notowania giełdowe; 
+− 
+opcje kupna akcji spółki Polimex-Mostostal S.A.; 
+− 
+instrumenty pochodne, które obejmują wycenę transakcji zabezpieczających ryzyko stóp procentowych 
+(Interest Rate Swap); wartość godziwa instrumentów pochodnych określana jest poprzez wyliczenie wartości 
+bieżącej netto w oparciu o dwie krzywe dochodowości, tj. krzywą do ustalenia czynników dyskonta 
+oraz krzywą służącą do estymacji przyszłych stawek zmiennych stóp referencyjnych; 
+− 
+forwardy walutowe; 
+− 
+kontrakty terminowe na zakup energii elektrycznej i gazu oraz dotyczące praw majątkowych. 
+W pozycji inne inwestycje krótkoterminowe znajdują się lokaty o terminie zapadalności powyżej 3 miesięcy. 
+Wartość godziwa kredytów bankowych, pożyczek i dłużnych papierów wartościowych wyliczana jest dla instrumentów 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+38 
+ 
+finansowych opartych na stałej stopie procentowej, na podstawie bieżącego WIBOR-u. 
+Powyższa tabela przedstawia analizę instrumentów finansowych mierzonych w wartości godziwej, pogrupowanych według 
+trzypoziomowej hierarchii, gdzie: 
+Poziom 1 – wartość godziwa oparta jest o ceny giełdowe (niekorygowane) oferowane za identyczne aktywa 
+lub zobowiązania na aktywnych rynkach. 
+Poziom 2 – wartość godziwa ustalana jest na bazie wartości obserwowanych na rynku, jednakże nie będących 
+bezpośrednim kwotowaniem rynkowym (np. ustalane są przez odniesienie bezpośrednie lub pośrednie do podobnych 
+instrumentów istniejących na rynku). 
+Poziom 3 – wartość godziwa ustalana jest na bazie różnych technik wyceny nie opierających się jednakże o jakiekolwiek 
+obserwowalne dane rynkowe. 
+W okresie 9 miesięcy zakończonym 30 września 2025 r. nie było żadnych przesunięć pomiędzy poziomami hierarchii. 
+Na 30 września 2025 r. w pozycji aktywa finansowe wyceniane w wartości godziwej Spółka prezentuje między innymi opcje 
+kupna akcji spółki Polimex-Mostostal S.A. Opcje zostały wycenione z wykorzystaniem metody Blacka-Scholesa. 
+Na podstawie umowy opcji zakupu akcji Polimex-Mostostal S.A. z 18 stycznia 2017 r. z późniejszymi zmianami, ENEA S.A. 
+nabyła od Towarzystwa Finansowego Silesia Sp. z o.o. opcje call na zakup akcji Polimex-Mostostal S.A. W wyniku realizacji 
+opcji call 16, 30 kwietnia 2025 r. ENEA S.A. nabyła od Towarzystwa Finansowego Silesia Sp. z o.o. 375 000 szt. akcji. 
+W kwietniu i maju 2025 r. ENEA S.A. dokonała sprzedaży 355 000 szt. akcji na Giełdzie Papierów Wartościowych 
+w Warszawie. W wyniku realizacji opcji call 17, 8 sierpnia 2025 r. ENEA S.A. nabyła od Towarzystwa Finansowego Silesia 
+Sp. z o.o. 375 000 szt. akcji. W sierpniu i wrześniu 2025 r. ENEA S.A. dokonała sprzedaży 395 000 szt. akcji na Giełdzie 
+Papierów Wartościowych w Warszawie. Na 30 września 2025 r. ENEA S.A. posiadała 40 475 024 akcje, a udział ENEA S.A. 
+w kapitale zakładowym Polimex Mostostal S.A. wynosił 16,13%. 
+Ponadto w aktywach finansowych o wartości 19 019 tys. zł (na 31 grudnia 2024 r. wartość 30 997 tys. zł) 
+i zobowiązaniach finansowych o wartości 201 939 tys. zł (na 31 grudnia 2024 r. wartość 75 413 tys. zł) wycenianych 
+w wartości godziwej, Grupa wykazuje forwardy walutowe o wartości bilansowej 183 535 tys. zł oraz wycenę kontraktów 
+terminowych na zakup energii elektrycznej o wartości bilansowej 15 343 tys. zł. Wartość nominalna kontraktów zawartych 
+na zakup i sprzedaż energii elektrycznej z terminem zapadalności 2025-2027, prezentowanych jako aktywa i zobowiązania 
+finansowe wyceniane w wartości godziwej, wynosi 554 209 tys. zł (cała kwota dotyczy kontraktów sprzedaży). 
+22. Odpis aktualizujący na oczekiwane straty kredytowe dla należności z tytułu dostaw i usług 
+oraz pozostałych należności, stanowiących instrumenty finansowe 
+Odpis aktualizujący na oczekiwane straty kredytowe dla należności z tytułu dostaw i usług oraz pozostałych 
+należności, stanowiących instrumenty finansowe: 
+ 
+Stan na 
+ 
+30 września 2025 
+31 grudnia 2024 
+Stan na początek okresu 
+135 818
+120 871
+Utworzony 
+32 511
+39 739
+Rozwiązany 
+(11 676)
+(12 943)
+Wykorzystany 
+(11 044)
+(11 849)
+Stan na koniec okresu 
+145 609
+135 818
+W okresie 9 miesięcy zakończonym 30 września 2025 r. odpis aktualizujący wartość księgową należności z tytułu dostaw 
+i usług oraz pozostałych należności stanowiących instrumenty finansowe zwiększył się o 9 791 tys. zł (w okresie 
+9 miesięcy zakończonym 30 września 2024 r. odpis aktualizujący zwiększył się o 17 377 tys. zł). 
+Odpisy są tworzone głównie od należności handlowych. Do szacowania odpisu aktualizującego należności handlowe 
+Grupa stosuje model oczekiwanych strat kredytowych. W celu określenia oczekiwanych strat kredytowych Grupa stosuje 
+uproszczone podejście przewidziane w MSSF 9, które polega na tworzeniu odpisów na oczekiwane straty kredytowe 
+w całym okresie życia w odniesieniu do wszystkich należności handlowych. Dla krótkoterminowych należności handlowych 
+kalkulacja oczekiwanych strat kredytowych odbywa się w oparciu o dane historyczne w sposób opisany w Zasadach 
+tworzenia i ewidencji odpisów aktualizujących wartość należności z tytułu dostaw i usług oraz innych pozycji finansowych 
+w Spółkach Grupy ENEA. Zgodnie z zapisami Zasad dla roku 2025 utratę wartości należności ustala się w oparciu 
+o wskaźniki, których podstawą wyliczeń są dane pochodzące z roku 2024. Zatem ustalone oczekiwane straty kredytowe 
+na 30 września 2025 roku uwzględniają zachodzące zmiany polityczno-gospodarcze. Dla klientów co do zasady 
+stosowane jest podejście portfelowe, niemniej w przypadku zaistnienia konieczności, tj. zidentyfikowania zagrożenia 
+spłaty, możliwe jest zastosowanie podejścia indywidualnego. Portfel należności dzieli się pod kątem działalności 
+prowadzonej przez poszczególne spółki Grupy lub struktury ich odbiorców. Analiza w Grupie prowadzona jest przede 
+wszystkim w podziale na klientów indywidualnych i biznesowych. 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+39 
+ 
+23. Analiza struktury wiekowej należności z tytułu dostaw i usług oraz pozostałych należności, stanowiących 
+instrumenty finansowe 
+Struktura wiekowa należności z tytułu dostaw i usług oraz pozostałych należności, stanowiących instrumenty 
+finansowe: 
+ 
+Stan na 30 września 2025 
+ 
+Wartość nominalna 
+Odpis aktualizujący 
+Wartość księgowa 
+KLIENCI INDYWIDUALNI 
+ 
+Bieżące 
+640 091 
+(1 595)
+638 496
+Przeterminowane 
+197 134 
+(52 498)
+144 636
+ 0-30 dni 
+67 353 
+(193)
+67 160
+ 31-90 dni 
+24 111 
+(1 668)
+22 443
+ 91-180 dni 
+12 953 
+(2 347)
+10 606
+ ponad 180 dni 
+92 717 
+(48 290)
+44 427
+Razem należności z tytułu dostaw i usług oraz 
+pozostałe należności 
+837 225 (54 093) 
+783 132
+KLIENCI BIZNESOWI 
+ 
+Bieżące 
+2 655 381 
+(827)
+2 654 554
+Przeterminowane 
+258 559 
+(90 689)
+167 870
+ 0-30 dni 
+116 354 
+(895)
+115 459
+ 31-90 dni 
+8 850 
+(2 125)
+6 725
+ 91-180 dni 
+16 385 
+(5 005)
+11 380
+ ponad 180 dni 
+116 970 
+(82 664)
+34 306
+Razem należności z tytułu dostaw i usług oraz 
+pozostałe należności 
+ 2 913 940 
+(91 516)
+2 822 424
+Aktywa z tytułu umów z klientami 
+459 882 
+(257)
+459 625
+RAZEM KLIENCI INDYWIDUALNI I BIZNESOWI 
+ 
+Bieżące 
+3 295 472 
+(2 422)
+3 293 050
+Przeterminowane 
+455 693 
+(143 187)
+312 506
+ 0-30 dni 
+183 707 
+(1 088)
+182 619
+ 31-90 dni 
+32 961 
+(3 793)
+29 168
+ 91-180 dni 
+29 338 
+(7 352)
+21 986
+ ponad 180 dni 
+209 687 
+(130 954)
+78 733
+Razem należności z tytułu dostaw i usług oraz 
+pozostałe należności 
+3 751 165 
+(145 609)
+3 605 556
+Aktywa z tytułu umów z klientami 
+459 882 
+(257)
+459 625
+ 
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+40 
+ 
+ 
+Stan na 31 grudnia 2024 
+ 
+Wartość nominalna 
+Odpis aktualizujący 
+Wartość księgowa 
+KLIENCI INDYWIDUALNI 
+ 
+ 
+Bieżące 
+577 526 
+(538) 
+576 988
+Przeterminowane 
+219 358 
+(57 216) 
+162 142
+ 0-30 dni 
+82 237 
+(194) 
+82 043
+ 31-90 dni 
+23 352 
+(2 254) 
+21 098
+ 91-180 dni 
+11 248 
+(2 639) 
+8 609
+ ponad 180 dni 
+102 521 
+(52 129) 
+50 392
+Razem należności z tytułu dostaw i usług oraz 
+pozostałe należności 
+796 884 
+(57 754) 
+739 130
+KLIENCI BIZNESOWI 
+ 
+ 
+Bieżące 
+3 099 972 
+(2 268) 
+3 097 704
+Przeterminowane 
+268 854 
+(75 796) 
+193 058
+ 0-30 dni 
+143 989 
+(1 250) 
+142 739
+ 31-90 dni 
+22 174 
+(3 707) 
+18 467
+ 91-180 dni 
+14 623 
+(7 700) 
+6 923
+ ponad 180 dni 
+88 068 
+(63 139) 
+24 929
+Razem należności z tytułu dostaw i usług oraz 
+pozostałe należności 
+3 368 826 
+(78 064) 
+3 290 762
+Aktywa z tytułu umów z klientami 
+456 284 
+(321) 
+455 963
+RAZEM KLIENCI INDYWIDUALNI I BIZNESOWI 
+ 
+ 
+Bieżące 
+3 677 498 
+(2 806) 
+3 674 692
+Przeterminowane 
+488 212 
+(133 012) 
+355 200
+ 0-30 dni 
+226 226 
+(1 444) 
+224 782
+ 31-90 dni 
+45 526 
+(5 961) 
+39 565
+ 91-180 dni 
+25 871 
+(10 339) 
+15 532
+ ponad 180 dni 
+190 589 
+(115 268) 
+75 321
+Razem należności z tytułu dostaw i usług oraz 
+pozostałe należności 
+4 165 710 
+(135 818) 
+4 029 892
+Aktywa z tytułu umów z klientami 
+456 284 
+(321) 
+455 963
+ 
+ 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+41 
+ 
+Pozostałe noty objaśniające 
+ 
+24. Transakcje z jednostkami powiązanymi 
+Spółki Grupy Kapitałowej zawierają transakcje z następującymi podmiotami powiązanymi: 
+− 
+transakcje ze spółkami wchodzącymi w skład Grupy Kapitałowej – transakcje te są eliminowane na etapie 
+konsolidacji, 
+− 
+transakcje zawarte pomiędzy Grupą a Członkami Władz Grupy, które podzielić należy na dwie kategorie: 
+− wynikające z powołania na Członków Rad Nadzorczych, 
+− wynikające z innych umów o charakterze cywilno-prawnym, 
+− 
+transakcje z podmiotami powiązanymi ze Skarbem Państwa Rzeczypospolitej Polskiej. 
+Transakcje z członkami Władz Grupy 
+ 
+Za okres 9 miesięcy zakończony 
+Tytuł 
+Zarząd Spółki 
+Rada Nadzorcza Spółki 
+ 
+30 września 
+2025 
+30 września 
+2024 
+30 września 
+2025 
+30 września 
+2024 
+ 
+ 
+ 
+ 
+ 
+Wynagrodzenia z tytułu kontraktów 
+menadżerskich 
+ 4 460* 
+4 919** 
+- 
+- 
+Wynagrodzenia z tytułu powołania do 
+organów zarządzających lub nadzorujących 
+- 
+- 
+584 
+633 
+RAZEM 
+4 460 
+4 919 
+584 
+633 
+* Wynagrodzenie obejmuje premie dla obecnych Członków Zarządu za 2024 r. w wysokości 2 246 tys. zł. 
+** Wynagrodzenie obejmuje odprawy i zakaz konkurencji dla byłych Członków Zarządu w wysokości 2 730 tys. zł. 
+W okresie 9 miesięcy zakończonym 30 września 2025 r. z ZFŚS nie udzielono Członkom Rady Nadzorczej pożyczek 
+(0 tys. zł za okres 9 miesięcy zakończony 30 września 2024 r.). 
+Inne transakcje, wynikające z umów cywilno-prawnych zawartych pomiędzy Jednostką Dominującą a Członkami Władz 
+Jednostki Dominującej dotyczą przede wszystkim wykorzystania przez Członków Zarządu ENEA S.A. samochodów 
+służbowych dla celów prywatnych. 
+ 
+Transakcje z podmiotami powiązanymi ze Skarbem Państwa Rzeczypospolitej Polskiej 
+Grupa zawiera również transakcje handlowe z jednostkami administracji państwowej i samorządowej oraz podmiotami 
+będącymi własnością Skarbu Państwa Rzeczypospolitej Polskiej. 
+Przedmiotem tych transakcji są głównie: 
+− 
+zakupy węgla, energii elektrycznej, praw majątkowych wynikających ze świadectw pochodzenia energii 
+w zakresie energii odnawialnej oraz energii produkowanej w kogeneracji z ciepłem, usługi przesyłowej 
+i dystrybucyjnej, które Grupa realizuje od podmiotów zależnych od Skarbu Państwa, 
+− 
+sprzedaż energii elektrycznej, usługi dystrybucyjnej, przyłączenia do sieci i pozostałych powiązanych z tym opłat 
+oraz węgla, którą Grupa realizuje zarówno dla organów administracji państwowej, samorządowej (sprzedaż 
+odbiorcom końcowym) jak i spółek zależnych od Skarbu Państwa (sprzedaż hurtowa oraz detaliczna – 
+odbiorcom końcowym). 
+Transakcje te przeprowadzane są na zasadach rynkowych, a warunki nie odbiegają od stosowanych w transakcjach 
+z innymi podmiotami. Grupa nie prowadzi ewidencji umożliwiającej agregowanie wartości wszystkich transakcji 
+realizowanych ze wszystkimi instytucjami państwowymi oraz podmiotami zależnymi od Skarbu Państwa. 
+Dodatkowo Grupa zidentyfikowała transakcje z jednostkami powiązanymi ze Skarbem Państwa o charakterze 
+finansowym, tj. z bankami, które są gwarantami w programach emisji obligacji oraz podmiotami finansującymi Grupę. 
+Wśród tych podmiotów znajdują się: PKO BP S.A., Pekao S.A. oraz Bank Gospodarstwa Krajowego. Szczegółowe 
+informacje dotyczące kredytów bankowych oraz programów emisji obligacji zostały zaprezentowane w nocie 17. 
+25. Zobowiązania warunkowe, postępowania sądowe oraz sprawy toczące się przed organem administracji 
+publicznej 
+W tej części not objaśniających zaprezentowano zobowiązania warunkowe oraz postępowania toczące się przed sądem, 
+organem właściwym dla postępowania arbitrażowego lub organem administracji publicznej. 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+42 
+ 
+25.1. Poręczenia i gwarancje 
+W tabeli poniżej przedstawiono obowiązujące na 30 września 2025 r. istotne gwarancje bankowe w ramach umowy 
+zawartej przez ENEA S.A. z Pekao S.A. do wysokości limitu określonego w umowie. 
+Zestawienie udzielonych gwarancji wg stanu na 30 września 2025 r. 
+Data udzielenia 
+gwarancji 
+Data obowiązywania 
+gwarancji 
+Podmiot na rzecz którego 
+udzielono gwarancji 
+Bank - 
+wystawca 
+Kwota udzielonej 
+gwarancji 
+w tys. zł 
+ 
+ 
+ 
+ 
+ 
+17 lipca 2025 r. 
+31 marca 2027 r. 
+Vastint Poland sp. z o.o. 
+Pekao S.A. 
+1 271 
+1 stycznia 2025 r. 
+31 stycznia 2027 r. 
+Skarb Państwa - Wojskowy 
+Zarząd Infrastruktury 
+Pekao S.A. 
+5 317 
+30 lipca 2025 r. 
+7 listopada 2025 r. 
+Zakład Wodociągów 
+i Kanalizacji Sp. z o.o. 
+Pekao S.A. 
+1 000 
+Suma udzielonych gwarancji bankowych 
+7 588 
+ 
+25.2. Postępowania toczące się przed sądami powszechnymi 
+Postępowania z powództwa Grupy 
+Postępowania wszczynane przed sądami powszechnymi z powództwa ENEA S.A. oraz ENEA Operator Sp. z o.o. dotyczą 
+dochodzenia należności z tytułu dostarczania energii elektrycznej (tzw. sprawy za energię) oraz dochodzenia należności 
+z innych tytułów – nielegalnego poboru energii elektrycznej, przyłączeń do sieci i innych usług specjalistycznych 
+(tzw. sprawy za nie energię). 
+Postępowania wszczynane przed sądami powszechnymi z powództwa ENEA Wytwarzanie Sp. z o.o. dotyczą przede 
+wszystkim odszkodowań oraz kar umownych od kontrahentów spółki. 
+Na dzień 30 września 2025 r. przed sądami powszechnymi toczyło się łącznie 23 520 spraw z powództwa Grupy 
+na łączną kwotę 855 408 tys. zł (na 31 grudnia 2024 r. toczyło się 26 159 spraw o łącznej wartości 932 439 tys. zł). 
+Wynik żadnej ze spraw nie jest istotny dla wyniku finansowego Grupy Kapitałowej. 
+Postępowania przeciwko Grupie 
+Postępowania przeciwko Grupie wszczynane są zarówno z powództwa osób fizycznych, jak i prawnych. Dotyczą one 
+m.in. kwestii takich jak: odszkodowania za przerwy w dostawach energii, ustalenie, czy miał miejsce nielegalny pobór 
+energii oraz odszkodowania za korzystanie przez Grupę z nieruchomości, na których znajdują się urządzenia 
+elektroenergetyczne. Za szczególnie istotne Grupa uznaje powództwa dotyczące bezumownego korzystania 
+z nieruchomości niebędących własnością Grupy. 
+Występują również roszczenia z tytułu rozwiązanych umów na zakup praw majątkowych (nota 25.5). 
+Postepowania sądowe przeciwko ENEA Wytwarzanie Sp. z o.o. dotyczą m.in. odszkodowań oraz zapłaty kar umownych. 
+Na dzień 30 września 2025 r. przed sądami powszechnymi toczyło się łącznie 1 299 spraw przeciwko Grupie na łączną 
+kwotę 1 110 668 tys. zł (odpowiednio na 31 grudnia 2024 r. toczyło się 1 365 spraw o łącznej wartości 1 238 317 tys. zł). 
+Wynik żadnej ze spraw nie jest istotny dla wyniku finansowego Grupy Kapitałowej. 
+Rezerwy związane z tymi sprawami sądowymi prezentowane są w nocie 18. 
+25.3. Ryzyko związane ze stanem uregulowania sytuacji prawnej nieruchomości wykorzystywanych przez 
+Grupę 
+Ryzyko związane ze stanem uregulowania sytuacji prawnej nieruchomości wykorzystywanych przez Grupę wynika z faktu, 
+że Grupa nie dla wszystkich obiektów posiada tytuł prawny do korzystania z gruntów, na których są usytuowane sieci 
+przesyłowe oraz związane z nimi urządzenia. W przyszłości Grupa może być zobowiązana do ponoszenia kosztów z tytułu 
+zadośćuczynienia za przeszłe bezumowne korzystanie z nieruchomości. 
+Rozstrzygnięcia zapadające w tych sprawach są o tyle istotne, że w znaczący sposób wpływają zarówno na kształtowanie 
+postępowania Grupy wobec osób zgłaszających roszczenia przedsądowe w związku z urządzeniami zlokalizowanymi 
+na ich nieruchomościach w przeszłości, jak i na sposób regulowania stanu prawnego tych urządzeń w przypadku nowych 
+inwestycji. 
+Możliwość utraty majątku w tym przypadku jest znikoma. Brak uregulowanego stanu prawnego nieruchomości 
+pod urządzeniami energetycznymi nie stanowi ryzyka utraty przez Grupę majątku, a jedynie powoduje zagrożenie 
+powstania dodatkowych kosztów związanych z żądaniami wypłaty odszkodowań za tzw. bezumowne korzystanie z gruntu, 
+czynszu dzierżawnego, kosztów ustanowienia służebności przesyłu lub wyjątkowo, w pojedynczych przypadkach 
+z żądaniami związanymi ze zmianą lokalizacji obiektu (przywrócenie gruntu do stanu pierwotnego). Grupa tworzy 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+43 
+ 
+adekwatne rezerwy. 
+Rezerwa dotyczy również odszkodowań za bezumowne korzystanie przez Grupę z nieruchomości, na których 
+posadowiony jest majątek sieciowy Grupy (linie elektroenergetyczne), w związku z określaniem tzw. korytarzy 
+przesyłowych oraz ustanawianiem służebności przesyłu na rzecz Grupy. Głównym parametrem przyjętym do wyliczenia 
+jest długości linii, a co za tym idzie przeliczenie powierzchni zajęcia gruntu przez linię przez wartość zł/m2, z odpowiednim 
+uwzględnieniem innych parametrów takich jak: lokalizacja, rodzaj linii, rodzaj gruntu. 
+Na dzień 30 września 2025 r. Grupa ujęła rezerwę na roszczenia z tytułu bezumownego korzystania z gruntów 
+w wysokości 272 446 tys. zł. 
+25.4. Sprawy dotyczące niezbilansowania za 2012 r. 
+30 i 31 grudnia 2014 r. ENEA S.A. wystąpiła z zawezwaniami do próby ugodowej w stosunku do: 
+ 
+Kwota zawezwania 
+w tys. zł 
+ 
+ 
+TAURON Polska Energia S.A. 
+17 086 
+TAURON Sprzedaż GZE Sp. z o.o. 
+1 826 
+Razem 
+18 912 
+Przedmiotem zawezwań były roszczenia o zapłatę za energię elektryczną niepoprawnie rozliczoną na rynku bilansującym 
+w 2012 r. Zawezwane spółki poprzez niewyrażenie zgody na wystawienie przez ENEA S.A. faktur za rok 2012 
+bezpodstawnie uzyskały z tego tytułu korzyści majątkowe. 
+W związku z brakiem ugodowego rozstrzygnięcia w powyższej sprawie, ENEA S.A. wystąpiła ze stosownymi pozwami 
+przeciwko: 
+− 
+TAURON Polska Energia S.A. – pozew z 10 grudnia 2015 r., 
+− 
+TAURON Sprzedaż GZE Sp. z o. o. – pozew z 10 grudnia 2015 r. 
+W sprawie ENEA S.A. przeciwko Tauron Polska Energia S.A. i inni 12 marca 2025 r. Sąd Apelacyjny w Katowicach oddalił 
+apelację powódki i zasądził koszty procesu na rzecz pozwanych. Sprawa została prawomocnie zakończona. 
+W sprawie ENEA S.A. przeciwko Tauron Sprzedaż GZE Sp. z o.o. 17 kwietnia 2025 r. Sąd Apelacyjny w Katowicach 
+oddalił apelację Spółki i zasądził koszty zastępstwa procesowego na rzecz pozwanego. Sprawa została prawomocnie 
+zakończona. 
+Z tytułu powyższych spraw w skonsolidowanym sprawozdaniu z sytuacji finansowej nie zostały rozpoznane żadne kwoty. 
+25.5. Spór dotyczący cen na świadectwa pochodzenia energii OZE oraz wypowiedziane umowy na zakup praw 
+majątkowych wynikających ze świadectw pochodzenia energii z odnawialnych źródeł 
+ENEA S.A. jest stroną 4 postępowań sądowych dotyczących umów na zakup praw majątkowych wynikających 
+ze świadectw pochodzenia energii z odnawialnych źródeł, na które składają się: 
+• 
+3 postępowania o zapłatę, w których przeciwko ENEA S.A. dochodzone są roszczenia tytułem wynagrodzenia, 
+kar umownych bądź odszkodowania, przy czym w jednym postępowaniu doszło do częściowego rozstrzygnięcia 
+co do roszczeń, a w drugim postępowaniu doszło do wstępnego i częściowego rozstrzygnięcia co do roszczeń 
+oraz do uznania bezskuteczności wypowiedzenia umowy, rozstrzygnięcia te są prawomocne; 
+• 
+1 postępowanie o ustalenie bezskuteczności wypowiedzenia przez ENEA S.A umów sprzedaży praw 
+majątkowych dokonanego 28 października 2016 r., w którym 17 czerwca 2025 r. doszło do rozstrzygnięcia 
+w I instancji. 
+ENEA S.A. dokonała potrącenia płatności części wierzytelności przysługujących kontrahentom wobec ENEA S.A. z tytułu 
+zapłaty ceny za sprzedane prawa majątkowe z wierzytelnością odszkodowawczą ENEA S.A. wobec wytwórców OZE. 
+Szkoda wyrządzona ENEA S.A. powstała wskutek niewykonania przez kontrahentów obowiązku kontraktowego 
+przystąpienia w dobrej wierze do renegocjacji kontraktów długoterminowych na sprzedaż praw majątkowych zgodnie 
+z obowiązującą strony klauzulą adaptacyjną. 
+28 października 2016 r. ENEA S.A. złożyła oświadczenia, w zależności od umowy, o wypowiedzeniu albo o odstąpieniu 
+od długoterminowych umów na zakup przez Spółkę praw majątkowych wynikających ze świadectw pochodzenia energii 
+z odnawialnych źródeł (tzw. zielonych certyfikatów) (Umowy). 
+Spory, o których mowa powyżej wynikają z umów, które zostały zawarte w latach 2006-2014 m.in. z niżej wymienionymi 
+kontrahentami, do których należą instalacje wytwórcze energii elektrycznej z odnawialnych źródeł (Kontrahenci): 
+• 
+"PSW" Sp. z o.o. z siedzibą w Warszawie; 
+• 
+in.ventus Sp. z o.o. EW Śniatowo Sp. k. z siedzibą w Poznaniu (następnie TEC1 Sp. z o.o. EW Śniatowo Sp. k. 
+z siedzibą w Katowicach; obecnie TAURON Zielona Energia Sp. z o.o. z siedzibą w Katowicach); 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+44 
+ 
+• 
+Golice Wind Farm Sp. z o.o. z siedzibą w Warszawie. 
+Umowy w wyniku wypowiedzeń złożonych przez ENEA S.A. uległy rozwiązaniu, zgodnie z oceną ENEA S.A., zasadniczo 
+z końcem listopada 2016 r. Umowna data rozwiązania poszczególnych Umów wynikała z postanowień kontraktowych. 
+Przyczyną wypowiedzenia/odstąpienia od poszczególnych Umów przez Spółkę był brak przystąpienia do renegocjacji 
+w drodze klauzul adaptacyjnych poszczególnych umów, które uzasadniały dostosowanie umów celem przywrócenia 
+równowagi kontraktowej oraz ekwiwalentności świadczeń stron, powstałych na skutek zmian w prawie. 
+Zmiany prawa, do których doszło po dniu zawarcia wymienionych Umów, tj. w szczególności: 
+• 
+rozporządzenie Ministra Gospodarki z 18 października 2012 r. w sprawie szczegółowego zakresu obowiązków 
+uzyskania i przedstawienia do umorzenia świadectw pochodzenia, uiszczenia opłaty zastępczej, zakupu energii 
+elektrycznej i ciepła wytworzonych w odnawialnych źródłach energii oraz obowiązku potwierdzania danych 
+dotyczących ilości energii elektrycznej wytworzonej w odnawialnym źródle energii (Dz. U. z 2012 r., poz. 1229); 
+• 
+ustawa z 20 lutego 2015 r. o odnawialnych źródłach energii (Dz.U. z 2015 r. poz. 478) i związane z tą ustawą 
+kolejne zmiany prawa oraz ogłoszone projekty zmian prawa, tj. w szczególności: 
+− 
+ustawa z 22 czerwca 2016 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych 
+ustaw (Dz.U. z 2016 r. poz. 925); oraz 
+− 
+projekt rozporządzenia Ministra Energii w sprawie zmiany wielkości udziału ilościowego sumy energii 
+elektrycznej wynikającej z umorzonych świadectw pochodzenia potwierdzających wytworzenie energii 
+elektrycznej z odnawialnych źródeł energii, które ma zostać wydane na podstawie upoważnienia 
+wynikającego z art. 12 ust. 5 ustawy z 22 czerwca 2016 r. o zmianie ustawy o odnawialnych źródłach 
+energii oraz niektórych innych ustaw; 
+spowodowały obiektywny brak możliwości sporządzenia wiarygodnych modeli prognozujących kształtowanie się cen 
+zielonych certyfikatów. 
+Celem rozwiązania Umów jest uniknięcie przez Spółkę straty stanowiącej różnicę między cenami umownymi a ceną 
+rynkową zielonych certyfikatów. Ze względu na zmieniające się warunki prawne po rozwiązaniu Umów w roku 2017, 
+w szczególności wynikające z ustawy z 20 lipca 2017 r. o zmianie ustawy o odnawialnych źródłach energii, szacowana 
+wartość przyszłych zobowiązań umownych uległaby zmniejszeniu. Spadek odzwierciedla zmianę sposobu wyznaczania 
+opłaty zastępczej, która zgodnie z treścią części Umów stanowi podstawę do wyliczania ceny kontraktowej i powiązanie 
+jej z ceną rynkową. 
+W sprawie z powództwa Golice Wind Farm Sp. z o.o. 21 lutego 2022 r. Sąd Apelacyjny w Poznaniu wydał wyrok ustalając, 
+że oświadczenie złożone przez ENEA S.A.w Poznaniu w piśmie z 28 października 2016 r. o rozwiązaniu w całości umowy 
+sprzedaży nie wywołało skutku prawnego i umowa ta pozostaje w mocy w całości, oddalając apelację Golice Wind Farm 
+Sp. z o.o. w pozostałym zakresie i oddalając apelację ENEA S.A., a także zasądzając na rzecz Golice Wind Farm 
+Sp. z o.o. od ENEA S.A. koszty postępowania apelacyjnego, wskutek czego doszło do uprawomocnienia się wyroku 
+częściowego i wstępnego Sądu Okręgowego w Poznaniu z 14 sierpnia 2020 r., którym sąd uznał za zasadne roszczenie 
+o zapłatę wynagrodzenia za prawa majątkowe i zasądził od ENEA S.A. kwotę 6 042 tys. zł wraz z odsetkami, 
+a w pozostałym zakresie uznał roszczenie o zapłatę za usprawiedliwione co do zasady. 25 lipca 2022 r. ENEA S.A. wniosła 
+skargę kasacyjną od wyroku Sądu Apelacyjnego w Poznaniu, wnosząc jednocześnie o wstrzymanie wykonalności ww. 
+orzeczeń. Postanowieniem z 3 października 2022 r. Sąd Apelacyjny w Poznaniu oddalił wniosek o wstrzymanie 
+wykonalności orzeczeń. Skarga kasacyjna została przekazana do Sądu Najwyższego. Sprawie nadano sygnaturę I CSK 
+6369/22. 20 lutego 2024 r. Sąd Najwyższy wydał postanowienie w przedmiocie przyjęcia skargi kasacyjnej 
+do rozpoznania. Sygnatura sprawy wtórnej to II CSKP 210/24. 26 czerwca 2025 r. Sąd Najwyższy wydał wyrok oddalający 
+skargę (informacja z portalu e-Sprawa Sądu Najwyższego). Powyższy wyrok nie został dotychczas doręczony 
+pełnomocnikowi ENEA S.A. 
+W sprawie z powództwa Hamburg Commercial Bank AG przeciwko ENEA S.A., w której Hamburg Commercial Bank AG 
+dochodzi roszczeń z umowy sprzedaży praw majątkowych zawartej przez ENEA S.A. z Windpark Śniatowo 
+Management GmbH EW Śniatowo Sp. k. (następnie TEC1 Sp. z o.o. EW Śniatowo Sp. k. z siedzibą w Katowicach; 
+obecnie TAURON Zielona Energia Sp. z o.o. z siedzibą w Katowicach) powołując się na ich nabycie na podstawie umowy 
+przelewu wierzytelności. Sąd Okręgowy w Poznaniu postanowieniem z 18 marca 2022 r. oddalił wniosek o udzielenie 
+zabezpieczenia powoda. Wyrokiem częściowym z 25 lutego 2021 r. Sąd Okręgowy w Poznaniu zasądził od ENEA S.A. 
+na rzecz Hamburg Commercial Bank AG kwotę 494 tys. zł. W pozostałym zakresie sprawa nie została jeszcze 
+rozstrzygnięta. 28 września 2022 r. odbyła się rozprawa, 26 października 2022 r. wyrokiem Sądu Apelacyjnego 
+w Poznaniu oddalono apelację Spółki od wyroku częściowego Sądu Okręgowego w Poznaniu z 25 lutego 2021 r. Spółka 
+wykonała prawomocny wyrok. 7 lutego 2023 r. została złożona skarga kasacyjna do Sądu Najwyższego od wyroku Sądu 
+Apelacyjnego z 26 października 2022 r. Skarga kasacyjna trafiła do Sądu Najwyższego, nie zakreślono terminu 
+rozpoznania. Sprawie nadano sygnaturę I CSK 2015/23. 17 stycznia 2025 r. Sąd Najwyższy wydał postanowienie 
+w przedmiocie przyjęcia skargi kasacyjnej do rozpoznania. Sygnatura sprawy wtórnej to II CSKP 22/25. Sprawa oczekuje 
+na wyznaczenie terminu rozprawy. Na rozpoznanie przed Sądem Okręgowym w Poznaniu oczekuje powództwo Hamburg 
+Commercial Bank AG w zakresie, który nie został objęty dotychczasowym rozstrzygnięciem. 
+W sprawie z powództwa TEC1 Sp. z o.o. EW Śniatowo Sp. k. z siedzibą w Katowicach (obecnie TAURON Zielona Energia 
+Sp. z o.o. z siedzibą w Katowicach) 25 maja 2022 r. Spółce doręczona została interwencja uboczna w sprawie o sygn. 
+IX GC 552/17, na mocy której Hamburg Commercial Bank AG przystąpiło do postępowania w roli interwenienta ubocznego 
+w sprawie z powództwa in.ventus Sp. z o.o. EW Śniatowo Sp. k. z siedzibą w Poznaniu (następnie TEC1 Sp. z o.o. EW 
+
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres od 1 stycznia do 30 września 2025 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9 - 45 stanowią integralną część skróconego śródrocznego skonsolidowanego 
+sprawozdania finansowego 
+45 
+ 
+Śniatowo Sp. k. z siedzibą w Katowicach; obecnie TAURON Zielona Energia Sp. z o.o. z siedzibą w Katowicach) 
+o ustalenie bezskuteczności wypowiedzenia. Postanowieniem z 30 listopada 2022 r. Sąd Okręgowy w Poznaniu oddalił 
+opozycję Spółki wobec wstąpienia Hamburg Commercial Bank AG do postępowania w roli interwenienta ubocznego. 
+Spółka 10 marca 2023 r. wniosła zażalenie na postanowienie Sądu Okręgowego w Poznaniu z 30 listopada 2022 r. 
+o oddaleniu opozycji. Postanowieniem z 27 lipca 2023 r. Sąd Okręgowy w Poznaniu oddalił zażalenie na postanowienie 
+Sądu Okręgowego w Poznaniu z 30 listopada 2022 r. o oddaleniu opozycji. 17 czerwca 2025 r. po zakończeniu 
+postępowania 
+i 
+zamknięciu 
+rozprawy 
+Sąd 
+Okręgowy 
+w 
+Poznaniu 
+wydał 
+wyrok, 
+w 
+którym 
+orzekł 
+o bezskuteczności złożonego przez ENEA S.A. oświadczenia o wypowiedzeniu umowy. Wyrok nie jest prawomocny. 
+11 września 2025 r. pełnomocnik ENEA S.A. złożył apelację od ww. wyroku. Sprawa oczekuje na rozpoznanie przed 
+Sądem Apelacyjnym w Poznaniu. W sprawie nie wyznaczono terminu rozprawy. 
+W sprawie z powództwa PSW Sp. z o.o. Sąd Okręgowy w Poznaniu po rozpoznaniu sprawy na posiedzeniu niejawnym 
+31 stycznia 2023 r. postanowił zamknąć rozprawę oraz wydał wyrok zasądzający od ENEA S.A. na rzecz PSW Sp. z o.o. 
+kwotę 4 488 tys. zł wraz z ustawowymi odsetkami za opóźnienie, oddalając częściowo powództwo w zakresie roszczeń 
+odsetkowych oraz zasądził od Spółki kwotę 115 tys. zł tytułem zwrotu kosztów postępowania. Pełnomocnik Spółki 25 lipca 
+2023 r. wniósł apelację od wyroku Sądu Okręgowego w Poznaniu z 31 stycznia 2023 r. w części zasądzającej wyroku. 
+Wyrok w tym zakresie nie jest prawomocny, w pozostałym zakresie wyrok uprawomocnił się. Sprawa toczy się przed 
+Sądem Apelacyjnym w Poznaniu, I Wydział Cywilny i Własności Intelektualnej pod sygn. akt I AGa 278/23. W sprawie nie 
+wyznaczono terminu rozprawy. 
+ENEA S.A. utworzyła rezerwę na spory sądowe, w tym związane z wypowiedzeniem przez ENEA S.A. umów sprzedaży 
+praw 
+majątkowych 
+wynikających 
+ze 
+świadectw 
+pochodzenia 
+energii 
+elektrycznej 
+z 
+OZE, 
+w 
+kwocie 
+99 429 tys. zł, która w głównej mierze dotyczy sporów z obszaru PM OZE i pokrywa całość roszczeń pieniężnych z tego 
+tytułu na 30 września 2025 r. Rezerwa jest prezentowana w nocie 18. 
+26. Istotne zdarzenia mające wpływ na skrócone śródroczne skonsolidowane sprawozdanie finansowe 
+Grupy za okres 9 miesięcy zakończony 30 września 2025 r. 
+24 stycznia 2025 r. spółka Lubelski Węgiel „Bogdanka” S.A. otrzymała decyzję ubezpieczeniową wydaną przez 
+Towarzystwo Ubezpieczeń Wzajemnych Polskiego Zakładu Ubezpieczeń Wzajemnych („TUW PZUW”). Decyzja TUW 
+PZUW z 22 stycznia 2025 r. dotyczyła przyznania i wypłaty spółce odszkodowania za szkodę w majątku podziemnym, 
+wynikającą ze zdarzenia w ścianie 3/VII/385 z lutego 2023 r. (wylew wód podziemnych). Zgodnie z decyzją 
+ubezpieczyciela spółce wypłacone zostało odszkodowanie wysokości 144 849 tys. zł. Kwota ta została ujęta 
+w skonsolidowanym sprawozdaniu z całkowitych dochodów w pozycji „pozostałe przychody operacyjne”.

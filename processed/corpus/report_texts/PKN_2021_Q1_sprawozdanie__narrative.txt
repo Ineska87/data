@@ -1,0 +1,1167 @@
+1. 
+Główne czynniki wpływające na EBITDA i EBITDA LIFO 
+Rachunek zysków lub strat za 3 miesiące 2021 roku 
+Wynik z działalności operacyjnej powiększony o amortyzację (tzw. EBITDA) w I kwartale 2021 roku wyniósł 3 533 mln PLN, przy 
+(969) mln PLN w analogicznym okresie 2020 roku. 
+W I kwartale 2021 roku odpisy netto aktualizujące wartość rzeczowych aktywów trwałych i wartości niematerialnych nie były istotne 
+i wyniosły (4) mln PLN. Z kolei w I kwartale 2020 roku wpływ ww. odpisów wyniósł (504) mln PLN i dotyczył głównie aktywów 
+segmentu Wydobycia w Kanadzie i Polsce w związku z aktualizacją cen węglowodorów. 
+Zaprezentowana powyższej EBITDA I kwartału 2020 roku obejmuje dodatkowo ujemny wpływ (2 017) mln PLN z tytułu 
+przeszacowania wartości zapasów do cen możliwych do uzyskania (Net Realisable Value) zgodnie z MSR 2 Zapasy na skutek 
+gwałtownego spadku cen ropy i notowań produktów z marca 2020 roku. 
+ 
+Grupa ORLEN w sprawozdaniach finansowych wycenia główne grupy zapasów według metody średnio ważonego kosztu 
+wytworzenia lub ceny nabycia. W przypadku zapasów węgla stosowana jest metoda rozchodu „pierwsze weszło, pierwsze 
+wyszło” (FIFO). 
+W przypadku metody średnio ważonego kosztu wytworzenia wzrost cen ropy, w porównaniu do wyceny ropy wg metody LIFO, 
+wpływa pozytywnie a spadek negatywnie na raportowane wyniki EBITDA. 
+Wpływ rosnących w I kwartale 2021 roku cen ropy naftowej na wycenę zapasów ujęty w wyniku EBITDA wyniósł 1 142 mln PLN. 
+W rezultacie zysk z działalności operacyjnej powiększony o amortyzację przed uwzględnieniem wpływu zmian cen ropy naftowej 
+na wycenę zapasów (tzw. EBITDA LIFO) oraz odpisów aktualizujących wartość majątku wyniósł 2 395 mln PLN i był wyższy 
+o 788 mln PLN. 
+Ujemny wpływ parametrów makroekonomicznych wyniósł (1 324) mln PLN (r/r) i obejmował głównie rozliczenie i wycenę 
+pochodnych instrumentów finansowych. W I kwartale 2020 roku nastąpił znaczący spadek notowań ropy i produktów, co 
+wpłynęło na pozytywny efekt transakcji zabezpieczających, natomiast w I kwartale 2021 roku, przy wzroście notowań, efekt ww. 
+transakcji był negatywny. W bieżącym roku rozpoznany został również dodatni efekt wyceny i rozliczenia kontraktów 
+terminowych CO2 w ramach wydzielonego portfela transakcyjnego. 
+Dodatkowo widoczny był również negatywny wpływ niższego dyferencjału Ural/Brent o 0,9 USD/bbl, obniżenia marż na średnich 
+destylatach i olefinach oraz efekt silniejszego wzrostu cen gazu w porównaniu do cen energii elektrycznej w segmencie 
+Energetyki. Negatywny wpływ powyższych czynników makro został częściowo ograniczony wzrostem marż na lekkich 
+destylatach, ciężkich frakcjach rafineryjnych, poliolefinach, nawozach i PCW oraz osłabieniem PLN głównie względem EUR. 
+Utrzymujące się w I kwartale 2021 roku ograniczenia rynkowe spowodowane pandemią COVID-19 na wszystkich rynkach 
+operacyjnych Grupy ORLEN wpłynęły na zmniejszenie wolumenów sprzedaży o (11)% (r/r), w tym wolumenów rafineryjnych 
+o (11)% (r/r), petrochemicznych o (2)% (r/r), detalicznych o (13)% (r/r) oraz wydobycia o (24)% (r/r). Powyższe zmiany trendów 
+sprzedaży spowodowały ujemny efekt wolumenowy w wysokości (828) mln PLN (r/r). 
+Dodatni wpływ pozostałych czynników wyniósł 2 940 mln PLN (r/r) i obejmował głównie: 
+ 1 802 mln PLN (r/r) – brak ujemnego wpływu przeszacowania wartości zapasów do cen możliwych do uzyskania z I kwartału 
+2020 roku. Wpływ przeszacowania wartości zapasów w I kwartale 2021 był dodatni i wyniósł 193 mln PLN, przy (1 609) mln 
+PLN w analogicznym okresie 2020 roku. 
+ 813 mln PLN (r/r) – dodatni wpływ wykorzystania historycznych warstw zapasów w związku z prowadzonymi postojami 
+remontowymi instalacji. 
+ 790 mln PLN (r/r) – ujęcie w konsolidacji wyników Grupy ENERGA. 
+ (465) mln PLN (r/r) – pozostałe elementy obejmujące niższe (r/r) marże hurtowe i detaliczne, wyższe koszty pracy oraz 
+aktualizację rezerw na emisje CO2. 
+ 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA I KWARTAŁ 2021 ROKU 39 / 47 
+ 
+2. 
+Najważniejsze zdarzenia w okresie od 1 stycznia 2021 roku do dnia sporządzenia niniejszego raportu 
+ 
+STYCZEŃ 2021 
+ 
+Podpisanie umowy wspólnego przedsięwzięcia (ang. joint venture agreement) z NP BALTIC WIND B.V. w 
+przedmiocie pozyskania inwestora branżowego do realizacji projektu budowy morskich elektrowni wiatrowych 
+przez Baltic Power Sp. z o.o. 
+PKN ORLEN poinformował, że 29 stycznia 2021 roku pomiędzy PKN ORLEN, Baltic Power Sp. z o.o. („Baltic Power”) 
+oraz NP BALTIC WIND B.V. z siedzibą w Amsterdamie, Holandia ("NP BALTIC WIND B.V."), spółką z grupy kapitałowej 
+Northland Power Inc, została podpisana umowa wspólnego przedsięwzięcia (ang. joint venture agreement) 
+w przedmiocie pozyskania inwestora branżowego do realizacji wspólnego przedsięwzięcia inwestycyjnego („Umowa”). 
+Przedmiotem Umowy jest przygotowanie, budowa i eksploatacja przez Baltic Power morskiej farmy wiatrowej 
+zlokalizowanej w Polskiej Wyłącznej Strefie Ekonomicznej na Morzu Bałtyckim o maksymalnej mocy do 1200 MW. 
+Rozpoczęcie budowy morskiej farmy wiatrowej planowane jest w 2023 roku, a oddanie inwestycji do użytkowania 
+planowane jest na rok 2026. Umowa została zawarta na 35 lat, po tym terminie przekształca się w umowę na czas 
+nieokreślony. 
+Zgodnie z postanowieniami Umowy docelowo NP BALTIC WIND B.V. obejmie 49% udziałów w Baltic Power, pozostałe 
+51% udziałów w Baltic Power pozostanie w posiadaniu PKN ORLEN S.A. Jako część wkładów pieniężnych wnoszonych 
+na pokrycie udziałów obejmowanych przez NP BALTIC WIND B.V. w Baltic Power, NP BALTIC WIND B.V. planuje 
+w 2021 roku zainwestować w rozwój Baltic Power około 290 mln zł. 
+Zgromadzenie Wspólników Baltic Power wyraziło zgodę na zawarcie Umowy. Umowa została zawarta pod warunkiem 
+rejestracji zmiany Aktu Założycielskiego Baltic Power w Krajowym Rejestrze Sądowym oraz uzyskania zgód 
+odpowiednich organów antymonopolowych. 
+ 
+LUTY 2021 
+ 
+Umowa na zakup 100% udziałów w Nowotna Farma Wiatrowa Sp. z o.o. 
+PKN ORLEN poinformował, że 26 lutego 2021 roku Orlen Wind 3 Sp. z o.o. („Orlen Wind 3”) podpisała z funduszami 
+inwestycyjnymi: Taiga Inversiones Eolicas SCR SA oraz Santander Energias Renovables SCRA SA, z siedzibą w 
+Madrycie, w Hiszpanii, umowę zakupu 100% udziałów w spółce Nowotna Farma Wiatrowa Sp. z o.o., będącej 
+właścicielem farm wiatrowych Kobylnica, Subkowy, Nowotna („Umowa”). Nabywane farmy wiatrowe posiadają łączną 
+moc 89,4 MW. Wartość Umowy wynosi ok. 380 mln PLN. Umowa została zawarta pod warunkiem uzyskania zgody 
+odpowiednich organów antymonopolowych. 
+PKN ORLEN posiada 100% udziałów w spółce Orlen Wind 3, która została założona w celu realizacji rozwoju 
+działalności PKN ORLEN w obszarze energetyki odnawialnej, co wynika z obowiązującej strategii Grupy ORLEN. 
+Spółka będzie informować w raportach bieżących o kolejnych istotnych transakcjach dokonywanych w ramach tych 
+działań. 
+ 
+MARZEC 2021 
+ 
+Zatwierdzenie warunków emisji obligacji na okaziciela serii D 
+PKN ORLEN poinformował, że Zarząd Spółki w dniu 17 marca 2021 roku podjął uchwałę w sprawie emisji 
+niezabezpieczonych obligacji na okaziciela serii D o łącznej wartości nominalnej do 1.000.000.000 PLN ("Obligacje") w 
+ramach programu emisji obligacji do kwoty 4 000 000 000 PLN lub równowartości tej kwoty w innych walutach emisji 
+ustanowionego na podstawie umowy programu emisji obligacji zawartej w Warszawie w dniu 27 listopada 2006 roku, z 
+późniejszymi zmianami. 
+Obligacje zostaną wyemitowane na następujących warunkach: 
+- maksymalna liczba Obligacji proponowanych do nabycia: 10.000; 
+- wartość nominalna jednej Obligacji: 100.000 PLN; 
+- cena emisyjna jednej Obligacji: 99.432 PLN; 
+- maksymalna łączna wartość nominalna Obligacji: do 1.000.000.000 PLN; 
+- data emisji: 25 marca 2021 roku; 
+- data wykupu: 25 marca 2031 roku; 
+- Obligacje nie są zabezpieczone; 
+- w dniu emisji Obligacje zostaną zapisane w ewidencji prowadzonej przez agenta emisji w rozumieniu art. 7a ust. 1 
+ustawy z dnia 29 lipca 2005 roku o obrocie instrumentami finansowymi, którego funkcję pełnić będzie podmiot 
+wskazany w warunkach emisji Obligacji, a następnie zarejestrowane w depozycie prowadzonym przez Krajowy 
+Depozyt Papierów Wartościowych S.A.; 
+- Obligacje mogą zostać wprowadzone do obrotu w alternatywnym systemie obrotu prowadzonym przez Giełdę 
+Papierów Wartościowych z siedzibą w Warszawie S.A. 
+- Obligacje zostaną zaproponowane do nabycia zgodnie z art. 33 pkt 1 ustawy z dnia 15 stycznia 2015 r. o obligacjach 
+(t.j. Dz.U. 2020 poz. 1208), w sposób, który nie będzie wymagał od Spółki sporządzenia prospektu ani memorandum 
+informacyjnego; 
+- Obligacje będą oprocentowane według stałej stopy procentowej wskazanej w warunkach emisji Obligacji, której 
+wysokość będzie uzależniona od oceny (ratingu) agencji ESG, czyli MSCI ESG Research (UK) Limited lub innego 
+podmiotu, który ją zastąpi, mierzącą podatność Spółki na istotne ryzyka związane w szczególności z wywiązywaniem 
+się przez Spółkę z zasad odpowiedzialności i troski o środowisko, jego społeczną odpowiedzialnością oraz 
+wdrożonym ładem korporacyjnym, a także sposób zarządzania przez Spółkę tymi ryzykami, albo alternatywny rating 
+ESG. Stopa procentowa dla pierwszego okresu odsetkowego wyniesie 2,875% w skali roku i w następnych okresach 
+odsetkowych pozostanie na tym poziomie lub możliwa będzie jej zmiana o odpowiednio 0,1% lub 0,2% w skali roku w 
+zależności od poziomu przyznanego ratingu ESG zgodnie z postanowieniami warunków emisji Obligacji. 
+Spółka planuje przeznaczyć środki z emisji Obligacji na ogólne cele korporacyjne, w tym na realizację celu ESG, 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA I KWARTAŁ 2021 ROKU 40 / 47 
+ 
+rozumianego jako utrzymanie przez Spółkę ratingu przyznanego przez MSCI ESG Research (UK) Limited na poziomie z 
+daty emisji Obligacji lub osiągnięcie wyższego ratingu. 
+Emisja obligacji na okaziciela serii D 
+PKN ORLEN poinformował, że 25 marca 2021 roku wyemitował 10 000 niezabezpieczonych obligacji na okaziciela serii 
+D o łącznej wartości nominalnej 1 000 000 000 PLN ("Obligacje") w ramach programu emisji obligacji ustanowionego na 
+podstawie umowy programu emisji obligacji zawartej w Warszawie w dniu 27 listopada 2006 roku, z późniejszymi 
+zmianami. 
+Obligacje zostały zapisane w ewidencji prowadzonej przez agenta emisji w rozumieniu art. 7a ust. 1 ustawy z dnia 29 
+lipca 2005 roku o obrocie instrumentami finansowymi, którego funkcję pełni Bank Polska Kasa Opieki S.A., i zgodnie z 
+przepisami będą podlegały rejestracji w depozycie prowadzonym przez Krajowy Depozyt Papierów Wartościowych S.A. 
+Spółka może zdecydować o wprowadzeniu Obligacji do obrotu w alternatywnym systemie obrotu prowadzonym przez 
+Giełdę Papierów Wartościowych w Warszawie S.A. 
+ 
+KWIECIEŃ 2021 
+ 
+Zgoda UOKiK na utworzenie spółki CCGT Ostrołęka Sp. z o.o. wspólnie z PGNiG S.A. i ENERGA 
+PKN ORLEN poinformował, że 14 kwietnia 2021 roku otrzymał decyzję w sprawie wyrażenia przez Prezesa Urzędu 
+Ochrony Konkurencji i Konsumentów zgody na utworzenie przez PKN ORLEN, ENERGA oraz Polskie Górnictwo 
+Naftowe i Gazownictwo S.A. („PGNiG S.A.”) wspólnego przedsiębiorcy, tj. CCGT Ostrołęka Sp. z o.o. z siedzibą w 
+Ostrołęce. 
+Tym samym spełnił się jeden z warunków umowy inwestycyjnej dotyczącej kierunkowych zasad współpracy przy 
+budowie bloku energetycznego w technologii zasilania paliwem gazowym w Elektrowni Ostrołęka „C”, która została 
+podpisana 22 grudnia 2020 roku pomiędzy PKN ORLEN, ENERGA oraz PGNiG S.A. 
+3. 
+Pozostałe informacje 
+ 
+3.1. Skład Zarządu i Rady Nadzorczej 
+Na dzień sporządzenia niniejszego skróconego śródrocznego skonsolidowanego sprawozdania finansowego skład organów 
+zarządczych i nadzorujących Spółki jest następujący: 
+ 
+Zarząd 
+Daniel Obajtek 
+ – Prezes Zarządu, Dyrektor Generalny 
+Adam Burak 
+ – Członek Zarządu ds. Komunikacji i Marketingu 
+Armen Konrad Artwich 
+ – Członek Zarządu ds. Korporacyjnych 
+Patrycja Klarecka 
+ – Członek Zarządu ds. Sprzedaży Detalicznej 
+Zbigniew Leszczyński 
+ – Członek Zarządu ds. Rozwoju 
+Michał Róg 
+ – Członek Zarządu ds. Handlu Hurtowego i Międzynarodowego 
+Jan Szewczak 
+ – Członek Zarządu ds. Finansowych 
+Józef Węgrecki 
+ – Członek Zarządu ds. Operacyjnych 
+Rada Nadzorcza 
+Wojciech Jasiński 
+ – Przewodniczący Rady Nadzorczej 
+Andrzej Szumański 
+ – Wiceprzewodniczący Rady Nadzorczej, Niezależny Członek Rady Nadzorczej 
+Anna Wójcik 
+ – Sekretarz Rady Nadzorczej 
+Barbara Jarzembowska 
+ – Niezależny Członek Rady Nadzorczej 
+Andrzej Kapała 
+ – Niezależny Członek Rady Nadzorczej 
+Michał Klimaszewski 
+ – Niezależny Członek Rady Nadzorczej 
+Roman Kusz 
+ – Niezależny Członek Rady Nadzorczej 
+Jadwiga Lesisz 
+ – Członek Rady Nadzorczej 
+Dominik Kaczmarski – Członek Rady Nadzorczej 
+Anna Sakowicz-Kacz 
+ – Niezależny Członek Rady Nadzorczej 
+ 
+3.2. Akcjonariusze posiadający bezpośrednio lub pośrednio poprzez podmioty zależne co najmniej 5% ogólnej liczby 
+głosów na Walnym Zgromadzeniu Jednostki Dominującej na dzień przekazania niniejszego raportu 
+ 
+Akcjonariusz 
+ 
+ 
+Procentowy udział w liczbie głosów 
+na WZ na dzień przekazania 
+Liczba akcji 
+na dzień przekazania 
+Skarb Państwa 
+ 
+ 
+ 
+ 
+27,52% 
+ 117 710 196 
+Nationale-Nederlanden OFE* 
+ 
+ 
+ 
+ 
+7,34% 
+ 31 391 297 
+Aviva OFE* 
+ 
+ 
+ 
+ 
+6,29% 
+ 26 898 000 
+Pozostali 
+ 
+ 
+ 
+ 
+58,85% 
+ 251 709 568 
+ 
+ 
+ 
+ 
+ 
+100,00% 
+ 427 709 061 
+ * zgodnie z informacjami z Nadzwyczajnego Walnego Zgromadzenia PKN ORLEN z dnia 5 czerwca 2020 roku 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA I KWARTAŁ 2021 ROKU 41 / 47 
+ 
+3.3. Zestawienie zmian w stanie posiadania akcji Jednostki Dominującej przez Członków Zarządu oraz Rady 
+Nadzorczej 
+Na dzień sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego Członkowie 
+Zarządu i Rady Nadzorczej nie posiadali akcji PKN ORLEN. 
+W okresie objętym niniejszym śródrocznym skróconym skonsolidowanym sprawozdaniem finansowym nie wystąpiły zmiany w 
+stanie posiadania akcji PKN ORLEN przez członków Zarządu oraz Rady Nadzorczej. 
+ 
+3.4. Informacja o udzielonych przez Jednostkę Dominującą lub jednostki zależne poręczeniach kredytów lub 
+udzielonych gwarancjach – jednemu podmiotowi lub jednostce zależnej od tego podmiotu, gdzie łączna wartość 
+istniejących poręczeń lub gwarancji jest znacząca 
+W ramach czynnych emisji euroobligacji aktualne pozostają nieodwołalne i bezwarunkowe gwarancje wydane na rzecz obligatariuszy: 
+- PKN ORLEN – dwie gwarancje odpowiednio do 30 czerwca 2021 roku oraz do 7 czerwca 2023 roku 
+- ENERGA – gwarancja do 31 grudnia 2033 roku 
+ 
+ 
+ Wartość nominalna 
+ 
+ 
+ 
+ 
+ Wartość udzielonej 
+gwarancji 
+ 
+ EUR 
+ PLN 
+ Data 
+subskrypcji 
+ Termin wykupu 
+ Oprocentowanie 
+ Rating 
+ EUR 
+ PLN 
+Euroobligacje 
+750 
+ 3 318 ** 
+ 7.06.2016 
+ 7.06.2023 
+ 2,5% 
+ BBB-, Baa2 
+ 1 100 
+ 5 126 
+Euroobligacje 
+500 
+ 2 131 * 
+ 30.06.2014 
+ 30.06.2021 
+2,5% 
+ BBB-, Baa2 
+ 1 000 
+ 4 660 
+Euroobligacje 
+300 
+ 1 251 *** 
+ 07.03.2017 
+ 07.03.2027 
+2,125% 
+ BBB-, Baa2 
+ 1 250 
+ 5 825 
+ 
+ 1 550 
+ 6 700 
+ 
+ 
+ 
+ 
+ 3 350 
+ 15 611 
+ 
+* przeliczone kursem z dnia 31 grudnia 2014 
+** przeliczone kursem z dnia 31 grudnia 2016 
+*** przeliczone kursem z dnia 29 grudnia 2017 
+Wartość udzielonych gwarancji została przeliczona według średniego kursu określonego przez Narodowy Bank Polski na dzień 31 marca 2021 roku – 4,6603 
+EUR/PLN 
+Ponadto na dzień 31 marca 2021 roku oraz 31 grudnia 2020 roku Grupa udzieliła poręczeń i gwarancji jednostkom zależnym na 
+rzecz podmiotów trzecich, które wyniosły odpowiednio 1 353 mln PLN i 1 374 mln PLN i dotyczyły one głównie terminowego 
+regulowania zobowiązań przez jednostki zależne. 
+ 
+3.5. Stanowisko Zarządu odnośnie możliwości zrealizowania wcześniej publikowanych prognoz wyników na dany rok 
+ 
+Grupa ORLEN nie dokonała wcześniejszych publikacji prognozy wyników. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+KWARTALNA INFORMACJA FINANSOWA 
+ 
+PKN ORLEN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ZA I KWARTAŁ 2021 
+SPORZĄDZONE ZGODNIE Z MIĘDZYNARODOWYMI 
+STANDARDAMI SPRAWOZDAWCZOŚCI FINANSOWEJ 
+ZATWIERDZONYMI PRZEZ UNIĘ EUROPEJSKĄ 
+ 
+
+ 
+ GRUPA ORLEN 
+ KWARTALNA INFORMACJA FINANSOWA PKN ORLEN 
+ 
+ (w mln PLN) 
+ 
+ 
+ SKONSOLIDOWANY RAPORT KWARTALNY ZA I KWARTAŁ 2021 ROKU 43 / 47 
+ 
+ 
+C. 
+KWARTALNA INFORMACJA FINANSOWA PKN ORLEN 
+Jednostkowe sprawozdanie z zysków lub strat i innych całkowitych dochodów 
+ 
+ 
+ 
+3 MIESIĄCE 
+ZAKOŃCZONE 
+31/03/2021 
+(niebadane) 
+3 MIESIĄCE 
+ZAKOŃCZONE 
+31/03/2020 
+(niebadane) 
+ 
+Przychody ze sprzedaży 
+ 15 853 
+ 17 238 
+Koszt własny sprzedaży 
+ (13 643) 
+ (16 771) 
+Zysk brutto ze sprzedaży 
+ 
+ 2 210 
+ 467 
+Koszty sprzedaży 
+ (1 163) 
+ (1 147) 
+Koszty ogólnego zarządu 
+ (322) 
+ (283) 
+Pozostałe przychody operacyjne 
+ 932 
+ 1 220 
+Pozostałe koszty operacyjne 
+ (523) 
+ (823) 
+(Strata)/odwrócenie straty z tytułu utraty wartości należności handlowych 
+ 
+ 1 
+ 11 
+Zysk/(Strata) z działalności operacyjnej 
+ 
+ 1 135 
+ (555) 
+Przychody finansowe 
+ 481 
+ 372 
+Koszty finansowe 
+ (546) 
+ (2 997) 
+utworzenie odpisów aktualizujących akcje i udziały 
+ w jednostkach zależnych 
+ 
+ (21) 
+ 
+ (2 043) 
+Przychody i koszty finansowe netto 
+ 
+ (65) 
+ (2 625) 
+(Strata)/odwrócenie straty z tytułu utraty wartości pożyczek i odsetek od należności 
+handlowych 
+ 
+ (3) 
+ 
+ (24) 
+Zysk/(Strata) przed opodatkowaniem 
+ 
+ 1 067 
+ (3 204) 
+Podatek dochodowy 
+ (103) 
+ 182 
+podatek dochodowy bieżący 
+ (52) 
+ (93) 
+podatek odroczony 
+ (51) 
+ 275 
+Zysk/(Strata) netto 
+ 
+ 964 
+ (3 022) 
+ 
+ 
+ 
+ 
+ 
+Inne całkowite dochody: 
+ 
+które nie zostaną następnie przeklasyfikowane na zyski lub straty 
+ 3 
+ (6) 
+zyski/(straty) z tytułu inwestycji w instrumenty kapitałowe 
+ wyceniane w wartości godziwej przez inne całkowite dochody 
+ 4 
+ 
+ (7) 
+podatek odroczony 
+ (1) 
+ 1 
+które zostaną przeklasyfikowane na zyski lub straty 
+ (143) 
+ (168) 
+instrumenty zabezpieczające 
+ (488) 
+ (262) 
+koszty zabezpieczenia 
+ 311 
+ 54 
+podatek odroczony 
+ 34 
+ 40 
+ 
+ 
+ (140) 
+ (174) 
+Całkowite dochody netto 
+ 
+ 824 
+ (3 196) 
+Zysk/(Strata) netto i rozwodniony zysk/(strata) netto na jedną akcję (w PLN na akcję) 
+ 2,25 
+ 
+ (7,07) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ GRUPA ORLEN 
+ KWARTALNA INFORMACJA FINANSOWA PKN ORLEN 
+ 
+ (w mln PLN) 
+ 
+ 
+ SKONSOLIDOWANY RAPORT KWARTALNY ZA I KWARTAŁ 2021 ROKU 44 / 47 
+ 
+ 
+Jednostkowe sprawozdanie z sytuacji finansowej 
+ 
+ 
+ 
+31/03/2021 
+31/12/2020 
+ 
+ 
+(niebadane) 
+(dane 
+przekształcone)* 
+AKTYWA 
+ 
+Aktywa trwałe 
+ 
+Rzeczowe aktywa trwałe 
+ 16 645 
+ 16 500 
+Wartości niematerialne 
+ 1 360 
+ 905 
+Aktywa z tytułu praw do użytkowania 
+ 2 405 
+ 2 343 
+Akcje i udziały w jednostkach zależnych i współkontrolowanych 
+ 17 456 
+ 17 064 
+Instrumenty pochodne 
+ 148 
+ 116 
+Należności długoterminowe z tytułu leasingu 
+ 21 
+ 21 
+Pozostałe aktywa 
+ 2 482 
+ 2 044 
+ 
+ 
+ 40 517 
+ 38 993 
+Aktywa obrotowe 
+ 
+Zapasy 
+ 8 869 
+ 7 751 
+Należności z tytułu dostaw i usług oraz pozostałe należności 
+ 6 408 
+ 4 886 
+Należności z tytułu podatku dochodowego 
+ 437 
+ 396 
+Środki pieniężne 
+ 1 153 
+ 586 
+Instrumenty pochodne 
+ 1 004 
+ 677 
+Należności krótkoterminowe z tytułu leasingu 
+ 1 
+ 1 
+Pozostałe aktywa 
+ 1 724 
+ 1 243 
+Aktywa trwałe przeznaczone do sprzedaży 
+ 535 
+ 19 
+ 
+ 
+ 20 131 
+ 15 559 
+Aktywa razem 
+ 
+ 60 648 
+ 54 552 
+PASYWA 
+ 
+ 
+KAPITAŁ WŁASNY 
+ 
+Kapitał podstawowy 
+ 1 058 
+ 1 058 
+Kapitał z emisji akcji powyżej ich wartości nominalnej 
+ 1 227 
+ 1 227 
+Kapitał z tytułu stosowania rachunkowości zabezpieczeń 
+ (217) 
+ (74) 
+Kapitał z aktualizacji wyceny 
+ (5) 
+ (8) 
+Zyski zatrzymane 
+ 
+ 30 630 
+ 29 666 
+Kapitał własny razem 
+ 
+ 32 693 
+ 31 869 
+ZOBOWIĄZANIA 
+ 
+ 
+Zobowiązania długoterminowe 
+ 
+Pożyczki i obligacje 
+ 6 242 
+ 5 215 
+Rezerwy 
+ 669 
+ 671 
+Zobowiązania z tytułu podatku odroczonego 
+ 
+ 735 
+ 718 
+Instrumenty pochodne 
+ 421 
+ 237 
+Zobowiązania z tytułu leasingu 
+ 2 110 
+ 2 059 
+Pozostałe zobowiązania 
+ 193 
+ 193 
+ 
+ 
+ 10 370 
+ 9 093 
+Zobowiązania krótkoterminowe 
+ 
+Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania 
+ 9 969 
+ 7 561 
+Zobowiązania z tytułu leasingu 
+ 342 
+ 354 
+Zobowiązania z tytułu umów z klientami 
+ 240 
+ 223 
+Pożyczki i obligacje 
+ 2 702 
+ 2 576 
+Rezerwy 
+ 1 218 
+ 681 
+Instrumenty pochodne 
+ 311 
+ 347 
+Pozostałe zobowiązania 
+ 2 803 
+ 1 848 
+ 
+ 
+ 17 585 
+ 13 590 
+Zobowiązania razem 
+ 
+ 27 955 
+ 22 683 
+Pasywa razem 
+ 
+ 60 648 
+ 54 552 
+ 
+* Począwszy od 1 stycznia 2021 roku PKN ORLEN zdecydował o zmianie metody prezentacji dotacji do aktywów, które obecnie ujmowane są jako przychody 
+przyszłych okresów i w sposób systematyczny rozliczane w pozostałe przychody operacyjne na przestrzeni okresu użytkowania składników aktywów. 
+Retrospektywne zastosowanie tej zmiany w odniesieniu do danych za 2020 rok spowodowało w PKN ORLEN wzrost sumy aktywów i pasywów wykazanych 
+w sprawozdaniu z sytuacji finansowej o kwotę 95 mln PLN (poprzez zwiększenie pozycji rzeczowych aktywów trwałych oraz przychodów przyszłych okresów 
+zaprezentowanych w pozycji pozostałych zobowiązań długoterminowych o wartość nierozliczonych dotacji na dzień 31 grudnia 2020 roku). 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ GRUPA ORLEN 
+ KWARTALNA INFORMACJA FINANSOWA PKN ORLEN 
+ 
+ (w mln PLN) 
+ 
+ 
+ SKONSOLIDOWANY RAPORT KWARTALNY ZA I KWARTAŁ 2021 ROKU 45 / 47 
+ 
+ 
+Jednostkowe sprawozdanie ze zmian w kapitale własnym 
+ 
+ 
+Kapitał podstawowy oraz 
+kapitał z emisji akcji 
+powyżej ich wartości 
+nominalnej 
+Kapitał z tytułu 
+stosowania 
+rachunkowości 
+zabezpieczeń 
+Kapitał z 
+aktualizacji 
+wyceny 
+Zyski zatrzymane 
+Kapitał własny 
+razem 
+01/01/2021 
+ 2 285 
+ (74) 
+ (8) 
+ 29 666 
+ 31 869 
+Zysk netto 
+ - 
+ - 
+ - 
+ 964 
+ 964 
+Składniki innych całkowitych dochodów 
+ - 
+ (143) 
+ 3 
+ - 
+ (140) 
+Całkowite dochody netto 
+ - 
+ (143) 
+ 3 
+ 964 
+ 824 
+31/03/2021 
+ 2 285 
+ (217) 
+ (5) 
+ 30 630 
+ 32 693 
+(niebadane) 
+ 
+01/01/2020 
+ 2 285 
+ 186 
+ (6) 
+ 32 459 
+ 34 924 
+(Strata) netto 
+ - 
+ - 
+ - 
+ (3 022) 
+ (3 022) 
+Składniki innych całkowitych dochodów 
+ - 
+ (168) 
+ (6) 
+ - 
+ (174) 
+Całkowite dochody netto 
+ - 
+ (168) 
+ (6) 
+ (3 022) 
+ (3 196) 
+31/03/2020 
+ 2 285 
+ 18 
+ (12) 
+ 29 437 
+ 31 728 
+(niebadane) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ GRUPA ORLEN 
+ KWARTALNA INFORMACJA FINANSOWA PKN ORLEN 
+ 
+ (w mln PLN) 
+ 
+ 
+ SKONSOLIDOWANY RAPORT KWARTALNY ZA I KWARTAŁ 2021 ROKU 46 / 47 
+ 
+ 
+Jednostkowe sprawozdanie z przepływów pieniężnych 
+ 
+ 
+ 
+3 MIESIĄCE 
+ZAKOŃCZONE 
+31/03/2021 
+(niebadane) 
+ 
+3 MIESIĄCE 
+ZAKOŃCZONE 
+31/03/2020 
+(niebadane) 
+ 
+Przepływy pieniężne z działalności operacyjnej 
+ 
+ 
+Zysk/(Strata) przed opodatkowaniem 
+ 
+ 1 067 
+ (3 204) 
+Korekty o pozycje: 
+ 
+Amortyzacja 
+ 501 
+ 467 
+(Zysk)/Strata z tytułu różnic kursowych 
+ (9) 
+ 542 
+Odsetki netto 
+ 42 
+ 25 
+(Zysk)/Strata na działalności inwestycyjnej 
+ (384) 
+ 1 846 
+Zmiana stanu rezerw 
+ 546 
+ 205 
+Zmiana stanu kapitału pracującego 
+ 
+ 526 
+ 617 
+zapasy 
+ (1 118) 
+ 1 525 
+należności 
+ (595) 
+ 1 865 
+zobowiązania 
+ 2 239 
+ (2 773) 
+Pozostałe korekty, w tym: 
+ 184 
+ 536 
+rozliczenie dotacji na prawa majątkowe 
+ (144) 
+ 
+ (86) 
+depozyty zabezpieczające 
+ 297 
+ 
+ 481 
+Podatek dochodowy (zapłacony) 
+ (93) 
+ (153) 
+Środki pieniężne netto z działalności operacyjnej 
+ 2 380 
+ 
+ 881 
+Przepływy pieniężne z działalności inwestycyjnej 
+ 
+Nabycie składników rzeczowego majątku trwałego, wartości 
+niematerialnych i aktywów z tytułu praw do użytkowania 
+ (1 772) 
+ 
+ (404) 
+Nabycie akcji i udziałów 
+ (310) 
+ - 
+Wydatki z tytułu dopłat do kapitału 
+ (105) 
+ - 
+Sprzedaż składników rzeczowego majątku trwałego, wartości 
+niematerialnych i aktywów z tytułu praw do użytkowania 
+ 6 
+ 
+ 6 
+Odsetki otrzymane 
+ 15 
+ 4 
+Wydatki z tytułu udzielonych pożyczek długoterminowych 
+ (423) 
+ (108) 
+Wpływy z tytułu udzielonych pożyczek długoterminowych 
+ 1 
+ 2 
+Wpływy/(Wypływy) w ramach systemu cash pool 
+ (261) 
+ 16 
+Rozliczenie instrumentów pochodnych niewyznaczonych dla celów rachunkowości 
+zabezpieczeń 
+ (7) 
+ 
+ (29) 
+Pozostałe 
+ - 
+ (1) 
+Środki pieniężne netto (wykorzystane) w działalności inwestycyjnej 
+ (2 856) 
+ 
+ (514) 
+Przepływy pieniężne z działalności finansowej 
+ 
+ 
+Wpływy z otrzymanych kredytów i pożyczek 
+ 3 956 
+ - 
+Emisja obligacji 
+ 994 
+ - 
+Spłata kredytów 
+ (3 917) 
+ - 
+Odsetki zapłacone od kredytów, obligacji i cash pool 
+ (13) 
+ (17) 
+Odsetki zapłacone z tytułu leasingu 
+ (41) 
+ (40) 
+Wpływy/(Wypływy) w ramach systemu cash pool 
+ 160 
+ (505) 
+Płatności zobowiązań z tytułu umów leasingu 
+ (96) 
+ (100) 
+Pozostałe 
+ - 
+ 37 
+Środki pieniężne netto z/(wykorzystane w) działalności finansowej 
+ 1 043 
+ 
+ (625) 
+Zwiększenie/(Zmniejszenie) netto stanu środków pieniężnych 
+ 567 
+ 
+ (258) 
+Zmiana stanu środków pieniężnych z tytułu różnic kursowych 
+ - 
+ 42 
+Środki pieniężne na początek okresu 
+ 586 
+ 5 056 
+Środki pieniężne na koniec okresu 
+ 
+ 1 153 
+ 
+ 4 840 
+w tym środki pieniężne o ograniczonej możliwości dysponowania 
+ 83 
+ 1 018 
+ 
+ 
+
+ 
+ 
+ GRUPA ORLEN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SKONSOLIDOWANY RAPORT KWARTALNY ZA I KWARTAŁ 2021 ROKU 47 / 47 
+ 
+ 
+Niniejszy skonsolidowany raport kwartalny został zatwierdzony przez Zarząd Jednostki Dominującej w dniu 28 kwietnia 2021 roku. 
+ 
+ 
+ 
+………………………..………….. 
+Daniel Obajtek 
+Prezes Zarządu 
+ 
+ 
+ 
+ 
+………………………..………….. 
+Armen Artwich 
+Członek Zarządu 
+………………………..………….. 
+Adam Burak 
+Członek Zarządu 
+ 
+ 
+ 
+ 
+………………………..………….. 
+Patrycja Klarecka 
+Członek Zarządu 
+………………………..………….. 
+Zbigniew Leszczyński 
+Członek Zarządu 
+ 
+ 
+ 
+ 
+………………………..………….. 
+Michał Róg 
+Członek Zarządu 
+………………………..………….. 
+Jan Szewczak 
+Członek Zarządu 
+ 
+ 
+ 
+ 
+………………………..………….. 
+Józef Węgrecki 
+Członek Zarządu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dokument podpisany przez Jan
+Włodzimierz Szewczak
+Data: 2021.04.28 11:30:41 CEST
+Signature Not Verified
+Dokument podpisany przez Michał
+Marek Róg; PKN ORLEN S.A.
+Data: 2021.04.28 11:54:09 CEST
+Signature Not Verified
+Dokument podpisany przez
+Adam Wojciech Burak
+Data: 2021.04.28 11:59:07 CEST
+Signature Not Verified
+Dokument podpisany przez Daniel
+Obajtek; PKN Orlen S.A.
+Data: 2021.04.28 12:22:42 CEST
+Signature Not Verified
+Dokument podpisany przez Patrycja
+Klarecka
+Data: 2021.04.28 12:33:41 CEST
+Signature Not Verified
+Dokument podpisany przez ARMEN
+KONRAD ARTWICH; POLSKI KONCERN
+NAFTOWY ORLEN S.A.
+Data: 2021.04.28 12:39:33 CEST
+Signature Not Verified
+Dokument podpisany przez ZBIGNIEW
+MARIUSZ LESZCZYŃSKI; POLSKI
+KONCERN NAFTOWY ORLEN S.A.
+Data: 2021.04.28 12:58:47 CEST
+Signature Not Verified
+Dokument podpisany przez Józef
+Węgrecki
+Data: 2021.04.28 13:12:40 CEST
+Signature Not Verified

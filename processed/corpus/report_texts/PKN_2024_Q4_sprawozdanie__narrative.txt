@@ -1,0 +1,2042 @@
+1. 
+Główne czynniki wpływające na EBITDA i EBITDA LIFO 
+Rachunek zysków lub strat za 12 miesięcy 2024 roku 
+Wynik z działalności operacyjnej powiększony o amortyzację („EBITDA”) za 12 miesięcy 2024 roku wyniósł 29 601 mln PLN, 
+przy 45 514 mln PLN w analogicznym okresie 2023 roku. 
+Wpływ zmian cen ropy naftowej na wycenę zapasów za 12 miesięcy 2024 roku ujęty w wyniku EBITDA wyniósł (271) mln PLN, 
+przy (899) mln PLN za 12 miesięcy 2023 roku. 
+ 
+EBITDA wg wyceny zapasów metodą LIFO („EBITDA LIFO”) po eliminacji odpisów netto aktualizujących wartość 
+majątku trwałego* wyniosła 35 764 mln PLN i była niższa o (26 862) mln PLN (r/r). 
+ 
+12 miesięcy 2024
+12 miesięcy 2023
+zmiana r/r
+EBITDA
+29 601
+45 514
+(15 913)
+LIFO
+(271)
+(899)
+628
+EBITDA LIFO
+29 872
+46 413
+(16 541)
+Odpisy netto aktualizujące wartość majątku trwałego*
+(5 892)
+(16 213)
+10 321
+EBITDA LIFO (po eliminacji odpisów aktualizujących*)
+35 764
+62 626
+(26 862)
+(26 862)
+(32 236)
+3 257
+2 117
+Makro (1)
+Wolumen (2)
+Pozostałe (3)
+Czynniki wpływające na zmianę wyników:
+ 
+ 
+* Odpisy netto aktualizujące wartość majątku trwałego zostały opisane w nocie 5.3. Utrata wartości rzeczowych aktywów trwałych, wartości 
+niematerialnych, wartości firmy i aktywów z tytułu praw do użytkowania. 
+ 
+(1) Łączny wpływ parametrów makroekonomicznych wyniósł (32 236) mln PLN (r/r). 
+W segmencie Rafineria wpływ zmian czynników makro był ujemny (5 593) mln PLN (r/r) i wynikał głównie z niższych (r/r) 
+marż (cracków) na lekkich i średnich destylatach, które spowodowały zmniejszenie modelowej marży rafineryjnej o (6,0) 
+USD/bbl (r/r). Dodatkowy wpływ na ujemny efekt makro segmentu miało umocnienie PLN względem USD o 0,22 PLN/USD 
+oraz negatywny wpływ (r/r) transakcji zabezpieczających. 
+W segmencie Petrochemia wpływ zmian parametrów makroekonomicznych wyniósł (375) mln PLN i wynikał głównie z 
+ujemnego wpływu kosztów emisji CO2 (r/r), transakcji zabezpieczających oraz kursów walutowych. Z kolei ujemny wpływ 
+marż (cracków) na PTA oraz nawozach i PCW został w części skompensowany wzrostem (r/r) marż na olefinach i 
+poliolefinach. 
+W segmencie Energetyka efekt zmian czynników makro był dodatni i wyniósł 1 075 mln PLN (r/r) i obejmował głównie 
+wzrost marż na dystrybucji energii elektrycznej, niższe (r/r) koszty strat sieciowych oraz aktualizacja rezerw na emisje CO2. 
+Dodatkowo pozytywnie na wynik segmentu wpłynął spadek cen gazu przy ujemnym wpływie niższych marż realizowanych 
+na sprzedaży energii elektrycznej dla klientów biznesowych. 
+W segmencie Wydobycie wpływ zmian czynników makro wyniósł (3 377) mln PLN (r/r) w rezultacie niższych (r/r) notowań 
+gazu ziemnego oraz umocnienia PLN względem USD i NOK. 
+W segmencie Gaz efekt zmian otoczenia makro wyniósł (23 965) mln PLN (r/r) i wynikał głównie z niższych marż na 
+sprzedaży gazu wysokometanowego w związku z realizacją kontraktów terminowych na TGE po niższych cenach w 
+porównaniu do 12 miesięcy 2023 roku. Dodatkowo w 2023 roku wpływ transakcji zabezpieczających przepływy pieniężne 
+był dodatni i wynikał głównie z zaprzestania stosowania rachunkowości zabezpieczeń w odniesieniu do wydzielonego 
+portfela transakcji zabezpieczających zakup LNG z Venture Global w kwocie netto 7 165 mln PLN. W związku z powyższym 
+brak dodatniego wpływu ww. instrumentów w 2024 roku spowodował ujemny wpływ (r/r) transakcji zabezpieczających. 
+Powyższe ujemne efekty zostały częściowo skompensowane dodatnim wpływem umocnienia PLN względem USD i EUR. 
+ 
+(2) Łączna sprzedaż wolumenowa Grupy ORLEN w segmentach Rafineria, Petrochemia i Detal była nieznacznie niższa o 
+(0,1)% (r/r) i wyniosła 47 506 tysięcy ton. Sprzedaż segmentu Energetyka zmniejszyła się o (12,2)% (r/r) i wyniosła 28,5 
+TWh. Z kolei sprzedaż segmentu Wydobycie wyniosła 25,8 mln boe i była wyższa o 23,0% (r/r) natomiast wolumeny 
+segmentu Gaz wyniosły 303,0 TWh i zwiększyły się o 2,3% (r/r). 
+W rezultacie powyższych trendów sprzedażowych w poszczególnych segmentach operacyjnych łączny efekt wolumenowy 
+wyniósł 3 257 mln PLN (r/r). 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2024 ROKU 57 / 72 
+ 
+W segmencie Rafineria wpływ wolumenów wyniósł (1 356) mln PLN (r/r) i wynikał przede wszystkim ze zmniejszenia 
+sprzedaży wolumenowej o (4,6)% (r/r) do poziomu 31 410 tysięcy ton na rynku polskim, czeskim i w krajach bałtyckich. 
+Niższe wolumeny sprzedaży na rynku polskim to głównie efekt agresywnej polityki cenowej z przełomu III i IV kwartału 2023 
+roku, w wyniku której niskie marże handlowe w tych kwartałach spowodowały istotny wzrost wolumenów sprzedaży w roku 
+bazowym. W rezultacie doszło do wykorzystania zapasów obowiązkowych i operacyjnych, które w trakcie 2024 roku 
+musiały zostać uzupełnione do wymaganych poziomów. 
+Na rynku czeskim ujemny efekt wolumenowy jest pochodną ograniczenia przerobu ropy Rebco z poziomu 4,7 mln t do 2,7 
+mln t i zastąpieniu jej droższymi gatunkami rop. Dodatkowo istotny wpływ miała niższa dostępność produktów z własnej 
+produkcji z uwagi na cykliczny postój rafinerii w Litvinov oraz jej zatrzymanie na przełomie sierpnia i września 2024 roku z 
+powodu niewybuchu znalezionego na terenie zakładu. 
+W krajach bałtyckich negatywny efekt wolumenowy jest pochodną niższego przerobu ropy naftowej i w konsekwencji 
+niższych (r/r) wolumenów sprzedaży produktów. W IV kwartale 2024 roku prowadzone były prace konserwacyjne na 
+instalacjach produkcyjnych. Dodatkowo niekorzystne warunki pogodowe w listopadzie 2024 spowodowały zmiany 
+harmonogramu dostaw ropy do terminala w Butyndze i w konsekwencji ograniczenie przerobu surowca. 
+W segmencie Petrochemia efekt zmiany wolumenów wyniósł 765 mln PLN (r/r) w rezultacie wyższej o 9,3% (r/r) 
+sprzedaży produktów na rynku polskim, głównie olefin, poliolefin, PTA oraz nawozów i PCW. Wzrost wolumenów sprzedaży 
+(r/r) wynikał m.in. z wyższego popytu na produkty petrochemiczne z Europy na skutek ograniczeń logistycznych oraz 
+wyższej dostępności instalacji produkcyjnych w IV kwartale 2024 roku w porównaniu z IV kwartałem 2023 roku (postoje 
+instalacji Olefin, PTA, Metatezy, LDPE). Na rynku czeskim sprzedaż wolumenowa była niższa (r/r) głównie w efekcie niższej 
+konsumpcji rynkowej oraz zatrzymaniem zakładu w Litvinovie na przełomie sierpnia i września 2024 roku z powodu 
+niewybuchu znalezionego na terenie zakładu. 
+W segmencie Energetyka wpływ wolumenowy wyniósł (380) mln PLN (r/r) i wynikał głównie z obniżonej produkcji energii 
+elektrycznej w Elektrowni Ostrołęka w rezultacie niższego wykorzystania jednostki przez PSE. Dodatkowo cykliczny postój 
+remontowy rafinerii Litvinov w drugim kwartale 2024 roku oraz zatrzymanie tej rafinerii z powodu niewybuchu znalezionego 
+na terenie zakładu wpłynęły na obniżenie produkcji i sprzedaży energii elektrycznej w Grupie Unipetrol. Powyższe ujemne 
+efekty zostały częściowo skompensowane pozytywnym wpływem wyższych (r/r) wolumenów dystrybucji i sprzedaży energii 
+elektrycznej wytwarzanej przez jednostki konwencjonalne i OZE. 
+W segmencie Detal zmiana wolumenów sprzedaży była dodatnia i osiągnęła poziom 398 mln PLN (r/r) dzięki wyższej 
+sprzedaży paliw na rynku czeskim o 13,6% (r/r), polskim o 0,6% (r/r) i litewskim o 1,5% (r/r), przy porównywalnych 
+wolumenach na rynku niemieckim (r/r). Dodatkowo w 2024 roku ujęte zostały wolumeny Grupy ORLEN Austria 
+zarządzającej stacjami paliw w Austrii na poziomie 900 tys. ton. 
+W segmencie Wydobycie efekt wolumenowy wyniósł 2 927 mln PLN (r/r) i wynikał głównie z wyższej produkcji i sprzedaży 
+węglowodorów dzięki konsolidacji wolumenów nowej spółki wydobywczej KUFPEC Norway AS. 
+W segmencie Gaz wpływ wolumenów sprzedaży wyniósł 903 mln PLN (r/r) głównie w rezultacie dodatniego efektu na 
+odsprzedaży nadwyżek gazu wysokometanowego na cele bilansowania. 
+(3) 
+Wpływ pozostałych czynników wyniósł 2 117 mln PLN (r/r) i obejmował głównie: 
+ brak ujemnego wpływu z 2023 roku spisanych aktywów w rezultacie przekazanych zaliczek na dostawy ropy oraz 
+produktów ropopochodnych w spółce ORLEN Trading Switzerland GmbH w kwocie 1 484 mln PLN (r/r), 
+ dodatni wpływ odszkodowania za awarię instalacji Hydroodsiarczania Gudronu w kwocie 854 mln PLN oraz Hydrokrakingu 
+w kwocie 84 mln PLN, 
+ negatywny wpływ zawiązania rezerwy na restrukturyzację w Spolana (Czechy) w kwocie (417) mln PLN, 
+ wpływ rozliczenia składników aktywów i zobowiązań dawnej Grupy PGNiG na dzień połączenia w wysokości (7 298) mln 
+PLN (r/r), 
+ wpływ zastosowanych przez Grupę ORLEN zmian w zasadach rachunkowości opisanych w punkcie 2.2.1. niniejszego 
+raportu w kwocie (1 442) mln PLN (r/r), głównie w rezultacie zmiany różnic kursowych od należności i zobowiązań 
+handlowych na skutek umocnienia kursu PLN względem walut obcych, 
+ dodatni wpływ odpisów netto na zapasach (NRV) w kwocie 244 mln PLN (r/r), 
+ pozostałe elementy w kwocie 8 608 mln PLN (r/r) związane głównie z dodatnim wpływem wytłoczeń gazu z magazynu przy 
+niższych marżach handlowych na sprzedaży gazu zaazotowanego i wysokometanowego w segmencie Gaz, wzrostem 
+marż handlowych w Rafinerii i Detalu, przy ujemnym wpływie niższych marż w Petrochemii i wyższych (r/r) kosztów 
+ogólnych i pracy. 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2024 ROKU 58 / 72 
+ 
+Rachunek zysków lub strat za IV kwartał 2024 roku 
+Wynik z działalności operacyjnej powiększony o amortyzację („EBITDA”) w IV kwartale 2024 roku wyniósł 11 483 mln PLN, przy 
+6 607 mln PLN w analogicznym okresie 2023 roku. 
+Wpływ zmian cen ropy naftowej na wycenę zapasów w IV kwartale 2024 roku ujęty w wyniku EBITDA wyniósł (44) mln PLN, przy 
+(627) mln PLN w IV kwartale 2023 roku. 
+EBITDA wg wyceny zapasów metodą LIFO („EBITDA LIFO”) po eliminacji odpisów netto aktualizujących wartość 
+majątku trwałego* wyniosła 12 656 mln PLN i była niższa o (8 455) mln PLN (r/r). 
+ 
+IV kwartał 2024
+IV kwartał 2023
+zmiana r/r
+EBITDA
+11 483
+6 607
+4 876
+LIFO
+(44)
+(627)
+583
+EBITDA LIFO
+11 527
+7 234
+4 293
+Odpisy netto aktualizujące wartość majątku trwałego*
+(1 129)
+(13 877)
+12 748
+EBITDA LIFO (po eliminacji odpisów aktualizujących*)
+12 656
+21 111
+(8 455)
+(8 455)
+(12 662)
+1 747
+2 460
+Czynniki wpływające na zmianę wyników:
+Makro (1)
+Wolumen (2)
+Pozostałe (3)
+ 
+* Odpisy netto aktualizujące wartość majątku trwałego zostały opisane w nocie 5.3. Utrata wartości rzeczowych aktywów trwałych, wartości 
+niematerialnych, wartości firmy i aktywów z tytułu praw do użytkowania. 
+ 
+(1) 
+Łączny wpływ parametrów makroekonomicznych wyniósł (12 662) mln PLN (r/r). 
+W segmencie Rafineria wpływ zmian czynników makro był ujemny (684) mln PLN (r/r) i wynikał on głównie z niższych marż 
+na lekkich i średnich destylatach, co wpłynęło na zmniejszenie modelowej marży rafineryjnej o (6,2) USD/bbl (r/r), 
+negatywnego wpływu (r/r) transakcji zabezpieczających, umocnienia PLN względem USD oraz wyższych kosztów emisji 
+CO2. Pozytywnie na wyniki segmentu wpłynęła poprawa dyferencjałów przerabianych gatunków rop naftowych o (2,7) 
+USD/bbl (r/r). 
+W segmencie Petrochemia wypływ zmian parametrów makro wyniósł (285) mln PLN (r/r) głównie w rezultacie niższych (r/r) 
+marż na PTA oraz nawozach, wyższych kosztów emisji CO2 oraz ujemnego wpływu transakcji zabezpieczających przy 
+pozytywnym wpływie wyższych marż na poliolefinach oraz olefinach. 
+W segmencie Energetyka efekt zmian czynników makro był dodatni i wyniósł 1 458 mln PLN (r/r) i wynikał głównie z 
+wyższych marż na dystrybucji energii elektrycznej i niższych (r/r) kosztów strat sieciowych oraz marż na sprzedaży energii 
+elektrycznej obejmujących saldo rezerw na kontrakty rodzące obciążenia. Dodatkowo pozytywnie na wynik segmentu 
+wpłynęła aktualizacja rezerw na emisje CO2. 
+W segmencie Wydobycie wypływ zmian otoczenia makro osiągnął poziom 227 mln PLN (r/r) w efekcie dodatniego wpływu 
+wyższych cen gazu o 8,7% (r/r) częściowo ograniczonych wpływem umocnienia PLN względem USD i NOK. 
+W segmencie Gaz wypływ zmian czynników makro wyniósł (13 378) mln PLN (r/r) i wynikał z niższych marż na sprzedaży 
+gazu wysokometanowego w związku z realizacją kontraktów terminowych na TGE po niższych cenach w porównaniu do IV 
+kwartału 2023 roku. Dodatkowo w 2023 roku wpływ transakcji zabezpieczających przepływy pieniężne był dodatni, głównie w 
+związku z zaprzestaniem stosowania rachunkowości zabezpieczeń w odniesieniu do wydzielonego portfela transakcji 
+zabezpieczających zakup LNG z Venture Global w kwocie netto 7 165 mln PLN. W związku z powyższym, brak dodatniego 
+wpływu ww. instrumentów w 2024 roku spowodował ujemny wpływ (r/r) transakcji zabezpieczających. Powyższe ujemne 
+efekty zostały częściowo skompensowane dodatnim wpływem umocnienia PLN względem USD i EUR. 
+(2) Łączna sprzedaż wolumenowa Grupy ORLEN w segmentach Rafineria, Petrochemia i Detal spadła o (4,9)% (r/r) tj. do 
+poziomu 12 465 tys. ton. Sprzedaż segmentu Energetyka zmniejszyła się o (16,3)% (r/r) i wyniosła 7,3 TWh. Z kolei 
+sprzedaż segmentu Wydobycie wyniosła 5,1 mln boe i była wyższa o 21,8% (r/r) natomiast sprzedaż segmentu Gaz 
+wyniosła 90,1 TWh i zwiększyła się o 4,5% (r/r). 
+W rezultacie efekt wolumenowy wyniósł 1 747 mln PLN (r/r). 
+W segmencie Rafineria efekt wolumenowy, pomimo niższej sprzedaży segmentu, był dodatni i wyniósł 297 mln PLN (r/r). 
+Powyższy efekt wynikał ze zmiany struktury sprzedaży wyrobów z własnej produkcji w porównaniu do sprzedaży towarów 
+handlowych na rynku polskim (efekt polityki cenowej z przełomu III i IV kwartału 2023 roku). Sprzedaż wyrobów własnych 
+zwiększyła się o 0,4 mln ton, spadły natomiast wolumeny sprzedaży towarów handlowych o (-) 0,7 mln ton. Na wyrobach 
+własnych ORLEN realizuje pełną marżę produkcyjną (crack) oraz handlową, stąd pozytywny efekt wolumenowy na wyrobach 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2024 ROKU 59 / 72 
+ 
+własnych przekroczył ujemne efekty niższej sprzedaży towarów (na których realizowana jest tylko niewielka marża 
+handlowa). 
+W Grupie ORLEN Lietuva ujemny efekt wolumenowy wynikał z prowadzonych prac remontowych na instalacjach 
+produkcyjnych natomiast w Grupie Unipetrol wyższa sprzedaż wolumenowa wynikała z wyższej dostępności instalacji 
+produkcyjnych po ograniczeniach remontowych z drugiego kwartału 2024 oraz nieplanowanego postoju na przełomie 
+sierpnia i września 2024 roku. 
+W segmencie Petrochemia efekt zmiany wolumenów wyniósł 333 mln PLN (r/r) i wynikał z wyższej (r/r) sprzedaży olefin, 
+poliolefin, nawozów, PCW i PTA głównie na rynku polskim na skutek wyższej dostępności instalacji produkcyjnych w IV 
+kwartale 2024 roku w porównaniu z IV kwartałem 2023 roku. Na rynku czeskim wyższa sprzedaż poliolefin i PCW została 
+ograniczona niższymi wolumenami nawozów sztucznych i olefin. 
+W segmencie Energetyka wpływ wolumenowy wyniósł (217) mln PLN (r/r) i wynikał głównie z obniżonej produkcji energii 
+elektrycznej w Elektrowni Ostrołęka w rezultacie niższego wykorzystania jednostki przez PSE, wyższego wolumenu strat 
+sieciowych (r/r) oraz wyższych wolumenów zużycia gazu ziemnego w CCGT Płock. 
+W segmencie Detal zmiana wolumenów sprzedaży wyniosła (30) mln PLN (r/r) w rezultacie niższej sprzedaży na rynku 
+polskim o (12,8)% i niemieckim o (5,9)%, przy wyższej sprzedaży paliw na rynku czeskim o 8,9% (r/r) i litewskim o 5,9% (r/r). 
+Dodatkowo w IV kwartale 2024 roku ujęte zostały wolumeny ORLEN Austria zarządzającej stacjami paliw w Austrii na 
+poziomie 235 tys. ton. 
+W segmencie Wydobycie efekt wolumenowy wyniósł 847 mln PLN (r/r) i wynikał głównie z wyższej produkcji i sprzedaży 
+węglowodorów dzięki konsolidacji wolumenów nowej spółki wydobywczej KUFPEC Norway AS. 
+W segmencie Gaz wpływ wolumenów sprzedaży wyniósł 517 mln PLN (r/r) głównie w rezultacie wzrostu sprzedaży gazu 
+zaazotowanego oraz pozytywnego efektu na odsprzedaży nadwyżek gazu E (wysokometanowy) na cele bilansowania. 
+(3) 
+Wpływ pozostałych czynników wyniósł 2 460 mln PLN (r/r) i obejmował głównie: 
+ brak ujemnego wpływu z 4 kwartału 2023 roku spisanych aktywów w rezultacie przekazanych zaliczek na dostawy ropy 
+oraz produktów ropopochodnych w spółce ORLEN Trading Switzerland GmbH w kwocie 1 484 mln PLN (r/r), 
+ otrzymaną kolejną ratę odszkodowania za awarię instalacji Hydroodsiarczania Gudronu w wysokości 411 mln PLN 
+ negatywny wpływ zawiązania rezerwy na restrukturyzację w Spolana (Czechy) w kwocie (417) mln PLN, 
+ niższe (r/r) odpisy na Fundusz Wypłaty Różnicy Ceny w kwocie 3 834 mln PLN, 
+ wpływ rozliczenia składników aktywów i zobowiązań dawnej Grupy PGNiG na dzień połączenia w wysokości (2 119) mln 
+PLN (r/r), 
+ wpływ zastosowanych przez Grupę ORLEN zmian w zasadach rachunkowości opisanych w punkcie 2.2.1. niniejszego 
+raportu w kwocie (1 411) mln PLN (r/r), głównie w rezultacie zmiany różnic kursowych od należności i zobowiązań 
+handlowych na skutek umocnienia kursu PLN względem walut obcych, 
+ pozostałe elementy w kwocie 678 mln PLN (r/r) związane głównie ze zmianą (r/r) kosztów ogólnych i pracy, wzrostem 
+marż w segmencie Rafineria i Detal i zmniejszeniem marż w segmencie Petrochemia, Gaz i Wydobycie a także ujemnym 
+wpływem (r/r) wykorzystania historycznych warstw zapasów. 
+2. 
+Najważniejsze zdarzenia w okresie od 1 stycznia 2024 roku do dnia sporządzenia niniejszego raportu 
+ 
+STYCZEŃ 2024 
+Zmiany w składzie Rady Nadzorczej 
+ORLEN poinformował że 25 stycznia 2024 roku Minister Aktywów Państwowych, w imieniu akcjonariusza Skarbu 
+Państwa, działając na podstawie § 8 ust. 2 pkt 1 Statutu Spółki powołał Pana Wojciecha Popiołka do składu Rady 
+Nadzorczej ORLEN S.A. 
+Zmiany w składzie Zarządu 
+ORLEN poinformował, że Rada Nadzorcza Spółki, po zapoznaniu się z pismem Prezesa Zarządu ORLEN S.A. Pana 
+Daniela Obajtka, w którym oświadczył, że „oddaje się do dyspozycji Rady Nadzorczej, w zakresie sprawowanej funkcji”, 
+postanowiła odwołać Pana Daniela Obajtka z Zarządu ORLEN S.A. z upływem dnia 5 lutego 2024 roku. 
+LUTY 2024 
+Zmiany w składzie Zarządu 
+ORLEN poinformował, że Pan Michał Róg złożył 2 lutego 2024 roku rezygnację z funkcji członka Zarządu Spółki z 
+upływem dnia 5 lutego 2024 roku. 
+ORLEN poinformował, że Pani Patrycja Klarecka oraz Pan Armen Artwich złożyli 5 lutego 2024 roku rezygnację z funkcji 
+członków Zarządu Spółki z upływem dnia 5 lutego 2024 roku. 
+ORLEN poinformował, że Pan Jan Szewczak złożył 5 lutego 2024 roku rezygnację z funkcji członka Zarządu Spółki z 
+upływem dnia 5 lutego 2024 roku. 
+Zmiany w składzie Rady Nadzorczej 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2024 ROKU 60 / 72 
+ 
+ORLEN poinformował, że 6 lutego 2024 roku Minister Aktywów Państwowych, w imieniu akcjonariusza Skarbu Państwa, 
+działając na podstawie § 8 ust. 2 pkt 1 Statutu Spółki odwołał z dniem 6 lutego 2024 Pana Wojciecha Popiołka ze składu 
+Rady Nadzorczej ORLEN S.A. trwającej kadencji. 
+Zmiany w składzie Zarządu 
+ORLEN poinformował, że 6 lutego 2024 roku Minister Aktywów Państwowych, w imieniu akcjonariusza Skarbu Państwa, 
+działając na podstawie § 9 ust. 1 pkt 3 Statutu Spółki powołał z dniem 6 lutego 2024 Pana Witolda Literackiego do 
+Zarządu ORLEN. Jednocześnie Rada Nadzorcza Spółki na posiedzeniu w dniu 6 lutego 2024 roku powołała Pana 
+Witolda Literackiego z dniem 6 lutego 2024 roku na funkcję pełniącego obowiązki Prezesa Zarządu ORLEN. 
+Ponadto Rada Nadzorcza Spółki odwołała ze składu Zarządu ORLEN następujące osoby: 
+- Pana Adama Buraka, 
+- Pana Krzysztofa Nowickiego, 
+- Pana Roberta Perkowskiego, 
+- Pana Piotra Sabata, 
+- Panią Iwonę Waksmundzką-Olejniczak. 
+Na tym samym posiedzeniu Rada Nadzorcza postanowiła także delegować z dniem 7 lutego 2024 roku następujących 
+członków Rady Nadzorczej do czasowego wykonywania czynności członków Zarządu - do czasu powołania członków 
+Zarządu na te stanowiska, przy czym na okres nie dłuższy niż trzy miesiące: 
+- Pana Kazimierza Mordaszewskiego, 
+- Pana Tomasza Sójkę, 
+- Pana Tomasza Zielińskiego. 
+Zmiany w składzie Rady Nadzorczej 
+ORLEN poinformował, że Pan Tomasz Sójka złożył 9 lutego 2024 roku rezygnację z funkcji członka Rady Nadzorczej 
+Spółki z dniem 16 lutego 2024 roku. 
+Zmiany w składzie Zarządu 
+ORLEN poinformował, że 16 lutego 2024 roku Rada Nadzorcza Spółki postanowiła delegować od dnia 17 lutego 2024 
+roku Pana Ireneusza Sitarskiego, członka Rady Nadzorczej Spółki, do czasowego wykonywania czynności członka 
+Zarządu ORLEN S.A. - do czasu powołania członka Zarządu na to stanowisko, przy czym na okres nie dłuższy niż trzy 
+miesiące. 
+KWIECIEŃ 2024 
+Zmiany w składzie Zarządu 
+ORLEN poinformował, że w dniu: 
+ 10 kwietnia 2024 roku Rada Nadzorcza Spółki powołała Pana Ireneusza Fąfarę z dniem 11 kwietnia 2024 roku na 
+funkcję Prezesa Zarządu ORLEN na okres wspólnej kadencji Zarządu, która kończy się z dniem odbycia 
+Zwyczajnego Walnego Zgromadzenia zatwierdzającego sprawozdanie finansowe Spółki za rok 2025. 
+Jednocześnie na tym samym posiedzeniu Rada Nadzorcza Spółki powierzyła Panu Witoldowi Literackiemu, 
+powołanemu do składu Zarządu Spółki przez Ministra Aktywów Państwowych na podstawie § 9 ust. 1 pkt 3 Statutu 
+Spółki, obowiązki Wiceprezesa Zarządu ds. Korporacyjnych oraz pełnienia funkcji pierwszego zastępcy Prezesa 
+Zarządu Spółki z dniem 11 kwietnia 2024 roku. 
+Ponadto Rada Nadzorcza postanowiła zakończyć ze skutkiem natychmiastowym okres delegowania Członka Rady 
+Nadzorczej Pana Ireneusza Sitarskiego do czasowego wykonywania czynności Członka Zarządu Spółki. 
+ 16 kwietnia 2024 roku Rada Nadzorcza Spółki powołała do Zarządu ORLEN z dniem 1 maja 2024 roku 
+następujące osoby: 
+ Panią Magdalenę Bartoś na funkcję Wiceprezesa ds. Finansowych ORLEN, 
+ Pana Roberta Soszyńskiego na funkcję Wiceprezesa ds. Strategii i Zrównoważonego Rozwoju ORLEN, 
+ Pana Wiesława Prugara na funkcję Członka Zarządu ds. Upstream ORLEN; 
+ na okres wspólnej kadencji Zarządu, która kończy się z dniem odbycia Zwyczajnego Walnego Zgromadzenia 
+zatwierdzającego sprawozdanie finansowe Spółki za rok 2025. 
+Jednocześnie na tym samym posiedzeniu Rada Nadzorcza Spółki odwołała Pana Józefa Węgreckiego ze stanowiska 
+Członka Zarządu ORLEN, z upływem dnia 30 kwietnia 2024 roku. 
+Zmiany w składzie Rady Nadzorczej 
+ORLEN poinformował, że 25 kwietnia 2024 roku Minister Aktywów Państwowych, w imieniu akcjonariusza Skarbu 
+Państwa, działając na podstawie § 8 ust. 2 pkt 1 Statutu Spółki powołał z dniem 25 kwietnia 2024 roku Pana Piotra 
+Wielowieyskiego do Rady Nadzorczej ORLEN S.A. trwającej kadencji. 
+MAJ 2024 
+Oddalenie pozwu o stwierdzenie nieistnienia uchwały NWZ PGNiG S.A. 
+ORLEN poinformował, że Sąd Okręgowy w Płocku I Wydział Cywilny orzekł w jednym z postępowań o uchylenie lub 
+stwierdzenie nieważności uchwały nr 3/2022 Nadzwyczajnego Walnego Zgromadzenia PGNiG S.A. z 10 października 
+2022 roku w sprawie połączenia Spółki z PGNiG S.A. oraz zgody na proponowane zmiany Statutu ORLEN („Uchwała”). 
+Sąd postanowił umorzyć postępowanie w zakresie roszczenia o uchylenie Uchwały oraz o stwierdzenie jej nieważności 
+wobec skutecznego wycofania pozwu w tej części, a także oddalił powództwo o ustalenie nieistnienia Uchwały. 
+Zmiany w składzie Zarządu i Rady Nadzorczej 
+ORLEN poinformował, że 14 maja 2024 roku Pan Witold Literacki złożył rezygnację ze składu Zarządu Spółki i z 
+pełnienia funkcji Wiceprezesa Zarządu ORLEN S.A. oraz pierwszego zastępcy Prezesa Zarządu Spółki z upływem dnia 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2024 ROKU 61 / 72 
+ 
+15 maja 2024 roku. 
+Ponadto 14 maja 2024 roku Pan Ireneusz Sitarski złożył rezygnację z pełnienia funkcji Członka Rady Nadzorczej 
+ORLEN S.A. z upływem dnia 15 maja 2024 roku. 
+Jednocześnie na posiedzeniu w dniu 14 maja 2024 roku Rada Nadzorcza Spółki powołała do Zarządu ORLEN S.A. z 
+początkiem dnia 16 maja 2024 roku następujące osoby: 
+ · Pana Witolda Literackiego na funkcję Wiceprezesa Zarządu ds. Korporacyjnych, 
+ · Pana Ireneusza Sitarskiego na funkcję Wiceprezesa Zarządu ds. Sprzedaży Detalicznej, 
+ na okres wspólnej kadencji Zarządu, która kończy się z dniem odbycia Zwyczajnego Walnego Zgromadzenia 
+zatwierdzającego sprawozdanie finansowe Spółki za rok 2025. 
+Oddalenie apelacji w sprawie o stwierdzenie nieważności lub uchylenie uchwały NWZ Grupy LOTOS S.A. 
+ORLEN poinformował, że Sąd Apelacyjny w Łodzi, I Wydział Cywilny w dniu 15 maja 2024 roku ogłosił wyrok, w którym 
+oddalił apelację akcjonariuszy byłej Grupy LOTOS S.A. („Grupa LOTOS”) w sprawie o stwierdzenie nieważności 
+uchwały nr 3 Nadzwyczajnego Walnego Zgromadzenia Grupy LOTOS z 20 lipca 2022 roku w sprawie połączenia Spółki 
+z Grupą LOTOS, podwyższenia kapitału zakładowego PKN ORLEN oraz zgody na proponowane zmiany Statutu PKN 
+ORLEN, wraz z roszczeniem ewentualnym o uchylenie tejże uchwały. Wyrok jest prawomocny. 
+CZERWIEC 2024 
+Zmiany w składzie Zarządu 
+ORLEN poinformował, że 12 czerwca 2024 roku Pan Rada Nadzorcza Spółki powołała do Zarządu ORLEN S.A. 
+następujące osoby: 
+ Pana Marka Balawejdera z początkiem dnia 1 sierpnia 2024 roku na funkcję Członka Zarządu ds. Handlu Hurtowego 
+i Logistyki, 
+ Pana Artura Osuchowskiego z początkiem dnia 13 czerwca 2024 roku na funkcję Członka Zarządu ds. Energetyki i 
+Transformacji Energetycznej, 
+na okres wspólnej kadencji Zarządu, która kończy się z dniem odbycia Zwyczajnego Walnego Zgromadzenia 
+zatwierdzającego sprawozdanie finansowe Spółki za rok 2025. 
+Zmiany w składzie Rady Nadzorczej 
+ORLEN poinformował, że Minister Aktywów Państwowych, w imieniu akcjonariusza Skarbu Państwa, działając na 
+podstawie § 8 ust. 2 pkt 1 Statutu Spółki odwołał z dniem 24 czerwca 2024 roku Pana Piotra Wielowieyskiego ze składu 
+Rady Nadzorczej ORLEN S.A. trwającej kadencji. 
+Zgoda Rady Nadzorczej ORLEN S.A. na zbycie akcji własnych zatrzymanych po połączeniu z Grupą LOTOS S.A. 
+i PGNiG S.A. 
+ORLEN poinformował, że 19 czerwca 2024 roku Rada Nadzorcza Spółki wyraziła zgodę na zbycie akcji własnych, 
+wyemitowanych przez ORLEN S.A. w związku z połączeniem Spółki z Grupą LOTOS S.A. i Polskim Górnictwem 
+Naftowym i Gazownictwem S.A., które w wyniku przyjętych reguł parytetu wymiany akcji opisanych w planach 
+połączenia spółek nie zostały wydane akcjonariuszom, w liczbie: 7.220 sztuk akcji serii E oraz 26.938 sztuk akcji serii F 
+(„Akcje”), poprzez zlecenie ich sprzedaży do biura maklerskiego prowadzącego rachunek papierów wartościowych 
+ORLEN S.A., po bieżącej cenie rynkowej. Łączna liczba Akcji przeznaczonych do zbycia wynosi 34.158, co stanowi ok. 
+0,003% kapitału zakładowego Spółki. 
+Przeprowadzenie transakcji zbycia Akcji ma nastąpić w ciągu najbliższych trzech miesięcy. 
+LIPIEC 2024 
+Zmiany w składzie Rady Nadzorczej 
+ORLEN poinformował, że Zwyczajne Walne Zgromadzenie ORLEN S.A. w dniu 24 lipca 2024 roku powołało do składu 
+Rady Nadzorczej Spółki: 
+- Pana Mariana Sewerskiego na członka Rady Nadzorczej Spółki, 
+- Pana Piotra Wielowieyskiego na członka Rady Nadzorczej Spółki. 
+SIERPIEŃ 2024 
+Pozwy o stwierdzenie nieważności lub uchylenie uchwał ZWZ ORLEN 
+ORLEN powziął informację z Sądu Okręgowego w Łodzi, X Wydział Gospodarczy, o wniesieniu przez akcjonariuszy 
+Spółki pozwów o stwierdzenie nieważności lub uchylenie następujących uchwał podjętych przez Zwyczajne Walne 
+Zgromadzenie w dniu 25 czerwca 2024 roku: 
+ Uchwały Nr 12 w sprawie absolutorium z wykonania obowiązków w roku 2023 Członka Zarządu Spółki, Pana Armena 
+Konrada Artwicha, 
+ Uchwały Nr 14 w sprawie absolutorium z wykonania obowiązków w roku 2023 Członka Zarządu Spółki, Pani Patrycji 
+Klareckiej, 
+ Uchwały Nr 15 w sprawie absolutorium z wykonania obowiązków w roku 2023 Członka Zarządu Spółki, Pana Michała Roga, 
+ Uchwały Nr 16 w sprawie absolutorium z wykonania obowiązków w roku 2023 Członka Zarządu Spółki, Pana Jana 
+Szewczaka, 
+ Uchwały Nr 17 w sprawie absolutorium z wykonania obowiązków w roku 2023 Członka Zarządu Spółki, Pana Józefa 
+Węgreckiego, 
+ Uchwały Nr 18 w sprawie absolutorium z wykonania obowiązków w roku 2023 Członka Zarządu Spółki, Pana Piotra Sabata, 
+ Uchwały Nr 19 w sprawie absolutorium z wykonania obowiązków w roku 2023 Członka Zarządu Spółki, Pana Krzysztofa 
+Nowickiego, 
+ Uchwały Nr 21 w sprawie absolutorium z wykonania obowiązków w roku 2023 Członka Zarządu Spółki, Pana Roberta 
+Perkowskiego, 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2024 ROKU 62 / 72 
+ 
+ Uchwały Nr 26 w sprawie absolutorium z wykonania obowiązków w roku 2023 Członka Rady Nadzorczej Spółki, Pana 
+Andrzeja Szumańskiego, 
+ Uchwały Nr 30 w sprawie absolutorium z wykonania obowiązków w roku 2023 Członka Rady Nadzorczej Spółki, Pana 
+Michała Klimaszewskiego. 
+W ocenie Spółki pozwy są bezzasadne. 
+Pozwy o stwierdzenie nieważności lub uchylenie uchwał ZWZ ORLEN 
+ORLEN powziął informację z Sądu Okręgowego w Łodzi, X Wydział Gospodarczy, o wniesieniu przez akcjonariusza 
+Spółki pozwów o stwierdzenie nieważności lub uchylenie następujących uchwał podjętych przez Zwyczajne Walne 
+Zgromadzenie w dniu 25 czerwca 2024 roku: 
+ Uchwały Nr 13 w sprawie absolutorium z wykonania obowiązków w roku 2023 Członka Zarządu Spółki, Pana Adama 
+Buraka, 
+ Uchwały Nr 20 w sprawie absolutorium z wykonania obowiązków w roku 2023 Członka Zarządu Spółki, Pani Iwony 
+Waksmundzkiej – Olejniczak. 
+ W ocenie Spółki pozwy są bezzasadne. 
+WRZESIEŃ 2024 
+Zmiany w składzie Zarządu 
+ORLEN poinformował, że 25 września 2024 roku Rada Nadzorcza powołała do Zarządu Spółki Pana Marcina 
+Wasilewskiego od 1 stycznia 2025 roku na funkcję Członka Zarządu ds. Technologii, na okres wspólnej kadencji 
+Zarządu, która kończy się z dniem odbycia Zwyczajnego Walnego Zgromadzenia zatwierdzającego sprawozdanie 
+finansowe Spółki za rok 2025. 
+Pozew o stwierdzenie nieważności lub uchylenie uchwały ZWZ ORLEN 
+ORLEN powziął informację z Sądu Okręgowego w Łodzi, X Wydział Gospodarczy, o wniesieniu przez akcjonariusza 
+Spółki pozwu o stwierdzenie nieważności lub uchylenie uchwały Nr 11 w sprawie absolutorium z wykonania obowiązków 
+w roku 2023 Prezesa Zarządu Spółki, Pana Daniela Obajtka podjętej przez Zwyczajne Walne Zgromadzenie w dniu 25 
+czerwca 2024 roku. 
+W ocenie Spółki pozew jest bezzasadny. 
+PAŹDZIERNIK 2024 
+Zmiana daty powołania Pana Marcina Wasilewskiego na Członka Zarządu ORLEN 
+ORLEN poinformował, że Rada Nadzorcza Spółki postanowiła zmienić datę powołania Pana Marcina Wasilewskiego na 
+Członka Zarządu Spółki ds. Technologii z 1 stycznia 2025 roku na 6 listopada 2024 roku. 
+Zgodnie z uchwałą Rady Nadzorczej z 25 września 2024 roku Pan Marcin Wasilewski miał objąć swoją funkcję w 
+Zarządzie ORLEN 1 stycznia 2025 roku. 
+Według uchwały podjętej w dniu 16 października 2024 roku Rada Nadzorcza Spółki postanowiła powołać do Zarządu 
+ORLEN. Pana Marcina Wasilewskiego z początkiem dnia 6 listopada 2024 roku na funkcję Członka Zarządu ds. 
+Technologii na okres wspólnej kadencji Zarządu, która kończy się z dniem odbycia Zwyczajnego Walnego 
+Zgromadzenia zatwierdzającego sprawozdanie finansowe Spółki za rok 2025. 
+LITOPAD 2024 
+Zawiadomienie od Akcjonariuszy o zawarciu porozumienia 
+ORLEN poinformował e, że do Spółki wpłynęło zawiadomienie w trybie art. 69 w zw. z art. 87 ust. 1 pkt 5) i 6) Ustawy o 
+ofercie publicznej (tj. Dz.U. 2024 poz. 620) o zawarciu porozumienia pomiędzy akcjonariuszami Spółki: NationaleNederlanden Otwarty Fundusz Emerytalny, PZU „Złota Jesień” Otwarty Fundusz Emerytalny oraz Generali Otwarty 
+Fundusz Emerytalny („Porozumienie”). Zgodnie z zawiadomieniem Porozumienie zostało zawarte 4 listopada 2024 roku 
+w celu złożenia żądania uzupełnienia porządku obrad Nadzwyczajnego Walnego Zgromadzenia ORLEN, zwołanego na 
+dzień 2 grudnia 2024 r., o punkt porządku obrad: „Podjęcie uchwał w sprawie zmian w składzie Rady Nadzorczej” 
+Zawiadomienie, przekazane przez pełnomocnika w imieniu stron Porozumienia, informuje też o tym, że strony 
+Porozumienia posiadają samodzielnie następującą liczbę akcji ORLEN S.A.: 
+ Nationale-Nederlanden Otwarty Fundusz Emerytalny posiada 68 379 124 akcji Spółki, stanowiących 5,89% kapitału 
+zakładowego i ogólnej liczby głosów w Spółce, 
+ PZU „Złota Jesień” Otwarty Fundusz Emerytalny posiada 35 006 722 akcji Spółki, stanowiących 3,01% kapitału 
+zakładowego i ogólnej liczby głosów w Spółce, 
+ Generali Otwarty Fundusz Emerytalny posiada 30 833 617 akcji Spółki, stanowiących 2,65% kapitału zakładowego i 
+ogólnej liczby głosów w Spółce. 
+Strony Porozumienia posiadają łącznie 134.219.463 akcji Spółki, stanowiących 11,56% kapitału zakładowego oraz 
+uprawniających do wykonywania 11,56% ogólnej liczby głosów w Spółce. 
+Informacje dotyczące projektu budowy kompleksu Olefiny III 
+ORLEN poinformował, że 6 listopada 2024 roku Zarząd Spółki postanowił skoncentrować dalsze prace analityczne na 
+wybranych scenariuszach opcji strategicznych budowy kompleksu Olefiny III („Projekt”). 
+Przedmiotem analizy strategicznej są aktualnie objęte następujące scenariusze: 
+ Optymalizacja Projektu w zakresie mocy produkcyjnych i wykorzystania obecnych jednostek. 
+ Zatrzymanie Projektu w obecnym kształcie lub jego czasowe, częściowe wstrzymanie. 
+Kontynuacja Projektu w dotychczasowym zakresie i skali (opisywanym w raportach bieżących nr 26/2021 i 27/2021 z 24 
+maja 2021 roku, 34/2021 z 22 czerwca 2021 roku, 30/2023 z 29 czerwca 2023 roku) jest nierentowna. Nakłady 
+inwestycyjne i koszty okołoprojektowe na realizację Projektu, oszacowane przez zewnętrznych doradców dla 
+scenariusza realizacji w dotychczasowym zakresie i skali, z uwzględnieniem niezbędnej infrastruktury oraz 
+uwarunkowań kontraktowych, makroekonomicznych oraz prognoz rynkowych wyniosłyby około 45-51 mld PLN. 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2024 ROKU 63 / 72 
+ 
+Natomiast zakończenie realizacji tych prac możliwe byłoby nie wcześniej niż na początku 2030 roku. 
+Wybór scenariuszy spowodowany jest ochroną interesu Spółki i opiera się o analizy rynku petrochemicznego, sytuacji 
+makroekonomicznej oraz rentowności Projektu. 
+Zawiadomienie od Akcjonariuszy o wygaśnięciu porozumienia 
+ORLEN poinformował, że do Spółki wpłynęło zawiadomienie w trybie art. 69 w zw. z art. 87 ust. 1a Ustawy o ofercie 
+publicznej (tj. Dz.U. 2024 poz. 620) o wygaśnięciu porozumienia pomiędzy akcjonariuszami Spółki: NationaleNederlanden Otwarty Fundusz Emerytalny, PZU „Złota Jesień” Otwarty Fundusz Emerytalny oraz Generali Otwarty 
+Fundusz Emerytalny („Porozumienie”). Zgodnie z zawiadomieniem Porozumienie zostało zawarte 4 listopada 2024 roku 
+w celu złożenia żądania uzupełnienia porządku obrad Nadzwyczajnego Walnego Zgromadzenia ORLEN, zwołanego na 
+dzień 2 grudnia 2024 roku, o punkt porządku obrad: „Podjęcie uchwał w sprawie zmian w składzie Rady Nadzorczej”. 
+Porozumienie wygasło w związku z doręczeniem ORLEN w dniu 4 listopada 2024 roku żądania uzupełnienia porządku 
+obrad. 
+Zawiadomienie, przekazane przez pełnomocnika w imieniu stron Porozumienia, informuje też o tym, że po wygaśnięciu 
+Porozumienia, akcjonariusze posiadali samodzielnie następującą liczbę akcji ORLEN: 
+ Nationale-Nederlanden Otwarty Fundusz Emerytalny posiada 68 379 124 akcje Spółki, stanowiące 5,89% kapitału 
+zakładowego i ogólnej liczby głosów w Spółce, 
+ PZU „Złota Jesień” Otwarty Fundusz Emerytalny posiada 35 006 722 akcje Spółki, stanowiące 3,01% kapitału 
+zakładowego i ogólnej liczby głosów w Spółce, 
+ Generali Otwarty Fundusz Emerytalny posiada 30 833 617 akcji Spółki, stanowiących 2,65% kapitału zakładowego i 
+ogólnej liczby głosów w Spółce. 
+Strony Porozumienia po jego wygaśnięciu posiadały łącznie 134 219 463 akcje Spółki, stanowiące 11,56% kapitału 
+zakładowego oraz uprawniające do wykonywania 11,56% ogólnej liczby głosów w Spółce. 
+GRUDZIEŃ 2024 
+Zmiany w składzie Radzie Nadzorczej 
+ORLEN poinformował, że Nadzwyczajne Walne Zgromadzenie ORLEN S.A. w dniu 2 grudnia 2024 roku powołało Panią 
+Ewę Sowińską na członka Rady Nadzorczej Spółki. 
+Decyzja o zatrzymaniu projektu budowy kompleksu Olefiny III w jego dotychczasowym zakresie 
+ORLEN poinformował, że w dniu 11 grudnia 2024 roku Rada Nadzorcza Spółki, w związku z uchwałą Zarządu Spółki z 
+dnia 10 grudnia 2024 roku, wyraziła zgodę na zatrzymanie projektu budowy kompleksu Olefiny III w jego 
+dotychczasowym zakresie. 
+Kontynuacja projektu budowy kompleksu Olefiny III w dotychczasowym zakresie i skali (opisywanym w raportach 
+bieżących nr 26/2021 i 27/2021 z 24 maja 2021 roku, 34/2021 z 22 czerwca 2021 roku, 30/2023 z 29 czerwca 2023 
+roku) nie jest rentowna. Wynika to z m.in. z: 
+(1) niewystarczającego zdefiniowania zakresu realizowanej inwestycji poprzez nieuwzględnienie w dotychczasowych 
+założeniach projektu wszystkich potrzebnych zakresów infrastruktury OSBL, 
+(2) niedoszacowania czasu potrzebnego na realizację i kosztów finansowania oraz 
+(3) niedoszacowania koniecznych do poniesienia nakładów inwestycyjnych podnoszących łączne koszty projektu do 4551 mld PLN. 
+Dotychczasowe nakłady inwestycyjne poniesione na realizację projektu budowy kompleksu Olefiny III na koniec 3 
+kwartału 2024 roku wyniosły 12,6 mld PLN. 
+Od teraz prace prowadzone będą w ramach projektu Nowa Chemia, w sposób umożliwiający racjonalizację koniecznych 
+do poniesienia nakładów. 
+Decyzja organów korporacyjnych Spółki przewiduje budowę instalacji do produkcji olefin z docelowymi mocami 
+produkcyjnymi etylenu 740 kt rocznie („Projekt”), która zostanie oddana do eksploatacji nie wcześniej niż w 2030 roku. 
+Według aktualnie posiadanych przez Zarząd analiz zoptymalizowane nakłady inwestycyjne zdefiniowanego na nowo 
+Projektu szacowane są na ok. 34 mld PLN, z uwzględnieniem ok. 6 mld PLN kosztów finansowania. 
+Inkrementalna zdolność projektu do generowania wyniku EBITDA w 2030 roku szacowana jest obecnie, w zależności od 
+poziomu wykorzystania mocy produkcyjnych, między ok. 550 mln a ok. 800 mln PLN rocznie. 
+Obecnie Spółka będzie koncentrowała swoje działania związane z Projektem na rozmowach z wykonawcami, zarówno 
+w zakresie podstawowej instalacji olefin (ISBL) oraz infrastruktury dodatkowej (OSBL), by zapewnić realizację nowego 
+harmonogramu. Jednocześnie Spółka informuje, iż zostały zidentyfikowane i rozpoznane istotne problemy natury 
+projektowo-technicznej w zakresie instalacji ISBL, których rozwiązanie wpływa na realizację Projektu. 
+Prowadzone będą także uzgodnienia z partnerami handlowymi związanymi z Projektem. 
+Ponadto do 30 września 2025 roku Zarząd sporządzi i opublikuje budżet Projektu oraz jego nowy harmonogram 
+rzeczowo - finansowy w zoptymalizowanym zakresie wraz z niezbędną infrastrukturą OSBL. 
+Decyzja organów korporacyjnych Spółki jest działaniem mającym na celu zminimalizowanie szkód grożących Spółce w 
+przypadku kontynuacji Projektu w dotychczasowym zakresie. 
+Opisana wyżej decyzja Zarządu Spółki, podjęta w dniu 10 grudnia 2024 roku, została uznana za informację poufną, 
+której publikacja została przez Spółkę opóźniona do czasu podjęcia decyzji przez Radę Nadzorczą Spółki, zgodnie z 
+Art. 17 ust. 4 Rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 596/2014 z dnia 16 kwietnia 2014 roku w 
+sprawie nadużyć na rynku (rozporządzenie w sprawie nadużyć na rynku) oraz uchylające dyrektywę 2003/6/WE 
+Parlamentu Europejskiego i Rady i dyrektywy Komisji 2003/124/WE, 2003/125/WE i 2004/72/WE. 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2024 ROKU 64 / 72 
+ 
+STYCZEŃ 2025 
+Strategia Grupy ORLEN do 2035 roku z nową polityką dywidendową 
+ORLEN ogłosił Strategię Grupy ORLEN do 2035 roku („Strategia”) pod hasłem „Energia jutra zaczyna się dziś”. 
+Skuteczne wdrożenie inicjatyw strategicznych pozwoli na transformację Grupy ORLEN w kierunku zintegrowanej, 
+zdywersyfikowanej i odpornej na cykle gospodarcze organizacji. Ambicją Grupy ORLEN jest zapewnienie stabilnego 
+tempa wzrostu zysku operacyjnego i regularnej wypłaty rosnącej dywidendy (https://www.orlen.pl/pl/o-firmie/strategia). 
+Nabycie akcji Spółki przez członków Zarządu ORLEN 
+ORLEN poinformował, iż w dniu: 
+ 9 stycznia 2025 roku do Spółki wpłynęło zawiadomienie o nabyciu akcji ORLEN S.A. przez Panią Magdalenę 
+Bartoś, Wiceprezes Zarządu Spółki; 
+ 10 stycznia 2025 roku do Spółki wpłynęło zawiadomienie o nabyciu akcji ORLEN S.A. przez Pana Marcina 
+Wasilewskiego, Członka Zarządu Spółki; 
+ 10 stycznia 2025 roku do Spółki wpłynęło zawiadomienie o nabyciu akcji ORLEN S.A. przez Pana Marka 
+Balawejdera, Członka Zarządu Spółki. 
+Pozew o stwierdzenie nieważności wraz z ewentualnym roszczeniem o uchylenie uchwały NWZ ORLEN 
+ORLEN powziął informację z Sądu Okręgowego w Łodzi, X Wydział Gospodarczy o wniesieniu przez akcjonariusza 
+Spółki pozwu o stwierdzenie nieważności wraz z ewentualnym roszczeniem o uchylenie uchwały nr 5 podjętej przez 
+Nadzwyczajne Walne Zgromadzenie ORLEN w dniu 2 grudnia 2024 roku, dotyczącej roszczeń o naprawienie szkód 
+wyrządzonych przy sprawowaniu zarządu przeciwko byłym członkom Zarządu Spółki. 
+W ocenie Spółki pozew jest bezzasadny. 
+Emisja obligacji serii C w ramach programu emisji obligacji średnioterminowych 
+ORLEN S.A. („Spółka”) informuje, że w dniu 28 stycznia 2025 roku zawarł dokumentację emisyjną dotyczącą 
+średnioterminowych obligacji serii C o łącznej wartości nominalnej 1 250 000 000 USD („Obligacje”), które zostaną 
+wyemitowane w ramach programu emisji średnioterminowych obligacji ustanowionego 13 maja 2021 roku, 
+zaktualizowanego w dniu 20 stycznia 2025 roku (globalny program emisji obligacji średnioterminowych, GMTN). 
+Obligacje zostaną wyemitowane na następujących warunkach: 
+ 
+łączna wartość nominalna Obligacji: 1 250 000 000 USD; 
+ 
+liczba Obligacji: 6 250 imiennych Obligacji serii C; 
+ 
+wartość nominalna jednej Obligacji: 200.000 USD; 
+ 
+cena emisyjna jednej Obligacji: 98,555%; 
+ 
+dzień wykupu: 30 stycznia 2035 roku; 
+ 
+oprocentowanie Obligacji (kupon) - według stałej stopy procentowej wynoszącej 6% rocznie; 
+ 
+obligacje nie będą zabezpieczone; 
+ 
+planowany dzień rozliczenia emisji obligacji to 30 stycznia 2025 r. Obligacje zostaną opłacone przelewem na 
+rachunek Spółki. 
+ 
+Spółka będzie ubiegać się o dopuszczenie Obligacji do obrotu na rynku regulowanym prowadzonym przez 
+Euronext Dublin. 
+Środki z emisji Obligacji zostaną wykorzystane na finansowanie prowadzonej działalności, z uwzględnieniem realizacji 
+planów inwestycyjnych wynikających ze Strategii ORLEN 2035. 
+Zapisy na Obligacje prowadzono 23 stycznia 2025 roku i w tym samym dniu zakończono subskrypcję. Oferta nie była 
+podzielona na transze. Przydziału Obligacji dokonano 23 stycznia 2025 roku, a rozliczenie emisji będzie dokonane 30 
+stycznia 2025 roku. 
+W okresie subskrypcji około 206 inwestorów wyraziło zainteresowanie Obligacjami. Ostateczna księga popytu 
+obejmowała zapisy na ponad 4 000 mln USD co oznacza ok 3,3-krotną nadsubskrypcję Obligacji. ORLEN dokonał 
+przydziału Obligacji 148 inwestorom z 28 krajów. 
+W przygotowaniu transakcji udział wzięli Citigroup Global Markets Europe AG, J.P. Morgan SE, BANCO SANTANDER, 
+S.A., Goldman Sachs Bank Europe SE oraz SMBC Bank EU AG. 
+Wartość emisji, rozumiana jako iloczyn liczby Obligacji objętych ofertą i ceny emisyjnej, wyniosła 1 231 937 500 USD. 
+Z uwagi na brak ostatecznego rozliczenia kosztów emisji do dnia przekazania niniejszego raportu, Spółka sporządzi i 
+udostępni do publicznej wiadomości raport bieżący z kosztami emisji, w tym kosztami według ich tytułów, po otrzymaniu 
+i zaakceptowaniu wszystkich faktur od podmiotów zaangażowanych w pracę nad przygotowaniem i przeprowadzeniem 
+oferty jednak nie później niż w terminie wymaganym dla przekazania tej informacji w drodze raportu bieżącego. 
+Koszty Spółki związane z oferowaniem Obligacji obciążają koszty działalności Spółki. 
+Dopuszczenie obligacji GMTN serii C do obrotu na rynku regulowanym prowadzonym przez Euronext Dublin 
+ORLEN poinformował, że z dniem 30 stycznia 2025 roku 6 250 obligacji imiennych serii C, wyemitowanych w ramach 
+globalnego programu emisji obligacji średnioterminowych („GMTN”), zostało dopuszczonych do obrotu na rynku 
+regulowanym prowadzonym przez Euronext Dublin. 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2024 ROKU 65 / 72 
+ 
+LUTY 2025 
+Norges Bank wycofał ORLEN z listy obserwacyjnej 
+Norges Bank wycofał ORLEN z listy obserwacyjnej, na którą Spółka trafiła w lutym 2023 roku w związku z zakupem 
+spółki Polska Press. W ówczesnej ocenie banku transakcja przejęcia wydawnictwa wiązała się z niedopuszczalnym 
+ryzykiem udziału Spółki w naruszeniu praw człowieka, naruszeniu wolności prasy oraz wolności słowa w Polsce. 
+Zgodnie z rekomendacją wydaną w grudniu 2024 roku przez Komitet Etyki norweskiego banku nowy Zarząd ORLENU, 
+który objął swoje funkcje na początku 2024 roku, wdrożył w działalności Spółki zmiany dzięki którym ryzyko wskazanych 
+naruszeń zostało zlikwidowane. ORLEN podjął decyzję o sprzedaży Polska Press, dodatkowo kierownictwo tej spółki 
+zostało odłączone od podejmowania decyzji redakcyjnych, a nowi redaktorzy gazet regionalnych zostali zatrudnieni w 
+drodze otwartych procesów rekrutacyjnych. Dzięki temu, w ocenie Banku, wzmocniona zostanie wolność redakcyjna w 
+przyszłości. 
+3. 
+Pozostałe informacje 
+ 
+3.1. Skład Zarządu i Rady Nadzorczej 
+Na dzień zatwierdzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego skład organów 
+zarządczych i nadzorujących Spółki jest następujący: 
+ 
+Zarząd 
+Ireneusz Fąfara 
+ 
+– Prezes Zarządu, Dyrektor Generalny 
+Marek Balawejder 
+ 
+– Członek Zarządu ds. Sprzedaży Detalicznej, 
+Magdalena Bartoś 
+ 
+– Wiceprezes Zarządu ds. Finansowych 
+Witold Literacki 
+ 
+– Wiceprezes Zarządu ds. Korporacyjnych 
+Artur Osuchowski 
+ 
+– Członek Zarządu ds. Energetyki i Transformacji Energetycznej 
+Wiesław Prugar 
+ 
+– Członek Zarządu ds. Upstream 
+Ireneusz Sitarski 
+ 
+– Wiceprezes Zarządu ds. Handlu Hurtowego i Logistyki 
+Robert Soszyński 
+ 
+– Wiceprezes Zarządu ds. Operacyjnych 
+Marcin Wasilewski 
+ 
+– Członek Zarządu ds. Technologii 
+Rada Nadzorcza 
+Wojciech Popiołek 
+ 
+ – Przewodniczący Rady Nadzorczej, Niezależny Członek Rady Nadzorczej 
+Michał Gajdus 
+ 
+ – Wiceprzewodniczący Rady Nadzorczej, Niezależny Członek Rady Nadzorczej 
+Katarzyna Łobos 
+ 
+ – Sekretarz Rady Nadzorczej, Niezależny Członek Rady Nadzorczej 
+Ewa Gąsiorek 
+ 
+ 
+ – Niezależny Członek Rady Nadzorczej 
+Kazimierz Mordaszewski 
+ 
+ – Członek Rady Nadzorczej 
+Mikołaj Pietrzak 
+ 
+ – Niezależny Członek Rady Nadzorczej 
+Marian Sewerski 
+ 
+ – Niezależny Członek Rady Nadzorczej 
+Ewa Sowińska 
+ 
+ – Niezależny Członek Rady Nadzorczej 
+Piotr Wielowieyski 
+ 
+ – Niezależny Członek Rady Nadzorczej 
+Tomasz Zieliński 
+ 
+ – Członek Rady Nadzorczej 
+ 
+3.2. Akcjonariusze posiadający bezpośrednio lub pośrednio poprzez podmioty zależne co najmniej 5% ogólnej liczby 
+głosów na Walnym Zgromadzeniu Jednostki Dominującej na dzień przekazania niniejszego raportu 
+ 
+ 
+ 
+ 
+Procentowy udział w liczbie głosów na WZ na 
+dzień przekazania 
+ 
+Liczba akcji 
+na dzień przekazania 
+Akcjonariusz 
+ 
+ 
+niniejszego 
+raportu 
+kwartalnego* 
+zmiana 
+p.p. 
+poprzedniego 
+raportu 
+kwartalnego** 
+ 
+niniejszego 
+raportu 
+kwartalnego* 
+zmiana 
+poprzedniego 
+raportu 
+kwartalnego** 
+Skarb Państwa * 
+ 
+ 
+49,90% 
+- 
+49,90% 
+ 
+ 579 310 079 
+ - 
+ 579 310 079 
+Nationale-Nederlanden OFE* 
+ 
+ 
+5,72% 
+-0,17% 
+5,89% 
+ 
+ 66 451 874 (1 927 250) 
+ 68 379 124 
+Pozostali 
+ 
+ 
+44,38% 
+0,17% 
+44,21% 
+ 
+ 515 180 096 
+ 1 927 250 
+ 513 252 846 
+ 
+ 
+ 
+100,00% 
+- 
+100,00% 
+ 
+ 1 160 942 049 
+ - 
+ 1 160 942 049 
+ 
+* zgodnie z zawiadomieniem od Akcjonariuszy o zawarciu porozumienia z 2 grudnia 2024 roku 
+** zgodnie z zawiadomieniem od Akcjonariuszy o zawarciu porozumienia z 4 listopada 2024 roku 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2024 ROKU 66 / 72 
+ 
+3.3. Zestawienie zmian w stanie posiadania akcji Jednostki Dominującej przez Członków Zarządu oraz Rady 
+Nadzorczej 
+Zestawienie zmian w stanie posiadania akcji Spółki przez członków Zarządu 
+ 
+ 
+Liczba akcji, opcji na dzień 
+przekazania poprzedniego 
+raportu kwartalnego * 
+Nabycie 
+Zbycie 
+Liczba akcji, opcji na dzień 
+przekazania niniejszego raportu 
+kwartalnego ** 
+Zarząd 
+77 
+5 895 
+- 
+5 972 
+Marek Balawejder 
+77 
+1 823 
+- 
+1 900 
+Magdalena Bartoś 
+- 
+2 040 
+- 
+2 040 
+Marcin Wasilewski 
+- 
+2 032 
+- 
+2 032 
+ 
+* Według uzyskanych potwierdzeń na dzień 5 listopada 2024 roku 
+** Według uzyskanych potwierdzeń na dzień 19 lutego 2025 roku 
+Na dzień sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego Członkowie Rady 
+Nadzorczej nie posiadali akcji ORLEN. 
+W okresie objętym niniejszym śródrocznym skróconym skonsolidowanym sprawozdaniem finansowym nie wystąpiły zmiany w 
+stanie posiadania akcji ORLEN przez członków Rady Nadzorczej. 
+ 
+3.4. Stanowisko Zarządu odnośnie możliwości zrealizowania wcześniej publikowanych prognoz wyników na dany rok 
+ 
+Grupa ORLEN nie dokonała wcześniejszych publikacji prognozy wyników. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+KWARTALNA INFORMACJA FINANSOWA 
+ORLEN S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ZA IV KWARTAŁ 2024 
+SPORZĄDZONA ZGODNIE Z MIĘDZYNARODOWYMI 
+STANDARDAMI SPRAWOZDAWCZOŚCI FINANSOWEJ 
+ZATWIERDZONYMI PRZEZ UNIĘ EUROPEJSKĄ 
+ 
+
+ 
+ GRUPA ORLEN 
+ KWARTALNA INFORMACJA FINANSOWA ORLEN S.A. 
+ 
+ (w mln PLN) 
+ 
+ 
+ SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2024 ROKU 68 / 72 
+ 
+ 
+C. 
+KWARTALNA INFORMACJA FINANSOWA ORLEN 
+Jednostkowe sprawozdanie z zysków lub strat i innych całkowitych dochodów 
+ 
+ 
+ 
+12 MIESIĘCY 
+ZAKOŃCZONE 
+31/12/2024 
+(niebadane) 
+3 MIESIĄCE 
+ZAKOŃCZONE 
+31/12/2024 
+(niebadane) 
+(dane 
+przekształcone) 
+12 MIESIĘCY 
+ZAKOŃCZONE 
+31/12/2023 
+(dane 
+przekształcone) 
+3 MIESIĄCE 
+ZAKOŃCZONE 
+31/12/2023 
+(niebadane) 
+(dane 
+przekształcone) 
+ 
+Przychody ze sprzedaży 
+ 201 353 
+ 50 886 
+ 250 969 
+ 64 535 
+przychody ze sprzedaży produktów i usług 
+ 150 624 
+ 38 825 
+ 192 037 
+ 50 042 
+przychody ze sprzedaży towarów i materiałów 
+ 50 729 
+ 12 061 
+ 58 932 
+ 14 493 
+Koszt własny sprzedaży 
+ (180 891) 
+ (41 856) 
+ (209 139) 
+ (53 458) 
+koszt wytworzenia sprzedanych produktów i usług 
+ (133 324) 
+ (30 512) 
+ (153 055) 
+ (39 678) 
+wartość sprzedanych towarów i materiałów 
+ (47 567) 
+ (11 344) 
+ (56 084) 
+ (13 780) 
+Zysk brutto ze sprzedaży 
+ 
+ 20 462 
+ 9 030 
+ 41 830 
+ 11 077 
+Koszty sprzedaży 
+ (8 281) 
+ (2 070) 
+ (9 132) 
+ (2 670) 
+Koszty ogólnego zarządu 
+ (2 440) 
+ (675) 
+ (2 304) 
+ (643) 
+Pozostałe przychody operacyjne 
+ 4 676 
+ 1 322 
+ 19 965 
+ 12 471 
+Pozostałe koszty operacyjne 
+ (5 742) 
+ (1 333) 
+ (25 583) 
+ (16 485) 
+(Strata)/odwrócenie straty z tytułu utraty wartości należności 
+handlowych (w tym odsetek od należności handlowych) 
+ (112) 
+ (37) 
+ 
+ (142) 
+ (48) 
+Zysk z działalności operacyjnej 
+ 
+ 8 563 
+ 6 237 
+ 24 634 
+ 3 702 
+Przychody finansowe 
+ 5 385 
+ 666 
+ 6 783 
+ 2 757 
+Koszty finansowe 
+ (6 297) 
+ (298) 
+ (3 062) 
+ (1 077) 
+Przychody i koszty finansowe netto 
+ 
+ (912) 
+ 368 
+ 3 721 
+ 1 680 
+(Strata)/odwrócenie straty z tytułu utraty wartości pożyczek i depozytów 
+ 1 647 
+ (298) 
+ (2 116) 
+ (2 169) 
+Zysk przed opodatkowaniem 
+ 
+ 9 298 
+ 6 307 
+ 26 239 
+ 3 213 
+Podatek dochodowy 
+ (2 315) 
+ (1 449) 
+ (5 023) 
+ (930) 
+Zysk netto 
+ 
+ 6 983 
+ 4 858 
+ 21 216 
+ 2 283 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inne całkowite dochody: 
+ 
+ 
+które nie zostaną następnie przeklasyfikowane na zyski lub straty 
+ 10 
+ 5 
+ (59) 
+ (58) 
+zyski i straty aktuarialne 
+ 15 
+ 12 
+ (79) 
+ (79) 
+zyski/(straty) z tytułu inwestycji w instrumenty kapitałowe 
+ wyceniane w wartości godziwej przez inne całkowite dochody 
+ (3) 
+ (6) 
+ 
+ 6 
+ 7 
+podatek odroczony 
+ (2) 
+ (1) 
+ 14 
+ 14 
+które zostaną przeklasyfikowane na zyski lub straty 
+ (2 094) 
+ (77) 
+ (1 486) 
+ (5 658) 
+instrumenty zabezpieczające 
+ (1 976) 
+ 14 
+ (2 240) 
+ (6 710) 
+koszty zabezpieczenia 
+ (609) 
+ (109) 
+ 406 
+ (274) 
+podatek odroczony 
+ 491 
+ 18 
+ 348 
+ 1 326 
+ 
+ 
+ (2 084) 
+ (72) 
+ (1 545) 
+ (5 716) 
+Całkowite dochody netto 
+ 
+ 4 899 
+ 4 786 
+ 19 671 
+ (3 433) 
+Zysk netto i rozwodniony zysk netto na jedną akcję (w PLN na akcję) 
+ 6,01 
+ 4,18 
+ 
+ 18,27 
+ 1,97 
+ 
+
+ 
+ GRUPA ORLEN 
+ KWARTALNA INFORMACJA FINANSOWA ORLEN S.A. 
+ 
+ (w mln PLN) 
+ 
+ 
+ SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2024 ROKU 69 / 72 
+ 
+ 
+Jednostkowe sprawozdanie z sytuacji finansowej 
+ 
+ 
+ 
+31/12/2024 
+(niebadane) 
+ 
+31/12/2023 
+(dane 
+przekształcone) 
+ 
+01/01/2023 
+(dane 
+przekształcone) 
+AKTYWA 
+ 
+Aktywa trwałe 
+ 
+Rzeczowe aktywa trwałe 
+ 48 930 
+ 43 799 
+ 50 466 
+Wartości niematerialne oraz wartość firmy 
+ 3 597 
+ 4 933 
+ 3 552 
+Aktywa z tytułu praw do użytkowania 
+ 4 732 
+ 4 696 
+ 4 206 
+Akcje i udziały w jednostkach zależnych i współkontrolowanych 
+ 65 475 
+ 67 974 
+ 62 666 
+Aktywa z tytułu podatku odroczonego 
+ - 
+ - 
+ 2 594 
+Zapasy obowiązkowe 
+ 9 789 
+ 9 128 
+ 11 151 
+Instrumenty pochodne 
+ 1 343 
+ 1 505 
+ 1 252 
+Należności długoterminowe z tytułu leasingu 
+ 19 
+ 19 
+ 20 
+Pozostałe aktywa, w tym: 
+ 21 097 
+ 12 668 
+ 13 007 
+pożyczki udzielone 
+ 19 587 
+ 11 271 
+ 11 767 
+ 
+ 
+ 154 982 
+ 
+ 144 722 
+ 
+ 148 914 
+Aktywa obrotowe 
+ 
+Zapasy 
+ 12 779 
+ 14 598 
+ 21 935 
+Należności z tytułu dostaw i usług oraz pozostałe należności 
+ 16 037 
+ 18 792 
+ 22 588 
+Należności z tytułu podatku dochodowego 
+ 85 
+ 46 
+ 455 
+Środki pieniężne 
+ 1 368 
+ 2 854 
+ 7 939 
+Instrumenty pochodne 
+ 914 
+ 1 594 
+ 2 094 
+Pozostałe aktywa, w tym: 
+ 14 162 
+ 17 837 
+ 22 775 
+depozyty zabezpieczające 
+ 921 
+ 206 
+ 8 651 
+pożyczki udzielone 
+ 3 912 
+ 4 637 
+ 3 329 
+cash pool 
+ 9 115 
+ 12 312 
+ 4 323 
+Aktywa trwałe przeznaczone do sprzedaży 
+ 980 
+ 3 926 
+ 1 218 
+ 
+ 
+ 46 325 
+ 
+ 59 647 
+ 
+ 79 004 
+Aktywa razem 
+ 
+ 201 307 
+ 204 369 
+ 227 918 
+PASYWA 
+ 
+ 
+KAPITAŁ WŁASNY 
+ 
+Kapitał podstawowy 
+ 1 974 
+ 1 974 
+ 1 974 
+Kapitał z emisji akcji powyżej ich wartości nominalnej 
+ 46 405 
+ 46 405 
+ 46 405 
+Inne składniki kapitału własnego 
+ 972 
+ 3 066 
+ 4 547 
+Zyski zatrzymane 
+ 
+ 91 631 
+ 
+ 89 454 
+ 
+ 74 690 
+Kapitał własny razem 
+ 
+ 140 982 
+ 
+ 140 899 
+ 
+ 127 616 
+ZOBOWIĄZANIA 
+ 
+ 
+Zobowiązania długoterminowe 
+ 
+Kredyty, pożyczki i obligacje 
+ 11 712 
+ 9 337 
+ 10 088 
+Rezerwy 
+ 3 060 
+ 2 871 
+ 2 857 
+Zobowiązania z tytułu podatku odroczonego 
+ 
+ 1 053 
+ 
+ 626 
+ 
+ - 
+Zobowiązania z tytułu umów z klientami 
+ 
+ 25 
+ 
+ 6 
+ 
+ - 
+Instrumenty pochodne 
+ 441 
+ 629 
+ 5 091 
+Zobowiązania z tytułu leasingu 
+ 2 871 
+ 2 899 
+ 2 465 
+Pozostałe zobowiązania 
+ 200 
+ 184 
+ 2 975 
+ 
+ 
+ 19 362 
+ 
+ 16 552 
+ 
+ 23 476 
+Zobowiązania krótkoterminowe 
+ 
+Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania 
+ 25 825 
+ 26 226 
+ 25 500 
+Zobowiązania z tytułu leasingu 
+ 559 
+ 482 
+ 353 
+Zobowiązania z tytułu umów z klientami 
+ 326 
+ 431 
+ 341 
+Kredyty, pożyczki i obligacje 
+ 2 721 
+ 3 319 
+ 5 513 
+Rezerwy 
+ 3 965 
+ 4 428 
+ 4 374 
+Zobowiązania z tytułu podatku dochodowego 
+ 
+ 244 
+ 
+ 7 
+ 
+ 4 165 
+Instrumenty pochodne 
+ 536 
+ 1 030 
+ 11 969 
+Pozostałe zobowiązania, w tym: 
+ 6 787 
+ 10 995 
+ 24 611 
+cash pool 
+ 6 545 
+ 7 732 
+ 4 093 
+zobowiązania z tytułu kontraktów wycenionych na 
+ moment rozliczenia połączenia jednostek 
+ - 
+ 
+ 2 757 
+ 
+ 18 822 
+ 
+ 
+ 40 963 
+ 
+ 46 918 
+ 
+ 76 826 
+Zobowiązania razem 
+ 
+ 60 325 
+ 
+ 63 470 
+ 
+ 100 302 
+Pasywa razem 
+ 
+ 201 307 
+ 204 369 
+ 227 918 
+ 
+
+ 
+ GRUPA ORLEN 
+ KWARTALNA INFORMACJA FINANSOWA ORLEN S.A. 
+ 
+ (w mln PLN) 
+ 
+ 
+ SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2024 ROKU 70 / 72 
+ 
+ 
+ 
+Jednostkowe sprawozdanie ze zmian w kapitale własnym 
+ 
+ 
+Kapitał 
+podstawowy 
+Kapitał z emisji 
+akcji powyżej ich 
+wartości 
+nominalnej 
+Inne składniki kapitału 
+własnego 
+Zyski 
+zatrzymane 
+Kapitał własny 
+razem 
+01/01/2024 
+ 1 974 
+ 46 405 
+ 3 066 
+ 89 454 
+ 140 899 
+Zysk netto 
+ - 
+ - 
+ - 
+ 6 983 
+ 6 983 
+Składniki innych całkowitych dochodów 
+ - 
+ - 
+ (2 096) 
+ 12 
+ (2 084) 
+Całkowite dochody netto 
+ - 
+ - 
+ (2 096) 
+ 6 995 
+ 4 899 
+Dywidendy 
+ - 
+ - 
+ - 
+ (4 818) 
+ (4 818) 
+Sprzedaż akcji własnych 
+ - 
+ - 
+ 2 
+ - 
+ 2 
+31/12/2024 
+ 1 974 
+ 46 405 
+ 972 
+ 91 631 
+ 140 982 
+(niebadane) 
+ 
+01/01/2023 
+ 1 974 
+ 46 405 
+ 4 547 
+ 74 690 
+ 127 616 
+Zysk netto 
+ - 
+ - 
+ - 
+ 21 216 
+ 21 216 
+Składniki innych całkowitych dochodów 
+ - 
+ - 
+ (1 481) 
+ (64) 
+ (1 545) 
+Całkowite dochody netto 
+ - 
+ - 
+ (1 481) 
+ 21 152 
+ 19 671 
+Kapitał wynikający z połączenia jednostek 
+ - 
+ - 
+ - 
+ (3) 
+ (3) 
+Dywidendy 
+ - 
+ - 
+ - 
+ (6 385) 
+ (6 385) 
+31/12/2023 
+ 1 974 
+ 46 405 
+ 3 066 
+ 89 454 
+ 140 899 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ GRUPA ORLEN 
+ KWARTALNA INFORMACJA FINANSOWA ORLEN S.A. 
+ 
+ (w mln PLN) 
+ 
+ 
+ SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2024 ROKU 71 / 72 
+ 
+ 
+Jednostkowe sprawozdanie z przepływów pieniężnych 
+ 
+ 
+ 
+12 MIESIĘCY 
+ZAKOŃCZONE 
+31/12/2024 
+(niebadane) 
+3 MIESIĄCE 
+ZAKOŃCZONE 
+31/12/2024 
+(niebadane) 
+(dane 
+przekształcone) 
+ 
+12 MIESIĘCY 
+ZAKOŃCZONE 
+31/12/2023 
+(dane 
+przekształcone) 
+3 MIESIĄCE 
+ZAKOŃCZONE 
+31/12/2023 
+(niebadane) 
+(dane 
+przekształcone) 
+ 
+Przepływy pieniężne z działalności operacyjnej 
+ 
+ 
+ 
+Zysk przed opodatkowaniem 
+ 
+ 9 298 
+ 6 307 
+ 26 239 
+ 3 213 
+Korekty o pozycje: 
+ 
+ 
+Amortyzacja 
+ 4 281 
+ 1 109 
+ 5 227 
+ 1 280 
+(Zysk) z tytułu różnic kursowych 
+ (132) 
+ (50) 
+ (415) 
+ (323) 
+Odsetki netto 
+ (1 557) 
+ (426) 
+ (1 518) 
+ (371) 
+Dywidendy 
+ (2 535) 
+ - 
+ (1 235) 
+ (12) 
+Strata na działalności inwestycyjnej, w tym: 
+ 5 628 
+ 401 
+ 16 861 
+ 13 574 
+utworzenie/(odwrócenie) odpisów aktualizujących wartość 
+ rzeczowych aktywów trwałych, wartości niematerialnych 
+ i pozostałych składników majątku oraz akcji i udziałów 
+ 
+ 6 284 
+ 640 
+ 
+ 14 446 
+ 11 293 
+Zmiana stanu rezerw 
+ 3 028 
+ 891 
+ 3 871 
+ 979 
+Zmiana stanu kapitału pracującego 
+ 
+ 4 042 
+ 2 402 
+ 11 179 
+ 1 138 
+zapasy 
+ 1 805 
+ 722 
+ 7 400 
+ 154 
+należności 
+ 2 184 
+ (336) 
+ 3 979 
+ 2 624 
+zobowiązania 
+ 53 
+ 2 016 
+ (200) 
+ (1 640) 
+Pozostałe korekty, w tym: 
+ (7 994) 
+ (1 575) 
+ (22 730) 
+ (10 866) 
+rozliczenie dotacji na prawa majątkowe 
+ (1 412) 
+ (387) 
+ 
+ (2 181) 
+ (569) 
+depozyty zabezpieczające 
+ 
+ (716) 
+ 71 
+ 
+ 8 446 
+ 1 686 
+instrumenty pochodne 
+ 
+ (2 526) 
+ (347) 
+ 
+ (16 712) 
+ (9 554) 
+zapasy obowiązkowe 
+ 
+ (661) 
+ (140) 
+ 
+ 2 023 
+ 1 575 
+zmiana stanu aktywów i zobowiązań z tytułu kontraktów 
+ wycenionych na moment rozliczenia połączenia 
+ jednostek 
+ (2 461) 
+ (557) 
+ 
+ (13 772) 
+ (3 468) 
+Podatek dochodowy (zapłacony) 
+ (1 164) 
+ (958) 
+ (5 221) 
+ (417) 
+Środki pieniężne netto z działalności operacyjnej 
+ 12 895 
+ 8 101 
+ 32 258 
+ 8 195 
+Przepływy pieniężne z działalności inwestycyjnej 
+ 
+ 
+Nabycie składników rzeczowego majątku trwałego, wartości 
+niematerialnych i aktywów z tytułu praw do użytkowania 
+ (12 643) 
+ (3 659) 
+ 
+ (19 985) 
+ (4 130) 
+Sprzedaż składników rzeczowego majątku trwałego, wartości 
+niematerialnych i aktywów z tytułu praw do użytkowania 
+ 4 767 
+ 2 089 
+ 
+ 2 903 
+ 1 666 
+Nabycie akcji i udziałów 
+ (658) 
+ - 
+ (2) 
+ - 
+Dokapitalizowanie jednostek zależnych 
+ (357) 
+ (126) 
+ (4 103) 
+ (2 941) 
+Dokapitalizowanie w inwestycjach we wspólne przedsięwzięcia 
+ - 
+ - 
+ (1 523) 
+ - 
+Wpływy netto związane z realizacją Środków Zaradczych 
+ 20 
+ - 
+ 340 
+ - 
+Zbycie akcji i udziałów 
+ 171 
+ 8 
+ - 
+ - 
+Nabycie obligacji 
+ - 
+ - 
+ (3 978) 
+ - 
+Zbycie obligacji 
+ - 
+ - 
+ 3 978 
+ 923 
+Odsetki otrzymane 
+ 1 861 
+ 498 
+ 1 813 
+ 385 
+Dywidendy otrzymane 
+ 2 501 
+ 102 
+ 1 253 
+ 604 
+Wydatki z tytułu udzielonych pożyczek 
+ (11 033) 
+ (6 854) 
+ (16 005) 
+ (3 089) 
+Wpływy z tytułu spłaty udzielonych pożyczek 
+ 3 902 
+ 570 
+ 14 313 
+ 873 
+Przepływy netto w ramach systemu cash pool 
+ 2 526 
+ (119) 
+ (9 415) 
+ (6 941) 
+Pozostałe 
+ (52) 
+ (5) 
+ (677) 
+ (214) 
+Środki pieniężne netto (wykorzystane) w działalności inwestycyjnej 
+ (8 995) 
+ (7 496) 
+ (31 088) 
+ (12 864) 
+Przepływy pieniężne z działalności finansowej 
+ 
+ 
+Wpływy z otrzymanych kredytów i pożyczek 
+ 10 128 
+ 7 024 
+ 4 825 
+ 4 802 
+Spłata kredytów i pożyczek 
+ (8 227) 
+ (1 808) 
+ (9 301) 
+ (2 409) 
+Emisja obligacji 
+ - 
+ - 
+ 2 183 
+ - 
+Odsetki zapłacone od kredytów, pożyczek, obligacji i cash pool 
+ (805) 
+ (146) 
+ (801) 
+ (191) 
+Odsetki zapłacone z tytułu leasingu 
+ (160) 
+ (29) 
+ (145) 
+ (29) 
+Dywidendy wypłacone akcjonariuszom jednostki dominującej 
+ (4 818) 
+ (4 818) 
+ (6 385) 
+ - 
+Przepływy netto w ramach systemu cash pool 
+ (1 163) 
+ (530) 
+ 3 705 
+ 128 
+Płatności zobowiązań z tytułu umów leasingu 
+ (434) 
+ (111) 
+ (368) 
+ (88) 
+Otrzymane dotacje 
+ 
+ 208 
+ 208 
+ 
+ 177 
+ 161 
+Pozostałe 
+ (97) 
+ (37) 
+ (173) 
+ (33) 
+Środki pieniężne netto z/(wykorzystane w) działalności finansowej 
+ (5 368) 
+ (247) 
+ (6 283) 
+ 2 341 
+Zwiększenie/(Zmniejszenie) netto stanu środków pieniężnych 
+ (1 468) 
+ 358 
+ (5 113) 
+ (2 328) 
+Zmiana stanu środków pieniężnych z tytułu różnic kursowych 
+ (18) 
+ (5) 
+ 28 
+ 1 
+Środki pieniężne na początek okresu 
+ 2 854 
+ 1 015 
+ 7 939 
+ 5 181 
+Środki pieniężne na koniec okresu 
+ 
+ 1 368 
+ 1 368 
+ 2 854 
+ 2 854 
+w tym środki pieniężne o ograniczonej możliwości dysponowania 
+ 
+ 293 
+ 293 
+ 188 
+ 188 
+ 
+
+ 
+ 
+ GRUPA ORLEN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2024 ROKU 72 / 72 
+ 
+ 
+Niniejszy skonsolidowany raport kwartalny został zatwierdzony przez Zarząd Jednostki Dominującej w dniu 26 lutego 2025 roku. 
+ 
+ 
+ 
+ 
+ 
+………………………..………….. 
+Ireneusz Fąfara 
+Prezes Zarządu 
+ 
+ 
+………………………..………….. 
+Marek Balawejder 
+Członek Zarządu 
+ 
+ 
+………………………..………….. 
+Magdalena Bartoś 
+Wiceprezes Zarządu 
+ 
+ 
+………………………..………….. 
+Witold Literacki 
+Wiceprezes Zarządu 
+ 
+ 
+………………………..………….. 
+Artur Osuchowski 
+Członek Zarządu 
+ 
+ 
+………………………..………….. 
+Wiesław Prugar 
+Członek Zarządu 
+ 
+ 
+………………………..………….. 
+Ireneusz Sitarski 
+Wiceprezes Zarządu 
+ 
+ 
+………………………..………….. 
+Robert Soszyński 
+Wiceprezes Zarządu 
+………………………..………….. 
+Marcin Wasilewski 
+Członek Zarządu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dokument podpisany przez
+MAGDALENA BARTOŚ
+Data: 2025.02.26 09:59:21 CET
+Signature Not Verified
+Dokument podpisany przez MAREK
+BALAWEJDER
+Data: 2025.02.26 10:03:12 CET
+Signature Not Verified
+Dokument podpisany przez Artur
+Osuchowski
+Data: 2025.02.26 10:07:50 CET
+Signature Not Verified
+Dokument podpisany przez Witold Literacki;
+ORLEN S.A.
+Data: 2025.02.26 10:10:36 CET
+Signature Not Verified
+Ireneusz 
+Jan Fąfara
+Elektronicznie 
+podpisany przez 
+Ireneusz Jan Fąfara 
+Data: 2025.02.26 
+10:25:23 +01'00'
+Wiesław 
+Prugar
+Elektronicznie podpisany 
+przez Wiesław Prugar 
+Data: 2025.02.26 10:31:26 
++01'00'
+Dokument podpisany przez Ireneusz
+Robert Sitarski
+Data: 2025.02.26 11:41:57 CET
+Signature Not Verified
+MARCIN
+WASILEWSKI
+2025-02-26
+Dokument podpisany przez ROBERT
+SOSZYŃSKI
+Data: 2025.02.26 13:19:42 CET
+Signature Not Verified

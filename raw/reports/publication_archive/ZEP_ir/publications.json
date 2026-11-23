@@ -1,0 +1,315 @@
+{
+  "issuer": "ZEP",
+  "published": [
+    {
+      "report_id": "ZEP-2019-AR",
+      "publication_date": "2020-04-03",
+      "published_at": "2020-04-03T21:08:27+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=349360",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2020",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1362-skonsolidowany-raport-roczny-grupy-ze-pak-sa-za-rok-2019.html",
+      "title": "Skonsolidowany Raport Roczny Grupy ZE PAK SA za rok 2019",
+      "archive_form": "RS"
+    },
+    {
+      "report_id": "ZEP-2019-H1",
+      "publication_date": "2019-09-19",
+      "published_at": "2019-09-19T19:38:12+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=338393",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2019",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1301-rozszerzony-skonsolidowany-raport-polroczny-za-i-polrocze-2019-roku.html",
+      "title": "Rozszerzony skonsolidowany raport półroczny za I półrocze 2019 roku",
+      "archive_form": "PSr"
+    },
+    {
+      "report_id": "ZEP-2019-Q1",
+      "publication_date": "2019-05-15",
+      "published_at": "2019-05-15T17:45:45+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=329229",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2019",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1273-raport-kwartalny-za-i-kwartal-2019-roku.html",
+      "title": "Raport kwartalny za I kwartał 2019 roku",
+      "archive_form": "QSr"
+    },
+    {
+      "report_id": "ZEP-2019-Q3",
+      "publication_date": "2019-11-14",
+      "published_at": "2019-11-14T18:45:42+01:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=341377",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2019",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1316-rozszerzony-skonsolidowany-raport-kwartalny-za-iii-kwartal-2019-roku.html",
+      "title": "Rozszerzony skonsolidowany raport kwartalny za III kwartał 2019 roku",
+      "archive_form": "QSr"
+    },
+    {
+      "report_id": "ZEP-2020-AR",
+      "publication_date": "2021-04-19",
+      "published_at": "2021-04-19T22:18:37+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=372402",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2021",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1579-skonsolidowany-raport-roczny-grupy-ze-pak-sa-za-rok-2020.html",
+      "title": "Skonsolidowany Raport Roczny Grupy ZE PAK SA za rok 2020",
+      "archive_form": "RS"
+    },
+    {
+      "report_id": "ZEP-2020-H1",
+      "publication_date": "2020-09-30",
+      "published_at": "2020-09-30T19:56:36+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=360994",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2020",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1466-rozszerzony-skonsolidowany-raport-polroczny-za-i-polrocze-2020-roku.html",
+      "title": "Rozszerzony skonsolidowany raport półroczny za I półrocze 2020 roku",
+      "archive_form": "PSr"
+    },
+    {
+      "report_id": "ZEP-2020-Q1",
+      "publication_date": "2020-06-29",
+      "published_at": "2020-06-29T18:22:25+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=355107",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2020",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1429-rozszerzony-skonsolidowany-raport-kwartalny-za-i-kwartal-2020-roku.html",
+      "title": "Rozszerzony skonsolidowany raport kwartalny za I kwartał 2020 roku",
+      "archive_form": "QSr"
+    },
+    {
+      "report_id": "ZEP-2020-Q3",
+      "publication_date": "2020-11-25",
+      "published_at": "2020-11-25T17:53:51+01:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=364303",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2020",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1498-rozszerzony-skonsolidowany-raport-kwartalny-za-iii-kwartal-2020-roku.html",
+      "title": "Rozszerzony skonsolidowany raport kwartalny za III kwartał 2020 roku",
+      "archive_form": "QSr"
+    },
+    {
+      "report_id": "ZEP-2021-AR",
+      "publication_date": "2022-04-30",
+      "published_at": "2022-04-30T06:15:04+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=395752",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2022",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1707-skonsolidowany-raport-roczny-grupy-ze-pak-sa-za-rok-2021.html",
+      "title": "Skonsolidowany Raport Roczny Grupy ZE PAK SA za rok 2021",
+      "archive_form": "SRR"
+    },
+    {
+      "report_id": "ZEP-2021-H1",
+      "publication_date": "2021-09-24",
+      "published_at": "2021-09-24T18:28:07+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=382593",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2021",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1622-rozszerzony-skonsolidowany-raport-polroczny-za-i-polrocze-2021-roku.html",
+      "title": "Rozszerzony skonsolidowany raport półroczny za I półrocze 2021 roku",
+      "archive_form": "PSr"
+    },
+    {
+      "report_id": "ZEP-2021-Q1",
+      "publication_date": "2021-05-28",
+      "published_at": "2021-05-28T20:15:56+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=375547",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2021",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1589-rozszerzony-skonsolidowany-raport-kwartalny-za-i-kwartal-2021-roku.html",
+      "title": "Rozszerzony skonsolidowany raport kwartalny za I kwartał 2021 roku",
+      "archive_form": "QSr"
+    },
+    {
+      "report_id": "ZEP-2021-Q3",
+      "publication_date": "2021-11-26",
+      "published_at": "2021-11-26T18:15:19+01:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=386476",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2021",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1634-rozszerzony-skonsolidowany-raport-kwartalny-za-iii-kwartal-2021-roku.html",
+      "title": "Rozszerzony skonsolidowany raport kwartalny za III kwartał 2021 roku",
+      "archive_form": "QSr"
+    },
+    {
+      "report_id": "ZEP-2022-AR",
+      "publication_date": "2023-04-27",
+      "published_at": "2023-04-27T23:41:50+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=418800",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2023",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1836-skonsolidowany-raport-roczny-grupy-ze-pak-sa-za-rok-2022.html",
+      "title": "Skonsolidowany Raport Roczny Grupy ZE PAK SA za rok 2022",
+      "archive_form": "SRR"
+    },
+    {
+      "report_id": "ZEP-2022-H1",
+      "publication_date": "2022-09-29",
+      "published_at": "2022-09-29T22:45:58+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=405015",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2022",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1762-rozszerzony-skonsolidowany-raport-polroczny-za-i-polrocze-2022-roku.html",
+      "title": "Rozszerzony skonsolidowany raport półroczny za I półrocze 2022 roku",
+      "archive_form": "PSr"
+    },
+    {
+      "report_id": "ZEP-2022-Q1",
+      "publication_date": "2022-05-26",
+      "published_at": "2022-05-26T18:21:06+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=397472",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2022",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1723-rozszerzony-skonsolidowany-raport-kwartalny-za-i-kwartal-2022-roku.html",
+      "title": "Rozszerzony skonsolidowany raport kwartalny za I kwartał 2022 roku",
+      "archive_form": "QSr"
+    },
+    {
+      "report_id": "ZEP-2022-Q3",
+      "publication_date": "2022-11-29",
+      "published_at": "2022-11-29T19:17:49+01:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=408105",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2022",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1777-rozszerzony-skonsolidowany-raport-kwartalny-za-iii-kwartal-2022-roku.html",
+      "title": "Rozszerzony skonsolidowany raport kwartalny za III kwartał 2022 roku",
+      "archive_form": "QSr"
+    },
+    {
+      "report_id": "ZEP-2023-AR",
+      "publication_date": "2024-04-30",
+      "published_at": "2024-04-30T18:02:53+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=440042",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2024",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1947-skonsolidowany-raport-roczny-grupy-ze-pak-sa-za-rok-2023.html",
+      "title": "Skonsolidowany Raport Roczny Grupy ZE PAK SA za rok 2023",
+      "archive_form": "SRR"
+    },
+    {
+      "report_id": "ZEP-2023-H1",
+      "publication_date": "2023-09-28",
+      "published_at": "2023-09-28T22:22:51+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=427762",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2023",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1879-rozszerzony-skonsolidowany-raport-polroczny-za-i-polrocze-2023-roku.html",
+      "title": "Rozszerzony skonsolidowany raport półroczny za I półrocze 2023 roku",
+      "archive_form": "PSr"
+    },
+    {
+      "report_id": "ZEP-2023-Q1",
+      "publication_date": "2023-05-30",
+      "published_at": "2023-05-30T20:31:03+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=421184",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2023",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1848-rozszerzony-skonsolidowany-raport-kwartalny-za-i-kwartal-2023-roku.html",
+      "title": "Rozszerzony skonsolidowany raport kwartalny za I kwartał 2023 roku",
+      "archive_form": "QSr"
+    },
+    {
+      "report_id": "ZEP-2023-Q3",
+      "publication_date": "2023-11-29",
+      "published_at": "2023-11-29T23:20:09+01:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=431676",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2023",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1891-rozszerzony-skonsolidowany-raport-kwartalny-za-iii-kwartal-2023-roku.html",
+      "title": "Rozszerzony skonsolidowany raport kwartalny za III kwartał 2023 roku",
+      "archive_form": "QSr"
+    },
+    {
+      "report_id": "ZEP-2024-AR",
+      "publication_date": "2025-04-30",
+      "published_at": "2025-04-30T20:13:49+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=465350",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2025",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/2027-skonsolidowany-raport-roczny-grupy-kapitalowej-ze-pak-sa-za-2024-rok.html",
+      "title": "Skonsolidowany Raport Roczny Grupy Kapitałowej ZE PAK SA za 2024 rok",
+      "archive_form": "SRR"
+    },
+    {
+      "report_id": "ZEP-2024-H1",
+      "publication_date": "2024-09-24",
+      "published_at": "2024-09-24T19:38:30+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=452937",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2024",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1999-rozszerzony-skonsolidowany-raport-polroczny-za-i-polrocze-2024-roku.html",
+      "title": "Rozszerzony skonsolidowany raport półroczny za I półrocze 2024 roku",
+      "archive_form": "PSr"
+    },
+    {
+      "report_id": "ZEP-2024-Q1",
+      "publication_date": "2024-05-28",
+      "published_at": "2024-05-28T18:59:59+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=442085",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2024",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/1961-rozszerzony-skonsolidowany-raport-kwartalny-za-i-kwartal-2024-roku.html",
+      "title": "Rozszerzony skonsolidowany raport kwartalny za I kwartał 2024 roku",
+      "archive_form": "QSr"
+    },
+    {
+      "report_id": "ZEP-2024-Q3",
+      "publication_date": "2024-11-26",
+      "published_at": "2024-11-26T19:25:35+01:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=456132",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2024",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/2011-rozszerzony-skonsolidowany-raport-kwartalny-za-iii-kwartal-2024-roku.html",
+      "title": "Rozszerzony skonsolidowany raport kwartalny za III kwartał 2024 roku",
+      "archive_form": "QSr"
+    },
+    {
+      "report_id": "ZEP-2025-AR",
+      "publication_date": "2026-04-28",
+      "published_at": "2026-04-28T22:01:25+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=487450",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2026",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/2206-skonsolidowany-raport-roczny-grupy-kapitalowej-ze-pak-sa-za-2025-rok.html",
+      "title": "Skonsolidowany Raport Roczny Grupy Kapitałowej ZE PAK SA za 2025 rok",
+      "archive_form": "SRR"
+    },
+    {
+      "report_id": "ZEP-2025-H1",
+      "publication_date": "2025-09-30",
+      "published_at": "2025-09-30T20:05:29+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=474592",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2025",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/2098-rozszerzony-skonsolidowany-raport-polroczny-za-i-polrocze-2025-roku.html",
+      "title": "Rozszerzony skonsolidowany raport półroczny za I półrocze 2025 roku",
+      "archive_form": "PSr"
+    },
+    {
+      "report_id": "ZEP-2025-Q1",
+      "publication_date": "2025-05-30",
+      "published_at": "2025-05-30T18:33:46+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=467533",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2025",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/2051-rozszerzony-skonsolidowany-raport-kwartalny-za-i-kwartal-2025-roku.html",
+      "title": "Rozszerzony skonsolidowany raport kwartalny za I kwartał 2025 roku",
+      "archive_form": "QSr"
+    },
+    {
+      "report_id": "ZEP-2025-Q3",
+      "publication_date": "2025-11-28",
+      "published_at": "2025-11-28T18:11:17+01:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=477774",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2025",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/2136-rozszerzony-skonsolidowany-raport-kwartalny-za-iii-kwartal-2025-roku.html",
+      "title": "Rozszerzony skonsolidowany raport kwartalny za III kwartał 2025 roku",
+      "archive_form": "QSr"
+    },
+    {
+      "report_id": "ZEP-2026-H1",
+      "publication_date": "2026-09-25",
+      "published_at": "2026-09-25T19:25:06+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=497712",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2026",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/2258-rozszerzony-skonsolidowany-raport-polroczny-za-i-polrocze-2026-roku.html",
+      "title": "Rozszerzony skonsolidowany raport półroczny za I półrocze 2026 roku",
+      "archive_form": "PSr"
+    },
+    {
+      "report_id": "ZEP-2026-Q1",
+      "publication_date": "2026-05-29",
+      "published_at": "2026-05-29T00:16:33+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=490137",
+      "ir_listing_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe.html?y=2026",
+      "detail_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/2214-rozszerzony-skonsolidowany-raport-kwartalny-za-i-kwartal-2026-roku.html",
+      "title": "Rozszerzony skonsolidowany raport kwartalny za I kwartał 2026 roku",
+      "archive_form": "QSr"
+    }
+  ],
+  "document_publications": [
+    {
+      "file": "ZEP_2021_AR_sprawozdanie-zarzadu.pdf",
+      "report_id": "ZEP-2021-AR",
+      "scope": "standalone",
+      "publication_date": "2022-04-30",
+      "published_at": "2022-04-30T06:10:54+02:00",
+      "source_url": "https://www.gpw.pl/komunikat?geru_id=395751"
+    }
+  ]
+}

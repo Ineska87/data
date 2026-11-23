@@ -1,0 +1,5908 @@
+ŚRÓDROCZNE SKRÓCONE 
+SKONSOLIDOWANE SPRAWOZDANIE 
+FINANSOWE GRUPY KAPITAŁOWEJ 
+UNIMOT 
+wrzesień 2024 
+za I półrocze 2024 roku 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 2 
+ 
+WYBRANE 
+DANE 
+ZE 
+ŚRÓDROCZNEGO 
+SKONSOLIDOWANEGO 
+SPRAWOZDANIA FINANSOWEGO 
+ 
+ 
+ 
+ 
+ 
+ 
+w tys. zł 
+ 
+w tys. euro 
+ 
+ 
+30.06.2024 
+Dane 
+porównawcze 
+(dane 
+przekształcone) 
+30.06.2024 
+Dane 
+porównawcze 
+(dane 
+przekształcone) 
+I. Przychody ze sprzedaży 
+6 479 278 
+6 528 344 
+1 502 999 
+1 415 206 
+II. Zysk/(strata) na działalności operacyjnej 
+98 896 
+596 560 
+22 941 
+129 321 
+III. Zysk/(strata) brutto 
+76 006 
+569 776 
+17 631 
+123 515 
+IV. Zysk/(strata) netto przypadający na 
+Akcjonariuszy Jednostki Dominującej 
+55 747 
+538 105 
+12 932 
+116 650 
+V. Zysk/(strata) netto 
+55 396 
+538 143 
+12 850 
+116 658 
+VI. Przepływy pieniężne netto z działalności 
+operacyjnej 
+(203 240) 
+(49 561) 
+(47 146) 
+(10 744) 
+VII. Przepływy pieniężne netto z działalności 
+inwestycyjnej 
+(38 852) 
+(164 839) 
+(9 013) 
+(35 734) 
+VIII. Przepływy pieniężne netto z działalności 
+finansowej 
+(44 509) 
+117 771 
+(10 325) 
+25 530 
+IX. Przepływy pieniężne netto, razem 
+(287 364) 
+(99 675) 
+(66 660) 
+(21 607) 
+X. Aktywa razem 
+3 604 347 
+3 137 233 
+835 694 
+721 535 
+XI. Zobowiązania i rezerwy na zobowiązania 
+2 471 160 
+2 059 361 
+572 956 
+473 634 
+XII. Zobowiązania długoterminowe 
+848 121 
+839 320 
+196 643 
+193 036 
+XIII. Zobowiązania krótkoterminowe 
+1 623 039 
+1 220 041 
+376 313 
+280 598 
+XIV. Kapitał własny 
+1 133 187 
+1 077 872 
+262 738 
+247 901 
+XV. Kapitał zakładowy 
+8 198 
+8 198 
+1 901 
+1 885 
+XVI. Liczba akcji (w tys. szt.) 
+8 198 
+8 198 
+- 
+- 
+XVII. Zysk/(strata) na jedną akcję zwykłą 
+przypadający na Akcjonariuszy Jednostki 
+Dominującej (w zł/euro) 
+6,80 
+65,64 
+1,58 
+14,23 
+XVIII. Rozwodniony zysk/(strata) na jedną akcję 
+zwykłą przypadający na Akcjonariuszy Jednostki 
+Dominującej (w zł/euro) 
+6,80 
+65,64 
+1,58 
+14,23 
+XIX. Wartość księgowa na jedną akcję (w 
+zł/euro) 
+138,23 
+131,48 
+32,05 
+30,24 
+XX. Rozwodniona wartość księgowa na jedną 
+akcję (w zł/euro) 
+138,23 
+131,48 
+32,05 
+30,24 
+ 
+Dane porównawcze dla pozycji dotyczących sprawozdania z sytuacji finansowej prezentowane są na dzień 31 grudnia 
+2023 r., natomiast dla pozycji dotyczących sprawozdania z całkowitych dochodów i sprawozdania z przepływów 
+pieniężnych za okres od 1 stycznia 2023 r. do 30 czerwca 2023 r. 
+Na 30 czerwca 2024 r. liczba akcji użyta do wyliczenia zysku na jedną akcję zwykłą oraz rozwodnionego zysku na 
+jedną akcję zwykłą wynosiła 8 198 tys. sztuk. 
+Na 30 czerwca 2023 r. liczba akcji użyta do wyliczenia zysku na jedną akcję zwykłą oraz rozwodnionego zysku na 
+jedną akcję zwykłą wynosiła 8 198 tys. sztuk. 
+Na 30 czerwca 2024 r. liczba akcji użyta do wyliczenia wartości księgowej oraz rozwodnionej wartości księgowej na 
+jedną akcję wynosiła 8 198 tys. sztuk. 
+Na 31 grudnia 2023 r. liczba akcji użyta do wyliczenia wartości księgowej oraz rozwodnionej wartości księgowej na 
+jedną akcję wynosiła 8 198 tys. sztuk. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 3 
+ 
+Wybrane dane finansowe przeliczono na walutę euro w następujący sposób: 
+Pozycje aktywów i pasywów sprawozdania z sytuacji finansowej przeliczono na euro wg średniego kursu ogłoszonego 
+przez Narodowy Bank Polski obowiązującego na 28 czerwca 2024 r.: 4,3130 zł/euro oraz dla danych porównawczych 
+na 29 grudnia 2023 r.: 4,3480 zł/euro. 
+Poszczególne pozycje dotyczące sprawozdania z całkowitych dochodów oraz sprawozdania z przepływów pieniężnych 
+przeliczono wg kursu stanowiącego średnią arytmetyczną średnich kursów ogłaszanych przez Narodowy Bank Polski 
+obowiązujących 
+na 
+ostatni 
+dzień 
+kalendarzowy 
+poszczególnych 
+miesięcy, 
+który 
+wyniósł 
+odpowiednio 4,3109 zł/euro (6 miesięcy 2024 r.), 4,6130 zł/euro (6 miesięcy 2023 r.). 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 4 
+ 
+SPIS TREŚCI 
+WYBRANE DANE ZE ŚRÓDROCZNEGO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO ........ 2 
+ŚRÓDROCZNE 
+SKRÓCONE 
+SKONSOLIDOWANE 
+SPRAWOZDANIE 
+FINANSOWE 
+SPORZĄDZONE 
+ZGODNIE 
+Z 
+MIĘDZYNARODOWYMI 
+STANDARDAMI 
+SPRAWOZDAWCZOŚCI 
+FINANSOWEJ 
+ZATWIERDZONYMI PRZEZ UNIĘ EUROPEJSKĄ ...................................................................................... 6 
+ŚRÓDROCZNE SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ .................................. 6 
+ŚRÓDROCZNE SKONSOLIDOWANE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ (c.d.) ........................ 7 
+ŚRÓDROCZNE SKONSOLIDOWANE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW ........................... 8 
+ŚRÓDROCZNE SKONSOLIDOWANE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH ......................... 9 
+ŚRÓDROCZNE SKONSOLIDOWANE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM .................. 10 
+1. 
+INFORMACJE 
+OBJAŚNIAJĄCE 
+DO 
+ŚRÓDROCZNEGO 
+SKRÓCONEGO 
+SKONSOLIDOWANEGO 
+SPRAWOZDANIA FINANSOWEGO......................................................................................................... 12 
+1.1. INFORMACJE OGÓLNE .......................................................................................................................... 12 
+1.1.1. INFORMACJE O JEDNOSTCE DOMINUJĄCEJ ........................................................................................ 12 
+1.1.2. SKŁAD GRUPY KAPITAŁOWEJ UNIMOT ............................................................................................... 13 
+1.1.3. SKŁAD ORGANÓW ZARZĄDCZYCH I NADZORUJĄCYCH JEDNOSTKI DOMINUJĄCEJ ................................ 14 
+1.2. PODSTAWA SPORZĄDZENIA ŚRÓDROCZNEGO SKRÓCONEGO SKONSOLIDOWANEGO SPRAWOZDANIA 
+FINANSOWEGO ........................................................................................................................................... 14 
+1.3. ISTOTNE ZASADY (POLITYKI) RACHUNKOWOŚCI ................................................................................... 15 
+1.4. PRZEKSZTAŁCENIE DANYCH PORÓWNAWCZYCH ................................................................................... 16 
+2. DODATKOWE NOTY OBJAŚNIAJĄCE DO ŚRÓDROCZNEGO SKRÓCONEGO SKONSOLIDOWANEGO 
+SPRAWOZDANIA FINANSOWEGO......................................................................................................... 19 
+2.1. INFORMACJE DOTYCZĄCE SEGMENTÓW OPERACYJNYCH ....................................................................... 19 
+2.1.1. SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW W PODZIALE NA SEGMENTY OPERACYJNE .................. 20 
+2.1.2. SPRAWOZDANIE Z SYTUACJI FINANSOWEJ W PODZIALE NA SEGMENTY OPERACYJNE ......................... 28 
+2.1.3. INFORMACJE DOTYCZĄCE OBSZARÓW GEOGRAFICZNYCH SPRZEDAŻY ................................................ 29 
+2.2. PRZYCHODY ZE SPRZEDAŻY.................................................................................................................. 29 
+2.3. KOSZTY WEDŁUG RODZAJU .................................................................................................................. 30 
+2.4. KOSZTY SPRZEDANYCH PRODUKTÓW, USŁUG, TOWARÓW I MATERIAŁÓW ........................................... 30 
+2.5. PRZYCHODY/(KOSZTY) FINANSOWE ...................................................................................................... 31 
+2.6. PODATEK DOCHODOWY ....................................................................................................................... 31 
+2.7. EFEKTYWNA STOPA PODATKOWA ......................................................................................................... 32 
+2.8. RZECZOWE AKTYWA TRWAŁE ............................................................................................................... 32 
+2.9. PRAWO DO UŻYTKOWANIA AKTYWÓW ................................................................................................. 33 
+2.10. POZOSTAŁE AKTYWA FINANSOWE ...................................................................................................... 33 
+2.11. ZAPASY .............................................................................................................................................. 34 
+2.12. NALEŻNOŚCI HANDLOWE ORAZ POZOSTAŁE NALEŻNOŚCI ................................................................... 34 
+2.13. ŚRODKI PIENIĘŻNE I ICH EKWIWALENTY ............................................................................................ 34 
+2.14. ZOBOWIĄZANIA Z TYTUŁU DOSTAW I USŁUG ORAZ POZOSTAŁE ZOBOWIĄZANIA KRÓTKOTERMINOWE 35 
+2.15. ZOBOWIĄZANIA Z TYTUŁU UMÓW Z KLIENTAMI .................................................................................. 35 
+2.16. REZERWY ........................................................................................................................................... 35 
+2.17. ZOBOWIĄZANIA Z TYTUŁU KREDYTÓW, POŻYCZEK, LEASINGU ORAZ KREDYTÓW W RACHUNKU BIEŻĄCYM
+ .................................................................................................................................................................. 36 
+2.18. INSTRUMENTY FINANSOWE ................................................................................................................ 39 
+2.19. POCHODNE INSTRUMENTY FINANSOWE .............................................................................................. 40 
+2.20. POZOSTAŁE ZOBOWIĄZANIA ............................................................................................................... 41 
+2.21. DYWIDENDY WYPŁACONE I ZAPROPONOWANE DO WYPŁATY .............................................................. 42 
+2.22. TRANSAKCJE ORAZ STAN ROZRACHUNKÓW Z PODMIOTAMI POWIĄZANYMI ......................................... 42 
+2.23. INFORMACJE O TRANSAKCJACH Z CZŁONKAMI ZARZĄDU I RADY NADZORCZEJ .................................... 43 
+2.24. ZOBOWIĄZANIA WARUNKOWE, UDZIELONE PORĘCZENIA I GWARANCJE .............................................. 44 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 5 
+ 
+2.25. PRZYSZŁE ZOBOWIĄZANIA UMOWNE .................................................................................................. 45 
+2.26. SEZONOWOŚĆ DZIAŁALNOŚCI ............................................................................................................ 45 
+2.27. NOTA OBJAŚNIAJĄCA DO SPRAWOZDANIA Z PRZEPŁYWÓW PIENIĘŻNYCH ........................................... 46 
+2.28. ZDARZENIA PO DNIU BILANSOWYM .................................................................................................... 46 
+3. OŚWIADCZENIE 
+ZARZĄDU 
+I 
+ZATWIERDZENIE 
+ŚRÓDROCZNEGO 
+SKRÓCONEGO 
+SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO GRUPY KAPITAŁOWEJ UNIMOT................ 47 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 6 
+ 
+ŚRÓDROCZNE 
+SKRÓCONE 
+SKONSOLIDOWANE 
+SPRAWOZDANIE 
+FINANSOWE 
+SPORZĄDZONE 
+ZGODNIE 
+Z 
+MIĘDZYNARODOWYMI 
+STANDARDAMI SPRAWOZDAWCZOŚCI FINANSOWEJ ZATWIERDZONYMI 
+PRZEZ UNIĘ EUROPEJSKĄ 
+ŚRÓDROCZNE 
+SKONSOLIDOWANE 
+SPRAWOZDANIE 
+Z 
+SYTUACJI 
+FINANSOWEJ 
+w tysiącach złotych 
+Nota 
+30.06.2024 
+31.12.2023 
+ 
+(niebadane) 
+ 
+AKTYWA TRWAŁE 
+ 
+ 
+ 
+Rzeczowe aktywa trwałe 
+2.8 
+796 651 
+791 984 
+Prawo do użytkowania aktywów 
+2.9 
+261 465 
+233 725 
+Wartości niematerialne 
+ 
+307 169 
+324 673 
+Wartość firmy 
+ 
+39 535 
+39 469 
+Pozostałe aktywa finansowe 
+2.10 
+1 555 
+986 
+Pochodne instrumenty finansowe 
+2.19 
+9 058 
+703 
+Należności długoterminowe 
+ 
+12 249 
+11 783 
+Aktywa z tytułu umów z klientami 
+ 
+8 510 
+9 406 
+Aktywa z tytułu odroczonego podatku dochodowego 
+ 
+44 474 
+43 898 
+AKTYWA TRWAŁE RAZEM 
+ 
+1 480 666 
+1 456 627 
+AKTYWA OBROTOWE 
+ 
+ 
+ 
+Zapasy 
+2.11 
+842 431 
+382 618 
+Aktywa z tytułu umów z klientami 
+ 
+3 828 
+3 790 
+Należności handlowe oraz pozostałe należności 
+2.12 
+857 624 
+840 515 
+Pozostałe aktywa finansowe 
+2.10 
+31 057 
+11 454 
+Pochodne instrumenty finansowe 
+2.19 
+19 573 
+14 697 
+Należności z tytułu podatku dochodowego 
+ 
+26 115 
+7 335 
+Środki pieniężne i ich ekwiwalenty 
+2.13 
+315 533 
+410 232 
+Pozostałe aktywa obrotowe 
+ 
+27 520 
+9 965 
+AKTYWA OBROTOWE RAZEM 
+ 
+2 123 681 
+1 680 606 
+AKTYWA RAZEM 
+ 
+3 604 347 
+3 137 233 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 7 
+ 
+ŚRÓDROCZNE 
+SKONSOLIDOWANE 
+SPRAWOZDANIE 
+Z 
+SYTUACJI 
+FINANSOWEJ (c.d.) 
+w tysiącach złotych 
+Nota 
+30.06.2024 
+31.12.2023 
+ 
+(niebadane) 
+ 
+KAPITAŁ WŁASNY 
+ 
+ 
+ 
+Kapitał zakładowy 
+ 
+8 198 
+8 198 
+Pozostałe kapitały 
+ 
+312 050 
+312 050 
+Różnice kursowe z przeliczenia jednostek zagranicznych 
+ 
+(1 367) 
+(1 087) 
+Zyski/(straty) aktuarialne 
+ 
+(999) 
+(999) 
+Wynik z lat ubiegłych i wynik roku bieżącego 
+ 
+814 533 
+758 786 
+Kapitał własny Akcjonariuszy Jednostki Dominującej 
+ 
+1 132 415 
+1 076 948 
+Udziały niekontrolujące 
+ 
+772 
+924 
+KAPITAŁ WŁASNY RAZEM 
+ 
+1 133 187 
+1 077 872 
+ZOBOWIĄZANIA DŁUGOTERMINOWE 
+ 
+ 
+ 
+Zobowiązania z tytułu kredytów, pożyczek, leasingu oraz innych instrumentów 
+dłużnych 
+2.17 
+544 376 
+523 366 
+Pochodne instrumenty finansowe 
+2.19 
+4 421 
+17 318 
+Pozostałe zobowiązania finansowe 
+2.20 
+159 249 
+169 050 
+Zobowiązania z tytułu świadczeń pracowniczych 
+ 
+33 180 
+28 976 
+Rezerwy 
+2.16 
+18 842 
+18 365 
+Rezerwy z tytułu odroczonego podatku dochodowego 
+ 
+88 053 
+82 245 
+ZOBOWIĄZANIA DŁUGOTERMINOWE RAZEM 
+ 
+848 121 
+839 320 
+ZOBOWIĄZANIA KRÓTKOTERMINOWE 
+ 
+ 
+ 
+Kredyty w rachunku bieżącym 
+ 
+491 178 
+298 513 
+Zobowiązania z tytułu kredytów, pożyczek, leasingu oraz innych instrumentów 
+dłużnych 
+2.17 
+225 143 
+195 848 
+Pochodne instrumenty finansowe 
+2.19 
+17 737 
+9 914 
+Zobowiązania z tytułu świadczeń pracowniczych 
+ 
+6 807 
+6 884 
+Rezerwy 
+2.16 
+17 086 
+18 254 
+Zobowiązania z tytułu podatku dochodowego 
+ 
+3 180 
+186 
+Zobowiązania z tytułu umów z klientami 
+2.15 
+46 362 
+104 421 
+Zobowiązania z tytułu dostaw i usług oraz pozostałe 
+2.14 
+815 546 
+586 021 
+ZOBOWIĄZANIA KRÓTKOTERMINOWE RAZEM 
+ 
+1 623 039 
+1 220 041 
+ZOBOWIĄZANIA RAZEM 
+ 
+2 471 160 
+2 059 361 
+PASYWA RAZEM 
+ 
+3 604 347 
+3 137 233 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 8 
+ 
+ŚRÓDROCZNE SKONSOLIDOWANE SPRAWOZDANIE Z CAŁKOWITYCH 
+DOCHODÓW 
+w tysiącach złotych 
+Nota 
+01.01.2024 
+30.06.2024 
+01.04.2024 
+30.06.2024 
+01.01.2023 
+30.06.2023 
+01.04.2023 
+30.06.2023 
+ 
+(niebadane) (niebadane) 
+(niebadane) 
+(dane 
+przekształcone) 
+(niebadane) 
+(dane 
+przekształcone) 
+SPRAWOZDANIE Z ZYSKÓW I STRAT 
+ 
+ 
+ 
+ 
+ 
+Przychody ze sprzedaży 
+2.2 
+6 483 070 
+3 473 658 
+6 500 323 
+3 228 079 
+Zyski/(straty) z tytułu instrumentów 
+finansowych dotyczących działalności 
+podstawowej 
+ 
+(3 792) 
+9 722 
+28 021 
+20 936 
+Koszty sprzedanych produktów, usług, towarów 
+i materiałów 
+2.4 
+(6 079 829) 
+(3 260 631) 
+(6 086 651) 
+(3 056 175) 
+Zysk/(strata) brutto ze sprzedaży 
+ 
+399 449 
+222 749 
+441 693 
+192 840 
+Pozostałe przychody operacyjne 
+ 
+3 064 
+829 
+4 556 
+3 571 
+Koszty sprzedaży 
+ 
+(227 564) 
+(126 945) 
+(217 257) 
+(103 228) 
+Koszty ogólnego zarządu 
+ 
+(68 171) 
+(34 084) 
+(63 800) 
+(39 911) 
+Pozostałe zyski/(straty) netto 
+ 
+37 
+(72) 
+436 445 
+435 649 
+w tym: Zysk z tytułu okazyjnego nabycia Lotos 
+Terminale 
+ 
+- 
+- 
+434 972 
+434 972 
+Pozostałe koszty operacyjne 
+ 
+(7 919) 
+(4 469) 
+(5 077) 
+(1 388) 
+Zysk/(strata) na działalności operacyjnej 
+ 
+98 896 
+58 008 
+596 560 
+487 533 
+Przychody finansowe 
+ 
+21 216 
+15 822 
+3 420 
+2 278 
+Koszty finansowe 
+ 
+(44 106) 
+(22 814) 
+(30 204) 
+(24 305) 
+Przychody/(koszty) finansowe netto 
+2.5 
+(22 890) 
+(6 992) 
+(26 784) 
+(22 027) 
+Zysk/(strata) przed opodatkowaniem 
+ 
+76 006 
+51 016 
+569 776 
+465 506 
+Podatek dochodowy 
+2.6 
+(20 610) 
+(12 371) 
+(31 633) 
+(9 353) 
+Zysk/(strata) netto za okres 
+sprawozdawczy 
+ 
+55 396 
+38 645 
+538 143 
+456 153 
+w tym przypadający na: 
+ 
+ 
+ 
+ 
+- 
+- Akcjonariuszy Jednostki Dominującej 
+ 
+55 747 
+38 528 
+538 105 
+456 275 
+- Udziały niekontrolujące 
+ 
+(351) 
+117 
+38 
+(122) 
+ 
+ 
+ 
+ 
+- 
+Zysk/(strata) przypadający na 1 akcję 
+przypisany Akcjonariuszom Jednostki 
+Dominującej (w PLN) 
+ 
+6,80 
+4,70 
+65,64 
+55,66 
+Rozwodniony zysk/(strata) przypadający na 1 
+akcję przypisany Akcjonariuszom Jednostki 
+Dominującej (w PLN) 
+ 
+6,80 
+4,70 
+65,64 
+55,66 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inne całkowite dochody/(straty) 
+ 
+ 
+ 
+ 
+ 
+Inne całkowite dochody/(straty), które 
+mogą zostać przeniesione do 
+sprawozdania z zysków i strat 
+ 
+(280) 
+(92) 
+(104) 
+(87) 
+Różnice kursowe z przeliczenia jednostek 
+działających za granicą 
+ 
+(280) 
+(92) 
+(104) 
+(87) 
+Inne całkowite dochody/(straty) ogółem 
+ 
+(280) 
+(92) 
+(104) 
+(87) 
+ 
+ 
+ 
+ 
+- 
+Całkowite dochody/(straty) ogółem za 
+okres sprawozdawczy 
+ 
+55 116 
+38 553 
+538 039 
+456 066 
+w tym przypadające na: 
+ 
+ 
+ 
+ 
+- 
+- Akcjonariuszy Jednostki Dominującej 
+ 
+55 467 
+38 436 
+538 001 
+456 188 
+- Udziały niekontrolujące 
+ 
+(351) 
+117 
+38 
+(122) 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 9 
+ 
+ŚRÓDROCZNE SKONSOLIDOWANE SPRAWOZDANIE Z PRZEPŁYWÓW 
+PIENIĘŻNYCH 
+w tysiącach złotych 
+Nota 
+01.01.2024 
+30.06.2024 
+01.01.2023 
+30.06.2023 
+ 
+(niebadane) 
+(niebadane) 
+(dane 
+przekształcone) 
+Przepływy pieniężne z działalności operacyjnej 
+ 
+ 
+ 
+Zysk/(strata) przed opodatkowaniem 
+ 
+76 006 
+569 776 
+Korekty o pozycje: 
+ 
+ 
+ 
+Amortyzacja rzeczowych aktywów trwałych oraz prawa do użytkowania aktywów 
+ 
+48 845 
+25 864 
+Amortyzacja wartości niematerialnych 
+ 
+17 892 
+9 345 
+Strata/(zysk) z tytułu różnic kursowych 
+ 
+(2 653) 
+2 943 
+Strata/(zysk) ze sprzedaży rzeczowych aktywów trwałych 
+ 
+(37) 
+(1 473) 
+Odsetki, koszty transakcyjne (dotyczące kredytów i pożyczek) i dywidendy, netto 
+ 
+39 431 
+20 047 
+Zmiana stanu należności i pozostałych aktywów obrotowych 
+2.27 
+(53 639) 
+(33 612) 
+Zmiana stanu zapasów 
+ 
+(459 813) 
+(159 543) 
+Zmiana stanu aktywów z tytułu umów z klientami 
+ 
+858 
+443 
+Zmiana stanu zobowiązań z tytułu umów z klientami 
+ 
+(58 059) 
+(33 119) 
+Zmiana stanu zobowiązań z tytułu dostaw i usług oraz pozostałych 
+2.27 
+219 611 
+32 440 
+Zmiana stanu rezerw 
+ 
+(691) 
+(240) 
+Zmiana stanu zobowiązań z tytułu świadczeń pracowniczych 
+ 
+4 127 
+(802) 
+Wynik na wycenie instrumentów pochodnych 
+ 
+(18 305) 
+(8 826) 
+Zysk z tytułu okazyjnego nabycia Lotos Terminale 
+ 
+- 
+(434 972) 
+Podatek dochodowy zapłacony 
+ 
+(16 813) 
+(37 832) 
+Przepływy pieniężne netto z działalności operacyjnej 
+ 
+(203 240) 
+(49 561) 
+Przepływy pieniężne z działalności inwestycyjnej 
+ 
+ 
+ 
+Wpływy z tytułu sprzedaży rzeczowych aktywów trwałych i wartości niematerialnych 
+1 664 
+1 758 
+Odsetki otrzymane 
+ 
+3 683 
+3 420 
+Wpływy z tytułu realizacji instrumentów zabezpieczających stopy procentowe 
+ 
+68 
+- 
+Wydatki netto na nabycie jednostek zależnych 
+ 
+2 
+(78 108) 
+Nabycie rzeczowych aktywów trwałych i wartości niematerialnych 
+ 
+(24 097) 
+(126 269) 
+Wpływy z pozostałych aktywów finansowych 
+ 
+(406) 
+44 021 
+Wydatki na pozostałe aktywa finansowe 
+ 
+(19 766) 
+(20) 
+Zaliczki przekazane na poczet nabycia rzeczowych aktywów trwałych 
+ 
+- 
+(9 641) 
+Przepływy pieniężne netto z działalności inwestycyjnej 
+ 
+(38 852) 
+(164 839) 
+Przepływy pieniężne z działalności finansowej 
+ 
+ 
+ 
+Zaciągnięcie kredytów, pożyczek oraz innych instrumentów dłużnych 
+ 
+141 615 
+379 540 
+Spłata zaciągniętych kredytów, pożyczek oraz innych instrumentów dłużnych 
+ 
+(118 738) 
+(13 107) 
+Spłata kredytu bankowego Lotos Terminale w ramach transakcji 
+ 
+- 
+(99 771) 
+Dywidendy wypłacone 
+ 
+- 
+(112 228) 
+Płatność zobowiązań z tytułu umów leasingu finansowego 
+ 
+(23 941) 
+(11 015) 
+Odsetki oraz koszty transakcyjne zapłacone 
+ 
+(43 445) 
+(25 648) 
+Przepływy pieniężne netto z działalności finansowej 
+ 
+(44 509) 
+117 771 
+Zmiana stanu środków pieniężnych i ich ekwiwalentów 
+ 
+(286 601) 
+(96 629) 
+Wpływ zmian z tytułu różnic kursowych dotyczących środków pieniężnych i ich 
+ekwiwalentów 
+ 
+(763) 
+(3 046) 
+Zmiana stanu środków pieniężnych i ich ekwiwalentów 
+ 
+(287 364) 
+(99 675) 
+Środki pieniężne i ich ekwiwalenty po pomniejszeniu 
+o kredyty w rachunku bieżącym na początek okresu 
+ 
+111 719 
+105 709 
+Środki pieniężne i ich ekwiwalenty po pomniejszeniu 
+o kredyty w rachunku bieżącym na koniec okresu 
+ 
+(175 645) 
+6 034 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ 
+Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 10 
+ 
+ŚRÓDROCZNE SKONSOLIDOWANE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM 
+w tysiącach złotych 
+(niebadane) 
+Kapitał 
+zakładowy 
+Pozostałe 
+kapitały (w 
+tym akcje 
+własne) 
+Różnice 
+kursowe z 
+przeliczenia 
+jednostek 
+zagranicznych 
+Zyski/(straty) 
+aktuarialne 
+Wynik z 
+lat 
+ubiegłych 
+Wynik 
+roku 
+bieżącego 
+Kapitał 
+własny 
+akcjonariuszy 
+Jednostki 
+Dominującej 
+Udziały 
+niekontrolujące 
+Kapitał 
+własny 
+razem 
+Kapitał własny na dzień 
+01.01.2024 
+8 198 
+312 050 
+(1 087) 
+(999) 
+271 548 
+487 238 
+1 076 948 
+924 
+1 077 872 
+Całkowite dochody za rok 
+obrotowy 
+- 
+- 
+(280) 
+- 
+- 
+55 747 
+55 467 
+(351) 
+55 116 
+- Zysk/(strata) netto za okres 
+- 
+- 
+- 
+- 
+- 
+55 747 
+55 747 
+(351) 
+55 396 
+- Inne całkowite dochody/(straty) za 
+rok obrotowy 
+- 
+- 
+(280) 
+- 
+- 
+- 
+(280) 
+- 
+(280) 
+Zmiany w strukturze Grupy 
+Kapitałowej 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+199 
+199 
+Przeniesienie zysku /(straty) 
+- 
+- 
+- 
+- 
+487 238 
+(487 238) 
+- 
+- 
+- 
+Kapitał własny na dzień 
+30.06.2024 
+8 198 
+312 050 
+(1 367) 
+(999) 
+758 786 
+55 747 
+1 132 415 
+772 
+1 133 187 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ 
+Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 11 
+ 
+ 
+w tysiącach złotych 
+(niebadane) 
+(dane przekształcone) 
+Kapitał 
+zakładowy 
+Pozostałe 
+kapitały 
+(w tym 
+akcje 
+własne) 
+Różnice 
+kursowe z 
+przeliczenia 
+jednostek 
+zagranicznych 
+Zyski/(straty) 
+aktuarialne 
+Wynik z 
+lat 
+ubiegłych 
+Wynik 
+roku 
+bieżącego 
+Kapitał 
+własny 
+akcjonariuszy 
+Jednostki 
+Dominującej 
+Udziały 
+niekontrolujące 
+Kapitał 
+własny razem 
+Kapitał własny na dzień 
+01.01.2023 
+8 198 
+306 992 
+(56) 
+- 
+14 985 
+373 955 
+704 074 
+(280) 
+703 794 
+Całkowite dochody za rok 
+obrotowy 
+- 
+- 
+(104) 
+- 
+- 
+538 105 
+538 001 
+38 
+538 039 
+ - Zysk/(strata) netto za okres 
+- 
+- 
+- 
+- 
+- 
+538 105 
+538 105 
+38 
+538 143 
+ - Inne całkowite dochody/straty za 
+rok obrotowy 
+- 
+- 
+(104) 
+- 
+- 
+- 
+(104) 
+- 
+(104) 
+Dywidenda 
+- 
+- 
+- 
+- 
+- 
+(112 228) 
+(112 228) 
+- 
+(112 228) 
+Pozostałe 
+- 
+(23) 
+- 
+- 
+- 
+- 
+(23) 
+- 
+(23) 
+Przejęcie jednostek gospodarczych 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+(164) 
+(164) 
+Przeniesienie zysku 
+- 
+5 058 
+- 
+- 
+256 669 
+(261 727) 
+- 
+- 
+- 
+Kapitał własny na dzień 
+30.06.2023 
+8 198 
+312 027 
+(160) 
+- 
+271 654 
+538 105 
+1 129 824 
+(406) 
+1 129 418 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 12 
+ 
+1. INFORMACJE OBJAŚNIAJĄCE DO ŚRÓDROCZNEGO SKRÓCONEGO 
+SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO 
+1.1. INFORMACJE OGÓLNE 
+1.1.1. INFORMACJE O JEDNOSTCE DOMINUJĄCEJ 
+Unimot Spółka Akcyjna (“Unimot”, “Spółka”, “Jednostka Dominująca”) z siedzibą w Zawadzkiem przy 
+ul. Świerklańskiej 2A jest Jednostką Dominującą Grupy Kapitałowej UNIMOT ("Grupa Kapitałowa", "Grupa"). 
+Spółka została wpisana w dniu 29 marca 2011 roku do Rejestru Przedsiębiorców Sądu Rejonowego w Opolu w Polsce, 
+VIII Wydział Gospodarczy Krajowego Rejestru Sądowego pod numerem KRS: 0000382244. 
+ 
+PODSTAWOWE INFORMACJE O JEDNOSTCE DOMINUJĄCEJ 
+NAZWA 
+Unimot S.A. 
+FORMA PRAWNA 
+Spółka Akcyjna 
+SIEDZIBA 
+ul. Świerklańska 2A, 47-120 Zawadzkie, Polska 
+KRS 
+0000382244 - Sąd Rejonowy w Opolu, VIII Wydział 
+Gospodarczy Krajowego Rejestru Sądowego, Polska 
+REGON 
+160384226 
+NIP 
+7561967341 
+PODSTAWOWY PRZEDMIOT DZIAŁALNOŚCI 
+Kontrolowanie i zarządzanie innymi spółkami w branży 
+paliwowej i energetycznej oraz branżach pokrewnych, 
+planowanie strategiczne i organizacyjne oraz procesy 
+podejmowania decyzji; Prowadzenie działalności 
+handlowej w ramach stacji paliw pod marką AVIA; Obrót 
+gazem ziemnym. 
+PODSTAWOWE MIEJSCE PROWADZENIA 
+DZIAŁALNOŚCI 
+Polska 
+ 
+Zakresy podstawowej działalności poszczególnych spółek wchodzących w skład Grupy Kapitałowej UNIMOT 
+przedstawiono w nocie 1.1.2. 
+Czas trwania Jednostki Dominującej oraz jednostek wchodzących w skład Grupy Kapitałowej jest nieoznaczony. 
+Akcje Unimot S.A. od dnia 7 marca 2017 r. notowane są na rynku regulowanym Giełdy Papierów Wartościowych 
+w Warszawie (Polska). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 13 
+ 
+1.1.2. SKŁAD GRUPY KAPITAŁOWEJ UNIMOT 
+ 
+Grupa Kapitałowa UNIMOT składa się z Jednostki Dominującej, którą jest Unimot Spółka Akcyjna oraz jednostek 
+zależnych. 
+Na dzień 30 czerwca 2024 r. Grupę Kapitałową UNIMOT tworzyły następujące spółki bezpośrednio 
+i pośrednio zależne, objęte konsolidacją pełną: 
+Nazwa jednostki 
+Siedziba 
+Segment 
+Zakres podstawowej działalności jednostki 
+Posiadane 
+udziały i 
+prawa głosu 
+UNIMOT SYSTEM 
+Sp. z o.o. 
+Warszawa, 
+Polska 
+Gaz ziemny 
+Sprzedaż i dystrybucja paliw gazowych w systemie 
+sieciowym 
+100,00% 
+BLUE LNG Sp. z o. 
+o. 
+Warszawa, 
+Polska 
+Gaz ziemny 
+Sprzedaż i dystrybucja paliw gazowych w systemie 
+sieciowym 
+100,00% 
+UNIMOT PALIWA 
+Sp. z o.o. 
+Zawadzkie, 
+Polska 
+Paliwa ciekłe 
+ LPG 
+Działalność 
+pozostała 
+Sprzedaż hurtowa paliw i produktów pochodnych 
+100,00% 
+UNIMOT ENERGIA I 
+GAZ Sp. z o.o. 
+Warszawa, 
+Polska 
+Gaz ziemny 
+Energia elektryczna 
+OZE 
+Obrót energią elektryczną i paliwami gazowymi 
+100,00% 
+TRADEA Sp. z o.o. 
+Częstochowa, 
+Polska 
+Energia elektryczna 
+Handel energią elektryczną 
+100,00% 
+UNIMOT UKRAINE 
+LLC 
+Lwów, Ukraina 
+Paliwa ciekłe 
+Dystrybucja paliw ciekłych 
+100,00% 
+UNIMOT ASIA LLC 
+Szanghaj, 
+Chiny 
+Działalność 
+pozostała 
+Dystrybucja produktów ropopochodnych 
+100,00% 
+UNIMOT ENERGY 
+LLC 
+Kijów, Ukraina 
+Energia elektryczna 
+Dystrybucja energii elektrycznej 
+100,00% 
+OPERATOR 
+KLASTRA ENERGII 
+Sp. z o.o. 
+Żywiec, Polska 
+OZE 
+Planowanie, wytwarzanie i koordynacja dystrybucji 
+energii, konsulting, działania doradcze 
+80,00% 
+UNIMOT CENTRUM 
+USŁUG 
+WSPÓLNYCH Sp. z 
+o.o. 
+Warszawa, 
+Polska 
+Działalność 
+pozostała 
+Spółka celowa nieprowadząca działalności 
+operacyjnej 
+100,00% 
+UNIMOT B1 Sp. z 
+o.o. 
+Warszawa, 
+Polska 
+Działalność 
+pozostała 
+Spółka celowa nieprowadząca działalności 
+operacyjnej 
+100,00% 
+UNIMOT SA 
+(Unimot LTD) 
+Genewa, 
+Szwajcaria 
+Paliwa ciekłe 
+Dystrybucja paliw ciekłych 
+100,00% 
+ŻYWIEC OZE-1 Sp. 
+z o.o. 
+Żywiec, Polska 
+OZE 
+Wytwarzanie energii elektrycznej 
+100,00% 
+OLAVION Sp. z o.o. 
+Gdańsk, Polska 
+Infrastruktura i 
+logistyka 
+Transport kolejowy i usługi spedycyjne 
+90,00% 
+UNIMOT 
+TERMINALE Sp. z o. 
+o. 
+CzechowiceDziedzice, 
+Polska 
+Infrastruktura i 
+logistyka 
+Magazynowanie i dystrybucja paliw 
+100,00% 
+UNIMOT 
+INFRASTRUKTURA 
+Sp. z o.o. 
+Jasło, Polska 
+Infrastruktura i 
+logistyka 
+Magazynowanie i dystrybucja paliw, wynajem i 
+zarządzanie nieruchomościami 
+100,00% 
+UNIMOT BITUMEN 
+Sp. z o.o. 
+Gdańsk, Polska 
+Bitumen 
+Produkcja asfaltów 
+100,00% 
+RCEKOENERGIA Sp. 
+z o.o. 
+CzechowiceDziedzice, 
+Polska 
+Infrastruktura i 
+logistyka 
+Wytwarzanie, przesył, dystrybucja oraz obrót 
+mediami energetycznymi 
+100,00% 
+UNIMOT AVIATION 
+Sp. z o. o. 
+Warszawa, 
+Polska 
+Paliwa ciekłe 
+Obrót paliwem lotniczym 
+75,00% 
+UNIMOT AVIATION 
+SERVICES Sp. z o. 
+o. 
+Warszawa, 
+Polska 
+Paliwa ciekłe 
+Działalność usługowa wspomagająca transport 
+lotniczy 
+75,00% 
+UNIMOT 
+COMMODITIES Sp. 
+z o. o. 
+Katowice, 
+Polska 
+Paliwa stałe 
+Działalność logistyczno-handlowa w branży 
+surowców energetycznych (węgiel) 
+80,00% 
+MOT LLC 
+Kijów, Ukraina 
+Działalność 
+pozostała 
+Budowa i użytkowanie obiektów przemysłowych 
+100,00% 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 14 
+ 
+Zmiany w strukturze Grupy Kapitałowej w I półroczu 2024 r.: 
+16 lutego 2024 r., spółka zależna Unimot S.A., Unimot Ukraine LLC, nabyła 100% udziałów w ukraińskiej spółce MOT 
+LLC. 
+1.1.3. SKŁAD ORGANÓW ZARZĄDCZYCH I NADZORUJĄCYCH JEDNOSTKI 
+DOMINUJĄCEJ 
+Na dzień bilansowy oraz na dzień sporządzenia niniejszego skonsolidowanego sprawozdania finansowego, skład 
+organów zarządczych i nadzorujących Jednostki Dominującej był następujący: 
+ 
+Skład Zarządu na dzień 30 czerwca 2024 r. oraz na dzień sporządzenia niniejszego sprawozdania 
+finansowego: 
+• 
+Adam Sikorski - Prezes Zarządu 
+• 
+Robert Brzozowski - Wiceprezes Zarządu 
+• 
+Filip Kuropatwa - Wiceprezes Zarządu 
+• 
+Aneta Szczesna-Kowalska – Wiceprezes Zarządu 
+• 
+Michał Hojowski – Wiceprezes Zarządu 
+ 
+Skład Rady Nadzorczej na dzień 30 czerwca 2024 r. oraz na dzień sporządzenia niniejszego 
+sprawozdania finansowego: 
+• 
+Andreas Golombek - Przewodniczący Rady Nadzorczej 
+• 
+Czesław Władysław Sadkowski - Członek Rady Nadzorczej 
+• 
+Lidia Banach-Hoheker - Członek Rady Nadzorczej 
+• 
+Piotr Cieślak - Członek Rady Nadzorczej 
+• 
+Yiannis Petrallis - Członek Rady Nadzorczej 
+• 
+Piotr Prusakiewicz - Członek Rady Nadzorczej 
+• 
+Magdalena Katarzyna Sikorska - Członek Rady Nadzorczej 
+1.2. PODSTAWA 
+SPORZĄDZENIA 
+ŚRÓDROCZNEGO 
+SKRÓCONEGO 
+SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO 
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe zostało sporządzone zgodnie z 
+Międzynarodowym Standardem Rachunkowości nr 34 „Śródroczna Sprawozdawczość Finansowa” zatwierdzonym 
+przez Unię Europejską („MSR 34”). 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe nie obejmuje wszystkich informacji oraz ujawnień 
+wymaganych w rocznym sprawozdaniu finansowym i należy je czytać łącznie ze skonsolidowanym sprawozdaniem 
+finansowym Grupy za rok zakończony 31 grudnia 2023 r., które zostało opublikowane w dniu 23 kwietnia 2024 r. 
+Niniejsze śródroczne skonsolidowane sprawozdanie finansowe jest przedstawione w złotych („PLN”), a wszystkie 
+wartości, o ile nie wskazano inaczej, podane są w tysiącach PLN. 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe Grupy przedstawia sytuację finansową Grupy 
+Kapitałowej UNIMOT („Grupa”, „Grupa UNIMOT”, „GK”) na dzień 30 czerwca 2024 r. oraz 31 grudnia 2023 r., wyniki 
+jej działalności oraz przepływy pieniężne za okres 6 i 3 miesięcy zakończony 30 czerwca 2024 r. oraz 30 czerwca 
+2023 r. 
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe było przedmiotem przeglądu przez biegłego 
+rewidenta. 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 15 
+ 
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe Grupy UNIMOT zostało sporządzone przy założeniu 
+kontynuowania działalności gospodarczej przez Jednostkę Dominującą oraz spółki Grupy UNIMOT w dającej się 
+przewidzieć przyszłości. Na dzień sporządzenia niniejszego śródrocznego skróconego skonsolidowanego 
+sprawozdania finansowego nie stwierdza się istnienia okoliczności wskazujących na zagrożenia kontynuowania 
+działalności. 
+1.3. ISTOTNE ZASADY (POLITYKI) RACHUNKOWOŚCI 
+Zasady rachunkowości przyjęte przez Grupę UNIMOT zostały opisane w sprawozdaniu finansowym Grupy za rok 
+zakończony 31 grudnia 2023 r. 
+ 
+Zasady 
+(polityki) 
+rachunkowości 
+zastosowane 
+do 
+sporządzenia 
+niniejszego 
+śródrocznego 
+skróconego 
+skonsolidowanego sprawozdania finansowego za okres 6 miesięcy 2024 r. są spójne z tymi, które zastosowano przy 
+sporządzaniu rocznego skonsolidowanego sprawozdania finansowego za rok zakończony 31 grudnia 2023 r., które 
+zostało opublikowane w dniu 23 kwietnia 2024 r., z wyjątkiem zastosowania nowych lub zmienionych standardów, 
+interpretacji obowiązujących dla okresów rocznych rozpoczynających się dnia 1 stycznia 2024 r. i później. 
+ 
+Zastosowane nowe lub zmienione standardy oraz interpretacje obowiązujące dla okresów rocznych 
+rozpoczynających się od 1 stycznia 2024 r. i później: 
+• 
+Zmiany do MSR 1: Prezentacja sprawozdań finansowych – Podział zobowiązań na krótkoterminowe 
+i długoterminowe oraz Podział zobowiązań na krótkoterminowe i długoterminowe – odroczenie daty wejścia 
+w życie oraz Zobowiązania długoterminowe zawierające kowenanty 
+• 
+Zmiany do MSSF 16 Leasing: Zobowiązanie leasingowe w transakcji sprzedaży i leasingu zwrotnego 
+• 
+Zmiany do MSR 7: Sprawozdanie z przepływów pieniężnych i MSSF 7: Instrumenty finansowe: Ujawnianie 
+informacji: Umowy finansowania dostawców 
+Zmienione standardy oraz interpretacje, które mają zastosowanie po raz pierwszy w 2024 r., nie mają istotnego 
+wpływu na śródroczne skrócone skonsolidowane sprawozdanie finansowe Grupy. 
+ 
+Nowe standardy i interpretacje, które zostały opublikowane, a nie weszły jeszcze w życie: 
+Następujące standardy i interpretacje zostały opublikowane przez Radę Międzynarodowych Standardów 
+Rachunkowości, jednak nie weszły jeszcze w życie: 
+• 
+MSSF 14 Regulacyjne rozliczenia międzyokresowe (opublikowano dnia 30 stycznia 2014 r.) – zgodnie 
+z decyzją Komisji Europejskiej proces zatwierdzania standardu w wersji wstępnej nie zostanie zainicjowany 
+przed ukazaniem się standardu w wersji ostatecznej - do dnia zatwierdzenia niniejszego sprawozdania 
+finansowego niezatwierdzony przez UE – mający zastosowanie dla okresów rocznych rozpoczynających się 
+dnia 1 stycznia 2016 r. lub później; 
+• 
+Zmiany do MSSF 10 i MSR 28: Transakcje sprzedaży lub wniesienia aktywów pomiędzy inwestorem a jego 
+jednostką stowarzyszoną lub wspólnym przedsięwzięciem (opublikowano dnia 11 września 2014 r.) – prace 
+prowadzące do zatwierdzenia niniejszych zmian zostały przez UE odłożone bezterminowo - termin wejścia w 
+życie został odroczony przez RMSR na czas nieokreślony; 
+• 
+Zmiany do MSR 21: Skutki zmian kursów wymiany walut obcych: Brak możliwości wymiany walut 
+(opublikowano dnia 15 sierpnia 2023 r.) - do dnia zatwierdzenia niniejszego sprawozdania finansowego 
+niezatwierdzone przez UE – mająca zastosowanie dla okresów rocznych rozpoczynających się dnia 1 stycznia 
+2025 r. lub później; 
+• 
+MSSF 18: Prezentacja i ujawnienia w sprawozdaniach finansowych (opublikowano dnia 9 kwietnia 2024 r.) 
+– do dnia zatwierdzenia niniejszego sprawozdania finansowego niezatwierdzone przez UE – mające 
+zastosowanie do okresów rocznych rozpoczynających się dnia 1 stycznia 2027 r. lub później; 
+• 
+MSSF 19 Jednostki zależne bez odpowiedzialności publicznej: Ujawnianie informacji (obowiązujący w 
+odniesieniu do okresów rocznych rozpoczynających się dnia 1 stycznia 2027 roku lub po tej dacie), 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 16 
+ 
+• 
+Zmiany do MSSF 9 i MSSF 7: Zmiany dotyczące klasyfikacji i wyceny instrumentów finansowych 
+(obowiązujące w odniesieniu do okresów rocznych rozpoczynających się dnia 1 stycznia 2026 r. lub później), 
+Na dzień zatwierdzenia niniejszego śródrocznego sprawozdania finansowego do publikacji Zarząd nie zakończył 
+jeszcze prac nad oceną wpływu wprowadzenia pozostałych standardów oraz interpretacji na stosowane przez Grupę 
+zasady (politykę) rachunkowości w odniesieniu do działalności Grupy lub jej wyników finansowych. 
+Grupa nie zdecydowała się na wcześniejsze zastosowanie żadnego standardu, interpretacji lub zmiany, która została 
+opublikowana, lecz nie weszła dotychczas w życie w świetle przepisów Unii Europejskiej. 
+ 
+1.4. PRZEKSZTAŁCENIE DANYCH PORÓWNAWCZYCH 
+W skonsolidowanym sprawozdaniu finansowym za I półrocze 2023 r. Grupa prezentowała ustalone prowizorycznie 
+rozliczenie transakcji nabycia Lotos Terminale S.A. oraz Olavion Sp. z o.o., natomiast w skonsolidowanym 
+sprawozdaniu finansowym za 2023 rok Grupa zaprezentowała ostateczne rozliczenie transakcji. W wyniku ustalenia 
+finalnych wartości godziwych cen przejęcia oraz nabytych aktywów i przejętych zobowiązań na dzień przejęcia dla 
+powyższych transakcji, Grupa dokonała przekształcenia danych porównawczych prezentowanych w niniejszym 
+sprawozdaniu finansowym. Korekty danych porównawczych wynikających z zakończenia księgowego rozliczenia 
+przejęć zostały przedstawione w tabelach. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 17 
+ 
+w tysiącach złotych 
+6 MIESIĘCY 
+ZAKOŃCZONE 
+30.06.2023 
+Korekty danych 
+porównawczych 
+wynikających z 
+6 MIESIĘCY 
+ZAKOŃCZONE 
+30.06.2023 
+ 
+(niebadane dane 
+opublikowane) 
+zakończenia 
+księgowego 
+rozliczenia 
+przejęć 
+(niebadane dane 
+przekształcone) 
+SPRAWOZDANIE Z ZYSKÓW I STRAT 
+ 
+ 
+ 
+Przychody ze sprzedaży 
+6 500 323 
+- 
+6 500 323 
+Zyski/(straty) z tytułu instrumentów finansowych 
+dotyczących działalności podstawowej 
+28 021 
+- 
+28 021 
+Koszty sprzedanych produktów, usług, towarów i 
+materiałów 
+(6 077 742) 
+(8 909) 
+(6 086 651) 
+Zysk/(strata) brutto ze sprzedaży 
+450 602 
+(8 909) 
+441 693 
+Pozostałe przychody operacyjne 
+4 556 
+ 
+4 556 
+Koszty sprzedaży 
+(215 283) 
+(1 974) 
+(217 257) 
+Koszty ogólnego zarządu 
+(63 403) 
+(397) 
+(63 800) 
+Pozostałe zyski/(straty) netto 
+1 473 
+434 972 
+436 445 
+w tym: Zysk z tytułu okazyjnego nabycia Lotos Terminale 
+- 
+434 972 
+434 972 
+Pozostałe koszty operacyjne 
+(5 077) 
+ 
+(5 077) 
+Zysk/(strata) na działalności operacyjnej 
+172 868 
+423 692 
+596 560 
+Przychody finansowe 
+3 420 
+- 
+3 420 
+Koszty finansowe 
+(28 588) 
+(1 616) 
+(30 204) 
+Przychody/(koszty) finansowe netto 
+(25 168) 
+(1 616) 
+(26 784) 
+Zysk/(strata) przed opodatkowaniem 
+147 700 
+422 076 
+569 776 
+Podatek dochodowy 
+(33 800) 
+2 167 
+(31 633) 
+Zysk/(strata) netto za okres sprawozdawczy 
+113 900 
+424 243 
+538 143 
+w tym przypadający na: 
+ 
+ 
+ 
+- Akcjonariuszy Jednostki Dominującej 
+113 862 
+424 243 
+538 105 
+- Udziały niekontrolujące 
+38 
+- 
+38 
+ 
+ 
+ 
+ 
+Zysk/(strata) przypadający na 1 akcję przypisany 
+Akcjonariuszom Jednostki Dominującej (w PLN) 
+13,89 
+51,75 
+65,64 
+Rozwodniony zysk/(strata) przypadający na 1 akcję 
+przypisany Akcjonariuszom Jednostki Dominującej (w PLN) 
+13,89 
+51,75 
+65,64 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inne całkowite dochody/(straty) 
+ 
+ 
+ 
+Inne całkowite dochody/(straty), które mogą zostać 
+przeniesione do sprawozdania z zysków i strat 
+(104) 
+- 
+(104) 
+Różnice kursowe z przeliczenia jednostek działających za 
+granicą 
+(104) 
+- 
+(104) 
+Inne całkowite dochody/(straty) ogółem 
+(104) 
+- 
+(104) 
+ 
+ 
+ 
+Całkowite dochody/(straty) ogółem za okres 
+sprawozdawczy 
+113 796 
+424 243 
+538 039 
+w tym przypadające na: 
+ 
+ 
+ 
+- Akcjonariuszy Jednostki Dominującej 
+113 758 
+424 243 
+538 001 
+- Udziały niekontrolujące 
+38 
+- 
+38 
+ 
+W stosunku do danych prezentowanych w śródrocznym skonsolidowanym sprawozdaniu finansowym za I półrocze 
+2023 r., w wyniku zakończenia procesów rozliczenia nabycia akcji Lotos Terminale i udziałów Olavion Sp. z o.o. 
+zmianie uległy następujące pozycje przychodów i kosztów: 
+• 
+Koszty sprzedanych produktów, usług, towarów i materiałów, których wartość za I półrocze 2023 r. wzrosła 
+do 6 086 651 tys. złotych, w wyniku naliczenia amortyzacji rozpoznanej wartości niematerialnej - korzystnego 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 18 
+ 
+kontraktu na dostawę bitumenu (7 969 tys. złotych) oraz w wyniku naliczenia amortyzacji przeszacowanych 
+do wartości godziwej rzeczowych aktywów trwałych Grupy Unimot Terminale (940 tys. złotych) 
+• 
+Koszty sprzedaży i ogólnego zarządu, które wzrosły odpowiednio do kwot: 217 257 tys. złotych oraz 63 800 
+tys. złotych w wyniku naliczenia amortyzacji przeszacowanych do wartości godziwej rzeczowych aktywów 
+trwałych Grupy Unimot Terminale (1 268 tys. złotych) oraz w wyniku naliczenia amortyzacji rozpoznanych 
+wartości niematerialnych Olavion (1 103 tys. złotych). 
+• 
+Pozostałe zyski/(straty) netto, które wzrosły do kwoty 436 445 tys. złotych, z uwagi na wykazanie w tej linii 
+Zysku z tytułu okazyjnego nabycia Lotos Terminale, który wyniósł 434 972 tys. złotych, stanowiącego różnicę 
+pomiędzy finalnie ustaloną wartością godziwą nabytych aktywów netto w kwocie: 825 087 tys. złotych, a 
+wartością godziwą przekazanej zapłaty w kwocie: 390 115 tys. złotych. 
+• 
+Koszty finansowe, których wartość wzrosła do kwoty 30 204 tys. złotych, w wyniku wykazania w tej linii 
+wyceny do wartości godziwej zobowiązania finansowego z tytułu płatności warunkowej za akcje Lotos 
+Terminale w kwocie 1 616 tys. złotych. 
+• 
+W efekcie powyższych korekt, zmianie uległa również wartość podatku dochodowego, który po 
+przekształceniu danych wyniósł: 31 633 tys. złotych. 
+ 
+w tysiącach złotych 
+6 MIESIĘCY 
+ZAKOŃCZONE 
+30.06.2023 
+Korekty danych 
+porównawczych 
+wynikających z 
+6 MIESIĘCY 
+ZAKOŃCZONE 
+30.06.2023 
+(niebadane dane 
+opublikowane) 
+zakończenia 
+księgowego 
+rozliczenia 
+przejęć 
+(niebadane dane 
+przekształcone) 
+Przepływy pieniężne z działalności operacyjnej 
+ 
+ 
+ 
+Zysk/(strata) przed opodatkowaniem 
+147 700 
+422 076 
+569 776 
+Korekty o pozycje: 
+ 
+ 
+ 
+Amortyzacja rzeczowych aktywów trwałych oraz prawa do 
+użytkowania aktywów 
+23 556 
+2 308 
+25 864 
+Amortyzacja wartości niematerialnych 
+374 
+8 971 
+9 345 
+Zmiana stanu zobowiązań z tytułu dostaw i usług oraz 
+pozostałych 
+30 824 
+1 616 
+32 440 
+Zysk z tytułu okazyjnego nabycia Lotos Terminale 
+- 
+(434 972) 
+(434 972) 
+Przepływy pieniężne netto z działalności operacyjnej 
+(49 561) 
+- 
+(49 561) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 19 
+ 
+2. 
+DODATKOWE 
+NOTY 
+OBJAŚNIAJĄCE 
+DO 
+ŚRÓDROCZNEGO 
+SKRÓCONEGO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO 
+2.1. INFORMACJE DOTYCZĄCE SEGMENTÓW OPERACYJNYCH 
+Zarząd Jednostki Dominującej wyodrębnia następujące segmenty operacyjne: 
+ 
+• 
+Paliwa ciekłe - obejmuje hurtową i detaliczną sprzedaż oleju napędowego, opałowego, benzyn, biopaliw, 
+paliwa żeglugowego i paliwa lotniczego prowadzoną przez Spółki w Grupie. 
+• 
+LPG - obejmuje hurtową i detaliczną sprzedaż gazu płynnego (LPG) prowadzoną przez Spółki w Grupie. 
+• 
+Gaz ziemny - obejmuje dystrybucję paliw gazowych w systemie sieciowym oraz obrót hurtowy gazem 
+ziemnym za pośrednictwem Towarowej Giełdy Energii prowadzoną przez Spółki w Grupie. 
+• 
+Energia elektryczna - obejmuje obrót i dystrybucję energii elektrycznej przez Spółki w Grupie. 
+• 
+Odnawialne źródła energii – działalność Spółek w Grupie związana z fotowoltaiką w obszarze farm 
+fotowoltaicznych oraz sprzedaży i montażu instalacji fotowoltaicznych. 
+• 
+Stacje Paliw - działalność związana z handlem detalicznym paliwami w ramach stacji AVIA. 
+• 
+Bitumen - działalność związana z produkcją i handlem produktami asfaltowymi. 
+• 
+Paliwa stałe – działalność związana z obrotem paliwami stałymi, w tym węglem. 
+• 
+Infrastruktura i logistyka - działalności związanej z transportem kolejowym, usługami spedycyjnymi oraz 
+magazynowaniem paliw. 
+• 
+Działalność pozostała – obejmuje działalność spółek Grupy, które nie wchodzą w zakresy działalności 
+segmentów wymienionych wyżej, m.in: obrót pozostałymi towarami, pozostałe usługi, zarządzanie i 
+administracja (usługi centralne). 
+Począwszy od sprawozdania za I kwartał 2024 r., dokonano zmiany nazwy segmentu obrotu ON i biopaliwami, tj. 
+‘Paliwa (ON i biopaliwa)’ na ‘Paliwa ciekłe’, aby lepiej odzwierciedlać zakres realizowanej działalności prezentowanej 
+w tym segmencie, która skupia się na obrocie olejem napędowym, biopaliwami, benzynami, paliwem żeglugowym i 
+lotniczym, a także olejem opałowym. Poza wyżej wymienioną zmianą, identyfikacja i nazewnictwo segmentów 
+sprawozdawczych są spójne z ostatnim rocznym skonsolidowanym sprawozdaniem finansowym. 
+Wszystkie wyżej wymienione segmenty sprawozdawcze stanowią odrębne segmenty operacyjne. Główny organ 
+odpowiedzialny za podejmowanie decyzji operacyjnych, tj. Zarząd Jednostki Dominującej monitoruje oddzielnie 
+wyniki operacyjne tych segmentów w celu podejmowania decyzji dotyczących alokacji zasobów, oceny skutków tej 
+alokacji oraz wyników działalności. 
+Zgodnie z oceną Zarządu Jednostki Dominującej, wyodrębnione segmenty nie spełniają wszystkich kryteriów 
+agregacji zgodnie z MSSF 8. Zarząd Jednostki Dominującej podjął decyzje o raportowaniu tych segmentów 
+operacyjnych jako odrębne segmenty sprawozdawcze. 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ 
+Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 20 
+ 
+2.1.1. SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW W PODZIALE NA SEGMENTY OPERACYJNE 
+Dane w tys. PLN 
+za okres 
+01.01.202430.06.2024 
+Paliwa 
+ciekłe 
+LPG 
+Gaz ziemny 
+Energia 
+elektryczna 
+Odnawialne 
+źródła 
+energii 
+Stacje 
+Paliw 
+Bitumen Infrastruktura 
+i Logistyka 
+Paliwa 
+stałe 
+Działalność 
+pozostała 
+(w tym funkcje 
+korporacyjne) 
+Eliminacje 
+Razem 
+Przychody ze 
+sprzedaży do 
+odbiorców 
+zewnętrznych 
+4 357 925 
+402 018 
+296 393 
+192 836 
+10 161 
+390 020 
+628 689 
+132 179 
+61 726 
+11 126 
+- 
+6 483 070 
+Zyski/(straty) z tytułu 
+instrumentów 
+finansowych 
+(9 155) 
+- 
+836 
+- 
+- 
+- 
+4 527 
+- 
+- 
+- 
+- 
+(3 792) 
+Sprzedaż pomiędzy 
+segmentami 
+310 649 
+- 
+4 194 
+1 725 
+- 
+- 
+- 
+44 351 
+- 
+- 
+(360 919) 
+- 
+Przychody ogółem 
+4 659 419 
+402 018 
+301 423 
+194 561 
+10 161 
+390 020 
+633 215 
+176 530 
+61 726 
+11 126 
+(360 919) 
+6 479 278 
+Koszt sprzedanych 
+produktów, usług, 
+towarów 
+i materiałów, 
+ogółem 
+(4 539 410) (360 689) 
+(269 693) 
+(178 656) 
+(13 363) 
+(356 789) (516 558) 
+(142 672) 
+(55 638) 
+(7 281) 
+360 919 (6 079 829) 
+Wynik segmentu 
+120 009 
+41 329 
+31 729 
+15 904 
+(3 202) 
+33 231 
+116 657 
+33 857 
+6 088 
+3 846 
+- 
+399 449 
+Pozostałe przychody 
+operacyjne 
+670 
+- 
+165 
+136 
+1 
+- 
+233 
+210 
+25 
+1 625 
+- 
+3 064 
+Koszty sprzedaży i 
+ogólnego zarządu 
+(110 412) 
+(32 343) 
+(13 018) 
+(5 517) 
+(1 292) 
+(37 011) 
+(50 044) 
+(16 300) 
+(6 842) 
+(22 956) 
+- 
+(295 735) 
+Pozostałe zyski/(straty) 
+netto 
+13 
+438 
+(2 214) 
+15 
+3 185 
+344 
+1 
+(604) 
+1 
+(1 142) 
+- 
+37 
+Pozostałe koszty 
+operacyjne 
+(1 552) 
+(498) 
+(652) 
+(285) 
+(10) 
+(1 133) 
+(61) 
+(486) 
+(32) 
+(3 210) 
+- 
+(7 919) 
+Wynik na 
+działalności 
+operacyjnej 
+8 729 
+8 925 
+16 010 
+10 253 
+(1 318) 
+(4 569) 
+66 787 
+16 678 
+(761) 
+(21 838) 
+- 
+98 896 
+Przychody finansowe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21 216 
+Koszty finansowe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(44 106) 
+Podatek dochodowy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(20 610) 
+Zysk / strata za 
+okres 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+55 396 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ 
+Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 21 
+ 
+za okres 
+01.01.202430.06.2024 
+Paliwa 
+ciekłe 
+LPG 
+Gaz ziemny 
+Energia 
+elektryczna 
+Odnawialne 
+źródła 
+energii 
+Stacje 
+Paliw 
+Bitumen Infrastruktura 
+i Logistyka 
+Paliwa 
+stałe 
+Działalność 
+pozostała 
+(w tym funkcje 
+korporacyjne) 
+Eliminacje 
+Razem 
+Główne pozycje 
+niepieniężne: 
+(3 587) 
+(2 621) 
+(3 408) 
+(1 206) 
+(431) 
+(7 805) 
+22 875 
+(21 466) 
+251 
+(1 847) 
+- 
+(19 245) 
+Amortyzacja 
+(7 139) 
+(2 621) 
+(685) 
+(66) 
+(431) 
+(7 805) 
+(20 860) 
+(25 078) 
+(205) 
+(1 847) 
+- 
+(66 737) 
+Wycena bilansowa 
+zapasów do wartości 
+godziwej 
+25 264 
+- 
+3 923 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+29 187 
+Wycena bilansowa 
+instrumentów 
+pochodnych do 
+wartości godziwej 
+(21 712) 
+- 
+(6 646) 
+(1 140) 
+- 
+- 
+43 735 
+3 612 
+456 
+- 
+- 
+18 305 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nakłady 
+inwestycyjne 
+(1) 
+(30) 
+(444) 
+(804) 
+(122) 
+(10 782) 
+(4 058) 
+(7 466) 
+(90) 
+(300) 
+- 
+(24 097) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ 
+Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 22 
+ 
+za okres 
+01.04.202430.06.2024 
+Paliwa 
+ciekłe 
+LPG 
+Gaz ziemny 
+Energia 
+elektryczna 
+Odnawialne 
+źródła 
+energii 
+Stacje 
+Paliw 
+Bitumen Infrastruktura 
+i Logistyka 
+Paliwa 
+stałe 
+Działalność 
+pozostała 
+(w tym funkcje 
+korporacyjne) 
+Eliminacje 
+Razem 
+Przychody ze 
+sprzedaży do 
+odbiorców 
+zewnętrznych 
+2 267 066 
+185 651 
+97 563 
+112 106 
+3 958 
+204 961 
+495 564 
+66 332 
+35 556 
+4 902 
+- 
+3 473 658 
+Zyski/(straty) z tytułu 
+instrumentów 
+finansowych 
+4 798 
+- 
+731 
+- 
+- 
+- 
+4 193 
+- 
+- 
+- 
+- 
+9 722 
+Sprzedaż pomiędzy 
+segmentami 
+160 526 
+- 
+4 194 
+1 725 
+- 
+- 
+- 
+25 529 
+- 
+- 
+(191 974) 
+- 
+Przychody ogółem 
+2 432 390 
+185 651 
+102 488 
+113 831 
+3 958 
+204 961 
+499 756 
+91 861 
+35 556 
+4 902 
+(191 974) 
+3 483 380 
+Koszt sprzedanych 
+produktów, usług, 
+towarów 
+i materiałów, 
+ogółem 
+(2 369 184) (163 537) 
+(87 301) 
+(107 779) 
+(7 397) 
+(186 477) (421 695) 
+(73 098) 
+(30 988) 
+(5 149) 
+191 974 (3 260 631) 
+Wynik segmentu 
+63 206 
+22 114 
+15 187 
+6 052 
+(3 440) 
+18 484 
+78 061 
+18 763 
+4 568 
+(247) 
+- 
+222 749 
+Pozostałe przychody 
+operacyjne 
+84 
+- 
+19 
+119 
+1 
+- 
+28 
+29 
+13 
+537 
+- 
+829 
+Koszty sprzedaży i 
+ogólnego zarządu 
+(56 436) 
+(16 494) 
+(8 452) 
+(2 653) 
+(520) 
+(19 101) 
+(32 045) 
+(8 658) 
+(3 579) 
+(13 091) 
+- 
+(161 029) 
+Pozostałe zyski/(straty) 
+netto 
+1 122 
+(1 330) 
+(2 087) 
+- 
+2 762 
+262 
+1 
+(605) 
+(12) 
+(184) 
+- 
+(72) 
+Pozostałe koszty 
+operacyjne 
+(1 189) 
+(1) 
+(10) 
+(124) 
+- 
+(1 053) 
+(39) 
+(181) 
+- 
+(1 872) 
+- 
+(4 469) 
+Wynik na 
+działalności 
+operacyjnej 
+6 787 
+4 288 
+4 658 
+3 393 
+(1 197) 
+(1 409) 
+46 007 
+9 347 
+990 
+(14 856) 
+- 
+58 008 
+Przychody finansowe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 822 
+Koszty finansowe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(22 814) 
+Podatek dochodowy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(12 371) 
+Zysk / strata za 
+okres 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38 645 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ 
+Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 23 
+ 
+za okres 
+01.04.202430.06.2024 
+Paliwa 
+ciekłe 
+LPG 
+Gaz ziemny 
+Energia 
+elektryczna 
+Odnawialne 
+źródła 
+energii 
+Stacje 
+Paliw 
+Bitumen Infrastruktura 
+i Logistyka 
+Paliwa 
+stałe 
+Działalność 
+pozostała 
+(w tym funkcje 
+korporacyjne) 
+Eliminacje 
+Razem 
+Główne pozycje 
+niepieniężne: 
+(10 540) 
+(1 368) 
+(1 021) 
+(920) 
+(214) 
+(4 092) 
+(484) 
+(11 940) 
+321 
+(956) 
+- 
+(31 214) 
+Amortyzacja 
+(3 787) 
+(1 368) 
+(343) 
+(36) 
+(214) 
+(4 092) 
+(10 526) 
+(12 645) 
+(135) 
+(956) 
+- 
+(34 102) 
+Wycena bilansowa 
+zapasów do wartości 
+godziwej 
+10 063 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+10 063 
+Wycena bilansowa 
+instrumentów 
+pochodnych do 
+wartości godziwej 
+(16 816) 
+- 
+(678) 
+(884) 
+- 
+- 
+10 042 
+705 
+456 
+- 
+- 
+(7 175) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nakłady 
+inwestycyjne 
+(1) 
+(5) 
+(131) 
+(411) 
+(56) 
+(8 403) 
+(2 767) 
+(6 951) 
+(90) 
+(33) 
+- 
+(18 848) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ 
+Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 24 
+ 
+za okres 
+01.01.2023 - 
+30.06.2023 
+(dane 
+przekształcone) 
+Paliwa 
+ciekłe 
+LPG 
+Gaz ziemny 
+Energia 
+elektryczna 
+Odnawialne 
+źródła 
+energii 
+Stacje 
+Paliw 
+Bitumen Infrastruktura 
+i Logistyka 
+Paliwa 
+stałe 
+Działalność 
+pozostała 
+(w tym funkcje 
+korporacyjne) 
+Eliminacje 
+Razem 
+Przychody ze 
+sprzedaży do 
+odbiorców 
+zewnętrznych 
+4 798 851 
+504 183 
+183 448 
+211 825 
+9 714 
+286 179 
+416 942 
+71 440 
+8 204 
+9 537 
+- 
+6 500 323 
+Zyski/(straty) z tytułu 
+instrumentów 
+finansowych 
+dotyczących obrotu 
+paliwem 
+17 165 
+- 
+10 856 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+28 021 
+Sprzedaż pomiędzy 
+segmentami 
+266 819 
+- 
+- 
+- 
+- 
+- 
+- 
+17 489 
+- 
+- 
+(284 308) 
+- 
+Przychody ogółem 
+5 082 835 
+504 183 
+194 304 
+211 825 
+9 714 
+286 179 
+416 942 
+88 929 
+8 204 
+9 537 
+(284 308) 
+6 528 344 
+Koszt sprzedanych 
+usług, towarów 
+i materiałów, 
+ogółem 
+(4 834 836) 
+(442 346) 
+(171 570) 
+(192 422) 
+(9 528) 
+(265 544) (368 783) 
+(78 290) 
+(6 850) 
+(790) 
+284 308 (6 086 651) 
+Wynik segmentu 
+247 999 
+61 838 
+22 734 
+19 403 
+186 
+20 635 
+48 159 
+10 639 
+1 354 
+8 747 
+- 
+441 693 
+Pozostałe przychody 
+operacyjne 
+757 
+955 
+819 
+88 
+1 
+80 
+1 265 
+403 
+- 
+188 
+- 
+4 556 
+Koszty sprzedaży i 
+ogólnego zarządu 
+(102 469) 
+(33 584) 
+(10 200) 
+(9 252) 
+(1 948) 
+(26 219) 
+(31 309) 
+(10 347) 
+(793) 
+(54 936) 
+- 
+(281 057) 
+Pozostałe 
+zyski/(straty) netto 
+619 
+(427) 
+15 
+- 
+3 
+164 
+209 952 
+225 021 
+1 
+1 097 
+- 
+436 445 
+Pozostałe koszty 
+operacyjne 
+(7) 
+(159) 
+(130) 
+(91) 
+- 
+(679) 
+(814) 
+(124) 
+- 
+(3 073) 
+- 
+(5 077) 
+Wynik na 
+działalności 
+operacyjnej 
+146 899 
+28 623 
+13 238 
+10 148 
+(1 758) 
+(6 019) 
+227 253 
+225 592 
+562 
+(47 978) 
+- 
+596 560 
+Przychody finansowe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 420 
+Koszty finansowe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(30 204) 
+Podatek dochodowy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(31 633) 
+Zysk / strata za 
+okres 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+538 143 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ 
+Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 25 
+ 
+za okres 
+01.01.2023 - 
+30.06.2023 
+(dane 
+przekształcone) 
+Paliwa 
+ciekłe 
+LPG 
+Gaz ziemny 
+Energia 
+elektryczna 
+Odnawialne 
+źródła 
+energii 
+Stacje 
+Paliw 
+Bitumen Infrastruktura 
+i Logistyka 
+Paliwa 
+stałe 
+Działalność 
+pozostała 
+(w tym funkcje 
+korporacyjne) 
+Eliminacje 
+Razem 
+Główne pozycje 
+niepieniężne 
+(22 273) 
+(1 284) 
+6 736 
+(4 026) 
+(215) 
+(5 536) 
+(12 024) 
+(10 206) 
+(33) 
+(6 816) 
+- 
+(55 676) 
+Amortyzacja 
+(3 173) 
+(1 284) 
+(672) 
+(45) 
+(215) 
+(5 536) 
+(12 411) 
+(10 206) 
+(33) 
+(1 635) 
+- 
+(35 210) 
+Wycena bilansowa 
+zapasów do wartości 
+godziwej 
+(24 136) 
+- 
+(5 157) 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+(29 293) 
+Wycena bilansowa 
+instrumentów 
+pochodnych do 
+wartości godziwej 
+5 036 
+- 
+12 565 
+(3 981) 
+- 
+- 
+387 
+- 
+- 
+(5 181) 
+- 
+8 826 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ 
+Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 26 
+ 
+za okres 
+01.04.2023 - 
+30.06.2023 
+(dane 
+przekształcone) 
+Paliwa 
+ciekłe 
+LPG 
+Gaz ziemny 
+Energia 
+elektryczna 
+Odnawialne 
+źródła 
+energii 
+Stacje 
+Paliw 
+Bitumen Infrastruktura 
+i Logistyka 
+Paliwa 
+stałe 
+Działalność 
+pozostała 
+(w tym funkcje 
+korporacyjne) 
+Eliminacje 
+Razem 
+Przychody ze 
+sprzedaży do 
+odbiorców 
+zewnętrznych 
+2 223 796 
+205 722 
+54 886 
+117 053 
+6 161 
+152 165 
+399 605 
+64 305 
+2 762 
+1 623 
+- 
+3 228 079 
+Zyski/(straty) z tytułu 
+instrumentów 
+finansowych 
+dotyczących obrotu 
+paliwem 
+14 909 
+- 
+6 027 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+20 936 
+Sprzedaż pomiędzy 
+segmentami 
+154 933 
+- 
+- 
+- 
+- 
+- 
+- 
+13 708 
+- 
+- 
+(168 641) 
+- 
+Przychody ogółem 
+2 393 638 
+205 722 
+60 913 
+117 053 
+6 161 
+152 165 
+399 605 
+78 013 
+2 762 
+1 623 
+(168 641) 
+3 249 015 
+Koszt sprzedanych 
+usług, towarów 
+i materiałów, 
+ogółem 
+(2 316 452) 
+(177 651) 
+(46 909) 
+(110 708) 
+(5 854) 
+(139 674) (354 483) 
+(70 229) 
+(2 192) 
+(664) 
+168 641 (3 056 175) 
+Wynik segmentu 
+77 186 
+28 072 
+14 004 
+6 345 
+307 
+12 491 
+45 122 
+7 784 
+570 
+959 
+- 
+192 840 
+Pozostałe przychody 
+operacyjne 
+112 
+899 
+796 
+(86) 
+- 
+1 
+1 265 
+396 
+- 
+188 
+- 
+3 571 
+Koszty sprzedaży i 
+ogólnego zarządu 
+(26 963) 
+(18 091) 
+(6 386) 
+(4 213) 
+(1 273) 
+(14 081) 
+(28 542) 
+(9 638) 
+(490) 
+(33 463) 
+- 
+(143 139) 
+Pozostałe 
+zyski/(straty) netto 
+148 
+(481) 
+(7) 
+- 
+3 
+115 
+209 952 
+225 021 
+- 
+899 
+- 
+435 649 
+Pozostałe koszty 
+operacyjne 
+(3) 
+(33) 
+(27) 
+(84) 
+- 
+(261) 
+(814) 
+(124) 
+- 
+(42) 
+- 
+(1 388) 
+Wynik na 
+działalności 
+operacyjnej 
+50 481 
+10 365 
+8 380 
+1 962 
+(963) 
+(1 735) 
+226 983 
+223 439 
+80 
+(31 459) 
+- 
+487 533 
+Przychody finansowe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 278 
+Koszty finansowe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(24 305) 
+Podatek dochodowy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(9 353) 
+Zysk / strata za 
+okres 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+456 153 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ 
+Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 27 
+ 
+za okres 
+01.04.2023 - 
+30.06.2023 
+(dane 
+przekształcone) 
+Paliwa 
+ciekłe 
+LPG 
+Gaz ziemny 
+Energia 
+elektryczna 
+Odnawialne 
+źródła 
+energii 
+Stacje 
+Paliw 
+Bitumen Infrastruktura 
+i Logistyka 
+Paliwa 
+stałe 
+Działalność 
+pozostała 
+(w tym funkcje 
+korporacyjne) 
+Eliminacje 
+Razem 
+Główne pozycje 
+niepieniężne 
+(5 321) 
+(1 162) 
+4 603 
+(3 616) 
+(109) 
+(2 897) 
+(12 396) 
+(9 872) 
+(16) 
+(5 994) 
+- 
+(36 779) 
+Amortyzacja 
+(2 017) 
+(1 162) 
+(336) 
+(22) 
+(109) 
+(2 897) 
+(12 395) 
+(9 872) 
+(16) 
+(814) 
+- 
+(29 640) 
+Wycena bilansowa 
+zapasów do wartości 
+godziwej 
+(4 351) 
+- 
+(2 131) 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+(6 482) 
+Wycena bilansowa 
+instrumentów 
+pochodnych do 
+wartości godziwej 
+1 047 
+- 
+7 070 
+(3 594) 
+- 
+- 
+- 
+- 
+- 
+(5 181) 
+- 
+(658) 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 28 
+ 
+2.1.2. SPRAWOZDANIE Z SYTUACJI FINANSOWEJ W PODZIALE 
+NA SEGMENTY OPERACYJNE 
+Kwoty łącznych aktywów są wycenione w sposób spójny ze sposobem zastosowanym w skonsolidowanym 
+sprawozdaniu z sytuacji finansowej. Aktywa te są alokowane zgodnie z przedmiotem działalności segmentu. Aktywa 
+Grupy znajdują się głównie na terenie Polski. Poniżej przedstawione jest uzgodnienie aktywów segmentów z 
+aktywami ogółem Grupy. 
+w tysiącach złotych 
+30.06.2024 
+31.12.2023 
+Paliwa ciekłe 
+1 343 853 
+934 902 
+LPG 
+77 736 
+120 312 
+Gaz ziemny 
+75 088 
+141 875 
+Energia elektryczna 
+163 549 
+186 152 
+Odnawialne źródła energii 
+29 648 
+33 529 
+Stacje Paliw 
+268 414 
+224 456 
+Bitumen 
+757 026 
+610 220 
+Infrastruktura i Logistyka 
+714 136 
+728 815 
+Paliwa stałe 
+40 689 
+46 287 
+Działalność pozostała (w tym funkcje korporacyjne) 
+65 491 
+60 366 
+Razem aktywa segmentów 
+3 535 630 
+3 086 914 
+Pozycje nieprzypisane 
+68 717 
+50 319 
+Razem aktywa Grupy 
+3 604 347 
+3 137 233 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 29 
+ 
+2.1.3. 
+INFORMACJE 
+DOTYCZĄCE 
+OBSZARÓW 
+GEOGRAFICZNYCH 
+SPRZEDAŻY 
+w tysiącach złotych 
+ 01.01.2024 
+30.06.2024 
+ 01.04.2024 
+30.06.2024 
+ 01.01.2023 
+30.06.2023 
+ 01.04.2023 
+30.06.2023 
+Polska 
+5 472 581 
+2 955 951 
+5 276 638 
+2 578 262 
+Ukraina 
+371 963 
+177 350 
+505 427 
+288 625 
+Zjednoczone Emiraty Arabskie 
+215 424 
+88 845 
+- 
+- 
+Belgia 
+94 054 
+53 077 
+129 046 
+40 972 
+Estonia 
+92 239 
+71 914 
+867 
+867 
+Holandia 
+61 950 
+46 891 
+45 869 
+6 780 
+Cypr 
+34 849 
+366 
+53 650 
+45 636 
+Rumunia 
+34 174 
+28 426 
+11 583 
+11 389 
+Czechy 
+22 422 
+14 378 
+232 128 
+102 618 
+Niemcy 
+18 277 
+9 006 
+18 147 
+16 708 
+Litwa 
+17 683 
+14 095 
+16 813 
+16 813 
+Słowacja 
+13 519 
+11 562 
+21 894 
+9 500 
+Bułgaria 
+10 837 
+325 
+41 955 
+16 030 
+Szwajcaria 
+7 122 
+423 
+144 803 
+86 504 
+Szwecja 
+6 977 
+6 823 
+7 980 
+7 980 
+Węgry 
+3 929 
+3 177 
+1 207 
+1 095 
+Kazachstan 
+385 
+190 
+735 
+- 
+Łotwa 
+340 
+110 
+1 559 
+1 515 
+Mołdawia 
+277 
+277 
+- 
+- 
+Tajwan 
+147 
+147 
+190 
+- 
+Serbia 
+68 
+- 
+- 
+- 
+Chiny 
+27 
+27 
+525 
+466 
+Francja 
+19 
+5 
+54 
+54 
+Irlandia 
+17 
+17 
+- 
+- 
+Dania 
+- 
+- 
+14 985 
+14 985 
+Turcja 
+- 
+- 
+1 591 
+1 591 
+Luksemburg 
+- 
+- 
+467 
+467 
+Austria 
+- 
+- 
+231 
+158 
+Razem 
+6 479 278 
+3 483 380 
+6 528 344 
+3 249 015 
+ 
+Główni klienci 
+W okresie od 1 stycznia 2024 r. do 30 czerwca 2024 r. oraz w okresie porównawczym żaden z odbiorców Grupy nie 
+przekroczył 10% przychodów. 
+ 
+2.2. PRZYCHODY ZE SPRZEDAŻY 
+w tysiącach złotych 
+ 01.01.2024 
+30.06.2024 
+ 01.04.2024 
+30.06.2024 
+ 01.01.2023 
+30.06.2023 
+(dane 
+przekształcone) 
+ 01.04.2023 
+30.06.2023 
+(dane 
+przekształcone) 
+Przychody ze sprzedaży produktów i usług, w tym 
+‘take or pay’ 
+443 685 
+277 611 
+233 510 
+216 865 
+Przychody ze sprzedaży towarów i materiałów 
+6 039 385 
+3 196 047 
+6 266 813 
+3 011 214 
+Zyski/(straty) z tytułu instrumentów finansowych 
+dotyczących działalności podstawowej 
+(3 792) 
+9 722 
+28 021 
+20 936 
+Razem przychody ze sprzedaży 
+6 479 278 
+3 483 380 
+6 528 344 
+3 249 015 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 30 
+ 
+2.3. KOSZTY WEDŁUG RODZAJU 
+w tysiącach złotych 
+ 01.01.2024 
+30.06.2024 
+ 01.04.2024 
+30.06.2024 
+ 01.01.2023 
+30.06.2023 
+(dane 
+przekształcone) 
+ 01.04.2023 
+30.06.2023 
+(dane 
+przekształcone) 
+Amortyzacja rzeczowych aktywów trwałych i 
+wartości niematerialnych 
+(45 107) 
+(22 689) 
+(27 160) 
+(24 392) 
+Amortyzacja aktywa z tytułu prawa do użytkowania 
+aktywów 
+(21 630) 
+(11 413) 
+(8 050) 
+(5 248) 
+Zużycie materiałów i energii 
+(209 563) 
+(174 369) 
+(148 978) 
+(144 116) 
+Usługi obce 
+(268 300) 
+(145 322) 
+(240 266) 
+(140 755) 
+Podatki i opłaty 
+(20 185) 
+(4 336) 
+(9 011) 
+(3 610) 
+Wynagrodzenia 
+(80 477) 
+(45 299) 
+(56 870) 
+(30 484) 
+Ubezpieczenia społeczne i inne świadczenia 
+(17 901) 
+(8 013) 
+(8 321) 
+(6 433) 
+Pozostałe koszty rodzajowe 
+(10 048) 
+(3 401) 
+(12 797) 
+(7 830) 
+Koszty według rodzaju razem 
+(673 211) 
+(414 842) 
+(511 453) 
+(362 868) 
+Koszt sprzedanych towarów i materiałów 
+(5 730 324) 
+(3 018 859) 
+(5 859 164) 
+(2 840 136) 
+Zmiana stanu zapasów i rozliczeń 
+międzyokresowych kosztów 
+27 719 
+11 789 
+3 025 
+3 925 
+Pozostałe 
+252 
+252 
+(116) 
+(235) 
+Koszty sprzedanych produktów, usług, 
+towarów i materiałów, koszty sprzedaży i 
+ogólnego zarządu razem 
+(6 375 564) 
+(3 421 660) 
+(6 367 708) 
+(3 199 314) 
+ 
+2.4. KOSZTY 
+SPRZEDANYCH 
+PRODUKTÓW, 
+USŁUG, 
+TOWARÓW 
+I MATERIAŁÓW 
+w tysiącach złotych 
+ 01.01.2024 
+30.06.2024 
+ 01.04.2024 
+30.06.2024 
+ 01.01.2023 
+30.06.2023 
+(dane 
+przekształcone) 
+ 01.04.2023 
+30.06.2023 
+(dane 
+przekształcone) 
+Koszty sprzedanych towarów i materiałów 
+(5 749 874) 
+(3 011 570) 
+(5 853 761) 
+(2 846 130) 
+Wycena zapasów do wartości godziwej 
+29 187 
+10 063 
+(29 293) 
+(6 482) 
+Wycena bilansowa instrumentów pochodnych 
+dotyczących działalności podstawowej do wartości 
+godziwej 
+14 693 
+(7 880) 
+14 007 
+4 523 
+Zrealizowane różnice kursowe od zadłużenia 
+finansującego zakup zapasu 
+944 
+960 
+24 956 
+22 392 
+Wycena bilansowa zadłużenia finansującego zakup 
+zapasu 
+(3 242) 
+(1 125) 
+1 604 
+(4 195) 
+Zrealizowane różnice kursowe od rozrachunków 
+handlowych 
+(23 890) 
+(7 142) 
+(7 321) 
+(5 063) 
+Wycena bilansowa rozrachunków handlowych 
+1 858 
+(2 165) 
+(9 356) 
+(5 181) 
+Koszty sprzedanych towarów i materiałów 
+razem 
+(5 730 324) 
+(3 018 859) 
+(5 859 164) 
+(2 840 136) 
+Koszt wytworzenia sprzedanych produktów i usług 
+(349 505) 
+(241 772) 
+(227 487) 
+(216 039) 
+Koszty sprzedanych produktów, usług, towarów 
+i materiałów 
+(6 079 829) 
+(3 260 631) 
+(6 086 651) 
+(3 056 175) 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 31 
+ 
+2.5. PRZYCHODY/(KOSZTY) FINANSOWE 
+w tysiącach złotych 
+ 01.01.2024 
+30.06.2024 
+ 01.04.2024 
+30.06.2024 
+ 01.01.2023 
+30.06.2023 
+(dane 
+przekształcone) 
+ 01.04.2023 
+30.06.2023 
+(dane 
+przekształcone) 
+Przychody finansowe 
+ 
+ 
+ 
+ 
+Odsetki od aktywów finansowych 
+3 683 
+1 473 
+3 145 
+2 003 
+Przychody z tytułu realizacji instrumentów 
+finansowych zabezpieczających stopy procentowe 
+kredytów 
+68 
+28 
+275 
+275 
+Wycena instrumentów finansowych 
+zabezpieczających stopy procentowe kredytów 
+3 612 
+705 
+- 
+- 
+Zysk netto z tytułu różnic kursowych 
+2 680 
+2 443 
+- 
+- 
+Wycena zobowiązań finansowych z tytułu płatności 
+warunkowych 
+11 164 
+11 164 
+- 
+- 
+Pozostałe 
+9 
+9 
+- 
+- 
+Przychody finansowe, razem 
+21 216 
+15 822 
+3 420 
+2 278 
+Koszty finansowe 
+ 
+ 
+ 
+ 
+Odsetki i koszty transakcyjne 
+(34 796) 
+(19 815) 
+(18 939) 
+(14 891) 
+Odsetki leasingowe 
+(8 318) 
+(4 489) 
+(4 529) 
+(2 678) 
+Dyskonto rezerw i zobowiązań długoterminowych 
+(644) 
+(260) 
+(1 615) 
+(1 615) 
+Strata netto z tytułu różnic kursowych 
+(27) 
+510 
+- 
+- 
+Wycena instrumentów finansowych 
+zabezpieczających stopy procentowe kredytów 
+- 
+- 
+(5 121) 
+(5 121) 
+Wycena zobowiązań finansowych z tytułu płatności 
+warunkowych 
+(321) 
+1 240 
+- 
+- 
+Koszty finansowe, razem 
+(44 106) 
+(22 814) 
+(30 204) 
+(24 305) 
+Przychody/koszty finansowe netto 
+(22 890) 
+(6 992) 
+(26 784) 
+(22 027) 
+ 
+ 
+2.6. PODATEK DOCHODOWY 
+Podatek dochodowy wykazany w Sprawozdaniu z całkowitych dochodów 
+w tysiącach złotych 
+ 01.01.2024 
+30.06.2024 
+ 01.04.2024 
+30.06.2024 
+ 01.01.2023 
+30.06.2023 
+(dane 
+przekształcone) 
+ 01.04.2023 
+30.06.2023 
+(dane 
+przekształcone) 
+Podatek dochodowy ujęty w wyniku netto 
+ 
+ 
+ 
+ 
+Podatek dochodowy za rok bieżący 
+(15 377) 
+(9 187) 
+(33 008) 
+(5 054) 
+Podatek odroczony 
+(5 233) 
+(3 184) 
+1 375 
+(4 299) 
+Razem podatek dochodowy ujęty w wyniku 
+netto 
+(20 610) 
+(12 371) 
+(31 633) 
+(9 353) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 32 
+ 
+2.7. EFEKTYWNA STOPA PODATKOWA 
+ 
+Uzgodnienie teoretycznego podatku wynikającego z zysku/(straty) przed opodatkowaniem i ustawowej stawki 
+podatkowej do obciążenia z tytułu podatku dochodowego wykazanego w sprawozdaniu z całkowitych dochodów 
+przedstawia się następująco: 
+w tysiącach złotych 
+ 01.01.2024 
+30.06.2024 
+ 01.04.2024 
+30.06.2024 
+ 01.01.2023 
+30.06.2023 
+(dane 
+przekształcone) 
+ 01.04.2023 
+30.06.2023 
+(dane 
+przekształcone) 
+Zysk/(strata) przed opodatkowaniem 
+76 006 
+51 016 
+569 776 
+465 506 
+Podatek w oparciu o obowiązującą stawkę 
+podatkową 
+(14 441) 
+(9 693) 
+(108 257) 
+(88 446) 
+Efekty podatkowe następujących tytułów: 
+ 
+ 
+ 
+ 
+Koszty trwale niestanowiące kosztów uzyskania 
+przychodów 
+(6 943) 
+(3 800) 
+(4 238) 
+(2 797) 
+Przychody trwale niepodlegające opodatkowaniu 
+1 970 
+1 911 
+499 
+487 
+Wykorzystanie strat podatkowych, od których nie 
+rozpoznawano aktywa z tytułu odroczonego 
+podatku dochodowego 
+100 
+- 
+- 
+- 
+Straty podatkowe i różnice przejściowe, od których 
+nie rozpoznano aktywa z tytułu odroczonego 
+podatku dochodowego 
+(383) 
+98 
+(1 204) 
+(632) 
+Wpływ różnic w opodatkowaniu w spółkach 
+zagranicznych 
+(163) 
+(7) 
+(100) 
+(100) 
+Korekta podatku za lata poprzednie 
+119 
+19 
+(262) 
+206 
+Korekta konsolidacyjna dotycząca rozliczenia 
+nabycia udziałów (ujęcie kosztów wynagrodzeń 
+kadry menedżerskiej) 
+(601) 
+(269) 
+(432) 
+(432) 
+Zysk z tytułu okazyjnego nabycia Lotos Terminale 
+- 
+- 
+82 645 
+82 645 
+Niewykorzystanie i spisanie strat podatkowych, 
+uwzględnionych w kalkulacji odroczonego podatku 
+dochodowego w latach ubiegłych 
+(7) 
+(7) 
+- 
+- 
+Pozostałe korekty i tytuły 
+(261) 
+(623) 
+(283) 
+(283) 
+(Obciążenie)/uznanie zysku/(straty) netto z 
+tytułu podatku dochodowego 
+(20 610) 
+(12 371) 
+(31 633) 
+(9 353) 
+Efektywna stopa podatkowa 
+27% 
+24% 
+6% 
+2% 
+ 
+Istotna kwota w ramach linii: Koszty trwale niestanowiące kosztów uzyskania przychodów oraz wzrost w stosunku 
+do okresu porównawczego, wynika głównie z kosztów niepodatkowych dotyczących finansowania dłużnego pod 
+nabycie akcji Lotos Terminale ponoszonych przez Grupę, które są wyłączone z kosztów uzyskania przychodów na 
+mocy art. 16 ust. 1 pkt 13e Ustawy o podatku dochodowym od osób prawnych. 
+ 
+2.8. RZECZOWE AKTYWA TRWAŁE 
+Rzeczowe aktywa trwałe według grup 
+w tysiącach złotych 
+ 30.06.2024 
+31.12.2023 
+Grunty i prawa wieczystego użytkowania gruntów 
+165 475 
+166 658 
+Budynki i budowle 
+287 882 
+293 572 
+Maszyny i urządzenia 
+116 011 
+121 972 
+Środki transportu 
+150 619 
+155 852 
+Pozostałe aktywa trwałe 
+16 733 
+11 359 
+Środki trwałe w budowie 
+59 931 
+42 571 
+Razem 
+796 651 
+791 984 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 33 
+ 
+Grupa na sprzedaży rzeczowych aktywów trwałych zrealizowała zysk netto w wysokości 37 tys. złotych (za 6 miesięcy 
+2024 r.). W okresie porównawczym Grupa na sprzedaży rzeczowych aktywów trwałych zrealizowała zysk netto w 
+wysokości 1 473 tys. złotych (za 6 miesięcy 2023 r.) 
+Grupa w okresie 6 miesięcy 2024 r. poniosła nakłady inwestycyjne w wysokości 24 097 tys. złotych głównie na: 
+modernizację i dostosowanie do marki Avia dzierżawionych oraz własnych stacji paliw, modernizację zakładów 
+produkcyjnych segmentu Bitumen oraz modernizację i rozbudowy terminali paliw i towarzyszących instalacji. 
+Grupa w okresie 6 miesięcy 2023 r. poniosła nakłady inwestycyjne w wysokości 126 269 tys. złotych głównie na 
+zakup cystern kolejowych przeznaczonych do przewozu benzyn lub oleju napędowego (przez spółkę Unimot Paliwa). 
+ 
+W okresie 6 miesięcy 2024 r. Grupa nie zawiązywała, ani nie rozwiązywała odpisów z tytułu utraty wartości w 
+rzeczowych aktywów trwałych. W okresie porównawczym Grupa dokonała odpisu z tytułu utraty wartości w 
+rzeczowych aktywów trwałych w kwocie 76 tys. złotych. 
+Na dzień 30 czerwca 2023 r. prezentowana w sprawozdaniu finansowym wartość bilansowa rzeczowych aktywów 
+trwałych po rozliczeniu prowizorycznym transakcji nabycia Lotos Terminale wynosiła: 420 836 tys. złotych. 
+ 
+2.9. PRAWO DO UŻYTKOWANIA AKTYWÓW 
+Prawo do użytkowania aktywów według grup 
+w tysiącach złotych 
+30.06.2024 
+31.12.2023 
+Grunty i prawa wieczystego użytkowania gruntów 
+23 315 
+23 492 
+Budynki i budowle 
+156 690 
+133 055 
+Środki transportu 
+76 312 
+76 795 
+Urządzenia techniczne 
+5 148 
+383 
+Razem 
+261 465 
+233 725 
+ 
+Grupa w okresie 6 miesięcy 2024 r. zawarła nowe umowy leasingowe skutkujące rozpoznaniem aktywa z tytułu 
+prawa do użytkowania w wysokości 52 936 tys. złotych. 
+Grupa w okresie 6 miesięcy 2023 r. zawarła nowe umowy leasingowe skutkujące rozpoznaniem aktywa z tytułu 
+prawa do użytkowania w wysokości 85 963 tys. złotych. 
+ 
+2.10. POZOSTAŁE AKTYWA FINANSOWE 
+w tysiącach złotych 
+30.06.2024 
+31.12.2023 
+Inwestycje długoterminowe 
+ 
+ 
+Pozostałe 
+1 555 
+986 
+Inwestycje długoterminowe razem 
+1 555 
+986 
+Inwestycje krótkoterminowe 
+ 
+ 
+Pozostałe 
+503 
+666 
+Środki pieniężne o ograniczonym dostępie zabezpieczające transakcje obrotu gazem 
+ziemnym 
+4 547 
+3 086 
+Środki pieniężne o ograniczonym dostępie zabezpieczające transakcje hedgingowe 
+26 007 
+7 702 
+Inwestycje krótkoterminowe razem 
+31 057 
+11 454 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 34 
+ 
+2.11. ZAPASY 
+Zapasy wg grup 
+w tysiącach złotych 
+30.06.2024 
+31.12.2023 
+Materiały 
+16 240 
+13 761 
+Półprodukty i produkcja w toku 
+2 571 
+582 
+Towary - zapas obowiązkowy 
+406 699 
+144 736 
+Towary - zapas operacyjny 
+394 016 
+216 402 
+Wyroby gotowe 
+22 905 
+7 137 
+Razem 
+842 431 
+382 618 
+ 
+Wycena zapasów według wartości godziwej – poziom 1 
+w tysiącach złotych 
+30.06.2024 
+31.12.2023 
+Koszt nabycia zapasów wycenianych w cenie nabycia 
+134 301 
+101 022 
+Odpis aktualizujący wartość zapasów 
+(1 029) 
+(4 000) 
+Koszt nabycia zapasów wycenianych w wartości godziwej 
+715 091 
+320 715 
+Wycena zapasów do wartości godziwej 
+(5 932) 
+(35 119) 
+Razem 
+842 431 
+382 618 
+W okresie sprawozdawczym dokonano zawiązania odpisu aktualizującego wartość zapasów w kwocie 206 tys. 
+złotych. W okresie porównawczym nie dokonywano, ani nie rozwiązywano odpisów aktualizujących wartość zapasów. 
+2.12. NALEŻNOŚCI HANDLOWE ORAZ POZOSTAŁE NALEŻNOŚCI 
+w tysiącach złotych 
+30.06.2024 
+31.12.2023 
+Należności handlowe netto 
+678 487 
+591 101 
+Należności z tytułu podatków, dotacji, ceł, ubezpieczeń, z wyjątkiem należności z tytułu 
+podatku dochodowego 
+112 467 
+122 674 
+Zaliczki na poczet dostaw, usług i środków trwałych 
+36 043 
+34 905 
+Należności z tytułu zabezpieczenia akcyzowego 
+4 869 
+8 752 
+Należności z tytułu zabezpieczenia skarbowego 
+1 745 
+4 899 
+Należności z tytułu kaucji z tytułu należytego wykonania umowy 
+8 214 
+2 406 
+Należności z tytułu pozostałych kaucji 
+5 651 
+1 199 
+Należności z tytułu zabezpieczenia limitu kupieckiego 
+2 050 
+58 232 
+Pozostałe należności 
+8 098 
+16 347 
+Razem 
+857 624 
+840 515 
+ 
+2.13. ŚRODKI PIENIĘŻNE I ICH EKWIWALENTY 
+w tysiącach złotych 
+30.06.2024 
+31.12.2023 
+Środki pieniężne na rachunkach bankowych 
+193 445 
+242 122 
+Środki pieniężne na rachunkach bankowych o ograniczonej możliwości dysponowania 
+22 134 
+25 174 
+Środki pieniężne w kasie 
+4 797 
+3 389 
+Środki pieniężne w drodze 
+9 048 
+2 093 
+Lokaty overnight i krótkoterminowe (do 3 miesięcy) 
+86 109 
+137 454 
+Środki pieniężne i ich ekwiwalenty, wartość wykazana w sprawozdaniu z 
+sytuacji finansowej 
+315 533 
+410 232 
+Kredyty w rachunku bieżącym 
+(491 178) 
+(298 513) 
+Środki pieniężne i ich ekwiwalenty, wartość wykazana w sprawozdaniu z 
+przepływów pieniężnych 
+(175 645) 
+111 719 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 35 
+ 
+2.14. ZOBOWIĄZANIA Z TYTUŁU DOSTAW I USŁUG ORAZ POZOSTAŁE 
+ZOBOWIĄZANIA KRÓTKOTERMINOWE 
+w tysiącach złotych 
+30.06.2024 
+31.12.2023 
+Zobowiązania z tytułu dostaw i usług 
+520 714 
+335 331 
+Zobowiązania z tytułu akcyzy 
+128 136 
+76 572 
+Zobowiązania z tytułu opłaty zapasowej 
+9 098 
+4 816 
+Zobowiązania z tytułu opłaty emisyjnej 
+7 976 
+5 020 
+Zobowiązania z tytułu opłaty paliwowej 
+38 296 
+22 557 
+Zobowiązania z tytułu podatku vat 
+21 863 
+35 592 
+Zobowiązania z tytułu ubezpieczeń społecznych 
+7 742 
+7 080 
+Zobowiązania z tytułu podatku od osób fizycznych 
+1 659 
+2 184 
+Zobowiązania z tytułu pozostałych opłat i podatków 
+8 518 
+3 271 
+Zobowiązania z tytułu wynagrodzeń 
+6 141 
+6 869 
+Zobowiązania z tytułu płatności warunkowej za udziały 
+4 522 
+4 635 
+Rozliczenia międzyokresowe bierne 
+51 821 
+68 135 
+Pozostałe zobowiązania 
+9 060 
+13 959 
+Razem 
+815 546 
+586 021 
+ 
+2.15. ZOBOWIĄZANIA Z TYTUŁU UMÓW Z KLIENTAMI 
+w tysiącach złotych 
+30.06.2024 
+31.12.2023 
+Zobowiązania z tytułu umów z klientami z tytułu sprzedaży ON 
+22 002 
+96 210 
+Zobowiązania z tytułu umów z klientami z tytułu sprzedaży gazu LPG 
+389 
+1 499 
+Zobowiązania z tytułu umów z klientami z tytułu sprzedaży gazu ziemnego 
+17 885 
+3 506 
+Zobowiązania z tytułu umów z klientami z tytułu sprzedaży bitumenu 
+1 850 
+1 716 
+Zobowiązania z tytułu umów z klientami z tytułu sprzedaży paliw stałych 
+56 
+1 269 
+Zobowiązania z tytułu umów z klientami z tytułu sprzedaży energii elektrycznej 
+3 264 
+- 
+Zobowiązania z tytułu umów z klientami z tytułu sprzedaży pozostałych towarów 
+916 
+221 
+Razem 
+46 362 
+104 421 
+ 
+2.16. REZERWY 
+w tysiącach złotych 
+Rezerwy na 
+ochronę 
+środowiska i na 
+rekultywację 
+terenu 
+Rezerwa na 
+rozliczenie 
+nakładów 
+inwestycyjnych 
+Pozostałe 
+rezerwy 
+Razem 
+Stan na 01.01.2024 
+16 755 
+10 788 
+9 076 
+36 619 
+Zwiększenia: 
+94 
+477 
+113 
+684 
+- utworzenie dodatkowych rezerw w 
+korespondencji z rachunkiem wyników 
+40 
+- 
+- 
+40 
+- rozliczenie dyskonta 
+54 
+477 
+113 
+644 
+Zmniejszenia: 
+(732) 
+- 
+(643) 
+(1 375) 
+- rozwiązanie niewykorzystanych rezerw 
+(97) 
+- 
+- 
+(97) 
+- wykorzystanie utworzonych rezerw 
+(635) 
+- 
+(643) 
+(1 278) 
+Stan na 30.06.2024 
+16 117 
+11 265 
+8 546 
+35 928 
+w tym: 
+ 
+ 
+ 
+ 
+długoterminowa 
+1 396 
+11 265 
+6 181 
+18 842 
+krótkoterminowa 
+14 721 
+- 
+2 365 
+17 086 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 36 
+ 
+2.17. ZOBOWIĄZANIA Z TYTUŁU KREDYTÓW, POŻYCZEK, LEASINGU 
+ORAZ KREDYTÓW W RACHUNKU BIEŻĄCYM 
+Zobowiązania z tytułu kredytów, pożyczek, leasingu oraz innych instrumentów dłużnych oraz 
+kredytów w rachunkach bieżących 
+w tysiącach złotych 
+30.06.2024 
+31.12.2023 
+Kredyty bankowe 
+220 905 
+225 645 
+Pożyczki 
+20 164 
+30 434 
+Zobowiązania finansowe z tytułu leasingu zwrotnego 
+130 543 
+129 296 
+Zobowiązania z tytułu leasingu 
+264 698 
+236 589 
+Zobowiązania z tytułu faktoringu odwrotnego 
+133 209 
+97 250 
+Kredyty w rachunku bieżącym 
+491 178 
+298 513 
+Razem 
+1 260 697 
+1 017 727 
+ 
+Zobowiązania z tytułu kredytów, pożyczek, leasingu, innych instrumentów dłużnych oraz kredytów w 
+rachunkach bieżących w podziale na długoterminowe i krótkoterminowe 
+w tysiącach złotych 
+30.06.2024 
+31.12.2023 
+Zobowiązania długoterminowe 
+ 
+ 
+Kredyty bankowe 
+205 866 
+206 971 
+Pożyczki 
+6 
+189 
+Zobowiązania finansowe z tytułu leasingu zwrotnego 
+118 019 
+116 852 
+Zobowiązania z tytułu leasingu 
+220 485 
+199 354 
+Razem długoterminowe 
+544 376 
+523 366 
+Zobowiązania krótkoterminowe 
+ 
+ 
+Kredyty bankowe 
+15 039 
+18 674 
+Pożyczki 
+20 158 
+30 245 
+Zobowiązania finansowe z tytułu leasingu zwrotnego 
+12 524 
+12 444 
+Zobowiązania z tytułu leasingu 
+44 213 
+37 235 
+Zobowiązania z tytułu faktoringu odwrotnego 
+133 209 
+97 250 
+Razem krótkoterminowe 
+225 143 
+195 848 
+Kredyty w rachunku bieżącym 
+491 178 
+298 513 
+Razem Zobowiązania z tytułu kredytów, pożyczek, leasingu oraz innych 
+instrumentów dłużnych oraz kredytów w rachunkach bieżących 
+1 260 697 
+1 017 727 
+ 
+W okresie objętym skonsolidowanym raportem półrocznym, jak również po dniu sprawozdawczym, spółki Grupy 
+wywiązywały się z obowiązku spłaty zobowiązań finansowych, zarówno rat kapitałowych, jak i odsetkowych. 
+Na 30 czerwca 2024 r., miało miejsce naruszenie warunków określonych w dwóch umowach o kredyty odnawialne, 
+które zostały zawarte przez spółkę zależną od Unimot S.A. – Unimot Paliwa. 
+Umowy kredytowe, których dotyczy naruszenie, zostały zawarte z dwiema instytucjami finansowymi, a łączne saldo 
+zadłużenia tych umów na koniec czerwca 2024 r. wynosiło 351 479 tys. złotych, natomiast saldo niewykorzystanego, 
+dostępnego limitu kredytowego – 121 tys. złotych. 
+W przypadku jednej z tych umów niespełnienie wymogów finansowych dotyczyło wskaźnika rentowności netto (zysk 
+netto / przychody ze sprzedaży) liczonego na bazie wyników finansowych osiągniętych w 1 półroczu 2024 r., który 
+wyniósł -0,12% wobec wymaganego minimalnego wskaźnika 0,2% oraz wskaźnika płynności bieżącej na 30 czerwca 
+2024 r. (zapasy + należności krótkoterminowe + inwestycje krótkoterminowe) / zobowiązania krótkoterminowe bez 
+funduszy specjalnych), który wyniósł 1,12 wobec wymaganego minimalnego wskaźnika 1,2. 
+W przypadku drugiej umowy, niespełnienie wymogów finansowych dotyczyło wskaźnika marży netto (zysk netto / 
+przychody ze sprzedaży) liczonego za okres od 1 lipca 2023 r. do 30 czerwca 2024 r., który wyniósł -0,75% wobec 
+wymaganego minimalnego wskaźnika 0,2%. 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 37 
+ 
+Na dzień sporządzenie niniejszego skonsolidowanego sprawozdania finansowego spółka Unimot Paliwa posiada 
+pisemne informacje od instytucji finansowych, że na 30 czerwca 2024 r.: 
+- jedna z nich potwierdziła uchylenie postanowień umów kredytowych w zakresie wymogów dotyczących wskaźnika 
+rentowności netto i wskaźnika płynności bieżącej. Jednak podkreśliła, że nie zrzeka się z innych praw przewidzianych 
+w umowach kredytowych; 
+- druga instytucja finansowa potwierdziła, że nie będzie weryfikowała spełnienia wskaźnika marży netto w okresie 
+kończącym się 30 czerwca 2024 r. 
+Biorąc powyższe pod uwagę, niespełnienie wymogów finansowych, o których mowa powyżej, oznacza, że instytucje 
+te odstąpiły na 30 czerwca 2024 od zastosowania przysługujących im standardowych uprawnień (tj. m.in. żądania 
+ustanowienia dodatkowego zabezpieczenia kredytu, ograniczenia limitu finansowania lub też w ostateczności – 
+wypowiedzenia umowy). Uprawnienia instytucji finansowych, o których mowa powyżej, są przewidziane w umowach 
+o kredyty odnawialne i mogą mieć zastosowanie w przypadku niespełnienia przez kredytobiorcę określonych w nich 
+wymogów finansowych. 
+Osiągnięty poziom wskaźników był efektem tego, że działalność spółki Unimot Paliwa podlega zjawisku sezonowości 
+i w pierwszych półroczach występują ograniczone warunki do generowania przychodów i osiągania 
+satysfakcjonujących poziomów marż. Dodatkowo, w ostatnim okresie, tj. od III kwartału 2023 r., presję na wyniki 
+spółki Unimot Paliwa wywierało niekorzystne otoczenie rynkowe charakteryzujące się niekorzystnym dla tej spółki 
+kształtowaniem się krajowych notowań oleju napędowego. 
+Biorąc pod uwagę powyższą sytuację, spółka Unimot Paliwa podejmuje inicjatywy mające na celu dywersyfikację 
+portfela produktowego i w sposób szczególny koncentruje się na wprowadzaniu oraz zwiększaniu udziału produktów 
+umożlwiających wypracowanie wyższej marży oraz zmniejszających efekt sezonowości. W ramach tych działań, 
+Grupa UNIMOT aktywnie zwiększa udział sprzedaży oleju opałowego, a także będzie korzystała z wynajętych 
+pojemności 
+magazynowych 
+gazu 
+LPG 
+znajdujących 
+się 
+w 
+Niemczech. 
+Takie 
+położenie 
+terminala 
+przeładunkowego gazu LPG jest optymalne z punktu widzenia procesu logistycznego dostaw tego produktu, 
+w szczególności w sytuacji, gdy od grudnia 2024 r zacznie obowiązywać embargo na import gazu LPG z Rosji do UE. 
+Zarząd Jednostki Dominującej oczekuje, że w konsekwencji podejmowanych działań, powinno dojść do poprawy 
+wskazanych powyżej wskaźników, jednak nastąpi to z przesunięciem czasowym. Zarząd Jednostki Dominującej 
+zakłada ich poprawę nie wcześniej niż w IV kwartale 2024 r. 
+Zarząd Jednostki Dominującej nie przewiduje, aby utrzymujące się od I kwartału 2024 r. naruszenie warunków umów 
+o kredyty odnawialne, miało negatywny wpływ na sytuację finansową i płynnościową działalności całej Grupy oraz 
+nie identyfikuje ryzyka konieczności poszukiwania innych źródeł finansowania działalności. Ponadto, opisana powyżej 
+sytuacja nie powoduje konieczności zmian prezentacyjnych zadłużenia w skonsolidowanym sprawozdaniu 
+finansowym. 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ 
+Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+str. 38 
+ 
+Zmiana stanu zobowiązań wynikająca z działalności finansowej 
+ 
+w tysiącach złotych 
+Stan na 
+01.01.2024 
+Zaciągnięcie 
+zadłużenia 
+Spłaty 
+kapitału 
+Odsetki i 
+prowizje 
+naliczone 
+Odsetki i 
+prowizje 
+zapłacone 
+Zrealizowane 
+różnice kursowe 
+Niezrealizowane 
+różnice kursowe 
+Stan na 
+30.06.2024 
+Kredyty bankowe 
+225 645 
+- 
+(5 190) 
+11 607 
+(11 157) 
+- 
+- 
+220 905 
+Pożyczki 
+30 434 
+- 
+(10 084) 
+1 163 
+(1 349) 
+- 
+- 
+20 164 
+Zobowiązania finansowe z tytułu leasingu zwrotnego 
+129 296 
+8 323 
+(6 534) 
+3 151 
+(3 151) 
+383 
+(925) 
+130 543 
+Zobowiązania z tytułu leasingu 
+236 589 
+52 936 
+(23 941) 
+8 318 
+(8 913) 
+- 
+(291) 
+264 698 
+Zobowiązania z tytułu faktoringu odwrotnego 
+97 250 
+133 292 
+(97 251) 
+2 831 
+(2 831) 
+(62) 
+(20) 
+133 209 
+Kredyty w rachunku bieżącym 
+298 513 
+488 798 
+(298 513) 
+9 981 
+(9 981) 
+(882) 
+3 262 
+491 178 
+Razem 
+1 017 727 
+683 349 
+(441 513) 
+37 051 
+(37 382) 
+(561) 
+2 026 
+1 260 697 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 39 
+ 
+2.18. INSTRUMENTY FINANSOWE 
+Poniższa tabela przedstawia klasy instrumentów finansowych Grupy w podziale na kategorie wyceny oraz poziomy 
+hierarchii wartości godziwej. 
+ 
+w tysiącach złotych 
+ Wyceniane wg 
+zamortyzowanego 
+kosztu 
+ Wycena wg wartości godziwej 
+przez wynik finansowy 
+ Poza 
+zakresem 
+MSSF 9 
+ Razem 
+Stan na 30.06.2024 
+ Poziom 1 Poziom 2 Poziom 3 
+Aktywa finansowe 
+ 
+ 
+ 
+ 
+ 
+ 
+Pochodne instrumenty finansowe 
+- 
+28 631 
+- 
+- 
+- 
+28 631 
+Należności długoterminowe 
+12 249 
+- 
+- 
+- 
+- 
+12 249 
+Należności handlowe i pozostałe 
+529 977 
+- 
+- 
+- 
+- 
+529 977 
+Pozostałe aktywa finansowe 
+32 612 
+- 
+- 
+- 
+- 
+32 612 
+Środki pieniężne i ich ekwiwalenty 
+315 533 
+- 
+- 
+- 
+- 
+315 533 
+Razem aktywa finansowe 
+890 371 
+28 631 
+- 
+- 
+- 
+919 002 
+Zobowiązania finansowe 
+ 
+ 
+ 
+ 
+ 
+- 
+Zobowiązania z tytułu kredytów, 
+pożyczek i innych instrumentów 
+dłużnych 
+504 821 
+- 
+- 
+- 
+- 
+504 821 
+Zobowiązania z tytułu leasingu 
+- 
+- 
+- 
+- 
+264 698 
+264 698 
+Kredyty w rachunku bieżącym 
+491 178 
+- 
+- 
+- 
+- 
+491 178 
+Pochodne instrumenty finansowe 
+- 
+22 158 
+- 
+- 
+- 
+22 158 
+Pozostałe zobowiązania 
+długoterminowe 
+29 969 
+- 
+- 
+- 
+- 
+29 969 
+Zobowiązania z tytułu płatności 
+warunkowej 
+- 
+- 
+- 
+133 802 
+- 
+133 802 
+Zobowiązania do wykupu udziałów 
+niedających kontroli 
+- 
+- 
+- 
+9 857 
+- 
+9 857 
+Zobowiązania z tytułu dostaw i 
+usług i pozostałe 
+529 774 
+- 
+- 
+- 
+- 
+529 774 
+Razem zobowiązania 
+finansowe 
+1 555 742 
+22 158 
+- 
+143 659 
+264 698 1 986 257 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 40 
+ 
+w tysiącach złotych 
+ Wyceniane wg 
+zamortyzowanego 
+kosztu 
+ Wycena wg wartości godziwej 
+przez wynik finansowy 
+ Poza 
+zakresem 
+MSSF 9 
+ Razem 
+Stan na 31.12.2023 
+ Poziom 1 Poziom 2 Poziom 3 
+Aktywa finansowe 
+ 
+ 
+ 
+ 
+ 
+ 
+Pochodne instrumenty finansowe 
+- 
+15 400 
+- 
+- 
+- 
+15 400 
+Należności długoterminowe 
+11 783 
+- 
+- 
+- 
+- 
+11 783 
+Należności handlowe i pozostałe 
+682 936 
+- 
+- 
+- 
+- 
+682 936 
+Pozostałe aktywa finansowe 
+12 440 
+- 
+- 
+- 
+- 
+12 440 
+Środki pieniężne i ich ekwiwalenty 
+410 232 
+- 
+- 
+- 
+- 
+410 232 
+Razem aktywa finansowe 
+1 117 391 
+15 400 
+- 
+- 
+- 1 132 791 
+Zobowiązania finansowe 
+ 
+ 
+ 
+ 
+ 
+- 
+Zobowiązania z tytułu kredytów, 
+pożyczek i innych instrumentów 
+dłużnych 
+482 625 
+- 
+- 
+- 
+- 
+482 625 
+Zobowiązania z tytułu leasingu 
+- 
+- 
+- 
+- 
+236 589 
+236 589 
+Kredyty w rachunku bieżącym 
+298 513 
+- 
+- 
+- 
+- 
+298 513 
+Pochodne instrumenty finansowe 
+- 
+27 232 
+- 
+- 
+- 
+27 232 
+Pozostałe zobowiązania 
+długoterminowe 
+29 040 
+- 
+- 
+- 
+- 
+29 040 
+Zobowiązania z tytułu płatności 
+warunkowej 
+- 
+- 
+- 
+144 645 
+- 
+144 645 
+Zobowiązania do wykupu udziałów 
+niedających kontroli 
+- 
+- 
+- 
+5 931 
+- 
+5 931 
+Zobowiązania z tytułu dostaw i 
+usług i pozostałe 
+349 290 
+- 
+- 
+- 
+- 
+349 290 
+Razem zobowiązania 
+finansowe 
+1 159 468 
+27 232 
+- 
+150 576 
+236 589 1 573 865 
+Wartość godziwa instrumentów finansowych wycenianych w zamortyzowanym koszcie jest zbliżona do ich wartości 
+księgowej. 
+Metody wyceny do wartości godziwej opisano w Nocie 8.1.2. Skonsolidowanego sprawozdania finansowego Grupy 
+Kapitałowej UNIMOT za rok obrotowy zakończony 31 grudnia 2023 r. W okresie 6 miesięcy zakończonym 30 czerwca 
+2024 r. Grupa nie dokonywała zmian w sposobie ustalania wartości godziwej instrumentów finansowych wycenianych 
+w wartości godziwej. 
+W trakcie okresu sprawozdawczego nie miały miejsca przesunięcia pomiędzy poszczególnymi poziomami hierarchii 
+wartości godziwej. Dodatkowe ujawnienia na temat wyceny do wartości godziwej zobowiązań z tytułu płatności 
+warunkowych klasyfikowanych do poziomu 3 hierarchii wartości godziwej zostały przedstawione w nocie 2.20. 
+2.19. POCHODNE INSTRUMENTY FINANSOWE 
+Pochodne instrumenty finansowe – aktywa finansowe: 
+w tysiącach złotych 
+30.06.2024 
+31.12.2023 
+Długoterminowe aktywa finansowe 
+ 
+ 
+Kontrakty forward 
+- 
+703 
+Swapy towarowe 
+9 058 
+- 
+Razem długoterminowe aktywa finansowe 
+9 058 
+703 
+Krótkoterminowe aktywa finansowe 
+ 
+ 
+Kontrakty futures 
+1 641 
+1 913 
+Kontrakty forward 
+20 
+11 068 
+Kontrakty FX forward 
+1 004 
+1 256 
+Swapy towarowe 
+16 908 
+460 
+Razem krótkoterminowe aktywa finansowe 
+19 573 
+14 697 
+Razem pochodne instrumenty finansowe - aktywa finansowe 
+28 631 
+15 400 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 41 
+ 
+Pochodne instrumenty finansowe – zobowiązania finansowe: 
+w tysiącach złotych 
+30.06.2024 
+31.12.2023 
+Długoterminowe zobowiązania finansowe 
+ 
+ 
+Kontrakty forward 
+173 
+173 
+Swapy towarowe 
+178 
+9 463 
+Kontrakty IRS 
+4 070 
+7 682 
+Razem długoterminowe zobowiązania finansowe 
+4 421 
+17 318 
+Krótkoterminowe zobowiązania finansowe 
+ 
+ 
+Kontrakty futures 
+8 457 
+- 
+Kontrakty forward 
+7 166 
+935 
+Kontrakty FX forward 
+644 
+241 
+Swapy towarowe 
+1 470 
+8 738 
+Razem krótkoterminowe zobowiązania finansowe 
+17 737 
+9 914 
+Razem pochodne instrumenty finansowe - zobowiązania finansowe 
+22 158 
+27 232 
+ 
+2.20. POZOSTAŁE ZOBOWIĄZANIA 
+w tysiącach złotych 
+30.06.2024 
+31.12.2023 
+Z tytułu nakładów inwestycyjnych do zwrotu 
+29 969 
+29 040 
+Z tytułu płatności warunkowej za nabycie Lotos Terminale 
+119 034 
+128 100 
+Z tytułu płatności warunkowej za nabycie Olavion 
+9 458 
+9 137 
+Z tytułu płatności warunkowej za nabycie Unimot Commodities 
+788 
+2 773 
+Razem 
+159 249 
+169 050 
+ 
+ 
+w tysiącach złotych 
+Stan na 
+31.12.2023 
+Wycena do 
+wartości 
+godziwej 
+ujęta w 
+wyniku 
+finansowym 
+Stan na 
+30.06.2024 
+Z tytułu płatności warunkowej za nabycie Lotos Terminale 
+128 100 
+(9 066) 
+119 034 
+Z tytułu płatności warunkowej za nabycie Olavion 
+9 137 
+321 
+9 458 
+Z tytułu płatności warunkowej za nabycie Unimot Commodities 
+7 408 
+(2 098) 
+5 310 
+Razem 
+144 645 
+(10 843) 
+133 802 
+w tym: 
+ 
+ 
+ 
+długoterminowe 
+140 010 
+(10 730) 
+129 280 
+krótkoterminowe 
+4 635 
+(113) 
+4 522 
+ 
+Techniki wyceny oraz główne dane wejściowe do modeli wykorzystywane do wyceny zobowiązań z tytułu płatności 
+warunkowej zostały opisane w rocznym sprawozdaniu finansowe za rok 2023 i nie uległy zmianie. 
+Na dzień 30 czerwca 2024 r. oszacowana niezdyskontowana kwota wszystkich płatności uwzględniona w kalkulacji 
+wartości godziwej płatności warunkowej za nabycie Lotos Terminale wynosi: 221 881 tys. złotych, na dzień 31 
+grudnia 2023 r. wynosiła: 245 261 tys. złotych. Zmiana ta wynika z aktualizacji szacunków Zarządu odnośnie 
+kształtowania się wyniku i marży EBITDA Unimot Bitumen w okresie stanowiącym bazę naliczania płatności 
+warunkowej. 
+Na dzień 30 czerwca 2024 r. oszacowana niezdyskontowana kwota wszystkich płatności uwzględniona w kalkulacji 
+wartości godziwej płatności warunkowej za nabycie Unimot Commodities wynosi: 5 371 tys. złotych, na dzień 31 
+grudnia 2023 r. wynosiła: 8 000 tys. złotych. Zmiana ta wynika z aktualizacji szacunków Zarządu odnośnie 
+kształtowania się wyniku netto Unimot Commodities w okresie stanowiącym bazę naliczania płatności warunkowej. 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 42 
+ 
+Na dzień 30 czerwca 2024 r., w porównaniu z 31 grudnia 2023 r. nie doszło do zmian oszacowanych 
+niezdyskontowanych kwot płatności uwzględnionych w kalkulacji wartości godziwej płatności warunkowej za nabycie 
+Olavion. 
+W tabeli poniżej przedstawiona została analiza wrażliwości wartości godziwej na zmiany nieobserwowalnych danych 
+wejściowych dla zobowiązania finansowego z tytułu płatności warunkowej za akcje Lotos Terminale klasyfikowanego 
+do poziomu 3 hierarchii wartości godziwej. 
+Wartość godziwa 
+na 30.06.2024 
+Metoda 
+wyceny 
+Istotne dane 
+nieobserwowalne 
+Analiza wrażliwości 
+119 034 
+DCF 
+Stopa dyskonta 
+Wzrost stopy dyskonta o 2 p.p. spowodowałby spadek wyceny 
+zobowiązania o 12 800 tys. złotych. 
+Spadek stopy dyskonta o 2 p.p. spowodowałby wzrost wyceny 
+zobowiązania o 14 700 tys. złotych. 
+Wynik według definicji z 
+umowy nabycia 
+Wzrost wyniku o 10% w każdym z lat 2023-2032 spowodowałby 
+wzrost wyceny zobowiązania o 23 960 tys. złotych. 
+Spadek wyniku o 10% w każdym z lat 2023-2032 spowodowałby 
+spadek wyceny zobowiązania o 38 420 tys. złotych. 
+ Marża EBITDA 
+ Wzrost marży EBITDA o 2 p.p. w każdym z lat 2023-2032 
+spowodowałby wzrost wyceny o 13 710 tys. złotych. 
+ Spadek marży EBITDA o 2 p.p. w każdym z lat 2023-2032 nie 
+spowodowałby zmiany wyceny. 
+ 
+Możliwe zmiany nieobserwowalnych danych wejściowych na inne w przypadku zobowiązań warunkowych z tytułu 
+płatności za udziały Olavion i Unimot Commodities nie prowadziłyby do ustalenia wartości godziwych zobowiązań 
+finansowych na istotnie niższym lub wyższym poziomie. 
+ 
+2.21. DYWIDENDY WYPŁACONE I ZAPROPONOWANE DO WYPŁATY 
+W okresie sprawozdawczym nie wypłacano dywidend. 
+W dniu 17 czerwca 2024 r. Zwyczajne Walne Zgromadzenie Akcjonariuszy podjęło decyzję w sprawie przeznaczenia 
+jednostkowego zysku netto Unimot S.A. za rok 2023 na: 
+- wypłatę dywidendy: 32 791 tys. złotych (4,0 zł na 1 akcję), 
+- kapitał zapasowy: 12 248 tys. złotych. 
+Dzień dywidendy ustalono na 26 czerwca 2024 r., a termin jej wypłaty na 10 lipca 2024 r. 
+ 
+2.22. TRANSAKCJE ORAZ STAN ROZRACHUNKÓW Z PODMIOTAMI 
+POWIĄZANYMI 
+ 
+W okresie 6 miesięcy zakończonych 30 czerwca 2024 r. oraz w okresie porównawczym Unimot S.A. i spółki z Grupy 
+UNIMOT zawierały transakcje z Jednostką Dominującą wyższego szczebla dla Unimot S.A (tj. Unimot Express Sp. z 
+o.o.). oraz spółkami zależnymi i stowarzyszonymi z Jednostką Dominującą wyższego szczebla, jak również z 
+podmiotami z nią powiązanymi (jednostka będąca wspólnikiem wraz z jej jednostką zależną) oraz z podmiotami 
+powiązanymi osobowo z Unimot S.A. 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 43 
+ 
+Tabele poniżej przedstawiają podsumowanie transakcji pomiędzy podmiotami z Grupy UNIMOT, a podmiotami 
+powiązanymi. 
+w tysiącach złotych 
+Przychody ze sprzedaży, 
+Przychody finansowe, 
+Pozostałe przychody 
+operacyjne 
+Koszty operacyjne, Koszty 
+finansowe, Pozostałe koszty 
+operacyjne 
+ 
+01.01.2024 
+30.06.2024 
+01.01.2023 
+30.06.2023 
+01.01.2024 
+30.06.2024 
+01.01.2023 
+30.06.2023 
+Jednostki powiązane niekonsolidowane 
+840 
+535 
+3 257 
+3 379 
+Razem 
+840 
+535 
+3 257 
+3 379 
+ 
+w tysiącach złotych 
+Przychody ze sprzedaży, 
+Przychody finansowe, 
+Pozostałe przychody 
+operacyjne 
+Koszty operacyjne, Koszty 
+finansowe, Pozostałe koszty 
+operacyjne 
+ 
+01.04.2024 
+30.06.2024 
+01.04.2023 
+30.06.2023 
+01.04.2024 
+30.06.2024 
+01.04.2023 
+30.06.2023 
+Jednostki powiązane niekonsolidowane 
+487 
+- 
+1 751 
+2 912 
+Razem 
+487 
+- 
+1 751 
+2 912 
+ 
+w tysiącach złotych 
+Należności z tytułu dostaw 
+i usług, z tytułu pożyczek 
+oraz pozostałe należności 
+Zobowiązania z tytułu 
+dostaw i usług, z tyt. 
+pożyczek oraz pozostałe 
+zobowiązania 
+ 
+30.06.2024 
+31.12.2023 
+30.06.2024 
+31.12.2023 
+Jednostki powiązane niekonsolidowane 
+1 303 
+2 356 
+34 387 
+48 459 
+Razem 
+1 303 
+2 356 
+34 387 
+48 459 
+ 
+Zgodnie z informacjami posiadanymi przez Zarząd Jednostki Dominującej, transakcje zawarte w okresie 
+sprawozdawczym przez Spółkę lub jednostki od niej zależne z podmiotami powiązanymi były zawierane na warunkach 
+rynkowych, a ich charakter i warunki wynikały z prowadzonej działalności operacyjnej. 
+ 
+2.23. INFORMACJE O TRANSAKCJACH Z CZŁONKAMI ZARZĄDU I RADY 
+NADZORCZEJ 
+Zarząd Unimot S.A. stanowi kluczową kadrę zarządzającą Grupy. 
+W tabelach poniżej przedstawiono wysokość wynagrodzenia Członków Zarządu i Rady Nadzorczej Unimot S.A. za 
+okres sprawozdawczy oraz dane porównawcze. Przedstawione wynagrodzenia zostały ujęte memoriałowo w kosztach 
+tych lat. 
+ 
+w tysiącach złotych 
+01.01.2024 
+30.06.2024 
+01.04.2024 
+30.06.2024 
+01.01.2023 
+30.06.2023 
+01.04.2023 
+30.06.2023 
+Krótkoterminowe świadczenia pracownicze, 
+w tym: 
+ 
+ 
+ 
+ 
+Wynagrodzenia, usługi zarządzania 
+450 
+225 
+330 
+165 
+Razem 
+450 
+225 
+330 
+165 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 44 
+ 
+w tysiącach złotych 
+01.01.2024 
+30.06.2024 
+01.04.2024 
+30.06.2024 
+01.01.2023 
+30.06.2023 
+01.04.2023 
+30.06.2023 
+Krótkoterminowe świadczenia pracownicze 
+226 
+113 
+263 
+113 
+Razem 
+226 
+113 
+263 
+113 
+ 
+W okresie sprawozdawczym oraz w analogicznym okresie roku poprzedniego nie zostały udzielone żadne pożyczki 
+Członkom Zarządu ani Członkom Rady Nadzorczej Unimot S.A. 
+W tabelach poniżej przedstawiono wysokość wynagrodzenia Członków Zarządu i Rad Nadzorczych jednostek 
+zależnych od Unimot S.A. należnego w okresie sprawozdawczym oraz dane porównawcze. Przedstawione 
+wynagrodzenia zostały ujęte memoriałowo w kosztach tych lat. 
+w tysiącach złotych 
+01.01.2024 
+30.06.2024 
+01.04.2024 
+30.06.2024 
+01.01.2023 
+30.06.2023 
+01.04.2023 
+30.06.2023 
+Krótkoterminowe świadczenia pracownicze, 
+w tym: 
+ 
+ 
+ 
+ 
+Wynagrodzenia, usługi zarządzania 
+4 713 
+2 434 
+2 103 
+1 037 
+Koszty rezerw na premie 
+2 864 
+347 
+15 506 
+4 673 
+Razem 
+7 577 
+2 781 
+17 609 
+5 710 
+ 
+w tysiącach złotych 
+01.01.2024 
+30.06.2024 
+01.04.2024 
+30.06.2024 
+01.01.2023 
+30.06.2023 
+01.04.2023 
+30.06.2023 
+Krótkoterminowe świadczenia pracownicze 
+295 
+148 
+74 
+25 
+Razem 
+295 
+148 
+74 
+25 
+ 
+2.24. ZOBOWIĄZANIA 
+WARUNKOWE, 
+UDZIELONE 
+PORĘCZENIA 
+I 
+GWARANCJE 
+Udzielone poręczenia i gwarancje 
+w tysiącach PLN/EUR/USD 
+Stan na 30.06.2024 
+Stan na 31.12.2023 
+ 
+PLN 
+EUR 
+USD 
+PLN 
+EUR 
+USD 
+Gwarancje ubezpieczeniowe złożone 
+jako zabezpieczenie akcyzowe 
+213 100 
+- 
+- 
+205 000 
+ - 
+ - 
+Poręczenia wystawione za gwarancje 
+ubezpieczeniowe złożone jako 
+zabezpieczenia koncesyjne 
+40 000 
+- 
+- 
+40 000 
+ - 
+ - 
+Gwarancje dotyczące należytego 
+wykonania umów i limitów 
+kupieckich 
+59 829 
+- 
+- 
+35 158 
+12 067 
+ - 
+Gwarancje dotyczące produktów 
+finansowych 
+133 500 
+- 
+- 
+- 
+- 
+- 
+Poręczenia dotyczące należytego 
+wykonania umów i limitów 
+kupieckich 
+183 507 
+25 500 
+11 000 
+271 782 
+12 000 
+6 000 
+Poręczenia dotyczące produktów 
+finansowych 
+5 500 
+15 274 
+50 419 
+ - 
+ - 
+43 000 
+Suma 
+635 436 
+40 774 
+61 419 
+551 940 
+24 067 
+49 000 
+ 
+Wzrost wystawionych poręczeń i gwarancji ogółem w stosunku do roku poprzedniego dotyczy głównie gwarancji i 
+poręczeń dotyczących produktów finansowych i wynika z następujących zdarzeń: 
+3 czerwca 2024 r. w ramach Umowy generalnej o udzielanie płatniczych gwarancji ubezpieczeniowych zawartej 
+pomiędzy Unimot Paliwa Sp. z o.o. a KUKE S.A. została wystawiona gwarancja na rzecz ING Bank Śląski S.A. 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 45 
+ 
+stanowiąca zabezpieczenie ewentualnych roszczeń Beneficjenta mogących powstać z tytułu podpisanej z Unimot 
+Paliwa Sp. z o.o. Umowy kredytowej z 20 maja 2024 r. Kwota gwarancji wynosi 120 mln złotych i jest ważna do 9 
+maja 2026 r. Unimot S.A. jest poręczycielem zobowiązań jakie mogą powstać w związku z wystawieniem gwarancji 
+przez KUKE. 
+10 czerwca 2024 r. w ramach Umowy generalnej o udzielanie płatniczych gwarancji ubezpieczeniowych zawartej 
+pomiędzy Unimot Paliwa Sp. z o.o. a KUKE S.A. została wystawiona gwarancja na rzecz Banku Millennium S.A. 
+stanowiąca zabezpieczenie ewentualnych roszczeń Beneficjenta mogących powstać z tytułu podpisanej z Unimot 
+Paliwa Sp. z o.o. Umowy faktoringu odwrotnego z 24 kwietnia 2024 r. Kwota gwarancji wynosi 13,5 mln złotych i 
+jest ważna do 21 lipca 2025 r. Unimot S.A. jest poręczycielem zobowiązań jakie mogą powstać w związku z 
+wystawieniem gwarancji przez KUKE. 
+Unimot S.A. stał się poręczycielem zobowiązań wynikających w umów leasingu (przedmioty leasingu to 135 sztuk 
+cystern kolejowych) zawartych w ramach Umowy generalnej leasingu zawartej pomiędzy Unimot Paliwa Sp. z o.o. a 
+ING Lease (Polska) Sp. z o.o. Na dzień bilansowy saldo zobowiązań wynikających z powyższych umów wynosiło 
+15,27 mln EUR a najdłuższa data zobowiązania to 15 czerwca 2033 r. 
+ 
+Zobowiązania warunkowe 
+Na dzień 30 czerwca 2024 r. Grupa posiada zobowiązanie warunkowe w kwocie 322 tys. złotych. w Wojewódzkim 
+Funduszu Ochrony Środowiska i Gospodarki Wodnej w Katowicach. Zobowiązanie warunkowe dotyczy umowy 
+pomiędzy WFOŚiGW a RCEkoenergia Sp. z o.o. stanowiącej zobowiązanie się RCEkoenergia Sp. z o.o. do spełnienia 
+obowiązku utrzymania przez 5 lat osiągniętych wcześniej efektów rzeczowych i ekologicznych. 
+ 
+2.25. PRZYSZŁE ZOBOWIĄZANIA UMOWNE 
+Na dzień 30 czerwca 2024 r. Grupa Kapitałowa zobowiązała się ponieść nakłady na rzeczowe aktywa trwałe w kwocie 
+156 660 tys. złotych, które będą skutkować powstaniem zobowiązań inwestycyjnych. 
+Przyszłe zobowiązania wynikają z: 
+- zawartej umowy z NEWAG S.A. przez Olavion dotyczącej zamówienia do kwoty 74 000 tys. złotych na 4 lokomotywy 
+Dragon. Dostawa pierwszej lokomotywy została zrealizowana na koniec lipca 2024 r., pozostałe trzy lokomotywy 
+mają być dostarczone do końca 2024 r., 
+- zawartego aneksu do umowy z NEWAG S.A. dotyczącego nabycia 4 lokomotyw za łączną maksymalną cenę 75 000 
+tys. złotych. Dostawa dwóch lokomotyw odbędzie się w terminie 18 miesięcy, natomiast pozostałych dwóch 
+lokomotyw w terminie 30 miesięcy od dnia zawarcia aneksu, 
+- zawartych przez Unimot Terminale umów dotyczących modernizacji i rozbudowy terminali paliw i towarzyszących 
+instalacji, łączna kwota tych umów to 7 660 tys. złotych. 
+2.26. SEZONOWOŚĆ DZIAŁALNOŚCI 
+W trakcie roku zachodzi regularna umiarkowana zmienność wolumenów sprzedaży produktów spowodowana 
+sezonowymi wahaniami popytu w szczególności w segmentach: 
+- sprzedaży gazu ziemnego, paliw stałych i energii elektrycznej ze względu na zdecydowanie wyższy popyt w sezonie 
+grzewczym w I oraz IV kwartale, 
+- sprzedaży paliw / biopaliw / LPG - wzmożone zapotrzebowanie na paliwa w III i IV kwartale, 
+- sprzedaży bitumenów - ze względu na szczyt sezonu budowy i remontów dróg przypadający na III i IV kwartał 
+- sprzedaży usług logistyki kolejowej – najwyższe zapotrzebowanie na usługi przepada na III i IV kwartał. 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 46 
+ 
+2.27. NOTA OBJAŚNIAJĄCA DO SPRAWOZDANIA Z PRZEPŁYWÓW 
+PIENIĘŻNYCH 
+w tysiącach złotych 
+01.01.2024 
+30.06.2024 
+01.01.2023 
+30.06.2023 
+(dane 
+przekształcone) 
+Zmiana stanu należności i pozostałych aktywów obrotowych wynikająca ze 
+sprawozdania z sytuacji finansowej 
+(35 130) 
+(137 340) 
+Zmiana stanu należności inwestycyjnych i podatkowych 
+(18 509) 
+(4 859) 
+Zmiana stanu należności i pozostałych aktywów obrotowych z tytułu nabycia jednostek 
+zależnych 
+- 
+108 587 
+Zmiana stanu należności i pozostałych aktywów obrotowych w sprawozdaniu 
+z przepływów pieniężnych 
+(53 639) 
+(33 612) 
+ 
+w tysiącach złotych 
+01.01.2024 
+30.06.2024 
+01.01.2023 
+30.06.2023 
+(dane 
+przekształcone) 
+Zmiana stanu zobowiązań z tytułu dostaw i usług oraz pozostałych 
+wynikająca ze sprawozdania z sytuacji finansowej 
+219 724 
+202 202 
+Zmiana stanu zobowiązań inwestycyjnych 
+(1 247) 
+- 
+Zmiana stanu zobowiązań z tytułu dostaw i usług oraz pozostałych wynikająca z 
+kompensat 
+1 134 
+- 
+Zmiana stanu zobowiązań z tytułu dostaw i usług oraz pozostałych jednostek zależnych 
+- 
+(169 762) 
+Zmiana stanu zobowiązań z tytułu dostaw i usług oraz pozostałych w 
+sprawozdaniu z przepływów pieniężnych 
+219 611 
+32 440 
+ 
+2.28. ZDARZENIA PO DNIU BILANSOWYM 
+Brak istotnych zdarzeń po dniu bilansowym. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GK UNIMOT ZA I PÓŁROCZE 2024 ROKU 
+ Dodatkowe noty objaśniające do sprawozdania finansowego stanowią jego integralną część 
+ str. 47 
+ 
+3. OŚWIADCZENIE 
+ZARZĄDU 
+I 
+ZATWIERDZENIE 
+ŚRÓDROCZNEGO 
+SKRÓCONEGO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO 
+GRUPY KAPITAŁOWEJ UNIMOT 
+ 
+W sprawie rzetelności sporządzenia śródrocznego skróconego skonsolidowanego sprawozdania 
+finansowego 
+ 
+Zarząd Unimot S.A. oświadcza, że wedle jego najlepszej wiedzy, niniejsze śródroczne skrócone skonsolidowane 
+sprawozdanie finansowe Grupy UNIMOT oraz dane porównawcze sporządzone zostały zgodnie z przepisami 
+obowiązującymi Emitenta oraz odzwierciedlają w sposób prawdziwy, rzetelny i jasny sytuację majątkową i finansową 
+oraz wynik finansowy Grupy UNIMOT. 
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe Grupy UNIMOT zostało zatwierdzone do 
+publikacji oraz podpisane przez Zarząd Unimot S.A. dnia 17 września 2024 r. 
+ 
+ 
+ 
+ 
+Zawadzkie, 17 września 2024 roku 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+………………………………………… 
+………………………………………… 
+………………………………………… 
+Adam Sikorski 
+Robert Brzozowski 
+Filip Kuropatwa 
+Prezes Zarządu Unimot S.A. 
+Wiceprezes Zarządu Unimot S.A. 
+Wiceprezes Zarządu Unimot S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+………………………………………… 
+………………………………………… 
+ 
+Aneta Szczesna-Kowalska 
+Michał Hojowski 
+ 
+Wiceprezes Zarządu Unimot S.A. 
+Wiceprezes Zarządu Unimot S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+………………………………………… 
+Agnieszka Zając - Krysińska 
+Osoba sporządzająca sprawozdanie 
+ 
+Dokument podpisany przez
+Agnieszka Zając - Krysińska
+Data: 2024.09.17 11:58:05 CEST
+Signature Not Verified
+Adam 
+Antoni 
+Sikorski
+Elektronicznie 
+podpisany przez 
+Adam Antoni 
+Sikorski 
+Data: 2024.09.17 
+12:58:29 +02'00'
+Filip 
+Kuropatw
+a
+Elektronicznie 
+podpisany przez 
+Filip Kuropatwa 
+Data: 2024.09.17 
+13:02:07 +02'00'
+Robert 
+Brzozow
+ski
+Elektronicznie 
+podpisany przez 
+Robert Brzozowski 
+Data: 2024.09.17 
+13:04:50 +02'00'
+Michał 
+Hojowski
+Elektronicznie 
+podpisany przez 
+Michał Hojowski 
+Data: 2024.09.17 
+13:07:12 +02'00'
+Aneta 
+Szczesna - 
+Kowalska
+Elektronicznie 
+podpisany przez Aneta 
+Szczesna - Kowalska 
+Data: 2024.09.17 
+13:10:33 +02'00'

@@ -387,10 +387,15 @@
       "year": 2025,
       "period": "AR",
       "file": "ZEP_2025_AR_skonsolidowany.pdf",
-      "url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/upload/files/ZEPAK_2025-R_SKONSOLIDOWANE_SPRAWOZDANIE_Z_PATNOSCI_NA_RZECZ_ADMINISTRACJI_PUBLICZNEJ-sig-sig-sig.pdf",
+      "url": "https://ri.zepak.com.pl/upload/files/GK_ZEPAK_2025-R_SKONSOLIDOWANE_SPRAWOZDANIE_FINANSOWE-sig-sig-sig-sig.pdf",
       "note": "otwórz",
-      "page": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/2207-skonsolidowane-sprawozdanie-z-platnosci-na-rzecz-administracji-publicznej-za-rok-2025.html",
-      "status": "ready"
+      "page": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/2206-skonsolidowany-raport-roczny-grupy-kapitalowej-ze-pak-sa-za-2025-rok.html",
+      "status": "ready",
+      "previous_source_url": "https://ri.zepak.com.pl/pl/raporty/raporty-okresowe/upload/files/ZEPAK_2025-R_SKONSOLIDOWANE_SPRAWOZDANIE_Z_PATNOSCI_NA_RZECZ_ADMINISTRACJI_PUBLICZNEJ-sig-sig-sig.pdf",
+      "bytes": 3542713,
+      "sha256": "2f2339327c73586d9082a7bc3979d81d40ea644ce3f7e192b4497732a4de872f",
+      "scope": "consolidated",
+      "verification": "publisher_pdf_first_32768_bytes_and_full_size_match"
     }
   ],
   "raw": [

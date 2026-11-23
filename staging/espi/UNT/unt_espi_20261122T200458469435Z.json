@@ -1,0 +1,1831 @@
+{
+  "spolka": "UNIMOT S.A.",
+  "spolka_key": "unimot",
+  "ticker": "UNT",
+  "typ": "biezace",
+  "zrodla": [
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=1",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=2",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=3",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=4",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=5",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=6",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=7",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=8",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=9",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=10",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=11",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=12",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=13",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=14",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=15",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=16",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=17",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=18",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=19",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=20",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=21",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=22",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=23",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=24",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=25",
+    "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=26"
+  ],
+  "data_scrapowania": "2026-11-22T20:04:58.469435+00:00",
+  "source_kind": "issuer_listing_reparse",
+  "period": {
+    "start": "2020-01-01",
+    "end": "2025-12-31"
+  },
+  "coverage_verification": {
+    "kind": "direct_issuer_html",
+    "pages": [
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=3",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=4",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=5",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=6",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=7",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=8",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=9",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=10",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=11",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=12",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=13",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=14",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=15",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=16",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=17",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=18",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=19",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=20",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=21",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=22",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=23",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=24",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=25",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=26",
+      "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=27"
+    ],
+    "matching_disclosures": 218
+  },
+  "liczba_stron": 26,
+  "liczba_raportow": 218,
+  "reports_by_year": {
+    "2020": 38,
+    "2021": 43,
+    "2022": 52,
+    "2023": 38,
+    "2024": 23,
+    "2025": 24
+  },
+  "raporty": [
+    {
+      "numer": "24/2025",
+      "data": "2025-12-17",
+      "godzina": "",
+      "tytul": "Zawarcie przez Olavion sp. z o.o. umowy nabycia 60 proc. udziałów w spółce niemieckiej",
+      "url": "https://www.unimot.pl/aktualnosci/zawarcie-przez-olavion-sp-z-o-o-umowy-nabycia-60-proc-udzialow-w-spolce-niemieckiej",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=1"
+    },
+    {
+      "numer": "23/2025",
+      "data": "2025-12-15",
+      "godzina": "",
+      "tytul": "Rejestracja zmiany Statutu Emitenta",
+      "url": "https://www.unimot.pl/aktualnosci/rejestracja-zmiany-statutu-emitenta",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=2"
+    },
+    {
+      "numer": "22/2025",
+      "data": "2025-11-06",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe wybrane dane finansowe za III kwartał 2025 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-wybrane-dane-finansowe-za-iii-kwartal-2025-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=2"
+    },
+    {
+      "numer": "21/2025",
+      "data": "2025-10-29",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5 proc. głosów na NWZ 28 października 2025 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-proc-glosow-na-nwz-28-pazdziernika-2025-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=2"
+    },
+    {
+      "numer": "20/2025",
+      "data": "2025-10-28",
+      "godzina": "",
+      "tytul": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie 28 października 2025 r.",
+      "url": "https://www.unimot.pl/aktualnosci/tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-28-pazdziernika-2025-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=2"
+    },
+    {
+      "numer": "19/2025",
+      "data": "2025-10-20",
+      "godzina": "",
+      "tytul": "Informacje o transakcjach osób pełniących obowiązki zarządcze otrzymane w trybie art. 19 ust. 1 MAR wraz z ich oświadczeniami",
+      "url": "https://www.unimot.pl/aktualnosci/informacje-o-transakcjach-osob-pelniacych-obowiazki-zarzadcze-otrzymane-w-trybie-art-19-ust-1-mar-wraz-z-ich-oswiadczeniami",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=2"
+    },
+    {
+      "numer": "18/2025",
+      "data": "2025-09-18",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Spółki UNIMOT S.A. na dzień 28 października 2025 r.",
+      "url": "https://www.unimot.pl/aktualnosci/ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-spolki-unimot-s-a-na-dzien-28-pazdziernika-2025-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=2"
+    },
+    {
+      "numer": "17/2025",
+      "data": "2025-08-08",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe wybrane dane finansowe za II kwartał 2025 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-wybrane-dane-finansowe-za-ii-kwartal-2025-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=2"
+    },
+    {
+      "numer": "16/2025",
+      "data": "2025-07-24",
+      "godzina": "",
+      "tytul": "Rozpoczęcie współpracy w zakresie działalności w sektorze obronnym",
+      "url": "https://www.unimot.pl/aktualnosci/rozpoczecie-wspolpracy-w-zakresie-dzialalnosci-w-sektorze-obronnym",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=2"
+    },
+    {
+      "numer": "15/2025",
+      "data": "2025-07-04",
+      "godzina": "",
+      "tytul": "Zawarcie przez Emitenta i spółki zależne Emitenta dwóch umów limitów kredytowych",
+      "url": "https://www.unimot.pl/aktualnosci/zawarcie-przez-emitenta-i-spolki-zalezne-emitenta-dwoch-umow-limitow-kredytowych",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=2"
+    },
+    {
+      "numer": "14/2025",
+      "data": "2025-06-10",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5 proc. głosów na ZWZ 9 czerwca 2025 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-proc-glosow-na-zwz-9-czerwca-2025-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=3"
+    },
+    {
+      "numer": "13/2025",
+      "data": "2025-06-09",
+      "godzina": "",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie 9 czerwca 2025 r.",
+      "url": "https://www.unimot.pl/aktualnosci/tresc-uchwal-podjetych-przez-zwyczajne-walne-zgromadzenie-9-czerwca-2025-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=3"
+    },
+    {
+      "numer": "12/2025",
+      "data": "2025-06-09",
+      "godzina": "",
+      "tytul": "Podjęcie uchwały o wypłacie dywidendy",
+      "url": "https://www.unimot.pl/aktualnosci/podjecie-uchwaly-o-wyplacie-dywidendy-10",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=3"
+    },
+    {
+      "numer": "11/2025",
+      "data": "2025-05-15",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe wybrane dane finansowe za I kwartał 2025 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-wybrane-dane-finansowe-za-i-kwartal-2025-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=3"
+    },
+    {
+      "numer": "10/2025",
+      "data": "2025-05-15",
+      "godzina": "",
+      "tytul": "Wniosek akcjonariusza o umieszczenie dodatkowego punktu w porządku obrad Zwyczajnego Walnego Zgromadzenia zwołanego na dzień 9 czerwca 2025 r. wraz z projektami uchwał",
+      "url": "https://www.unimot.pl/aktualnosci/wniosek-akcjonariusza-o-umieszczenie-dodatkowego-punktu-w-porzadku-obrad-zwyczajnego-walnego-zgromadzenia-zwolanego-na-dzien-9-czerwca-2025-r-wraz-z-projektami-uchwal",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=3"
+    },
+    {
+      "numer": "9/2025",
+      "data": "2025-04-25",
+      "godzina": "",
+      "tytul": "Finalizacja i rozliczenie transakcji nabycia udziałów w spółce Olavion sp. z o.o.",
+      "url": "https://www.unimot.pl/aktualnosci/finalizacja-i-rozliczenie-transakcji-nabycia-udzialow-w-spolce-olavion-sp-z-o-o",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=3"
+    },
+    {
+      "numer": "8/2025",
+      "data": "2025-04-22",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Spółki UNIMOT S.A. na dzień 9 czerwca 2025 r.",
+      "url": "https://www.unimot.pl/aktualnosci/ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-spolki-unimot-s-a-na-dzien-9-czerwca-2025-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=3"
+    },
+    {
+      "numer": "7/2025",
+      "data": "2025-04-15",
+      "godzina": "",
+      "tytul": "Rekomendacja w sprawie wypłaty dywidendy",
+      "url": "https://www.unimot.pl/aktualnosci/rekomendacja-w-sprawie-wyplaty-dywidendy",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=3"
+    },
+    {
+      "numer": "6/2025",
+      "data": "2025-04-14",
+      "godzina": "",
+      "tytul": "Zweryfikowane szacunkowe wybrane dane finansowe za IV kwartał 2024 r.",
+      "url": "https://www.unimot.pl/aktualnosci/zweryfikowane-szacunkowe-wybrane-dane-finansowe-za-iv-kwartal-2024-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=3"
+    },
+    {
+      "numer": "5/2025",
+      "data": "2025-04-04",
+      "godzina": "",
+      "tytul": "Zawarcie przez spółki zależne Emitenta dwóch umów limitów kredytowych",
+      "url": "https://www.unimot.pl/aktualnosci/zawarcie-przez-spolki-zalezne-emitenta-dwoch-umow-limitow-kredytowych",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=4"
+    },
+    {
+      "numer": "4/2025",
+      "data": "2025-03-18",
+      "godzina": "",
+      "tytul": "Przedterminowa spłata zobowiązań kredytowych",
+      "url": "https://www.unimot.pl/aktualnosci/przedterminowa-splata-zobowiazan-kredytowych",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=4"
+    },
+    {
+      "numer": "3/2025",
+      "data": "2025-03-17",
+      "godzina": "",
+      "tytul": "Rozpoczęcie projektu w obszarze wydobycia gazu ziemnego w ramach Grupy UNIMOT",
+      "url": "https://www.unimot.pl/aktualnosci/rozpoczecie-projektu-w-obszarze-wydobycia-gazu-ziemnego-w-ramach-grupy-unimot",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=4"
+    },
+    {
+      "numer": "2/2025",
+      "data": "2025-02-21",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe wybrane dane finansowe za IV kwartał 2024 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-wybrane-dane-finansowe-za-iv-kwartal-2024-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=4"
+    },
+    {
+      "numer": "1/2025",
+      "data": "2025-01-31",
+      "godzina": "",
+      "tytul": "Harmonogram przekazywania raportów okresowych w 2025 r.",
+      "url": "https://www.unimot.pl/aktualnosci/harmonogram-przekazywania-raportow-okresowych-w-2025-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=4"
+    },
+    {
+      "numer": "23/2024",
+      "data": "2024-12-23",
+      "godzina": "",
+      "tytul": "Zamówienie przez spółkę zależną dodatkowych 12 lokomotyw",
+      "url": "https://www.unimot.pl/aktualnosci/zamowienie-przez-spolke-zalezna-dodatkowych-12-lokomotyw",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=4"
+    },
+    {
+      "numer": "22/2024",
+      "data": "2024-11-05",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe wybrane dane finansowe za III kwartał 2024 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-wybrane-dane-finansowe-za-iii-kwartal-2024-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=4"
+    },
+    {
+      "numer": "21/2024",
+      "data": "2024-08-08",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe wybrane dane finansowe za II kwartał 2024 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-wybrane-dane-finansowe-za-ii-kwartal-2024-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=4"
+    },
+    {
+      "numer": "20/2024",
+      "data": "2024-08-05",
+      "godzina": "",
+      "tytul": "Rejestracja zmian Statutu Emitenta",
+      "url": "https://www.unimot.pl/aktualnosci/rejestracja-zmian-statutu-emitenta",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=4"
+    },
+    {
+      "numer": "19/2024",
+      "data": "2024-07-31",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji raportu okresowego za I półrocze 2024 r.",
+      "url": "https://www.unimot.pl/aktualnosci/zmiana-terminu-publikacji-raportu-okresowego-za-i-polrocze-2024-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=5"
+    },
+    {
+      "numer": "18/2024",
+      "data": "2024-06-18",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5 proc. głosów na ZWZ 17 czerwca 2024 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-proc-glosow-na-zwz-17-czerwca-2024-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=5"
+    },
+    {
+      "numer": "17/2024",
+      "data": "2024-06-17",
+      "godzina": "",
+      "tytul": "Powołanie członków Rady Nadzorczej UNIMOT S.A.",
+      "url": "https://www.unimot.pl/aktualnosci/powolanie-czlonkow-rady-nadzorczej-unimot-s-a",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=5"
+    },
+    {
+      "numer": "16/2024",
+      "data": "2024-06-17",
+      "godzina": "",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie 17 czerwca 2024 r.",
+      "url": "https://www.unimot.pl/aktualnosci/tresc-uchwal-podjetych-przez-zwyczajne-walne-zgromadzenie-17-czerwca-2024-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=5"
+    },
+    {
+      "numer": "15/2024",
+      "data": "2024-06-17",
+      "godzina": "",
+      "tytul": "Podjęcie uchwały o wypłacie dywidendy",
+      "url": "https://www.unimot.pl/aktualnosci/podjecie-uchwaly-o-wyplacie-dywidendy",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=5"
+    },
+    {
+      "numer": "14/2024",
+      "data": "2024-06-12",
+      "godzina": "",
+      "tytul": "Zgłoszenie przez uprawnionych akcjonariuszy kandydatów do Rady Nadzorczej Unimot S.A. oraz projektów uchwał do porządku obrad Zwyczajnego Walnego Zgromadzenia w sprawie powołania członków Rady Nadzorczej",
+      "url": "https://www.unimot.pl/aktualnosci/zgloszenie-przez-uprawnionych-akcjonariuszy-kandydatow-do-rady-nadzorczej-unimot-s-a-oraz-projektow-uchwal-do-porzadku-obrad-zwyczajnego-walnego-zgromadzenia-w-sprawie-powolania-",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=5"
+    },
+    {
+      "numer": "13/2024",
+      "data": "2024-06-12",
+      "godzina": "",
+      "tytul": "Rezygnacje członków Rady Nadzorczej",
+      "url": "https://www.unimot.pl/aktualnosci/rezygnacje-czlonkow-rady-nadzorczej",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=5"
+    },
+    {
+      "numer": "12/2024",
+      "data": "2024-05-22",
+      "godzina": "",
+      "tytul": "Zawarcie przez spółkę zależną od Emitenta umowy na przeładunek i magazynowanie gazu LPG ze spółką logistyczną z siedzibą w Niemczech",
+      "url": "https://www.unimot.pl/aktualnosci/zawarcie-przez-spolke-zalezna-od-emitenta-umowy-na-przeladunek-i-magazynowanie-gazu-lpg-ze-spolka-logistyczna-z-siedziba-w-niemczech",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=5"
+    },
+    {
+      "numer": "11/2024",
+      "data": "2024-05-20",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Spółki UNIMOT S.A. na dzień 17 czerwca 2024 r.",
+      "url": "https://www.unimot.pl/aktualnosci/ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-spolki-unimot-s-a-na-dzien-17-czerwca-2024-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=5"
+    },
+    {
+      "numer": "10/2024",
+      "data": "2024-05-10",
+      "godzina": "",
+      "tytul": "Raport nr:21/2024 Wstępne szacunkowe wybrane dane finansowe za I kwartał 2024 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-wybrane-dane-finansowe-za-i-kwartal-2024-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=6"
+    },
+    {
+      "numer": "9/2024",
+      "data": "2024-04-24",
+      "godzina": "",
+      "tytul": "Przyjęcie Strategii Grupy UNIMOT na lata 2024-2028",
+      "url": "https://www.unimot.pl/aktualnosci/przyjecie-strategii-grupy-unimot-na-lata-2024-2028",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=6"
+    },
+    {
+      "numer": "8/2024",
+      "data": "2024-04-23",
+      "godzina": "",
+      "tytul": "Rekomendacja w sprawie podziału zysku za 2023 rok",
+      "url": "https://www.unimot.pl/aktualnosci/rekomendacja-w-sprawie-podzialu-zysku-za-2023-rok",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=6"
+    },
+    {
+      "numer": "7/2024",
+      "data": "2024-04-23",
+      "godzina": "",
+      "tytul": "Uzupełnienie informacji o ostatecznym rozliczeniu transakcji nabycia akcji LOTOS Terminale S.A. (obecnie: UNIMOT Terminale sp. z o.o.)",
+      "url": "https://www.unimot.pl/aktualnosci/uzupelnienie-informacji-o-ostatecznym-rozliczeniu-transakcji-nabycia-akcji-lotos-terminale-s-a-obecnie-unimot-terminale-sp-z-o-o",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=6"
+    },
+    {
+      "numer": "6/2024",
+      "data": "2024-04-19",
+      "godzina": "",
+      "tytul": "Informacja o ostatecznym rozliczeniu transakcji nabycia akcji LOTOS Terminale S.A. (obecnie: UNIMOT Terminale sp. z o.o.) oraz dostosowanie wstępnych szacunkowych wybranych danych finansowych za IV kwartał 2023 r.",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-ostatecznym-rozliczeniu-transakcji-nabycia-akcji-lotos-terminale-s-a-obecnie-unimot-terminale-sp-z-o-o-oraz-dostosowanie-wstepnych-szacunkowych-wybranych-danych-fina",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=6"
+    },
+    {
+      "numer": "5/2024",
+      "data": "2024-04-05",
+      "godzina": "",
+      "tytul": "Wydłużenie terminu publikacji informacji o ostatecznym rozliczeniu transakcji nabycia akcji Lotos Terminale S.A. (obecnie: Unimot Terminale Sp. z o.o.)",
+      "url": "https://www.unimot.pl/aktualnosci/wydluzenie-terminu-publikacji-informacji-o-ostatecznym-rozliczeniu-transakcji-nabycia-akcji-lotos-terminale-s-a-obecnie-unimot-terminale-sp-z-o-o",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=6"
+    },
+    {
+      "numer": "4/2024",
+      "data": "2024-02-09",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe wybrane dane finansowe za IV kwartał 2023 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-wybrane-dane-finansowe-za-iv-kwartal-2023-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=6"
+    },
+    {
+      "numer": "3/2024",
+      "data": "2024-01-31",
+      "godzina": "",
+      "tytul": "Harmonogram przekazywania raportów okresowych w 2024 r.",
+      "url": "https://www.unimot.pl/aktualnosci/harmonogram-przekazywania-raportow-okresowych-w-2024-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=6"
+    },
+    {
+      "numer": "2/2024",
+      "data": "2024-01-10",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie stanu posiadania głosów na walnym zgromadzeniu UNIMOT S.A. przez Fundację Zbigniewa Juroszka Fundacja Rodzinna wraz z podmiotem dominującym i podmiotami powiązanymi oraz o pośrednim nabyciu akcji przez Zbigniewa Juroszka",
+      "url": "https://www.unimot.pl/aktualnosci/zawiadomienie-o-zmianie-stanu-posiadania-glosow-na-walnym-zgromadzeniu-unimot-s-a-przez-fundacje-zbigniewa-juroszka-fundacja-rodzinna-wraz-z-podmiotem-dominujacym-i-podmiotami-po",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=6"
+    },
+    {
+      "numer": "1/2024",
+      "data": "2024-01-05",
+      "godzina": "",
+      "tytul": "Zakup czterech dodatkowych lokomotyw przez spółkę zależną Olavion sp. z o.o. w ramach wykonania prawa opcji",
+      "url": "https://www.unimot.pl/aktualnosci/zakup-czterech-dodatkowych-lokomotyw-przez-spolke-zalezna-olavion-sp-z-o-o-w-ramach-wykonania-prawa-opcji",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=7"
+    },
+    {
+      "numer": "38/2023",
+      "data": "2023-11-22",
+      "godzina": "",
+      "tytul": "Powołanie nowych członków Zarządu",
+      "url": "https://www.unimot.pl/aktualnosci/powolanie-nowych-czlonkow-zarzadu",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=7"
+    },
+    {
+      "numer": "37/2023",
+      "data": "2023-11-09",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji raportu okresowego za III kwartał 2023 r.",
+      "url": "https://www.unimot.pl/aktualnosci/zmiana-terminu-publikacji-raportu-okresowego-za-iii-kwartal-2023-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=7"
+    },
+    {
+      "numer": "36/2023",
+      "data": "2023-11-07",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe wybrane dane finansowe za III kwartał 2023 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-wybrane-dane-finansowe-za-iii-kwartal-2023-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=7"
+    },
+    {
+      "numer": "35/2023",
+      "data": "2023-10-16",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osób pełniących obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osob-pelniacych-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=7"
+    },
+    {
+      "numer": "34/2023",
+      "data": "2023-10-06",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osób pełniących obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osob-pelniacych-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-1",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=7"
+    },
+    {
+      "numer": "33/2023",
+      "data": "2023-10-05",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osób pełniących obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osob-pelniacych-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-2",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=7"
+    },
+    {
+      "numer": "32/2023",
+      "data": "2023-10-02",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=7"
+    },
+    {
+      "numer": "31/2023",
+      "data": "2023-09-28",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-50",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=7"
+    },
+    {
+      "numer": "30/2023",
+      "data": "2023-09-26",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-1",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=8"
+    },
+    {
+      "numer": "29/2023",
+      "data": "2023-09-25",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-2",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=8"
+    },
+    {
+      "numer": "28/2023",
+      "data": "2023-09-25",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-3",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=8"
+    },
+    {
+      "numer": "27/2023",
+      "data": "2023-09-22",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-4",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=8"
+    },
+    {
+      "numer": "26/2023",
+      "data": "2023-09-20",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-5",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=8"
+    },
+    {
+      "numer": "25/2023",
+      "data": "2023-09-19",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-6",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=8"
+    },
+    {
+      "numer": "24/2023",
+      "data": "2023-09-11",
+      "godzina": "",
+      "tytul": "Tymczasowa zmiana prezentacji wstępnego rozliczenia transakcji",
+      "url": "https://www.unimot.pl/aktualnosci/tymczasowa-zmiana-prezentacji-wstepnego-rozliczenia-transakcji",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=8"
+    },
+    {
+      "numer": "23/2023",
+      "data": "2023-08-11",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji raportu okresowego za I półrocze 2023 r.",
+      "url": "https://www.unimot.pl/aktualnosci/zmiana-terminu-publikacji-raportu-okresowego-za-i-polrocze-2023-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=8"
+    },
+    {
+      "numer": "22/2023",
+      "data": "2023-08-08",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe wybrane dane finansowe za II kwartał 2023 r. oraz niepieniężne zdarzenie jednorazowe wpływające na wysokość wyników finansowych w II kwartale 2023 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-wybrane-dane-finansowe-za-ii-kwartal-2023-r-oraz-niepieniezne-zdarzenie-jednorazowe-wplywajace-na-wysokosc-wynikow-finansowych-w-ii-kwartale-2023-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=8"
+    },
+    {
+      "numer": "21/2023",
+      "data": "2023-07-04",
+      "godzina": "",
+      "tytul": "Zawarcie przez Emitenta przyrzeczonej umowy sprzedaży 80 proc. udziałów w spółce P2T sp. z o.o.",
+      "url": "https://www.unimot.pl/aktualnosci/zawarcie-przez-emitenta-przyrzeczonej-umowy-sprzedazy-80-proc-udzialow-w-spolce-p2t-sp-z-o-o",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=9"
+    },
+    {
+      "numer": "20/2023",
+      "data": "2023-06-13",
+      "godzina": "",
+      "tytul": "Zawarcie przez spółkę zależną od Emitenta umowy zakupu lokomotyw",
+      "url": "https://www.unimot.pl/aktualnosci/zawarcie-przez-spolke-zalezna-od-emitenta-umowy-zakupu-lokomotyw",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=9"
+    },
+    {
+      "numer": "19/2023",
+      "data": "2023-06-05",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5 proc. głosów na ZWZ w dniu 5 czerwca 2023 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-proc-glosow-na-zwz-w-dniu-5-czerwca-2023-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=9"
+    },
+    {
+      "numer": "18/2023",
+      "data": "2023-06-05",
+      "godzina": "",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie w dniu 5 czerwca 2023 r.",
+      "url": "https://www.unimot.pl/aktualnosci/tresc-uchwal-podjetych-przez-zwyczajne-walne-zgromadzenie-w-dniu-5-czerwca-2023-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=9"
+    },
+    {
+      "numer": "17/2023",
+      "data": "2023-06-05",
+      "godzina": "",
+      "tytul": "Podjęcie uchwały o wypłacie dywidendy",
+      "url": "https://www.unimot.pl/aktualnosci/podjecie-uchwaly-o-wyplacie-dywidendy-1",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=9"
+    },
+    {
+      "numer": "16/2023",
+      "data": "2023-05-29",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-7",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=9"
+    },
+    {
+      "numer": "15/2023",
+      "data": "2023-05-26",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-8",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=9"
+    },
+    {
+      "numer": "14/2023",
+      "data": "2023-05-09",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe wybrane dane finansowe za I kwartał 2023 rok",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-wybrane-dane-finansowe-za-i-kwartal-2023-rok",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=9"
+    },
+    {
+      "numer": "13/2023",
+      "data": "2023-05-08",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Spółki UNIMOT S.A. na dzień 5 czerwca 2023 r.",
+      "url": "https://www.unimot.pl/aktualnosci/ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-spolki-unimot-s-a-na-dzien-5-czerwca-2023-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=9"
+    },
+    {
+      "numer": "12/2023",
+      "data": "2023-04-20",
+      "godzina": "",
+      "tytul": "Rekomendacja w sprawie wypłaty dywidendy oraz polityka dywidendowa",
+      "url": "https://www.unimot.pl/aktualnosci/rekomendacja-w-sprawie-wyplaty-dywidendy-oraz-polityka-dywidendowa",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=10"
+    },
+    {
+      "numer": "11/2023",
+      "data": "2023-04-07",
+      "godzina": "",
+      "tytul": "Zawarcie przez UNIMOT Investments sp. z o.o. ostatecznej umowy przeniesienia 100 proc. akcji Lotos Terminale S.A.",
+      "url": "https://www.unimot.pl/aktualnosci/zawarcie-przez-unimot-investments-sp-z-o-o-ostatecznej-umowy-przeniesienia-100-proc-akcji-lotos-terminale-s-a",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=10"
+    },
+    {
+      "numer": "10/2023",
+      "data": "2023-04-06",
+      "godzina": "",
+      "tytul": "Spełnienie się warunków przyrzeczonej umowy nabycia 100 proc. akcji Lotos Terminale S.A.",
+      "url": "https://www.unimot.pl/aktualnosci/spelnienie-sie-warunkow-przyrzeczonej-umowy-nabycia-100-proc-akcji-lotos-terminale-s-a",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=10"
+    },
+    {
+      "numer": "9/2023",
+      "data": "2023-04-05",
+      "godzina": "",
+      "tytul": "Zawarcie przez Emitenta przedwstępnej warunkowej umowy sprzedaży 80 proc. udziałów w spółce z branży surowców energetycznych",
+      "url": "https://www.unimot.pl/aktualnosci/zawarcie-przez-emitenta-przedwstepnej-warunkowej-umowy-sprzedazy-80-proc-udzialow-w-spolce-z-branzy-surowcow-energetycznych",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=10"
+    },
+    {
+      "numer": "8/2023",
+      "data": "2023-03-14",
+      "godzina": "",
+      "tytul": "Zawarcie umowy o gwarancję ubezpieczeniową",
+      "url": "https://www.unimot.pl/aktualnosci/zawarcie-umowy-o-gwarancje-ubezpieczeniowa",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=10"
+    },
+    {
+      "numer": "7/2023",
+      "data": "2023-03-07",
+      "godzina": "",
+      "tytul": "Zawarcie przez Emitenta umowy sprzedaży 90 proc. udziałów w spółce Olavion sp. z o.o.",
+      "url": "https://www.unimot.pl/aktualnosci/zawarcie-przez-emitenta-umowy-sprzedazy-90-proc-udzialow-w-spolce-olavion-sp-z-o-o",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=10"
+    },
+    {
+      "numer": "6/2023",
+      "data": "2023-02-22",
+      "godzina": "",
+      "tytul": "Zawarcie kolejnych umów na zakup wagonów kolejowych o istotnej łącznej wartości",
+      "url": "https://www.unimot.pl/aktualnosci/zawarcie-kolejnych-umow-na-zakup-wagonow-kolejowych-o-istotnej-lacznej-wartosci",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=10"
+    },
+    {
+      "numer": "5/2023",
+      "data": "2023-02-08",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe wybrane dane finansowe za IV kwartał i cały 2022 rok",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-wybrane-dane-finansowe-za-iv-kwartal-i-caly-2022-rok",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=10"
+    },
+    {
+      "numer": "4/2023",
+      "data": "2023-02-03",
+      "godzina": "",
+      "tytul": "Zawarcie przez UNIMOT Investments sp. z o.o. przyrzeczonej warunkowej umowy nabycia 100 proc. akcji Lotos Terminale S.A.",
+      "url": "https://www.unimot.pl/aktualnosci/zawarcie-przez-unimot-investments-sp-z-o-o-przyrzeczonej-warunkowej-umowy-nabycia-100-proc-akcji-lotos-terminale-s-a",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=10"
+    },
+    {
+      "numer": "3/2023",
+      "data": "2023-01-31",
+      "godzina": "",
+      "tytul": "Zawarcie przez Emitenta i UNIMOT Investments sp. z o.o. porozumienia w sprawie zabezpieczenia akcyzowego w związku z planowaną transakcją nabycia 100 proc. akcji Lotos Terminale S.A. oraz zabezpieczenie przez Emitenta zobowiązań w postaci wystawienia weks",
+      "url": "https://www.unimot.pl/aktualnosci/zawarcie-przez-emitenta-i-unimot-investments-sp-z-o-o-porozumienia-w-sprawie-zabezpieczenia-akcyzowego-w-zwiazku-z-planowana-transakcja-nabycia-100-proc-akcji-lotos-terminale-s-a",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=11"
+    },
+    {
+      "numer": "2/2023",
+      "data": "2023-01-25",
+      "godzina": "",
+      "tytul": "Harmonogram przekazywania raportów okresowych w 2023 r.",
+      "url": "https://www.unimot.pl/aktualnosci/harmonogram-przekazywania-raportow-okresowych-w-2023-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=11"
+    },
+    {
+      "numer": "1/2023",
+      "data": "2023-01-09",
+      "godzina": "",
+      "tytul": "Zawarcie przez Emitenta przedwstępnej warunkowej umowy sprzedaży 100 proc. udziałów w spółce Olavion sp. z o.o.",
+      "url": "https://www.unimot.pl/aktualnosci/zawarcie-przez-emitenta-przedwstepnej-warunkowej-umowy-sprzedazy-100-proc-udzialow-w-spolce-olavion-sp-z-o-o",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=11"
+    },
+    {
+      "numer": "51/2022",
+      "data": "2022-12-30",
+      "godzina": "",
+      "tytul": "Odstąpienie od publikacji prognozy skonsolidowanej EBITDA skorygowanej na 2023 r. z powodu braku możliwości oszacowania wpływu zewnętrznych czynników niezależnych od Emitenta oraz planowanego nabycia 100 proc. akcji Lotos Terminale S.A.",
+      "url": "https://www.unimot.pl/aktualnosci/odstapienie-od-publikacji-prognozy-skonsolidowanej-ebitda-skorygowanej-na-2023-r-z-powodu-braku-mozliwosci-oszacowania-wplywu-zewnetrznych-czynnikow-niezaleznych-od-emitenta-oraz",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=11"
+    },
+    {
+      "numer": "50/2022",
+      "data": "2022-12-21",
+      "godzina": "",
+      "tytul": "Podpisanie przez spółkę zależną od Emitenta drugiego aneksu do Umowy Kredytów zawartej w związku z finansowaniem nabycia akcji Lotos Terminale S.A.",
+      "url": "https://www.unimot.pl/aktualnosci/podpisanie-przez-spolke-zalezna-od-emitenta-drugiego-aneksu-do-umowy-kredytow-zawartej-w-zwiazku-z-finansowaniem-nabycia-akcji-lotos-terminale-s-a",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=11"
+    },
+    {
+      "numer": "49/2022",
+      "data": "2022-12-09",
+      "godzina": "",
+      "tytul": "Ustalenie nowego terminu wyłączności prowadzenia negocjacji i zawarcia warunkowej umowy przedwstępnej sprzedaży 100 proc. udziałów w Olavion sp. z o.o.",
+      "url": "https://www.unimot.pl/aktualnosci/ustalenie-nowego-terminu-wylacznosci-prowadzenia-negocjacji-i-zawarcia-warunkowej-umowy-przedwstepnej-sprzedazy-100-proc-udzialow-w-olavion-sp-z-o-o",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=11"
+    },
+    {
+      "numer": "48/2022",
+      "data": "2022-12-01",
+      "godzina": "",
+      "tytul": "Udzielenie poręczeń związanych z umową dotyczącą rozbudowy terminala paliw w Szczecinie",
+      "url": "https://www.unimot.pl/aktualnosci/udzielenie-poreczen-zwiazanych-z-umowa-dotyczaca-rozbudowy-terminala-paliw-w-szczecinie",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=11"
+    },
+    {
+      "numer": "47/2022",
+      "data": "2022-11-14",
+      "godzina": "",
+      "tytul": "Ustalenie istotnych warunków transakcji nabycia przez Emitenta 100% udziałów w spółce działającej w branży transportu kolejowego",
+      "url": "https://www.unimot.pl/aktualnosci/ustalenie-istotnych-warunkow-transakcji-nabycia-przez-emitenta-100-udzialow-w-spolce-dzialajacej-w-branzy-transportu-kolejowego",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=11"
+    },
+    {
+      "numer": "46/2022",
+      "data": "2022-11-04",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe skonsolidowane dane finansowe za III kwartał 2022 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-skonsolidowane-dane-finansowe-za-iii-kwartal-2022-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=11"
+    },
+    {
+      "numer": "45/2022",
+      "data": "2022-09-30",
+      "godzina": "",
+      "tytul": "Podpisanie przez spółkę zależną od Emitenta aneksu do umowy kredytów zawartej w związku z finansowaniem nabycia akcji Lotos Terminale S.A.",
+      "url": "https://www.unimot.pl/aktualnosci/podpisanie-przez-spolke-zalezna-od-emitenta-aneksu-do-umowy-kredytow-zawartej-w-zwiazku-z-finansowaniem-nabycia-akcji-lotos-terminale-s-a",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=12"
+    },
+    {
+      "numer": "44/2022",
+      "data": "2022-09-30",
+      "godzina": "",
+      "tytul": "Zawarcie przez Emitenta istotnej umowy dotyczącej zakupu wagonów kolejowych do przewozu paliw",
+      "url": "https://www.unimot.pl/aktualnosci/zawarcie-przez-emitenta-istotnej-umowy-dotyczacej-zakupu-wagonow-kolejowych-do-przewozu-paliw",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=12"
+    },
+    {
+      "numer": "43/2022",
+      "data": "2022-09-02",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-9",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=12"
+    },
+    {
+      "numer": "42/2022",
+      "data": "2022-08-16",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji raportu okresowego za I półrocze 2022 r.",
+      "url": "https://www.unimot.pl/aktualnosci/zmiana-terminu-publikacji-raportu-okresowego-za-i-polrocze-2022-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=12"
+    },
+    {
+      "numer": "41/2022",
+      "data": "2022-08-11",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe skonsolidowane dane finansowe za II kwartał 2022 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-skonsolidowane-dane-finansowe-za-ii-kwartal-2022-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=12"
+    },
+    {
+      "numer": "40/2022",
+      "data": "2022-08-08",
+      "godzina": "",
+      "tytul": "Rejestracja zmian Statutu Unimot S.A.",
+      "url": "https://www.unimot.pl/aktualnosci/rejestracja-zmian-statutu-unimot-s-a",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=12"
+    },
+    {
+      "numer": "39/2022",
+      "data": "2022-08-01",
+      "godzina": "",
+      "tytul": "Przeniesienie zorganizowanej części przedsiębiorstwa Emitenta do spółki zależnej Unimot Paliwa sp. z o.o.",
+      "url": "https://www.unimot.pl/aktualnosci/przeniesienie-zorganizowanej-czesci-przedsiebiorstwa-emitenta-do-spolki-zaleznej-unimot-paliwa-sp-z-o-o",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=12"
+    },
+    {
+      "numer": "38/2022",
+      "data": "2022-07-28",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie w stanie posiadania głosów na Walnym Zgromadzeniu UNIMOT S.A. przez Nationale-Nederlanden Powszechne Towarzystwo Emerytalne S.A.",
+      "url": "https://www.unimot.pl/aktualnosci/zawiadomienie-o-zmianie-w-stanie-posiadania-glosow-na-walnym-zgromadzeniu-unimot-s-a-przez-nationale-nederlanden-powszechne-towarzystwo-emerytalne-s-a",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=12"
+    },
+    {
+      "numer": "37/2022",
+      "data": "2022-07-21",
+      "godzina": "",
+      "tytul": "Zawiadomienie o zmianie w stanie posiadania głosów na Walnym Zgromadzeniu UNIMOT S.A. przez Nationale-Nederlanden Powszechne Towarzystwo Emerytalne S.A.",
+      "url": "https://www.unimot.pl/aktualnosci/zawiadomienie-o-zmianie-w-stanie-posiadania-glosow-na-walnym-zgromadzeniu-unimot-s-a-przez-nationale-nederlanden-powszechne-towarzystwo-emerytalne-s-a-1",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=12"
+    },
+    {
+      "numer": "36/2022",
+      "data": "2022-07-19",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-10",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=13"
+    },
+    {
+      "numer": "35/2022",
+      "data": "2022-07-08",
+      "godzina": "",
+      "tytul": "Zgoda Prezesa Urzędu Ochrony Konkurencji i Konsumentów na przejęcie przez spółkę zależną od Emitenta 100 proc. akcji LOTOS Terminale S.A.",
+      "url": "https://www.unimot.pl/aktualnosci/zgoda-prezesa-urzedu-ochrony-konkurencji-i-konsumentow-na-przejecie-przez-spolke-zalezna-od-emitenta-100-proc-akcji-lotos-terminale-s-a",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=13"
+    },
+    {
+      "numer": "34/2022",
+      "data": "2022-07-07",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży w czerwcu 2022 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-w-czerwcu-2022-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=13"
+    },
+    {
+      "numer": "33/2022",
+      "data": "2022-06-29",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5 proc. głosów na ZWZ w dniu 29 czerwca 2022 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-proc-glosow-na-zwz-w-dniu-29-czerwca-2022-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=13"
+    },
+    {
+      "numer": "32/2022",
+      "data": "2022-06-29",
+      "godzina": "",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie w dniu 29 czerwca 2022 r.",
+      "url": "https://www.unimot.pl/aktualnosci/tresc-uchwal-podjetych-przez-zwyczajne-walne-zgromadzenie-w-dniu-29-czerwca-2022-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=13"
+    },
+    {
+      "numer": "31/2022",
+      "data": "2022-06-20",
+      "godzina": "",
+      "tytul": "Spełnienie się istotnego warunku nabycia przez spółkę zależną od Emitenta 100% akcji LOTOS Terminale S.A.",
+      "url": "https://www.unimot.pl/aktualnosci/spelnienie-sie-istotnego-warunku-nabycia-przez-spolke-zalezna-od-emitenta-100-akcji-lotos-terminale-s-a",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=13"
+    },
+    {
+      "numer": "30/2022",
+      "data": "2022-06-15",
+      "godzina": "",
+      "tytul": "Zgłoszenie projektu uchwały do porządku obrad Zwyczajnego Walnego Zgromadzenia zwołanego na 29 czerwca 2022 r.",
+      "url": "https://www.unimot.pl/aktualnosci/zgloszenie-projektu-uchwaly-do-porzadku-obrad-zwyczajnego-walnego-zgromadzenia-zwolanego-na-29-czerwca-2022-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=13"
+    },
+    {
+      "numer": "29/2022",
+      "data": "2022-06-15",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży w maju 2022 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-w-maju-2022-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=13"
+    },
+    {
+      "numer": "28/2022",
+      "data": "2022-06-14",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-11",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=13"
+    },
+    {
+      "numer": "27/2022",
+      "data": "2022-06-13",
+      "godzina": "",
+      "tytul": "Informacja o transakcji osoby powiązanej z osobą pełniącą obowiązki zarządcze, otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcji-osoby-powiazanej-z-osoba-pelniaca-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=14"
+    },
+    {
+      "numer": "26/2022",
+      "data": "2022-06-08",
+      "godzina": "",
+      "tytul": "Wniosek akcjonariusza o umieszczenie dodatkowego punktu w porządku obrad Zwyczajnego Walnego Zgromadzenia zwołanego na dzień 29 czerwca 2022 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wniosek-akcjonariusza-o-umieszczenie-dodatkowego-punktu-w-porzadku-obrad-zwyczajnego-walnego-zgromadzenia-zwolanego-na-dzien-29-czerwca-2022-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=14"
+    },
+    {
+      "numer": "25/2022",
+      "data": "2022-06-02",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Spółki UNIMOT S.A. na dzień 29 czerwca 2022 r.",
+      "url": "https://www.unimot.pl/aktualnosci/ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-spolki-unimot-s-a-na-dzien-29-czerwca-2022-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=14"
+    },
+    {
+      "numer": "24/2022",
+      "data": "2022-06-02",
+      "godzina": "",
+      "tytul": "Podjęcie przez Zarząd Spółki decyzji o przeniesieniu zorganizowanej części przedsiębiorstwa Emitenta do spółki zależnej oraz o istotnej zmianie przedmiotu działalności Emitenta",
+      "url": "https://www.unimot.pl/aktualnosci/podjecie-przez-zarzad-spolki-decyzji-o-przeniesieniu-zorganizowanej-czesci-przedsiebiorstwa-emitenta-do-spolki-zaleznej-oraz-o-istotnej-zmianie-przedmiotu-dzialalnosci-emitenta",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=14"
+    },
+    {
+      "numer": "23/2022",
+      "data": "2022-06-01",
+      "godzina": "",
+      "tytul": "Korekta raportu bieżącego ESPI nr 23/2022 w związku z oczywistą omyłką",
+      "url": "https://www.unimot.pl/aktualnosci/korekta-raportu-biezacego-espi-nr-23-2022-w-zwiazku-z-oczywista-omylka",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=14"
+    },
+    {
+      "numer": "23/2022",
+      "data": "2022-06-01",
+      "godzina": "",
+      "tytul": "Zakończenie inwestycji spółki zależnej Unimot Energia i Gaz sp. z o.o. w Naturalna Energia sp. z o.o.",
+      "url": "https://www.unimot.pl/aktualnosci/zakonczenie-inwestycji-spolki-zaleznej-unimot-energia-i-gaz-sp-z-o-o-w-naturalna-energia-sp-z-o-o",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=14"
+    },
+    {
+      "numer": "22/2022",
+      "data": "2022-05-27",
+      "godzina": "",
+      "tytul": "Informacja o transakcji osoby powiązanej z osobą pełniącą obowiązki zarządcze, otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcji-osoby-powiazanej-z-osoba-pelniaca-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-1",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=14"
+    },
+    {
+      "numer": "21/2022",
+      "data": "2022-05-26",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-12",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=14"
+    },
+    {
+      "numer": "20/2022",
+      "data": "2022-05-19",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe skonsolidowane dane finansowe za I kwartał 2022 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-skonsolidowane-dane-finansowe-za-i-kwartal-2022-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=14"
+    },
+    {
+      "numer": "19/2022",
+      "data": "2022-05-11",
+      "godzina": "",
+      "tytul": "Podjęcie przez Emitenta działań reorganizacyjnych w ramach Grupy kapitałowej UNIMOT",
+      "url": "https://www.unimot.pl/aktualnosci/podjecie-przez-emitenta-dzialan-reorganizacyjnych-w-ramach-grupy-kapitalowej-unimot",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=15"
+    },
+    {
+      "numer": "18/2022",
+      "data": "2022-04-25",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-13",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=15"
+    },
+    {
+      "numer": "17/2022",
+      "data": "2022-04-25",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-51",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=15"
+    },
+    {
+      "numer": "16/2022",
+      "data": "2022-04-22",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-14",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=15"
+    },
+    {
+      "numer": "15/2022",
+      "data": "2022-04-21",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-15",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=15"
+    },
+    {
+      "numer": "14/2022",
+      "data": "2022-04-20",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-16",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=15"
+    },
+    {
+      "numer": "13/2022",
+      "data": "2022-04-15",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-17",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=15"
+    },
+    {
+      "numer": "12/2022",
+      "data": "2022-04-12",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-18",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=15"
+    },
+    {
+      "numer": "11/2022",
+      "data": "2022-04-12",
+      "godzina": "",
+      "tytul": "Zmiana informacji o transakcjach osoby pełniącej obowiązki zarządcze, otrzymana w trybie art. 19 ust.1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/zmiana-informacji-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=15"
+    },
+    {
+      "numer": "10/2022",
+      "data": "2022-04-11",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-19",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=16"
+    },
+    {
+      "numer": "9/2022",
+      "data": "2022-04-11",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-20",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=16"
+    },
+    {
+      "numer": "8/2022",
+      "data": "2022-04-01",
+      "godzina": "",
+      "tytul": "Odstąpienie od publikacji prognozy skonsolidowanej EBITDA skorygowanej za 2022 rok oraz podanie wstępnej informacji o przewidywanej skonsolidowanej EBITDA skorygowanej za I kwartał 2022 r.",
+      "url": "https://www.unimot.pl/aktualnosci/odstapienie-od-publikacji-prognozy-skonsolidowanej-ebitda-skorygowanej-za-2022-rok-oraz-podanie-wstepnej-informacji-o-przewidywanej-skonsolidowanej-ebitda-skorygowanej-za-i-kwart",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=16"
+    },
+    {
+      "numer": "7/2022",
+      "data": "2022-03-22",
+      "godzina": "",
+      "tytul": "Zmiana terminu publikacji raportu okresowego za 2021 r.",
+      "url": "https://www.unimot.pl/aktualnosci/zmiana-terminu-publikacji-raportu-okresowego-za-2021-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=16"
+    },
+    {
+      "numer": "6/2022",
+      "data": "2022-03-22",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe wybrane dane finansowe za IV kwartał i cały 2021 rok",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-wybrane-dane-finansowe-za-iv-kwartal-i-caly-2021-rok",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=16"
+    },
+    {
+      "numer": "5/2022",
+      "data": "2022-01-26",
+      "godzina": "",
+      "tytul": "Istotny wpływ wyceny transakcji tradingowych na energię elektryczną zawartych przez spółkę zależną na wynik skonsolidowany Emitenta",
+      "url": "https://www.unimot.pl/aktualnosci/istotny-wplyw-wyceny-transakcji-tradingowych-na-energie-elektryczna-zawartych-przez-spolke-zalezna-na-wynik-skonsolidowany-emitenta",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=16"
+    },
+    {
+      "numer": "4/2022",
+      "data": "2022-01-20",
+      "godzina": "",
+      "tytul": "Harmonogram przekazywania raportów okresowych w 2022 roku",
+      "url": "https://www.unimot.pl/aktualnosci/harmonogram-przekazywania-raportow-okresowych-w-2022-roku",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=16"
+    },
+    {
+      "numer": "3/2022",
+      "data": "2022-01-18",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży w grudniu 2021 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-w-grudniu-2021-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=16"
+    },
+    {
+      "numer": "2/2022",
+      "data": "2022-01-12",
+      "godzina": "",
+      "tytul": "Zawarcie umowy przedwstępnej nabycia 100% akcji LOTOS Terminale Spółka Akcyjna obejmującej biznes niezależnego operatora logistycznego oraz produkcji i sprzedaży asfaltów wraz z umową kredytową w zakresie finansowania transakcji",
+      "url": "https://www.unimot.pl/aktualnosci/zawarcie-umowy-przedwstepnej-nabycia-100-akcji-lotos-terminale-spolka-akcyjna-obejmujacej-biznes-niezaleznego-operatora-logistycznego-oraz-produkcji-i-sprzedazy-asfaltow-wraz-z-u",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=16"
+    },
+    {
+      "numer": "1/2022",
+      "data": "2022-01-04",
+      "godzina": "",
+      "tytul": "Odstąpienie przez spółkę zależną od Emitenta od porozumienia w sprawie rozwiązania umowy inwestycyjnej dotyczącej Naturalna Energia sp. z o.o. oraz umów sprzedaży udziałów i wierzytelności",
+      "url": "https://www.unimot.pl/aktualnosci/odstapienie-przez-spolke-zalezna-od-emitenta-od-porozumienia-w-sprawie-rozwiazania-umowy-inwestycyjnej-dotyczacej-naturalna-energia-sp-z-o-o-oraz-umow-sprzedazy-udzialow-i-wierzy",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=17"
+    },
+    {
+      "numer": "41/2021",
+      "data": "2021-12-31",
+      "godzina": "",
+      "tytul": "Negocjacje w sprawie nowego terminu rozwiązania umowy inwestycyjnej spółki zależnej dotyczącej inwestycji w spółkę Naturalna Energia sp. z o.o.",
+      "url": "https://www.unimot.pl/aktualnosci/negocjacje-w-sprawie-nowego-terminu-rozwiazania-umowy-inwestycyjnej-spolki-zaleznej-dotyczacej-inwestycji-w-spolke-naturalna-energia-sp-z-o-o",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=17"
+    },
+    {
+      "numer": "40/2021",
+      "data": "2021-12-30",
+      "godzina": "",
+      "tytul": "Zmiana zamiaru Emitenta w sprawie emisji obligacji w 2021 r.",
+      "url": "https://www.unimot.pl/aktualnosci/zmiana-zamiaru-emitenta-w-sprawie-emisji-obligacji-w-2021-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=17"
+    },
+    {
+      "numer": "39/2021",
+      "data": "2021-12-17",
+      "godzina": "",
+      "tytul": "Warunkowe rozwiązanie umowy inwestycyjnej przez spółkę zależną od Emitenta dotyczącą inwestycji w Naturalna Energia sp. z o.o.",
+      "url": "https://www.unimot.pl/aktualnosci/warunkowe-rozwiazanie-umowy-inwestycyjnej-przez-spolke-zalezna-od-emitenta-dotyczaca-inwestycji-w-naturalna-energia-sp-z-o-o",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=17"
+    },
+    {
+      "numer": "38/2021",
+      "data": "2021-12-13",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży w listopadzie 2021 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-w-listopadzie-2021-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=17"
+    },
+    {
+      "numer": "37/2021",
+      "data": "2021-11-16",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży w październiku 2021 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-w-pazdzierniku-2021-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=17"
+    },
+    {
+      "numer": "36/2021",
+      "data": "2021-11-08",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe skonsolidowane dane finansowe za III kwartał 2021 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-skonsolidowane-dane-finansowe-za-iii-kwartal-2021-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=17"
+    },
+    {
+      "numer": "35/2021",
+      "data": "2021-10-12",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży we wrześniu 2021 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-we-wrzesniu-2021-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=17"
+    },
+    {
+      "numer": "34/2021",
+      "data": "2021-09-21",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-21",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=17"
+    },
+    {
+      "numer": "32/2021",
+      "data": "2021-09-10",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży w sierpniu 2021 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-w-sierpniu-2021-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=18"
+    },
+    {
+      "numer": "32/2021",
+      "data": "2021-08-31",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-22",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=18"
+    },
+    {
+      "numer": "31/2021",
+      "data": "2021-08-13",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży w lipcu 2021 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-w-lipcu-2021-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=18"
+    },
+    {
+      "numer": "30/2021",
+      "data": "2021-08-05",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe skonsolidowane dane finansowe za II kwartał 2021 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-skonsolidowane-dane-finansowe-za-ii-kwartal-2021-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=18"
+    },
+    {
+      "numer": "2/2021",
+      "data": "2021-07-30",
+      "godzina": "",
+      "tytul": "Informacja o stanie stosowania Dobrych Praktyk 2021",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-stanie-stosowania-dobrych-praktyk-2021",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=18"
+    },
+    {
+      "numer": "29/2021",
+      "data": "2021-07-06",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży w czerwcu 2021 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-w-czerwcu-2021-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=18"
+    },
+    {
+      "numer": "28/2021",
+      "data": "2021-06-28",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-23",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=18"
+    },
+    {
+      "numer": "27/2021",
+      "data": "2021-06-23",
+      "godzina": "",
+      "tytul": "Rezygnacja członka zarządu UNIMOT S.A.",
+      "url": "https://www.unimot.pl/aktualnosci/rezygnacja-czlonka-zarzadu-unimot-s-a",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=18"
+    },
+    {
+      "numer": "26/2021",
+      "data": "2021-06-07",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży w maju 2021 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-w-maju-2021-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=18"
+    },
+    {
+      "numer": "25/2021",
+      "data": "2021-05-21",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na ZWZ w dniu 20.05.2021 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-glosow-na-zwz-w-dniu-20-05-2021-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=19"
+    },
+    {
+      "numer": "24/2021",
+      "data": "2021-05-21",
+      "godzina": "",
+      "tytul": "Treść uchwał podjętych na Zwyczajnym Walnym Zgromadzeniu w dniu 20 maja 2021 r.",
+      "url": "https://www.unimot.pl/aktualnosci/tresc-uchwal-podjetych-na-zwyczajnym-walnym-zgromadzeniu-w-dniu-20-maja-2021-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=19"
+    },
+    {
+      "numer": "23/2024",
+      "data": "2021-05-20",
+      "godzina": "",
+      "tytul": "Powołanie Członków Rady Nadzorczej UNIMOT S.A.",
+      "url": "https://www.unimot.pl/aktualnosci/powolanie-czlonkow-rady-nadzorczej-unimot-s-a-1",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=19"
+    },
+    {
+      "numer": "22/2021",
+      "data": "2021-05-20",
+      "godzina": "",
+      "tytul": "Podjęcie uchwały o wypłacie dywidendy.",
+      "url": "https://www.unimot.pl/aktualnosci/podjecie-uchwaly-o-wyplacie-dywidendy-5",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=19"
+    },
+    {
+      "numer": "21/2021",
+      "data": "2021-05-19",
+      "godzina": "",
+      "tytul": "Zgłoszenie kandydata na Członka Rady Nadzorczej UNIMOT S.A.",
+      "url": "https://www.unimot.pl/aktualnosci/zgloszenie-kandydata-na-czlonka-rady-nadzorczej-unimot-s-a",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=19"
+    },
+    {
+      "numer": "20/2021",
+      "data": "2021-05-17",
+      "godzina": "",
+      "tytul": "Uzupełnienie raportu bieżącego o zwołaniu Zwyczajnego Walnego Zgromadzenia Spółki UNIMOT S.A. na dzień 20 maja 2021 r.",
+      "url": "https://www.unimot.pl/aktualnosci/uzupelnienie-raportu-biezacego-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-spolki-unimot-s-a-na-dzien-20-maja-2021-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=19"
+    },
+    {
+      "numer": "19/2021",
+      "data": "2021-05-14",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe skonsolidowane dane finansowe za I kwartał 2021 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-skonsolidowane-dane-finansowe-za-i-kwartal-2021-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=19"
+    },
+    {
+      "numer": "18/2021",
+      "data": "2021-05-11",
+      "godzina": "",
+      "tytul": "Rezygnacja członka Rady Nadzorczej z kandydowania do Rady Nadzorczej na kolejną kadencję",
+      "url": "https://www.unimot.pl/aktualnosci/rezygnacja-czlonka-rady-nadzorczej-z-kandydowania-do-rady-nadzorczej-na-kolejna-kadencje",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=19"
+    },
+    {
+      "numer": "17/2021",
+      "data": "2021-05-10",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży w kwietniu 2021 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-w-kwietniu-2021-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=19"
+    },
+    {
+      "numer": "16/2021",
+      "data": "2021-04-14",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-24",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=20"
+    },
+    {
+      "numer": "15/2021",
+      "data": "2021-04-13",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-25",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=20"
+    },
+    {
+      "numer": "14/2021",
+      "data": "2021-04-09",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Spółki UNIMOT S.A. na dzień 20 maja 2021 r.",
+      "url": "https://www.unimot.pl/aktualnosci/ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-spolki-unimot-s-a-na-dzien-20-maja-2021-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=20"
+    },
+    {
+      "numer": "13/2021",
+      "data": "2021-04-09",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży w marcu 2021 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-w-marcu-2021-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=20"
+    },
+    {
+      "numer": "12/2021",
+      "data": "2021-04-06",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-26",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=20"
+    },
+    {
+      "numer": "11/2021",
+      "data": "2021-04-02",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-27",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=20"
+    },
+    {
+      "numer": "10/2021",
+      "data": "2021-03-31",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-30",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=20"
+    },
+    {
+      "numer": "9/2021",
+      "data": "2021-03-30",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-31",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=20"
+    },
+    {
+      "numer": "8/2021",
+      "data": "2021-03-26",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-32",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=20"
+    },
+    {
+      "numer": "7/2020",
+      "data": "2021-03-25",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze, otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-33",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=21"
+    },
+    {
+      "numer": "1/2021",
+      "data": "2021-03-24",
+      "godzina": "",
+      "tytul": "Niestosowanie zasad szczegółowych zawartych w zbiorze „Dobre Praktyki Spółek Notowanych na GPW 2016”",
+      "url": "https://www.unimot.pl/aktualnosci/niestosowanie-zasad-szczegolowych-zawartych-w-zbiorze-dobre-praktyki-spolek-notowanych-na-gpw-2016",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=21"
+    },
+    {
+      "numer": "6/2020",
+      "data": "2021-03-24",
+      "godzina": "",
+      "tytul": "Zmiany w składzie Zarządu Spółki i powołanie Zarządu na kolejną pięcioletnią kadencję",
+      "url": "https://www.unimot.pl/aktualnosci/zmiany-w-skladzie-zarzadu-spolki-i-powolanie-zarzadu-na-kolejna-piecioletnia-kadencje",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=21"
+    },
+    {
+      "numer": "5/2021",
+      "data": "2021-03-23",
+      "godzina": "",
+      "tytul": "Rekomendacja Zarządu Emitenta w sprawie wypłaty dywidendy i opinia Rady Nadzorczej dotycząca rekomendacji Zarządu.",
+      "url": "https://www.unimot.pl/aktualnosci/rekomendacja-zarzadu-emitenta-w-sprawie-wyplaty-dywidendy-i-opinia-rady-nadzorczej-dotyczaca-rekomendacji-zarzadu",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=21"
+    },
+    {
+      "numer": "4/2021",
+      "data": "2021-03-10",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży w lutym 2021 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-w-lutym-2021-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=21"
+    },
+    {
+      "numer": "3/2021",
+      "data": "2021-03-01",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe wybrane dane finansowe za IV kwartał i cały 2020 rok",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-wybrane-dane-finansowe-za-iv-kwartal-i-caly-2020-rok",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=21"
+    },
+    {
+      "numer": "2/2021",
+      "data": "2021-02-23",
+      "godzina": "",
+      "tytul": "Zawarcie umowy przedwstępnej dotyczącej sprzedaży portfela umów klientów biznesowych przez spółkę zależną od Emitenta",
+      "url": "https://www.unimot.pl/aktualnosci/zawarcie-umowy-przedwstepnej-dotyczacej-sprzedazy-portfela-umow-klientow-biznesowych-przez-spolke-zalezna-od-emitenta",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=21"
+    },
+    {
+      "numer": "1/2021",
+      "data": "2021-02-11",
+      "godzina": "",
+      "tytul": "Podjęcie decyzji o zamiarze przeprowadzenia emisji obligacji w ramach ustanowionego programu w terminie późniejszym niż zakładano",
+      "url": "https://www.unimot.pl/aktualnosci/podjecie-decyzji-o-zamiarze-przeprowadzenia-emisji-obligacji-w-ramach-ustanowionego-programu-w-terminie-pozniejszym-niz-zakladano",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=21"
+    },
+    {
+      "numer": "38/2020",
+      "data": "2020-12-29",
+      "godzina": "",
+      "tytul": "Harmonogram przekazywania raportów okresowych w 2021 roku",
+      "url": "https://www.unimot.pl/aktualnosci/harmonogram-przekazywania-raportow-okresowych-w-2021-roku",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=21"
+    },
+    {
+      "numer": "37/2020",
+      "data": "2020-12-18",
+      "godzina": "",
+      "tytul": "Powołanie w skład Zarządu Spółki Wiceprezesa ds. Strategii i Rozwoju Grupy Kapitałowej",
+      "url": "https://www.unimot.pl/aktualnosci/powolanie-w-sklad-zarzadu-spolki-wiceprezesa-ds-strategii-i-rozwoju-grupy-kapitalowej",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=22"
+    },
+    {
+      "numer": "36/2020",
+      "data": "2020-12-18",
+      "godzina": "",
+      "tytul": "Prognoza finansowa na 2021 rok",
+      "url": "https://www.unimot.pl/aktualnosci/prognoza-finansowa-na-2021-rok",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=22"
+    },
+    {
+      "numer": "35/2020",
+      "data": "2020-12-14",
+      "godzina": "",
+      "tytul": "Podpisanie przez spółkę zależną od Emitenta umowy na realizację projektów farm fotowoltaicznych",
+      "url": "https://www.unimot.pl/aktualnosci/podpisanie-przez-spolke-zalezna-od-emitenta-umowy-na-realizacje-projektow-farm-fotowoltaicznych",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=22"
+    },
+    {
+      "numer": "34/2020",
+      "data": "2020-11-12",
+      "godzina": "",
+      "tytul": "Ustanowienie programu emisji obligacji do kwoty 150 mln zł oraz zamiar przeprowadzenia emisji obligacji",
+      "url": "https://www.unimot.pl/aktualnosci/ustanowienie-programu-emisji-obligacji-do-kwoty-150-mln-zl-oraz-zamiar-przeprowadzenia-emisji-obligacji",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=22"
+    },
+    {
+      "numer": "33/2020",
+      "data": "2020-11-06",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe skonsolidowane dane finansowe za III kwartał 2020 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-skonsolidowane-dane-finansowe-za-iii-kwartal-2020-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=22"
+    },
+    {
+      "numer": "32/2020",
+      "data": "2020-09-07",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-34",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=22"
+    },
+    {
+      "numer": "31/2020",
+      "data": "2020-09-01",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-35",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=22"
+    },
+    {
+      "numer": "30/2020",
+      "data": "2020-08-18",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży w lipcu 2020 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-w-lipcu-2020-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=22"
+    },
+    {
+      "numer": "29/2020",
+      "data": "2020-08-05",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe skonsolidowane dane finansowe za II kwartał 2020 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-skonsolidowane-dane-finansowe-za-ii-kwartal-2020-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=22"
+    },
+    {
+      "numer": "28/2020",
+      "data": "2020-07-23",
+      "godzina": "",
+      "tytul": "Rejestracja zmian Statutu Unimot S.A.",
+      "url": "https://www.unimot.pl/aktualnosci/rejestracja-zmian-statutu-unimot-s-a-2",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=23"
+    },
+    {
+      "numer": "27/2020",
+      "data": "2020-07-15",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży w czerwcu 2020 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-w-czerwcu-2020-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=23"
+    },
+    {
+      "numer": "26/2020",
+      "data": "2020-07-14",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-36",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=23"
+    },
+    {
+      "numer": "25/2020",
+      "data": "2020-07-10",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-37",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=23"
+    },
+    {
+      "numer": "24/2020",
+      "data": "2020-07-09",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-38",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=23"
+    },
+    {
+      "numer": "23/2020",
+      "data": "2020-07-09",
+      "godzina": "",
+      "tytul": "Informacja o transakcji osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcji-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-2",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=23"
+    },
+    {
+      "numer": "22/2020",
+      "data": "2020-06-29",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-39",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=23"
+    },
+    {
+      "numer": "21/2020",
+      "data": "2020-06-27",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-40",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=23"
+    },
+    {
+      "numer": "20/2020",
+      "data": "2020-06-25",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-41",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=23"
+    },
+    {
+      "numer": "19/2020",
+      "data": "2020-06-24",
+      "godzina": "",
+      "tytul": "Podwyższenie prognozy finansowej na 2020 rok",
+      "url": "https://www.unimot.pl/aktualnosci/podwyzszenie-prognozy-finansowej-na-2020-rok",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=24"
+    },
+    {
+      "numer": "18/2020",
+      "data": "2020-06-24",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-42",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=24"
+    },
+    {
+      "numer": "17/2020",
+      "data": "2020-06-24",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-43",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=24"
+    },
+    {
+      "numer": "16/2020",
+      "data": "2020-06-05",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze, otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-44",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=24"
+    },
+    {
+      "numer": "15/2020",
+      "data": "2020-06-04",
+      "godzina": "",
+      "tytul": "Informacja o transakcjach osoby pełniącej obowiązki zarządcze, otrzymana w trybie art. 19 ust. 1 MAR",
+      "url": "https://www.unimot.pl/aktualnosci/informacja-o-transakcjach-osoby-pelniacej-obowiazki-zarzadcze-otrzymana-w-trybie-art-19-ust-1-mar-45",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=24"
+    },
+    {
+      "numer": "14/2020",
+      "data": "2020-06-03",
+      "godzina": "",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na ZWZ w dniu 03.06.2020 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-glosow-na-zwz-w-dniu-03-06-2020-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=24"
+    },
+    {
+      "numer": "13/2020",
+      "data": "2020-06-03",
+      "godzina": "",
+      "tytul": "Treść uchwał podjętych na Zwyczajnym Walnym Zgromadzeniu w dniu 3 czerwca 2020 r. oraz informacja o projekcie uchwały zgłoszonej przez akcjonariusza do punktu porządku obrad w trakcie obrad walnego zgromadzenia",
+      "url": "https://www.unimot.pl/aktualnosci/tresc-uchwal-podjetych-na-zwyczajnym-walnym-zgromadzeniu-w-dniu-3-czerwca-2020-r-oraz-informacja-o-projekcie-uchwaly-zgloszonej-przez-akcjonariusza-do-punktu-porzadku-obrad-w-tra",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=24"
+    },
+    {
+      "numer": "12/2020",
+      "data": "2020-06-03",
+      "godzina": "",
+      "tytul": "Podjęcie uchwały o wypłacie dywidendy",
+      "url": "https://www.unimot.pl/aktualnosci/podjecie-uchwaly-o-wyplacie-dywidendy-2",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=24"
+    },
+    {
+      "numer": "11/2020",
+      "data": "2020-06-02",
+      "godzina": "",
+      "tytul": "Zgłoszenie projektów uchwał na Zwyczajne Walne Zgromadzenie zwołane na dzień 3 czerwca 2020 r.",
+      "url": "https://www.unimot.pl/aktualnosci/zgloszenie-projektow-uchwal-na-zwyczajne-walne-zgromadzenie-zwolane-na-dzien-3-czerwca-2020-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=24"
+    },
+    {
+      "numer": "10/2020",
+      "data": "2020-05-17",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe skonsolidowane dane finansowe za I kwartał 2020 r.",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-skonsolidowane-dane-finansowe-za-i-kwartal-2020-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=25"
+    },
+    {
+      "numer": "9/2020",
+      "data": "2020-04-30",
+      "godzina": "",
+      "tytul": "Zgłoszenie wniosku akcjonariusza o umieszczenie określonych spraw w porządku obrad Zwyczajnego Walnego Zgromadzenia zwołanego na dzień 3 czerwca 2020 r.",
+      "url": "https://www.unimot.pl/aktualnosci/zgloszenie-wniosku-akcjonariusza-o-umieszczenie-okreslonych-spraw-w-porzadku-obrad-zwyczajnego-walnego-zgromadzenia-zwolanego-na-dzien-3-czerwca-2020-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=25"
+    },
+    {
+      "numer": "8/2020",
+      "data": "2020-04-28",
+      "godzina": "",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Spółki UNIMOT S.A. na dzień 3 czerwca 2020 r.",
+      "url": "https://www.unimot.pl/aktualnosci/ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-spolki-unimot-s-a-na-dzien-3-czerwca-2020-r",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=25"
+    },
+    {
+      "numer": "7/2020",
+      "data": "2020-03-25",
+      "godzina": "",
+      "tytul": "Rekomendacja Zarządu Emitenta w sprawie wypłaty dywidendy i opinia Rady Nadzorczej dotycząca rekomendacji Zarządu.",
+      "url": "https://www.unimot.pl/aktualnosci/rekomendacja-zarzadu-emitenta-w-sprawie-wyplaty-dywidendy-i-opinia-rady-nadzorczej-dotyczaca-rekomendacji-zarzadu-1",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=25"
+    },
+    {
+      "numer": "6/2020",
+      "data": "2020-03-18",
+      "godzina": "",
+      "tytul": "Złożenie wniosku o ustanowienie zabezpieczenia na udziałach spółek zależnych Emitenta na rzecz większościowego akcjonariusza",
+      "url": "https://www.unimot.pl/aktualnosci/zlozenie-wniosku-o-ustanowienie-zabezpieczenia-na-udzialach-spolek-zaleznych-emitenta-na-rzecz-wiekszosciowego-akcjonariusza",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=25"
+    },
+    {
+      "numer": "5/2020",
+      "data": "2020-03-11",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży w lutym 2020 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-w-lutym-2020-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=25"
+    },
+    {
+      "numer": "4/2020",
+      "data": "2020-03-02",
+      "godzina": "",
+      "tytul": "Wstępne szacunkowe skonsolidowane dane finansowe za IV kwartał i cały 2019 rok",
+      "url": "https://www.unimot.pl/aktualnosci/wstepne-szacunkowe-skonsolidowane-dane-finansowe-za-iv-kwartal-i-caly-2019-rok",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=25"
+    },
+    {
+      "numer": "3/2020",
+      "data": "2020-02-12",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży w styczniu 2020 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-w-styczniu-2020-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=25"
+    },
+    {
+      "numer": "2/2020",
+      "data": "2020-01-13",
+      "godzina": "",
+      "tytul": "Przychody ze sprzedaży w grudniu 2019 r. – wstępne dane",
+      "url": "https://www.unimot.pl/aktualnosci/przychody-ze-sprzedazy-w-grudniu-2019-r-wstepne-dane",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=25"
+    },
+    {
+      "numer": "1/2020",
+      "data": "2020-01-09",
+      "godzina": "",
+      "tytul": "Harmonogram przekazywania raportów okresowych w 2020 roku",
+      "url": "https://www.unimot.pl/aktualnosci/harmonogram-przekazywania-raportow-okresowych-w-2020-roku",
+      "source_page": "https://www.unimot.pl/relacje-inwestorskie/raporty-i-strategia/raporty-biezace?page=26"
+    }
+  ],
+  "complete_period": {
+    "start": "2020-01-01",
+    "end": "2025-12-31"
+  }
+}

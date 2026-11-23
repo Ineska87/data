@@ -1,0 +1,997 @@
+GRUPY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ZA I PÓŁROCZE 
+ 
+ 
+2025 
+
+GRUPA ORLEN 
+ 
+(w mln PLN) 
+ 
+SKONSOLIDOWANY RAPORT PÓŁROCZNY ZA I PÓŁROCZE 2025 ROKU 90 / 100 
+C. 
+SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI GRUPY 
+ 
+1. 
+Sytuacja finansowa 
+1.1. Główne czynniki wpływające na EBITDA LIFO (zysk operacyjny powiększony o amortyzację wg 
+wyceny zapasów metodą LIFO) 
+ 
+Rachunek zysków lub strat za 6 miesięcy 2025 roku 
+Wynik z działalności operacyjnej powiększony o amortyzację („EBITDA”) za 6 miesięcy 2025 roku wyniósł 
+17 008 mln PLN, przy 12 098 mln PLN w analogicznym okresie 2024 roku. 
+Wpływ zmian cen ropy naftowej na wycenę zapasów za 6 miesięcy 2025 roku ujęty w wyniku EBITDA wyniósł 
+(908) mln PLN, przy 97 mln PLN za 6 miesięcy 2024 roku. 
+ 
+EBITDA wg wyceny zapasów metodą LIFO („EBITDA LIFO”) po eliminacji odpisów netto 
+aktualizujących wartość majątku trwałego* wyniosła 20 809 mln PLN i była wyższa o 7 569 mln PLN (r/r). 
+ 
+6 miesięcy 2025 6 miesięcy 2024
+zmiana r/r
+EBITDA
+17 008
+12 098
+4 910
+LIFO
+(908)
+97
+(1 005)
+EBITDA LIFO
+17 916
+12 001
+5 915
+Odpisy netto aktualizujące wartość majątku trwałego*
+(2 893)
+(1 239)
+(1 654)
+EBITDA LIFO (po eliminacji odpisów aktualizujących*)
+20 809
+13 240
+7 569
+7 569
+(6 202)
+996
+12 775
+Makro (1)
+Wolumen (2)
+Pozostałe (3)
+Czynniki wpływające na zmianę wyników:
+ 
+* Odpisy netto aktualizujące wartość majątku trwałego zostały opisane w nocie 5.3. Utrata wartości rzeczowych aktywów trwałych, 
+wartości niematerialnych, wartości firmy i aktywów z tytułu praw do użytkowania. 
+ 
+(1) Łączny wpływ parametrów makroekonomicznych wyniósł (6 202) mln PLN (r/r). 
+W segmencie Upstream & Supply wpływ zmian czynników makro wyniósł (6 147) mln PLN (r/r) i wynikał 
+głównie z niższych marż na sprzedaży gazu wysokometanowego. Obniżony poziom marż to efekt realizacji 
+kontraktów terminowych na TGE po niższych cenach przy jednocześnie wyższych (r/r) kosztach 
+pozyskania gazu w rezultacie wzrostu cen rynkowych surowca (r/r). Kontrakty na rok 2024 były zawierane 
+pod koniec 2023 roku przy wysokich cenach gazu, natomiast kontraktacja na rok 2025 odbywała się w 
+bardziej stabilnym otoczeniu rynkowym. 
+W segmencie Downstream wpływ zmian parametrów makro wyniósł (1 672) mln PLN (r/r) i obejmował 
+głównie efekt w wysokości (1 178) mln PLN (r/r) związany z obniżeniem marż (cracków) na lekkich i 
+średnich destylatach, polipropylenie oraz PTA. Dodatkowo osłabienie USD względem PLN miało ujemny 
+wpływ na wyniki segmentu w kwocie (265) mln PLN (r/r). 
+W segmencie Energy efekt zmian czynników makro wyniósł 804 mln PLN (r/r) i obejmował głównie wzrost 
+marż realizowanych na sprzedaży energii elektrycznej oraz na usługach dystrybucyjnych energii 
+elektrycznej a także korzystniejsze (r/r) ceny kontraktów na pokrycie strat sieciowych. 
+W segmencie Consumers and Products efekt zmian czynników makro wyniósł 813 mln PLN (r/r) i 
+wynikał głównie ze specyficznej struktury rozłożenia w czasie realizacji marży na sprzedaży gazu oraz 
+optymalizacji procesów zakupu gazu. W I półroczu 2024 roku funkcjonowała taryfa (Taryfa 13), której 
+okres obowiązywania został skrócony tzw. ustawą o bonie energetycznym. Od II półrocza 2024 zaczęła 
+natomiast obowiązywać nowa 12 miesięczna taryfa (Taryfa 15). Konstrukcja obu taryf zakłada poniesienie 
+straty przez operatora w I półroczu obowiązywania taryfy, która następnie jest rekompensowana w II 
+półroczu. Zatem w wyniku powyższych zmian legislacyjnych w całym 2024 roku realizowane były 
+niekorzystne marże na sprzedaży gazu. 
+(2) Łączny wpływ zmiany wolumenów sprzedaży wyniósł 996 mln PLN (r/r). 
+W segmencie Upstream & Supply efekt wolumenowy wyniósł 678 mln PLN (r/r) i wynikał przede 
+wszystkim ze wzrostu o 19 TWh (r/r) sprzedaży gazu do poziomu 136 TWh. Sprzedaż giełdowa gazu w 
+Polsce zwiększyła się o 9,6 TWh (r/r) w efekcie odbudowującego się popytu z sektora przemysłowego po 
+istotnych wzrostach cen surowca spowodowanych konfliktem w Ukrainie. Zwiększyło się również 
+zapotrzebowanie na gaz ze strony innych podmiotów krajowych o 4,6 TWh (r/r) w rezultacie uruchomienia 
+nowych jednostek produkujących energię elektryczną wykorzystujących gaz. Korzystne spready umożliwiły 
+
+GRUPA ORLEN 
+ 
+(w mln PLN) 
+ 
+SKONSOLIDOWANY RAPORT PÓŁROCZNY ZA I PÓŁROCZE 2025 ROKU 91 / 100 
+wzrost wolumenów tradingu gazu na rynek niemiecki o 8,4 TWh (r/r). Zmniejszeniu uległa natomiast 
+sprzedaż gazu o (3,1) TWh (r/r) m.in. w rezultacie trwającego od maja 2025 roku postoju na złożu Ormen 
+Lange w Norwegii oraz zmianę kanałów dystrybucji (sprzedaż w 2025 roku realizowana przez spółkę 
+tradingową). 
+W segmencie Downstream efekt wolumenowy wyniósł 195 mln PLN (r/r). Pomimo niższej sprzedaży w 
+ujęciu ilościowym o (517) tys. ton (r/r) dodatni wpływ wynikał głównie z poprawy struktury sprzedaży 
+produktów rafineryjnych. Pozytywnie na efekt wolumenowy wpłynęło zmniejszenie sprzedaży ciężkiego 
+oleju opałowego o (307) tys. ton, która realizowana jest z ujemną marżą rafineryjną (pozytywny 
+wartościowy efekt wolumenowy). Niższa sprzedaż tego produktu została spowodowana obniżonym 
+przerobem ropy w Płocku na skutek postoju instalacji Hydrokrakingu w I kwartale 2025 roku oraz zmianą 
+struktury przerabianych rop. Sprzedaż oleju napędowego była niższa o (306) tys. ton, jednak głównie w 
+wyniku niższej sprzedaży towarów handlowych przy zwiększonej sprzedaży wyrobów z własnej produkcji, 
+na których realizowana jest pełna marża rafineryjna. Ograniczona sprzedaż oleju napędowego była 
+rezultatem ograniczonego popytu rynkowego i zwiększonej aktywności konkurencji. Zwiększeniu uległa 
+sprzedaż benzyn o 78 tys. ton (r/r), paliwa lotniczego o 91 tys. ton (r/r) i LPG o 25 tys. ton (r/r). 
+Sprzedaż produktów petrochemicznych była niższa (r/r) głównie nawozów o (132) tys. ton (r/r) w rezultacie 
+wyłączenia z przyczyn ekonomicznych instalacji produkcyjnych w Czechach oraz postojów instalacji 
+nawozowych we Włocławku na skutek awarii zasilania w marcu 2025 roku. Zmniejszyły się również 
+wolumeny PTA o (75) tys. ton (r/r), PCW o (30) tys. ton (r/r), poliolefin o (45) tys. ton (r/r) i olefin o (39) tys. 
+ton (r/r) w rezultacie postojów instalacji, głównie z I kwartału 2025 roku. 
+W segmencie Energy efekt wolumenowy wyniósł 78 mln PLN (r/r) i wynikał głównie z wyższej produkcji i 
+sprzedaży energii elektrycznej w Elektrowni Ostrołęka o 0,3 TWh (r/r) w rezultacie zwiększonego 
+wykorzystania jednostki przez PSE (systemowe zapotrzebowanie na energię) oraz wyższej sprzedaży 
+energii cieplnej o 1,5 PJ (r/r) na skutek wpływu warunków pogodowych (niższe średnie temperatury). 
+W segmencie Consumers & Products efekt wolumenowy wyniósł 44 mln PLN (r/r) i został osiągnięty 
+dzięki wyższej sprzedaży gazu i energii elektrycznej o 5% (r/r) do poziomu 61 TWh, głównie w efekcie 
+niższych (r/r) średnich temperatur w lutym i maju 2025 roku. 
+Z kolei łączna sprzedaż wolumenowa paliw silnikowych była niższa o (80) tys. ton (r/r), głównie na rynku 
+polskim o (84) tys. ton (r/r) w rezultacie intensywnej konkurencji cenowej oraz austriackim o (78) tys. ton 
+(r/r) w konsekwencji wyeliminowania ze sprzedaży tańszych paliw pochodzenia rosyjskiego, co 
+spowodowało odejście klientów do konkurencji oferującej nadal atrakcyjne cenowo paliwa. Na pozostałych 
+rynkach operacyjnych sprzedaż paliw była wyższa, tj. na rynku czeskim, słowackim i węgierskim o 63 tys. 
+ton (r/r), na rynku niemieckim o 18 tys. ton (r/r) i litewskim o 1 tys. ton (r/r). 
+(3) Wpływ pozostałych czynników wyniósł 12 775 mln PLN (r/r) i obejmował głównie: 
+• brak ujemnego wpływu odpisu na Fundusz Wypłaty Różnicy Ceny z 6 miesięcy 2024 roku w kwocie 15 
+410 mln PLN, 
+• zmiany różnic kursowych od należności i zobowiązań handlowych w kwocie 1 105 mln PLN (r/r) 
+wynikający z osłabienia kursu USD/PLN, 
+• ujęcie rezerwy w kwocie (217) mln PLN w związku z wyrokiem Trybunału Arbitrażowego dotyczącym 
+rozliczeń za gaz ziemny dostarczany w ramach kontraktu jamalskiego oraz wstrzymania dostaw gazu 
+ziemnego przez Gazprom - szczegóły dotyczące przedmiotu sporu oraz wysokości rezerwy zostały 
+zaprezentowane w nocie 5.16, 
+• ujemny wpływ braku odszkodowania od ubezpieczycieli z 2024 roku w związku z awarią na instalacji 
+Hydroodsiarczania Gudronu (HOG) w Płocku w kwocie (443) mln PLN (r/r), 
+• wpływ rozliczenia składników aktywów i zobowiązań dawnej Grupy PGNiG na dzień połączenia w 
+wysokości (1 015) mln PLN (r/r), 
+• ujemny wpływ w kwocie (602) mln PLN (r/r) związany z wykorzystaniem droższych warstw zapasów 
+ropy naftowej, 
+• pozostałe elementy w kwocie (1 463) mln PLN (r/r) związane m.in. z ujemnym wpływem niższych (r/r) 
+marż hurtowych na sprzedaży gazu w segmencie Upstream & Supply (wykorzystanie w 2025 roku przez 
+kontrahentów opcji zmiany cen indeksowanych na ceny stałe), zmniejszonej odsprzedaży energii 
+elektrycznej (działalność tradingowa) w segmencie Energy z uwagi na postój remontowy CCGT 
+Włocławek oraz wzrost (r/r) kosztów ogólnych i pracy. Powyższe ujemne efekty zostały częściowo 
+skompensowane wyższym (r/r) wynikiem na usługach dystrybucyjnych gazu w segmencie Energy 
+(zwiększony popyt z sektora przemysłowego po wysokich wzrostach cen gazu w poprzednich latach) 
+oraz poprawą marż paliwowych w segmencie Consumers & Products. 
+ 
+ 
+ 
+ 
+ 
+
+GRUPA ORLEN 
+ 
+(w mln PLN) 
+ 
+SKONSOLIDOWANY RAPORT PÓŁROCZNY ZA I PÓŁROCZE 2025 ROKU 92 / 100 
+1.2. Najważniejsze zdarzenia w okresie od 1 stycznia 2025 roku do dnia sporządzenia niniejszego 
+raportu 
+STYCZEŃ 2025 
+Strategia Grupy ORLEN do 2035 roku z nową polityką dywidendową 
+ORLEN ogłosił Strategię Grupy ORLEN do 2035 roku („Strategia”) pod hasłem „Energia jutra 
+zaczyna się dziś”. Skuteczne wdrożenie inicjatyw strategicznych pozwoli na transformację Grupy 
+ORLEN w kierunku zintegrowanej, zdywersyfikowanej i odpornej na cykle gospodarcze 
+organizacji. (https://www.orlen.pl/pl/o-firmie/strategia). 
+Nabycie akcji Spółki przez członków Zarządu ORLEN 
+ORLEN poinformował, iż: 
+• 9 stycznia 2025 roku do Spółki wpłynęło zawiadomienie o nabyciu akcji ORLEN S.A. przez 
+Panią Magdalenę Bartoś, Wiceprezes Zarządu Spółki; 
+• 10 stycznia 2025 roku do Spółki wpłynęło zawiadomienie o nabyciu akcji ORLEN S.A. przez 
+Pana Marcina Wasilewskiego, Członka Zarządu Spółki; 
+• 10 stycznia 2025 roku do Spółki wpłynęło zawiadomienie o nabyciu akcji ORLEN S.A. przez 
+Pana Marka Balawejdera, Członka Zarządu Spółki. 
+Pozew o stwierdzenie nieważności wraz z ewentualnym roszczeniem o uchylenie uchwały 
+NWZ ORLEN 
+ORLEN powziął informację z Sądu Okręgowego w Łodzi, X Wydział Gospodarczy o wniesieniu 
+przez akcjonariusza Spółki pozwu o stwierdzenie nieważności wraz z ewentualnym roszczeniem 
+o uchylenie uchwały nr 5 podjętej przez Nadzwyczajne Walne Zgromadzenie ORLEN w dniu 2 
+grudnia 2024 roku, dotyczącej roszczeń o naprawienie szkód wyrządzonych przy sprawowaniu 
+zarządu przeciwko byłym członkom Zarządu Spółki. 
+W ocenie Spółki pozew jest bezzasadny. 
+Emisja obligacji serii C w ramach programu emisji obligacji średnioterminowych 
+Spółka wyemitowała obligacje serii C o łącznej wartości nominalnej 1,25 mld USD w ramach 
+programu emisji średnioterminowych obligacji ustanowionego 13 maja 2021 roku i 
+zaktualizowanego w dniu 20 stycznia 2025 roku. Środki z emisji obligacji zostaną wykorzystane 
+na finansowanie prowadzonej działalności, z uwzględnieniem realizacji planów inwestycyjnych 
+wynikających ze Strategii ORLEN 2035. Emisja dotyczyła 6 250 obligacji niezabezpieczonych, 
+oprocentowanych według stałej stopy procentowej wynoszącej 6% rocznie, z datą wykupu 30 
+stycznia 2035 roku. Wartość nominalna jednej obligacji wynosiła 200 tys. USD, a cena emisyjna 
+wyniosła 98,555%. Wartość emisji, rozumiana jako iloczyn liczby Obligacji objętych ofertą i ceny 
+emisyjnej, wyniosła 1 231 937 500 USD. 
+Księga popytu obejmowała zapisy na ponad 4 000 mln USD, co oznacza ok 3,3-krotną 
+nadsubskrypcję Obligacji. ORLEN dokonał przydziału Obligacji 148 inwestorom z 28 krajów. 
+W dniu 30 stycznia 2025 roku Obligacje zostały dopuszczone do obrotu na rynku regulowanym 
+prowadzonym przez Euronext Dublin. 
+16 maja 2025 roku ORLEN poinformował o wysokości kosztów emisji szacowanych na około 13 
+208 tys. PLN, w tym: 
+• 
+koszty przygotowania i przeprowadzenia oferty Obligacji – 9 112 tys. PLN, 
+• 
+koszty dotyczące sporządzenia/aktualizacji prospektu emisyjnego, z uwzględnieniem 
+kosztów doradztwa 4 096 tys. PLN. 
+Koszty związane z emisją Obligacji zostały ujęte jako rozliczenia międzyokresowe czynne i będą 
+systematycznie obciążały wynik finansowy. Z podatkowego punktu widzenia koszty transakcyjne 
+stanowią koszty uzyskania przychodów i są potrącalne w dacie ich ujęcia w księgach. 
+LUTY 2025 
+Norges Bank wycofał ORLEN z listy obserwacyjnej 
+Norges Bank wycofał ORLEN z listy obserwacyjnej, na którą Spółka trafiła w lutym 2023 roku w 
+związku z zakupem spółki Polska Press. W ówczesnej ocenie banku transakcja przejęcia 
+wydawnictwa wiązała się z niedopuszczalnym ryzykiem udziału Spółki w naruszeniu praw 
+człowieka, naruszeniu wolności prasy oraz wolności słowa w Polsce. Zgodnie z rekomendacją 
+wydaną w grudniu 2024 roku przez Komitet Etyki norweskiego banku nowy Zarząd ORLENU, 
+który objął swoje funkcje na początku 2024 roku, wdrożył w działalności Spółki zmiany dzięki 
+którym ryzyko wskazanych naruszeń zostało zlikwidowane. ORLEN wyraził intencję sprzedaży 
+Polska Press, dodatkowo kierownictwo tej spółki zostało odłączone od podejmowania decyzji 
+redakcyjnych, a nowi redaktorzy gazet regionalnych zostali zatrudnieni w drodze otwartych 
+procesów rekrutacyjnych. Dzięki temu, w ocenie Banku, wzmocniona zostanie wolność 
+redakcyjna w przyszłości. 
+MARZEC 2025 
+Fitch Ratings potwierdził rating ORLENU na poziomie „BBB+”; perspektywa stabilna 
+Fitch Ratings, 3 marca 2025 roku, potwierdził długoterminowy rating Spółki w walucie obcej na 
+poziomie „BBB+” z perspektywą stabilną. 
+Agencja ratingowa uwzględniła w swojej ocenie silny profil kredytowy ORLENU wspierany przez 
+szeroką skalę działalności Spółki, dywersyfikację biznesową, w tym w sektorze użyteczności 
+publicznej, który generuje bardziej stabilne przepływy pieniężne niż działalność wydobywcza i 
+
+GRUPA ORLEN 
+ 
+(w mln PLN) 
+ 
+SKONSOLIDOWANY RAPORT PÓŁROCZNY ZA I PÓŁROCZE 2025 ROKU 93 / 100 
+przetwórcza ropy naftowej i gazu. 
+Ocena ratingowa podparta jest ogłoszonymi przez Spółkę strategicznymi celami, w tym w 
+szczególności: utrzymaniem wskaźnika zadłużenia dług netto/EBITDA na poziomie nie wyższym 
+niż 2,0, z wyłączeniem finansowania projektów i zadłużenia bez prawa regresu, a także 
+zobowiązaniem do zwiększania dywidendy, co jest równoważone elastycznością w zakresie 
+wzrostu nakładów inwestycyjnych na fuzje i przejęcia. 
+Oddalenie powództw o stwierdzenie nieważności uchwał ZWZ ORLEN S.A 
+ORLEN poinformował, że 7 marca 2025 roku Sąd Okręgowy w Łodzi X Wydział Gospodarczy 
+oddalił w całości powództwa akcjonariusza Spółki o stwierdzenie nieważności lub uchylenie 
+następujących uchwał podjętych przez Zwyczajne Walne Zgromadzenie w dniu 25 czerwca 2024 
+roku: 
+• uchwały Nr 18 w sprawie absolutorium z wykonania obowiązków w roku 2023 Członka 
+Zarządu Spółki, Pana Piotra Sabata, 
+• uchwały Nr 19 w sprawie absolutorium z wykonania obowiązków w roku 2023 Członka 
+Zarządu Spółki, Pana Krzysztofa Nowickiego. 
+KWIECIEŃ 2025 
+Oddalenie powództwa o stwierdzenie nieważności uchwały ZWZ ORLEN S.A. 
+ORLEN poinformował, że: 
+• 15 kwietnia 2025 roku Sąd Okręgowy w Łodzi X Wydział Gospodarczy oddalił w całości 
+powództwo akcjonariusza Spółki o stwierdzenie nieważności lub uchylenie uchwały nr 16 
+podjętej przez Zwyczajne Walne Zgromadzenie w dniu 25 czerwca 2024 roku w sprawie 
+absolutorium z wykonania obowiązków w roku 2023 Członka Zarządu Spółki, Pana Jana 
+Szewczaka. 
+• 16 kwietnia 2025 roku Sąd Okręgowy w Łodzi X Wydział Gospodarczy oddalił w całości 
+powództwo akcjonariusza Spółki o stwierdzenie nieważności lub uchylenie uchwały nr 17 
+podjętej przez Zwyczajne Walne Zgromadzenie w dniu 25 czerwca 2024 roku w sprawie 
+absolutorium z wykonania obowiązków w roku 2023 Członka Zarządu Spółki, Pana Józefa 
+Węgreckiego. 
+Pierwsze zawiadomienie akcjonariuszy o zamiarze połączenia ORLEN z ORLEN Olefiny sp. z 
+o.o. 
+Zarząd ORLEN działając na podstawie art. 504 § 1 Kodeksu spółek handlowych, zawiadomił 
+akcjonariuszy o zamiarze połączenia ORLEN ze spółką pod firmą ORLEN Olefiny Spółka z 
+ograniczoną odpowiedzialnością z siedzibą w Płocku, („ORLEN Olefiny”). ORLEN Olefiny jest 
+spółką celową, utworzoną w 2021 roku do pozyskania finansowania i realizacji przedsięwzięcia 
+oznaczonego jako Projekt Kompleksu Olefiny III, której 100% udziałów posiada ORLEN. 
+Połączenie ORLEN ze spółką ORLEN Olefiny nastąpi poprzez przeniesienie całego majątku 
+ORLEN Olefiny (spółka przejmowana) na Spółkę (spółka przejmująca), bez konieczności 
+podwyższania kapitału zakładowego Spółki ani dokonywania w związku z takim połączeniem 
+zmian statutu Spółki („Połączenie”). 
+W dniu 22 kwietnia 2025 roku Spółka oraz ORLEN Olefiny pisemnie uzgodniły plan połączenia, 
+który został przez Spółkę opublikowany na stronie internetowej https://www.orlen.pl/pl/relacjeinwestorskie/orlen-olefiny („Plan Połączenia”). 
+Połączenie wymaga uchwały walnego zgromadzenia (zgromadzenia wspólników) każdej z 
+łączących się spółek 
+MAJ 2025 
+Pierwsze zawiadomienie akcjonariuszy o zamiarze wyodrębnienia aktywów służących do 
+prowadzenia krajowej działalności poszukiwawczej, wydobywczej oraz magazynowej 
+14 maja 2025 roku Zarząd ORLEN zawiadomił akcjonariuszy o planowanym podziale Spółki 
+poprzez przeniesienie części majątku ORLEN na spółkę przejmującą, tj. ORLEN Upstream 
+Polska Sp. z o.o. z siedzibą w Warszawie, („OUP”). 
+Proces ten nastąpi poprzez przeniesienie części majątku ORLEN na OUP w zamian za nowe 
+udziały, które obejmie ORLEN, tj. podział przez wyodrębnienie. 
+Celem prowadzonych działań jest wyodrębnienie z ORLEN do OUP aktywów stanowiących 
+zorganizowaną część przedsiębiorstwa służących do kontynuowania krajowej działalności 
+poszukiwawczej, wydobywczej oraz magazynowej. 
+14 maja 2025 roku ORLEN oraz OUP pisemnie uzgodniły plan, który zgodnie z art. 535 § 3 KSH 
+został 
+przez 
+Spółkę 
+opublikowany 
+na 
+stronie 
+internetowej 
+pod 
+adresem: 
+https://orlen.pl/pl/relacje-inwestorskie/wyodrebnienie-aktywow-upstream. 
+Przeprowadzenie procesu wymaga uchwały walnego zgromadzenia ORLEN oraz zgromadzenia 
+wspólników OUP. 
+Oddalenie powództwa o stwierdzenie nieważności uchwał ZWZ ORLEN S.A. 
+ORLEN poinformował, że w dniu 15 maja 2025 roku Sąd Okręgowy w Łodzi X Wydział 
+Gospodarczy oddalił w całości powództwa akcjonariusza Spółki o stwierdzenie nieważności lub 
+uchylenie następujących uchwał podjętych przez Zwyczajne Walne Zgromadzenie w dniu 25 
+czerwca 2024 roku: 
+
+GRUPA ORLEN 
+ 
+(w mln PLN) 
+ 
+SKONSOLIDOWANY RAPORT PÓŁROCZNY ZA I PÓŁROCZE 2025 ROKU 94 / 100 
+• uchwały Nr 15 w sprawie absolutorium z wykonania obowiązków w roku 2023 Członka 
+Zarządu Spółki, Pana Michała Roga, 
+• uchwały Nr 20 w sprawie absolutorium z wykonania obowiązków w roku 2023 Członka 
+Zarządu Spółki, Pani Iwony Waksmundzkiej - Olejniczak. 
+Wyroki w ww. sprawach nie są prawomocne. 
+CZERWIEC 2025 
+Oddalenie powództw w sprawach o uchylenie lub stwierdzenie nieważności uchwały NWZ 
+PGNiG S.A. 
+ORLEN poinformował, że Sąd Okręgowy w Łodzi – X Wydział Gospodarczy oddalił powództwo 
+główne i powództwo ewentualne o uchylenie lub stwierdzenie nieważności lub ustalenie 
+nieistnienia uchwały nr 3/2022 Nadzwyczajnego Walnego Zgromadzenia PGNiG S.A. z dnia 10 
+października 2022 roku w sprawie połączenia Spółki z PGNiG S.A. oraz zgody na proponowane 
+zmiany Statutu ORLEN. Wyrok ten jest nieprawomocny. 
+Ponadto Sąd Okręgowy w Warszawie – XX Wydział Gospodarczy oddalił powództwo o 
+stwierdzenie nieważności lub o uchylenie wyżej wymienionej Uchwały. Wyrok ten jest 
+prawomocny. 
+Nabycie akcji Spółki przez członków Zarządu ORLEN 
+ORLEN poinformował, iż: 
+• 13 czerwca 2025 roku do Spółki wpłynęło zawiadomienie o nabyciu akcji ORLEN S.A. przez 
+Panią Magdalenę Bartoś, Wiceprezes Zarządu Spółki; oraz przez Pana Marcina 
+Wasilewskiego, Członka Zarządu Spółki; 
+• 17 czerwca 2025 roku do Spółki wpłynęło zawiadomienie o nabyciu akcji ORLEN S.A. przez 
+Pana Ireneusza Fąfarę, Prezesa Zarządu Spółki. 
+Oddalenie powództwa o stwierdzenie nieważności uchwały ZWZ ORLEN S.A. 
+ORLEN poinformował, że w dniu 13 czerwca 2025 roku Sąd Okręgowy w Łodzi X Wydział 
+Gospodarczy oddalił w całości powództwo akcjonariusza Spółki o stwierdzenie nieważności lub 
+uchylenie uchwały nr 11 podjętej przez Zwyczajne Walne Zgromadzenie w dniu 25 czerwca 
+2024 roku w sprawie absolutorium z wykonania obowiązków w roku 2023 Prezesa Zarządu 
+Spółki Pana Daniela Obajtka. 
+Wyrok w ww. sprawie nie jest prawomocny. 
+Bezzwrotne dofinansowanie ze środków KPO na projekty wodorowe Grupy ORLEN 
+Grupa ORLEN otrzymałya 1,7 mld PLN bezzwrotnego dofinansowania ze środków Krajowego 
+Planu Odbudowy (KPO) w ramach dwóch programów Green H2 i Hydrogen Eagle. Wsparcie w 
+formie dotacji zostanie wykorzystane do produkcji wodoru odnawialnego w procesie elektrolizy 
+zasilanej OZE oraz wodoru niskoemisyjnego produkowanego z odpadów komunalnych. 
+Hydrogen 
+Eagle 
+to 
+program 
+inwestycyjny 
+Grupy 
+ORLEN, 
+zakładający 
+budowę 
+zdywersyfikowanych 
+źródeł 
+wodoru 
+odnawialnego 
+i 
+niskoemisyjnego. 
+Wodór 
+będzie 
+produkowany zarówno z odnawialnych źródeł energii, jak również z odpadów komunalnych w 
+technologii Waste-to-hydrogen. Hydrogen Eagle nie tylko wzmocni europejską infrastrukturę 
+wodorową, ale także przyczyni się do redukcji emisji dwutlenku węgla oraz rozwoju 
+odnawialnych źródeł energii. 
+Green H2 to projekt LOTOS Green H2, spółki celowej wchodzącej w skład Grupy ORLEN, 
+którego celem jest produkcja wodoru odnawialnego, wykorzystywanego w procesach 
+rafineryjnych przy produkcji paliw w Gdańsku. Program zakłada instalację elektrolizera o mocy 
+100 MW połączonego z instalacją magazynowania energii. 
+Dotacje dla projektów Grupy ORLEN zostały przyznane w ramach trzeciej części programu 
+B2.1.1 „Inwestycje w technologie wodorowe, wytwarzanie, magazynowanie i transport wodoru”. 
+Operatorem konkursu jest Bank Gospodarstwa Krajowego, a pieniądze pochodzą z Krajowego 
+Planu Odbudowy, którego celem jest odbudowa potencjału rozwojowego gospodarki oraz 
+wsparcie jej konkurencyjności. 
+Emisja obligacji serii D w ramach programu emisji obligacji średnioterminowych 
+ORLEN wyemitował obligacje serii D o łącznej wartości nominalnej 600 mln EUR w ramach 
+programu 
+emisji 
+średnioterminowych 
+obligacji 
+ustanowionego 
+13 
+maja 
+2021 
+roku, 
+zaktualizowanego w dniu 20 stycznia 2025 roku. Środki z emisji obligacji zostaną wykorzystane 
+przez Spółkę na finansowanie projektów z trzech ustalonych kategorii: energia odnawialna, 
+efektywność 
+energetyczna 
+i 
+czysty 
+transport. 
+Emisja 
+dotyczyła 
+6 000 
+obligacji 
+niezabezpieczonych, oprocentowanych według stałej stopy procentowej wynoszącej 3,625% 
+rocznie, z datą wykupu 2 lipca 2032 roku. Wartość nominalna jednej obligacji wyniosła 100 tys. 
+EUR, a cena emisyjna wyniosła 99,261%. Wartość emisji, rozumiana jako iloczyn liczby Obligacji 
+objętych ofertą i ceny emisyjnej, wyniosła 595 566 000 EUR. 
+W dniu 2 lipca 2025 roku obligacje zostały dopuszczenie do obrotu na rynku regulowanym 
+prowadzonym przez Euronext Dublin. 
+Zapisy na Obligacje prowadzono 25 czerwca 2025 roku i w tym samym dniu zakończono 
+subskrypcję. Oferta nie była podzielona na transze. Przydziału Obligacji dokonano 25 czerwca 
+2025, a rozliczenie emisji nastąpiło 2 lipca 2025 roku. 
+
+GRUPA ORLEN 
+ 
+(w mln PLN) 
+ 
+SKONSOLIDOWANY RAPORT PÓŁROCZNY ZA I PÓŁROCZE 2025 ROKU 95 / 100 
+W okresie subskrypcji 139 inwestorów wyraziło zainteresowanie Obligacjami. Ostateczna księga 
+popytu obejmowała zapisy na ponad 1,49 mld EUR co oznacza ok. 2,5-krotną nadsubskrypcję 
+Obligacji. ORLEN dokonał przydziału Obligacji 117 inwestorom z 27 krajów. 
+Z uwagi na brak ostatecznego rozliczenia kosztów emisji, Spółka sporządzi i udostępni do 
+publicznej wiadomości raport bieżący z kosztami emisji, w tym kosztami według ich tytułów, po 
+otrzymaniu i zaakceptowaniu wszystkich faktur od podmiotów zaangażowanych w pracę nad 
+przygotowaniem i przeprowadzeniem oferty jednak nie później niż w terminie wymaganym dla 
+przekazania tej informacji w drodze raportu bieżącego. 
+Koszty Spółki związane z oferowaniem Obligacji obciążają koszty działalności Spółki. 
+LIPIEC 2025 
+Wyrok częściowy w postępowaniu arbitrażowym 
+ORLEN poinformował, że w dniu 2 lipca 2025 roku otrzymał wiadomość o wydaniu w dniu 1 lipca 
+2025 roku przez Trybunał Arbitrażowy ad hoc z siedzibą w Sztokholmie Wyroku częściowego 
+(„Wyrok częściowy”) w postępowaniu arbitrażowym rozpoczętym 14 stycznia 2022 roku z 
+powództwa przedsiębiorstw/spółek: PAO Gazprom i OOO Gazprom export (dalej łącznie 
+„Gazprom”), które dotyczyło m.in. zmiany ceny kontraktowej za gaz dostarczany do PGNiG S.A. 
+(aktualnie ORLEN) od listopada 2017 roku na podstawie kontraktu kupna-sprzedaży gazu 
+ziemnego do Rzeczypospolitej Polskiej z dnia 25 września 1996 roku („Kontrakt Jamalski”). 
+Na mocy Wyroku częściowego Trybunał: 
+• oddalił roszczenie ORLEN o obniżenie ceny kontraktowej od listopada 2017 roku lub od 
+stycznia 2018 roku; 
+• oddalił roszczenie Gazpromu o podwyższenie ceny kontraktowej od listopada 2017 roku; 
+• ustalił nową, wyższą cenę kontraktową na 1 stycznia 2018 roku; oraz 
+• oddalił wszystkie dalej idące roszczenia Gazpromu o podwyższenie ceny kontraktowej na 1 
+stycznia 2018 roku. 
+Wydany przez Trybunał Wyrok częściowy obejmuje jeden z etapów wielowątkowego 
+postępowania arbitrażowego. W dalszych fazach postępowania arbitrażowego rozstrzygnięte 
+zostaną m.in.: 
+• roszczenia stron o zmianę warunków cenowych Kontraktu Jamalskiego na podstawie 
+wniosków o renegocjację, składanych w latach 2020 i 2021; oraz 
+• roszczenia stron wynikające ze sporu o przyczyny i konsekwencje wstrzymania przez 
+Gazprom dostaw z Kontraktu Jamalskiego w kwietniu 2022 roku. 
+Wyrok częściowy modyfikuje warunki cenowe Kontraktu Jamalskiego za okres od stycznia 2018 
+roku do najwcześniejszej potencjalnej daty kolejnej zmiany ceny w ramach wniosków 
+renegocjacyjnych z 2020/2021 roku, o których mowa powyżej. 
+Trybunał nie określił sposobu rozliczeń stron wynikających z określenia retroaktywnej formuły 
+ceny kontraktowej ani nie zasądził żadnych kwot z tego tytułu, a ustalenie w zakresie ww. 
+rozliczeń zostanie w pierwszej kolejności dokonane przez strony sporu. W przypadku sporu 
+pomiędzy stronami w tym zakresie, kwestia ta zostanie rozstrzygnięta na dalszym etapie 
+postępowania arbitrażowego. 
+We wstępnej ocenie Spółki, wsteczne rozliczenie wynikające z Wyroku częściowego w okresie 
+od stycznia 2018 roku do najwcześniejszej potencjalnej daty kolejnej zmiany ceny w ramach 
+wniosków renegocjacyjnych z 2020/2021 roku wskazuje na występowanie różnicy do zapłaty 
+przez ORLEN w szacunkowej kwocie ok. 291 mln USD. Przy czym uznanie roszczeń pierwotnie 
+składanych przez Gazprom w postępowaniu skutkowałoby występowaniem różnicy do zapłaty 
+przez ORLEN w kwocie ok. 1,7 mld USD. Dodatkowe informacje w nocie A.5.16 i B.5.14. 
+Oddalenie powództwa o stwierdzenie nieważności uchwały ZWZ ORLEN S.A. 
+ORLEN poinformował, że w dniu 24 lipca 2025 roku Sąd Okręgowy w Łodzi X Wydział 
+Gospodarczy oddalił w całości powództwo akcjonariusza Spółki o stwierdzenie nieważności lub 
+uchylenie uchwały podjętej przez Zwyczajne Walne Zgromadzenie w dniu 25 czerwca 2024 roku 
+w sprawie absolutorium z wykonania obowiązków w roku 2023 Członka Zarządu Spółki Pana 
+Roberta Perkowskiego. 
+Uchylenie postanowienia o odrzuceniu apelacji w sprawie o ustalenie nieistnienia 
+uchwały NWZ PGNiG S.A. 
+ORLEN poinformował, że Sąd Apelacyjny w Łodzi – I Wydział Cywilny uchylił wcześniej wydane 
+postanowienie o odrzuceniu apelacji od wyroku w sprawie o ustalenie nieistnienia uchwały nr 
+3/2022 Nadzwyczajnego Walnego Zgromadzenia PGNiG S.A. z 10 października 2022 roku w 
+sprawie połączenia Spółki z PGNiG S.A. oraz zgody na proponowane zmiany Statutu ORLEN. 
+Oddalenie powództwa o stwierdzenie nieważności uchwały ZWZ ORLEN S.A. 
+ORLEN poinformował, że 31 lipca 2025 roku Sąd Okręgowy w Łodzi X Wydział Gospodarczy 
+oddalił w całości powództwo akcjonariusza Spółki o stwierdzenie nieważności lub uchylenie 
+uchwały nr 12 podjętej przez Zwyczajne Walne Zgromadzenie w dniu 25 czerwca 2024 roku w 
+sprawie absolutorium z wykonania obowiązków w roku 2023 Członka Zarządu Spółki Pana 
+Armena Konrada Artwicha. 
+Wyrok w ww. sprawie nie jest prawomocny. 
+
+GRUPA ORLEN 
+ 
+(w mln PLN) 
+ 
+SKONSOLIDOWANY RAPORT PÓŁROCZNY ZA I PÓŁROCZE 2025 ROKU 96 / 100 
+1.3. Istotne czynniki ryzyka wpływające na bieżące i przyszłe wyniki finansowe 
+Grupa ORLEN w toku prowadzonej działalności gospodarczej prowadzi bieżący monitoring i ocenę ryzyka oraz 
+podejmuje działania mające na celu minimalizację jego wpływu na sytuację finansową. 
+Grupa ORLEN stosuje spójne zasady zabezpieczania ryzyka finansowego w oparciu o politykę zarządzania 
+ryzykiem rynkowym pod nadzorem Komitetu Ryzyka Finansowego, Zarządu i Rady Nadzorczej. 
+Głównymi rodzajami ryzyka finansowego, na które narażona jest Grupa ORLEN w ramach prowadzonej 
+działalności są: 
+– ryzyko rynkowe: ryzyko towarowe, ryzyko zmian kursów walutowych oraz ryzyko zmian stóp procentowych; 
+– ryzyko płynności i kredytowe. 
+Szczegółowy opis powyższych ryzyk ujęto w Skonsolidowanym Sprawozdaniu Finansowym za rok 2024 w 
+nocie 15.5 oraz w punkcie 4.8 Skonsolidowanego Sprawozdania Zarządu z działalności Grupy za rok 2024. 
+ 
+1.4. Rachunkowość zabezpieczeń 
+W ramach strategii zabezpieczających Grupa ORLEN zabezpiecza głównie przepływy pieniężne związane ze 
+sprzedażą produktów oraz zakupem ropy naftowej i gazu ziemnego oraz uprawnień do emisji CO2 a także 
+zmianami poziomu zapasów operacyjnych. 
+Wartość księgowa netto instrumentów finansowych zabezpieczających przepływy pieniężne 
+ 
+ 
+ 
+ 
+30/06/2025 
+(niebadane) 
+31/12/2024 
+(dane 
+przekształcone) 
+Rodzaj instrumentu / rodzaj ryzyka Strategie zabezpieczające w ramach zabezpieczenia 
+przepływów pieniężnych dotyczące ekspozycji na: 
+ 
+ 
+forwardy walutowe / ryzyko zmian 
+kursów walutowych 
+swapy walutowe / ryzyko zmian 
+kursów walutowych 
+ działalności operacyjnej z tytułu 
+sprzedaży produktów oraz zakup ropy naftowej i gazu 
+ziemnego 
+ 1 985 
+ 1 700 
+swapy towarowe / ryzyko towarowe 
+ zmienności marży rafineryjnej , 
+cen surowców lub produktów stanowiących 
+ponadnormatywny zapas operacyjny, 
+niedopasowanie czasowe na zakupach ropy naftowej 
+zabezpieczenie cen gazu ziemnego wynikających z 
+kontraktów kupna i sprzedaży gazu 
+ 545 
+ (204) 
+futures towarowe/ryzyko towarowe 
+ zabezpieczenie cen uprawnień do emisji CO2 
+ (54) 
+ 357 
+ 
+ 
+ 
+ 2 476 
+ 1 853 
+ 
+Wartość księgowa netto instrumentów zabezpieczających wartość godziwą 
+ 
+ 
+ 
+ 
+30/06/2025 
+(niebadane) 
+ 31/12/204 
+Rodzaj instrumentu / rodzaj ryzyka Strategie zabezpieczające w ramach zabezpieczenia 
+przepływów pieniężnych dotyczące ekspozycji na: 
+ 
+ 
+swapy towarowe / ryzyko towarowe 
+ oferty dla których formuły cenowe oparte są na stałej cenie 
+ (20) 
+ (6) 
+ 
+ 
+ 
+ (20) 
+ (6) 
+ 
+ 
+2. 
+Przewidywany rozwój Grupy ORLEN 
+Grupa ORLEN realizuje długoterminową strategię, dostosowując swoją działalność do globalnych trendów 
+dekarbonizacji i rosnących wymagań regulacyjnych. Jednym z kluczowych wyzwań pozostaje odpowiedzialna 
+transformacja energetyczna, która wymaga stopniowego odchodzenia od paliw kopalnych, przy jednoczesnym 
+zapewnieniu stabilnych dostaw energii. Europa Środkowa rozwija się dynamicznie, jednak utrzymanie 
+dotychczasowego tempa wzrostu będzie wymagało zachowania właściwej równowagi pomiędzy silnym popytem 
+na tradycyjne nośniki energii i wzmacniającym się trendem dekarbonizacji. 
+Strategia Grupy ORLEN zakłada integrację segmentów działalności oraz budowę organizacji, która w 
+perspektywie dekady stanie się bardziej odporna na zmienność otoczenia biznesowego. Wprowadzenie od 2025 
+roku nowej segmentacji działalności uwidoczniło przepływ produktów i usług w organizacji oraz tworzenie 
+wartości dodanej. Dzięki dalszej integracji Grupa ORLEN będzie mogła bardziej efektywnie zarządzać całym 
+łańcuchem wartości - od surowców, przez produkcję, aż po dostawę gotowych produktów do klientów. Większa 
+transparentność działalności pomoże również w identyfikacji obszarów do optymalizacji w odpowiedzi na 
+zmieniające się potrzeby rynku. W efekcie będzie to prowadzić do redukcji kosztów operacyjnych oraz poprawy 
+jakości usług, co w konsekwencji przyczyni się do zwiększenia konkurencyjności Grupy ORLEN. Zatem integracja 
+segmentów działalności nie tylko wzmocni pozycję firmy, ale także zapewni jej elastyczność i zdolność do 
+szybkiego reagowania na wyzwania i zmiany rynkowe. 
+
+GRUPA ORLEN 
+ 
+(w mln PLN) 
+ 
+SKONSOLIDOWANY RAPORT PÓŁROCZNY ZA I PÓŁROCZE 2025 ROKU 97 / 100 
+Główne założenia Strategii dostosowane do potrzeb i charakterystyki regionu ukierunkowane są na pragmatyczną 
+transformację, która jest odpowiedzią na kluczowe regulacyjne i biznesowe wyzwania oraz szanse. 
+Transformacja ta zakłada m.in. zwiększenie wydobycia i importu gazu, co ma przyczynić się do zwiększenia 
+bezpieczeństwa energetycznego, przy równoległym wzmacnianiu pozycji w segmencie energetycznym poprzez 
+inwestycje w odnawialne źródła energii, bloki gazowo-parowe oraz obszary nowoczesnej rafinerii i petrochemii. 
+Segment energetyczny stanowić będzie najszybciej rosnącą część Grupy ORLEN, ze znaczącym udziałem 
+biznesów regulowanych i wzajemnie uzupełniającymi się aktywami OZE i elektrowniami gazowo-parowymi 
+(CCGT). Rozwój obszaru energetyki będzie sprzyjać dekarbonizacji produkcji rafineryjnej i petrochemicznej. 
+Zintegrowanie działalności Grupy znajdzie swoje odzwierciedlenie w obszarze Consumers and Products, za 
+sprawą którego odbiorca końcowy będzie mógł korzystać z mniej emisyjnych źródeł energii, paliw i usług. 
+Strategia ta, ma na celu stworzenie bardziej zrównoważonej organizacji, która będzie w stanie sprostać 
+zmiennym warunkom rynkowym. 
+Efektem wdrożenia nowej strategii Grupy będzie zintegrowana, cyfrowa organizacja, w której poszczególne linie 
+biznesowe będą się wzajemnie uzupełniać i tworzyć spójny ekosystem, aby dostarczać klientom produkty i usługi, 
+jakich oczekują. Transformacja tradycyjnych obszarów działalności będzie wspierać nowe kierunki rozwoju Grupy 
+ORLEN, a zdywersyfikowany model biznesowy będzie bardziej odporny na rynkowe zmiany. 
+W ekosystemie ORLEN przekrojowym celem będzie ograniczanie emisji CO2, między innymi poprzez budowę 
+kompetencji w obszarze zrównoważonych surowców, wodoru, biopaliw czy małej energetyki jądrowej. Inwestycje 
+w projekty z portfela należącego do filaru innowacyjnego i zrównoważonego portfolio produktów nie tylko 
+zwiększą moc wytwórczą nisko- i zeroemisyjnej energii, ale również dostarczą zrównoważonych surowców dla 
+nowoczesnych produktów i stworzą nowe, komplementarne z tradycyjnymi, obszary działalności Grupy. 
+W segmencie Upstream and Supply - obecnie zajmującym się wydobyciem surowców (np. ropy naftowej, gazu 
+ziemnego) oraz handlem surowcami na globalnych rynkach - w przyszłości planowane jest pozyskiwanie 
+zrównoważonych surowców: olejów roślinnych, tłuszczy zwierzęcych, olejów posmażalniczych (wsad do produkcji 
+biopaliw); biometanu w postaci bioLNG dla sektora transportu; bionafty, biopropanu, bioglikolu z recyklingu 
+chemicznego i recyklatów (wsad do produkcji petrochemicznej); biometanu i biomasy (Energetyka), aby wspierać 
+gospodarkę obiegu zamkniętego. 
+W segmencie Downstream - obecnie obejmującym rafinerię oraz petrochemię, gdzie przerabia się surowce 
+kopalne na produkty naftowe, chemikalia i inne pochodne produkty - w przyszłości planowane jest zwiększenie 
+znaczenia biopaliw i paliw syntetycznych, co umożliwi redukcję emisji CO2 i wspomoże dążenie do bardziej 
+zrównoważonej energetyki. 
+W segmencie Energy - obecnie obejmującym sieci dystrybucyjne, aktywa wytwórcze (m.in. OZE i jednostki 
+CCGT) oraz ciepłownicze, zapewniające efektywną produkcję energii elektrycznej oraz ciepła - planuje się dalszy 
+rozwój odnawialnych źródeł energii oraz systemów magazynowania energii, co poprawi elastyczność segmentu i 
+zwiększy niezależność energetyczną. 
+W segmencie Consumers and Products dostarczane będą końcowym konsumentom różnorodne produkty: 
+paliwa, produkty pozapaliwowe, produkty energetyczne oraz usługi. 
+Wszystkie te segmenty współpracują ze sobą, tworząc ekosystem, którego celem jest optymalizacja wydajności, 
+zrównoważony rozwój Grupy oraz skuteczne wdrażanie innowacji w sektorze energetycznym i surowcowym. 
+W latach 2025-2035 Grupa ORLEN planuje nakłady inwestycyjne związane z: 
+• działalnością o charakterze regulowanym (sieci dystrybucyjne energii elektrycznej i gazu) – ponad 60 mld 
+PLN; 
+• utrzymaniem aktywów operacyjnych – od 77 do 88 mld PLN; 
+• rozwojem – od 132 do 143 mld PLN; 
+• potencjalnymi inwestycjami kapitałowymi (M&A i partnerstwa) – do 85 mld PLN. 
+W ramach strategii ORLEN 2035 redukcja emisji stanowi przekrojowy cel w całym ekosystemie ORLEN. 
+Względem poprzedniej strategii zaktualizowano dwa cele dekarbonizacji, wydłużając ich ścieżki wdrożenia do 
+2035 roku. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+GRUPA ORLEN 
+ 
+(w mln PLN) 
+ 
+SKONSOLIDOWANY RAPORT PÓŁROCZNY ZA I PÓŁROCZE 2025 ROKU 98 / 100 
+Zmiana celów dekarbonizacyjnych Grupy ORLEN 
+ 
+ 
+Strategia Zrównoważonego Rozwoju Grupy ORLEN 2025-2035 
+Strategia Zrównoważonego Rozwoju Grupy ORLEN 2025-2035 to plan działań i rozwoju Grupy, której celem jest 
+realizacja agendy biznesowej na najbliższą dekadę, wzmocnienie ścieżki osiągnięcia celu Net Zero do 2050 roku, 
+a w efekcie zwiększanie długoterminowej wartości dla wszystkich interesariuszy. 
+ 
+Zarządzanie w obszarze zrównoważonego rozwoju koncentruje się na opracowywaniu rozwiązań 
+umożliwiających implementację zasad ESG w systemach zarządzania, etyce i wartościach organizacyjnych oraz 
+odpowiednim i przejrzystym raportowaniu. Zrównoważony rozwój i zarządzanie kwestiami klimatu są 
+zakorzenione w strukturach zarządczych Grupy ORLEN i wyznaczają drogę dalszego działania Grupy ORLEN, 
+m.in. poprzez powiązanie celów zrównoważonego rozwoju z polityką wynagrodzeń w Grupie na poziomie 
+Zarządu, jak i dyrektorskim. Sprawozdanie Zrównoważonego Rozwoju stanowi rozdział 6 niniejszego 
+Sprawozdania. 
+ 
+3. 
+Pozostałe informacje 
+ 
+3.1. Skład Zarządu i Rady Nadzorczej 
+Na dzień sporządzenia niniejszego Skonsolidowanego raportu półrocznego skład organów zarządczych 
+i nadzorujących ORLEN jest następujący: 
+ 
+Zarząd 
+Ireneusz Fąfara 
+ 
+– Prezes Zarządu, Dyrektor Generalny 
+Marek Balawejder 
+ 
+– Członek Zarządu ds. Sprzedaży Detalicznej 
+Magdalena Bartoś 
+ 
+– Wiceprezes Zarządu ds. Finansowych 
+Witold Literacki 
+ 
+– Wiceprezes Zarządu ds. Korporacyjnych, pierwszy zastępca Prezesa Zarządu 
+Artur Osuchowski 
+ 
+– Członek Zarządu ds. Energetyki i Transformacji Energetycznej 
+Wiesław Prugar 
+ 
+– Członek Zarządu ds. Upstream 
+Ireneusz Sitarski 
+ 
+– Wiceprezes Zarządu ds. Handlu Hurtowego i Logistyki 
+Robert Soszyński 
+ 
+– Wiceprezes Zarządu ds. Operacyjnych 
+Marcin Wasilewski 
+ 
+– Członek Zarządu ds. Technologii 
+Rada Nadzorcza 
+Wojciech Popiołek 
+ 
+ – Przewodniczący Rady Nadzorczej, Niezależny Członek Rady Nadzorczej 
+Michał Gajdus 
+ 
+ – Wiceprzewodniczący Rady Nadzorczej, Niezależny Członek Rady Nadzorczej 
+Katarzyna Łobos 
+ 
+ – Sekretarz Rady Nadzorczej, Niezależny Członek Rady Nadzorczej 
+Ewa Gąsiorek 
+ 
+ 
+ – Niezależny Członek Rady Nadzorczej 
+Kazimierz Mordaszewski 
+ 
+ – Członek Rady Nadzorczej 
+Mikołaj Pietrzak 
+ 
+ – Niezależny Członek Rady Nadzorczej 
+Marian Sewerski 
+ 
+ – Niezależny Członek Rady Nadzorczej 
+Ewa Sowińska 
+ 
+ – Niezależny Członek Rady Nadzorczej 
+Piotr Wielowieyski 
+ 
+ – Niezależny Członek Rady Nadzorczej 
+Tomasz Zieliński 
+ 
+ – Członek Rady Nadzorczej 
+
+GRUPA ORLEN 
+ 
+(w mln PLN) 
+ 
+SKONSOLIDOWANY RAPORT PÓŁROCZNY ZA I PÓŁROCZE 2025 ROKU 99 / 100 
+3.2. Akcjonariusze posiadający bezpośrednio lub pośrednio poprzez podmioty zależne co najmniej 5% 
+ogólnej liczby głosów na Walnym Zgromadzeniu Jednostki Dominującej na dzień przekazania 
+niniejszego raportu 
+ 
+ 
+ 
+ 
+Procentowy udział w liczbie głosów na WZ 
+na dzień przekazania 
+ 
+Liczba akcji 
+na dzień przekazania 
+Akcjonariusz 
+ 
+ 
+niniejszego 
+raportu 
+kwartalnego* 
+zmiana 
+p.p. 
+poprzedniego 
+raportu 
+kwartalnego** 
+niniejszego 
+raportu 
+kwartalnego* 
+zmiana 
+poprzedniego 
+raportu 
+kwartalnego** 
+Skarb Państwa * 
+ 
+49,90% 
+0,00% 
+49,90% 
+ 579 310 079 
+ - 
+ 579 310 079 
+Nationale-Nederlanden 
+OFE* 
+ 
+5,45% 
+-0,27% 
+5,72% 
+ 63 261 000 (3 190 874) 
+ 66 451 874 
+Pozostali 
+ 
+44,65% 
+0,27% 
+44,38% 
+ 518 370 970 
+ 3 190 874 
+ 515 180 096 
+ 
+ 
+100,00% 
+- 
+100,00% 
+ 1 160 942 049 
+ - 1 160 942 049 
+ 
+* zgodnie z informacjami ze Zwyczajnego Walnego Zgromadzenia ORLEN z 2 czerwca 2025 roku 
+**zgodnie z zawiadomieniem od Akcjonariuszy o zawarciu porozumienia z 2 grudnia 2024 roku 
+ 
+3.3. Zestawienie zmian w stanie posiadania akcji Jednostki Dominującej przez Członków Zarządu oraz 
+Rady Nadzorczej 
+Zestawienie zmian w stanie posiadania akcji Spółki przez członków Zarządu 
+ 
+ 
+Liczba akcji, opcji na 
+dzień przekazania 
+poprzedniego raportu 
+kwartalnego * 
+Nabycie/Zby
+cie 
+Liczba akcji, opcji na dzień 
+przekazania niniejszego 
+raportu kwartalnego ** 
+Zarząd 
+5 972 
+5 178 
+ 11 150 
+Marek Balawejder 
+1 900 
+- 
+ 1 900 
+Magdalena Bartoś 
+2 040 
+2 060 
+ 4 100 
+Ireneusz Fąfara 
+- 
+1 168 
+ 1 168 
+Marcin Wasilewski 
+2 032 
+1 950 
+ 3 982 
+ 
+* Według uzyskanych potwierdzeń na dzień 15 maja 2025 roku 
+ 
+** Według uzyskanych potwierdzeń na dzień 13 sierpnia 2025 roku 
+ 
+ 
+Na dzień sporządzenia niniejszego półrocznego skróconego skonsolidowanego sprawozdania finansowego 
+Członkowie Rady Nadzorczej nie posiadali akcji ORLEN. 
+W okresie objętym niniejszym półrocznym skróconym skonsolidowanym sprawozdaniem finansowym nie 
+wystąpiły zmiany w stanie posiadania akcji ORLEN przez członków Rady Nadzorczej. 
+ 
+3.4. Stanowisko Zarządu odnośnie możliwości zrealizowania wcześniej publikowanych prognoz 
+wyników na dany rok 
+Grupa ORLEN nie dokonała wcześniejszych publikacji prognozy wyników na dany rok. 
+
+GRUPA ORLEN 
+ 
+(w mln PLN) 
+ 
+SKONSOLIDOWANY RAPORT PÓŁROCZNY ZA I PÓŁROCZE 2025 ROKU 100 / 100 
+D. 
+OŚWIADCZENIA ZARZĄDU 
+ 
+W sprawie rzetelności sporządzenia półrocznego skróconego skonsolidowanego i jednostkowego 
+sprawozdania finansowego 
+Zarząd ORLEN oświadcza, że wedle jego najlepszej wiedzy, niniejsze półroczne skrócone skonsolidowane i 
+jednostkowe sprawozdanie finansowe oraz dane porównawcze sporządzone zostały zgodnie z obowiązującymi 
+Grupę ORLEN i ORLEN zasadami rachunkowości oraz odzwierciedlają w sposób prawdziwy, rzetelny i jasny 
+sytuację majątkową i finansową oraz wynik finansowy Grupy ORLEN i ORLEN. 
+ 
+W sprawie półrocznego Sprawozdania Zarządu z działalności Grupy ORLEN 
+Zarząd ORLEN oświadcza, że niniejsze półroczne Sprawozdanie Zarządu z działalności Grupy ORLEN 
+zawiera prawdziwy obraz rozwoju i osiągnięć oraz sytuacji Grupy ORLEN, w tym opis podstawowych zagrożeń 
+i ryzyk. 
+ 
+ 
+Niniejszy raport półroczny został zatwierdzony przez Zarząd Jednostki Dominującej w dniu 20 sierpnia 2025 
+roku. 
+ 
+ 
+ 
+ 
+ 
+………………………..………….. 
+Ireneusz Fąfara 
+Prezes Zarządu 
+ 
+ 
+………………………..………….. 
+Marek Balawejder 
+Członek Zarządu 
+ 
+ 
+………………………..………….. 
+Magdalena Bartoś 
+Wiceprezes Zarządu 
+ 
+ 
+………………………..………….. 
+Witold Literacki 
+Wiceprezes Zarządu 
+ 
+ 
+………………………..………….. 
+Artur Osuchowski 
+Członek Zarządu 
+ 
+ 
+………………………..………….. 
+Wiesław Prugar 
+Członek Zarządu 
+ 
+ 
+………………………..………….. 
+Ireneusz Sitarski 
+Wiceprezes Zarządu 
+ 
+ 
+………………………..………….. 
+Robert Soszyński 
+Wiceprezes Zarządu 
+………………………..………….. 
+Marcin Wasilewski 
+Członek Zarządu 
+ 
+ 
+ 
+ 
+ 
+ 
+MAGDALEN
+A BARTOŚ
+Elektronicznie podpisany 
+przez MAGDALENA BARTOŚ 
+Data: 2025.08.20 11:26:34 
++02'00'
+Witold Literacki; 
+ORLEN S.A.
+Elektronicznie podpisany 
+przez Witold Literacki; 
+ORLEN S.A. 
+Data: 2025.08.20 11:41:42 
++02'00'
+Dokument podpisany przez ROBERT SOSZYŃSKI
+Data: 2025.08.20 11:50:55 CEST
+Signature Not Verified
+Dokument podpisany przez
+MARCIN WASILEWSKI
+Data: 2025.08.20 12:05:48 CEST
+Signature Not Verified
+Dokument podpisany przez Ireneusz Jan
+Fąfara
+Data: 2025.08.20 12:22:39 CEST
+Signature Not Verified
+Dokument podpisany przez Ireneusz
+Robert Sitarski
+Data: 2025.08.20 12:28:48 CEST
+Signature Not Verified
+Wiesław 
+Prugar
+Elektronicznie podpisany 
+przez Wiesław Prugar 
+Data: 2025.08.20 
+12:37:51 +02'00'
+Dokument podpisany przez Artur
+Osuchowski
+Data: 2025.08.20 13:08:37 CEST
+Signature Not Verified
+Dokument podpisany przez
+MAREK BALAWEJDER
+Data: 2025.08.20 13:21:56
+CEST
+Signature Not Verified

@@ -1,0 +1,757 @@
+Opublikowane standardy i zmiany do standardów, które nie weszły jeszcze w życie Spółka nie zdecydowała się na wcześniejsze zastosowanie żadnego standardu lub zmiany do standardu, które zostały opublikowane, lecz nie weszły dotychczas w życie.
+
+Śródroczne skrócone sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 14 • Standardy wydane przez Radę Międzynarodowych Standardów Rachunkowości oraz zmiany do standardów, które nie zostały jeszcze zatwierdzone przez Unię Europejską i nie weszły jeszcze w życie W ocenie Zarządu następujące standardy i zmiany do standardów nie spowodują istotnego wpływu na stosowaną dotychczas politykę rachunkowości: Standard Data wejścia w życie według standardu, niezatwierdzone przez UE (okresy roczne rozpoczynające się dnia lub po tej dacie) MSSF 14 Regulacyjne rozliczenia międzyokresowe 1 stycznia 2016* MSSF 17 Umowy ubezpieczeniowe 1 stycznia 2021 Zmiany do MSSF 10 Skonsolidowane sprawozdania finansowe oraz MSR 28 Inwestycje w jednostkach stowarzyszonych i wspólnych przedsięwzięciach: Sprzedaż lub wniesienie aktywów pomiędzy inwestorem a jego jednostką stowarzyszoną lub wspólnym przedsięwzięciem oraz późniejsze zmiany data wejścia w życie zmian została odroczona Zmiany do MSR 1 Prezentacja sprawozdań finansowych oraz MSR 8 Zasady (polityka) rachunkowości, zmiany wartości szacunkowych i korygowanie błędów : Definicja istotnych pominięć lub zniekształceń pozycji 1 stycznia 2020 Zmiany do MSSF 3 Połączenia jednostek 1 stycznia 2020 Zmiany do Odniesień do Założeń Koncepcyjnych zawartych w MSSF 1 stycznia 2020 Zmiany do MSSF 9 Instrumenty finansowe , MSR 39 Instrumenty finansowe: ujmowanie i wycena oraz MSSF 7 Instrumenty finansowe: ujawnienia: Reforma referencyjnych stóp procentowych 1 stycznia 2020 * Komisja Europejska postanowiła nie rozpoczynać procesu zatwierdzania tego tymczasowego standardu do stosowania na terenie UE do czasu wydania ostatecznej wersji MSSF 14 Regulacyjne rozliczenia międzyokresowe. 8.
+
+Zmiany stosowanych zasad rachunkowości Zasady (polityka) rachunkowości zastosowane do sporządzenia niniejszego śródrocznego skróconego sprawozdania finansowego są spójne z tymi, które zastosowano przy sporządzaniu rocznego sprawozdania finansowego TAURON Polska Energia S.A. za rok zakończony dnia 31 grudnia 2018 roku, z wyjątkiem zastosowania nowych standardów, zmian do standardów i interpretacji wymienionych poniżej.
+
+U leasingodawcy leasing jest klasyfikowany jako leasing finansowy, jeżeli następuje przeniesienie zasadniczo całego ryzyka i pożytków z tytułu posiadania odnośnych aktywów.
+
+W leasingu finansowym leasingodawca rozpoznaje przychody finansowe przez okres leasingu, w oparciu o stałą okresową stopę zwrotu na inwestycji netto.
+
+Leasingodawca ujmuje płatności leasingu operacyjnego w przychody liniowo lub w inny systematyczny sposób, jeśli lepiej odzwierciedla wzór otrzymywania korzyści z wykorzystania odnośnych aktywów.
+
+W związku z powyższym istnieje możliwość, że ostateczne kwoty zawarte w sprawozdaniu finansowym za rok 2019 będą się różnić od danych zaprezentowanych w niniejszym śródrocznym skróconym sprawozdaniu finansowym.
+
+W ocenie Zarządu wprowadzenie następujących zmian do standardów oraz interpretacji nie miało istotnego wpływu na stosowaną dotychczas politykę rachunkowości: Standard/Interpretacja Data wejścia w życie w UE (okresy roczne rozpoczynające się dnia lub po tej dacie) Zmiany do MSSF 9 Instrumenty finansowe 1 stycznia 2019 Zmiany do MSR 28 Inwestycje w jednostkach stowarzyszonych i wspólnych przedsięwzięciach 1 stycznia 2019 Interpretacja KIMSF 23 Niepewność co do traktowania podatku dochodowego 1 stycznia 2019 Zmiany do MSR 19 Świadczenia pracownicze 1 stycznia 2019 Zmiany do różnych standardów Poprawki do MSSF (cykl 2015-2017): MSR 12 Podatek dochodowy 1 stycznia 2019 MSR 23 Koszty finansowania zewnętrznego 1 stycznia 2019 MSSF 3 Połączenia jednostek 1 stycznia 2019 MSSF 11 Wspólne ustalenia umowne 1 stycznia 2019 9.
+
+Sezonowość działalności Działalność Spółki związana z handlem energią elektryczną nie ma charakteru sezonowego, zatem w tym zakresie przedstawiane wyniki Spółki nie odnotowują istotnych wahań w trakcie roku.
+
+Przez EBITDA Spółka rozumie zysk/stratę z działalności kontynuowanej przed opodatkowaniem i przychodami i kosztami finansowymi powiększony o amortyzację oraz odpisy aktualizujące aktywa niefinansowe.
+
+Śródroczne skrócone sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 18 Okres 9 miesięcy zakończony dnia 30 września 2019 roku lub na dzień 30 września 2019 roku (niebadane) Sprzedaż Działalność holdingowa Pozycje nieprzypisane Razem Przychody Przychody ze sprzedaży poza Grupę 643 110 - - 643 110 Przychody ze sprzedaży w Grupie 6 653 287 5 - 6 653 292 Przychody segmentu ogółem 7 296 397 5 - 7 296 402 Zysk/(strata) segmentu 169 032 5 - 169 037 Koszty nieprzypisane - - (88 525) (88 525) EBIT 169 032 5 (88 525) 80 512 Aktualizacja warości udziałów, akcji, obligacji i pożyczek - (718 430) - (718 430) Przychody/(koszty) finansowe netto - 1 023 709 19 332 1 043 041 Zysk/(strata) przed opodatkowaniem 169 032 305 284 (69 193) 405 123 Podatek dochodowy - - (94 617) (94 617) Zysk/(strata) netto za okres 169 032 305 284 (163 810) 310 506 Aktywa i zobowiązania Aktywa segmentu 2 337 491 27 946 715 - 30 284 206 Aktywa nieprzypisane - - 124 697 124 697 Aktywa ogółem 2 337 491 27 946 715 124 697 30 408 903 Zobowiązania segmentu 724 674 13 804 842 - 14 529 516 Zobowiązania nieprzypisane - - 310 193 310 193 Zobowiązania ogółem 724 674 13 804 842 310 193 14 839 709 EBIT 169 032 5 (88 525) 80 512 Amortyzacja (9 825) - - (9 825) Odpisy aktualizujące 145 - - 145 EBITDA 178 712 5 (88 525) 90 192 Pozostałe informacje dotyczące segmentu Nakłady inwestycyjne * 2 269 - - 2 269 * Nakłady inwestycyjne obejmują nakłady na rzeczowe aktywa trwałe oraz długoterminowe aktywa niematerialne, z wyłączeniem nabycia praw majątkowych pochodzenia energii.
+
+Okres 9 miesięcy zakończony dnia 30 września 2018 roku (niebadane) lub na dzień 31 grudnia 2018 roku Sprzedaż Działalność holdingowa Pozycje nieprzypisane Razem Przychody Przychody ze sprzedaży poza Grupę 744 817 - - 744 817 Przychody ze sprzedaży w Grupie 5 059 569 8 197 - 5 067 766 Przychody segmentu ogółem 5 804 386 8 197 - 5 812 583 Zysk/(strata) segmentu 130 156 8 197 - 138 353 Koszty nieprzypisane - - (91 570) (91 570) EBIT 130 156 8 197 (91 570) 46 783 Aktualizacja warości udziałów, akcji, obligacji i pożyczek - (863 959) - (863 959) Przychody/(koszty) finansowe netto - 725 309 5 843 731 152 Zysk/(strata) przed opodatkowaniem 130 156 (130 453) (85 727) (86 024) Podatek dochodowy - - (24 195) (24 195) Zysk/(strata) netto za okres 130 156 (130 453) (109 922) (110 219) Aktywa i zobowiązania Aktywa segmentu 2 131 713 27 193 114 - 29 324 827 Aktywa nieprzypisane - - 188 163 188 163 Aktywa ogółem 2 131 713 27 193 114 188 163 29 512 990 Zobowiązania segmentu 884 862 13 073 580 - 13 958 442 Zobowiązania nieprzypisane - - 294 712 294 712 Zobowiązania ogółem 884 862 13 073 580 294 712 14 253 154 EBIT 130 156 8 197 (91 570) 46 783 Amortyzacja (3 528) - - (3 528) Odpisy aktualizujące 275 - - 275 EBITDA 133 409 8 197 (91 570) 50 036 Pozostałe informacje dotyczące segmentu Nakłady inwestycyjne * 5 971 - - 5 971 * Nakłady inwestycyjne obejmują nakłady na rzeczowe aktywa trwałe oraz długoterminowe aktywa niematerialne, z wyłączeniem nabycia praw majątkowych pochodzenia energii.
+
+W okresie dziewięciu miesięcy zakończonym dnia 30 września 2019 roku osiągnięte przychody ze sprzedaży do dwóch głównych klientów, wchodzących w skład Grupy TAURON, stanowiły 79% i 11% łącznych przychodów Spółki w segmencie „Sprzedaż” i wynosiły odpowiednio 5 755 679 tysięcy złotych i 779 508 tysięcy złotych.
+
+Śródroczne skrócone sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 19 klientów, wchodzących w skład Grupy TAURON, stanowiły 73% i 10% łącznych przychodów Spółki w segmencie „Sprzedaż” i wynosiły odpowiednio 4 223 992 tysiące złotych i 574 767 tysięcy złotych.
+
+Okres 3 miesięcy zakończony dnia 30 września 2019 roku (niebadane) Sprzedaż Działalność holdingowa Pozycje nieprzypisane Razem Przychody Sprzedaż poza Grupę 215 873 - - 215 873 Sprzedaż w Grupie 2 203 059 - - 2 203 059 Przychody segmentu ogółem 2 418 932 - - 2 418 932 Zysk/(strata) segmentu 104 715 - - 104 715 Koszty nieprzypisane - - (30 610) (30 610) EBIT 104 715 - (30 610) 74 105 Aktualizacja warości udziałów, akcji, obligacji i pożyczek - (158 059) - (158 059) Przychody/(koszty) finansowe netto - 975 420 29 864 1 005 284 Zysk/(strata) przed opodatkowaniem 104 715 817 361 (746) 921 330 Podatek dochodowy - - 2 198 2 198 Zysk/(strata) netto za okres 104 715 817 361 1 452 923 528 EBIT 104 715 - (30 610) 74 105 Amortyzacja (3 297) - - (3 297) Odpisy aktualizujące 3 - - 3 EBITDA 108 009 - (30 610) 77 399 Pozostałe informacje dotyczące segmentu Nakłady inwestycyjne * 548 - - 548 * Nakłady inwestycyjne obejmują nakłady na rzeczowe aktywa trwałe oraz długoterminowe aktywa niematerialne, z wyłączeniem nabycia praw majątkowych pochodzenia energii.
+
+Okres 3 miesięcy zakończony dnia 30 września 2018 roku (niebadane) Sprzedaż Działalność holdingowa Pozycje nieprzypisane Razem Przychody Sprzedaż poza Grupę 323 594 - - 323 594 Sprzedaż w Grupie 1 769 018 8 192 - 1 777 210 Przychody segmentu ogółem 2 092 612 8 192 - 2 100 804 Zysk/(strata) segmentu 101 882 8 192 - 110 074 Koszty nieprzypisane - - (26 850) (26 850) EBIT 101 882 8 192 (26 850) 83 224 Aktualizacja warości udziałów, akcji, obligacji i pożyczek - (6 375) - (6 375) Przychody/(koszty) finansowe netto - 866 917 (22 059) 844 858 Zysk/(strata) przed opodatkowaniem 101 882 868 734 (48 909) 921 707 Podatek dochodowy - - (20 200) (20 200) Zysk/(strata) netto za okres 101 882 868 734 (69 109) 901 507 EBIT 101 882 8 192 (26 850) 83 224 Amortyzacja (1 042) - - (1 042) Odpisy aktualizujące 140 - - 140 EBITDA 102 784 8 192 (26 850) 84 126 Pozostałe informacje dotyczące segmentu Nakłady inwestycyjne * 1 687 - - 1 687 * Nakłady inwestycyjne obejmują nakłady na rzeczowe aktywa trwałe oraz długoterminowe aktywa niematerialne, z wyłączeniem nabycia praw majątkowych pochodzenia energii.
+
+Śródroczne skrócone sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 20 NOTY OBJAŚNIAJĄCE DO ŚRÓDROCZNEGO SKRÓCONEGO SPRAWOZDANIA Z CAŁKOWITYCH DOCHODÓW 11.
+
+Spółka ocenia, iż różnice przejściowe w powyższym zakresie nie odwrócą się w dającej się przewidzieć przyszłości. 14.2.
+
+Odroczony podatek dochodowy Stan na 30 września 2019 (niebadane) od różnicy pomiędzy podatkową a bilansową wartością aktywów finansowych 55 990 41 547 od różnicy pomiędzy podatkową a bilansową wartością rzeczowych aktywów trwałych, aktywów niematerialnych oraz praw do użytkowania aktywów 7 960 1 422 od wyceny instrumentów zabezpieczających 550 794 pozostałe 6 871 4 427 Zobowiązania z tytułu podatku odroczonego 71 371 48 190 od różnicy pomiędzy podatkową a bilansową wartością aktywów finansowych 2 878 76 519 od różnicy pomiędzy podatkową a bilansową wartością zobowiązań finansowych 91 165 60 110 z tytułu odmiennego momentu podatkowego uznania przychodów i kosztów sprzedaży towarów i usług 55 585 53 580 od rezerw bilansowych i rozliczeń międzyokresowych 3 942 3 199 od różnicy pomiędzy podatkową a bilansową wartością rzeczowych aktywów trwałych oraz aktywów niematerialnych 2 501 2 666 pozostałe 965 296 Aktywa z tytułu podatku odroczonego 157 036 196 370 Aktywa/(Zobowiązania) netto z tytułu podatku odroczonego 85 665 148 180 Stan na 31 grudnia 2018 Aktywa z tytułu podatku odroczonego od ujemnych różnic przejściowych związanych z inwestycjami w jednostki zależne Spółka ujmuje tylko w takim zakresie, w jakim prawdopodobne jest, że różnice przejściowe ulegną odwróceniu w możliwej do przewidzenia przyszłości oraz dostępny będzie dochód do opodatkowania, który pozwoli na zrealizowanie ujemnych różnic przejściowych.
+
+Spółka ocenia, iż ujemne różnice przejściowe związane z ujęciem odpisów aktualizujących wartość udziałów i akcji w spółkach zależnych w kwocie 9 247 034 tysiące złotych nie ulegną odwróceniu w możliwej do przewidzenia przyszłości z uwagi na brak zamiaru sprzedaży powyższych inwestycji i w związku z powyższym nie tworzy od nich aktywa na podatek odroczony.
+
+Dodatkowo, Spółka nie ujmuje aktywa z tytułu podatku odroczonego od ujemnych różnic przejściowych związanych z odpisami aktualizującymi wartość obligacji i pożyczek udzielonych spółce zależnej TAURON Wydobycie S.A. w kwocie 185 390 tysięcy złotych.
+
+Obowiązujące przepisy mogą również zawierać niejasności, które powodują różnice w opiniach, co do interpretacji prawnej przepisów podatkowych, zarówno pomiędzy organami państwowymi, jak i organami państwowymi i przedsiębiorstwami.
+
+Rozliczenia podatkowe oraz inne obszary działalności (na przykład kwestie celne czy dewizowe) mogą być przedmiotem kontroli organów, które uprawnione są do nakładania wysokich kar i grzywien, a wszelkie dodatkowe zobowiązania podatkowe, wynikające z kontroli, muszą zostać zapłacone wraz z odsetkami.
+
+W konsekwencji, kwoty prezentowane i ujawniane w niniejszym śródrocznym skróconym sprawozdaniu finansowym mogą się zmienić w przyszłości w wyniku ostatecznej decyzji organu kontroli podatkowej. 15.
+
+W okresie dziewięciu miesięcy zakończonym dnia 30 września 2019 roku oraz do dnia zatwierdzenia niniejszego śródrocznego skróconego sprawozdania finansowego do publikacji miały miejsce następujące podwyższenia kapitału spółki zależnej Nowe Jaworzno Grupa TAURON Sp. z o.o.:  W dniu 15 stycznia 2019 roku zostało zarejestrowane podwyższenie kapitału zakładowego spółki o kwotę 1 000 tysięcy złotych.
+
+Nowoutworzone udziały w podwyższonym kapitale zakładowym spółki zostały objęte przez Fundusz Inwestycji Infrastrukturalnych – Kapitałowy Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych za łączną kwotę 100 000 tysięcy złotych.
+
+Nadwyżka ceny emisyjnej udziałów ponad ich wartość nominalną w wysokości 99 000 tysięcy złotych została przekazana na kapitał zapasowy Nowe Jaworzno Grupa TAURON Sp. z o.o.
+
+Śródroczne skrócone sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 26  W dniu 18 kwietnia 2019 roku zostało zarejestrowane podwyższenie kapitału zakładowego spółki o kwotę 2 569 tysięcy złotych.
+
+Nowoutworzone udziały w podwyższonym kapitale zakładowym spółki objął Fundusz Inwestycji Infrastrukturalnych – Kapitałowy Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych za łączną cenę emisyjną 256 925 tysięcy złotych.
+
+Nadwyżka ceny emisyjnej udziałów ponad ich wartość nominalną w wysokości 254 356 tysięcy złotych została przekazana na kapitał zapasowy Nowe Jaworzno Grupa TAURON Sp. z o.o.
+
+W wyniku tej transakcji udział Spółki w kapitale i organie stanowiącym obniżył się do 92,86%.  W dniu 25 lipca 2019 roku zostało zarejestrowane podwyższenie kapitału zakładowego spółki o kwotę 7 731 tysięcy złotych.
+
+Nowoutworzone udziały w podwyższonym kapitale zakładowym spółki objął Fundusz Inwestycji Infrastrukturalnych – Kapitałowy Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych za łączną cenę emisyjną 83 075 tysięcy złotych, PFR Inwestycje Fundusz Inwestycji Zamkniętych za łączną cenę emisyjną 440 000 tysięcy złotych oraz Spółka za łączną cenę emisyjną 250 000 tysięcy złotych.
+
+Nadwyżka ceny emisyjnej udziałów ponad ich wartość nominalną w łącznej wysokości 765 344 tysiące złotych została przekazana na kapitał zapasowy Nowe Jaworzno Grupa TAURON Sp. z o.o.
+
+Uwzględniając wcześniejszą wpłatę na kapitał spółki Finanse Grupa TAURON Sp. z o.o. w kwocie 100 tysięcy złotych, na dzień 30 września 2019 roku wartość udziałów Spółki w Finanse Grupa TAURON Sp. z o.o. wynosiła 4 557 tysięcy złotych.
+
+Pozostałe zmiany stanu inwestycji długoterminowych, które miały miejsce w okresie dziewięciu miesięcy zakończonym dnia 30 września 2019 roku wynikały z podwyższenia kapitału następujących spółek:  EEC Magenta Sp. z o.o.
+
+ASI spółka komandytowo–akcyjna w kwocie 1 046 tysięcy złotych;  EEC Magenta Sp. z o.o. 2 ASI spółka komandytowo–akcyjna w kwocie 4 775 tysięcy złotych.
+
+Do 2028 roku założono wzrost ceny rynkowej o około 37% w porównaniu do średniej ceny w pierwszym półroczu 2019 roku, w latach 2029-2040 założono nieznaczne spadki cen uprawnień do emisji CO2 w stosunku do 2028 roku (w cenach stałych), łącznie o 10,6%.
+
+Wynika to z założonej większej dekarbonizacji gospodarki i spadku popytu na uprawnienia po roku 2030;  Przyjęto ścieżkę cenową dla świadectw pochodzenia oraz obowiązki umorzenia w kolejnych latach na bazie aktualnej ustawy o odnawialnych źródłach energii;  Dla energii zielonej uwzględniono ograniczone okresy wsparcia, zgodnie z założeniami zapisów ustawy o odnawialnych źródłach energii określającej nowe mechanizmy przyznawania wsparcia dla energii elektrycznej wytworzonej w odnawialnych źródłach.
+
+Okres wsparcia został ograniczony do 15 lat liczonych od momentu wprowadzenia do sieci po raz pierwszy energii elektrycznej, za którą przysługiwało świadectwo pochodzenia;  Założono przychód regulowany przedsiębiorstw dystrybucyjnych zapewniający pokrycie uzasadnionych kosztów oraz osiągnięcie zwrotu z zaangażowanego kapitału na uzasadnionym poziomie.
+
+W roku 2019 ujęto wpływ zapisów wynikających ze zmiany ustawy o podatku akcyzowym oraz niektórych innych ustaw z dnia 28 grudnia 2018 roku, która wprowadza regulacje dotyczące cen i stawek opłat zawartych w taryfie i cennikach opłat za energię elektryczną, uwzględniając zmniejszenie stawki podatku akcyzowego; TAURON Polska Energia S.A.
+
+Śródroczne skrócone sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 28  Przyjęto wolumeny sprzedaży do klientów końcowych uwzględniające wzrost PKB oraz rosnącą konkurencję na rynku;  Założono przychód taryfowy przedsiębiorstw ciepłowniczych zapewniający pokrycie uzasadnionych kosztów oraz osiągnięcie zwrotu z zaangażowanego kapitału na uzasadnionym poziomie;  Uwzględniono utrzymanie zdolności produkcyjnych istniejących aktywów trwałych w wyniku prowadzenia inwestycji o charakterze odtworzeniowym oraz rozwojowych;  Nie uwzględniono wypływu gotówki w związku z wyrokiem Sądu Arbitrażowego przy Krajowej Izbie Gospodarczej z dnia 25 kwietnia 2019 roku z powództwa Abener Energia S.A. przeciwko Elektrociepłowni Stalowa Wola S.A., opisanego szerzej w nocie 40 niniejszego śródrocznego skróconego sprawozdania finansowego.
+
+W tym celu wykorzystano odpowiednie założenia opisane w zakresie testu na utratę wartości udziałów i akcji.
+
+Wykup obligacji serii TPEA1119 Po dniu bilansowym, w dniu 4 listopada 2019 roku zgodnie z terminem wykupu zostały wykupione obligacje rynkowe serii TPEA1119 o wartości nominalnej 1 750 000 tysięcy złotych. 28.2.
+
+Kowenanty w umowach dotyczących zadłużenia Podpisane z bankami umowy nakładają na Spółkę zobowiązania natury prawno-finansowej (kowenanty), stosowane standardowo w tego rodzaju transakcjach.
+
+Kluczowym kowenantem jest wskaźnik zadłużenie netto/EBITDA (dla krajowych umów kredytów długoterminowych oraz krajowych programów emisji obligacji), który określa poziom zadłużenia pomniejszonego o środki pieniężne w relacji do generowanej EBITDA.
+
+Śródroczne skrócone sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 41 28.3.
+
+Kredyty bankowe Stan na 30 września 2019 (niebadane) 28.06.2020 1 852 151 - 02.09.2020 150 241 - 10.09.2020 300 285 - Bank Gospodarstwa Krajowego Wydatki inwestycyjne Grupy oraz refinansowanie części zadłużenia zmienne 20.12.2033 1 005 443 - Budowa kotła opalanego biomasą w Elektrowni Jaworzno III oraz remont turbiny parowej stałe 15.12.2021 60 912 59 116 Budowa i rozruch bloku kogeneracyjnego w EC Bielsko - Biała stałe 15.12.2021 87 121 84 613 stałe 15.06.2024 196 269 212 219 stałe 15.09.2024 88 924 107 353 stałe 15.09.2024 111 580 134 738 Modernizacja i rozbudowa sieci elektroenergetycznych oraz modernizacja elektrowni wodnych stałe 15.03.2027 217 891 252 637 Powszechna Kasa Oszczędności Bank Polski S.A. (kredyt w rachunku bieżącym) finansowanie bieżącej działalności zmienne 29.12.2020 171 037 - Bank Gospodarstwa Krajowego (kredyt w rachunku bieżącym) finansowanie transakcji na uprawnienia do emisji CO2, energię elektryczną i gaz na giełdach europejskich zmienne 31.12.2019 12 180 - mBank (Kredyt w rachunku bieżącym) finansowania depozytów zabezpieczających oraz transakcji na produkty commodities zmienne 31.03.2020 789 767 Razem 4 254 823 851 443 Termin spłaty Oprocentowanie Cel Kredytodawca Modernizacja i rozbudowa sieci elektroenergetycznych Europejski Bank Inwestycyjny Stan na 31 grudnia 2018 zmienne Umorzenie obligacji, wydatki inwestycyjne i ogólnokorporacyjne Grupy Konsorcjum banków Zgodnie z zapisami umowy kredytowej z dnia 19 czerwca 2019 roku zawartej z konsorcjum banków maksymalny okres ciągnienia poszczególnych transz kredytu to 12 miesięcy.
+
+Zaciągnięte na dzień 30 września 2019 roku transze mają 12-miesięczny termin spłaty, tj. 28 czerwca 2020 roku oraz 2 i 10 września 2020 roku.
+
+Uwzględniając aktualny stan sprawy należy uznać, że szanse Spółki na pozytywne rozstrzygnięcie sporu należy ocenić pozytywnie, tj. szanse przegranej nie są wyższe niż szanse wygranej.  Roszczenie wobec spółki PGE EJ 1 Sp. z o.o.
+
+W dniu 13 marca 2015 roku konsorcjum w składzie WorleyParsons Nuclear Services JSC, WorleyParsons International Inc, WorleyParsons Group Inc (dalej: „konsorcjum WorleyParsons"), będące wykonawcą badań w ramach procesu inwestycyjnego związanego z budową elektrowni jądrowej przez PGE EJ 1 Sp. z o.o. (dalej: „umowa”), zgłosiło w związku z umową - w wezwaniu do zapłaty względem PGE EJ 1 Sp. z o.o. - roszczenia na łączną kwotę 92 315 tysięcy złotych.
+
+W następstwie tego, w dniu 15 kwietnia 2015 roku Spółka (jako wspólnik posiadający 10% udziałów w kapitale zakładowym PGE EJ 1 Sp. z o.o.) zawarła porozumienie z PGE EJ 1 Sp. z o.o. oraz pozostałymi jej udziałowcami (tj.
+
+W związku z przedłożeniem w trakcie postępowania nowych danych pomiarowych przez ENEA Operator Sp. z o.o. można przypuszczać, że kwoty roszczeń dochodzonych przeciwko Spółce lub spółkom Grupy mogą ulec zmianie.
+
+Ujęcie zaangażowania Funduszy Inwestycji Zamkniętych („Fundusze”) zarządzanych przez Polski Fundusz Rozwoju w spółkę zależną Nowe Jaworzno Grupa TAURON Sp. z o.o.
+
+W umowie inwestycyjnej podpisanej przez Spółkę z Funduszami Inwestycji Zamkniętych zarządzanych przez Polski Fundusz Rozwoju przewidziano szereg sytuacji, których wystąpienie stanowi istotne naruszenie umowy ze strony Spółki.
+
+Powyższe sytuacje, z których część pozostaje poza bezpośrednią kontrolą Spółki, obejmują m.in. wystąpienie zdarzeń a o charakterze prawnym, zdarzeń odnoszących się do sytuacji finansowej Grupy TAURON, podejmowanych przez Grupę decyzji o charakterze inwestycyjnym i operacyjnym w zakresie finansowania i budowy bloku 910 MW, jak również zdarzeń dotyczących przyszłej eksploatacji bloku.
+
+Ewentualne istotne naruszenie umowy ze strony spółek Grupy może prowadzić do potencjalnej konieczności ujęcia w sprawozdaniu finansowym zobowiązania do wykupu od Funduszy Inwestycji Zamkniętych posiadanych przez te Fundusze udziałów w spółce zależnej Nowe Jaworzno Grupa TAURON Sp. z o.o., w kwocie zainwestowanej przez Fundusze w udziały, powiększonej o uzgodniony zwrot oraz premię za istotne naruszenie i pomniejszonej o dokonane dystrybucje środków przez Nowe Jaworzno Grupa TAURON Sp. z o.o. do Funduszy.
+
+Na dzień zatwierdzenia niniejszego śródrocznego skróconego sprawozdania finansowego do publikacji Spółka nie identyfikuje po swojej stronie ryzyka istotnego naruszenia umowy i stoi na stanowisku, iż nie ma realnych możliwości, w tym w przyszłości wystąpienia istotnych naruszeń umowy pozostających poza bezpośrednią kontrolą Spółki.
+
+W związku z powyższym Grupa, mając na uwadze zapisy MSR 32 Instrumenty finansowe: prezentacja, nie rozpoznaje zaangażowania Funduszy jako zobowiązania lecz jako udziały niekontrolujące.
+
+Na dzień bilansowy Fundusze Inwestycji Zamkniętych posiadają udziały spółki Nowe Jaworzno Grupa TAURON Sp. z o.o. w kwocie 880 000 tysięcy złotych. 37.
+
+Zabezpieczenie spłaty zobowiązań Najistotniejsze rodzaje zabezpieczeń stanowiące zabezpieczenie zobowiązań Spółki na dzień 30 września 2019 roku przedstawiono w poniższej tabeli.
+
+W dniu 25 kwietnia 2019 roku wydany został wyrok Sądu Arbitrażowego przy Krajowej Izbie Gospodarczej w Warszawie w sprawie z powództwa Abener Energia S.A. przeciwko spółce Elektrociepłownia Stalowa Wola S.A. będącej wspólnym przedsięwzięciem Grupy TAURON, w której Spółka posiada, pośrednio poprzez spółkę zależną TAURON Wytwarzanie S.A., 50% akcji w kapitale zakładowym.
+
+Postępowanie przed Sądem Arbitrażowym dotyczyło roszczenia o zapłatę, o ustalenie stosunku prawnego oraz o zobowiązanie do złożenia oświadczenia woli w związku z rozwiązanym kontraktem zawartym pomiędzy Abener Energia S.A. (generalny wykonawca) i Elektrociepłownią Stalowa Wola S.A. (zamawiający) na budowę bloku gazowo-parowego w Stalowej Woli.
+
+Na mocy wyroku Sądu Arbitrażowego Elektrociepłownia Stalowa Wola S.A. została zobowiązana do zapłaty na rzecz Abener Energia S.A. kwoty 333 793 tysiące złotych wraz z odsetkami ustawowymi za opóźnienie oraz kosztami postępowania arbitrażowego.
+
+W dniu 9 września 2019 roku Elektrociepłownia Stalowa Wola S.A. otrzymała wniosek Abener Energia S.A. o reasumpcję postanowienia Sądu Apelacyjnego w Rzeszowie z dnia 5 sierpnia 2019 roku, a także o oddalenie wniosku Elektrociepłowni Stalowa Wola S.A. o odmowę stwierdzenia wykonalności wyroku, a ponadto (wniosek ewentualny) o ustanowienie zabezpieczenia poprzez złożenie kwoty 414 399 tysięcy złotych do depozytu sądowego, bądź ustanowienie hipoteki przymusowej na nieruchomościach Elektrociepłowni Stalowa Wola S.A. do kwoty 414 399 tysięcy złotych, bądź w inny sposób.
+
+Kontrakt na budowę bloku gazowo-parowego zawarty pomiędzy Elektrociepłownią Stalowa Wola S.A. a Abener Energia S.A. nie zawiera regulacji zobowiązujących Spółkę do zapłaty w jakiejkolwiek formie za Elektrociepłownię Stalowa Wola S.A. wynagrodzenia na rzecz Abener Energia S.A.
+
+Przyjęcie aktualizacji kierunków strategicznych Strategii Grupy TAURON W dniu 27 maja 2019 roku Zarząd Spółki przyjął, a Rada Nadzorcza pozytywnie zaopiniowała aktualizację kierunków strategicznych będących uzupełnieniem Strategii Grupy TAURON na lata 2016-2025.
+
+Zaktualizowane kierunki strategiczne uwzględniają zmiany w otoczeniu rynkowym i regulacyjnym, w którym działa Grupa Kapitałowa TAURON Polska Energia S.A.
+
+Biorąc pod uwagę konieczność transformacji energetycznej Grupy, optymalizacji portfela inwestycyjnego oraz utrzymanie stabilności finansowej podjęto decyzję o przeprowadzeniu rynkowej weryfikacji m.in. opcji strategicznej obejmującej uelastycznienie portfela aktywów Grupy poprzez dostosowanie aktywów górniczych do planowanego zapotrzebowania Grupy na paliwo, reorganizację segmentu Wytwarzanie i portfela inwestycji kapitałowych.
+
+W ramach tej opcji rozważa się m.in. rynkową weryfikację zbycia Zakładu Górniczego Janina należącego do spółki zależnej TAURON Wydobycie S.A. oraz udziałów spółki zależnej TAURON Ciepło Sp. z o.o.
+
+W efekcie powyższych zdarzeń Spółka uruchomiła projekty mające na celu rynkową weryfikację możliwości sprzedaży ww. aktywów oraz ewentualną kontynuację procesu sprzedaży.
+
+Na dzień bilansowy Spółka oceniła, że w stosunku do udziałów w TAURON Ciepło Sp. z o.o. nie są spełnione wynikające z MSSF 5 Aktywa trwałe przeznaczone do sprzedaży oraz działalność zaniechana warunki w zakresie klasyfikacji powyższych składników majątku jako przeznaczonych do zbycia, w szczególności nie są spełnione wymogi prawne uznania sprzedaży powyższych aktywów za wysoce prawdopodobną. 41.
+
+W okresie dziewięciu miesięcy zakończonym dnia 30 września 2019 roku oraz do dnia zatwierdzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego do publikacji miały miejsce następujące podwyższenia kapitału spółki zależnej Nowe Jaworzno Grupa TAURON Sp. z o.o.:  W dniu 15 stycznia 2019 roku zostało zarejestrowane podwyższenie kapitału zakładowego spółki o kwotę 1 000 tysięcy złotych.
+
+Nowoutworzone udziały w podwyższonym kapitale zakładowym spółki zostały objęte przez Fundusz Inwestycji Infrastrukturalnych – Kapitałowy Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych za łączną kwotę 100 000 tysięcy złotych.
+
+Nadwyżka ceny emisyjnej udziałów ponad ich wartość nominalną w wysokości 99 000 tysięcy złotych została przekazana na kapitał zapasowy Nowe Jaworzno Grupa TAURON Sp. z o.o.
+
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 14  W dniu 18 kwietnia 2019 roku zostało zarejestrowane podwyższenie kapitału zakładowego spółki o kwotę 2 569 tysięcy złotych.
+
+Nowoutworzone udziały w podwyższonym kapitale zakładowym spółki objął Fundusz Inwestycji Infrastrukturalnych – Kapitałowy Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych za łączną cenę emisyjną 256 925 tysięcy złotych.
+
+Nadwyżka ceny emisyjnej udziałów ponad ich wartość nominalną w wysokości 254 356 tysięcy złotych została przekazana na kapitał zapasowy Nowe Jaworzno Grupa TAURON Sp. z o.o.
+
+W wyniku tej transakcji udział Spółki w kapitale i organie stanowiącym obniżył się do 92,86%.  W dniu 25 lipca 2019 roku zostało zarejestrowane podwyższenie kapitału zakładowego spółki o kwotę 7 731 tysięcy złotych.
+
+Nowoutworzone udziały w podwyższonym kapitale zakładowym spółki objął Fundusz Inwestycji Infrastrukturalnych – Kapitałowy Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych za łączną cenę emisyjną 83 075 tysięcy złotych, PFR Inwestycje Fundusz Inwestycji Zamkniętych za łączną cenę emisyjną 440 000 tysięcy złotych oraz Spółka za łączną cenę emisyjną 250 000 tysięcy złotych.
+
+Nadwyżka ceny emisyjnej udziałów ponad ich wartość nominalną w łącznej wysokości 765 344 tysiące złotych została przekazana na kapitał zapasowy Nowe Jaworzno Grupa TAURON Sp. z o.o.
+
+Opublikowane standardy i zmiany do standardów, które nie weszły jeszcze w życie Grupa nie zdecydowała się na wcześniejsze zastosowanie żadnego standardu lub zmiany do standardu, które zostały opublikowane, lecz nie weszły dotychczas w życie.
+
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 18 • Standardy wydane przez Radę Międzynarodowych Standardów Rachunkowości oraz zmiany do standardów, które nie zostały jeszcze zatwierdzone przez Unię Europejską i nie weszły jeszcze w życie W ocenie Zarządu następujące standardy oraz zmiany do standardów nie spowodują istotnego wpływu na stosowaną dotychczas politykę rachunkowości: Standard Data wejścia w życie według standardu, niezatwierdzone przez UE (okresy roczne rozpoczynające się dnia lub po tej dacie) MSSF 14 Regulacyjne rozliczenia międzyokresowe 1 stycznia 2016* MSSF 17 Umowy ubezpieczeniowe 1 stycznia 2021 Zmiany do MSSF 10 Skonsolidowane sprawozdania finansowe oraz MSR 28 Inwestycje w jednostkach stowarzyszonych i wspólnych przedsięwzięciach : Sprzedaż lub wniesienie aktywów pomiędzy inwestorem a jego jednostką stowarzyszoną lub wspólnym przedsięwzięciem oraz późniejsze zmiany data wejścia w życie zmian została odroczona Zmiany do MSR 1 Prezentacja sprawozdań finansowych oraz MSR 8 Zasady (polityka) rachunkowości, zmiany wartości szacunkowych i korygowanie błędów : Definicja istotnych pominięć lub zniekształceń pozycji 1 stycznia 2020 Zmiany do MSSF 3 Połączenia jednostek 1 stycznia 2020 Zmiany do Odniesień do Założeń Koncepcyjnych zawartych w MSSF 1 stycznia 2020 Zmiany do MSSF 9 Instrumenty finansowe , MSR 39 Instrumenty finansowe: ujmowanie i wycena oraz MSSF 7 Instrumenty finansowe: ujawnienia: Reforma referencyjnych stóp procentowych 1 stycznia 2020 * Komisja Europejska postanowiła nie rozpoczynać procesu zatwierdzania tego tymczasowego standardu do stosowania na terenie UE do czasu wydania ostatecznej wersji MSSF 14 Regulacyjne rozliczenia międzyokresowe. 8.
+
+Zmiany stosowanych zasad rachunkowości Zasady (polityka) rachunkowości zastosowane do sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego są spójne z tymi, które zastosowano przy sporządzaniu rocznego skonsolidowanego sprawozdania finansowego Grupy za rok zakończony dnia 31 grudnia 2018 roku, z wyjątkiem zastosowania nowych standardów, zmian do standardów i interpretacji wymienionych poniżej oraz zmian zasad rachunkowości stosowanych przez Grupę, co zostało opisane poniżej. 8.1.
+
+U leasingodawcy leasing jest klasyfikowany jako leasing finansowy, jeżeli następuje przeniesienie zasadniczo całego ryzyka i pożytków z tytułu posiadania odnośnych aktywów.
+
+W leasingu finansowym leasingodawca rozpoznaje przychody finansowe przez okres leasingu, w oparciu o stałą okresową stopę zwrotu na inwestycji netto.
+
+Leasingodawca ujmuje płatności leasingu operacyjnego w przychody liniowo lub w inny systematyczny sposób, jeśli lepiej odzwierciedla wzór otrzymywania korzyści z wykorzystania odnośnych aktywów.
+
+W związku z powyższym istnieje możliwość, że ostateczne kwoty zawarte w skonsolidowanym sprawozdaniu finansowym za rok 2019 będą się różnić od danych zaprezentowanych w niniejszym śródrocznym skróconym skonsolidowanym sprawozdaniu finansowym.
+
+W ocenie Zarządu wprowadzenie następujących zmian do standardów oraz interpretacji nie miało istotnego wpływu na stosowaną dotychczas politykę rachunkowości: Standard/Interpretacja Data wejścia w życie w UE (okresy roczne rozpoczynające się dnia lub po tej dacie) Zmiany do MSSF 9 Instrumenty finansowe 1 stycznia 2019 Zmiany do MSR 28 Inwestycje w jednostkach stowarzyszonych i wspólnych przedsięwzięciach 1 stycznia 2019 Interpretacja KIMSF 23 Niepewność co do traktowania podatku dochodowego 1 stycznia 2019 Zmiany do MSR 19 Świadczenia pracownicze 1 stycznia 2019 Zmiany do różnych standardów Poprawki do MSSF (cykl 2015-2017): MSR 12 Podatek dochodowy 1 stycznia 2019 MSR 23 Koszty finansowania zewnętrznego 1 stycznia 2019 MSSF 3 Połączenia jednostek 1 stycznia 2019 MSSF 11 Wspólne ustalenia umowne 1 stycznia 2019 8.2.
+
+Pozostałe zmiany zasad rachunkowości i zasad prezentacji stosowanych przez Grupę Grupa przeprowadziła analizę dopuszczalnych i stosowanych w otoczeniu konkurencyjnym sposobów prezentacji w sprawozdaniu finansowym aktywów górniczych, tj.:  aktywów związanych z drążeniem wyrobisk chodnikowych produkcyjnych i zbrojeniem ścian w kopalniach węgla kamiennego, do których zalicza się nakłady poniesione na prace związane z drążeniem wyrobisk chodnikowych produkcyjnych, pomniejszone o wartość węgla handlowego wydobytego w trakcie ich realizacji oraz nakłady poniesione na prace związane ze zbrojeniem ścian,  aktywów dotyczących zdejmowania nadkładu w kopalniach odkrywkowych, do których zalicza się nakłady poniesione na prace związane z usuwaniem nadkładu ułatwiające dostęp do zidentyfikowanej części złóż kamienia wapiennego, powiększone o przypisane bezpośrednio powiązane koszty ogólne.
+
+Na podstawie przeprowadzonej analizy Grupa dokonała zmiany polityki rachunkowości w zakresie ujęcia aktywów górniczych.
+
+Aktywa górnicze związane z drążeniem wyrobisk chodnikowych produkcyjnych i zbrojeniem ścian Zgodnie ze zmienioną polityką rachunkowości ewidencjonowane na kontach czynnych rozliczeń międzyokresowych skumulowane koszty prac związanych z drążeniem wyrobisk chodnikowych produkcyjnych oraz skumulowane koszty prac związanych ze zbrojeniem ścian Grupa prezentuje w rzeczowych aktywach trwałych.
+
+Rozliczenie nakładów poniesionych na w/w aktywa następuje w miesięcznych ratach w ciągu okresu eksploatacji ścian, którym wyrobiska służą, proporcjonalnie do produkcji węgla handlowego i jest prezentowane w wyniku finansowym jako amortyzacja.
+
+Eksploatacja ścian w danym pokładzie eksploatacyjnym jest procesem trwającym powyżej dwunastu miesięcy.
+
+Aktywa dotyczące zdejmowania nadkładu Zgodnie ze zmienioną polityką rachunkowości ewidencjonowane na kontach czynnych rozliczeń międzyokresowych skumulowane koszty prac związanych ze zdejmowaniem nadkładu w kopalniach odkrywkowych Grupa prezentuje w rzeczowych aktywach trwałych.
+
+Rozliczenie nakładów poniesionych na w/w aktywa następuje przy zastosowaniu metody opartej na przewidywanym okresie eksploatacji udostępnionego złoża trwającym powyżej dwunastu miesięcy i jest prezentowane w wyniku finansowym jako amortyzacja.
+
+Przed zmianą zasad rachunkowości koszty usuwania nadkładu na etapie produkcji w kopalniach odkrywkowych prezentowane były w pozostałych aktywach niefinansowych.
+
+Zmieniona prezentacja w ocenie Grupy lepiej odzwierciedla charakter aktywów, które powstają i są utrzymywane w celu wykorzystania ich w procesie produkcyjnym.
+
+Ujęcie rozliczania nakładów w kosztach amortyzacji odzwierciedla więc charakter i sposób użytkowania aktywów.
+
+Ponadto, przeprowadzona analiza wskazała, że zmieniona prezentacja jest najczęściej stosowana w otoczeniu konkurencyjnym przez spółki notowane na giełdzie papierów wartościowych działające w obszarze wydobycia węgla.
+
+W związku z rozliczaniem nakładów w koszty amortyzacji zmiana wpłynęła na EBITDA, tj. zysk/(stratę) operacyjną powiększony o amortyzację oraz odpisy na aktywa niefinansowe.
+
+Dodatni wpływ powyższej zmiany na EBITDA w okresie dziewięciu miesięcy zakończonym dnia 30 września 2019 roku wyniósł 68 864 tysiące złotych.
+
+Handel hurtowy energią elektryczną, jak również obrót uprawnieniami do emisji i świadectwami pochodzenia oraz sprzedaż energii elektrycznej do krajowych odbiorców końcowych lub podmiotów dokonujących dalszej odsprzedaży energii elektrycznej TAURON Polska Energia S.A.
+
+TAMEH HOLDING Sp. z o.o.* TAMEH POLSKA Sp. z o.o.* TAMEH Czech s.r.o.* Elektrociepłownia Stalowa Wola S.A.* Oprócz powyższych głównych segmentów działalności, Grupa TAURON prowadzi również działalność w obszarze wydobycia kamienia, w tym kamienia wapiennego, na potrzeby energetyki, hutnictwa, budownictwa i drogownictwa oraz w obszarze produkcji sorbentów przeznaczonych do instalacji odsiarczania spalin metodą mokrą oraz do wykorzystania w kotłach fluidalnych (Kopalnia Wapienia Czatkowice Sp. z o.o.).
+
+Jako pozostała działalność Grupy traktowana jest również działalność spółek TAURON Obsługa Klienta Sp. z o.o., Finanse Grupa TAURON Sp. z o.o., Bioeko Grupa TAURON Sp. z o.o., Wsparcie Grupa TAURON Sp. z o.o. oraz Polska Energia-Pierwsza Kompania Handlowa Sp. z o.o.
+
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 26 10.1.
+
+Segmenty operacyjne Okres 9 miesięcy zakończony dnia 30 września 2019 roku lub na dzień 30 września 2019 roku (niebadane) Wydobycie Wytwarzanie Dystrybucja Sprzedaż Pozostałe Pozycje nieprzypisane / Eliminacje Razem Przychody Sprzedaż na rzecz klientów zewnętrznych oraz rekompensaty 263 128 2 747 090 2 361 484 9 804 676 83 268 - 15 259 646 Sprzedaż między segmentami 470 280 887 786 2 536 801 1 416 501 648 704 (5 960 072) - Przychody segmentu ogółem 733 408 3 634 876 4 898 285 11 221 177 731 972 (5 960 072) 15 259 646 Zysk/(strata) segmentu (676 341) 284 079 1 140 913 503 762 59 600 30 709 1 342 722 Udział w zysku/(stracie) wspólnych przedsięwzięć - 55 517 - - - - 55 517 Koszty nieprzypisane - - - - - (79 444) (79 444) EBIT (676 341) 339 596 1 140 913 503 762 59 600 (48 735) 1 318 795 Przychody/(koszty) finansowe netto - - - - - (213 543) (213 543) Zysk/(strata) przed opodatkowaniem (676 341) 339 596 1 140 913 503 762 59 600 (262 278) 1 105 252 Podatek dochodowy - - - - - (250 761) (250 761) Zysk/(strata) netto za okres (676 341) 339 596 1 140 913 503 762 59 600 (513 039) 854 491 Aktywa i zobowiązania Aktywa segmentu 1 608 857 13 842 860 18 653 722 5 467 453 570 462 - 40 143 354 Udziały i akcje we wspólnych przedsięwzięciach - 570 451 - - - - 570 451 Aktywa nieprzypisane - - - - - 509 314 509 314 Aktywa ogółem 1 608 857 14 413 311 18 653 722 5 467 453 570 462 509 314 41 223 119 Zobowiązania segmentu 778 862 1 754 474 1 808 440 1 598 193 380 238 - 6 320 207 Zobowiązania nieprzypisane - - - - - 14 833 018 14 833 018 Zobowiązania ogółem 778 862 1 754 474 1 808 440 1 598 193 380 238 14 833 018 21 153 225 EBIT (676 341) 339 596 1 140 913 503 762 59 600 (48 735) 1 318 795 Amortyzacja (145 325) (325 837) (858 940) (29 887) (67 855) - (1 427 844) Odpisy aktualizujące (269 362) (91) (278) - (36) - (269 767) EBITDA (261 654) 665 524 2 000 131 533 649 127 491 (48 735) 3 016 406 Pozostałe informacje dotyczące segmentu Nakłady inwestycyjne * 369 062 971 929 1 330 839 20 637 48 514 - 2 740 981 * Nakłady inwestycyjne obejmują nakłady na rzeczowe aktywa trwałe oraz aktywa niematerialne, z wyłączeniem nabycia praw do emisji CO 2 oraz praw majątkowych pochodzenia energii.
+
+Okres 9 miesięcy zakończony dnia 30 września 2018 roku (dane przekształcone niebadane) lub na dzień 31 grudnia 2018 roku (dane przekształcone) Przychody Sprzedaż na rzecz klientów zewnętrznych oraz rekompensaty 442 725 1 980 680 2 250 036 8 556 675 71 686 - 13 301 802 Sprzedaż między segmentami 508 650 1 288 069 2 236 626 1 373 738 544 797 (5 951 880) - Przychody segmentu ogółem 951 375 3 268 749 4 486 662 9 930 413 616 483 (5 951 880) 13 301 802 Zysk/(strata) segmentu (916 681) 650 466 1 121 172 467 815 62 894 (39 277) 1 346 389 Udział w zysku/(stracie) wspólnych przedsięwzięć - 40 663 - - - - 40 663 Koszty nieprzypisane - - - - - (81 450) (81 450) EBIT (916 681) 691 129 1 121 172 467 815 62 894 (120 727) 1 305 602 Przychody/(koszty) finansowe netto - - - - - (217 407) (217 407) Zysk/(strata) przed opodatkowaniem (916 681) 691 129 1 121 172 467 815 62 894 (338 134) 1 088 195 Podatek dochodowy - - - - - (233 315) (233 315) Zysk/(strata) netto za okres (916 681) 691 129 1 121 172 467 815 62 894 (571 449) 854 880 Aktywa i zobowiązania Aktywa segmentu 1 589 823 12 168 948 17 923 661 3 801 630 581 497 - 36 065 559 Udziały i akcje we wspólnych przedsięwzięciach - 543 913 - - - - 543 913 Aktywa nieprzypisane - - - - - 488 005 488 005 Aktywa ogółem 1 589 823 12 712 861 17 923 661 3 801 630 581 497 488 005 37 097 477 Zobowiązania segmentu 851 497 1 299 850 2 133 237 1 772 534 410 567 - 6 467 685 Zobowiązania nieprzypisane - - - - - 12 201 311 12 201 311 Zobowiązania ogółem 851 497 1 299 850 2 133 237 1 772 534 410 567 12 201 311 18 668 996 EBIT (916 681) 691 129 1 121 172 467 815 62 894 (120 727) 1 305 602 Amortyzacja (174 883) (308 325) (794 006) (23 905) (66 795) - (1 367 914) Odpisy aktualizujące (732 858) 350 514 (692) - (559) - (383 595) EBITDA (8 940) 648 940 1 915 870 491 720 130 248 (120 727) 3 057 111 Pozostałe informacje dotyczące segmentu Nakłady inwestycyjne * 280 113 909 386 1 186 690 28 265 39 759 - 2 444 213 * Nakłady inwestycyjne obejmują nakłady na rzeczowe aktywa trwałe oraz aktywa niematerialne, z wyłączeniem nabycia praw do emisji CO 2 oraz praw majątkowych pochodzenia energii.
+
+Wydobycie Wytwarzanie Dystrybucja Sprzedaż Pozostałe Pozycje nieprzypisane / Eliminacje Razem Grupa Kapitałowa TAURON Polska Energia S.A.
+
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 27 Okres 3 miesięcy zakończony dnia 30 września 2019 roku (niebadane) Wydobycie Wytwarzanie Dystrybucja Sprzedaż Pozostałe Pozycje nieprzypisane / Eliminacje Razem Przychody Sprzedaż na rzecz klientów zewnętrznych oraz rekompensaty 77 675 872 696 794 237 3 087 361 29 823 - 4 861 792 Sprzedaż między segmentami 124 043 215 906 828 706 487 521 219 220 (1 875 396) - Przychody segmentu ogółem 201 718 1 088 602 1 622 943 3 574 882 249 043 (1 875 396) 4 861 792 Zysk/(strata) segmentu (165 004) 9 114 376 185 100 132 20 235 11 804 352 466 Udział w zysku/(stracie) wspólnych przedsięwzięć - 5 492 - - - - 5 492 Koszty nieprzypisane - - - - - (27 786) (27 786) EBIT (165 004) 14 606 376 185 100 132 20 235 (15 982) 330 172 Przychody/(koszty) finansowe netto - - - - - (100 147) (100 147) Zysk/(strata) przed opodatkowaniem (165 004) 14 606 376 185 100 132 20 235 (116 129) 230 025 Podatek dochodowy - - - - - (42 474) (42 474) Zysk/(strata) netto za okres (165 004) 14 606 376 185 100 132 20 235 (158 603) 187 551 EBIT (165 004) 14 606 376 185 100 132 20 235 (15 982) 330 172 Amortyzacja (46 280) (111 948) (284 972) (10 275) (23 032) - (476 507) Odpisy aktualizujące (7) 62 (1 655) - 238 - (1 362) EBITDA (118 717) 126 492 662 812 110 407 43 029 (15 982) 808 041 Pozostałe informacje dotyczące segmentu Nakłady inwestycyjne * 132 332 471 307 468 167 10 387 16 687 - 1 098 880 * Nakłady inwestycyjne obejmują nakłady na rzeczowe aktywa trwałe oraz aktywa niematerialne, z wyłączeniem nabycia praw do emisji CO 2 oraz praw majątkowych pochodzenia energii.
+
+Okres 3 miesięcy zakończony dnia 30 września 2018 roku (dane przekształcone niebadane) Przychody Sprzedaż na rzecz klientów zewnętrznych oraz rekompensaty 127 257 659 191 734 454 2 929 163 26 203 - 4 476 268 Sprzedaż między segmentami 145 332 490 206 728 009 519 326 175 674 (2 058 547) - Przychody segmentu ogółem 272 589 1 149 397 1 462 463 3 448 489 201 877 (2 058 547) 4 476 268 Zysk/(strata) segmentu (50 515) (44 941) 338 355 131 621 18 622 (13 926) 379 216 Udział w zysku/(stracie) wspólnych przedsięwzięć - (4 779) - - - - (4 779) Koszty nieprzypisane - - - - - (23 719) (23 719) EBIT (50 515) (49 720) 338 355 131 621 18 622 (37 645) 350 718 Przychody/(koszty) finansowe netto - - - - - 12 110 12 110 Zysk/(strata) przed opodatkowaniem (50 515) (49 720) 338 355 131 621 18 622 (25 535) 362 828 Podatek dochodowy - - - - - (76 384) (76 384) Zysk/(strata) netto za okres (50 515) (49 720) 338 355 131 621 18 622 (101 919) 286 444 EBIT (50 515) (49 720) 338 355 131 621 18 622 (37 645) 350 718 Amortyzacja (39 371) (106 990) (269 712) (5 594) (22 705) - (444 372) Odpisy aktualizujące 73 80 (137) - (209) - (193) EBITDA (11 217) 57 190 608 204 137 215 41 536 (37 645) 795 283 Pozostałe informacje dotyczące segmentu Nakłady inwestycyjne * 109 103 339 863 413 530 3 645 17 573 - 883 714 * Nakłady inwestycyjne obejmują nakłady na rzeczowe aktywa trwałe oraz aktywa niematerialne, z wyłączeniem nabycia praw do emisji CO 2 oraz praw majątkowych pochodzenia energii.
+
+Wydobycie Wytwarzanie Dystrybucja Sprzedaż Pozostałe Pozycje nieprzypisane / Eliminacje Razem Grupa Kapitałowa TAURON Polska Energia S.A.
+
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 31 W okresie dziewięciu miesięcy zakończonym dnia 30 września 2019 roku w stosunku do okresu porównywalnego nastąpił wzrost kosztu sprzedanych towarów, produktów, materiałów i usług, w tym główne zmiany to:  Wzrost kosztów amortyzacji, co wynika głównie z ujęcia w bieżącym okresie amortyzacji od praw do użytkowania aktywów w wysokości 54 288 tysięcy złotych w związku z wejściem w życie od 1 stycznia 2019 roku MSSF 16 Leasing;  Ujęcie odpisu z tytułu utraty wartości rzeczowych aktywów trwałych, aktywów niematerialnych i praw do użytkowania aktywów w wysokości 269 314 tysięcy złotych w wyniku testów na utratę wartości aktywów przeprowadzonych na dzień 30 czerwca 2019 roku (szerzej w nocie 17 niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego).
+
+Odpis ujęty w wyniku testów na dzień 30 czerwca 2019 roku był niższy niż odpis ujęty w okresie porównywalnym w wyniku testów przeprowadzonych na dzień 30 czerwca 2018 roku;  Wzrost zużycia materiałów i energii związany jest głównie z wyższymi kosztami paliw zużywanych do produkcji na skutek zużycia większego wolumenu węgla w związku z niższą produkcją własnych zakładów górniczych oraz biomasy w związku z wyższą produkcją energii elektrycznej z bloków opalanych tym paliwem.  Wzrost kosztu usług dystrybucyjnych w związku z wyższymi składnikami opłaty sieciowej i jakościowej z uwagi na zmianę taryfy;  Spadek kosztów pozostałych usług obcych, na co wpływ mają niższe koszty usług budowlano-montażowych w bieżącym roku z uwagi na intensyfikację prac w 2018 roku związanych z realizacją inwestycji - budowa bloku 910 MW w Jaworznie, częściowe rozwiązanie rezerwy na rekultywację odpadów paleniskowych, niższe koszty usług górniczych i najmu maszyn w związku z niższą produkcją zakładów górniczych oraz niższe koszty najmu i dzierżawy w związku z wejściem w życie od 1 stycznia 2019 roku MSSF 16 Leasing;  Wzrost kosztu obowiązku umorzenia uprawnień do emisji CO2, co wynika głównie ze wzrostu cen uprawnień.
+
+Jednocześnie w koszcie wypełnienia obowiązku umorzenia uprawnień do emisji CO2 i tym samym w kalkulacji rezerwy uwzględnione zostały jednostki poświadczonej redukcji emisji (CER) w ilości 883 000, których cena nabycia jest niższa niż EUA.
+
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 34 NOTY OBJAŚNIAJĄCE DO ŚRÓDROCZNEGO SKRÓCONEGO SKONSOLIDOWANEGO SPRAWOZDANIA Z SYTUACJI FINANSOWEJ 17.
+
+Rzeczowe aktywa trwałe Okres 9 miesięcy zakończony dnia 30 września 2019 roku (niebadane) Grunty Budynki, lokale i obiekty inżynierii lądowej i wodnej Urządzenia techniczne i maszyny Wyrobiska górnicze Inne środki trwałe Środki trwałe w budowie Rzeczowe aktywa trwałe razem WARTOŚĆ BRUTTO Bilans otwarcia 125 869 23 775 062 19 133 480 221 074 943 340 6 376 491 50 575 316 Zakup bezpośredni - - - 758 - 2 195 974 2 196 732 Koszty finansowania zewnętrznego - - - - - 155 418 155 418 Rozliczenie środków trwałych w budowie 974 917 820 602 357 - 42 154 (1 563 305) - Sprzedaż (39) (1 489) (68 709) - (22 315) (31) (92 583) Likwidacja (10) (28 087) (66 957) (90 684) (7 877) - (193 615) Nieodpłatne otrzymanie - 8 240 112 - - - 8 352 Przekazanie do/z aktywów przeznaczonych do zbycia (60) (12 428) (46) - (171) - (12 705) Koszty komponentów remontowych - - - - - 146 967 146 967 Wytworzenie we własnym zakresie - - - 143 203 - 35 962 179 165 Nabycie przedsięwzięcia 550 329 775 527 439 - 33 - 857 797 Pozostałe zmiany 164 (2 189) 398 - 783 (3 059) (3 903) Różnice kursowe z przeliczenia jednostki zagranicznej - - 3 - 6 - 9 Bilans zamknięcia 127 448 24 986 704 20 128 077 274 351 955 953 7 344 417 53 816 950 SKUMULOWANA AMORTYZACJA (UMORZENIE) Bilans otwarcia (404) (9 599 896) (10 765 131) (52 458) (611 258) (139 502) (21 168 649) Amortyzacja za okres - (607 151) (561 725) (68 864) (55 428) - (1 293 168) Zwiększenie odpisów aktualizujących - (92 069) (77 203) (36 398) (2 128) (62 072) (269 870) Zmniejszenie odpisów aktualizujących - 2 178 367 - 3 6 040 8 588 Sprzedaż - 734 66 865 - 20 918 - 88 517 Likwidacja - 23 835 63 117 90 684 7 861 - 185 497 Przekazanie do/z aktywów przeznaczonych do zbycia - 9 369 38 - 159 - 9 566 Pozostałe zmiany (2) (482) 978 - 71 - 565 Różnice kursowe z przeliczenia jednostki zagranicznej - - (2) - (4) - (6) Bilans zamknięcia (406) (10 263 482) (11 272 696) (67 036) (639 806) (195 534) (22 438 960) WARTOŚĆ NETTO NA POCZĄTEK OKRESU 125 465 14 175 166 8 368 349 168 616 332 082 6 236 989 29 406 667 WARTOŚĆ NETTO NA KONIEC OKRESU 127 042 14 723 222 8 855 381 207 315 316 147 7 148 883 31 377 990 w tym segmenty operacyjne: Wydobycie 3 118 416 845 371 826 204 026 9 651 396 049 1 401 515 Wytwarzanie 43 242 2 503 802 3 864 148 - 26 608 5 590 339 12 028 139 Dystrybucja 63 823 11 332 817 4 506 717 - 261 426 1 135 165 17 299 948 Inne segmenty oraz pozostała działalność 16 859 469 758 112 690 3 289 18 462 27 330 648 388 Grupa Kapitałowa TAURON Polska Energia S.A.
+
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 35 Okres 9 miesięcy zakończony dnia 30 września 2018 roku (dane przekształcone niebadane) Grunty Budynki, lokale i obiekty inżynierii lądowej i wodnej Urządzenia techniczne i maszyny Wyrobiska górnicze Inne środki trwałe Środki trwałe w budowie Rzeczowe aktywa trwałe razem WARTOŚĆ BRUTTO Bilans otwarcia 122 780 22 580 965 18 647 127 - 895 144 4 856 088 47 102 104 Korekty bilansu otwarcia - - - 196 185 - - 196 185 Bilans otwarcia po przekształceniu 122 780 22 580 965 18 647 127 196 185 895 144 4 856 088 47 298 289 Zakup bezpośredni - - - 724 - 2 056 668 2 057 392 Koszty finansowania zewnętrznego - - - - - 124 280 124 280 Rozliczenie środków trwałych w budowie 4 835 760 128 432 776 - 38 522 (1 236 261) - Sprzedaż (29) (1 095) (47 134) - (18 835) (23) (67 116) Likwidacja (41) (43 486) (47 310) (97 072) (7 181) (36) (195 126) Nieodpłatne otrzymanie 189 8 589 12 - - - 8 790 Przekazanie do/z aktywów przeznaczonych do zbycia (164) (2 060) (7 635) - (2 012) - (11 871) Koszty komponentów remontowych - - - - - 42 987 42 987 Wytworzenie we własnym zakresie - - - 118 768 - 31 193 149 961 Pozostałe zmiany (351) (1 389) 2 850 - (2 656) (1 142) (2 688) Różnice kursowe z przeliczenia jednostki zagranicznej - - 8 - 12 - 20 Bilans zamknięcia 127 219 23 301 652 18 980 694 218 605 902 994 5 873 754 49 404 918 SKUMULOWANA AMORTYZACJA (UMORZENIE) Bilans otwarcia (407) (8 553 035) (9 866 322) - (565 315) (37 139) (19 022 218) Amortyzacja za okres - (601 767) (554 777) (85 516) (58 168) - (1 300 228) Zwiększenie odpisów aktualizujących - (289 671) (243 806) (76 266) (6 062) (104 744) (720 549) Zmniejszenie odpisów aktualizujących - 130 018 222 063 - 95 20 352 196 Sprzedaż - 800 44 349 - 18 215 - 63 364 Likwidacja - 37 534 44 200 97 072 7 154 - 185 960 Przekazanie do/z aktywów przeznaczonych do zbycia - 1 333 7 201 - 1 624 - 10 158 Pozostałe zmiany - 442 (1 350) - 1 806 - 898 Różnice kursowe z przeliczenia jednostki zagranicznej - - (5) - (5) - (10) Bilans zamknięcia (407) (9 274 346) (10 348 447) (64 710) (600 656) (141 863) (20 430 429) WARTOŚĆ NETTO NA POCZĄTEK OKRESU 122 373 14 027 930 8 780 805 - 329 829 4 818 949 28 079 886 Korekty bilansu otwarcia - - - 196 185 - - 196 185 WARTOŚĆ NETTO NA POCZĄTEK OKRESU PO PRZEKSZTAŁCENIU 122 373 14 027 930 8 780 805 196 185 329 829 4 818 949 28 276 071 WARTOŚĆ NETTO NA KONIEC OKRESU 126 812 14 027 306 8 632 247 153 895 302 338 5 731 891 28 974 489 w tym segmenty operacyjne: Wydobycie 2 949 495 332 410 262 151 617 9 910 275 506 1 345 576 Wytwarzanie 45 597 2 372 294 3 817 285 - 31 866 4 429 196 10 696 238 Dystrybucja 61 406 10 691 940 4 295 582 - 245 281 1 008 093 16 302 302 Inne segmenty oraz pozostała działalność 16 860 467 740 109 118 2 278 15 281 19 096 630 373 Powyższe tabele prezentują wyrobiska górnicze zgodnie ze zmienioną od dnia 1 stycznia 2019 roku polityką rachunkowości Grupy TAURON, jak zostało szerzej opisane w nocie 8.2 niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego.
+
+W okresie dziewięciu miesięcy zakończonym dnia 30 września 2019 roku Grupa dokonała zakupu rzeczowych aktywów trwałych (wliczając skapitalizowane koszty finansowania zewnętrznego) w kwocie 2 352 150 tysięcy złotych.
+
+Największe zakupy dokonane zostały w związku z inwestycjami w następujących segmentach operacyjnych: Okres 9 miesięcy zakończony 30 września 2019 Okres 9 miesięcy zakończony 30 września 2018 (niebadane) (niebadane) Dystrybucja 1 293 306 1 167 974 Wytwarzanie 791 708 841 526 Wydobycie 219 032 151 940 Segment operacyjny Testy na utratę wartości Z uwagi na długotrwałe utrzymywanie się wartości rynkowej aktywów netto Spółki na poziomie poniżej wartości bilansowej oraz bieżące zmiany w zakresie cen energii elektrycznej, surowców i uprawnień do emisji CO2, a także nowelizację Ustawy o odnawialnych źródłach energii przeprowadzoną w lipcu 2019 roku oraz funkcjonowanie znowelizowanej Ustawy z dnia 28 grudnia 2018 roku o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, została wykonana analiza skutków zmian sytuacji rynkowej w trzecim kwartale bieżącego roku.
+
+W analizowanym okresie w obszarze rynkowym zanotowano korektę cen uprawnień do emisji CO2 po osiągnięciu wieloletnich maksimów w lipcu bieżącego roku.
+
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 38 (w cenach stałych), łącznie o 10,6%.
+
+Wynika to z założonej większej dekarbonizacji gospodarki i spadku popytu na uprawnienia po roku 2030;  Przyjęto ścieżkę cenową dla świadectw pochodzenia energii oraz obowiązki umorzenia w kolejnych latach na bazie aktualnej ustawy o odnawialnych źródłach energii;  Dla energii zielonej uwzględniono ograniczone okresy wsparcia, zgodnie z założeniami zapisów ustawy o odnawialnych źródłach energii określającej nowe mechanizmy przyznawania wsparcia dla energii elektrycznej wytworzonej w odnawialnych źródłach.
+
+Okres wsparcia został ograniczony do 15 lat liczonych od momentu wprowadzenia do sieci po raz pierwszy energii elektrycznej, za którą przysługiwało świadectwo pochodzenia;  Założono przychód regulowany przedsiębiorstw dystrybucyjnych zapewniający pokrycie uzasadnionych kosztów oraz osiągnięcie zwrotu z zaangażowanego kapitału na uzasadnionym poziomie.
+
+Poziom zwrotu uzależniony jest od Wartości Regulacyjnej Aktywów;  Przyjęto ścieżkę cen detalicznych energii elektrycznej na podstawie hurtowej ceny energii czarnej przy uwzględnieniu kosztu akcyzy, kosztu obowiązku umorzenia świadectw pochodzenia oraz spodziewanego poziomu marży.
+
+W roku 2019 ujęto wpływ zapisów wynikających ze zmiany ustawy o podatku akcyzowym oraz niektórych innych ustaw z dnia 28 grudnia 2018 roku, która wprowadza regulacje dotyczące cen i stawek opłat zawartych w taryfie i cennikach opłat za energię elektryczną, uwzględniając zmniejszenie stawki podatku akcyzowego;  Przyjęto wolumeny sprzedaży do klientów końcowych uwzględniające wzrost PKB oraz rosnącą konkurencję na rynku;  Założono przychód taryfowy przedsiębiorstw ciepłowniczych zapewniający pokrycie uzasadnionych kosztów oraz osiągnięcie zwrotu z zaangażowanego kapitału na uzasadnionym poziomie;  Uwzględniono utrzymanie zdolności produkcyjnych istniejących aktywów trwałych w wyniku prowadzenia inwestycji o charakterze odtworzeniowym;  Przyjęto poziom średniego ważonego kosztu kapitału (WACC) kształtujący się w okresie projekcji dla poszczególnych CGU między 6,60% - 11,40% w ujęciu nominalnym przed opodatkowaniem przy uwzględnieniu stopy wolnej od ryzyka odpowiadającej rentowności 10 – letnich obligacji Skarbu Państwa (na poziomie 4,07%) oraz premii za ryzyko działalności właściwej dla branży energetycznej (6%).
+
+Stopa wzrostu zastosowana do ekstrapolacji prognoz przepływów pieniężnych wykraczających poza szczegółowy okres objęty planowaniem została przyjęta na poziomie 2,5% i odpowiada zakładanej długoterminowej stopie inflacji.
+
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 40 30 czerwca 2019 (niebadane) 31 grudnia 2018 Dystrybucja • Przychód regulowany przedsiębiorstw dystrybucyjnych zapewniający pokrycie uzasadnionych kosztów oraz osiągnięcie zwrotu z zaangażowanego kapitału na uzasadnionym poziomie.
+
+Wartości Regulacyjnej Aktywów; • Utrzymanie zdolności produkcyjnych istniejących aktywów trwałych w wyniku prowadzenia inwestycji o charakterze odtworzeniowym 7,78% 7,61% Segment operacyjny Kluczowe założenia Poziom stopy dyskontowej (przed opodatkowaniem) przyjęty w testach na dzień: Przeprowadzony na dzień 30 czerwca 2019 roku test na utratę wartości nie wskazał na utratę wartości bilansowej wartości firmy w poszczególnych segmentach. 20.
+
+Długoterminowe świadectwa energii i prawa do emisji CO2 Okres 9 miesięcy zakończony dnia 30 września 2019 roku (niebadane) Świadectwa pochodzenia energii Prawa do emisji CO2 Razem Bilans otwarcia 208 585 453 018 661 603 Zakup bezpośredni 150 137 - 150 137 Reklasyfikacja (191 943) (406 301) (598 244) Bilans zamknięcia 166 779 46 717 213 496 Okres 9 miesięcy zakończony dnia 30 września 2018 roku (niebadane) Świadectwa pochodzenia energii Prawa do emisji CO2 Razem Bilans otwarcia 95 795 207 335 303 130 Zakup bezpośredni 143 604 420 144 024 Reklasyfikacja (89 355) (181 724) (271 079) Bilans zamknięcia 150 044 26 031 176 075 20.2.
+
+W ramach pozostałych aktywów niematerialnych Grupa prezentuje prawa wieczystego użytkowania gruntu w wysokości 15 605 tysięcy złotych, które dotyczą kopalni wapienia należącej do spółki zależnej, wyłączone z zakresu MSSF 16 Leasing. 22.
+
+Udziały i akcje we wspólnych przedsięwzięciach Inwestycje we wspólne przedsięwzięcia według stanu na dzień 30 września 2019 roku oraz za okres dziewięciu miesięcy zakończony dnia 30 września 2019 roku wyceniane metodą praw własności prezentuje poniższa tabela: Stan na 30 września 2019 lub za okres 9 miesięcy zakończony 30 września 2019 (niebadane) Aktywa trwałe (długoterminowe) 1 541 627 2 213 696 3 755 323 Aktywa obrotowe (krótkoterminowe), w tym: 53 286 736 445 789 731 środki pieniężne i ich ekwiwalenty 32 823 214 839 247 662 Zobowiązania długoterminowe (-), w tym: (1 584 636) (928 949) (2 513 585) zobowiązania z tytułu zadłużenia (1 581 668) (834 607) (2 416 275) Zobowiązania krótkoterminowe (-), w tym: (475 895) (798 792) (1 274 687) zobowiązania z tytułu zadłużenia (20 615) (138 896) (159 511) Razem aktywa netto (465 618) 1 222 400 756 782 Udział w aktywach netto (232 809) 611 200 378 391 Udziały i akcje we wspólnych przedsięwzięciach - 570 451 570 451 Udział w przychodach wspólnych przedsięwzięć 284 588 568 588 852 Udział w zysku (stracie) wspólnych przedsięwzięć - 55 517 55 517 Udział w pozostałych całkowitych dochodach wspólnych przedsięwzięć - 228 228 Elektrociepłownia Stalowa Wola S.A.
+
+TAMEH HOLDING Sp. z o.o. * * Zaprezentowane informacje dotyczą grupy kapitałowej TAMEH HOLDING Sp. z o.o.
+
+Wartość posiadanego udziału w TAMEH HOLDING Sp. z o.o. jest różna od wartości aktywów netto przypadających Grupie, ze względu na fakt, iż cena nabycia udziałów TAMEH HOLDING Sp. z o.o. została skalkulowana przy uwzględnieniu wartości godziwej udziału wnoszonego do wspólnego przedsięwzięcia przez spółki Grupy ArcelorMittal.
+
+Inwestycje we wspólne przedsięwzięcia według stanu na dzień 31 grudnia 2018 roku oraz za okres dziewięciu miesięcy zakończony dnia 30 września 2018 roku wyceniane metodą praw własności prezentuje poniższa tabela: Stan na 31 grudnia 2018 (dane przekształcone) lub za okres 9 miesięcy zakończony 30 września 2018 (niebadane) Aktywa trwałe (długoterminowe) 1 362 534 2 027 410 3 389 944 Aktywa obrotowe (krótkoterminowe), w tym: 11 625 775 825 787 450 środki pieniężne i ich ekwiwalenty 3 376 336 462 339 838 Zobowiązania długoterminowe (-), w tym: (1 399 226) (849 842) (2 249 068) zobowiązania z tytułu zadłużenia (1 343 897) (768 011) (2 111 908) Zobowiązania krótkoterminowe (-), w tym: (416 860) (783 951) (1 200 811) zobowiązania z tytułu zadłużenia (6 437) (122 628) (129 065) Razem aktywa netto (441 927) 1 169 442 727 515 Udział w aktywach netto (220 964) 584 721 363 757 Udziały i akcje we wspólnych przedsięwzięciach - 543 913 543 913 Udział w przychodach wspólnych przedsięwzięć 44 541 748 541 792 Udział w zysku (stracie) wspólnych przedsięwzięć - 40 663 40 663 Udział w pozostałych całkowitych dochodach wspólnych przedsięwzięć - 380 380 Elektrociepłownia Stalowa Wola S.A. (dane przekształcone) TAMEH HOLDING Sp. z o.o. * * Zaprezentowane informacje dotyczą grupy kapitałowej TAMEH HOLDING Sp. z o.o.
+
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 43 Elektrociepłownia Stalowa Wola S.A.
+
+Elektrociepłownia Stalowa Wola S.A. jest spółką celową utworzoną w 2010 roku z inicjatywy TAURON Polska Energia S.A. oraz PGNiG S.A., poprzez którą partnerzy zamierzają zrealizować inwestycję polegającą na budowie bloku gazowoparowego w Stalowej Woli opalanego gazem ziemnym o mocy elektrycznej brutto 450 MWe i mocy cieplnej netto 240 MWt.
+
+TAURON Polska Energia S.A. posiada pośredni udział na poziomie 50% w kapitale spółki i w organie stanowiącym wykonywany poprzez TAURON Wytwarzanie S.A.
+
+W dniu 25 kwietnia 2019 roku wydany został wyrok Sądu Arbitrażowego przy Krajowej Izbie Gospodarczej w Warszawie w sprawie z powództwa Abener Energia S.A. przeciwko spółce Elektrociepłownia Stalowa Wola S.A. będącej wspólnym przedsięwzięciem Grupy TAURON, w której Spółka posiada, pośrednio poprzez spółkę zależną TAURON Wytwarzanie S.A., 50% akcji w kapitale zakładowym.
+
+Postępowanie przed Sądem Arbitrażowym dotyczyło roszczenia o zapłatę, o ustalenie stosunku prawnego oraz o zobowiązanie do złożenia oświadczenia woli w związku z rozwiązanym kontraktem zawartym pomiędzy Abener Energia S.A. (generalny wykonawca) i Elektrociepłownią Stalowa Wola S.A. (zamawiający) na budowę bloku gazowo-parowego w Stalowej Woli.
+
+Na mocy wyroku Sądu Arbitrażowego Elektrociepłownia Stalowa Wola S.A. została zobowiązana do zapłaty na rzecz Abener Energia S.A. kwoty 333 793 tysiące złotych wraz z odsetkami ustawowymi za opóźnienie oraz kosztami postępowania arbitrażowego.
+
+W związku z powyższym wyrokiem Elektrociepłownia Stalowa Wola S.A. rozpoznała w sprawozdaniu finansowym za 2018 rok rezerwę w kwocie 333 802 tysiące złotych, co wpłynęło na zmniejszenie udziału w aktywach netto przypadającego na Grupę TAURON.
+
+Grupa zaprezentowała dane porównywalne dotyczące inwestycji we wspólne przedsięwzięcia według stanu na dzień 31 grudnia 2018 roku z uwzględnieniem wpływu powyższej rezerwy.
+
+Kontrakt na budowę bloku gazowo-parowego zawarty pomiędzy Elektrociepłownią Stalowa Wola S.A. a Abener Energia S.A. nie zawiera regulacji zobowiązujących Spółkę lub spółki Grupy TAURON do zapłaty w jakiejkolwiek formie za Elektrociepłownię Stalowa Wola S.A. wynagrodzenia na rzecz Abener Energia S.A.
+
+TAMEH HOLDING Sp. z o.o. i spółki zależne W 2014 roku została zawarta umowa wspólników pomiędzy Grupą TAURON i Grupą ArcelorMittal w spółce TAMEH HOLDING Sp. z o.o., która odpowiada za zadania inwestycyjne i operacyjne w obszarze energetyki przemysłowej.
+
+Na dzień 30 września 2019 roku oraz na dzień 31 grudnia 2018 roku posiadane udziały i akcje obejmują w głównej mierze udziały w następujących spółkach:  SCE Jaworzno III Sp. z o.o. o wartości 30 989 tysięcy złotych;  Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o. o wartości 23 754 tysiące złotych;  PGE EJ 1 Sp. z o.o. o wartości 18 651 tysięcy złotych;  ElectroMobility Poland S.A. o wartości 17 500 tysięcy złotych;  Energetyka Cieszyńska Sp. z o.o. o wartości 14 697 tysięcy złotych;  Magenta Grupa TAURON Sp. z o.o. o wartości 9 500 tysięcy złotych. 25.
+
+Długoterminowe pozostałe aktywa niefinansowe Stan na 30 września 2019 Stan na 31 grudnia 2018 (niebadane) (dane przekształcone) Zaliczki na środki trwałe w budowie oraz aktywa niematerialne, w tym: 95 776 101 755 związane z realizacją zadania Budowa Bloku 910 MW w Jaworznie 90 366 98 114 Rozliczenia międzyokresowe prowizji z tytułu zadłużenia 9 704 14 307 Koszty pozyskania umów i koszty rabatów 5 843 13 496 Pozostałe rozliczenia międzyokresowe 35 274 38 493 Razem 146 597 168 051 Grupa Kapitałowa TAURON Polska Energia S.A.
+
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 46 25.2.
+
+Kwota ta stanowi aktywo z tytułu wyceny instrumentów IRS na dzień bilansowy w kwocie 2 896 tysięcy złotych, skorygowane o część wyceny dotyczącą naliczonych na dzień bilansowy odsetek z tytułu zadłużenia z uwzględnieniem podatku odroczonego.
+
+Udziały niekontrolujące W okresie dziewięciu miesięcy zakończonym dnia 30 września 2019 roku nastąpił wzrost wartości udziałów niekontrolujących wskutek objęcia przez Fundusz Inwestycji Infrastrukturalnych – Kapitałowy Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych oraz PFR Inwestycje Fundusz Inwestycji Zamkniętych udziałów w podwyższonym kapitale zakładowym spółki zależnej Nowe Jaworzno Grupa TAURON Sp. z o.o. za łączną kwotę 780 000 tysięcy złotych, co zostało szerzej opisane w nocie 2.2 niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego. 31.
+
+Zobowiązania z tytułu zadłużenia Stan na 30 września 2019 (niebadane) Kredyty i pożyczki 4 283 002 886 285 Wyemitowane obligacje 8 223 227 10 077 067 Leasing 651 576 25 Razem 13 157 805 10 963 377 Długoterminowe 10 821 373 8 488 210 Krótkoterminowe 2 336 432 2 475 167 Stan na 31 grudnia 2018 31.1.
+
+Po dniu bilansowym zostały uruchomione kolejne transze kredytu w ramach wspomnianej umowy w łącznej wysokości 3 100 000 tysięcy złotych.
+
+Stan na 30 września 2019 (niebadane) 28.06.2020 1 852 151 - 02.09.2020 150 241 10.09.2020 300 285 Kredyt Bank Gospodarstwa Krajowego Wydatki inwestycyjne Grupy oraz refinansowanie części zadłużenia zmienne 20.12.2033 1 005 443 - Budowa kotła opalanego biomasą w Elektrowni Jaworzno III oraz remont turbiny parowej stałe 15.12.2021 60 912 59 116 Budowa i rozruch bloku kogeneracyjnego w EC Bielsko - Biała stałe 15.12.2021 87 121 84 613 stałe 15.06.2024 196 269 212 219 stałe 15.09.2024 88 924 107 353 stałe 15.09.2024 111 580 134 738 Modernizacja i rozbudowa sieci elektroenergetycznych oraz modernizacja elektrowni wodnych stałe 15.03.2027 217 891 252 637 Powszechna Kasa Oszczędności Bank Polski S.A. finansowanie bieżącej działalności zmienne 29.12.2020 171 037 - Bank Gospodarstwa Krajowego finansowanie transakcji na uprawnienia do emisji CO2, energię elektryczną i gaz na giełdach europejskich zmienne 31.12.2019 12 180 - Pożyczka Wojewódzki Fundusz Ochrony Środowiska i Gospodarki Wodnej Budowa jednostki wytwórczej OZE w Elektrowni Jaworzno III zmienne 15.12.2022 13 000 16 000 Pozostałe kredyty i pożyczki 15 968 19 609 Razem 4 283 002 886 285 Stan na 31 grudnia 2018 Kredyt/ pożyczka Kredytodawca/ pożyczkodawca Cel Oprocentowanie Termin spłaty Kredyt w rachunku bieżącym Modernizacja i rozbudowa sieci elektroenergetycznych Europejski Bank Inwestycyjny Kredyt Kredyt Konsorcjum banków Umorzenie obligacji oraz wydatki inwestycyjne i ogólnokorporacyjne Grupy zmienna Zgodnie z zapisami umowy kredytowej z dnia 19 czerwca 2019 roku zawartej z konsorcjum banków maksymalny okres ciągnienia poszczególnych transz kredytu to 12 miesięcy.
+
+Zaciągnięte na dzień 30 września 2019 roku transze mają 12-miesięczny termin spłaty, tj. 28 czerwca 2020 roku oraz 2 i 10 września 2020 roku.
+
+Wykup obligacji serii TPEA1119 Po dniu bilansowym, w dniu 4 listopada 2019 roku zgodnie z terminem wykupu zostały wykupione obligacje rynkowe serii TPEA1119 o wartości nominalnej 1 750 000 tysięcy złotych. 31.3.
+
+Kowenanty w umowach dotyczących zadłużenia Podpisane z bankami umowy nakładają na Spółkę zobowiązania natury prawno-finansowej (kowenanty), stosowane standardowo w tego rodzaju transakcjach.
+
+Kluczowym kowenantem jest wskaźnik zadłużenie netto/EBITDA (dla krajowych umów kredytów długoterminowych oraz krajowych programów emisji obligacji), który określa poziom zadłużenia pomniejszonego o środki pieniężne w relacji do generowanej EBITDA.
+
+Rezerwy na spory sądowe, roszczenia od kontrahentów i pozostałe rezerwy Istotne rezerwy ujęte w ramach pozostałych rezerw zostały opisane poniżej: Grupa Kapitałowa TAURON Polska Energia S.A.
+
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 62 Stan na 30 września 2019 (niebadane) Rezerwa na kary umowne Wytwarzanie W związku z ryzykiem zapewnienia trwałości projektów wymaganej w umowach o dofinansowanie: • budowy kotła na biomasę w Elektrowni Jaworzno III; • budowy instalacji do produkcji energii elektrycznej w Odnawialnym Źródle Energii w Stalowej Woli; w roku 2016 utworzono rezerwę na zwrot dotacji w kwocie 52 297 tysięcy złotych.
+
+Zaktualizowana na dzień 30 września 2019 roku rezerwa wynosi 60 838 tysięcy złotych. 60 838 58 493 Rezerwa na wzrost wynagrodzenia za służebności przesyłu Dystrybucja Rezerwa dotyczy ryzyka zwiększonych opłat okresowych za służebność przesyłu dla infrastruktury energetycznej zlokalizowanej na terenach nadleśnictw podlegających Regionalnej Dyrekcji Lasów Państwowych we Wrocławiu w związku ze zmianą charakteru gruntów z terenów leśnych na grunty związane z prowadzeniem działalności gospodarczej.
+
+Zobowiązania inwestycyjne Krótkoterminowe zobowiązania inwestycyjne na dzień 30 września 2019 roku i na dzień 31 grudnia 2018 roku prezentuje tabela poniżej: Stan na 30 września 2019 Stan na 31 grudnia 2018 (niebadane) (dane przekształcone) Dystrybucja 168 665 452 047 Wytwarzanie 115 110 219 849 Wydobycie 69 674 88 001 Sprzedaż i Pozostałe 21 759 35 020 Razem 375 208 794 917 Segment operacyjny Zobowiązania inwestycyjne długoterminowe zostały zaprezentowane w śródrocznym skróconym skonsolidowanym sprawozdaniu z sytuacji finansowej w pozycji pozostałe zobowiązania finansowe.
+
+Zobowiązania do poniesienia nakładów inwestycyjnych Na dzień 30 września 2019 roku i na dzień 31 grudnia 2018 roku Grupa zobowiązała się ponieść nakłady na rzeczowe aktywa trwałe i aktywa niematerialne odpowiednio w wysokości 3 779 931 tysięcy złotych oraz 3 403 880 tysięcy złotych, z czego największe pozycje przedstawiono w poniższej tabeli: Grupa Kapitałowa TAURON Polska Energia S.A.
+
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 64 Stan na 30 września 2019 (niebadane) Budowa Bloku 910 MW w Jaworznie 953 769 1 593 273 Program dostosowania jednostek wytwórczych do konkluzji BAT (Best Available Techniques) 350 537 1 398 Budowa nowych przyłączy 725 325 497 276 Modernizacja i odtworzenie istniejących sieci 855 853 671 960 Budowa szybu Grzegorz wraz z infrastrukturą oraz wyrobiskami towarzyszącymi 156 307 210 314 Budowa poziomu 800 m w Zakładzie Górniczym Janina 60 638 102 134 Program inwestycyjny w Zakładzie Górniczym Brzeszcze 75 655 32 781 Wydobycie Dystrybucja Stan na 31 grudnia 2018 Segment operacyjny Przedmiot umowy / nazwa projektu inwestycyjnego Wytwarzanie 39.
+
+Zobowiązania z tytułu podatku dochodowego Zobowiązania z tytułu podatku dochodowego w kwocie 42 003 tysiące złotych wynikają głównie z zobowiązań Podatkowej Grupy Kapitałowej w kwocie 38 604 tysiące złotych stanowiących nadwyżkę obciążenia podatkowego PGK w kwocie 366 017 tysięcy złotych nad zaliczkami zapłaconymi za pierwsze osiem miesięcy 2019 roku w kwocie 327 413 tysięcy złotych.
+
+Obowiązujące przepisy mogą również zawierać niejasności, które powodują różnice w opiniach, co do interpretacji prawnej przepisów podatkowych, zarówno pomiędzy organami państwowymi, jak i organami państwowymi i przedsiębiorstwami.
+
+Rozliczenia podatkowe oraz inne obszary działalności (na przykład kwestie celne czy dewizowe) mogą być przedmiotem kontroli organów, które uprawnione są do nakładania wysokich kar i grzywien, a wszelkie dodatkowe zobowiązania podatkowe, wynikające z kontroli, muszą zostać zapłacone wraz z odsetkami.
+
+W konsekwencji, kwoty prezentowane i ujawniane w niniejszym śródrocznym skróconym skonsolidowanym sprawozdaniu finansowym mogą się zmienić w przyszłości w wyniku ostatecznej decyzji organu kontroli podatkowej.
+
+Emisja dłużnych papierów wartościowych Wpływy z tytułu emisji dłużnych papierów wartościowych w kwocie 500 000 tysięcy złotych, o czym szerzej w nocie 31.2 niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego, dotyczyły:  emisji obligacji podporządkowanych objętych przez BGK w kwocie 400 000 tysięcy złotych,  emisji obligacji w kwocie 100 000 tysięcy złotych z programu emisji obligacji z dnia 24 listopada 2015 roku.
+
+Wpływy od udziałowców niekontrolujących Wpływy od udziałowców niekontrolujących w kwocie 780 000 tysięcy złotych związane są z wniesieniem przez Fundusz Inwestycji Infrastrukturalnych – Kapitałowy Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych oraz PFR Inwestycje Fundusz Inwestycji Zamkniętych wkładów pieniężnych na objęcie udziałów w podwyższonym kapitale spółki Nowe Jaworzno Grupa TAURON Sp. z o.o.
+
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 9 miesięcy zakończony dnia 30 września 2019 roku zgodne z MSSF zatwierdzonymi przez UE (w tysiącach złotych) 69 INSTRUMENTY FINANSOWE I ZARZĄDZANIE RYZYKIEM FINANSOWYM 44.
+
+Na podstawie przeprowadzonej analizy sytuacji prawnej w ocenie Zarządu TAURON Sprzedaż Sp. z o.o. brak jest podstaw do utworzenia rezerwy z tytułu powyższej sprawy.
+
+W dniu 13 marca 2015 roku konsorcjum w składzie WorleyParsons Nuclear Services JSC, WorleyParsons International Inc, WorleyParsons Group Inc (dalej: „konsorcjum WorleyParsons"), będące wykonawcą badań w ramach procesu inwestycyjnego związanego z budową elektrowni jądrowej przez PGE EJ 1 Sp. z o.o. (dalej: „umowa”), zgłosiło w związku z umową - w wezwaniu do zapłaty względem PGE EJ 1 Sp. z o.o. - roszczenia na łączną kwotę 92 315 tysięcy złotych.
+
+W następstwie tego, w dniu 15 kwietnia 2015 roku Spółka (jako wspólnik posiadający 10% udziałów w kapitale zakładowym PGE EJ 1 Sp. z o.o.) zawarła porozumienie z PGE EJ 1 Sp. z o.o. oraz pozostałymi jej udziałowcami (tj.
+
+Z uwagi na rozszerzenie powództwa o dodatkowych pozwanych w osobach następców prawnych byłej Kompanii Węglowej S.A. oraz na wątpliwości natury faktycznej i prawnej uniemożliwiające jednoznaczne przesądzenie kierunku rozpoznania sprawy przez Sąd, jak również wysokości zasądzonego roszczenia, spółka nie tworzy rezerwy na powyższe zdarzenie.
+
+W umowie inwestycyjnej podpisanej przez Spółkę z Funduszami Inwestycji Zamkniętych („Fundusze”) zarządzanych przez Polski Fundusz Rozwoju przewidziano szereg sytuacji, których wystąpienie stanowi istotne naruszenie umowy ze strony Spółki.
+
+Powyższe sytuacje, z których część pozostaje poza bezpośrednią kontrolą Spółki, obejmują m.in. wystąpienie zdarzeń o charakterze prawnym, zdarzeń odnoszących się do sytuacji finansowej i majątkowej Grupy TAURON, podejmowanych przez Grupę decyzji o charakterze inwestycyjnym i operacyjnym w zakresie finansowania i budowy bloku 910 MW, jak również zdarzeń dotyczących przyszłej eksploatacji bloku.
+
+Ewentualne istotne naruszenie umowy ze strony spółek Grupy może prowadzić do potencjalnego uruchomienia procedury, której efektem może być zażądanie (uruchomienie opcji) przez Fundusze Inwestycji Zamkniętych odkupu udziałów w spółce zależnej Nowe Jaworzno Grupa TAURON Sp. z o.o., w kwocie zainwestowanej przez Fundusze w udziały powiększonej o uzgodniony zwrot oraz premię za istotne naruszenie i pomniejszonej o dokonane dystrybucje środków przez Nowe Jaworzno Grupa TAURON Sp. z o.o. do Funduszy.
+
+Na dzień zatwierdzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego do publikacji Spółka nie identyfikuje po swojej stronie ryzyka istotnego naruszenia umowy i stoi na stanowisku, iż nie ma realnych możliwości, w tym w przyszłości wystąpienia istotnych naruszeń umowy pozostających poza bezpośrednią kontrolą Spółki.
+
+W związku z powyższym Grupa, mając na uwadze zapisy MSR 32 Instrumenty finansowe: prezentacja, nie rozpoznaje zaangażowania Funduszy jako zobowiązania lecz jako udziały niekontrolujące.
+
+Na dzień bilansowy Fundusze Inwestycji Zamkniętych posiadają udziały spółki Nowe Jaworzno Grupa TAURON Sp. z o.o. w kwocie 880 000 tysięcy złotych. 48.
+
+Zabezpieczenie spłaty zobowiązań Wśród ustanowionych i obowiązujących na dzień 30 września 2019 roku zabezpieczeń spłaty zobowiązań w Grupie, najistotniejsze pozycje, przedstawione w poniższej tabeli, stanowią zabezpieczenia umów zawartych przez jednostkę dominującą.
+
+Zastaw finansowy obowiązuje przez okres zabezpieczenia lub do momentu zwolnienia przez zastawnika, nie później jednak niż w dniu 31 grudnia 2028 roku.
+
+Na dzień 30 września 2019 roku wartość bilansowa inwestycji we wspólne przedsięwzięcie ujmowanej według metody praw własności w grupie kapitałowej TAMEH HOLDING Sp. z o.o. wynosiła 570 451 tysięcy złotych.  Weksle in blanco Stan na 30 września 2019 (niebadane) Umowy pożyczek udzielonych spółkom zależnym TAURON Wytwarzanie S.A. i TAURON Ciepło Sp. z o.o. przez Wojewódzki Fundusz Ochrony Środowiska i Gospodarki Wodnej w Katowicach.
+
+Celem zabezpieczenia tych pożyczek spółki złożyły również oświadczenia o poddaniu się egzekucji.
+
+TAURON Polska Energia S.A. 70 000* Zabezpieczenia należytego wykonania kontraktów oraz zawartych umów przez spółkę, w tym na dofinansowania prowadzonych projektów.
+
+TAURON Dystrybucja S.A. 249 575 Zabezpieczenie należytego wykonania zobowiązań wynikających z umów o dofinansowanie zawartych z Narodowym Funduszem Ochrony Środowiska i Gospodarki Wodnej w Warszawie i zwrotu środków oraz zabezpieczenie należytego wykonania zobowiązań wynikających z umów o dofinansowane zawartych z Wojewódzkim Funduszem Ochrony Środowiska i Gospodarki Wodnej w Katowicach.
+
+TAURON Ciepło Sp. z o.o. 228 606 Zabezpieczenia należytego wykonania zobowiązań wobec Centrum Projektów Polska Cyfrowa w Warszawie wynikających z umów o dofinansowanie projektów.
+
+TAURON Obsługa Klienta Sp. z o.o. 187 841 Umowa z PSE S.A. o świadczenie usług przesyłania energii elektrycznej, umowa z Narodowym Funduszem Ochrony Środowiska i Gospodarki Wodnej w Warszawie o częściowe umorzenie pożyczki oraz umowa z Narodowym Centrum Badań i Rozwoju w Warszawie o dofinansowanie projektu.
+
+TAURON Wytwarzanie S.A. 60 114 Wystawca weksla in blanco Umowa/transakcja zabezpieczona wekslem in blanco * Na dzień bilansowy kwota pozostała do spłaty z tytułu pożyczek, których zabezpieczeniem są przedmiotowe weksle, wynosi 13 000 tysięcy złotych.
+
+Zaktualizowane kierunki strategiczne uwzględniają zmiany w otoczeniu rynkowym i regulacyjnym, w którym działa Grupa Kapitałowa TAURON Polska Energia S.A.
+
+Biorąc pod uwagę konieczność transformacji energetycznej Grupy, optymalizacji portfela inwestycyjnego oraz utrzymanie stabilności finansowej podjęto decyzję o przeprowadzeniu rynkowej weryfikacji m.in. opcji strategicznej obejmującej uelastycznienie portfela aktywów Grupy poprzez dostosowanie aktywów górniczych do planowanego zapotrzebowania Grupy na paliwo, reorganizację segmentu Wytwarzanie i portfela inwestycji kapitałowych.
+
+W ramach tej opcji rozważa się m.in. rynkową weryfikację zbycia Zakładu Górniczego Janina należącego do spółki zależnej TAURON Wydobycie S.A. oraz udziałów spółki zależnej TAURON Ciepło Sp. z o.o.
+
+W efekcie powyższych zdarzeń Spółka uruchomiła projekty mające na celu rynkową weryfikację możliwości sprzedaży ww. aktywów oraz ewentualną kontynuację procesu sprzedaży.
+
+Na dzień bilansowy Spółka oceniła, że zarówno w stosunku do udziałów w TAURON Ciepło Sp. z o.o. jak i wyodrębnionych aktywów górniczych Zakładu Górniczego Janina nie są spełnione wynikające z MSSF 5 Aktywa trwałe przeznaczone do sprzedaży oraz działalność zaniechana warunki w zakresie klasyfikacji powyższych składników majątku jako przeznaczonych do zbycia, w szczególności nie są spełnione wymogi prawne uznania sprzedaży powyższych aktywów za wysoce prawdopodobną.
+
+Grupa Kapitałowa TAURON prowadzi działalność we wszystkich kluczowych segmentach rynku energetycznego (z wyłączeniem przesyłu energii elektrycznej leżącego wyłącznie w gestii Operatora Systemu Przesyłowego - OSP), tj. w obszarze wydobycia węgla kamiennego, wytwarzania, dystrybucji oraz sprzedaży energii elektrycznej i ciepła.
+
+Grupa Kapitałowa TAURON WYDOBYCIE WYTWARZANIE DYSTRYBUCJA SPRZEDAŻ 29% zasobów energetycznego węgla kamiennego w Polsce Jeden z największych producentów energii elektrycznej w Polsce Największy dystrybutor energii elektrycznej w Polsce Drugi największy sprzedawca energii elektrycznej w Polsce  3 kopalnie węgla kamiennego  produkcja węgla handlowego: 2,9 mln Mg, z czego 80% wykorzystano w ramach Grupy Kapitałowej TAURON, a 20% sprzedano klientom zewnętrznym  EBITDA segmentu za trzy kwartały 2019 r.: (262) mln zł  8 elektrowni i elektrociepłowni konwencjonalnych o mocy elektrycznej 4,6 GWe i mocy cieplnej 2,4 GWt  9 farm wiatrowych o łącznej mocy 381 MWe  34 elektrownie wodne o łącznej mocy 138 MWe  853 km sieci ciepłowniczych  10,4 TWh produkcji brutto energii elektrycznej, w tym 0,3 TWh z biomasy  0,7 TWh produkcji brutto energii elektrycznej ze źródeł wiatrowych i wodnych  7,1 PJ produkcji ciepła  EBITDA segmentu za trzy kwartały 2019 r.: 666 mln zł  ok. 5,6 mln klientów  dystrybucja na obszarze 57,1 tys. km2, tj. 18,3% powierzchni Polski  38,7 TWh dystrybuowanej energii elektrycznej  EBITDA segmentu za trzy kwartały 2019 r.: 2 000 mln zł  ok. 5,5 mln klientów  25 TWh sprzedaży detalicznej energii elektrycznej  EBITDA segmentu za trzy kwartały 2019 r.: 534 mln zł  obsługa odbiorców energii elektrycznej i usług dystrybucyjnych na rzecz spółek Grupy Kapitałowej TAURON  świadczenie usług wsparcia dla podmiotów Grupy Kapitałowej TAURON w obszarach: Rachunkowość, IT i HR  wydobycie kamienia wapiennego na potrzeby energetyki, hutnictwa, budownictwa i drogownictwa  pozyskiwanie, transport i przetwarzanie biomasy na potrzeby energetyki zawodowej  zagospodarowywanie ubocznych produktów spalania i wydobycia węgla  obsługa techniczna pojazdów  administracja nieruchomościami  ochrona mienia  działalność finansowa  EBITDA segmentu za trzy kwartały 2019 r: 127 mln zł TAURON Polska Energia S.A. spółka holdingowa w Grupie Kapitałowej TAURON nadzoruje funkcje korporacyjne: zarządzanie, inwestycje strategiczne, regulacje, kadry, finanse, controlling, audyt wewnętrzny, PR, relacje inwestorskie, zakupy POZOSTAŁE Pozostałe informacje do rozszerzonego skonsolidowanego raportu kwartalnego Grupy Kapitałowej TAURON Polska Energia S.A. za III kwartał 2019 r. 4 1.2.
+
+Segmenty działalności Działalność operacyjna, zgodnie z obowiązującym Modelem Biznesowym i Operacyjnym Grupy TAURON (Model Biznesowy), prowadzona jest w jednostkach zdefiniowanych jako: Centrum Korporacyjne, siedem Obszarów Biznesowych tj.
+
+Działalność w tym Segmencie prowadzona jest przez TAURON Wytwarzanie S.A. (TAURON Wytwarzanie), TAURON Ciepło sp. z o.o. (TAURON Ciepło) oraz TAURON EKOENERGIA sp. z o.o. (TAURON EKOENERGIA).
+
+W tym Segmencie ujęta jest również spółka TAURON Serwis sp. z o.o. (TAURON Serwis), zajmująca się głównie działalnością remontową urządzeń wytwórczych, spółka Nowe Jaworzno Grupa TAURON sp. z o.o. (Nowe Jaworzno GT) odpowiedzialna za budowę bloku energetycznego w Jaworznie, spółka Marselwind sp. z o.o. oraz spółki TEC1, TEC2 i TEC3, które przejęły pięć farm wiatrowych należących do spółki in.ventus, zajmujące się wytwarzaniem energii elektrycznej z OZE, Segment Dystrybucja, obejmujący dystrybucję energii elektrycznej z wykorzystaniem sieci dystrybucyjnych położonych w południowej Polsce.
+
+W tym Segmencie ujęta jest również spółka TAURON Dystrybucja Pomiary sp. z o.o. (TAURON Dystrybucja Pomiary), zajmująca się głównie obsługą techniczną układów pomiarowych energii elektrycznej oraz pozyskiwaniem danych pomiarowych.
+
+Od stycznia 2019 r. do tego Segmentu została włączona spółka TAURON Dystrybucja Serwis S.A. (TAURON Dystrybucja Serwis), która do końca 2018 r. przypisana była do Segmentu Dystrybucja.
+
+Działalność tej spółki obejmuje usługi świadczone dla klientów biznesowych i indywidualnych w zakresie m.in. oświetlenia ulicznego, eksploatacji sieci SN/nN, budowy stacji ładowania pojazdów elektrycznych.
+
+Pozostała działalność, obejmująca m.in.: obsługę klientów Grupy Kapitałowej TAURON, świadczenie usług wsparcia dla spółek Grupy Kapitałowej TAURON w zakresie rachunkowości, zarządzania kadrami i teleinformatyki, prowadzoną przez spółkę TAURON Obsługa Klienta sp. z o.o. (TAURON Obsługa Klienta), jak również działalność związaną z wydobyciem kamienia, w tym kamienia wapiennego na potrzeby energetyki, hutnictwa, budownictwa i drogownictwa, a także w zakresie produkcji sorbentów przeznaczonych do instalacji odsiarczania spalin metodą mokrą oraz do wykorzystania w kotłach fluidalnych, prowadzoną przez spółkę Kopalnia Wapienia „Czatkowice” sp. z o.o. (KW Czatkowice).
+
+W Segmencie tym ujmowane są również spółki: Finanse Grupa TAURON sp. z o.o. (która przejęła spółkę TAURON Sweden Energy AB publ), zajmująca się działalnością finansową, Bioeko Grupa TAURON sp. z o.o., zajmująca się głównie zagospodarowywaniem ubocznych produktów spalania i wydobycia węgla, pozyskiwaniem, transportem i przetwarzaniem biomasy, Wsparcie Grupa TAURON sp. z o.o. (Wsparcie GT), zajmująca się głównie administracją nieruchomości, ochroną mienia, a także obsługą techniczną pojazdów oraz Polska Energia - Pierwsza Kompania Handlowa sp. z o.o. (PEPKH).
+
+TAURON posiada bezpośredni udział w kapitale i organie stanowiącym spółki TAMEH HOLDING sp. z o.o., która posiada 100% udział w kapitale i organie stanowiącym TAMEH POLSKA sp. z o.o. oraz TAMEH Czech s.r.o. 1.3.5.
+
+Główne inwestycje krajowe i zagraniczne oraz lokaty kapitałowe Objęcie lub nabycie udziałowych papierów wartościowych w ramach spółek Grupy Kapitałowej TAURON Poniższa tabela przedstawia zestawienie podwyższeń kapitałów własnych w spółkach Grupy Kapitałowej TAURON w trzech kwartałach 2019 r. oraz do dnia przekazania niniejszej informacji.
+
+Zestawienie podwyższeń kapitałów własnych w spółkach Grupy Kapitałowej TAURON Spółka Wartość dokapitalizowania (łączna cena objęcia akcji / udziałów) (zł) Spółka obejmująca udziały / akcje Wartość nominalna objętych akcji / udziałów (zł) Data podjęcia uchwały przez ZW / WZ Struktura kapitału zakładowego po podwyższeniu Łagisza Grupa TAURON sp. z o.o. 100 000 TAURON Wytwarzanie 1 000 11.01.2019 r.
+
+TAURON Wytwarzanie 100% Nowe Jaworzno GT 256 925 000 Fundusz Inwestycji Infrastrukturalnych – Kapitałowy Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych 2 569 250 25.02.2019 r.
+
+FIIKFIZAN 7,62% Pozostałe informacje do rozszerzonego skonsolidowanego raportu kwartalnego Grupy Kapitałowej TAURON Polska Energia S.A. za III kwartał 2019 r. 10 Spółka Wartość dokapitalizowania (łączna cena objęcia akcji / udziałów) (zł) Spółka obejmująca udziały / akcje Wartość nominalna objętych akcji / udziałów (zł) Data podjęcia uchwały przez ZW / WZ Struktura kapitału zakładowego po podwyższeniu Inwestycyjny Zamknięty Aktywów Niepublicznych 440 000 000 PFR Inwestycje Fundusz Inwestycyjny Zamknięty 4 400 000 PFR IFIZ 7,62% 250 000 000 TAURON 2 500 000 TAURON 84,76% TEC1 sp. z o.o. 700 000 TAURON 7 000 02.09.2019 r.
+
+TAURON 100% 1wartość podwyższenia kapitału zakładowego spółki Finanse Grupa TAURON sp. z o.o. w wyniku transgranicznego połączenia Finanse Grupa TAURON sp. z o.o. (spółka przejmująca) ze spółką TAURON Sweden Energy AB (publ) (spółka przejmowana), 2wartość podwyższenia kapitału zakładowego spółki TAURON Dystrybucja Serwis S.A. w wyniku połączenia TAURON Dystrybucja Serwis S.A. (spółka przejmująca) ze spółką Magenta Grupa TAURON sp. z o.o. (spółka przejmowana).
+
+EEC Ventures spółka z ograniczoną odpowiedzialnością 2 spółka komandytowa 2,95% 4 874 200 PFR NCBR CVC Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych 48 742 PFR NCBR CVC Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych 49,02% 4 775 100 TAURON 47 751 TAURON 48,03% Pozostałe informacje do rozszerzonego skonsolidowanego raportu kwartalnego Grupy Kapitałowej TAURON Polska Energia S.A. za III kwartał 2019 r. 11 Spółka Wartość dokapitalizowania (łączna cena objęcia akcji / udziałów) (zł) Spółka obejmująca udziały / akcje Wartość nominalna objętych przez spółkę udziałów / akcji (zł) Data podjęcia uchwały przez ZW / WZ Struktura kapitału zakładowego po podwyższeniu EEC Magenta 2 ASI 128 118 EEC Ventures spółka z ograniczona odpowiedzialnością 2 spółka komandytowa 3 774 27.09.2019 r.
+
+EEC Ventures spółka z ograniczoną odpowiedzialnością 2 spółka komandytowa 2,95% 6 279 000 PFR NCBR CVC Fundusz Inwestycyjny Zamknięty aktywów Niepublicznych 62 790 PFR NCBR CVC Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych 49,02% 6 150 900 TAURON 61 509 TAURON 48,03% Pozostałe najistotniejsze inwestycje w aktywa finansowe o charakterze kapitałowym posiadane przez TAURON na dzień 30 września 2019 r. obejmują zaangażowanie w następujące podmioty: 1) Spółka Ciepłowniczo Energetyczna Jaworzno III sp. z o.o. o wartości bilansowej 30 989 tys. zł, 2) Przedsiębiorstwo Energetyki Cieplnej sp. z o.o. o wartości bilansowej 23 754 tys. zł, 3) PGE EJ 1 sp. z o.o. (PGE EJ 1) o wartości bilansowej 18 651 tys. zł, 4) Energetyka Cieszyńska sp. z o.o. o wartości bilansowej 14 697 tys. zł, 5) ElectroMobility Poland S.A. o wartości bilansowej 17 500 tys. zł, 6) Magenta Grupa TAURON sp. z o.o. o wartości bilansowej 9 500 tys. zł.
+
+Główne inwestycje w aktywa finansowe Do głównych inwestycji Grupy Kapitałowej TAURON w aktywa finansowe realizowanych w okresie sprawozdawczym należy udzielenie przez TAURON pożyczki dla spółki współzależnej Elektrociepłownia Stalowa Wola S.A. (EC Stalowa Wola) w wysokości 5 175 tys. zł.
+
+Szczegółowe informacje na temat pożyczki udzielonej EC Stalowa Wola znajdują się w pkt 5.3. niniejszej informacji. 1.3.6.
+
+Realizacja inwestycji strategicznych Główne inwestycje strategiczne w realizacji Poniższa tabela przedstawia działania, jakie prowadzono w Grupie Kapitałowej TAURON w trzech kwartałach 2019 r. w związku z realizacją głównych inwestycji strategicznych.
+
+Budowa bloku energetycznego o mocy 910 MWe na parametry nadkrytyczne w Jaworznie Wykonawca: Konsorcjum RAFAKO S.A. i MOSTOSTAL WARSZAWA S.A.
+
+Poziom zaawansowania: 95,5% Nakłady poniesione: 4 839,8 mln zł Projekt budowy bloku 910 MW znajduje się w fazie rozruchu gorącego.
+
+W I półroczu 2019 r. po przekazaniu głównych układów technologicznych zrealizowano szereg prób i testów, osiągnięto gotowość do podania mediów, uruchomiono instalację odsiarczania, układ pomp wody zasilającej i młyny węglowe.
+
+Pozostałe informacje do rozszerzonego skonsolidowanego raportu kwartalnego Grupy Kapitałowej TAURON Polska Energia S.A. za III kwartał 2019 r. 12 Lp.
+
+Inwestycja Stan realizacji inwestycji W dniu 17 października 2019 r. zakończono główną część negocjacji z Wykonawcą, w wyniku których uzgodniono, że Konsorcjum wykona dodatkowe zadania, w tym: przeprowadzi działania optymalizacyjne w kierunku rozszerzenia pola paliwowego celem uelastycznienia warunków pracy Bloku oraz zagwarantowania spełnienia przyszłych wymagań środowiskowych, m.in. dostarczy dodatkową warstwę katalizatora i instalację dozowania addytywu do instalacji odsiarczania spalin w celu redukcji emisji rtęci.
+
+W związku z tym uzgodniono, że niezbędne będzie wprowadzenie zmian do umowy z Konsorcjum, w szczególności dotyczących jej wartości oraz harmonogramu realizacji budowy Bloku.
+
+Ustalono, że cena netto określona w umowie zostanie zwiększona o kwotę 52,3 mln zł do kwoty 4 537,8 mln zł, a przejęcie Bloku do eksploatacji nastąpi do 31 stycznia 2020 r.
+
+Zmiana warunków umowy z Konsorcjum nie spowoduje przekroczenia zakładanego łącznego poziomu nakładów, jakie przewidziano na realizację inwestycji, tj. 6,2 mld zł. 2.
+
+Budowa bloku gazowo-parowego o mocy 449 MWe wraz z członem ciepłowniczym o mocy 240 MWt w Stalowej Woli (Inwestycja realizowana z udziałem partnera strategicznego - Polskie Górnictwo Naftowe i Gazownictwo S.A. (PGNiG)).
+
+Dokończenie realizacji projektu realizowane jest w formule EPCM (menadżer kontraktu) – konsorcjum firm Energopomiar Gliwice – Energoprojekt Katowice Planowana data zakończenia inwestycji: I kwartał 2020 r.
+
+Poziom zaawansowania: 86% Nakłady poniesione: 1 205 mln zł W ramach ogłoszonych przez EC Stalowa Wola przy wsparciu EPCM przetargów na wybór wykonawców bloku gazowoparowego zakończono wybór we wszystkich postępowaniach.
+
+Grupa rozruchowa systematycznie testuje i uruchamia poszczególne układy bloku gazowo-parowego, które zostały zrealizowane przez pierwotnego wykonawcę projektu (Abener Energia S.A.).
+
+W wyniku przeprowadzonej przez EPCM inwentaryzacji zidentyfikowano błędy montażowe, w następstwie których niezbędne było zdemontowanie rurociągów parowych, a następnie ich wykonanie na nowo i ponowny montaż.
+
+W rezultacie dokonano weryfikacji harmonogramu projektu i określono nowy termin oddania bloku do eksploatacji na I kwartał 2020 r.
+
+W 2018 r. wybrano wykonawcę rezerwowego źródła ciepła, który zakończył prace projektowe w zakresie branży budowlanej.
+
+W lipcu 2019 r. zrealizowano dostawy na budowę wszystkich kotłów, które zostały posadowione na docelowych fundamentach.
+
+Budowa szybu „Grzegorz” (TAURON Wydobycie) wraz z infrastrukturą (powierzchniową i dołową) oraz wyrobiskami towarzyszącymi.
+
+Wykonawca: Konsorcjum Przedsiębiorstwo Budowy Szybów S.A. (dawniej: KOPEX Przedsiębiorstwo Budowy Szybów S.A.), FAMUR Pemug sp. z o.o. (zadanie główne – Etap I), LINTER S.A.
+
+Poziom zaawansowania: 44% Nakłady poniesione: 243,47 mln zł Rozpoczęto drążenie wyrobisk na poziomie 800m.
+
+W trzecim kwartale prowadzono mrożenie pasywne i rozpoczęto głębienie szybu w strefie zmrożeniowej oraz zabudowę obudowy panelowej.
+
+Do końca września zgłębiono szyb do głębokości -38m oraz wykonano wlot lunety podsadzkowej. 4.
+
+Wykonawca: Konsorcjum Mostostal Zabrze GPBP S.A. i SIEMAG TECBERG POLSKA S.A. (Budowa docelowej infrastruktury powierzchniowej i dołowej wraz z górniczym wyciągiem szybowym szybu Janina VI), KOPEX W ramach budowy docelowej infrastruktury generalny wykonawca wykonał palowanie pod wieżę szybową oraz wybudował głowicę szybu, do końca września wykonano również prace żelbetowe wieży szybowej do wysokości +48,9m/62m, wykonano strop żelbetowy, na którym zostanie posadowiona maszyna wyciągowa oraz rozpoczęto zabudowę estakady dojścia załogi do szybu.
+
+W ramach projektu zmodernizowano Zakład Mechanicznej Pozostałe informacje do rozszerzonego skonsolidowanego raportu kwartalnego Grupy Kapitałowej TAURON Polska Energia S.A. za III kwartał 2019 r. 13 Lp.
+
+Inwestycja Stan realizacji inwestycji S.A. i KOPEX Przedsiębiorstwo Budowy Szybów S.A. (zadanie zakończone – drążenie szybu) Planowana data zakończenia inwestycji: 2021 r.
+
+Poziom zaawansowania: 73% Nakłady poniesione: 379,5 mln zł Przeróbki Węgla w klasie 20-2mm o nową osadzarkę.
+
+Dodatkowo jest przygotowywany przetarg na drążenie wyrobisk poziomu 800m, którego ogłoszenie ze względu na optymalizację zakresu zostało przeniesione na czwarty kwartał 2019 r. 5.
+
+Program Inwestycyjny Brzeszcze Wykonawcy: TRANS-JAN, Konsorcjum FAMUR i KOPEX Machinery, Konsorcjum FAMUR z KPRGiBSz, Konsorcjum MAS z Carbospec, Elektrometal Cieszyn Planowana data zakończenia Programu: 2025 r.
+
+Poziom zaawansowania: 59% Nakłady poniesione: 286 mln zł W okresie trzech kwartałów 2019 r. prowadzono eksploatację pokładu 510.
+
+W związku z uniezależnieniem w 2019 r. sieci wentylacji od SRK kontynuowane są prace zmieniające układ wentylacji.
+
+Kontynuowano prace związane z budową obiektu drobnej sprzedaży oraz w zakresie rekonstrukcji wyrobisk wentylacyjnych, jak również drążenia nowych wyrobisk zmierzających do udostępnienia pokładu 405/1.
+
+Do końca września 2019 r. w ramach programu wydrążono i zrekonstruowano łącznie 4967 metrów wyrobisk.
+
+Dostarczono i zabudowano przenośniki, obudowę zmechanizowaną i sterowanie dla ściany 125 oraz uruchomiono ścianę. 6.
+
+Uciepłownienie bloku nr 10 oraz budowa kotłów szczytowo-rezerwowych w Łagiszy Wykonawca: • GE Power – modernizacja turbozespołu parowego, • Mostostal Warszawa – uciepłownienie bloku wraz z modernizacją części ciepłowniczej, • SBB Energy – budowa kotłowni szczytowo– rezerwowej.
+
+Poziom zaawansowania: 65% Nakłady poniesione: 79 mln zł Wykonawcy realizują prace w zakresie: • modernizacji turbozespołu parowego, • uciepłownienia z dostosowaniem stacji, • budowy kotłowni szczytowo-rezerwowej.
+
+Centralna Stacja Ciepłowniczą (CSC) została uruchomiona w trybie rozruchowym i wyprowadza ciepło z bloków 6 i 7 poza elektrownię.
+
+Program Likwidacji Niskiej Emisji (PLNE) na terenie konurbacji śląsko-dąbrowskiej Wykonawca: Wykonawcy wybierani na konkretne etapy prac.
+
+Planowana data zakończenia inwestycji: Program w restrukturyzacji Poziom zaawansowania: Program w restrukturyzacji Nakłady poniesione: Program w restrukturyzacji Program realizowany jest na terenie Będzina, Chorzowa, Czeladzi, Dąbrowy Górniczej, Katowic, Siemianowic Śląskich, Sosnowca i Świętochłowic.
+
+W związku z niespełnieniem przez TAURON Ciepło warunków z oświadczeń zapisanych w Umowie o dofinansowanie pierwotnego Programu LNE oraz gwałtownego wzrostu cen usług wykonawczych, spółka w dniu 22 marca 2019 r. wypowiedziała umowy o dofinansowanie.
+
+Po analizie doświadczeń z poprzedniego Programu, spółka TAURON Ciepło w dniu 25 czerwca 2019 r. złożyła nowy wniosek do WFOŚiGW o dofinansowanie PLNE.
+
+TAURON Internet (POPC) – realizacja projektu na wygranych obszarach (7 projektów na terenie obszarów: Rybnickiego, Katowickiego i Tyskiego, Oświęcimskiego, Krakowskiego, Wałbrzyskiego A, Wałbrzyskiego B, Sosnowieckiego) Wykonawca: Atem Polska sp. z o.o. (KatowiceTychy), MZUM sp. z o.o. (Sosnowiec), Atem Polska sp. z o.o. (Wałbrzych A), Mediamo Sp. z o.o. (Oświęcim), MX3 sp. z o.o. (Rybnik), MZUM sp z o.o. (Wałbrzych B), ZICOM sp. z o.o. (Kraków-Tarnów) Planowana data zakończenia inwestycji: 2021 r.
+
+Poziom zaawansowania: 3% Nakłady poniesione: 3,6 mln zł Program POPC polega na wykonaniu infrastruktury podłączenia gospodarstw domowych do sieci Internetu o wysokiej przepustowości (min. 30 MB/s).
+
+Produktem końcowym projektu będzie świadczenie usług hurtowych umożliwiających podłączenie klientów końcowych przez operatorów detalicznych.
+
+W I kwartale 2019 r. wybrano wykonawcę dla obszaru KatowiceTychy (Atem Polska sp. z o.o.).
+
+W obszarze KatowiceTychy została zatwierdzona koncepcja oraz przyjęto 12 projektów do realizacji w szkołach.
+
+Wykonano inwentaryzację szkół na wszystkich obszarach i przekazano aktualizację do Centrum Projektów Polska Cyfrowa.
+
+Do końca września rozpoczęto pracę na wszystkich 7 obszarach, rozpoczęto zabudowę infrastruktury pasywnej w jednostkach oświaty oraz uzyskiwanie pozwoleń na zabudowę światłowodów.
+
+Pozostałe informacje do rozszerzonego skonsolidowanego raportu kwartalnego Grupy Kapitałowej TAURON Polska Energia S.A. za III kwartał 2019 r. 14 Lp.
+
+Program dostosowania jednostek wytwórczych TAURON Wytwarzanie do warunków pracy obowiązujących po roku 2021 Wykonawca: Wykonawcy wybierani dla poszczególnych projektów.
+
+Poziom zaawansowania: 9,1% Nakłady poniesione: 4,8 mln zł W ramach programu planowane jest zmodernizowanie następujących jednostek wytwórczych z poniższym zakresem: • El.
+
+Jaworzno II, bloki nr 2 i 3 – budowa instalacji odsiarczania spalin (IOS), podpisano umowę z wykonawcą, • El.
+
+Jaworzno III, bloki nr 1, 3, 5 – budowa instalacji odazotowania spalin (SCR), podpisano umowę z wykonawcą, • El.
+
+Łaziska bloki nr 9, 10, 11, 12 – modernizacja instalacji odazotowania spalin, podpisano umowę z wykonawcą, • El.
+
+Łaziska bloki nr 11 i 12 – modernizacja instalacji odsiarczania spalin, podpisano umowę z wykonawcą, • El.
+
+Łagisza – spółka odstąpiła od budowy instalacji odsiarczania spalin na rzecz instalacji do podawania suchych addytywów.
+
+Wykonawcy prowadzą intensywne prace projektowe i przygotowawcze związane z wejściem na teren budowy.
+
+Program dostosowania jednostek wytwórczych TAURON Ciepło do warunków pracy obowiązujących po roku 2021 Wykonawca: Wykonawcy wybierani dla poszczególnych projektów.
+
+Poziom zaawansowania: 7,1% Nakłady poniesione: 1,1 mln zł W ramach programu planowane jest zmodernizowanie następujących zakładów wytwórczych z poniższym zakresem: • ZW Katowice – budowa półsuchej instalacji oczyszczania spalin, • ZW Tychy – budowa półsuchej instalacji oczyszczania spalin.
+
+Trwa proces wyboru wykonawców poszczególnych projektów, w ramach którego otrzymano oferty i trwa ich ocena.
+
+Pozostałe projekty inwestycyjne Projekt związany z budową elektrowni jądrowej W trzech kwartałach 2019 r. spółka PGE EJ 1 realizowała zakres prac fazy wstępnej Projektu związanej z prowadzeniem badań środowiskowych i lokalizacyjnych w lokalizacjach Żarnowiec i Lubiatowo-Kopalino.
+
+Projekt jest realizowany na podstawie Umowy Wspólników zawartej w 2014 r. przez TAURON, ENEA S.A. oraz KGHM Polska Miedź S.A. (Partnerzy Biznesowi) ze spółką Polska Grupa Energetyczna S.A. (PGE).
+
+Zgodnie z Umową Wspólników Partnerzy Biznesowi posiadają każdy po 10% udziałów w PGE EJ 1 – spółce celowej, która jest odpowiedzialna za przygotowanie i realizację inwestycji polegającej na budowie i eksploatacji elektrowni jądrowej.
+
+Umowa Wspólników reguluje zasady współpracy przy realizacji projektu, w tym zobowiązanie stron do wspólnego, w proporcji do posiadanych udziałów, sfinansowania działań przypadających w ramach etapu rozwoju projektu.
+
+TAURON otrzymał pismo od spółki PGE, w którym PGE wyraziła wstępne zainteresowanie nabyciem wszystkich udziałów w PGE EJ 1, których właścicielem jest TAURON.
+
+TAURON otrzymał pismo od PGE, w którym PGE poinformowała, iż odstąpiła od procesu nabycia udziałów w PGE EJ 1, będących w posiadaniu mniejszościowych wspólników PGE EJ 1.
+
+Wobec powyższego, na dzień publikacji niniejszego sprawozdania kontynuowane są działania w ramach fazy wstępnej projektu, a kolejne decyzje dotyczące projektu, w tym decyzja dotycząca deklaracji dalszego uczestnictwa poszczególnych stron (w tym TAURON) w kolejnym etapie projektu, zgodnie z Umową Wspólników zostaną podjęte po zakończeniu fazy wstępnej.
+
+Projekt zgazowania węgla Projekt Coal2Gas polega na rozpoznaniu obszaru budowy instalacji zgazowania węgla kamiennego z Grupą Azoty S.A. na potrzeby chemii – amoniak lub metanol.
+
+W trzech kwartałach 2019 r. kontynuowano prace w kwestii relacji formalnych, niezbędnych do realizacji projektu przez TAURON oraz Grupę Azoty S.A.
+
+W styczniu 2019 r. została podpisana Umowa Wspólników, a w maju i sierpniu 2019 r. aneksy zmieniające terminy zawiązania spółki celowej.
+
+TAURON wraz z Grupą Azoty S.A. złożyły do Prezesa Urzędu Ochrony Konkurencji i Konsumentów wniosek o utworzenie wspólnego przedsiębiorstwa.
+
+Projekt budowy bloku gazowo-parowego klasy 413 MWe wraz z członem ciepłowniczym o mocy ok. 250 MWt, w TAURON Wytwarzanie Oddział Elektrownia Łagisza w Będzinie We wrześniu 2016 r., z uwagi na utratę uzasadnienia biznesowego, wstrzymano projekt budowy bloku gazowoparowego klasy 413 MWe z członem ciepłowniczym w TAURON Wytwarzanie Oddział Elektrownia Łagisza w Będzinie.
+
+Decyzja ta była zgodna ze Strategią, która jako jeden z priorytetów wskazywała zapewnienie stabilności finansowej Grupy Kapitałowej TAURON.
+
+Grupa Kapitałowa TAURON prowadziła analizy, jak również prace umożliwiające ewentualne wznowienie projektu, związane m.in. z aktualizacją stosownych dokumentów.
+
+Podjęcie decyzji inwestycyjnej bazować będzie z jednej strony na ocenie rentowności projektu, a z drugiej na możliwościach finansowych Grupy Kapitałowej TAURON.
+
+Nakłady inwestycyjne W okresie trzech kwartałów 2019 r. nakłady inwestycyjne Grupy Kapitałowej TAURON wyniosły 2 741 mln zł i były wyższe o 12% od poniesionych w analogicznym okresie ubiegłego roku, kiedy wyniosły ok. 2 444 mln zł.
+
+Wynika to przede wszystkim ze wzrostu nakładów w Segmentach Dystrybucja, Wydobycie i Wytwarzanie.
+
+Poniższa tabela przedstawia największe w ujęciu wartościowym nakłady inwestycyjne poniesione w trzech kwartałach 2019 r., w ramach Obszarów Biznesowych Grupy Kapitałowej TAURON.
+
+Nakłady inwestycyjne największe w ujęciu wartościowym poniesione w trzech kwartałach 2019 r. w ramach Obszarów Biznesowych Grupy Kapitałowej TAURON Wyszczególnienie Nakłady inwestycyjne (mln zł) Dystrybucja Modernizacja i odtworzenie istniejących sieci 754 Budowa nowych przyłączy 487 Wytwarzanie Budowa bloku o mocy 910 MWe na parametry nadkrytyczne w Jaworznie 513 Nakłady odtworzeniowo-modernizacyjne i komponenty w TAURON Wytwarzanie 167 Uciepłownienie Elektrowni Łagisza 74 Odtworzenie stacji przygotowania wody zdemineralizowanej SUW 12 Przyłączenia nowych obiektów 18 Inwestycje związane z rozwojem i utrzymaniem sieci ciepłowniczych 19 Wydobycie Budowa szybu „Grzegorz” wraz z budową infrastruktury i wyrobiskami towarzyszącymi 79 Program inwestycyjny w ZG Brzeszcze 61 Budowa poziomu 800m w ZG Janina w Libiążu 51 Przygotowanie przyszłej produkcji 143 Pozostałe informacje do rozszerzonego skonsolidowanego raportu kwartalnego Grupy Kapitałowej TAURON Polska Energia S.A. za III kwartał 2019 r. 16 2.
+
+Przedmiot działalności TAURON Polska Energia S.A. i Grupy Kapitałowej TAURON TAURON Polska Energia S.A.
+
+Roczne tempo wzrostu gospodarczego w Polsce w II kwartale wyniosło 4,4%, co stanowiło spadek o 0,3 p.p. w porównaniu z pierwszym kwartałem br. (kiedy PKB wynosiło 4,7%).
+
+Na relatywnie wysokie tempo wzrostu gospodarczego w kraju miała wpływ m.in. konsumpcja, rosnące inwestycje oraz wartość eksportu netto.
+
+Konsumpcja jest determinowana poprzez korzystną sytuację na rynku pracy – rosnące płace, utrzymujące się bardzo dobre nastroje konsumentów i niskie bezrobocie (wg NBP).
+
+Nowelizacja ustawy o odnawialnych źródłach energii (OZE) W dniu 19 lipca 2019 r. została uchwalona Ustawa o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw.
+
+Do istotnych zmian, które zostały wprowadzone przedmiotową nowelizacją, należą: 1) wydłużenie okresu obowiązywania systemów wsparcia przewidzianych ustawą do dnia 30 czerwca 2039 r., 2) objęcie definicją „prosumenta” przedsiębiorców, pod warunkiem że sprzedaż energii elektrycznej z własnej mikroinstalacji nie będzie przedmiotem przeważającej działalności gospodarczej danego przedsiębiorcy, 3) wydłużenie terminów (liczonych od dnia zamknięcia sesji aukcji), w jakich uczestnik aukcji będzie zobowiązany do sprzedaży po raz pierwszy energii elektrycznej wytworzonej w instalacji odnawialnego źródła energii, która powstanie lub zostanie zmodernizowana po dniu przeprowadzenia aukcji, 4) rozszerzenie o przedsiębiorców tzw. systemu opustów o mikroinstalacje o mocy zainstalowanej większej niż 10 kW, 5) zwiększenie poziomu mocy zainstalowanej mikroinstalacji, który nie może zostać przekroczony w przypadku przeprowadzenia modernizacji takiej instalacji, z 40 kW do 50 kW, 6) zwiększenie maksymalnego poziomu mocy zainstalowanej uprawniającej instalacje biogazowe oraz hydroenergetyczne do korzystania z tzw. systemu FIP z 1 MW do 2,5 MW, 7) umożliwienie uczestnictwa w systemie wsparcia FIT i FIP instalacjom wykorzystującym biomasę, 8) zwiększenie maksymalnego wieku urządzeń wchodzących w skład instalacji OZE dopuszczonych do korzystania z aukcyjnego systemu wsparcia z 18 miesięcy do 21 miesięcy – dla fotowoltaiki, z 24 miesięcy do 33 miesięcy – dla energetyki wiatrowej zlokalizowanej na lądzie oraz z 36 miesięcy do 42 miesięcy – dla innego rodzaju technologii (z wyłączeniem energetyki wiatrowej zlokalizowanej na morzu).
+
+Ustawa określa także minimalną wielkość udziału energii elektrycznej z odnawialnych źródeł energii w całkowitej rocznej ilości sprzedaży energii elektrycznej na 2020 r. w wysokości: 1) 19,50% – w odniesieniu do energii elektrycznej wytworzonej z biogazu rolniczego przed dniem wejścia w życie rozdziału 4 ustawy lub innych niż biogaz rolniczy odnawialnych źródeł energii lub uiszczonej opłaty zastępczej, 2) 0,50% – w odniesieniu do energii elektrycznej wytworzonej z biogazu rolniczego od dnia wejścia w życie rozdziału 4 ustawy lub ekwiwalentnej ilości energii elektrycznej wynikającej z umorzonych świadectw pochodzenia biogazu rolniczego, lub uiszczonej opłaty zastępczej.
+
+Dla części przepisów vacatio legis zostało wydłużone do 2020 r., a w stosunku do części regulacji, mogących potencjalnie wywierać wpływ na unijny rynek wewnętrzny, rozpoczęto procedurę notyfikacji przed Komisją Europejską.
+
+Projekt rozporządzenia Rady Ministrów w sprawie maksymalnej ilości i wartości energii elektrycznej z odnawialnych źródeł energii, która może zostać sprzedana w drodze aukcji w 2020 r.
+
+W dniu 10 października 2019 r. został przedstawiony do konsultacji publicznych projekt rozporządzenia Rady Ministrów w sprawie maksymalnej ilości i wartości energii elektrycznej z odnawialnych źródeł energii, która może zostać sprzedana w drodze aukcji w 2020 r.
+
+Wskazane rozporządzenie jest aktem niezbędnym do ogłoszenia i przeprowadzenia wskazanych aukcji OZE w 2020 r.
+
+Do zasadniczych celów ustawy należy wdrożenie i wprowadzenie do stosowania przepisów prawa Unii Europejskiej normujących zasady handlu uprawnieniami do emisji w tzw. czwartym okresie rozliczeniowym, oraz usunięcie wątpliwości interpretacyjnych powstałych przez niemal trzy lata stosowania ustawy o systemie handlu uprawnieniami do emisji gazów cieplarnianych, a także dostosowanie regulacji w zakresie handlu uprawnieniami do emisji gazów cieplarnianych do aktualnych warunków gospodarczo-społecznych.
+
+Przedmiotowa ustawa między innymi: 1) wprowadza przepisy dotyczące przydziału uprawnień do emisji na produkcję inną, niż produkcja energii elektrycznej w okresie rozliczeniowym 2021 – 2030 oraz w kolejnych okresach rozliczeniowych, 2) wprowadza zmiany w zakresie rozliczania kosztów inwestycyjnych dla zadań ujętych w Krajowym Planie Inwestycyjnym, w tym możliwość bilansowania wydanych uprawnień do emisji dla zadań zaprzestanych bądź takich, które nie doprowadziły do realizacji zatwierdzonych wskaźników zgodności z kosztami innych zrealizowanych zadań inwestycyjnych, 3) nakłada obowiązek opracowywania planów metodyki monitorowania i przedkładania tych planów przez prowadzących instalację do zatwierdzenia właściwemu organowi; plany będą opiniowane przez Krajowy Ośrodek Bilansowania i Zarządzania Emisjami (KOBiZE), 4) zakłada uproszczenie i przyspieszenie procedury ubiegania się o przydział uprawnień do emisji w przypadku instalacji nowej, przez przekazanie dotychczasowych uprawnień ministra właściwego do spraw środowiska na rzecz KOBiZE, 5) ogranicza (do 5 lat) obowiązek sporządzania i wprowadzania do Krajowej bazy raportów o wielkości emisji, 6) ma na celu wyeliminowanie szeregu wątpliwości interpretacyjnych, które pojawiły się w czasie stosowania ustawy w dotychczasowym kształcie.
+
+Projekt ustawy o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw W dniu 23 października 2018 r.
+
+Ministerstwo Energii przedstawiło do konsultacji społecznych projekt ustawy zmieniającej ustawę – Prawo energetyczne oraz niektóre inne ustawy.
+
+Do najistotniejszych dla Spółek Grupy TAURON zmian ujętych w projekcie należy zaliczyć propozycje: 1) wprowadzenia centralnego systemu informacji pomiarowych służącego do m.in.: zbierania informacji pomiarowych, dokonywania na ich podstawie rozliczeń za energię elektryczną, wymiany informacji pomiędzy podmiotami zajmującymi się dostarczaniem energii elektrycznej, 2) przyznania Prezesowi URE uprawnienia do ingerencji w drodze decyzji w treść umowy o świadczenie usług przesyłania lub dystrybucji paliw gazowych/energii elektrycznej zawartej pomiędzy sprzedawcą a operatorem systemu przesyłowego (OSP)/operatorem systemu dystrybucyjnego (OSD), w celu umożliwienia sprzedawcy sprzedaży paliw gazowych/energii elektrycznej lub świadczenia usługi kompleksowej odbiorcom przyłączonym do sieci tego operatora, lub w razie konieczności: zapewnienia ochrony interesów odbiorców końcowych, równoważenia interesów stron, przeciwdziałania praktykom ograniczającym konkurencję, 3) nałożenie na OSD obowiązku realizacji harmonogramu czasowego określającego procentowy poziom instalacji liczników zdalnego odczytu, 4) zobowiązanie OSD do ujmowania w swoim planie rozwoju analizy kosztów i korzyści związanych z funkcjonowaniem magazynów energii, 5) przyznanie Prezesowi URE uprawnienia w postaci możliwości zmiany bądź cofnięcia, właściwej koncesji w przypadku wydania przez Prezesa Urzędu Ochrony Konkurencji i Konsumentów (UOKiK), w stosunku do podmiotu działającego na podstawie tejże koncesji, decyzji o uznaniu praktyki za naruszającą zbiorowe interesy konsumentów.
+
+Na dzień sporządzenia niniejszej informacji, projekt nowelizacji ustawy pozostaje w trakcie procesu legislacyjnego.
+
+Pozostałe informacje do rozszerzonego skonsolidowanego raportu kwartalnego Grupy Kapitałowej TAURON Polska Energia S.A. za III kwartał 2019 r. 23 Regulacje Unii Europejskiej Pakiet zimowy „Czysta energia dla wszystkich Europejczyków” W dniu 26 marca 2019 r.
+
+Zwolnienie obowiązuje o ile wskazany organ w terminie trzech miesięcy nie uzna, iż ww. warunki nie zostały spełnione.
+
+W drugim obszarze Rozporządzenie EMIR REFIT nakłada na kontrahentów niefinansowych obowiązek obliczenia, na dzień wejścia w życie Rozporządzenia (tj. 17 czerwca 2019 r.), a następnie co 12 miesięcy, zagregowanej średniej pozycji w kontraktach pochodnych będących przedmiotem obrotu poza rynkiem regulowanym.
+
+Przeprowadzone obliczenia mają zastosowanie do celów ustalenia pozycji grupy kapitałowej względem obowiązku rozliczania kontraktów z udziałem kontrahenta centralnego (central counterparty – CCP), czyli o tzw. statusie NFC+ lub NFC-.
+
+Rozporządzenie w sprawie Funduszu Innowacyjnego W dniu 28 maja 2019 r. zostało ogłoszone w Dzienniku Urzędowym Unii Europejskiej Rozporządzenie Delegowane Komisji (UE) 2019/856 z dnia 26 lutego 2019 r. uzupełniające dyrektywę 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do działania funduszu innowacyjnego.
+
+Wskazany fundusz został ustanowiony na mocy art. 10a ust. 8 dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady z dnia 13 października 2003 r. ustanawiającej system handlu przydziałami emisji gazów cieplarnianych w Unii oraz zmieniającej dyrektywę Rady 96/61/WE, w celu wspierania projektów demonstrujących wysoce innowacyjne technologie, procesy lub produkty, wykazujących znaczący potencjał redukcji emisji gazów cieplarnianych.
+
+Dostępna kwota finansowania ma odpowiadać wartości rynkowej co najmniej 450 mln uprawnień do emisji.
+
+Rozporządzenie określa niezbędne zasady operacyjne funkcjonowania funduszu, takie jak cele operacyjne funduszu, formy udzielanego wsparcia, procedury składania wniosków o udzielenie wsparcia, procedury i kryteria wyboru projektów, zasady wypłacania wsparcia, zarządzania funduszem, sprawozdawczości, monitorowania, oceny, kontroli i jawności dotyczących działania funduszu.
+
+Przewidziano jednakże możliwość przekazania niektórych działań wdrożeniowych, takich jak organizacja zaproszenia do składania wniosków, wstępny wybór projektów lub zarządzanie umowami dotyczącymi dotacji, organom wykonawczym.
+
+Jako podstawową formę finansowania inwestycji z funduszu przewidziano dotacje mogące wynosić do 60% wartości odnośnych kosztów.
+
+Pozostałe informacje do rozszerzonego skonsolidowanego raportu kwartalnego Grupy Kapitałowej TAURON Polska Energia S.A. za III kwartał 2019 r. 24 XBID Towarowa Giełda Energii S.A. (TGE) poczyniła kolejne kroki we wdrażaniu projektu XBID, zmierzające do integracji krajowego obrotu energią elektryczną z rynkami europejskimi.
+
+XBID (Cross-Border Intraday) to projekt mający na celu stworzenie jednolitego transgranicznego rynku energii elektrycznej dla dnia bieżącego w całej Europie, w którym biorą udział operatorzy NEMO i operatorzy sieci przesyłowych z całej UE i Norwegii.
+
+Celem projektu jest podniesienie efektywności obrotu na europejskim rynku dnia bieżącego przez wykorzystanie istniejących transgranicznych zdolności przesyłowych w handlu giełdowym.
+
+Umożliwia on kojarzenie zleceń uczestników rynku w systemie ciągłym, lokalnie oraz w dowolnej strefie cenowej będącej w zasięgu projektu, o ile dostępne są transgraniczne zdolności przesyłowe.
+
+Uruchomienie jednolitego rynku dla dnia bieżącego na obszarze Europy Zachodniej i Północnej nastąpiło w czerwcu 2018 r., natomiast na obszarze krajów Europy Centralnej i Wschodniej ma nastąpić w czwartym kwartale 2019 r. i skutkować będzie połączeniem z już działającym rynkiem XBID rynków energii elektrycznej: Polski, Niemiec, Czech, Austrii, Węgier, Rumunii, Bułgarii, Słowenii, Chorwacji, Szwecji i Litwy.
+
+Dzięki realizacji planowanych działań możliwe będzie zwiększenie udziału źródeł nisko- i zeroemisyjnych w strukturze wytwórczej Grupy Kapitałowej TAURON z 10% w 2018 r. do blisko 30% w 2025 r. i ponad 65% w 2030 r.
+
+Biorąc pod uwagę konieczność transformacji energetycznej Grupy Kapitałowej TAURON, optymalizacji portfela inwestycyjnego oraz utrzymanie stabilności finansowej podjęto decyzję o przeprowadzeniu rynkowej weryfikacji następujących opcji strategicznych: 25% 33% 14% 15% 13% TAURON PGE Enea Energa Pozostali Pozostałe informacje do rozszerzonego skonsolidowanego raportu kwartalnego Grupy Kapitałowej TAURON Polska Energia S.A. za III kwartał 2019 r. 29 • rozwój nisko- i zeroemisyjnej energetyki, przede wszystkim poprzez inwestycje w odnawialne źródła energii.
+
+Grupa planuje inwestycje w farmy wiatrowe na lądzie (dodatkowe 900 MW), farmy fotowoltaiczne (dodatkowe 300 MW) i rozpoczęcie procesu zaangażowania w budowę morskich farm wiatrowych.
+
+Wzrost mocy w źródłach odnawialnych Grupy może odbywać się w różnych modelach biznesowych.
+
+Dla części planowanych projektów zakłada się pozyskanie partnerów finansowych i realizację inwestycji z ok. 20 proc. udziałem kapitałowym Grupy Kapitałowej TAURON i możliwością zarządzania tymi aktywami przez Grupę; • uelastycznienie portfela aktywów Grupy poprzez dostosowanie aktywów górniczych do planowanego zapotrzebowania Grupy na paliwo, reorganizację segmentu Wytwarzanie i portfela inwestycji kapitałowych.
+
+W ramach tej opcji rozważa się rynkową weryfikację zbycia Zakładu Górniczego Janina oraz spółki TAURON Ciepło, sprzedaż akcji/udziałów w spółkach: Elektrociepłownia Stalowa Wola i PGE EJ 1.
+
+Ich łączna moc zainstalowana wynosi 180 MW, a średnioroczna produkcja energii elektrycznej kształtuje się na poziomie ok. 450 tys.
+
+Transakcja została przeprowadzona w drodze nabycia przez Spółki Zależne polskich spółek osobowych będących właścicielami farm wiatrowych oraz niemieckich spółek osobowych będących ich komandytariuszami (Spółki Projektowe).
+
+Spółki Zależne przejęły ogół praw i obowiązków dotychczasowych wspólników Spółek Projektowych przy jednoczesnym nabyciu wierzytelności przysługujących Bankowi w stosunku do Spółek Projektowych.
+
+Łączna cena nabycia została uzgodniona w dokumentacji transakcyjnej na kwotę 137,1 mln euro i będzie podlegać korektom wynikającym w szczególności z efektów współpracy stron.
+
+Cena nabycia została skalkulowana na bazie mechanizmu „locked-box" na dzień 31 grudnia 2018 r.
+
+Cena nabycia została zapłacona ze środków pochodzących z dokapitalizowania przez TAURON Spółek Zależnych nabywających Spółki Projektowe.
+
+Powyższe warunki transakcji nabycia farm wiatrowych zostały przyjęte przez Zarząd TAURON w dniu 27 sierpnia 2019 r.
+
+O zdarzeniach związanych z transakcją nabycia farm wiatrowych, TAURON informował w raportach bieżących nr 27/2018 z dnia 2 października 2018 r., nr 27/2019 z dnia 25 lipca 2019 r., nr 31/2019 z dnia 27 sierpnia 2019 r., nr 34/2019 z dnia 2 września 2019 r. oraz nr 35/2019 z dnia 3 września 2019 r.
+
+Aktualizacja informacji dotyczących budowy bloku energetycznego w Elektrowni Jaworzno III W dniu 17 września 2019 r.
+
+Nowe Jaworzno Grupa TAURON Sp. z o.o. otrzymała wniosek konsorcjum RAFAKO S.A. - MOSTOSTAL WARSZAWA S.A. (Konsorcjum) stanowiący zaproszenie do negocjacji w sprawie rozszerzenia Pozostałe informacje do rozszerzonego skonsolidowanego raportu kwartalnego Grupy Kapitałowej TAURON Polska Energia S.A. za III kwartał 2019 r. 30 zakresu prac określonych w umowie na budowę bloku energetycznego o mocy 910 MWe na parametry nadkrytyczne (Blok) w Elektrowni Jaworzno III - Elektrownia II (Umowa).
+
+Konsorcjum zaproponowało wykonanie dodatkowych prac, które pozytywnie wpłyną na parametry technicznośrodowiskowe Bloku oraz umożliwią rozszerzenie tzw. pola paliwowego Bloku (dopuszczenie szerszego asortymentu węgla), co pozwoli optymalizować koszty produkcji energii elektrycznej.
+
+W ocenie Konsorcjum prace dodatkowe przyniosą Grupie Kapitałowej TAURON wymierne korzyści finansowe i eksploatacyjne.
+
+Konsorcjum wskazało, że zgoda TAURON na ewentualne rozszerzenie zakresu prac może mieć wpływ na harmonogram realizacji budowy Bloku i wartość Umowy.
+
+W związku z powyższym Nowe Jaworzno Grupa TAURON Sp. z o.o. przystąpiło do negocjacji propozycji przedstawionych przez Konsorcjum, których główna część, dotycząca rozszerzenia zakresu prac określonych w Umowie, na poziomie zespołów negocjacyjnych zakończyła się w dniu 17 października 2019 r.
+
+Dzięki rozszerzeniu zakresu prac możliwe będzie obniżenie poziomu substancji emitowanych przez Blok do środowiska, a rozszerzone pole paliwowe umożliwi Grupie Kapitałowej TAURON większą elastyczność kontraktacji węgla.
+
+W związku z powyższym uzgodniono, że niezbędne będzie wprowadzenie zmian do Umowy, w szczególności dotyczących jej wartości oraz harmonogramu realizacji budowy Bloku.
+
+Ustalono, że cena netto określona w Umowie zostanie zwiększona o kwotę 52,3 mln zł do kwoty 4 537,8 mln zł, a przejęcie Bloku do eksploatacji nastąpi do 31 stycznia 2020 r.
+
+Zmiana warunków Umowy, o której mowa powyżej nie spowoduje przekroczenia zakładanego łącznego poziomu nakładów, jakie przewidziano na realizację tej inwestycji, tj. 6,2 mld zł.
+
+O powyższych zdarzeniach, w nawiązaniu do raportu bieżącego nr 7/2017 z dnia 1 marca 2017 r., TAURON informował w raporcie bieżącym nr 37/2019 z dnia 17 września 2019 r. oraz raporcie bieżącym nr 40/2019 z dnia 17 października 2019 r.
+
+Zwyczajne Walne Zgromadzenie Spółki dokonało zmian w składzie osobowym Rady Nadzorczej poprzez: 1) odwołanie ze składu Rady Nadzorczej Spółki V wspólnej kadencji następujących osób: • Radosława Domagalskiego-Łabędzkiego, • Pawła Pampuszko, oraz 2) powołanie do składu Rady Nadzorczej Spółki V wspólnej kadencji następujących osób: • Rafała Pawełczyka, • Katarzyny Taczanowskiej.
+
+O zwołaniu Zwyczajnego Walnego Zgromadzenia i treści projektów uchwał Spółka informowała w raportach bieżących nr 9/2019 z dnia 11 kwietnia 2019 r., nr 10/2019 z dnia 11 kwietnia 2019 r., nr 14/2019 z dnia 30 kwietnia 2019 r.
+
+O podjętych uchwałach Zwyczajnego Walnego Zgromadzenia Spółka poinformowała w raporcie bieżącym nr 18/2019 z dnia 8 maja 2019 r.
+
+Sąd Arbitrażowy przy Krajowej Izbie Gospodarczej w Warszawie (Sąd Arbitrażowy) wydał wyrok w sprawie z powództwa Abener Energia S.A. z siedzibą w Campus Palmas Altas, Sewilla (Abener Energia) przeciwko Elektrociepłowni Stalowa Wola S.A. z siedzibą w Stalowej Woli, w której TAURON posiada, pośrednio poprzez spółkę zależną TAURON Wytwarzanie S.A., 50 proc. akcji w kapitale zakładowym.
+
+Postępowanie przed Sądem Arbitrażowym dotyczyło roszczenia o zapłatę, o ustalenie stosunku prawnego oraz o zobowiązanie do złożenia oświadczenia woli w związku z rozwiązanym kontraktem zawartym pomiędzy Abener Energia i EC Stalowa Wola na budowę bloku gazowo-parowego o mocy ok. 400 MW z członem ciepłowniczym w Elektrociepłowni Stalowa Wola S.A.
+
+Na mocy wyroku Sądu Arbitrażowego ECSW została zobowiązana do zapłaty na rzecz Abener Energia kwoty 333 793 359,31 zł wraz z odsetkami ustawowymi za opóźnienie oraz kosztami postępowania arbitrażowego.
+
+O powyższym zdarzeniu TAURON poinformował w raporcie bieżącym nr 24/2019 z 19 czerwca 2019 r.
+
+Objęcie udziałów w Nowe Jaworzno GT W dniu 10 lipca 2019 r. zostały zawarte aneksy do Umowy Inwestycyjnej oraz Umowy Wspólników z dnia 28 marca 2018 r., zawartych pomiędzy Spółką, Funduszem Inwestycji Infrastrukturalnych – Kapitałowy Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych (FIZAN Kapitałowy), Fundusz Inwestycji Infrastrukturalnych – Dłużny Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych (FIZAN Dłużny) oraz spółką Nowe Jaworzno GT, dotyczące przeniesienia całości praw i obowiązków z FIZAN Dłużnego na PFR Inwestycje Fundusz Inwestycyjny Zamknięty (PFR Inwestycje).
+
+W wyniku zawartych aneksów FIZAN Kapitałowy I PFR Inwestycje dokonały objęcia udziałów Nowe Jaworzno GT w łącznej kwocie 523,1 mln zł, co wyczerpuje zaangażowanie Funduszy w finansowaniu budowy bloku 910 MW w Jaworznie.
+
+Pozostałe informacje do rozszerzonego skonsolidowanego raportu kwartalnego Grupy Kapitałowej TAURON Polska Energia S.A. za III kwartał 2019 r. 34 Wyrok Sądu Okręgowego dotyczący spółki Polska Energia - Pierwsza Kompania Handlowa sp. z o.o.
+
+Pozostałe informacje do rozszerzonego skonsolidowanego raportu kwartalnego Grupy Kapitałowej TAURON Polska Energia S.A. za III kwartał 2019 r. 35 z dnia 8 maja 2019 r. w sprawie zmiany uchwały nr 5 Nadzwyczajnego Walnego Zgromadzenia z dnia 15 grudnia 2016 r. w sprawie zasad kształtowania wynagrodzeń Członków Zarządu, • podjęcie uchwały w sprawie zmiany uchwały nr 6 Nadzwyczajnego Walnego Zgromadzenia Spółki pod firmą: TAURON Polska Energia S.A. z dnia 15 grudnia 2016 r. w sprawie zasad kształtowania wynagrodzeń Członków Rady Nadzorczej, • podjęcie uchwał w sprawie zmian w składzie Rady Nadzorczej Spółki.
+
+O zwołaniu Nadzwyczajnego Walnego Zgromadzenia, zmianach w porządku obrad oraz treści projektów uchwał Spółka informowała w raportach bieżących nr 41/2019 i 42/2019 z dnia 24 października 2019 r., nr 43/2019 z dnia 30 października 2019 r. oraz nr 45/2019 z dnia 31 października 2019 r. 2.5.
+
+Czynniki, które będą miały wpływ na osiągnięte wyniki finansowe w perspektywie co najmniej kolejnego kwartału 2.5.1.
+
+Czynniki wewnętrzne Wśród czynników wewnętrznych, mających wpływ na wyniki działalności Spółki oraz Grupy Kapitałowej TAURON, najistotniejsze to: 1) aktualizacja kierunków strategicznych, konsekwentna realizacja Strategii oraz osiąganie założonych efektów finansowych i niefinansowych, 2) działania w zakresie optymalizacji procesów we wszystkich spółkach Grupy Kapitałowej TAURON, 3) realizacja Planu Strategicznego Zarządzania Aktywami na lata 2018-2025 – jednego z fundamentalnych dokumentów stanowiących trzon zintegrowanego systemu zarządzania majątkiem w Grupie Kapitałowej TAURON, 4) decyzje w zakresie realizacji kluczowych projektów inwestycyjnych, w szczególności uruchomienie bloku 910 MW w Jaworznie, 5) realizacja działań związanych z dostosowaniem jednostek wytwórczych Grupy Kapitałowej TAURON do tzw. konkluzji BAT, 6) nabycie farm wiatrowych, 7) rozstrzygnięcie sporów sądowych dotyczących wypowiedzenia długoterminowych umów na zakup energii elektrycznej i praw majątkowych wynikających ze świadectw pochodzenia energii elektrycznej, 8) działania lojalnościowe w zakresie utrzymania obecnych klientów oraz działania marketingowe w zakresie pozyskiwania nowych klientów, 9) scentralizowanie obszaru zarządzania finansami w Grupie Kapitałowej TAURON, wspomagane takimi narzędziami, jak: centralny model finansowania, polityka zarządzania płynnością finansową z cash poolingiem, polityka zarządzania ryzykiem w obszarze finansowym, polityka ubezpieczeniowa, 10) możliwość pozyskania finansowania dłużnego na rynkach międzynarodowych, 11) działalność Podatkowej Grupy Kapitałowej mająca na celu przede wszystkim optymalizację realizacji obowiązków związanych z rozliczaniem podatku dochodowego od osób prawnych przez kluczowe spółki Grupy Kapitałowej TAURON, 12) zarządzanie przez TAURON procesami zakupowymi, w szczególności zakupami paliw na potrzeby podmiotów wytwórczych wchodzących w skład Grupy Kapitałowej TAURON, 13) warunki geologiczno-górnicze wydobycia węgla kamiennego, 14) potencjalne awarie urządzeń, instalacji i sieci należących do Grupy Kapitałowej TAURON. 2.5.2.
+
+Czynniki zewnętrzne Na wyniki działalności Grupy Kapitałowej TAURON będą wpływać przede wszystkim następujące czynniki zewnętrzne: 1) sytuacja makroekonomiczna, szczególnie w Polsce, jak również sytuacja ekonomiczna obszaru, na którym Grupa Kapitałowa TAURON prowadzi działalność oraz na poziomie UE i gospodarki globalnej, w tym zmiany stóp procentowych, kursów walutowych itp., mające wpływ na wycenę aktywów i zobowiązań wykazywanych przez Spółkę w sprawozdaniu z sytuacji finansowej, 2) otoczenie administracyjno-polityczne, szczególnie w Polsce oraz UE, w tym stanowiska i decyzje instytucji i urzędów administracji państwowej, np.: UOKiK, URE oraz Komisji Europejskiej, 3) zmiany regulacji dotyczących sektora energetycznego, a także zmiany w otoczeniu prawnym, w tym: prawa podatkowego, handlowego, ochrony środowiska, 4) wprowadzenie mechanizmu wynagradzania zdolności wytwórczych (tzw. rynek mocy), w szczególności wpływ wyników aukcji głównych na dostawy energii elektrycznej na lata 2021-2023 oraz decyzje dotyczące wygaszania mechanizmów operacyjnej rezerwy mocy i interwencyjnej rezerwy zimnej (IRZ), 5) nowy system wsparcia OZE, tzw. aukcje OZE, 6) modyfikacja modelu regulacyjnego dla działalności OSD, której celem jest uniezależnienie wskaźników jakościowych dystrybucji energii elektrycznej (SAIDI, SAIFI) od zewnętrznych warunków atmosferycznych, w tym katastrof naturalnych, Pozostałe informacje do rozszerzonego skonsolidowanego raportu kwartalnego Grupy Kapitałowej TAURON Polska Energia S.A. za III kwartał 2019 r. 36 7) sytuacja w sektorze elektroenergetycznym, w tym aktywność i działania konkurencji na rynku energetycznym, 8) liczba uprawnień do emisji CO2, a także ceny nabywanych uprawnień, 9) ceny energii elektrycznej na rynku hurtowym, 10) poziom taryfy dotyczącej sprzedaży energii dla gospodarstw domowych (grupa taryfowa G) zatwierdzany przez Prezesa URE, 11) ceny świadectw pochodzenia energii ze źródeł odnawialnych, 12) ceny surowców energetycznych w Polsce i na świecie, 13) wysokie prawdopodobieństwo wystąpienia deficytu odpowiedniej jakości paliw dla jednostek wytwórczych na krajowym rynku, 14) wymagania w zakresie ochrony środowiska będące konsekwencją zmian w ustawie Prawo ochrony środowiska (Dz.U. 2001 nr 62 poz. 627 ze zm.), tzw. uchwał antysmogowych, a także tzw. konkluzji BAT, 15) zmiany regulacji dotyczących ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz.U. 2006 nr 169 poz. 1200) m.in. wymagań jakościowych dla paliw stałych, 16) postęp naukowo-techniczny, 17) zapotrzebowanie na energię elektryczną i pozostałe produkty rynku energetycznego, z uwzględnieniem zmian wynikających z sezonowości i warunków pogodowych.
+
+W okresie trzech kwartałów 2019 r. koszty działalności operacyjnej Grupy Kapitałowej TAURON wyniosły 14,05 mld zł, co oznacza, że ich poziom był o 15% wyższy od poniesionych w analogicznym okresie 2018 r., na co wpłynęły następujące czynniki: 1. wyższe koszty amortyzacji wynikające z: • ujęcia w bieżącym okresie amortyzacji od praw do użytkowania aktywów w wysokości 54,3 mln zł w związku z wejściem w życie od 1 stycznia 2019 r.
+
+MSSF 16 Leasing, • wzrostu amortyzacji majątku spółki TAURON Ekoenergia w związku z rozwiązaniem w części utworzonych wcześniej odpisów, co jest wynikiem przeprowadzonych na dzień 31 grudnia 2018 r. oraz 30 czerwca 2018 r. testów na utratę wartości, • niższej amortyzacji majątku spółek TAURON Wydobycie oraz TAURON Wytwarzanie w związku z ujęciem odpisów, co jest wynikiem przeprowadzonych na dzień 30 czerwca 2019 r., 31 grudnia 2018 r. oraz 30 czerwca 2018 r. testów na utratę wartości, • naliczenia amortyzacji od nowo nabytych składników majątku, 2. niższe koszty odpisów aktualizujących jako efekt przeprowadzonych testów na utratę wartości, które wykazały konieczność dokonania odpisu aktywa CGU Wydobycie w pierwszym półroczu 2019 r., co wynikało z aktualizacji założeń techniczno-ekonomicznych, głównie w zakresie planów eksploatacji i dostępności złóż, 3. wyższe koszty zużycia materiałów i energii głównie jako efekt wyższych kosztów paliw zużywanych do produkcji na skutek zużycia większej ilości: • węgla kupionego spoza Grupy Kapitałowej TAURON w związku z niższą produkcją własnych zakładów górniczych, • biomasy w związku z wyższą produkcją energii elektrycznej z bloków opalanych tym paliwem, 7 425 8 422 4 422 4 626 425 426 392 230 177 226 638 184 460 508 0 2 000 4 000 6 000 8 000 10 000 12 000 14 000 16 000 18 000 I-III kw. 2018 I-III kw. 2019 Pozostałe przychody Rekompensata finansowa Kwota różnicy ceny Gaz Węgiel Ciepło Usługi dystrybucyjne i handlowe Energia elektryczna 13 302 15 260 mln zł Pozostałe informacje do rozszerzonego skonsolidowanego raportu kwartalnego Grupy Kapitałowej TAURON Polska Energia S.A. za III kwartał 2019 r. 44 4. wyższe koszty usługi dystrybucyjnej w związku z wyższymi składnikami opłaty sieciowej i jakościowej z uwagi na zmianę taryfy, 5. niższe koszty usług budowlano-montażowych w bieżącym roku, z uwagi na intensyfikację prac w 2018 r. związanych z realizacją inwestycji budowy bloku 910 MW w Jaworznie, 6. niższe koszty pozostałych usług obcych, w tym: rozwiązanie rezerwy na rekultywację odpadów paleniskowych, niższe koszty usług górniczych i najmu maszyn w związku z niższą produkcją zakładów górniczych, niższe koszty najmu i dzierżawy w związku z wejściem w życie od 1 stycznia 2019 r.
+
+MSSF 16 Leasing, 7. wyższe koszty pracy, co jest przede wszystkim efektem: • rozwiązania rezerwy na świadczenia pracownicze (ekwiwalent pieniężny za ulgowe korzystanie z energii elektrycznej (taryfa pracownicza), nagrody jubileuszowe i Zakładowy Fundusz Świadczeń Socjalnych) w TAURON Wytwarzanie – zdarzenie o charakterze jednorazowym, które wpłynęło pozytywnie na wynik w analogicznym okresie 2018 r., • wzrostu poziomu zatrudnienia w spółkach Grupy Kapitałowej TAURON, w szczególności w spółkach: TAURON Wydobycie (głównie w związku z uruchomieniem II etapu projektu związanego z zabezpieczeniem wolumenu produkcji poprzez wsparcie własnych oddziałów robót przygotowawczych, zakładającego zatrudnienie pracowników na stanowiskach robotniczych); TAURON Obsługa klienta (w związku z ograniczeniem pracy tymczasowej w drodze zatrudnienia tych pracowników na umowy o pracę, w konsekwencji zmiany obowiązujących przepisów prawnych) oraz Wsparcie GT (w związku z rozwojem przez spółkę działalności ochrony i zarządzania nieruchomościami), • realizacji postanowień wynikających z podpisanych ze stroną społeczną porozumień, 8. wyższe koszty obowiązku umorzenia uprawnień do emisji CO2, co jest efektem wzrostu rynkowej ceny uprawnień, 9. wyższa wartość sprzedanych towarów i materiałów na skutek wyższych cen zakupu energii elektrycznej oraz wyższego wolumenu zakupionej energii od kontrahentów spoza Grupy Kapitałowej TAURON, co jest związane z podniesieniem przez ustawodawcę obowiązku sprzedaży przez wytwórców energii elektrycznej poprzez giełdę od 1 stycznia 2019 r. do poziomu 100% (w porównaniu do poziomu 30% obowiązującego w okresie porównywalnym).
+
+Osiągnięte w okresie trzech kwartałów 2019 r. marże EBITDA oraz EBIT wyniosły odpowiednio 19,8% i 8,6% i były niższe od wypracowanych w analogicznym okresie ub.r. odpowiednio o 3,2 p.p. i o 1,2 p.p.
+
+Segment Dystrybucja, w porównaniu z analogicznym okresem 2018 r., zanotował wzrost przychodów o 9% oraz wzrost na poziomie EBIT i EBITDA odpowiednio o 2% i 4%.
+
+Na poziom uzyskanych wyników wpłynęły następujące czynniki: 1) wzrost średniej stawki sprzedaży usługi dystrybucyjnej do odbiorców końcowych, 2) wzrost dostaw do odbiorców końcowych o 154 GWh, przede wszystkim w grupach taryfowych B oraz G w efekcie wzrostu PKB, co przełożyło się bezpośrednio na zwiększony pobór energii elektrycznej przez odbiorców, 3) wyższe koszty zakupu usług przesyłowych, 4) wzrost przychodów z tytułu opłat przyłączeniowych oraz przychodów z przekroczenia mocy i energii biernej przy spadku przychodów z tytułu kolizji, 5) wzrost kosztów zakupu energii na pokrycie różnicy bilansowej będący wypadkową wyższej ceny zakupu, mniejszego wolumenu, oraz odchylenia z tytułu doszacowania, 6) wzrost kosztów podatków od majątku sieciowego wynikający z przyrostu wartości majątku w wyniku prowadzonych inwestycji, 7) wzrost pozostałych kosztów stałych, w tym m.in. kosztów pracy w związku z podpisanymi porozumieniami płacowymi, kosztów wycinki drzew.
+
+Poniższy rysunek przedstawia dane finansowe Segmentu Dystrybucja za trzy kwartały 2019 r. w porównaniu do trzech kwartałów 2018 r. 649 666 119 106 44 -23 -230 0 200 400 600 800 1 000 EBITDA I-III kw. 2018 Marża na EE - konwencjonalne Marża na EE - OZE Marża na cieple Rezerwy na św. pracownicze Pozostałe EBITDA I-III kw. 2019 mln zł Pozostałe informacje do rozszerzonego skonsolidowanego raportu kwartalnego Grupy Kapitałowej TAURON Polska Energia S.A. za III kwartał 2019 r. 49 Rysunek nr 18.
+
+Zmiana stanu aktywów i aktywów obrotowych Największą pozycję aktywów na koniec września 2019 r. stanowią aktywa trwałe, których udział wynosi 84,3% wartości sumy bilansowej.
+
+W porównaniu do stanu na koniec ubiegłego roku wartość aktywów trwałych jest wyższa o 2 137 mln zł (7%), na co miały wpływ zmiany poniższych pozycji analitycznych aktywów trwałych: 1) rzeczowe aktywa trwałe – wzrost o 7% jest efektem inwestycji realizowanych w spółkach Grupy Kapitałowej TAURON, 2) rozpoznanie w aktywach prawa do użytkowania aktywów w związku z wejściem w życie od 1 stycznia 2019 r.
+
+Zgodnie z dopuszczoną przez standard możliwością, Grupa zrezygnowała z przekształcenia danych porównywalnych, 3) świadectwa pochodzenia energii i prawa do emisji gazów do umorzenia – spadek o 68% w związku z reklasyfikacją świadectw pochodzenia energii elektrycznej i uprawnień do emisji CO2 do aktywów obrotowych pod spełnienie obowiązku umorzenia ww. aktywów, 4) pożyczki udzielone na rzecz wspólnych przedsięwzięć – wzrost o 7% w związku z wyceną pożyczek już udzielonych na dzień bilansowy, 5) wartość udziałów i akcji we wspólnych przedsięwzięciach – wzrost o 5%, co wynika z ujęcia udziału w zysku spółki TAMEH HOLDING, 6) pozostałe długoterminowe aktywa finansowe – wzrost o 3% w związku z rozliczeniem i zmianą wartości wyceny instrumentów pochodnych oraz wartości depozytów początkowych dotyczących kontraktów terminowych futures. 32 596 34 734 4 487 6 468 14 21 0 5 000 10 000 15 000 20 000 25 000 30 000 35 000 40 000 45 000 Stan na 31 grudnia 2018 r.
+
+Podobnie jak miało to miejsce w latach ubiegłych, w dalszym ciągu istotnym źródłem finansowania majątku jest kapitał własny, którego udział w ogólnej sumie bilansowej wynosi 48,7%.
+
+W bieżącym okresie sprawozdawczym nastąpił wzrost wartości udziałów niekontrolujących, co wynika z objęcia przez Fundusz Inwestycji Infrastrukturalnych – Kapitałowy Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych oraz PFR Inwestycje Fundusz Inwestycji Zamkniętych udziałów w podwyższonym kapitale zakładowym spółki zależnej Nowe Jaworzno GT za łączną kwotę 780 mln zł.
+
+Poniższy rysunek przedstawia zmianę stanu zobowiązań według stanu na 30 września 2019 r. i 31 grudnia 2018 r.
+
+Zestawienie podwyższeń kapitałów własnych w pozostałych spółkach z udziałem kapitałowym TAURON ........................................... 10 Tabela nr 4.
+
+Nakłady inwestycyjne największe w ujęciu wartościowym poniesione w trzech kwartałach 2019 r. w ramach Obszarów Biznesowych Grupy Kapitałowej TAURON ......................................................................................................................................................................................... 15 Tabela nr 6.
+
+Moc zainstalowana oraz produkcja energii elektrycznej według grup energetycznych za pierwsze półrocze 2019 r. ........................... 26 Tabela nr 7.

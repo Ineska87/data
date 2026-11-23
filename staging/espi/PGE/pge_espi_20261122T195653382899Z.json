@@ -1,0 +1,2330 @@
+{
+  "spolka": "PGE Polska Grupa Energetyczna S.A.",
+  "spolka_key": "pge",
+  "ticker": "PGE",
+  "typ": "biezace",
+  "zrodla": [
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=5",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=6",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=7",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=8",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=9",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=10",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=11",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=12",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=13",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=14",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=15",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=16",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=17",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=18",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=19",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=20",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=21",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=22",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=23",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=24",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=25",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=26",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=27",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=28",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=29",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=30",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=31",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=32",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=33",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=34",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=35",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=36",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=37",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=38",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=39",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=40",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=41",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=42",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=43",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=44",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=45",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=46",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=47",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=48",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=49",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=50",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=51",
+    "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=52"
+  ],
+  "data_scrapowania": "2026-11-22T19:56:53.382899+00:00",
+  "source_kind": "issuer_listing_reparse",
+  "period": {
+    "start": "2020-01-01",
+    "end": "2025-12-31"
+  },
+  "liczba_stron": 48,
+  "liczba_raportow": 282,
+  "reports_by_year": {
+    "2020": 36,
+    "2021": 37,
+    "2022": 61,
+    "2023": 48,
+    "2024": 48,
+    "2025": 52
+  },
+  "raporty": [
+    {
+      "numer": "52/2025",
+      "data": "2025-12-30",
+      "godzina": "14:41",
+      "tytul": "Projekty uchwał na Nadzwyczajne Walne Zgromadzenie spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekty-uchwal-na-nadzwyczajne-walne-zgromadzenie-spolki-pge-polska-grupa-energetyczna-s.a16",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=5"
+    },
+    {
+      "numer": "51/2025",
+      "data": "2025-12-30",
+      "godzina": "14:25",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia spółki",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-spolki2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=6"
+    },
+    {
+      "numer": "50/2025",
+      "data": "2025-12-18",
+      "godzina": "17:40",
+      "tytul": "Zawarcie warunkowej umowy nabycia projektu morskiej farmy wiatrowej FEW Bałtyk II od RWE oraz nabycie Decyzji o Środowiskowych Uwarunkowaniach dla części generacyjnej farmy wiatrowej projektu Baltica 9 – ujawnienie opóźnionych informacji poufnych",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-warunkowej-umowy-nabycia-projektu-morskiej-farmy-wiatrowej-few-baltyk-ii-od-rwe-oraz-nabycie-decyzji-o-srodowiskowych-uwarunkowaniach-dla",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=6"
+    },
+    {
+      "numer": "49/2025",
+      "data": "2025-12-18",
+      "godzina": "17:39",
+      "tytul": "Projekt Baltica 9 z prawem do pokrycia ujemnego salda dla energii elektrycznej wytworzonej w morskiej farmie wiatrowej i wprowadzonej do sieci",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekt-baltica-9-z-prawem-do-pokrycia-ujemnego-salda-dla-energii-elektrycznej-wytworzonej-w-morskiej-farmie-wiatrowej-i-wprowadzonej-do-sieci",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=6"
+    },
+    {
+      "numer": "48/2025",
+      "data": "2025-12-17",
+      "godzina": "18:56",
+      "tytul": "Informacja o zatwierdzeniu taryfy G na rok 2026 dla spółki PGE Obrót i konieczności zawiązania rezerwy w segmencie Obrót",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacja-o-zatwierdzeniu-taryfy-g-na-rok-2026-dla-spolki-pge-obrot-i-koniecznosci-zawiazania-rezerwy-w-segmencie-obrot",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=6"
+    },
+    {
+      "numer": "47/2025",
+      "data": "2025-12-15",
+      "godzina": "17:12",
+      "tytul": "Rejestracja zmian w statucie",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rejestracja-zmian-w-statucie7",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=6"
+    },
+    {
+      "numer": "46/2025",
+      "data": "2025-12-15",
+      "godzina": "13:42",
+      "tytul": "Publikacja wstępnych wyników aukcji głównej rynku mocy na rok 2030",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/publikacja-wstepnych-wynikow-aukcji-glownej-rynku-mocy-na-rok-2030",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=6"
+    },
+    {
+      "numer": "45/2025",
+      "data": "2025-12-11",
+      "godzina": "11:22",
+      "tytul": "Wynik aukcji głównej rynku mocy na rok dostaw 2030",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wynik-aukcji-glownej-rynku-mocy-na-rok-dostaw-2030",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=7"
+    },
+    {
+      "numer": "44/2025",
+      "data": "2025-12-09",
+      "godzina": "12:04",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Nadzwyczajnym Walnym Zgromadzeniu PGE Polska Grupa Energetyczna S.A. w dniu 4 grudnia 2025 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-pge-polska-grupa-energetyczna-s.a.-w-dniu-4-grudnia-20",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=7"
+    },
+    {
+      "numer": "43/2025",
+      "data": "2025-12-08",
+      "godzina": "17:03",
+      "tytul": "Odwołanie Członków Zarządu oraz delegowanie Członka Rady Nadzorczej do czasowego wykonywania czynności Członka Zarządu",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/odwolanie-czlonkow-zarzadu-oraz-delegowanie-czlonka-rady-nadzorczej-do-czasowego-wykonywania-czynnosci-czlonka-zarzadu2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=7"
+    },
+    {
+      "numer": "42/2025",
+      "data": "2025-12-04",
+      "godzina": "20:12",
+      "tytul": "Zmiany w Radzie Nadzorczej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiany-w-radzie-nadzorczej3",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=7"
+    },
+    {
+      "numer": "41/2025",
+      "data": "2025-12-04",
+      "godzina": "18:54",
+      "tytul": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-pge-polska-grupa-energetyczna-s.a15",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=7"
+    },
+    {
+      "numer": "40/2025",
+      "data": "2025-11-14",
+      "godzina": "18:22",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za III kw. 2025 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-iii-kw.-2025-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=7"
+    },
+    {
+      "numer": "39/2025",
+      "data": "2025-11-04",
+      "godzina": "20:37",
+      "tytul": "Projekty uchwał na Nadzwyczajne Walne Zgromadzenie spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekty-uchwal-na-nadzwyczajne-walne-zgromadzenie-spolki-pge-polska-grupa-energetyczna-s.a15",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=8"
+    },
+    {
+      "numer": "38/2025",
+      "data": "2025-11-04",
+      "godzina": "20:16",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia spółki",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-spolki",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=8"
+    },
+    {
+      "numer": "37/2025",
+      "data": "2025-10-17",
+      "godzina": "12:01",
+      "tytul": "Spełnienie warunku zawieszającego i podpisanie umowy przyrzeczonej w sprawie nabycia akcji PGE PAK Energia Jądrowa S.A. od ZE PAK S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/spelnienie-warunku-zawieszajacego-i-podpisanie-umowy-przyrzeczonej-w-sprawie-nabycia-akcji-pge-pak-energia-jadrowa-s.a.-od-ze-pak-s.a",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=8"
+    },
+    {
+      "numer": "36/2025",
+      "data": "2025-10-16",
+      "godzina": "08:55",
+      "tytul": "Podpisanie przedwstępnej warunkowej umowy w sprawie nabycia akcji PGE PAK Energia Jądrowa S.A. od ZE PAK S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/podpisanie-przedwstepnej-warunkowej-umowy-w-sprawie-nabycia-akcji-pge-pak-energia-jadrowa-s.a.-od-ze-pak-s.a",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=8"
+    },
+    {
+      "numer": "35/2025",
+      "data": "2025-10-02",
+      "godzina": "12:38",
+      "tytul": "Podpisanie aneksów do umów pożyczek z Bankiem Gospodarstwa Krajowego w ramach Krajowego Planu Odbudowy i Zwiększania Odporności",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/podpisanie-aneksow-do-umow-pozyczek-z-bankiem-gospodarstwa-krajowego-w-ramach-krajowego-planu-odbudowy-i-zwiekszania-odpornosci",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=8"
+    },
+    {
+      "numer": "34/2025",
+      "data": "2025-09-15",
+      "godzina": "14:47",
+      "tytul": "Publikacja wstępnych wyników aukcji uzupełniającej rynku mocy na rok 2026",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/publikacja-wstepnych-wynikow-aukcji-uzupelniajacej-rynku-mocy-na-rok-2026",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=8"
+    },
+    {
+      "numer": "33/2025",
+      "data": "2025-09-11",
+      "godzina": "14:03",
+      "tytul": "Wynik aukcji uzupełniającej rynku mocy na rok 2026",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wynik-aukcji-uzupelniajacej-rynku-mocy-na-rok-2026",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=9"
+    },
+    {
+      "numer": "32/2025",
+      "data": "2025-09-05",
+      "godzina": "18:40",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za II kwartał 2025 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-ii-kwartal-2025-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=9"
+    },
+    {
+      "numer": "31/2025",
+      "data": "2025-07-25",
+      "godzina": "17:43",
+      "tytul": "Wynik testów na utratę wartości rzeczowych aktywów trwałych w segmencie Energetyki Konwencjonalnej oraz Energetyki Odnawialnej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wynik-testow-na-utrate-wartosci-rzeczowych-aktywow-trwalych-w-segmencie-energetyki-konwencjonalnej-oraz-energetyki-odnawialnej",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=9"
+    },
+    {
+      "numer": "30/2025",
+      "data": "2025-07-24",
+      "godzina": "16:10",
+      "tytul": "Rejestracja zmiany w Statucie",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rejestracja-zmiany-w-statucie",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=9"
+    },
+    {
+      "numer": "29/2025",
+      "data": "2025-07-12",
+      "godzina": "12:01",
+      "tytul": "Odpowiedzi na pytania zadane przez akcjonariuszy podczas Zwyczajnego Walnego Zgromadzenia spółki w dniu 27 czerwca 2025 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/odpowiedzi-na-pytania-zadane-przez-akcjonariuszy-podczas-zwyczajnego-walnego-zgromadzenia-spolki-w-dniu-27-czerwca-2025-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=9"
+    },
+    {
+      "numer": "28/2025",
+      "data": "2025-07-07",
+      "godzina": "17:09",
+      "tytul": "Informacja o rozpoczęciu testów na utratę wartości aktywów",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacja-o-rozpoczeciu-testow-na-utrate-wartosci-aktywow6",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=9"
+    },
+    {
+      "numer": "27/2025",
+      "data": "2025-07-01",
+      "godzina": "14:56",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Zwyczajnym Walnym Zgromadzeniu PGE Polska Grupa Energetyczna S.A. w dniu 27 czerwca 2025 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-glosow-na-zwyczajnym-walnym-zgromadzeniu-pge-polska-grupa-energetyczna-s.a.-w-dniu-27-czerwca-2025-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=10"
+    },
+    {
+      "numer": "26/2025",
+      "data": "2025-07-01",
+      "godzina": "08:40",
+      "tytul": "Zakończenie negocjacji z ZE PAK S.A. w sprawie potencjalnego nabycia udziałów w PAK CCGT Sp. z o.o.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zakonczenie-negocjacji-z-ze-pak-s.a.-w-sprawie-potencjalnego-nabycia-udzialow-w-pak-ccgt-sp.-z-o.o.2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=10"
+    },
+    {
+      "numer": "25/2025",
+      "data": "2025-06-27",
+      "godzina": "17:35",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/tresc-uchwal-podjetych-przez-zwyczajne-walne-zgromadzenie-pge-polska-grupa-energetyczna-s.a16",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=10"
+    },
+    {
+      "numer": "24/2025",
+      "data": "2025-06-24",
+      "godzina": "11:57",
+      "tytul": "Projekty uchwał na Zwyczajne Walne Zgromadzenie zgłoszone przez akcjonariusza",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekty-uchwal-na-zwyczajne-walne-zgromadzenie-zgloszone-przez-akcjonariusza",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=10"
+    },
+    {
+      "numer": "23/2025",
+      "data": "2025-06-16",
+      "godzina": "17:51",
+      "tytul": "Nabycie akcji Spółki przez Wiceprezesa Zarządu",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/nabycie-akcji-spolki-przez-wiceprezesa-zarzadu",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=10"
+    },
+    {
+      "numer": "22/2025",
+      "data": "2025-06-12",
+      "godzina": "15:53",
+      "tytul": "Przyjęcie nowej Strategii Grupy PGE do 2035 roku",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/przyjecie-nowej-strategii-grupy-pge-do-2035-roku",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=10"
+    },
+    {
+      "numer": "21/2025",
+      "data": "2025-06-06",
+      "godzina": "14:06",
+      "tytul": "Zmiana porządku obrad Zwyczajnego Walnego Zgromadzenia",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiana-porzadku-obrad-zwyczajnego-walnego-zgromadzenia4",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=11"
+    },
+    {
+      "numer": "20/2025",
+      "data": "2025-05-30",
+      "godzina": "15:02",
+      "tytul": "Projekty uchwał na Zwyczajne Walne Zgromadzenie spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekty-uchwal-na-zwyczajne-walne-zgromadzenie-spolki-pge-polska-grupa-energetyczna-s.a17",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=11"
+    },
+    {
+      "numer": "19/2025",
+      "data": "2025-05-30",
+      "godzina": "14:32",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-spolki-pge-polska-grupa-energetyczna-s.a16",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=11"
+    },
+    {
+      "numer": "18/2025",
+      "data": "2025-05-19",
+      "godzina": "17:09",
+      "tytul": "Publikacja wstępnych wyników aukcji uzupełniającej rynku mocy na okres dostaw od 1 lipca do 31 grudnia 2025 roku",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/publikacja-wstepnych-wynikow-aukcji-uzupelniajacej-rynku-mocy-na-okres-dostaw-od-1-lipca-do-31-grudnia-2025-roku",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=11"
+    },
+    {
+      "numer": "17/2025",
+      "data": "2025-05-15",
+      "godzina": "17:20",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za I kw. 2025 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-i-kw.-2025-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=11"
+    },
+    {
+      "numer": "16/2025",
+      "data": "2025-05-15",
+      "godzina": "11:05",
+      "tytul": "Wynik aukcji uzupełniającej rynku mocy na okres dostaw od 1 lipca do 31 grudnia 2025 roku",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wynik-aukcji-uzupelniajacej-rynku-mocy-na-okres-dostaw-od-1-lipca-do-31-grudnia-2025-roku",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=11"
+    },
+    {
+      "numer": "15/2025",
+      "data": "2025-04-25",
+      "godzina": "14:36",
+      "tytul": "Zawarcie umowy kredytowej z Europejskim Bankiem Inwestycyjnym",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-umowy-kredytowej-z-europejskim-bankiem-inwestycyjnym4",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=12"
+    },
+    {
+      "numer": "14/2025",
+      "data": "2025-04-14",
+      "godzina": "12:17",
+      "tytul": "Rekomendacja niewypłacania dywidendy za rok 2024",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rekomendacja-niewyplacania-dywidendy-za-rok-2024",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=12"
+    },
+    {
+      "numer": "13/2025",
+      "data": "2025-03-31",
+      "godzina": "11:19",
+      "tytul": "Podpisanie umów pożyczek z Bankiem Gospodarstwa Krajowego w ramach Krajowego Planu Odbudowy i Zwiększania Odporności",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/podpisanie-umow-pozyczek-z-bankiem-gospodarstwa-krajowego-w-ramach-krajowego-planu-odbudowy-i-zwiekszania-odpornosci",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=12"
+    },
+    {
+      "numer": "12/2025",
+      "data": "2025-03-07",
+      "godzina": "15:21",
+      "tytul": "Zawarcie umowy na budowę magazynu energii elektrycznej w Żarnowcu",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-umowy-na-budowe-magazynu-energii-elektrycznej-w-zarnowcu",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=12"
+    },
+    {
+      "numer": "11/2025",
+      "data": "2025-03-05",
+      "godzina": "17:23",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za 2024 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-2024-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=12"
+    },
+    {
+      "numer": "10/2025",
+      "data": "2025-02-07",
+      "godzina": "17:19",
+      "tytul": "Odpis aktualizujący wartość aktywa na podatek odroczony",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/odpis-aktualizujacy-wartosc-aktywa-na-podatek-odroczony",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=12"
+    },
+    {
+      "numer": "9/2025",
+      "data": "2025-01-29",
+      "godzina": "17:33",
+      "tytul": "Zawarcie umów związanych z realizacją oraz finansowaniem Projektu Baltica 2 – ujawnienie informacji opóźnionej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-umow-zwiazanych-z-realizacja-oraz-finansowaniem-projektu-baltica-2-ujawnienie-informacji-opoznionej",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=13"
+    },
+    {
+      "numer": "8/2025",
+      "data": "2025-01-29",
+      "godzina": "17:24",
+      "tytul": "Zawarcie umowy pożyczki z Bankiem Gospodarstwa Krajowego w ramach Krajowego Planu Odbudowy i Zwiększania Odporności – finansowanie wkładu własnego dla projektu morskiej farmy wiatrowej Baltica 2, ujawnienie informacji opóźnionej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-umowy-pozyczki-z-bankiem-gospodarstwa-krajowego-w-ramach-krajowego-planu-odbudowy-i-zwiekszania-odpornosci-finansowanie-wkladu-wlasnego",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=13"
+    },
+    {
+      "numer": "7/2025",
+      "data": "2025-01-29",
+      "godzina": "17:16",
+      "tytul": "Podjęcie uchwały Rady Nadzorczej związanej z realizacją Projektu Baltica 2 – ujawnienie informacji opóźnionej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/podjecie-uchwaly-rady-nadzorczej-zwiazanej-z-realizacja-projektu-baltica-2-ujawnienie-informacji-opoznionej",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=13"
+    },
+    {
+      "numer": "6/2025",
+      "data": "2025-01-29",
+      "godzina": "17:07",
+      "tytul": "Podjęcie uchwały Zarządu związanej z realizacją Projektu Baltica 2 – ujawnienie informacji opóźnionej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/podjecie-uchwaly-zarzadu-zwiazanej-z-realizacja-projektu-baltica-2-ujawnienie-informacji-opoznionej",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=13"
+    },
+    {
+      "numer": "5/2025",
+      "data": "2025-01-29",
+      "godzina": "17:00",
+      "tytul": "Podjęcie ostatecznej decyzji inwestycyjnej dotyczącej Projektu Baltica 2",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/podjecie-ostatecznej-decyzji-inwestycyjnej-dotyczacej-projektu-baltica-2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=13"
+    },
+    {
+      "numer": "4/2025",
+      "data": "2025-01-23",
+      "godzina": "16:32",
+      "tytul": "Wynik testów na utratę wartości rzeczowych aktywów trwałych w segmencie Energetyki Konwencjonalnej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wynik-testow-na-utrate-wartosci-rzeczowych-aktywow-trwalych-w-segmencie-energetyki-konwencjonalnej2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=13"
+    },
+    {
+      "numer": "3/2025",
+      "data": "2025-01-23",
+      "godzina": "13:16",
+      "tytul": "Podpisanie dokumentu term sheet z ZE PAK S.A. w sprawie potencjalnego nabycia udziałów w PAK CCGT Sp. z o.o. oraz akcji w PGE PAK Energia Jądrowa S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/podpisanie-dokumentu-term-sheet-z-ze-pak-s.a.-w-sprawie-potencjalnego-nabycia-udzialow-w-pak-ccgt-sp.-z-o.o.-oraz-akcji-w-pge-pak-energia-jadrowa-s.a",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=14"
+    },
+    {
+      "numer": "2/2025",
+      "data": "2025-01-13",
+      "godzina": "19:59",
+      "tytul": "Zmiana ratingu PGE przez Fitch Ratings",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiana-ratingu-pge-przez-fitch-ratings",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=14"
+    },
+    {
+      "numer": "1/2025",
+      "data": "2025-01-07",
+      "godzina": "16:22",
+      "tytul": "Informacja o rozpoczęciu testów na utratę wartości aktywów",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacja-o-rozpoczeciu-testow-na-utrate-wartosci-aktywow5",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=14"
+    },
+    {
+      "numer": "48/2024",
+      "data": "2024-12-20",
+      "godzina": "14:37",
+      "tytul": "Terminy przekazywania raportów okresowych w 2025 roku",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/terminy-przekazywania-raportow-okresowych-w-2025-roku",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=14"
+    },
+    {
+      "numer": "47/2024",
+      "data": "2024-12-17",
+      "godzina": "16:28",
+      "tytul": "Publikacja wstępnych wyników aukcji głównej rynku mocy na rok 2029",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/publikacja-wstepnych-wynikow-aukcji-glownej-rynku-mocy-na-rok-2029",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=14"
+    },
+    {
+      "numer": "46/2024",
+      "data": "2024-12-12",
+      "godzina": "16:30",
+      "tytul": "Wynik aukcji głównej rynku mocy na rok dostaw 2029",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wynik-aukcji-glownej-rynku-mocy-na-rok-dostaw-2029",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=14"
+    },
+    {
+      "numer": "45/2024",
+      "data": "2024-11-20",
+      "godzina": "09:57",
+      "tytul": "Zawarcie aneksu do umowy kredytu terminowego z Bankiem Gospodarstwa Krajowego",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-aneksu-do-umowy-kredytu-terminowego-z-bankiem-gospodarstwa-krajowego",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=15"
+    },
+    {
+      "numer": "44/2024",
+      "data": "2024-11-13",
+      "godzina": "17:25",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za III kw. 2024 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-iii-kw.-2024-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=15"
+    },
+    {
+      "numer": "43/2024",
+      "data": "2024-11-06",
+      "godzina": "15:20",
+      "tytul": "Zmiana terminu publikacji skonsolidowanego raportu kwartalnego PGE Polskiej Grupy Energetycznej S.A. za III kwartał 2024 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiana-terminu-publikacji-skonsolidowanego-raportu-kwartalnego-pge-polskiej-grupy-energetycznej-s.a.-za-iii-kwartal-2024-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=15"
+    },
+    {
+      "numer": "42/2024",
+      "data": "2024-09-11",
+      "godzina": "16:01",
+      "tytul": "Rezygnacja członka Rady Nadzorczej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rezygnacja-czlonka-rady-nadzorczej9",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=15"
+    },
+    {
+      "numer": "41/2024",
+      "data": "2024-08-30",
+      "godzina": "17:15",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za II kw. 2024 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-ii-kw.-2024-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=15"
+    },
+    {
+      "numer": "40/2024",
+      "data": "2024-07-29",
+      "godzina": "18:00",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Zwyczajnym Walnym Zgromadzeniu PGE Polska Grupa Energetyczna S.A. w dniu 28 czerwca 2024 r. i kontynuowanym po przerwie w dniu 25 lipca 2024 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-glosow-na-zwyczajnym-walnym-zgromadzeniu-pge-polska-grupa-energetyczna-s.a.-w-dniu-28-czerwca-2024",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=15"
+    },
+    {
+      "numer": "39/2024",
+      "data": "2024-07-29",
+      "godzina": "14:21",
+      "tytul": "Zawarcie umowy kredytowej z Europejskim Bankiem Inwestycyjnym",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-umowy-kredytowej-z-europejskim-bankiem-inwestycyjnym3",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=16"
+    },
+    {
+      "numer": "38/2024",
+      "data": "2024-07-25",
+      "godzina": "18:31",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie PGE Polska Grupa Energetyczna S.A. w dniu 25 lipca 2024 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/tresc-uchwal-podjetych-przez-zwyczajne-walne-zgromadzenie-pge-polska-grupa-energetyczna-s.a.-w-dniu-25-lipca-2024-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=16"
+    },
+    {
+      "numer": "37/2024",
+      "data": "2024-07-24",
+      "godzina": "22:05",
+      "tytul": "Zmienione projekty uchwał na Zwyczajne Walne Zgromadzenie",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmienione-projekty-uchwal-na-zwyczajne-walne-zgromadzenie2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=16"
+    },
+    {
+      "numer": "36/2024",
+      "data": "2024-07-23",
+      "godzina": "20:27",
+      "tytul": "Informacje uzupełniające na Zwyczajne Walne Zgromadzenie",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacje-uzupelniajace-na-zwyczajne-walne-zgromadzenie",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=16"
+    },
+    {
+      "numer": "35/2024",
+      "data": "2024-07-23",
+      "godzina": "16:44",
+      "tytul": "Ustalenie nowych terminów przekazania do eksploatacji bloków gazowo-parowych w PGE Gryfino 2050 sp. z o.o.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ustalenie-nowych-terminow-przekazania-do-eksploatacji-blokow-gazowo-parowych-w-pge-gryfino-2050-sp.-z-o.o.",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=16"
+    },
+    {
+      "numer": "34/2024",
+      "data": "2024-07-09",
+      "godzina": "16:32",
+      "tytul": "Uzupełnienie informacji o Wiceprezesie Zarządu ds. Finansowych",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/uzupelnienie-informacji-o-wiceprezesie-zarzadu-ds.-finansowych",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=16"
+    },
+    {
+      "numer": "33/2024",
+      "data": "2024-07-03",
+      "godzina": "16:24",
+      "tytul": "Informacja o zatwierdzeniu taryfy G na okres od 1 lipca 2024 r. do 31 grudnia 2025 r. dla spółki PGE Obrót i jej wpływie na wyniki finansowe",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacja-o-zatwierdzeniu-taryfy-g-na-okres-od-1-lipca-2024-r.-do-31-grudnia-2025-r.-dla-spolki-pge-obrot-i-jej-wplywie-na-wyniki-finansowe",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=17"
+    },
+    {
+      "numer": "32/2024",
+      "data": "2024-07-01",
+      "godzina": "19:41",
+      "tytul": "Zawarcie przez spółkę zależną od KOGENERACJA S.A. umowy z ORLEN S.A. na dostawy paliwa gazowego",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-przez-spolke-zalezna-od-kogeneracja-s.a.-umowy-z-orlen-s.a.-na-dostawy-paliwa-gazowego",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=17"
+    },
+    {
+      "numer": "31/2024",
+      "data": "2024-06-28",
+      "godzina": "16:32",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/tresc-uchwal-podjetych-przez-zwyczajne-walne-zgromadzenie-pge-polska-grupa-energetyczna-s.a15",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=17"
+    },
+    {
+      "numer": "30/2024",
+      "data": "2024-06-28",
+      "godzina": "12:54",
+      "tytul": "Ogłoszenie przerwy w obradach zwyczajnego walnego zgromadzenia",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ogloszenie-przerwy-w-obradach-zwyczajnego-walnego-zgromadzenia",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=17"
+    },
+    {
+      "numer": "29/2024",
+      "data": "2024-06-24",
+      "godzina": "15:48",
+      "tytul": "Powołanie Wiceprezesa Zarządu ds. Finansowych",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/powolanie-wiceprezesa-zarzadu-ds.-finansowych2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=17"
+    },
+    {
+      "numer": "28/2024",
+      "data": "2024-06-11",
+      "godzina": "11:43",
+      "tytul": "Uzupełnienie informacji o Wiceprezesie Zarządu ds. Operacyjnych",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/uzupelnienie-informacji-o-wiceprezesie-zarzadu-ds.-operacyjnych",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=17"
+    },
+    {
+      "numer": "27/2024",
+      "data": "2024-05-29",
+      "godzina": "18:34",
+      "tytul": "Projekty uchwał na Zwyczajne Walne Zgromadzenie spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekty-uchwal-na-zwyczajne-walne-zgromadzenie-spolki-pge-polska-grupa-energetyczna-s.a16",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=18"
+    },
+    {
+      "numer": "26/2024",
+      "data": "2024-05-29",
+      "godzina": "15:34",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-spolki-pge-polska-grupa-energetyczna-s.a15",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=18"
+    },
+    {
+      "numer": "25/2024",
+      "data": "2024-05-20",
+      "godzina": "21:35",
+      "tytul": "Powołanie Wiceprezesa Zarządu ds. Operacyjnych",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/powolanie-wiceprezesa-zarzadu-ds.-operacyjnych3",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=18"
+    },
+    {
+      "numer": "24/2024",
+      "data": "2024-05-14",
+      "godzina": "18:51",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za I kw. 2024 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-i-kw.-2024-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=18"
+    },
+    {
+      "numer": "23/2024",
+      "data": "2024-05-13",
+      "godzina": "17:08",
+      "tytul": "Zmiana terminu publikacji skonsolidowanego raportu kwartalnego PGE Polskiej Grupy Energetycznej S.A. za I kwartał 2024 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiana-terminu-publikacji-skonsolidowanego-raportu-kwartalnego-pge-polskiej-grupy-energetycznej-s.a.-za-i-kwartal-2024-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=18"
+    },
+    {
+      "numer": "22/2024",
+      "data": "2024-04-05",
+      "godzina": "16:16",
+      "tytul": "Rezygnacja osoby powołanej na stanowisko członka Zarządu",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rezygnacja-osoby-powolanej-na-stanowisko-czlonka-zarzadu",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=18"
+    },
+    {
+      "numer": "21/2024",
+      "data": "2024-04-04",
+      "godzina": "22:51",
+      "tytul": "Odwołanie Wiceprezesa Zarządu ds. Operacyjnych",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/odwolanie-wiceprezesa-zarzadu-ds.-operacyjnych2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=19"
+    },
+    {
+      "numer": "20/2024",
+      "data": "2024-04-04",
+      "godzina": "19:37",
+      "tytul": "Powołanie Wiceprezes Zarządu ds. Finansowych",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/powolanie-wiceprezes-zarzadu-ds.-finansowych",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=19"
+    },
+    {
+      "numer": "19/2024",
+      "data": "2024-04-03",
+      "godzina": "15:09",
+      "tytul": "Rekomendacja niewypłacania dywidendy za rok 2023",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rekomendacja-niewyplacania-dywidendy-za-rok-2023",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=19"
+    },
+    {
+      "numer": "18/2024",
+      "data": "2024-03-29",
+      "godzina": "12:59",
+      "tytul": "Uzupełnienie informacji o Wiceprezesie Zarządu ds. Wsparcia i Rozwoju",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/uzupelnienie-informacji-o-wiceprezesie-zarzadu-ds.-wsparcia-i-rozwoju",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=19"
+    },
+    {
+      "numer": "17/2024",
+      "data": "2024-03-21",
+      "godzina": "13:05",
+      "tytul": "Powołanie Wiceprezesa Zarządu ds. Wsparcia i Rozwoju",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/powolanie-wiceprezesa-zarzadu-ds.-wsparcia-i-rozwoju2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=19"
+    },
+    {
+      "numer": "16/2024",
+      "data": "2024-03-14",
+      "godzina": "17:58",
+      "tytul": "Zmiana terminu publikacji raportów rocznych PGE Polskiej Grupy Energetycznej S.A. za rok 2023",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiana-terminu-publikacji-raportow-rocznych-pge-polskiej-grupy-energetycznej-s.a.-za-rok-2023",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=19"
+    },
+    {
+      "numer": "15/2024",
+      "data": "2024-03-06",
+      "godzina": "22:44",
+      "tytul": "Uzupełnienie informacji o Członkach Zarządu",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/uzupelnienie-informacji-o-czlonkach-zarzadu",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=20"
+    },
+    {
+      "numer": "14/2024",
+      "data": "2024-03-06",
+      "godzina": "22:03",
+      "tytul": "Zakończenie delegowania członków Rady Nadzorczej do czasowego wykonywania czynności Członków Zarządu",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zakonczenie-delegowania-czlonkow-rady-nadzorczej-do-czasowego-wykonywania-czynnosci-czlonkow-zarzadu",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=20"
+    },
+    {
+      "numer": "13/2024",
+      "data": "2024-03-06",
+      "godzina": "18:52",
+      "tytul": "Powołanie członków Zarządu",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/powolanie-czlonkow-zarzadu3",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=20"
+    },
+    {
+      "numer": "12/2024",
+      "data": "2024-03-06",
+      "godzina": "17:16",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za 2023 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-2023-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=20"
+    },
+    {
+      "numer": "11/2024",
+      "data": "2024-02-28",
+      "godzina": "21:23",
+      "tytul": "Odwołanie Wiceprezesa Zarządu ds. Finansowych",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/odwolanie-wiceprezesa-zarzadu-ds.-finansowych",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=20"
+    },
+    {
+      "numer": "10/2024",
+      "data": "2024-02-07",
+      "godzina": "22:03",
+      "tytul": "Odwołanie Członków Zarządu oraz delegowanie Członków Rady Nadzorczej do czasowego wykonywania czynności Członków Zarządu",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/odwolanie-czlonkow-zarzadu-oraz-delegowanie-czlonkow-rady-nadzorczej-do-czasowego-wykonywania-czynnosci-czlonkow-zarzadu",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=20"
+    },
+    {
+      "numer": "9/2024",
+      "data": "2024-02-06",
+      "godzina": "12:49",
+      "tytul": "Zawarcie aneksu do umowy kredytu konsorcjalnego",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-aneksu-do-umowy-kredytu-konsorcjalnego",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=21"
+    },
+    {
+      "numer": "8/2024",
+      "data": "2024-02-05",
+      "godzina": "16:07",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Nadzwyczajnym Walnym Zgromadzeniu PGE Polska Grupa Energetyczna S.A. w dniu 31 stycznia 2024 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-pge-polska-grupa-energetyczna-s.a.-w-dniu-31-stycznia",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=21"
+    },
+    {
+      "numer": "7/2024",
+      "data": "2024-01-31",
+      "godzina": "19:31",
+      "tytul": "Zmiany w Radzie Nadzorczej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiany-w-radzie-nadzorczej2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=21"
+    },
+    {
+      "numer": "6/2024",
+      "data": "2024-01-31",
+      "godzina": "19:27",
+      "tytul": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-pge-polska-grupa-energetyczna-s.a14",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=21"
+    },
+    {
+      "numer": "5/2024",
+      "data": "2024-01-29",
+      "godzina": "19:20",
+      "tytul": "Zgłoszenie kandydatów na Członków Rady Nadzorczej przez akcjonariusza - Skarb Państwa",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zgloszenie-kandydatow-na-czlonkow-rady-nadzorczej-przez-akcjonariusza-skarb-panstwa",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=21"
+    },
+    {
+      "numer": "4/2024",
+      "data": "2024-01-26",
+      "godzina": "19:01",
+      "tytul": "Wynik testów na utratę wartości rzeczowych aktywów trwałych w segmencie Energetyki Konwencjonalnej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wynik-testow-na-utrate-wartosci-rzeczowych-aktywow-trwalych-w-segmencie-energetyki-konwencjonalnej",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=21"
+    },
+    {
+      "numer": "3/2024",
+      "data": "2024-01-26",
+      "godzina": "13:12",
+      "tytul": "Uzupełnienie informacji o członku Rady Nadzorczej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/uzupelnienie-informacji-o-czlonku-rady-nadzorczej",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=22"
+    },
+    {
+      "numer": "2/2024",
+      "data": "2024-01-25",
+      "godzina": "15:40",
+      "tytul": "Powołanie członka Rady Nadzorczej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/powolanie-czlonka-rady-nadzorczej9",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=22"
+    },
+    {
+      "numer": "1/2024",
+      "data": "2024-01-12",
+      "godzina": "10:27",
+      "tytul": "Terminy przekazywania raportów okresowych w 2024 roku",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/terminy-przekazywania-raportow-okresowych-w-2024-roku",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=22"
+    },
+    {
+      "numer": "46/2023",
+      "data": "2023-12-29",
+      "godzina": "21:09",
+      "tytul": "Projekty uchwał na Nadzwyczajne Walne Zgromadzenie spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekty-uchwal-na-nadzwyczajne-walne-zgromadzenie-spolki-pge-polska-grupa-energetyczna-s.a14",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=22"
+    },
+    {
+      "numer": "45/2023",
+      "data": "2023-12-29",
+      "godzina": "20:44",
+      "tytul": "Ogłoszenie Zarządu o zwołaniu Nadzwyczajnego Walnego Zgromadzenia PGE Polska Grupa Energetyczna Spółka Akcyjna",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ogloszenie-zarzadu-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-pge-polska-grupa-energetyczna-spolka-akcyjna",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=22"
+    },
+    {
+      "numer": "44/2023",
+      "data": "2023-12-29",
+      "godzina": "20:13",
+      "tytul": "Odwołanie członka Rady Nadzorczej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/odwolanie-czlonka-rady-nadzorczej2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=22"
+    },
+    {
+      "numer": "43/2023",
+      "data": "2023-12-20",
+      "godzina": "13:16",
+      "tytul": "Informacja o zatwierdzeniu taryfy G na rok 2024 dla spółki PGE Obrót i konieczności zawiązania rezerwy w segmencie Obrót",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacja-o-zatwierdzeniu-taryfy-g-na-rok-2024-dla-spolki-pge-obrot-i-koniecznosci-zawiazania-rezerwy-w-segmencie-obrot",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=23"
+    },
+    {
+      "numer": "42/2023",
+      "data": "2023-12-18",
+      "godzina": "15:51",
+      "tytul": "Publikacja wstępnych wyników aukcji głównej rynku mocy na rok 2028",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/publikacja-wstepnych-wynikow-aukcji-glownej-rynku-mocy-na-rok-2028",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=23"
+    },
+    {
+      "numer": "41/2023",
+      "data": "2023-12-14",
+      "godzina": "16:07",
+      "tytul": "Wynik aukcji głównej rynku mocy na rok 2028",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wynik-aukcji-glownej-rynku-mocy-na-rok-2028",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=23"
+    },
+    {
+      "numer": "40/2023",
+      "data": "2023-12-13",
+      "godzina": "15:37",
+      "tytul": "Podpisanie umowy na dostawy węgla z PGG",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/podpisanie-umowy-na-dostawy-wegla-z-pgg2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=23"
+    },
+    {
+      "numer": "39/2023",
+      "data": "2023-12-06",
+      "godzina": "18:21",
+      "tytul": "Informacja o rozpoczęciu testów na utratę wartości aktywów",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacja-o-rozpoczeciu-testow-na-utrate-wartosci-aktywow4",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=23"
+    },
+    {
+      "numer": "38/2023",
+      "data": "2023-11-28",
+      "godzina": "09:43",
+      "tytul": "Zawarcie umowy kredytu terminowego z Bankiem Gospodarstwa Krajowego",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-umowy-kredytu-terminowego-z-bankiem-gospodarstwa-krajowego",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=23"
+    },
+    {
+      "numer": "37/2023",
+      "data": "2023-11-24",
+      "godzina": "15:21",
+      "tytul": "Rezygnacja członka Rady Nadzorczej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rezygnacja-czlonka-rady-nadzorczej8",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=24"
+    },
+    {
+      "numer": "36/2023",
+      "data": "2023-11-23",
+      "godzina": "12:11",
+      "tytul": "Odwołanie Wiceprezesa Zarządu ds. Innowacji",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/odwolanie-wiceprezesa-zarzadu-ds.-innowacji",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=24"
+    },
+    {
+      "numer": "35/2023",
+      "data": "2023-11-15",
+      "godzina": "17:15",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za III kw. 2023 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-iii-kw.-2023-r.",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=24"
+    },
+    {
+      "numer": "34/2023",
+      "data": "2023-10-17",
+      "godzina": "09:36",
+      "tytul": "Informacja o identyfikacji konieczności utworzenia rezerwy w skonsolidowanym sprawozdaniu finansowym Grupy Kapitałowej PGE",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacja-o-identyfikacji-koniecznosci-utworzenia-rezerwy-w-skonsolidowanym-sprawozdaniu-finansowym-grupy-kapitalowej-pge",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=24"
+    },
+    {
+      "numer": "33/2023",
+      "data": "2023-09-22",
+      "godzina": "17:16",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za II kw. 2023 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-ii-kw.-2023-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=24"
+    },
+    {
+      "numer": "32/2023",
+      "data": "2023-09-07",
+      "godzina": "15:52",
+      "tytul": "Zmiana terminu publikacji raportu okresowego PGE Polskiej Grupy Energetycznej S.A. za I półrocze 2023 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiana-terminu-publikacji-raportu-okresowego-pge-polskiej-grupy-energetycznej-s.a.-za-i-polrocze-2023-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=24"
+    },
+    {
+      "numer": "31/2023",
+      "data": "2023-09-04",
+      "godzina": "20:57",
+      "tytul": "Uchylenie uchwały Rady Nadzorczej w sprawie zatwierdzenia aktualizacji strategii Grupy PGE",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/uchylenie-uchwaly-rady-nadzorczej-w-sprawie-zatwierdzenia-aktualizacji-strategii-grupy-pge",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=25"
+    },
+    {
+      "numer": "30/2023",
+      "data": "2023-09-04",
+      "godzina": "17:33",
+      "tytul": "Uchylenie uchwały Zarządu o aktualizacji strategii Grupy PGE",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/uchylenie-uchwaly-zarzadu-o-aktualizacji-strategii-grupy-pge",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=25"
+    },
+    {
+      "numer": "29/2023",
+      "data": "2023-08-29",
+      "godzina": "09:41",
+      "tytul": "Przyjęcie aktualizacji Strategii Grupy PGE do 2030 roku",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/przyjecie-aktualizacji-strategii-grupy-pge-do-2030-roku",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=25"
+    },
+    {
+      "numer": "28/2023",
+      "data": "2023-08-10",
+      "godzina": "10:58",
+      "tytul": "Podpisanie dokumentu zawierającego podsumowanie warunków transakcji nabycia przez Skarb Państwa 100% akcji PGE GiEK S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/podpisanie-dokumentu-zawierajacego-podsumowanie-warunkow-transakcji-nabycia-przez-skarb-panstwa-100-akcji-pge-giek-s.a.",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=25"
+    },
+    {
+      "numer": "27/2023",
+      "data": "2023-08-10",
+      "godzina": "10:07",
+      "tytul": "Korekta raportu bieżącego nr 27/2023 z dnia 10 sierpnia 2023 r. – uzupełnienie daty",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/korekta-raportu-biezacego-nr-27-2023-z-dnia-10-sierpnia-2023-r.-uzupelnienie-daty",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=25"
+    },
+    {
+      "numer": "27/2023",
+      "data": "2023-08-10",
+      "godzina": "09:16",
+      "tytul": "Uzyskanie zgód korporacyjnych w sprawie przyjęcia propozycji warunków transakcji nabycia przez Skarb Państwa 100 proc. akcji PGE GiEK S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/uzyskanie-zgod-korporacyjnych-w-sprawie-przyjecia-propozycji-warunkow-transakcji-nabycia-przez-skarb-panstwa-100-proc.-akcji-pge-giek-s.a",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=25"
+    },
+    {
+      "numer": "26/2023",
+      "data": "2023-08-09",
+      "godzina": "14:50",
+      "tytul": "Uzyskanie decyzji o pozwoleniu na wznoszenie i wykorzystywanie sztucznych wysp, konstrukcji i urządzeń w polskich obszarach morskich dla przedsięwzięć polegających na budowie morskich farm wiatrowych",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/uzyskanie-decyzji-o-pozwoleniu-na-wznoszenie-i-wykorzystywanie-sztucznych-wysp-konstrukcji-i-urzadzen-w-polskich-obszarach-morskich-dla-przedsiew",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=26"
+    },
+    {
+      "numer": "25/2023",
+      "data": "2023-07-20",
+      "godzina": "15:04",
+      "tytul": "Zmiana terminu przekazania do eksploatacji bloków gazowo-parowych w PGE Gryfino 2050 sp. z o.o.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiana-terminu-przekazania-do-eksploatacji-blokow-gazowo-parowych-w-pge-gryfino-2050-sp.-z-o.o",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=26"
+    },
+    {
+      "numer": "24/2023",
+      "data": "2023-07-15",
+      "godzina": "15:24",
+      "tytul": "Otrzymanie propozycji warunków transakcji nabycia przez Skarb Państwa 100 proc. akcji PGE GiEK S.A. przez Skarb Państwa",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/otrzymanie-propozycji-warunkow-transakcji-nabycia-przez-skarb-panstwa-100-proc.-akcji-pge-giek-s.a.-przez-skarb-panstwa",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=26"
+    },
+    {
+      "numer": "23/2023",
+      "data": "2023-05-12",
+      "godzina": "17:17",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za I kw. 2023 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-i-kw.-2023-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=26"
+    },
+    {
+      "numer": "22/2023",
+      "data": "2023-05-04",
+      "godzina": "13:53",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Zwyczajnym Walnym Zgromadzeniu PGE Polska Grupa Energetyczna S.A. w dniu 28 kwietnia 2023 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-glosow-na-zwyczajnym-walnym-zgromadzeniu-pge-polska-grupa-energetyczna-s.a.-w-dniu-28-kwietnia-202",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=26"
+    },
+    {
+      "numer": "21/2023",
+      "data": "2023-04-28",
+      "godzina": "18:22",
+      "tytul": "Powołanie członka Rady Nadzorczej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/powolanie-czlonka-rady-nadzorczej8",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=26"
+    },
+    {
+      "numer": "20/2023",
+      "data": "2023-04-28",
+      "godzina": "18:18",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/tresc-uchwal-podjetych-przez-zwyczajne-walne-zgromadzenie-pge-polska-grupa-energetyczna-s.a14",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=27"
+    },
+    {
+      "numer": "19/2023",
+      "data": "2023-04-26",
+      "godzina": "22:21",
+      "tytul": "Zgłoszenie kandydata na Członka Rady Nadzorczej przez akcjonariusza - Skarb Państwa",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zgloszenie-kandydata-na-czlonka-rady-nadzorczej-przez-akcjonariusza-skarb-panstwa",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=27"
+    },
+    {
+      "numer": "18/2023",
+      "data": "2023-04-20",
+      "godzina": "11:11",
+      "tytul": "Zawarcie umowy na dostawę morskich turbin wiatrowych dla Morskiej Elektrowni Wiatrowej Baltica 2",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-umowy-na-dostawe-morskich-turbin-wiatrowych-dla-morskiej-elektrowni-wiatrowej-baltica-2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=27"
+    },
+    {
+      "numer": "17/2023",
+      "data": "2023-04-19",
+      "godzina": "18:24",
+      "tytul": "Powołanie Wiceprezesa Zarządu ds. Operacyjnych",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/powolanie-wiceprezesa-zarzadu-ds.-operacyjnych2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=27"
+    },
+    {
+      "numer": "16/2023",
+      "data": "2023-04-07",
+      "godzina": "12:00",
+      "tytul": "Zmiana porządku obrad Zwyczajnego Walnego Zgromadzenia",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiana-porzadku-obrad-zwyczajnego-walnego-zgromadzenia3",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=27"
+    },
+    {
+      "numer": "15/2023",
+      "data": "2023-04-03",
+      "godzina": "16:04",
+      "tytul": "Zamknięcie transakcji nabycia 100% udziałów w PKPE Holding",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zamkniecie-transakcji-nabycia-100-udzialow-w-pkpe-holding",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=27"
+    },
+    {
+      "numer": "14/2023",
+      "data": "2023-03-31",
+      "godzina": "18:29",
+      "tytul": "Projekty uchwał na Zwyczajne Walne Zgromadzenie spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekty-uchwal-na-zwyczajne-walne-zgromadzenie-spolki-pge-polska-grupa-energetyczna-s.a15",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=28"
+    },
+    {
+      "numer": "13/2023",
+      "data": "2023-03-31",
+      "godzina": "17:57",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-spolki-pge-polska-grupa-energetyczna-s.a14",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=28"
+    },
+    {
+      "numer": "12/2023",
+      "data": "2023-03-31",
+      "godzina": "16:12",
+      "tytul": "Spełnienie się warunków zawieszających z przedwstępnej umowy nabycia 100% udziałów w PKPE Holding",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/spelnienie-sie-warunkow-zawieszajacych-z-przedwstepnej-umowy-nabycia-100-udzialow-w-pkpe-holding",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=28"
+    },
+    {
+      "numer": "11/2023",
+      "data": "2023-03-28",
+      "godzina": "18:58",
+      "tytul": "Rezygnacja Wiceprezesa Zarządu ds. Operacyjnych",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rezygnacja-wiceprezesa-zarzadu-ds.-operacyjnych",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=28"
+    },
+    {
+      "numer": "10/2023",
+      "data": "2023-03-21",
+      "godzina": "16:21",
+      "tytul": "Rekomendacja niewypłacania dywidendy za rok 2022",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rekomendacja-niewyplacania-dywidendy-za-rok-2022",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=28"
+    },
+    {
+      "numer": "9/2023",
+      "data": "2023-03-07",
+      "godzina": "11:22",
+      "tytul": "Zawarcie porozumienia wstępnego dotyczącego utworzenia spółki celowej na potrzeby związane z projektem budowy elektrowni jądrowej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-porozumienia-wstepnego-dotyczacego-utworzenia-spolki-celowej-na-potrzeby-zwiazane-z-projektem-budowy-elektrowni-jadrowej",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=28"
+    },
+    {
+      "numer": "8/2023",
+      "data": "2023-03-03",
+      "godzina": "10:16",
+      "tytul": "Korekta raportu bieżącego nr 8/2023 z dnia 2 marca 2023 r. (błędna podstawa prawna)",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/korekta-raportu-biezacego-nr-8-2023-z-dnia-2-marca-2023-r.-bledna-podstawa-prawna",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=29"
+    },
+    {
+      "numer": "8/2023",
+      "data": "2023-03-02",
+      "godzina": "21:08",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za 2022 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-2022-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=29"
+    },
+    {
+      "numer": "7/2023",
+      "data": "2023-03-02",
+      "godzina": "13:18",
+      "tytul": "Zawarcie umowy kredytu konsorcjalnego",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-umowy-kredytu-konsorcjalnego",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=29"
+    },
+    {
+      "numer": "6/2023",
+      "data": "2023-02-09",
+      "godzina": "16:26",
+      "tytul": "Rezygnacja członka Rady Nadzorczej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rezygnacja-czlonka-rady-nadzorczej7",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=29"
+    },
+    {
+      "numer": "5/2023",
+      "data": "2023-02-09",
+      "godzina": "12:32",
+      "tytul": "Zawarcie umowy na budowę bloku energetycznego w Rybniku",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-umowy-na-budowe-bloku-energetycznego-w-rybniku",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=29"
+    },
+    {
+      "numer": "4/2023",
+      "data": "2023-02-03",
+      "godzina": "14:21",
+      "tytul": "Zawarcie umowy kredytowej z Europejskim Bankiem Inwestycyjnym",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-umowy-kredytowej-z-europejskim-bankiem-inwestycyjnym2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=29"
+    },
+    {
+      "numer": "3/2023",
+      "data": "2023-01-05",
+      "godzina": "16:59",
+      "tytul": "Terminy przekazywania raportów okresowych w 2023 roku",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/terminy-przekazywania-raportow-okresowych-w-2023-roku",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=30"
+    },
+    {
+      "numer": "2/2023",
+      "data": "2023-01-05",
+      "godzina": "16:57",
+      "tytul": "Uzupełnienie informacji o Wiceprezesie Zarządu",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/uzupelnienie-informacji-o-wiceprezesie-zarzadu",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=30"
+    },
+    {
+      "numer": "1/2023",
+      "data": "2023-01-04",
+      "godzina": "19:44",
+      "tytul": "Powołanie Wiceprezesa Zarządu ds. Wsparcia i Rozwoju",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/powolanie-wiceprezesa-zarzadu-ds.-wsparcia-i-rozwoju",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=30"
+    },
+    {
+      "numer": "61/2022",
+      "data": "2022-12-28",
+      "godzina": "13:17",
+      "tytul": "Zawarcie przedwstępnej umowy nabycia 100% udziałów PKPE Holding",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-przedwstepnej-umowy-nabycia-100-udzialow-pkpe-holding",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=30"
+    },
+    {
+      "numer": "60/2022",
+      "data": "2022-12-28",
+      "godzina": "12:43",
+      "tytul": "Uchwała Zarządu PGE ws. zawarcia z Edison Holdings S.à r.l. przedwstępnej umowy sprzedaży 100% udziałów w spółce PKPE Holding sp. z o.o. – ujawnienie informacji opóźnionej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/uchwala-zarzadu-pge-ws.-zawarcia-z-edison-holdings-s.a-r.l.-przedwstepnej-umowy-sprzedazy-100-udzialow-w-spolce-pkpe-holding-sp.-z-o.o.-ujawnien",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=30"
+    },
+    {
+      "numer": "59/2022",
+      "data": "2022-12-28",
+      "godzina": "12:39",
+      "tytul": "Zgoda Rady Nadzorczej spółki na nabycie udziałów PKPE Holding sp. z o.o.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zgoda-rady-nadzorczej-spolki-na-nabycie-udzialow-pkpe-holding-sp.-z-o.o",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=30"
+    },
+    {
+      "numer": "58/2022",
+      "data": "2022-12-20",
+      "godzina": "10:21",
+      "tytul": "Publikacja wstępnych wyników aukcji głównej rynku mocy na rok 2027",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/publikacja-wstepnych-wynikow-aukcji-glownej-rynku-mocy-na-rok-2027",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=31"
+    },
+    {
+      "numer": "57/2022",
+      "data": "2022-12-19",
+      "godzina": "13:22",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Nadzwyczajnym Walnym Zgromadzeniu PGE Polska Grupa Energetyczna S.A. w dniu 14 grudnia 2022 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-pge-polska-grupa-energetyczna-s.a.-w-dniu-14-grudnia-22",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=31"
+    },
+    {
+      "numer": "56/2022",
+      "data": "2022-12-15",
+      "godzina": "10:44",
+      "tytul": "Wynik aukcji głównej rynku mocy na rok 2027",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wynik-aukcji-glownej-rynku-mocy-na-rok-2027",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=31"
+    },
+    {
+      "numer": "55/2022",
+      "data": "2022-12-14",
+      "godzina": "15:53",
+      "tytul": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-pge-polska-grupa-energetyczna-s.a13",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=31"
+    },
+    {
+      "numer": "54/2022",
+      "data": "2022-12-13",
+      "godzina": "15:00",
+      "tytul": "Decyzja Prezesa URE zatwierdzająca poziom wsparcia dla MFW Baltica",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/decyzja-prezesa-ure-zatwierdzajaca-poziom-wsparcia-dla-mfw-baltica",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=31"
+    },
+    {
+      "numer": "53/2022",
+      "data": "2022-12-09",
+      "godzina": "10:46",
+      "tytul": "Zawarcie umowy kredytowej z Europejskim Bankiem Inwestycyjnym",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-umowy-kredytowej-z-europejskim-bankiem-inwestycyjnym",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=31"
+    },
+    {
+      "numer": "52/2022",
+      "data": "2022-11-17",
+      "godzina": "11:41",
+      "tytul": "Odwołanie Wiceprezesa Zarządu",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/odwolanie-wiceprezesa-zarzadu",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=32"
+    },
+    {
+      "numer": "51/2022",
+      "data": "2022-11-14",
+      "godzina": "17:46",
+      "tytul": "Projekty uchwał na Nadzwyczajne Walne Zgromadzenie spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekty-uchwal-na-nadzwyczajne-walne-zgromadzenie-spolki-pge-polska-grupa-energetyczna-s.a13",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=32"
+    },
+    {
+      "numer": "50/2022",
+      "data": "2022-11-14",
+      "godzina": "17:30",
+      "tytul": "Ogłoszenie Zarządu o zwołaniu Nadzwyczajnego Walnego Zgromadzenia spółki PGE Polska Grupa Energetyczna Spółka Akcyjna",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ogloszenie-zarzadu-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-spolki-pge-polska-grupa-energetyczna-spolka-akcyjna4",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=32"
+    },
+    {
+      "numer": "49/2022",
+      "data": "2022-11-10",
+      "godzina": "17:16",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za III kwartał 2022 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-iii-kwartal-2022-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=32"
+    },
+    {
+      "numer": "48/2022",
+      "data": "2022-10-31",
+      "godzina": "10:05",
+      "tytul": "Zawarcie listu intencyjnego dotyczącego współpracy w ramach projektu budowy elektrowni jądrowej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-listu-intencyjnego-dotyczacego-wspolpracy-w-ramach-projektu-budowy-elektrowni-jadrowej",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=32"
+    },
+    {
+      "numer": "47/2022",
+      "data": "2022-09-30",
+      "godzina": "11:55",
+      "tytul": "Zawarcie przez spółki z Grupy PGE umowy ramowej z PGNiG na dostawy gazu",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-przez-spolki-z-grupy-pge-umowy-ramowej-z-pgnig-na-dostawy-gazu",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=32"
+    },
+    {
+      "numer": "46/2022",
+      "data": "2022-09-16",
+      "godzina": "16:56",
+      "tytul": "Decyzja Komisji Europejskiej w sprawie niewnoszenia zastrzeżeń do pomocy indywidualnej przyznanej na rzecz Elektrowni Wiatrowej Baltica 2 sp. z o.o. oraz Elektrowni Wiatrowej Baltica 3 sp. z o.o",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/decyzja-komisji-europejskiej-w-sprawie-niewnoszenia-zastrzezen-do-pomocy-indywidualnej-przyznanej-na-rzecz-elektrowni-wiatrowej-baltica-2-sp.-z-o.o",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=33"
+    },
+    {
+      "numer": "45/2022",
+      "data": "2022-08-24",
+      "godzina": "17:45",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za II kwartał 2022 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-ii-kwartal-2022-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=33"
+    },
+    {
+      "numer": "44/2022",
+      "data": "2022-08-23",
+      "godzina": "16:42",
+      "tytul": "Uzupełnienie raportu bieżącego 27/2022 z dnia 11 maja 2022 r. oraz raportu bieżącego 34/2022 z dnia 1 czerwca 2022 r. - zakończenie subskrypcji akcji serii E",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/uzupelnienie-raportu-biezacego-27-2022-z-dnia-11-maja-2022-r.-oraz-raportu-biezacego-34-2022-z-dnia-1-czerwca-2022-r.-zakonczenie-subskrypcji-ak",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=33"
+    },
+    {
+      "numer": "43/2022",
+      "data": "2022-08-03",
+      "godzina": "16:02",
+      "tytul": "Zawarcie Warunkowej Umowy Sprzedaży akcji Polskiej Grupy Górniczej S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-warunkowej-umowy-sprzedazy-akcji-polskiej-grupy-gorniczej-s.a",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=33"
+    },
+    {
+      "numer": "42/2022",
+      "data": "2022-07-13",
+      "godzina": "15:39",
+      "tytul": "Powołanie członka Rady Nadzorczej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/powolanie-czlonka-rady-nadzorczej7",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=33"
+    },
+    {
+      "numer": "41/2022",
+      "data": "2022-07-01",
+      "godzina": "12:11",
+      "tytul": "Rejestracja zmiany adresu siedziby spółki oraz zmiany statutu",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rejestracja-zmiany-adresu-siedziby-spolki-oraz-zmiany-statutu",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=33"
+    },
+    {
+      "numer": "40/2022",
+      "data": "2022-06-27",
+      "godzina": "14:38",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Zwyczajnym Walnym Zgromadzeniu PGE Polska Grupa Energetyczna S.A. w dniu 22 czerwca 2022 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-glosow-na-zwyczajnym-walnym-zgromadzeniu-pge-polska-grupa-energetyczna-s.a.-w-dniu-22-czerwca-2022-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=34"
+    },
+    {
+      "numer": "39/2022",
+      "data": "2022-06-23",
+      "godzina": "11:33",
+      "tytul": "Zmiany w Radzie Nadzorczej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiany-w-radzie-nadzorczej",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=34"
+    },
+    {
+      "numer": "38/2022",
+      "data": "2022-06-23",
+      "godzina": "10:31",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/tresc-uchwal-podjetych-przez-zwyczajne-walne-zgromadzenie-pge-polska-grupa-energetyczna-s.a13",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=34"
+    },
+    {
+      "numer": "37/2022",
+      "data": "2022-06-21",
+      "godzina": "13:20",
+      "tytul": "Zamknięcie transakcji nabycia farm wiatrowych o łącznej mocy 84,2 MW",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zamkniecie-transakcji-nabycia-farm-wiatrowych-o-lacznej-mocy-84-2-mw",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=34"
+    },
+    {
+      "numer": "36/2022",
+      "data": "2022-06-10",
+      "godzina": "15:54",
+      "tytul": "Spełnienie się warunku zawieszającego umowy warunkowej nabycia farm wiatrowych o łącznej mocy 84,2 MW",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/spelnienie-sie-warunku-zawieszajacego-umowy-warunkowej-nabycia-farm-wiatrowych-o-lacznej-mocy-84-2-mw",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=34"
+    },
+    {
+      "numer": "35/2022",
+      "data": "2022-06-02",
+      "godzina": "08:58",
+      "tytul": "Uchwały GPW o dopuszczeniu i warunkowym wprowadzeniu akcji serii E do obrotu giełdowego oraz wyznaczeniu ostatniego dnia notowania praw do akcji serii E",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/uchwaly-gpw-o-dopuszczeniu-i-warunkowym-wprowadzeniu-akcji-serii-e-do-obrotu-gieldowego-oraz-wyznaczeniu-ostatniego-dnia-notowania-praw-do-akcji-se",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=34"
+    },
+    {
+      "numer": "34/2022",
+      "data": "2022-06-01",
+      "godzina": "09:30",
+      "tytul": "Warunkowa rejestracja akcji serii E w KDPW",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/warunkowa-rejestracja-akcji-serii-e-w-kdpw",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=35"
+    },
+    {
+      "numer": "33/2022",
+      "data": "2022-05-26",
+      "godzina": "14:15",
+      "tytul": "Wystawienie noty obciążeniowej konsorcjum realizującemu budowę bloku nr 7 w Elektrowni Turów",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wystawienie-noty-obciazeniowej-konsorcjum-realizujacemu-budowe-bloku-nr-7-w-elektrowni-turow",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=35"
+    },
+    {
+      "numer": "32/2022",
+      "data": "2022-05-25",
+      "godzina": "16:23",
+      "tytul": "Projekty uchwał na Zwyczajne Walne Zgromadzenie spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekty-uchwal-na-zwyczajne-walne-zgromadzenie-spolki-pge-polska-grupa-energetyczna-s.a14",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=35"
+    },
+    {
+      "numer": "31/2022",
+      "data": "2022-05-25",
+      "godzina": "16:09",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-spolki-pge-polska-grupa-energetyczna-s.a13",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=35"
+    },
+    {
+      "numer": "30/2022",
+      "data": "2022-05-23",
+      "godzina": "14:16",
+      "tytul": "Zawiadomienie od akcjonariusza o zmianie udziału w ogólnej liczbie głosów w PGE Polskiej Grupie Energetycznej S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawiadomienie-od-akcjonariusza-o-zmianie-udzialu-w-ogolnej-liczbie-glosow-w-pge-polskiej-grupie-energetycznej-s.a2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=35"
+    },
+    {
+      "numer": "29/2022",
+      "data": "2022-05-19",
+      "godzina": "13:21",
+      "tytul": "Rejestracja podwyższenia kapitału zakładowego oraz zmiany statutu",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rejestracja-podwyzszenia-kapitalu-zakladowego-oraz-zmiany-statutu",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=35"
+    },
+    {
+      "numer": "28/2022",
+      "data": "2022-05-11",
+      "godzina": "18:54",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za I kwartał 2022 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-i-kwartal-2022-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=36"
+    },
+    {
+      "numer": "27/2022",
+      "data": "2022-05-11",
+      "godzina": "17:11",
+      "tytul": "Zakończenie subskrypcji akcji serii E",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zakonczenie-subskrypcji-akcji-serii-e",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=36"
+    },
+    {
+      "numer": "26/2022",
+      "data": "2022-04-29",
+      "godzina": "09:45",
+      "tytul": "Komunikat Działu Operacyjnego KDPW w sprawie rejestracji praw do akcji serii E",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/komunikat-dzialu-operacyjnego-kdpw-w-sprawie-rejestracji-praw-do-akcji-serii-e",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=36"
+    },
+    {
+      "numer": "25/2022",
+      "data": "2022-04-28",
+      "godzina": "15:11",
+      "tytul": "Dopuszczenie i wprowadzenie do obrotu giełdowego praw do akcji serii E",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/dopuszczenie-i-wprowadzenie-do-obrotu-gieldowego-praw-do-akcji-serii-e",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=36"
+    },
+    {
+      "numer": "24/2022",
+      "data": "2022-04-27",
+      "godzina": "13:15",
+      "tytul": "Rejestracja praw do akcji serii E w KDPW",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rejestracja-praw-do-akcji-serii-e-w-kdpw",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=36"
+    },
+    {
+      "numer": "23/2022",
+      "data": "2022-04-22",
+      "godzina": "15:17",
+      "tytul": "Zakończenie subskrypcji akcji serii E oraz przydział akcji serii E",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zakonczenie-subskrypcji-akcji-serii-e-oraz-przydzial-akcji-serii-e",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=36"
+    },
+    {
+      "numer": "22/2022",
+      "data": "2022-04-13",
+      "godzina": "13:30",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Nadzwyczajnym Walnym Zgromadzeniu PGE Polska Grupa Energetyczna S.A. w dniu 6 kwietnia 2022 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-pge-polska-grupa-energetyczna-s.a.-w-dniu-6-kwietnia-2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=37"
+    },
+    {
+      "numer": "21/2022",
+      "data": "2022-04-13",
+      "godzina": "12:56",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Nadzwyczajnym Walnym Zgromadzeniu PGE Polska Grupa Energetyczna S.A. w dniu 7 marca 2022 r., wznowionym po przerwie w dniu 6 kwietnia 2022 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-pge-polska-grupa-energetyczna-s.a.-w-dniu-7-marca-2022",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=37"
+    },
+    {
+      "numer": "20/2022",
+      "data": "2022-04-07",
+      "godzina": "17:45",
+      "tytul": "Ustalenie ceny emisyjnej akcji",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ustalenie-ceny-emisyjnej-akcji",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=37"
+    },
+    {
+      "numer": "19/2022",
+      "data": "2022-04-07",
+      "godzina": "14:32",
+      "tytul": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie PGE Polska Grupa Energetyczna S.A. w dniu 6 kwietnia 2022 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-pge-polska-grupa-energetyczna-s.a.-w-dniu-6-kwietnia-2022-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=37"
+    },
+    {
+      "numer": "18/2022",
+      "data": "2022-04-06",
+      "godzina": "17:11",
+      "tytul": "Zawarcie umowy plasowania akcji oraz rozpoczęcie procesu budowania księgi popytu w ramach oferty w trybie subskrypcji prywatnej akcji serii E",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-umowy-plasowania-akcji-oraz-rozpoczecie-procesu-budowania-ksiegi-popytu-w-ramach-oferty-w-trybie-subskrypcji-prywatnej-akcji-serii-e",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=37"
+    },
+    {
+      "numer": "17/2022",
+      "data": "2022-04-06",
+      "godzina": "17:08",
+      "tytul": "Przyjęcie przez Zarząd Spółki zasad prowadzenia subskrypcji",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/przyjecie-przez-zarzad-spolki-zasad-prowadzenia-subskrypcji",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=37"
+    },
+    {
+      "numer": "16/2022",
+      "data": "2022-04-06",
+      "godzina": "14:07",
+      "tytul": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie PGE Polska Grupa Energetyczna S.A. zwołane na dzień 7 marca 2022 r. i wznowione w dniu 6 kwietnia 2022 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-pge-polska-grupa-energetyczna-s.a.-zwolane-na-dzien-7-marca-2022-r.-i-wznowione-w-dniu",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=38"
+    },
+    {
+      "numer": "15/2022",
+      "data": "2022-04-05",
+      "godzina": "14:50",
+      "tytul": "Podpisanie umowy inwestycyjnej ze Skarbem Państwa",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/podpisanie-umowy-inwestycyjnej-ze-skarbem-panstwa",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=38"
+    },
+    {
+      "numer": "14/2022",
+      "data": "2022-04-01",
+      "godzina": "10:32",
+      "tytul": "Podpisanie umowy warunkowej dotyczącej nabycia farm wiatrowych o łącznej mocy 84,2 MW",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/podpisanie-umowy-warunkowej-dotyczacej-nabycia-farm-wiatrowych-o-lacznej-mocy-84-2-mw",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=38"
+    },
+    {
+      "numer": "13/2022",
+      "data": "2022-03-22",
+      "godzina": "00:00",
+      "tytul": "Rekomendacja niewypłacania dywidendy za rok 2021",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rekomendacja-niewyplacania-dywidendy-za-rok-2021",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=38"
+    },
+    {
+      "numer": "12/2022",
+      "data": "2022-03-11",
+      "godzina": "11:57",
+      "tytul": "Zmiana terminu Nadzwyczajnego Walnego Zgromadzenia zwołanego na dzień 30 marca 2022 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiana-terminu-nadzwyczajnego-walnego-zgromadzenia-zwolanego-na-dzien-30-marca-2022-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=38"
+    },
+    {
+      "numer": "11/2022",
+      "data": "2022-03-07",
+      "godzina": "18:16",
+      "tytul": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-pge-polska-grupa-energetyczna-s.a12",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=38"
+    },
+    {
+      "numer": "10/2022",
+      "data": "2022-03-07",
+      "godzina": "13:43",
+      "tytul": "Ogłoszenie przerwy w obradach walnego zgromadzenia",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ogloszenie-przerwy-w-obradach-walnego-zgromadzenia3",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=39"
+    },
+    {
+      "numer": "9/2022",
+      "data": "2022-03-04",
+      "godzina": "13:16",
+      "tytul": "Informacja dotycząca wniosku o ogłoszenie przerwy w obradach walnego zgromadzenia zwołanego na dzień 7 marca 2022 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacja-dotyczaca-wniosku-o-ogloszenie-przerwy-w-obradach-walnego-zgromadzenia-zwolanego-na-dzien-7-marca-2022-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=39"
+    },
+    {
+      "numer": "8/2022",
+      "data": "2022-02-23",
+      "godzina": "17:16",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za rok 2021",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-rok-2021",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=39"
+    },
+    {
+      "numer": "7/2022",
+      "data": "2022-02-22",
+      "godzina": "19:15",
+      "tytul": "Projekty uchwał na Nadwyczajne Walne Zgromadzenie spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekty-uchwal-na-nadwyczajne-walne-zgromadzenie-spolki-pge-polska-grupa-energetyczna-s.a",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=39"
+    },
+    {
+      "numer": "6/2022",
+      "data": "2022-02-22",
+      "godzina": "19:10",
+      "tytul": "Ogłoszenie Zarządu o zwołaniu Nadzwyczajnego Walnego Zgromadzenia spółki „PGE Polska Grupa Energetyczna Spółka Akcyjna”",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ogloszenie-zarzadu-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-spolki-pge-polska-grupa-energetyczna-spolka-akcyjna",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=39"
+    },
+    {
+      "numer": "5/2022",
+      "data": "2022-02-08",
+      "godzina": "17:53",
+      "tytul": "Zmiana porządku obrad Nadzwyczajnego Walnego Zgromadzenia wraz z projektem uchwały",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiana-porzadku-obrad-nadzwyczajnego-walnego-zgromadzenia-wraz-z-projektem-uchwaly",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=39"
+    },
+    {
+      "numer": "4/2022",
+      "data": "2022-01-19",
+      "godzina": "13:39",
+      "tytul": "Złożenie wniosku o objęcie akcji serii E spółki przez Skarb Państwa",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zlozenie-wniosku-o-objecie-akcji-serii-e-spolki-przez-skarb-panstwa",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=40"
+    },
+    {
+      "numer": "3/2022",
+      "data": "2022-01-18",
+      "godzina": "19:00",
+      "tytul": "Projekty uchwał na Nadwyczajne Walne Zgromadzenie spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekty-uchwal-na-nadwyczajne-walne-zgromadzenie-spolki-pge-polska-grupa-energetyczna-s.a2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=40"
+    },
+    {
+      "numer": "2/2022",
+      "data": "2022-01-18",
+      "godzina": "18:45",
+      "tytul": "Ogłoszenie Zarządu o zwołaniu Nadzwyczajnego Walnego Zgromadzenia spółki „PGE Polska Grupa Energetyczna Spółka Akcyjna”",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ogloszenie-zarzadu-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-spolki-pge-polska-grupa-energetyczna-spolka-akcyjna2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=40"
+    },
+    {
+      "numer": "1/2022",
+      "data": "2022-01-18",
+      "godzina": "17:34",
+      "tytul": "Ujawnienie informacji opóźnionej – Decyzja Zarządu PGE w sprawie rozpoczęcia procesu dokapitalizowania spółki w drodze emisji akcji",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ujawnienie-informacji-opoznionej-decyzja-zarzadu-pge-w-sprawie-rozpoczecia-procesu-dokapitalizowania-spolki-w-drodze-emisji-akcji",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=40"
+    },
+    {
+      "numer": "37/2021",
+      "data": "2021-12-21",
+      "godzina": "18:04",
+      "tytul": "Aktualizacja informacji dotyczącej złożenia wstępnej oferty niewiążącej nabycia udziałów w aktywach Grupy Fortum",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/aktualizacja-informacji-dotyczacej-zlozenia-wstepnej-oferty-niewiazacej-nabycia-udzialow-w-aktywach-grupy-fortum",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=40"
+    },
+    {
+      "numer": "36/2021",
+      "data": "2021-12-20",
+      "godzina": "11:02",
+      "tytul": "Publikacja wstępnych wyników aukcji głównej rynku mocy na rok 2026",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/publikacja-wstepnych-wynikow-aukcji-glownej-rynku-mocy-na-rok-2026",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=40"
+    },
+    {
+      "numer": "35/2021",
+      "data": "2021-12-16",
+      "godzina": "10:58",
+      "tytul": "Wynik aukcji głównej rynku mocy na rok 2026",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wynik-aukcji-glownej-rynku-mocy-na-rok-2026",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=41"
+    },
+    {
+      "numer": "34/2021",
+      "data": "2021-12-09",
+      "godzina": "12:43",
+      "tytul": "Terminy przekazywania raportów okresowych w 2022 roku",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/terminy-przekazywania-raportow-okresowych-w-2022-roku",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=41"
+    },
+    {
+      "numer": "33/2021",
+      "data": "2021-11-19",
+      "godzina": "13:09",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Nadzwyczajnym Walnym Zgromadzeniu PGE Polska Grupa Energetyczna S.A. w dniu 15 listopada 2021 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-glosow-na-nadzwyczajnym-walnym-zgromadzeniu-pge-polska-grupa-energetyczna-s.a.-w-dniu-15-listopada",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=41"
+    },
+    {
+      "numer": "32/2021",
+      "data": "2021-11-15",
+      "godzina": "18:38",
+      "tytul": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/tresc-uchwal-podjetych-przez-nadzwyczajne-walne-zgromadzenie-pge-polska-grupa-energetyczna-s.a",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=41"
+    },
+    {
+      "numer": "31/2021",
+      "data": "2021-11-15",
+      "godzina": "18:14",
+      "tytul": "Zmiany w Radzie Nadzorczej PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiany-w-radzie-nadzorczej-pge-polska-grupa-energetyczna-s.a",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=41"
+    },
+    {
+      "numer": "30/2021",
+      "data": "2021-11-09",
+      "godzina": "16:41",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za 9 miesięcy 2021 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-9-miesiecy-2021-r.",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=41"
+    },
+    {
+      "numer": "29/2021",
+      "data": "2021-10-15",
+      "godzina": "15:38",
+      "tytul": "Projekty uchwał na Nadzwyczajne Walne Zgromadzenie spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekty-uchwal-na-nadzwyczajne-walne-zgromadzenie-spolki-pge-polska-grupa-energetyczna-s.a",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=42"
+    },
+    {
+      "numer": "28/2021",
+      "data": "2021-10-15",
+      "godzina": "15:34",
+      "tytul": "Ogłoszenie Zarządu o zwołaniu Nadzwyczajnego Walnego Zgromadzenia spółki PGE Polska Grupa Energetyczna Spółka Akcyjna",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ogloszenie-zarzadu-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-spolki-pge-polska-grupa-energetyczna-spolka-akcyjna3",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=42"
+    },
+    {
+      "numer": "27/2021",
+      "data": "2021-09-15",
+      "godzina": "15:42",
+      "tytul": "Informacja o wyniku testów na utratę wartości aktywów",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacja-o-wyniku-testow-na-utrate-wartosci-aktywow",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=42"
+    },
+    {
+      "numer": "26/2021",
+      "data": "2021-08-30",
+      "godzina": "15:19",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za I półrocze 2021 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-i-polrocze-2021-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=42"
+    },
+    {
+      "numer": "25/2021",
+      "data": "2021-08-27",
+      "godzina": "11:28",
+      "tytul": "Zmiana terminu publikacji skonsolidowanego raportu półrocznego PGE Polskiej Grupy Energetycznej S.A. za I półrocze 2021 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiana-terminu-publikacji-skonsolidowanego-raportu-polrocznego-pge-polskiej-grupy-energetycznej-s.a.-za-i-polrocze-2021-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=42"
+    },
+    {
+      "numer": "24/2021",
+      "data": "2021-07-23",
+      "godzina": "12:40",
+      "tytul": "Porozumienie dotyczące współpracy w zakresie wydzielenia aktywów węglowych do NABE",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/porozumienie-dotyczace-wspolpracy-w-zakresie-wydzielenia-aktywow-weglowych-do-nabe",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=42"
+    },
+    {
+      "numer": "23/2021",
+      "data": "2021-07-21",
+      "godzina": "15:24",
+      "tytul": "Informacja o rozpoczęciu testów na utratę wartości aktywów",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacja-o-rozpoczeciu-testow-na-utrate-wartosci-aktywow",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=43"
+    },
+    {
+      "numer": "22/2021",
+      "data": "2021-07-13",
+      "godzina": "15:07",
+      "tytul": "Odpowiedzi na pytania zadane przez akcjonariuszy podczas Zwyczajnego Walnego Zgromadzenia spółki w dniu 29 czerwca 2021 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/odpowiedzi-na-pytania-zadane-przez-akcjonariuszy-podczas-zwyczajnego-walnego-zgromadzenia-spolki-w-dniu-29-czerwca-2021-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=43"
+    },
+    {
+      "numer": "21/2021",
+      "data": "2021-07-01",
+      "godzina": "13:44",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Zwyczajnym Walnym Zgromadzeniu PGE Polska Grupa Energetyczna S.A. w dniu 29 czerwca 2021 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-glosow-na-zwyczajnym-walnym-zgromadzeniu-pge-polska-grupa-energetyczna-s.a.-w-dniu-29-czerwca-2021-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=43"
+    },
+    {
+      "numer": "20/2021",
+      "data": "2021-06-29",
+      "godzina": "15:47",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/tresc-uchwal-podjetych-przez-zwyczajne-walne-zgromadzenie-pge-polska-grupa-energetyczna-s.a",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=43"
+    },
+    {
+      "numer": "19/2021",
+      "data": "2021-06-23",
+      "godzina": "08:20",
+      "tytul": "Zawarcie umowy na budowę elektrociepłowni gazowo-parowej w Siechnicach (Nowa EC Czechnica)",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-umowy-na-budowe-elektrocieplowni-gazowo-parowej-w-siechnicach-nowa-ec-czechnica",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=43"
+    },
+    {
+      "numer": "18/2021",
+      "data": "2021-06-08",
+      "godzina": "18:52",
+      "tytul": "Powołanie Wiceprezesa Zarządu ds. Finansowych",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/powolanie-wiceprezesa-zarzadu-ds.-finansowych",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=43"
+    },
+    {
+      "numer": "17/2021",
+      "data": "2021-05-31",
+      "godzina": "12:41",
+      "tytul": "Projekty uchwał na Zwyczajne Walne Zgromadzenie spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekty-uchwal-na-zwyczajne-walne-zgromadzenie-spolki-pge-polska-grupa-energetyczna-s.a",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=44"
+    },
+    {
+      "numer": "16/2021",
+      "data": "2021-05-31",
+      "godzina": "12:30",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-spolki-pge-polska-grupa-energetyczna-s.a",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=44"
+    },
+    {
+      "numer": "15/2021",
+      "data": "2021-05-11",
+      "godzina": "17:13",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za I kwartał 2021 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-i-kwartal-2021-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=44"
+    },
+    {
+      "numer": "14/2021",
+      "data": "2021-05-06",
+      "godzina": "15:54",
+      "tytul": "Zamknięcie transakcji dotyczącej projektu budowy morskich farm wiatrowych",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zamkniecie-transakcji-dotyczacej-projektu-budowy-morskich-farm-wiatrowych",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=44"
+    },
+    {
+      "numer": "13/2021",
+      "data": "2021-04-30",
+      "godzina": "13:28",
+      "tytul": "Opóźnienie przekazania do eksploatacji bloku nr 7 w Elektrowni Turów",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/opoznienie-przekazania-do-eksploatacji-bloku-nr-7-w-elektrowni-turow",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=44"
+    },
+    {
+      "numer": "12/2021",
+      "data": "2021-04-27",
+      "godzina": "12:29",
+      "tytul": "Rekomendacja niewypłacania dywidendy za rok 2020",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rekomendacja-niewyplacania-dywidendy-za-rok-2020",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=44"
+    },
+    {
+      "numer": "11/2021",
+      "data": "2021-04-07",
+      "godzina": "17:06",
+      "tytul": "Przyznanie prawa do pokrycia ujemnego salda dla energii elektrycznej z morskich farm wiatrowych PGE",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/przyznanie-prawa-do-pokrycia-ujemnego-salda-dla-energii-elektrycznej-z-morskich-farm-wiatrowych-pge",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=45"
+    },
+    {
+      "numer": "10/2021",
+      "data": "2021-04-01",
+      "godzina": "13:26",
+      "tytul": "Spełnienie warunków zawarcia umowy na budowę elektrociepłowni gazowo parowej w Siechnicach (Nowa EC Czechnica)",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/spelnienie-warunkow-zawarcia-umowy-na-budowe-elektrocieplowni-gazowo-parowej-w-siechnicach-nowa-ec-czechnica",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=45"
+    },
+    {
+      "numer": "9/2021",
+      "data": "2021-03-31",
+      "godzina": "08:31",
+      "tytul": "Rezygnacja Wiceprezesa Zarządu",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rezygnacja-wiceprezesa-zarzadu",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=45"
+    },
+    {
+      "numer": "8/2021",
+      "data": "2021-03-26",
+      "godzina": "17:15",
+      "tytul": "Podpisanie umowy sprzedaży udziałów w spółce PGE EJ 1 sp. z o.o. na rzecz Skarbu Państwa",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/podpisanie-umowy-sprzedazy-udzialow-w-spolce-pge-ej-1-sp.-z-o.o.-na-rzecz-skarbu-panstwa",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=45"
+    },
+    {
+      "numer": "7/2021",
+      "data": "2021-03-01",
+      "godzina": "19:54",
+      "tytul": "Warunkowa akceptacja oferty konsorcjum Polimex Mostostal S.A. i Polimex Energetyka sp. z o.o. na budowę elektrociepłowni gazowo-parowej w Siechnicach (Nowa EC Czechnica)",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/warunkowa-akceptacja-oferty-konsorcjum-polimex-mostostal-s.a.-i-polimex-energetyka-sp.-z-o.o.-na-budowe-elektrocieplowni-gazowo-parowej-w-siechnica",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=45"
+    },
+    {
+      "numer": "6/2021",
+      "data": "2021-02-25",
+      "godzina": "12:07",
+      "tytul": "Podpisanie ugody dotyczącej umowy na zaprojektowanie i budowę bloku energetycznego w Elektrowni Turów",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/podpisanie-ugody-dotyczacej-umowy-na-zaprojektowanie-i-budowe-bloku-energetycznego-w-elektrowni-turow",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=45"
+    },
+    {
+      "numer": "5/2021",
+      "data": "2021-02-24",
+      "godzina": "16:25",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za rok 2020",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-rok-2020",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=46"
+    },
+    {
+      "numer": "4/2021",
+      "data": "2021-02-10",
+      "godzina": "15:28",
+      "tytul": "Aktualizacja informacji dotyczącej złożonej wspólnie z PGNiG oferty niewiążącej nabycia polskich aktywów Grupy CEZ",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/aktualizacja-informacji-dotyczacej-zlozonej-wspolnie-z-pgnig-oferty-niewiazacej-nabycia-polskich-aktywow-grupy-cez",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=46"
+    },
+    {
+      "numer": "3/2021",
+      "data": "2021-02-10",
+      "godzina": "11:45",
+      "tytul": "Podpisanie umowy inwestycyjnej z Ørsted dotyczącej projektu budowy morskich farm wiatrowych",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/podpisanie-umowy-inwestycyjnej-z-oersted-dotyczacej-projektu-budowy-morskich-farm-wiatrowych",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=46"
+    },
+    {
+      "numer": "2/2021",
+      "data": "2021-01-14",
+      "godzina": "19:09",
+      "tytul": "Powołanie członka Rady Nadzorczej",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/powolanie-czlonka-rady-nadzorczej",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=46"
+    },
+    {
+      "numer": "1/2021",
+      "data": "2021-01-07",
+      "godzina": "15:07",
+      "tytul": "Terminy przekazywania raportów okresowych w 2021 roku",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/terminy-przekazywania-raportow-okresowych-w-2021-roku",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=46"
+    },
+    {
+      "numer": "36/2020",
+      "data": "2020-12-17",
+      "godzina": "16:50",
+      "tytul": "Publikacja wstępnych wyników aukcji głównej rynku mocy na rok 2025",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/publikacja-wstepnych-wynikow-aukcji-glownej-rynku-mocy-na-rok-2025",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=46"
+    },
+    {
+      "numer": "35/2020",
+      "data": "2020-12-14",
+      "godzina": "15:35",
+      "tytul": "Wynik aukcji głównej rynku mocy na rok 2025",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wynik-aukcji-glownej-rynku-mocy-na-rok-2025",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=47"
+    },
+    {
+      "numer": "34/2020",
+      "data": "2020-12-11",
+      "godzina": "11:11",
+      "tytul": "Złożenie wspólnie z PGNiG oferty niewiążącej nabycia polskich aktywów Grupy CEZ",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zlozenie-wspolnie-z-pgnig-oferty-niewiazacej-nabycia-polskich-aktywow-grupy-cez",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=47"
+    },
+    {
+      "numer": "33/2020",
+      "data": "2020-11-16",
+      "godzina": "16:50",
+      "tytul": "Aktualizacja informacji dotyczącej złożenia wstępnej oferty niewiążącej nabycia udziałów w aktywach Grupy Fortum",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/aktualizacja-informacji-dotyczacej-zlozenia-wstepnej-oferty-niewiazacej-nabycia-udzialow-w-aktywach-grupy-fortum2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=47"
+    },
+    {
+      "numer": "32/2020",
+      "data": "2020-11-04",
+      "godzina": "17:59",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za 9 miesięcy 2020 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-9-miesiecy-2020-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=47"
+    },
+    {
+      "numer": "31/2020",
+      "data": "2020-10-28",
+      "godzina": "14:42",
+      "tytul": "Zmiana terminu publikacji skonsolidowanego raportu kwartalnego PGE Polskiej Grupy Energetycznej S.A. za III kwartał 2020 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiana-terminu-publikacji-skonsolidowanego-raportu-kwartalnego-pge-polskiej-grupy-energetycznej-s.a.-za-iii-kwartal-2020-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=47"
+    },
+    {
+      "numer": "30/2020",
+      "data": "2020-10-27",
+      "godzina": "12:45",
+      "tytul": "Złożenie wstępnej oferty niewiążącej nabycia udziałów w aktywach Grupy Fortum zlokalizowanych w Polsce, Estonii, na Łotwie i Litwie przez konsorcjum z udziałem PGE",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zlozenie-wstepnej-oferty-niewiazacej-nabycia-udzialow-w-aktywach-grupy-fortum-zlokalizowanych-w-polsce-estonii-na-lotwie-i-litwie-przez-konsorcju",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=47"
+    },
+    {
+      "numer": "29/2020",
+      "data": "2020-10-19",
+      "godzina": "08:33",
+      "tytul": "Przyjęcie strategii Grupy PGE do 2030 roku z perspektywą do 2050 roku",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/przyjecie-strategii-grupy-pge-do-2030-roku-z-perspektywa-do-2050-roku",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=48"
+    },
+    {
+      "numer": "28/2020",
+      "data": "2020-10-01",
+      "godzina": "08:13",
+      "tytul": "Podpisanie listu intencyjnego dotyczącego sprzedaży udziałów w spółce PGE EJ 1 sp. z o.o.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/podpisanie-listu-intencyjnego-dotyczacego-sprzedazy-udzialow-w-spolce-pge-ej-1-sp.-z-o.o",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=48"
+    },
+    {
+      "numer": "27/2020",
+      "data": "2020-09-23",
+      "godzina": "13:35",
+      "tytul": "Przyjęcie jednolitego tekstu Statutu przez Radę Nadzorczą",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/przyjecie-jednolitego-tekstu-statutu-przez-rade-nadzorcza",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=48"
+    },
+    {
+      "numer": "26/2020",
+      "data": "2020-09-10",
+      "godzina": "13:32",
+      "tytul": "Rejestracja zmian w Statucie",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rejestracja-zmian-w-statucie",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=48"
+    },
+    {
+      "numer": "25/2020",
+      "data": "2020-08-31",
+      "godzina": "15:31",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za I półrocze 2020 r. oraz informacja o wyniku testów na utratę wartości aktywów",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-i-polrocze-2020-r.-oraz-informacja-o-wyniku-testow-na-utrate-wartosci-aktywow",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=48"
+    },
+    {
+      "numer": "24/2020",
+      "data": "2020-08-18",
+      "godzina": "18:19",
+      "tytul": "Powołanie Wiceprezesa Zarządu ds. Regulacji",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/powolanie-wiceprezesa-zarzadu-ds.-regulacji",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=48"
+    },
+    {
+      "numer": "23/2020",
+      "data": "2020-07-28",
+      "godzina": "19:42",
+      "tytul": "Informacja nt. wpłynięcia od generalnego wykonawcy propozycji zmiany terminu zakończenia realizacji budowy bloku energetycznego nr 7 w Elektrowni Turów",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacja-nt.-wplyniecia-od-generalnego-wykonawcy-propozycji-zmiany-terminu-zakonczenia-realizacji-budowy-bloku-energetycznego-nr-7-w-elektrowni-t",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=49"
+    },
+    {
+      "numer": "22/2020",
+      "data": "2020-07-16",
+      "godzina": "15:28",
+      "tytul": "Informacja o rozpoczęciu testów na utratę wartości aktywów",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacja-o-rozpoczeciu-testow-na-utrate-wartosci-aktywow2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=49"
+    },
+    {
+      "numer": "21/2020",
+      "data": "2020-07-10",
+      "godzina": "12:41",
+      "tytul": "Odpowiedzi na pytania zadane przez akcjonariusza podczas Zwyczajnego Walnego Zgromadzenia spółki w dniu 26 czerwca 2020 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/odpowiedzi-na-pytania-zadane-przez-akcjonariusza-podczas-zwyczajnego-walnego-zgromadzenia-spolki-w-dniu-26-czerwca-2020-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=49"
+    },
+    {
+      "numer": "20/2020",
+      "data": "2020-07-02",
+      "godzina": "13:10",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Zwyczajnym Walnym Zgromadzeniu PGE Polska Grupa Energetyczna S.A. w dniu 26 czerwca 2020 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-glosow-na-zwyczajnym-walnym-zgromadzeniu-pge-polska-grupa-energetyczna-s.a.-w-dniu-26-czerwca-2020-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=49"
+    },
+    {
+      "numer": "19/2020",
+      "data": "2020-06-26",
+      "godzina": "16:25",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/tresc-uchwal-podjetych-przez-zwyczajne-walne-zgromadzenie-pge-polska-grupa-energetyczna-s.a2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=49"
+    },
+    {
+      "numer": "18/2020",
+      "data": "2020-06-22",
+      "godzina": "14:39",
+      "tytul": "Projekt uchwały na Zwyczajne Walne Zgromadzenie w dniu 26 czerwca 2020 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekt-uchwaly-na-zwyczajne-walne-zgromadzenie-w-dniu-26-czerwca-2020-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=49"
+    },
+    {
+      "numer": "17/2020",
+      "data": "2020-06-09",
+      "godzina": "14:01",
+      "tytul": "Zmiana terminu publikacji skonsolidowanego raportu półrocznego PGE Polskiej Grupy Energetycznej S.A. za I półrocze 2020 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiana-terminu-publikacji-skonsolidowanego-raportu-polrocznego-pge-polskiej-grupy-energetycznej-s.a.-za-i-polrocze-2020-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=50"
+    },
+    {
+      "numer": "16/2020",
+      "data": "2020-06-05",
+      "godzina": "17:07",
+      "tytul": "Zmiana porządku obrad Zwyczajnego Walnego Zgromadzenia",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiana-porzadku-obrad-zwyczajnego-walnego-zgromadzenia",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=50"
+    },
+    {
+      "numer": "15/2020",
+      "data": "2020-05-28",
+      "godzina": "15:29",
+      "tytul": "Projekty uchwał na Zwyczajne Walne Zgromadzenie spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/projekty-uchwal-na-zwyczajne-walne-zgromadzenie-spolki-pge-polska-grupa-energetyczna-s.a2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=50"
+    },
+    {
+      "numer": "14/2020",
+      "data": "2020-05-28",
+      "godzina": "15:19",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia spółki PGE Polska Grupa Energetyczna S.A.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/ogloszenie-o-zwolaniu-zwyczajnego-walnego-zgromadzenia-spolki-pge-polska-grupa-energetyczna-s.a2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=50"
+    },
+    {
+      "numer": "13/2020",
+      "data": "2020-05-28",
+      "godzina": "14:41",
+      "tytul": "Rekomendacja niewypłacania dywidendy za rok 2019",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rekomendacja-niewyplacania-dywidendy-za-rok-2019",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=50"
+    },
+    {
+      "numer": "12/2020",
+      "data": "2020-05-12",
+      "godzina": "15:24",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za I kwartał 2020 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-i-kwartal-2020-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=50"
+    },
+    {
+      "numer": "11/2020",
+      "data": "2020-04-07",
+      "godzina": "15:29",
+      "tytul": "Zmiana terminu publikacji skonsolidowanego raportu kwartalnego PGE Polskiej Grupy Energetycznej S.A. za I kwartał 2020 r.",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiana-terminu-publikacji-skonsolidowanego-raportu-kwartalnego-pge-polskiej-grupy-energetycznej-s.a.-za-i-kwartal-2020-r",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=51"
+    },
+    {
+      "numer": "10/2020",
+      "data": "2020-03-13",
+      "godzina": "16:19",
+      "tytul": "Informacja o wyniku testów na utratę wartości aktywów",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacja-o-wyniku-testow-na-utrate-wartosci-aktywow2",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=51"
+    },
+    {
+      "numer": "9/2020",
+      "data": "2020-03-03",
+      "godzina": "14:47",
+      "tytul": "Zmiana terminu publikacji raportów rocznych PGE Polskiej Grupy Energetycznej S.A. za rok 2019",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zmiana-terminu-publikacji-raportow-rocznych-pge-polskiej-grupy-energetycznej-s.a.-za-rok-2019",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=51"
+    },
+    {
+      "numer": "8/2020",
+      "data": "2020-03-03",
+      "godzina": "14:21",
+      "tytul": "Informacja o rozpoczęciu testów na utratę wartości aktywów",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacja-o-rozpoczeciu-testow-na-utrate-wartosci-aktywow3",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=51"
+    },
+    {
+      "numer": "7/2020",
+      "data": "2020-02-19",
+      "godzina": "23:02",
+      "tytul": "Powołanie członków Zarządu",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/powolanie-czlonkow-zarzadu",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=51"
+    },
+    {
+      "numer": "6/2020",
+      "data": "2020-02-17",
+      "godzina": "13:52",
+      "tytul": "Rezygnacja Prezesa Zarządu z ubiegania się o wybór w następnej kadencji",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/rezygnacja-prezesa-zarzadu-z-ubiegania-sie-o-wybor-w-nastepnej-kadencji",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=51"
+    },
+    {
+      "numer": "5/2020",
+      "data": "2020-02-14",
+      "godzina": "16:34",
+      "tytul": "Informacja o odpisie aktualizującym wartość aktywów trwałych PGG",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacja-o-odpisie-aktualizujacym-wartosc-aktywow-trwalych-pgg",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=52"
+    },
+    {
+      "numer": "4/2020",
+      "data": "2020-02-04",
+      "godzina": "17:58",
+      "tytul": "Szacunek wybranych danych finansowych i operacyjnych za rok 2019",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/szacunek-wybranych-danych-finansowych-i-operacyjnych-za-rok-2019",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=52"
+    },
+    {
+      "numer": "3/2020",
+      "data": "2020-01-30",
+      "godzina": "15:45",
+      "tytul": "Zawarcie umowy na budowę bloków energetycznych w Elektrowni Dolna Odra",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/zawarcie-umowy-na-budowe-blokow-energetycznych-w-elektrowni-dolna-odra",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=52"
+    },
+    {
+      "numer": "2/2020",
+      "data": "2020-01-03",
+      "godzina": "16:22",
+      "tytul": "Informacja o zatwierdzeniu taryfy G dla spółki PGE Obrót i zawiązaniu rezerwy w segmencie Obrót",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/informacja-o-zatwierdzeniu-taryfy-g-dla-spolki-pge-obrot-i-zawiazaniu-rezerwy-w-segmencie-obrot",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=52"
+    },
+    {
+      "numer": "1/2020",
+      "data": "2020-01-03",
+      "godzina": "13:52",
+      "tytul": "Akceptacja oferty konsorcjum General Electric i Polimex na budowę bloków gazowo-parowych w Elektrowni Dolna Odra",
+      "url": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace/akceptacja-oferty-konsorcjum-general-electric-i-polimex-na-budowe-blokow-gazowo-parowych-w-elektrowni-dolna-odra",
+      "source_page": "https://www.gkpge.pl/dla-inwestorow/raporty-biezace?page=52"
+    }
+  ]
+}

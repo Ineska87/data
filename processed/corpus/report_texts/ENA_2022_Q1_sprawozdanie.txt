@@ -1,0 +1,3730 @@
+Grupa Kapitałowa ENEA 
+Skonsolidowane sprawozdanie finansowe sporządzone według MSSF UE za rok obrotowy kończący się 31 grudnia 2018 r. 
+(wszystkie kwoty wyrażone są w tys. złotych, o ile nie podano inaczej) 
+ 
+ 
+Skonsolidowane sprawozdanie z przepływów pieniężnych należy analizować łącznie z dodatkowymi informacjami i 
+objaśnieniami stanowiącymi integralną część 
+jednostkowego sprawozdania finansowego 
+ 
+1 
+ 
+ 
+ 
+ 
+023032+11111111111111111 
+ 
+SKRÓCONE ŚRÓDROCZNE 
+JEDNOSTKOWE 
+SPRAWOZDANIE FINANSOWE 
+ENEA S.A. 
+za okres od 1 stycznia 
+do 31 marca 2022 r. 
+zgodne z MSSF UE 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+2 
+ 
+SPIS TREŚCI 
+ 
+ 
+JEDNOSTKOWE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW ............................................. 4 
+JEDNOSTKOWE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ ..................................................... 5 
+JEDNOSTKOWE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM ...................................... 7 
+JEDNOSTKOWE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH ............................................ 8 
+DODATKOWE INFORMACJE I OBJAŚNIENIA ................................................................................... 9 
+Informacje ogólne .................................................................................................................................. 9 
+1. 
+Informacje ogólne dotyczące ENEA S.A. ................................................................................... 9 
+2. 
+Skład Grupy Kapitałowej .......................................................................................................... 10 
+3. 
+Skład Zarządu i Rady Nadzorczej ............................................................................................ 11 
+4. 
+Podstawa sporządzenia sprawozdania finansowego .............................................................. 12 
+5. 
+Zasady (polityka) rachunkowości i ważne oszacowania i założenia ........................................ 12 
+6. 
+Waluta funkcjonalna i waluta prezentacji ................................................................................. 12 
+Noty objaśniające do jednostkowego sprawozdania z całkowitych dochodów ......................... 13 
+7. 
+Przychody ze sprzedaży .......................................................................................................... 13 
+8. 
+Opodatkowanie ........................................................................................................................ 13 
+Noty objaśniające do jednostkowego sprawozdania z sytuacji finansowej ................................ 14 
+9. 
+Rzeczowe aktywa trwałe .......................................................................................................... 14 
+10. Wartości niematerialne ............................................................................................................. 14 
+11. Inwestycje w jednostki zależne, stowarzyszone i współkontrolowane ..................................... 14 
+12. Zapasy ...................................................................................................................................... 16 
+13. Aktywa i zobowiązania z tytułu umów z klientami .................................................................... 17 
+14. Środki pieniężne i ich ekwiwalenty ........................................................................................... 17 
+15. Podział zysku ........................................................................................................................... 17 
+16. Zobowiązania z tytułu zadłużenia ............................................................................................ 18 
+17. Rezerwy.................................................................................................................................... 20 
+Instrumenty finansowe i zarządzanie ryzykiem finansowym ......................................................... 21 
+18. Instrumenty finansowe i wartość godziwa ................................................................................ 21 
+19. Dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie ......................................... 23 
+20. Odpisy aktualizujące wartość należności z tyt. dostaw i usług oraz pozostałych należności .. 25 
+21. Analiza struktury wiekowej aktywów z tytułu umów z klientami oraz należności z tytułu 
+dostaw i usług ........................................................................................................................... 26 
+22. Inne zobowiązania finansowe .................................................................................................. 26 
+Pozostałe noty objaśniające .............................................................................................................. 27 
+23. Transakcje z jednostkami powiązanymi ................................................................................... 27 
+24. Zobowiązania warunkowe, postepowania sądowe oraz sprawy toczące się przed 
+organem administracji publicznej ............................................................................................. 28 
+24.1. 
+Poręczenia i gwarancje ................................................................................................... 28 
+24.2. 
+Postępowania toczące się przed sądami powszechnymi ............................................... 29 
+24.3. 
+Sprawy dotyczące niezbilansowania za 2012 r. ............................................................. 29 
+24.4. 
+Spór dotyczący cen na świadectwa pochodzenia energii OZE oraz wypowiedziane 
+umowy na zakup praw majątkowych wynikających ze świadectw pochodzenia energii z 
+odnawialnych źródeł ................................................................................................................. 30 
+25. Podwyższenie kapitału ............................................................................................................. 32 
+26. Sytuacja polityczno – gospodarcza w Ukrainie ........................................................................ 33 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+3 
+Niniejsze skrócone śródroczne jednostkowe sprawozdanie finansowe zostało sporządzone zgodnie z wymogami 
+Międzynarodowego Standardu Sprawozdawczości Finansowej MSR 34 Śródroczna sprawozdawczość finansowa, który 
+został zatwierdzony przez Unię Europejską i zostało zaakceptowane przez Zarząd ENEA S.A. 
+ 
+ 
+ 
+Członkowie Zarządu 
+Prezes Zarządu 
+Paweł Majewski 
+ 
+ 
+ 
+ 
+ 
+Członek Zarządu 
+Rafał Mucha 
+ 
+ 
+Członek Zarządu 
+Marcin Pawlicki 
+ 
+ 
+Członek Zarządu 
+Tomasz Siwak 
+ 
+ 
+Członek Zarządu 
+Tomasz Szczegielniak 
+ 
+ 
+Członek Zarządu 
+Lech Żak 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENEA Centrum Sp. z o.o. 
+Podmiot odpowiedzialny za prowadzenie ksiąg 
+rachunkowych i sporządzenie sprawozdania finansowego Ewa Nowaczyk 
+ENEA Centrum Sp. z o.o. Pl. Władysława Andersa 7, 61-894 Poznań 
+KRS 0000477231, NIP 777-00-02-843, REGON 630770227 
+ 
+Poznań, 24 maja 2022 r. 
+Signed by /
+Podpisano przez:
+Ewa Nowaczyk
+Date / Data: 202205-24 06:51
+Signed by /
+Podpisano przez:
+Marcin Pawlicki
+Date / Data:
+2022-05-24
+08:11
+Signed by /
+Podpisano przez:
+Rafał Marek
+Mucha
+Date / Data:
+2022-05-24 08:58
+Signed by /
+Podpisano przez:
+Tomasz
+Szczegielniak
+Date / Data:
+2022-05-24 09:31
+Signed by /
+Podpisano przez:
+Lech Adam Żak
+Date / Data:
+2022-05-24
+09:37
+Signed by /
+Podpisano przez:
+Tomasz Jan Siwak
+Date / Data:
+2022-05-24
+13:13
+PAWEŁ 
+JAN 
+MAJEWSKI
+Elektronicznie 
+podpisany przez 
+PAWEŁ JAN 
+MAJEWSKI 
+Data: 2022.05.24 
+16:57:13 +02'00'
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+ 
+Jednostkowe sprawozdanie z całkowitych dochodów należy analizować łącznie z dodatkowymi informacjami i objaśnieniami stanowiącymi integralną 
+część skróconego śródrocznego jednostkowego sprawozdania finansowego 
+ 
+4 
+JEDNOSTKOWE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW
+ 
+ 
+Okres
+ 
+Nota 
+3 miesięcy 
+zakończony 
+31 marca 2022 
+(niebadane)
+3 miesięcy 
+zakończony 
+ 31 marca 2021 
+(niebadane)
+ 
+ 
+Przychody ze sprzedaży 
+2 896 025
+1 832 685
+Podatek akcyzowy 
+(13 768)
+(19 396)
+Przychody ze sprzedaży netto 
+7
+2 882 257
+1 813 289
+Przychody z tytułu leasingu 
+47
+66
+Przychody ze sprzedaży oraz inne dochody
+2 882 304
+1 813 355
+Pozostałe przychody operacyjne 
+ 
+1 985
+3 336
+Zmiana rezerwy dotyczącej umów rodzących obciążenia 
+ 
+(50 994)
+(1 080)
+Amortyzacja 
+ 
+(1 596)
+(1 752)
+Koszty świadczeń pracowniczych 
+ 
+(23 290)
+(22 764)
+Zużycie materiałów i surowców oraz wartość sprzedanych towarów 
+ 
+(1 089)
+(634)
+Zakup energii i gazu na potrzeby sprzedaży 
+ 
+(2 872 739)
+(1 681 913)
+Usługi przesyłowe i dystrybucyjne 
+ 
+(9 885)
+(9 351)
+Inne usługi obce 
+ 
+(57 622)
+(60 187)
+Podatki i opłaty 
+ 
+(3 030)
+(2 964)
+Pozostałe koszty operacyjne 
+ 
+(20 003)
+(17 952)
+(Strata)/zysk operacyjny 
+(155 959)
+18 094
+Koszty finansowe 
+ 
+(57 137)
+(48 059)
+Przychody finansowe 
+ 
+75 331
+57 017
+Zmiana odpisu z tytułu utraty wartości udziałów w jednostkach 
+zależnych, stowarzyszonych i współkontrolowanych 
+ 
+31 131
+Zmiana odpisu aktualizującego aktywa finansowe 
+w zamortyzowanym koszcie 
+ 
+(3 665)
+(6 200)
+(Strata)/zysk przed opodatkowaniem 
+(110 299)
+20 852
+Podatek dochodowy 
+27 221
+24 288
+(Strata)/zysk netto okresu sprawozdawczego 
+(83 078)
+45 140
+ 
+Inne całkowite dochody 
+ 
+Podlegające przeklasyfikowaniu do zysków lub strat: 
+- wycena instrumentów zabezpieczających 
+97 870
+52 630
+- podatek dochodowy 
+(18 595)
+(10 000)
+ 
+Niepodlegające przeklasyfikowaniu do zysków lub strat: 
+ 
+- pozostałe
+ 
+-
+(730)
+Inne całkowite dochody netto 
+79 275
+41 900
+Całkowity dochód za okres sprawozdawczy 
+(3 803)
+87 040
+(Strata)zysk netto przypisany do akcjonariuszy Spółki 
+(83 078)
+45 140
+Średnioważona liczba akcji zwykłych (w szt.) 
+441 442 578
+441 442 578
+(Strata)/zysk netto na akcję (w zł na jedną akcję) 
+(0,19)
+0,10
+(Strata)/zysk rozwodniony na akcję (w zł na jedną akcję) 
+(0,19)
+0,10
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+ 
+Jednostkowe sprawozdanie z sytuacji finansowej należy analizować łącznie z dodatkowymi informacjami i objaśnieniami stanowiącymi integralną 
+część skróconego śródrocznego jednostkowego sprawozdania finansowego 
+ 
+5 
+JEDNOSTKOWE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ 
+ 
+Stan na 
+ 
+Nota 
+31 marca 
+2022 
+(niebadane)
+31 grudnia 
+2021 
+ 
+ 
+ 
+ 
+ AKTYWA 
+ 
+ Aktywa trwałe 
+ 
+ Rzeczowe aktywa trwałe 
+9 
+24 710
+24 096 
+ Prawo do korzystania ze składnika aktywów 
+ 
+37 215
+40 660
+ Wartości niematerialne 
+10 
+3 169
+3 385 
+ Nieruchomości inwestycyjne 
+ 
+12 520
+12 656 
+ Inwestycje w jednostki zależne, stowarzyszone i współkontrolowane 
+11 
+9 556 300
+9 531 789
+ Aktywa z tytułu odroczonego podatku dochodowego 
+8 
+116 022
+106 989 
+ Aktywa finansowe wyceniane w wartości godziwej 
+ 
+229 800
+164 917
+ Dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie 
+19 
+5 345 725
+5 390 289
+ Należności z tytułu leasingu i subleasingu finansowego 
+ 
+246
+284
+ Koszty doprowadzenia do zawarcia umowy 
+ 
+10 772
+11 180
+ Aktywa trwałe razem 
+ 
+15 336 479
+15 286 245
+ 
+ 
+ Aktywa obrotowe 
+ 
+ Zapasy 
+12 
+154 102
+ 135 777 
+ Należności z tytułu dostaw i usług oraz pozostałe należności 
+ 
+2 166 501
+2 009 453 
+ Koszty doprowadzenia do zawarcia umowy 
+ 
+11 198
+11 652
+ Aktywa z tytułu umów z klientami 
+13 
+378 838
+300 206
+ Należności z tytułu leasingu i subleasingu finansowego 
+ 
+717
+723
+ Aktywa finansowe wyceniane w wartości godziwej 
+ 
+70 296
+28 194 
+ Dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie 
+19 
+1 730 987
+1 660 454
+ Środki pieniężne i ich ekwiwalenty 
+14 
+1 068 044
+1 005 481 
+ Aktywa obrotowe razem 
+5 580 683
+5 151 940
+ 
+ AKTYWA RAZEM 
+ 
+20 917 162
+20 438 185 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+ 
+Jednostkowe sprawozdanie z sytuacji finansowej należy analizować łącznie z dodatkowymi informacjami i objaśnieniami stanowiącymi integralną 
+część skróconego śródrocznego jednostkowego sprawozdania finansowego 
+ 
+6 
+JEDNOSTKOWE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ 
+ 
+ 
+ 
+Stan na 
+ 
+Nota 
+31 marca
+2022 
+(niebadane) 
+31 grudnia 
+2021 
+ 
+ 
+ PASYWA 
+ 
+ 
+Kapitał własny 
+ 
+ 
+ Kapitał zakładowy 
+ 
+588 018
+588 018
+ Kapitał z nadwyżki ceny emisyjnej nad wartością nominalną akcji 
+ 
+3 687 993
+3 687 993 
+ Kapitał rezerwowy z wyceny instrumentów zabezpieczających 
+ 
+188 552
+109 277
+ Kapitał rezerwowy 
+ 
+5 974 031
+5 974 031
+ Zyski zatrzymane/skumulowane straty 
+ 
+361 348
+444 426
+ Kapitał własny razem 
+ 
+10 799 942
+10 803 745
+ 
+ 
+ ZOBOWIĄZANIA 
+ 
+ Zobowiązania długoterminowe 
+ 
+ Kredyty, pożyczki i dłużne papiery wartościowe 
+16 
+4 310 592
+4 420 974
+ Zobowiązania z tytułu leasingu 
+ 
+34 181
+37 512
+ Zobowiązania z tytułu świadczeń pracowniczych 
+ 
+53 740
+54 042
+ Rezerwy na pozostałe zobowiązania i inne obciążenia 
+17 
+276 522
+228 582
+ Zobowiązania długoterminowe razem 
+ 
+4 675 035
+4 741 110 
+ 
+ 
+ Zobowiązania krótkoterminowe 
+ 
+ Kredyty, pożyczki i dłużne papiery wartościowe 
+16 
+2 207 168
+2 164 492
+ Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania 
+ 
+644 971
+828 009 
+ Zobowiązania z tytułu umów z klientami 
+13 
+53 591
+46 108
+ Zobowiązania z tytułu leasingu 
+ 
+2 147
+2 576
+ Zobowiązania z tytułu bieżącego podatku dochodowego 
+ 
+265 912
+61 535
+ Zobowiązania z tytułu świadczeń pracowniczych 
+ 
+29 238
+28 351
+ Zobowiązania z tytułu ekwiwalentu prawa do nieodpłatnego nabycia akcji 
+ 
+281
+281
+ Inne zobowiązania finansowe 
+22 
+1 439 189
+1 105 251
+ Rezerwy na pozostałe zobowiązania i inne obciążenia 
+17 
+799 688
+ 656 727
+ Zobowiązania krótkoterminowe razem 
+ 
+5 442 185
+4 893 330
+ 
+ 
+ Zobowiązania razem 
+ 
+10 117 220
+9 634 440 
+ 
+ 
+ KAPITAŁ WŁASNY I ZOBOWIĄZANIA RAZEM 
+ 
+20 917 162
+20 438 185
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+ 
+Jednostkowe sprawozdanie ze zmian w kapitale własnym należy analizować łącznie z dodatkowymi informacjami i objaśnieniami stanowiącymi integralną część skróconego śródrocznego jednostkowego sprawozdania 
+finansowego 
+ 
+7 
+JEDNOSTKOWE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM 
+ 
+ 
+Kapitał 
+zakładowy 
+(wartość 
+nominalna) 
+Kapitał z 
+przeszacowania 
+oraz z rozliczenia 
+połączenia 
+Kapitał 
+zakładowy 
+razem 
+Kapitał 
+z nadwyżki ceny 
+emisyjnej nad 
+wartością 
+nominalną akcji 
+Kapitał 
+z aktualizacji 
+wyceny 
+instrumentów 
+finansowych 
+Kapitał rezerwowy 
+z wyceny 
+instrumentów 
+zabezpieczających 
+Kapitał 
+rezerwowy 
+Zyski 
+zatrzymane 
+Kapitał własny 
+razem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stan na 1 stycznia 2021 
+441 443 
+146 575 
+588 018 
+4 627 673 
+(17 036) 
+(105 534) 
+5 974 031 
+(939 680) 
+10 127 472 
+Zysk netto okresu 
+sprawozdawczego 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+45 140 
+45 140 
+Inne całkowite dochody netto 
+- 
+- 
+- 
+- 
+17 036 
+42 630 
+- 
+(17 766) 
+41 900 
+Całkowite dochody netto 
+rozpoznane w okresie 
+- 
+- 
+- 
+- 
+17 036 
+42 630 
+- 
+27 374 
+87 040 
+Stan na 31 marca 2021 
+(niebadane) 
+441 443 
+146 575 
+588 018 
+4 627 673 
+- 
+(62 904) 
+5 974 031 
+(912 306) 
+10 214 512 
+ 
+ 
+Kapitał 
+zakładowy 
+(wartość 
+nominalna) 
+Kapitał z 
+przeszacowania 
+oraz z rozliczenia 
+połączenia 
+Kapitał 
+zakładowy 
+razem 
+Kapitał 
+z nadwyżki ceny 
+emisyjnej nad 
+wartością 
+nominalną akcji 
+Kapitał rezerwowy 
+z wyceny 
+instrumentów 
+zabezpieczających 
+Kapitał 
+rezerwowy 
+Zyski 
+zatrzymane 
+Kapitał własny 
+razem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stan na 1 stycznia 2022 
+441 443 
+146 575 
+588 018 
+3 687 993 
+109 277 
+5 974 031 
+444 426 
+10 803 745 
+Strata netto okresu 
+sprawozdawczego 
+- 
+- 
+- 
+- 
+- 
+- 
+(83 078) 
+(83 078) 
+Inne całkowite dochody netto 
+- 
+- 
+- 
+- 
+79 275 
+- 
+- 
+79 275 
+Całkowite dochody netto 
+rozpoznane w okresie 
+- 
+- 
+- 
+- 
+79 275 
+- 
+(83 078) 
+(3 803) 
+Stan na 31 marca 2022 
+(niebadane) 
+441 443 
+146 575 
+588 018 
+3 687 993 
+188 552 
+5 974 031 
+361 348 
+10 799 942 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+ 
+Jednostkowe sprawozdanie z przepływów pieniężnych należy analizować łącznie z dodatkowymi informacjami i objaśnieniami stanowiącymi 
+integralną część skróconego śródrocznego jednostkowego sprawozdania finansowego 
+ 
+8 
+JEDNOSTKOWE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH 
+ 
+ 
+Nota
+Okres 
+ 
+3 miesięcy 
+zakończony 
+31 marca 2022 
+(niebadane) 
+3 miesięcy 
+zakończony 
+31 marca 2021 
+(niebadane) 
+Przepływy pieniężne z działalności operacyjnej 
+ 
+ 
+ (Strata)/zysk netto okresu sprawozdawczego 
+(83 078)
+45 140
+ Korekty: 
+ Podatek dochodowy w zyskach i stratach 
+(27 221)
+(24 288)
+ Amortyzacja 
+1 596
+1 752
+ Zysk na sprzedaży aktywów finansowych 
+(8 272)
+(4 744)
+ Przychody z tytułu odsetek 
+(64 123)
+(38 234)
+ Koszty z tytułu odsetek 
+54 677
+35 679
+ Odpisy aktualizujące wartość udziałów 
+ 
+(31 131)
+-
+ Odpisy aktualizujące aktywa finansowe w zamortyzowanym koszcie 
+3 665
+6 200
+ Korekty razem
+(70 809)
+(23 635)
+ 
+ 
+ 
+ 
+ Podatek dochodowy zapłacony 
+(107 385)
+(195 238)
+ Przepływy z tytułu rozliczeń w ramach Podatkowej Grupy Kapitałowej 
+ 
+154 137
+228 328
+ Zmiany kapitału obrotowego: 
+ Zapasy 
+(18 325)
+(128 910)
+ Należności z tytułu dostaw i usług oraz pozostałe należności 
+(77 681)
+(45 517)
+ Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania 
+(175 561)
+(37 552)
+ Zobowiązania z tytułu świadczeń pracowniczych 
+585
+(645)
+ Rezerwy na pozostałe zobowiązania i inne obciążenia 
+222 032
+106 750
+Zmiany kapitału obrotowego razem
+(48 950)
+(105 874)
+Przepływy pieniężne netto z działalności operacyjnej 
+(156 085)
+(51 279)
+ 
+ 
+ 
+ 
+Przepływy pieniężne z działalności inwestycyjnej 
+ 
+Nabycie rzeczowych i niematerialnych aktywów trwałych oraz prawa do 
+korzystania ze składnika aktywów 
+ 
+(927)
+Wpływ ze zbycia aktywów finansowych 
+32 561
+91 697
+Nabycie jednostek zależnych 
+ 
+(24 131)
+Nabycie jednostek stowarzyszonych i współkontrolowanych 
+ 
+(380)
+Odsetki otrzymane 
+4 369
+4 860
+Przepływy pieniężne netto z działalności inwestycyjnej 
+11 492
+96 557
+ 
+Przepływy pieniężne z działalności finansowej 
+ 
+Spłata kredytów i pożyczek 
+ 
+(32 561)
+(32 561)
+Wykup obligacji 
+ 
+(78 055)
+(78 055)
+Wydatki związane z płatnością zobowiązań leasingu 
+(1 191)
+(2 044)
+Odsetki zapłacone 
+(14 975)
+(26 200)
+Przepływy pieniężne netto z działalności finansowej 
+(126 782)
+(138 860)
+Przepływy pieniężne netto razem 
+(271 375)
+(93 582)
+Stan środków pieniężnych na początek okresu sprawozdawczego 
+14 
+(99 770)
+378 094
+Stan środków pieniężnych na koniec okresu sprawozdawczego
+14
+(371 145)
+284 512
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+9 
+DODATKOWE INFORMACJE I OBJAŚNIENIA 
+ 
+Informacje ogólne 
+ 
+1. 
+Informacje ogólne dotyczące ENEA S.A. 
+ 
+Nazwa (firma): 
+ENEA Spółka Akcyjna 
+Forma prawna: 
+spółka akcyjna 
+Kraj siedziby: 
+Rzeczpospolita Polska 
+Siedziba: 
+Poznań 
+Adres: 
+ul. Pastelowa 8, 60-198 Poznań 
+KRS: 
+0000012483 
+Numer telefonu: 
+(+48 61) 884 55 44 
+Numer faksu: 
+(+48 61) 884 59 59 
+E-mail: 
+enea@enea.pl 
+Strona internetowa: 
+www.enea.pl 
+Numer klasyfikacji statystycznej (REGON): 
+630139960 
+Numer klasyfikacji podatkowej (NIP): 
+777-00-20-640 
+ENEA S.A. („ENEA”, „Spółka”) działając pod nazwą Energetyka Poznańska S.A. została wpisana 21 maja 2001 r. do 
+Krajowego Rejestru Sądowego w Sądzie Rejonowym w Poznaniu pod numerem KRS 0000012483. 
+Na 31 marca 2022 r. struktura akcjonariuszy ENEA S.A. przedstawiała się następująco: 
+ 
+Skarb Państwa 
+Rzeczypospolitej Polski 
+Pozostali akcjonariusze 
+Razem 
+Stan na 31 marca 2022 
+51,50% 
+48,50% 
+100,00% 
+Na 31 marca 2022 r. podmiotem kontrolującym Spółkę był Skarb Państwa będący stroną kontrolującą najwyższego 
+szczebla. 
+Na 31 marca 2022 r. statutowy kapitał zakładowy ENEA S.A. zarejestrowany w KRS był równy 441 443 tys. zł 
+(588 018 tys. zł po przekształceniu na MSSF UE z uwzględnieniem hiperinflacji i innych korekt) i dzielił się 
+na 441 442 578 akcji. 
+Czas trwania Spółki jest nieoznaczony. Działalność prowadzona jest na podstawie odpowiednich koncesji przyznawanych 
+Spółce. 
+Skrócone śródroczne jednostkowe sprawozdanie finansowe Spółki obejmuje okres 3 miesięcy zakończony 31 marca 
+2022 r. i zawiera dane porównawcze za okres 3 miesięcy zakończony 31 marca 2021 r. oraz na dzień 31 grudnia 2021 r. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+10 
+2. 
+Skład Grupy Kapitałowej 
+Na 31 marca 2022 r. Grupa Kapitałowa ENEA składała się z jednostki dominującej ENEA S.A., 18 spółek zależnych, 
+9 spółek pośrednio zależnych, 2 spółek współkontrolowanych oraz spółki stowarzyszonej. 
+Głównym przedmiotem działalności ENEA S.A. jest obrót energią elektryczną. 
+ 
+ 
+Nazwa spółki 
+Przedmiot 
+działalności 
+Siedziba 
+Udział ENEA S.A.
+w całkowitej 
+liczbie głosów 
+na 
+31 marca 2022 
+Udział ENEA S.A.
+w całkowitej 
+liczbie głosów 
+na 
+31 grudnia 2021 
+SPÓŁKI ZALEŻNE 
+1. 
+ENEA Operator Sp. z o.o. 
+dystrybucja 
+Poznań 
+100% 
+100% 
+2. 
+ENEA Wytwarzanie Sp. z o.o. 
+wytwarzanie 
+Świerże Górne 
+100% 
+100% 
+3. 
+ENEA Elektrownia 
+Połaniec S.A. 
+wytwarzanie 
+Połaniec 
+100% 
+100% 
+4. 
+ENEA Oświetlenie Sp. z o.o. 
+pozostała działalność 
+Szczecin 
+100% 
+100% 
+5. 
+ENEA Trading Sp. z o.o. 
+obrót 
+Świerże Górne 
+100% 
+100% 
+6. 
+ENEA Serwis Sp. z o.o. 
+dystrybucja 
+Lipno 
+100% 
+100% 
+7. 
+ENEA Centrum Sp. z o.o. 
+pozostała działalność 
+Poznań 
+100% 
+100% 
+8. 
+ENEA Pomiary Sp. z o.o. 
+dystrybucja 
+Poznań 
+100% 
+100% 
+9. 
+ENERGO-TOUR Sp. z o.o. 
+w likwidacji 
+pozostała działalność 
+Poznań 
+100%5 
+100%5 
+10. 
+ENEA Innowacje Sp. z o.o. 
+pozostała działalność 
+Warszawa 
+100%6 
+100% 
+11. 
+Lubelski Węgiel 
+BOGDANKA S.A. 
+wydobycie 
+Bogdanka 
+65,99% 
+65,99% 
+12. 
+ENEA Ciepło Sp. z o.o. 
+wytwarzanie 
+Białystok 
+99,94% 
+99,94% 
+13. 
+ENEA Ciepło Serwis Sp. z o.o. 
+wytwarzanie 
+Białystok 
+100% 
+100% 
+14. 
+Przedsiębiorstwo Energetyki 
+Cieplnej Sp. z o.o. 
+wytwarzanie 
+Oborniki 
+99,93% 
+99,93% 
+15. 
+Miejska Energetyka Cieplna Piła 
+Sp. z o.o. 
+wytwarzanie 
+Piła 
+71,11% 
+71,11% 
+16. 
+ENEA Nowa Energia Sp. z o.o. 
+wytwarzanie 
+Radom 
+100% 
+100% 
+17. 
+ENEA ELKOGAZ Sp. z o.o. 
+wytwarzanie 
+Warszawa 
+100%8 
+- 
+18. 
+ENEA Power&Gas 
+Trading Sp. z o.o. w organizacji 
+obrót 
+Warszawa 
+100%9 
+- 
+SPÓŁKI POŚREDNIO ZALEŻNE 
+19. 
+ENEA Logistyka Sp. z o.o. 
+dystrybucja 
+Poznań 
+100%3 
+100%3 
+20. 
+ENEA Bioenergia Sp. z o.o. 
+wytwarzanie 
+Połaniec 
+100%1 
+100%1 
+21. 
+ENEA Połaniec Serwis 
+Sp. z o.o. 
+wytwarzanie 
+Połaniec 
+100%1 
+100%1 
+22. 
+EkoTRANS Bogdanka 
+Sp. z o.o. 
+wydobycie 
+Bogdanka 
+65,99%2 
+65,99%2 
+23. 
+RG Bogdanka Sp. z o.o. 
+wydobycie 
+Bogdanka 
+65,99%2 
+65,99%2 
+24. 
+MR Bogdanka Sp. z o.o. 
+wydobycie 
+Bogdanka 
+65,99%2 
+65,99%2 
+25. 
+Łęczyńska Energetyka 
+Sp. z o.o. 
+wydobycie 
+Bogdanka 
+58,53%2 
+58,53%2 
+26.
+SUN ENERGY 7 Sp. z o.o.
+wytwarzanie 
+Główczyce 
+100%4 
+100%4 
+27.
+GPK energia Sp. z o.o.
+wytwarzanie 
+Krzęcin 
+100%4 
+100%4 
+SPÓŁKI WSPÓŁKONTROLOWANE 
+28. 
+Polska Grupa Górnicza S.A. 
+- 
+Katowice 
+7,66% 
+7,66% 
+29. 
+Elektrownia Ostrołęka 
+Sp. z o.o. 
+- 
+Ostrołęka 
+50% 
+50% 
+SPÓŁKI STOWARZYSZONE 
+30. 
+Polimex – Mostostal S.A. 
+- 
+Warszawa 
+16,45%7 
+16,4% 
+1 – spółka pośrednio zależna poprzez udziały w spółce ENEA Elektrownia Połaniec S.A. 
+2 – spółka pośrednio zależna poprzez udziały w spółce Lubelski Węgiel BOGDANKA S.A. 
+3 – spółka pośrednio zależna poprzez udziały w spółce ENEA Operator Sp. z o.o. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+11 
+4 – spółka pośrednio zależna poprzez udziały w spółce ENEA Nowa Energia Sp. z o.o. 
+5 – 30 marca 2015 r. Nadzwyczajne Zgromadzenie Wspólników spółki podjęło uchwałę w sprawie rozwiązania spółki 
+po przeprowadzeniu postępowania likwidacyjnego. Uchwała weszła w życie 1 kwietnia 2015 r. 5 listopada 2015 r. został 
+złożony wniosek do KRS o wykreślenie spółki. Na dzień sporządzenia niniejszego skróconego śródrocznego 
+jednostkowego sprawozdania finansowego trwają czynności proceduralne związane z wykreśleniem podmiotu 
+z Krajowego Rejestru Sądowego. 
+6 – 28 lutego 2022 r. Nadzwyczajne Zgromadzenie Wspólników ENEA Innowacje Sp. z o.o. podjęto uchwałę w sprawie 
+podwyższenia kapitału zakładowego o kwotę 5 000 tys. zł to jest z kwoty 30 860 tys. zł do kwoty 35 860 tys. zł, poprzez 
+utworzenie 50 000 udziałów o wartości nominalnej 100,00 zł każdy. Wszystkie nowoutworzone udziały zostały objęte przez 
+ENEA S.A. i pokryte w całości wkładem pieniężnym. Podwyższenie kapitału zakładowego oczekuje na rejestrację w KRS. 
+7 – 30 marca 2022 r. ENEA S.A. złożyła żądanie wykonania realizacji opcji call oraz dokonała przelewu za obejmowane 
+187 500 akcji Polimex – Mostostal S.A. 1 kwietnia 2022 r. zarejestrowano zwiększenie kapitału zakładowego spółki 
+Polimex Mostostal S.A. o kwotę 1 500 tys. zł, tj. z kwoty 475 738 tys. zł do kwoty 477 238 tys. zł dopuszczając do obrotu 
+750 000 akcji zwykłych na okaziciela serii S o wartości nominalnej 2 zł każda. Na dzień sporządzenia niniejszego 
+skróconego śródrocznego jednostkowego sprawozdania finansowego ENEA S.A. posiada 16,48 % udziału w kapitale 
+zakładowym spółki. 
+8 – 16 marca 2022 r. ENEA S.A. zawiązała spółkę ENEA ELKOGAZ Sp. z o.o. z siedzibą w Warszawie. Kapitał zakładowy 
+spółki wynosi 19 000 tys. zł i dzieli się na 190 000 udziałów o wartości nominalnej 100,00 zł każdy. ENEA S.A. objęła 
+w spółce 100% udziałów. 
+9 – 30 marca 2022 r. ENEA S.A. zawiązała spółkę ENEA Power&Gas Trading Sp. z o.o. w organizacji z siedzibą 
+w Warszawie. Kapitał zakładowy spółki wynosi 3 200 tys. zł i dzieli się na 32 000 udziałów o wartości nominalnej 100,00 
+zł każdy. ENEA S.A. objęła w spółce 100% udziałów. 
+3. 
+Skład Zarządu i Rady Nadzorczej 
+ 
+Zarząd 
+ 
+ 
+Stan na
+Stan na
+ 
+31 marca 2022
+31 grudnia 2021
+ 
+Prezes Zarządu 
+Paweł Szczeszek
+Paweł Szczeszek
+Członek Zarządu ds. Finansowych 
+Rafał Mucha
+Rafał Mucha
+Członek Zarządu ds. Handlowych 
+Tomasz Siwak
+Tomasz Siwak
+Członek Zarządu ds. Korporacyjnych 
+Tomasz Szczegielniak
+Tomasz Szczegielniak
+Członek Zarządu ds. Operacyjnych 
+Marcin Pawlicki
+Marcin Pawlicki
+Członek Zarządu ds. Strategii i Rozwoju 
+Lech Żak
+Lech Żak
+8 kwietnia 2022 r. wpłynęła rezygnacja Pana Pawła Szczeszka z pełnienia funkcji Prezesa Zarządu ENEA S.A. z upływem 
+dnia 10 kwietnia 2022 r. 
+8 kwietnia 2022 r. Rada Nadzorcza Spółki postanowiła powierzyć wykonywanie obowiązków Prezesa Zarządu Spółki 
+Panu Rafałowi Mucha - Członkowi Zarządu ds. Finansowych, począwszy od 11 kwietnia 2022 r., do czasu powołania 
+Prezesa Zarządu, nie dłużej jednak niż na okres kadencji rozpoczętej z dniem odbycia Zwyczajnego Walnego 
+Zgromadzenia Spółki zatwierdzającego sprawozdanie finansowe za rok 2018, przy jednoczesnym wykonywaniu 
+dotychczasowych obowiązków Członka Zarządu ds. Finansowych. 
+20 kwietnia 2022 r. Rada Nadzorcza ENEA S.A. podjęła uchwałę w sprawie powołania z dniem 25 kwietnia 2022 r. Pana 
+Pawła Majewskiego na stanowisko Prezesa Zarządu ENEA S.A. na wspólną kadencję, rozpoczętą z dniem odbycia 
+Zwyczajnego Walnego Zgromadzenia Spółki zatwierdzającego sprawozdanie finansowe za 2018 r. 
+Skład Zarządu ENEA S.A. na dzień sporządzenia niniejszego skróconego śródrocznego jednostkowego sprawozdania 
+finansowego przedstawia poniższa tabela: 
+ 
+Stan na
+24 maja 2022 
+ 
+Prezes Zarządu 
+Członek Zarządu ds. Finansowych 
+Paweł Majewski
+Rafał Mucha
+Członek Zarządu ds. Handlowych 
+Tomasz Siwak
+Członek Zarządu ds. Korporacyjnych 
+Tomasz Szczegielniak
+Członek Zarządu ds. Operacyjnych 
+Marcin Pawlicki
+Członek Zarządu ds. Strategii i Rozwoju 
+Lech Żak
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+12 
+Rada Nadzorcza 
+ Stan na 
+Stan na 
+31 marca 2022 
+Powołanie 
+31 grudnia 2021 
+ 
+Przewodniczący Rady Nadzorczej 
+Rafał Włodarski
+Rafał Włodarski
+Wiceprzewodniczący Rady Nadzorczej 
+Roman Stryjski
+Roman Stryjski
+Sekretarz Rady Nadzorczej 
+Michał Jaciubek
+Michał Jaciubek
+Członek Rady Nadzorczej 
+Dorota Szymanek
+Dorota Szymanek
+Członek Rady Nadzorczej 
+Maciej Mazur
+Maciej Mazur
+Członek Rady Nadzorczej 
+Piotr Mirkowski
+Piotr Mirkowski
+Członek Rady Nadzorczej 
+Paweł Koroblowski
+Paweł Koroblowski
+Członek Rady Nadzorczej 
+Tomasz Lis
+Tomasz Lis
+Członek Rady Nadzorczej 
+Mariusz Pliszka
+Mariusz Pliszka
+Członek Rady Nadzorczej 
+Radosław Kwaśnicki
+10 marca 2022 r.
+10 marca 2022 r. Nadzwyczajne Walne Zgromadzenie Spółki podjęło uchwałę, na mocy której z tym samym dniem 
+w skład Rady Nadzorczej ENEA S.A. X kadencji powołany został Pan Radosław Kwaśnicki. 
+4. 
+Podstawa sporządzenia sprawozdania finansowego 
+Niniejsze skrócone śródroczne jednostkowe sprawozdanie finansowe zostało sporządzone zgodnie z wymogami 
+Międzynarodowego Standardu Sprawozdawczości Finansowej MSR 34 Śródroczna sprawozdawczość finansowa 
+zatwierdzonego przez Unię Europejską i zostało zaakceptowane przez Zarząd ENEA S.A. 
+Zarząd Spółki wykorzystał swoją najlepszą wiedzę co do zastosowania standardów i interpretacji, jak również metod 
+i zasad wyceny poszczególnych pozycji skróconego śródrocznego jednostkowego sprawozdania finansowego ENEA S.A. 
+zgodnie z MSSF UE na 31 marca 2022 r. Przedstawione zestawienia i objaśnienia zostały ustalone przy dołożeniu 
+należytej staranności. Niniejsze skrócone śródroczne jednostkowe sprawozdanie finansowe nie podlegało przeglądowi 
+przez biegłego rewidenta. Zasady rachunkowości stosowane były w sposób spójny we wszystkich prezentowanych 
+okresach chyba, że wskazano inaczej. 
+Skrócone śródroczne jednostkowe sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania 
+działalności gospodarczej w dającej się przewidzieć przyszłości. Nie istnieją okoliczności wskazujące na zagrożenie 
+kontynuowania działalności przez Spółkę. 
+Spółka sporządza skrócone śródroczne skonsolidowane sprawozdanie finansowe Grupy Kapitałowej ENEA zgodnie 
+z MSSF UE na dzień i za okres 3 miesięcy zakończony 31 marca 2022 r. Czytelnicy skróconego śródrocznego 
+jednostkowego sprawozdania finansowego ENEA S.A. powinni czytać je łącznie ze skróconym śródrocznym 
+skonsolidowanym sprawozdaniem finansowym Grupy Kapitałowej ENEA oraz jednostkowym rocznym sprawozdaniem 
+finansowym ENEA S.A. za rok obrotowy zakończony 31 grudnia 2021 r., w celu uzyskania pełnej informacji na temat 
+sytuacji finansowej oraz wyniku finansowego Grupy jako całości. 
+5. 
+Zasady (polityka) rachunkowości i ważne oszacowania i założenia 
+Niniejsze skrócone śródroczne jednostkowe sprawozdanie finansowe zostało sporządzone z zastosowaniem zasad 
+rachunkowości spójnych z zasadami zastosowanymi przy sporządzeniu ostatniego rocznego jednostkowego 
+sprawozdania finansowego za rok obrotowy zakończony 31 grudnia 2021 r. 
+Sporządzenie skróconego śródrocznego jednostkowego sprawozdania finansowego zgodnie z MSR 34 wymaga od 
+Zarządu przyjęcia pewnych założeń i dokonania szacunków, które wpływają na przyjęte zasady rachunkowości oraz na 
+wielkości wykazane w skróconym śródrocznym jednostkowym sprawozdaniu finansowym oraz w notach objaśniających 
+do tego sprawozdania finansowego. Założenia i szacunki oparte są na najlepszej wiedzy Zarządu na temat bieżących 
+i przyszłych zdarzeń i działań. Rzeczywiste wyniki mogą się jednak różnić od przewidywanych. Szacunki przyjęte do 
+sporządzenia skróconego śródrocznego jednostkowego sprawozdania finansowego są spójne z szacunkami przyjętymi 
+przy sporządzaniu jednostkowego sprawozdania finansowego za ostatni rok obrotowy. Wartości szacunkowe podawane 
+w poprzednich latach obrotowych nie wywierają istotnego wpływu na bieżący okres śródroczny. 
+6. 
+Waluta funkcjonalna i waluta prezentacji 
+Pozycje zawarte w sprawozdaniu finansowym Spółki wycenia się w walucie podstawowego środowiska gospodarczego, 
+w którym Spółka prowadzi działalność (w walucie funkcjonalnej). 
+Skrócone śródroczne jednostkowe sprawozdanie finansowe prezentowane jest w złotych polskich (PLN), które stanowią 
+walutę funkcjonalną i walutę prezentacji. Pozycje sprawozdania prezentowane są w zaokrągleniu do pełnych tysięcy 
+złotych (tys. zł), o ile nie wskazano inaczej. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+13 
+Noty objaśniające do jednostkowego sprawozdania z całkowitych dochodów 
+ 
+7. 
+Przychody ze sprzedaży 
+Przychody ze sprzedaży netto 
+Okres 3 miesięcy zakończony
+ 
+31 marca 2022 
+31 marca 2021 
+Przychody ze sprzedaży energii elektrycznej 
+2 785 402
+1 772 550
+Przychody ze sprzedaży gazu 
+89 845
+39 990
+Przychody ze sprzedaży pozostałych usług 
+6 503
+749
+Przychody ze sprzedaży towarów i materiałów 
+507
+Razem przychody ze sprzedaży netto
+2 882 257
+1 813 289
+ 
+Spółka ujmuje przychody w momencie spełnienia lub w trakcie spełniania zobowiązania do wykonania świadczenia 
+poprzez przekazanie przyrzeczonego dobra lub usługi klientowi. Przychody wykazuje się na podstawie cen określonych 
+w umowach sprzedaży, po pomniejszeniu o szacowane rabaty i inne zmniejszenia sprzedaży. 
+Do głównych grup umów należą umowy sprzedaży energii elektrycznej (w tym również umowy kompleksowe) klientom 
+indywidualnym, biznesowym, kluczowym i strategicznym. W umowach tych usługa świadczona jest w sposób ciągły, 
+wysokość przychodu uzależniona jest od zużycia. 
+Standardowy termin płatności faktur sprzedażowych energii elektrycznej wynosi 14 dni od daty wystawienia faktury VAT. 
+W przypadku biznesowych, kluczowych i strategicznych klientów okres ten może podlegać negocjacji. 
+Poniżej zaprezentowano podział przychodów ze sprzedaży na kategorie, które odzwierciedlają sposób, w jaki czynniki 
+ekonomiczne wpływają na kwotę, termin płatności oraz niepewność przychodów i przepływów pieniężnych. 
+ 
+Okres 3 miesięcy zakończony
+ 
+31 marca 2022
+31 marca 2021
+Przychody świadczone w sposób ciągły 
+2 875 247
+1 812 540
+Przychody świadczone w określonym momencie 
+7 010
+749
+Razem
+2 882 257
+1 813 289
+ 
+8. 
+Opodatkowanie 
+Odroczony podatek dochodowy 
+Zmiany stanu aktywa z tytułu odroczonego podatku dochodowego (po uwzględnieniu kompensaty aktywa i rezerwy) 
+przedstawiają się w sposób następujący: 
+Okres 3 miesięcy 
+zakończony 
+Rok zakończony 
+ 
+31 marca 2022 
+31 grudnia 2021 
+ 
+ 
+Stan na początek okresu 
+ 
+106 989
+101 483
+Zmiana rozpoznana w zyskach i stratach 
+27 628 
+56 437
+Zmiana rozpoznana w innych całkowitych dochodach 
+(18 595)
+(50 931)
+Stan na koniec okresu 
+116 022
+106 989
+W okresie 3 miesięcy zakończonym 31 marca 2022 r. uznanie zysku przed opodatkowaniem Spółki w wyniku zwiększenia 
+aktywa z tytułu odroczonego podatku dochodowego wyniosło 27 628 tys. zł (w okresie 3 miesięcy zakończonym 31 marca 
+2021 r. uznanie zysku przed opodatkowaniem Spółki w wyniku zwiększenia aktywa z tytułu odroczonego podatku 
+dochodowego wyniosło 13 034 tys. zł). 
+ 
+ 
+ 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+14 
+Noty objaśniające do jednostkowego sprawozdania z sytuacji finansowej 
+ 
+9. 
+Rzeczowe aktywa trwałe 
+ 
+W okresie 3 miesięcy zakończonym 31 marca 2022 r. Spółka dokonała nabycia rzeczowych aktywów trwałych w łącznej 
+wartości netto 932 tys. zł (w okresie 3 miesięcy zakończonym 31 marca 2021 r. odpowiednio: 0 tys. zł netto). 
+W okresie 3 miesięcy zakończonym 31 marca 2022 r. Spółka dokonała sprzedaży i/lub likwidacji rzeczowych aktywów 
+trwałych w łącznej wartości netto 0 tys. zł (w okresie 3 miesięcy zakończonym 31 marca 2021 r. odpowiednio: 0 tys. zł 
+netto). 
+Na 31 marca 2022 r. nie stwierdzono przesłanek świadczących o możliwości utraty wartości rzeczowych aktywów 
+trwałych. Na rzeczowych aktywach trwałych nie ustanowiono zabezpieczeń. 
+10. Wartości niematerialne 
+W okresie 3 miesięcy zakończonym 31 marca 2022 r. Spółka nie dokonała nabycia wartości niematerialnych (w okresie 
+3 miesięcy zakończonym 31 marca 2021 r. odpowiednio: 0 tys. zł). 
+W okresie 3 miesięcy zakończonym 31 marca 2022 r. Spółka nie dokonała likwidacji wartości niematerialnych (w okresie 
+3 miesięcy zakończonym 31 marca 2021 r. odpowiednio: 0 tys. zł). 
+Na 31 marca 2022 r. nie stwierdzono przesłanek świadczących o możliwości utraty wartości. Na wartościach 
+niematerialnych nie ustanowiono zabezpieczeń. 
+11. Inwestycje w jednostki zależne, stowarzyszone i współkontrolowane 
+ 
+Zmiana stanu inwestycji w jednostki zależne, stowarzyszone i współkontrolowane 
+Okres 3 miesięcy 
+zakończony 
+Rok zakończony 
+ 
+31 marca 2022 
+31 grudnia 2021 
+ 
+ 
+Stan na początek okresu 
+9 531 789
+9 512 925
+Nabycie inwestycji 
+24 511
+36 757
+Zbycie inwestycji 
+ 
+-
+(393)
+Zmiana odpisu aktualizującego 
+ 
+31 131
+175 707
+Pozostałe zmiany 
+(31 131)
+(193 207)
+Stan na koniec okresu 
+9 556 300
+9 531 789
+ 
+Polimex – Mostostal S.A. 
+ 
+16 lutego 2022 r. 
+Spółka złożyła żądanie wykonania realizacji opcji call oraz dokonała 
+przelewu za obejmowane 187 500 akcji Polimex – Mostostal S.A. 
+- 
+ENEA Innowacje Sp. z o. o. 
+ 
+28 lutego 2022 r. 
+Uchwała w sprawie podwyższenia kapitału zakładowego o kwotę 
+5 000 tys. zł z kwoty 30 860 tys. zł do kwoty 35 860 tys. zł poprzez 
+utworzenie nowych 50 000 udziałów o wartości nominalnej 100,00 zł 
+każdy. 
+Nadzwyczajne 
+Zgromadzenie 
+Wspólników 
+ENEA ELKOGAZ Sp. z o.o. 
+ 
+16 marca 2022 r. 
+ENEA S.A. zawiązała spółkę ENEA ELKOGAZ Sp. z o.o. z siedzibą 
+w Warszawie. Kapitał zakładowy spółki wynosi 19 000 tys. zł i dzieli się 
+na 190 000 udziałów o wartości nominalnej 100,00 zł każdy. ENEA S.A. 
+objęła w spółce 100% udziałów. 
+- 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+15 
+ENEA Power&Gas Trading Sp. z o. o. w organizacji 
+30 marca 2022 r. 
+ENEA S.A. zawiązała spółkę ENEA Power&Gas Trading Sp. z o.o. 
+w organizacji z siedzibą w Warszawie. Kapitał zakładowy spółki wynosi 
+3 200 tys. zł i dzieli się na 32 000 udziałów o wartości nominalnej 100,00 
+zł każdy. ENEA S.A. objęła w spółce 100% udziałów. 
+- 
+ 
+Odpis aktualizujący wartość inwestycji 
+Okres 3 miesięcy 
+zakończony 
+Rok zakończony 
+ 
+31 marca 2022 
+31 grudnia 2021 
+ 
+ 
+Stan na początek okresu 
+4 793 772
+4 969 479
+Odwrócony 
+ 
+(31 131)
+(175 707)
+Stan na koniec okresu
+4 762 641
+4 793 772
+Realizacja projektu budowy Elektrowni Ostrołęka C 
+Według stanu na 31 marca 2022 r. ENEA S.A. posiadała 9 124 821 udziałów w Elektrownia Ostrołęka Sp. z o.o. o wartości 
+nominalnej 50 zł jeden udział i o łącznej wartości nominalnej 456 241 tys. zł. 
+Ponadto, ENEA S.A. i ENERGA S.A. są w równych częściach stronami dwóch umów pożyczek zawartych z Elektrownia 
+Ostrołęka Sp. z o.o. w kwocie do 340 000 tys. zł z 23 grudnia 2019 r. oraz do kwoty 58 000 tys. zł z 17 lipca 2019 r. 
+Na 31 marca 2022 r. odpisy aktualizujące wartość pożyczek udzielonych spółce Elektrownia Ostrołęka Sp. z o.o. wynosiły 
+łącznie 229 275 tys. zł, wraz z odsetkami (wartość pożyczek i odsetek odpisano do zera). 
+29 kwietnia 2022 r. ENEA S.A. i ENERGA S.A. zawarły ze spółką Elektrownia Ostrołęka Sp. z o.o. aneksy do wskazanych 
+wyżej umów pożyczek. Zgodnie z postanowieniami tych aneksów, tj. Aneksu nr 5 do Umowy Pożyczki w kwocie do 
+340 000 tys. zł z 23 grudnia 2019 r. oraz Aneksu nr 10 do Umowy Pożyczki do kwoty 58 000 tys. zł z 17 lipca 2019 r., 
+spółka Elektrownia Ostrołęka Sp. z o.o. zobowiązała się do dokonania na rzecz ENEA S.A. jednorazowej spłaty pożyczek 
+w kwocie odpowiednio 170 000 tys. zł oraz 29 000 tys. zł wraz z należnymi odsetkami w terminie do 30 grudnia 2022 r. 
+13 lutego 2020 r. ENEA S.A. zawarła porozumienie z ENERGA S.A. dotyczące zawieszenia przez ENERGA S.A. 
+i ENEA S.A. finansowania projektu budowy Elektrowni Ostrołęka C. W porozumieniu ENEA S.A. oraz ENERGA S.A. 
+zobowiązały się dokonać analiz, w szczególności dotyczących parametrów technicznych, technologicznych, 
+ekonomicznych i organizacyjnych oraz dalszego finasowania projektu. Wnioski z przeprowadzonych analiz nie 
+uzasadniały kontynuowania realizacji projektu w dotychczasowej formie, tj. jako projektu budowy elektrowni wytwarzającej 
+energię elektryczną w procesie spalania węgla kamiennego. Jednocześnie, analiza techniczna potwierdziła możliwość 
+realizacji wariantu budowy elektrowni wytwarzającej energię elektryczną w procesie spalania gazu ziemnego (Projekt 
+gazowy) w dotychczasowej lokalizacji budowanego bloku węglowego. 
+22 grudnia 2020 r. zostały podpisane: 
+• 
+porozumienie pomiędzy ENEA S.A., ENERGA S.A. oraz Elektrownią Ostrołęka Sp. z o.o. w sprawie współpracy 
+przy podziale Elektrownia Ostrołęka Sp. z o.o. (Porozumienie podziałowe), 
+• 
+porozumienie pomiędzy Spółką, a ENERGA S.A. w sprawie współpracy przy rozliczeniu projektu budowy bloku 
+węglowego w ramach Projektu Ostrołęka C (Porozumienie rozliczeniowe, Projekt węglowy). 
+W treści obydwu porozumień ENEA S.A. złożyła oświadczenie o rezygnacji z udziału w Projekcie gazowym. 
+25 czerwca 2021 r. doszło do zawarcia przez Elektrownia Ostrołęka Sp. z o.o. jako sprzedającym ze spółką CCGT 
+Ostrołęka Sp. z o.o. jako kupującym (podmiotem w 100% zależnym od ENERGA S.A.) umowy sprzedaży oraz umów 
+towarzyszących, przedsiębiorstwa SPV (z wyłączeniem niektórych składników) przeznaczonego (służącego) do realizacji 
+zadań gospodarczych obejmujących budowę bloku energetycznego w technologii zasilania paliwem gazowym 
+zlokalizowanego w Ostrołęce, a następnie eksploatację tego bloku (Elektrownia Gazowa). Zbywana działalność obejmuje 
+co do zasady wszystkie składniki majątkowe i niemajątkowe SPV wykorzystywane w dniu transakcji w związku 
+z podejmowaniem czynności przygotowawczych do rozpoczęcia procesu inwestycyjnego budowy Elektrowni 
+Gazowej. Transakcja ma na celu umożliwienie realizacji projektu gazowego przez CCGT Ostrołęka Sp. z o.o., jako spółki, 
+która zastąpi Elektrownia Ostrołęka Sp. z o.o. w realizacji inwestycji zlokalizowanej w Ostrołęce. Cena sprzedaży 
+zbywanej działalności (wartość transakcji) szacowana jest obecnie na ok. 166 mln zł. Cena została ustalona wstępnie, 
+jako że transakcja przewiduje zastosowanie dodatkowych przesłanek ustalenia ceny ostatecznej. 
+25 czerwca 2021 r. doszło także do zawarcia pomiędzy spółką Elektrownia Ostrołęka Sp. z o.o. i spółką CCGT Ostrołęka 
+Sp. z o.o. z jednej strony, a GE Power Sp. z o.o. z siedzibą w Warszawie, GE Steam Power Systems S.A.S. (poprzednia 
+firma: ALSTOM Power Systems S.A.S.) z siedzibą w Boulogne-Billancourt, Francja (Wykonawca Projektu Węglowego") 
+oraz General Electric Global Services, GmbH z siedzibą w Baden, Szwajcaria (razem z GE Power Sp. z o.o. Wykonawcą 
+Projektu Gazowego) z drugiej strony, Dokumentu Zmiany Kontraktu z 21 lipca 2018 r. na budowę Elektrowni Ostrołęka 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+16 
+"C" o mocy 1000 MW" oraz Porozumienia w sprawie rozliczenia realizacji Projektu Węglowego. Konstrukcja Dokumentu 
+Zmiany Kontraktu ma na celu umożliwienie realizacji Projektu Gazowego przez CCGT Ostrołęka Sp. z o.o., jako spółki, 
+która zastąpi Elektrownia Ostrołęka Sp. z o.o. w realizacji inwestycji zlokalizowanej w Ostrołęce, co jest związane między 
+innymi z tym, że ENEA S.A. potwierdziła rezygnację z udziału w Projekcie Gazowym. Porozumienie dotyczące rozliczenia 
+realizacji Projektu Węglowego reguluje prawa i obowiązki Elektrownia Ostrołęka Sp. z o.o. oraz Wykonawcy Projektu 
+Węglowego głównie w zakresie rozliczenia wykonywanych przez Wykonawcę Projektu Węglowego prac w ramach 
+realizacji tego projektu, w zakresie prac budowlanych do momentu ich wstrzymania wskutek zawieszenia wykonania 
+Kontraktu, czynności zachowawczych i zabezpieczających wykonywanych w okresie zawieszenia Kontraktu oraz prac 
+związanych z zakończeniem prac dedykowanych dla realizacji Projektu Węglowego. Zgodnie z tym porozumieniem 
+rozliczenie realizacji Projektu Węglowego miało nastąpić do końca 2021 r., a całkowita kwota jaką Elektrownia Ostrołęka 
+Sp. z o.o. będzie zobowiązana zapłacić na rzecz Wykonawcy Projektu Węglowego, uwzględniając dotychczas poniesione 
+nakłady, miała nie przekroczyć 1,35 mld zł (netto). 
+22 grudnia 2021 r. Elektrownia Ostrołęka Sp. z o.o. zawarła z Wykonawcą Projektu Węglowego aneks do tego 
+porozumienia. Aneks przedłużył termin rozliczenia do 25 marca 2022 r., co wynika ze zweryfikowanego mechanizmu 
+rozliczania Projektu Węglowego. 
+Zobowiązanie ENEA S.A. do zapewnienia finansowania spółce Elektrownia Ostrołęka Sp. z o.o. wynikające z dotychczas 
+zawartych porozumień (w szczególności z 28 grudnia 2018 r. oraz 30 kwietnia 2019 r. oraz Porozumienia 
+rozliczeniowego), które nie zostało zrealizowane, wynosi 620 mln zł. 
+31 stycznia 2022 r. Elektrownia Ostrołęka Sp. z o.o. rozwiązała umowę realizującą obowiązek mocowy zakontraktowany 
+przez spółkę w wyniku rozstrzygnięcia aukcji rynku mocy na rok 2023. Rozwiązanie umowy jest konsekwencją zmiany 
+źródła zasilania z węglowego na gazowe w projekcie budowy i eksploatacji nowej elektrowni w Ostrołęce. 
+31 marca 2022 r. Elektrownia Ostrołęka Sp. z o.o. zakończyła proces rozliczenia z Generalnym Wykonawcą zgodnie 
+z zawartym Porozumieniem z 25 czerwca 2021 r., o którym mowa powyżej. Ostateczna wartość należności wynikająca 
+z dokonanego rozliczenia wyniosła 958 mln zł netto i w związku z tym suma należna Generalnemu Wykonawcy, 
+wynikająca z różnicy między powyższą wartością a sumami już uiszczonymi została już w całości przez Elektrownia 
+Ostrołęka Sp. z o.o. zapłacona. Koszty poniesione przez ENEA S.A. w związku z rozliczeniem prac Generalnego 
+Wykonawcy wyniosły 50% ww. kwoty, czyli 479 mln zł netto (taka sama kwota przypadła na ENERGA S.A.) 
+W związku z powyższym w niniejszym skróconym śródrocznym jednostkowym sprawozdaniu finansowym dokonano 
+częściowego rozwiązania rezerwy na przyszłe zobowiązania inwestycyjne wobec spółki Elektrownia Ostrołęka Sp. z o.o., 
+utworzonej pierwotnie w kwocie 222 200 tys. zł, o kwotę 31 131 tys. zł. Kwota ta została ujęta w jednostkowym 
+sprawozdaniu z całkowitych dochodów w pozycji: Zmiana odpisu z tytułu utraty wartości udziałów w jednostkach 
+zależnych, stowarzyszonych i współkontrolowanych. Wysokość rezerwy na 31 marca 2022 r. wynosi 15 362 tys. zł. 
+i stanowi najlepszy możliwy szacunek w związku z niepewnością co do ostatecznych kwot rozliczenia. 
+12. Zapasy 
+Zapasy 
+ 
+Stan na 
+31 marca 2022 
+31 grudnia 2021 
+ 
+ 
+ 
+ Świadectwa pochodzenia energii 
+153 853
+135 083
+ Towary 
+249
+694
+ Razem 
+154 102
+135 777
+Na zapasach nie ustanowiono zabezpieczeń. 
+ 
+Świadectwa pochodzenia energii 
+ 
+Okres 3 miesięcy 
+zakończony 
+Rok zakończony 
+ 
+31 marca 2022 
+31 grudnia 2021 
+ 
+ 
+ 
+ Wartość netto na początek okresu 
+135 083
+65 489
+ Nabycie 
+110 763
+455 705
+ Umorzenie 
+(91 993)
+(386 111)
+Wartość netto na koniec okresu 
+153 853
+135 083
+Koszty związane z umorzeniem świadectw pochodzenia energii prezentowane są w pozycji: Zakup energii i gazu na 
+potrzeby sprzedaży. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+17 
+13. Aktywa i zobowiązania z tytułu umów z klientami 
+Aktywa i zobowiązania z tytułu umów z klientami 
+ 
+Aktywa z tytułu umów 
+z klientami 
+Zobowiązania z tytułu umów 
+z klientami 
+ 
+ 
+ 
+Stan na 1 stycznia 2021 
+228 905
+32 289
+Zmiana stanu należności niezafakturowanych 
+71 302
+Zmiana odpisu aktualizującego 
+(1)
+Korekty, przedpłaty 
+13 819
+Stan na 31 grudnia 2021 
+300 206
+46 108
+Zmiana stanu należności niezafakturowanych 
+78 653
+Zmiana odpisu aktualizującego 
+(21)
+Korekty, przedpłaty 
+7 483
+Stan na 31 marca 2022 
+378 838
+53 591
+Saldo aktywów z tytułu umów z klientami obejmuje przede wszystkim niezafakturowaną sprzedaż energii elektrycznej, 
+natomiast saldo zobowiązań z tytułu umów z klientami obejmuje przede wszystkim zobowiązania wynikające z korekt 
+sprzedaży związane m.in. z Ustawą o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, a także 
+przedpłaty. 
+14. Środki pieniężne i ich ekwiwalenty 
+ 
+Istotne osądy i szacunki 
+Zgodnie z przyjętymi przez ENEA S.A. zasadami oceny ryzyka kredytowego oraz zapisami MSSF 9 w zakresie oceny 
+utraty wartości środków pieniężnych i ich ekwiwalentów na 31 marca 2022 r. potencjalny wpływ został oszacowany 
+przez Spółkę jako nieistotny. 
+Prezentacja depozytów w IRGiT 
+Są to środki pieniężne stanowiące zabezpieczenie rozliczeń z Izbą Rozliczeniową Giełd Towarowych S.A., które 
+podlegają ocenie co do możliwości ich uwolnienia bez ponoszenia istotnej straty. 
+Środki pieniężne i ich ekwiwalenty 
+Stan na
+ 
+31 marca 2022 
+31 grudnia 2021 
+ Środki pieniężne w banku 
+160 819
+539 411
+ w tym split payment 
+3 131
+37 901
+ Inne środki pieniężne 
+907 225
+466 070
+ - lokaty 
+901 305
+460 397
+ - inne 
+5 920
+5 673
+ 
+Razem środki pieniężne i ich ekwiwalenty 
+1 068 044
+1 005 481
+Cash pooling 
+(1 439 189)
+(1 105 251)
+Środki pieniężne wykazane w rachunku przepływów pieniężnych 
+(371 145)
+(99 770)
+Środki pieniężne o ograniczonej możliwości dysponowania z tytułu split payment – VAT rozdzielona płatność na 
+31 marca 2022 r. wynosiły 3 131 tys. zł (na 31 grudnia 2021 r. wynosiły 37 901 tys. zł), depozyt w IRGiT na 
+31 marca 2022 r. wynosił 503 tys. zł (na 31 grudnia 2021 r. 500 tys. zł). Na środkach pieniężnych nie ustanowiono 
+zabezpieczeń. 
+15. Podział zysku 
+Decyzję w sprawie podziału zysku za rok 2021 podejmą akcjonariusze na Zwyczajnym Walnym Zgromadzeniu w 2022 r. 
+Zarząd ENEA S.A. zaproponował przeznaczyć zysk za rok obrotowy obejmujący okres od 1 stycznia 2021 r. do 31 grudnia 
+2021 r. na zwiększenie kapitału rezerwowego oraz na zmniejszenie ujemnej wartości pozostałych kapitałów. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+18 
+17 czerwca 2021 r. Zwyczajne Walne Zgromadzenie ENEA S.A. podjęło uchwałę nr 6 w sprawie pokrycia straty netto 
+za rok obrotowy obejmujący okres od 1 stycznia 2020 r. do 31 grudnia 2020 r., zgodnie z którą strata netto w kwocie 
+3 356 750 tys. zł została pokryta z zysków zatrzymanych w kwocie 2 417 070 tys. zł oraz z kapitału zapasowego w kwocie 
+939 680 tys. zł. 
+16. Zobowiązania z tytułu zadłużenia 
+Kredyty, pożyczki i dłużne papiery wartościowe 
+ 
+Stan na
+31 marca 2022
+31 grudnia 2021
+ 
+Kredyty bankowe 
+1 450 341
+1 482 757
+Obligacje 
+2 860 251
+2 938 217
+Długoterminowe
+4 310 592
+4 420 974
+Kredyty bankowe 
+213 567
+207 055
+Obligacje 
+1 993 601
+1 957 437
+Krótkoterminowe
+2 207 168
+2 164 492
+Razem 
+6 517 760
+6 585 466
+Zgodnie z przyjętym modelem finansowania ENEA S.A. w celu zapewnienia finansowania bieżącej działalności oraz 
+potrzeb inwestycyjnych spółek należących do Grupy Kapitałowej ENEA zawiera z zewnętrznymi instytucjami finansowymi 
+umowy dotyczące programów emisji obligacji i/lub umowy kredytowe. 
+Kredyty i pożyczki 
+Poniżej przedstawiono zestawienie kredytów i pożyczek w Spółce: 
+Lp. 
+Spółka 
+Podmiot 
+udzielający 
+Data zawarcia 
+umowy 
+Łączna 
+kwota 
+umowy 
+Wartość 
+zadłużenia 
+na 
+31 marca 
+2022 
+(kapitał) 
+Wartość 
+zadłużenia 
+na 
+31 grudnia 
+2021 
+(kapitał) 
+Oprocentowanie 
+Termin 
+ostatecznej 
+spłaty 
+1. 
+ENEA S.A. 
+EBI 
+18 października 
+2012 r. (A) 
+ oraz 
+19 czerwca 
+2013 r. (B) 
+1 425 000 
+880 403
+888 130
+Stała stopa 
+procentowa
+lub 
+WIBOR 6M
++marża 
+17 czerwca 
+2030 r. 
+2. 
+ENEA S.A. 
+EBI 
+29 maja 
+2015 r. (C) 
+946 000
+775 667
+800 500
+Stała stopa 
+procentowa
+lub 
+WIBOR 6M
++marża 
+15 września 
+2032 r. 
+3. 
+ENEA S.A. 
+PKO BP S.A. 
+28 stycznia 
+2014 r., 
+Aneks nr 2 
+z 4 grudnia 
+2019 r. 
+300 000
+-
+WIBOR 1M
++marża 
+31 grudnia 
+2022 r. 
+4. 
+ENEA S.A. 
+Bank 
+Pekao S.A. 
+28 stycznia 
+2014 r., 
+Aneks nr 2 
+z 4 grudnia 
+2019 r. 
+150 000
+-
+WIBOR 1M
++marża 
+31 grudnia 
+2022 r. 
+5. 
+ENEA S.A. 
+BGK 
+7 września 
+2020 r. 
+Aneks nr 1 z 
+8 marca 2022 r. 
+750 000
+-
+WIBOR 1M 
++marża 
+28 października 
+2022 r. 
+ 
+Razem 
+ 
+ 
+3 571 000
+1 656 070 
+1 688 630 
+ 
+ 
+Koszty transakcyjne oraz 
+efekt wyceny według 
+efektywnej stopy 
+procentowej 
+ 
+ 
+7 838
+1 182
+ 
+ 
+ 
+Razem 
+ 
+ 
+3 571 000
+1 663 908
+1 689 812
+ 
+ 
+ENEA S.A. posiada obecnie umowy kredytowe zawarte z Europejskim Bankiem Inwestycyjnym (EBI) na łączną kwotę 
+2 371 000 tys. zł (Umowa A 950 000 tys. zł i Umowa B 475 000 tys. zł oraz Umowa C 946 000 tys. zł). Środki pozyskane 
+z EBI zostały przeznaczone na sfinansowanie wieloletniego planu inwestycyjnego dotyczącego modernizacji i rozbudowy 
+sieci energetycznych ENEA Operator Sp. z o.o. Środki z Umowy A, B i C zostały w pełni wykorzystane. Oprocentowanie 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+19 
+kredytów jest stałe lub zmienne. W I kwartale 2022 r. ENEA S.A. nie zawierała nowych umów dotyczących kredytów 
+długoterminowych. 
+8 marca 2022 r. ENEA S.A. zawarła aneks nr 1 do umowy kredytu otwartego w rachunku bieżącym z Bankiem 
+Gospodarstwa Krajowego, zwiększający maksymalny dostępny limit kredytowy z 250 000 tys. zł do 750 000 tys. zł oraz 
+wydłużający termin ostatecznej spłaty z 7 września 2022 r. do 28 października 2022 r. 
+Programy emisji obligacji 
+Poniżej przedstawiono zestawienie obligacji wyemitowanych przez ENEA S.A.: 
+Lp. 
+Nazwa programu 
+emisji obligacji 
+Data 
+zawarcia 
+Programu 
+Kwota 
+Programu 
+Wartość 
+wyemitowanych 
+niewykupionych 
+obligacji 
+na 31 marca 2022 
+Wartość 
+wyemitowanych 
+niewykupionych 
+obligacji 
+na 31 grudnia 2021
+Oprocentowanie 
+Termin wykupu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+Umowa Programu 
+Emisji Obligacji 
+zawarta z PKO BP 
+S.A., Bankiem 
+Pekao S.A., 
+Santander BP S.A., 
+Citi BH S.A. 
+ 
+21 czerwca 
+2012 r. 
+3 000 000 
+1 799 000
+1 799 000
+WIBOR 6M 
++marża 
+Jednorazowy 
+wykup danej serii 
+w terminach od 
+czerwca 2020 r. 
+do czerwca 2022 
+r. 
+2. 
+Umowa Programu 
+Emisji Obligacji 
+zawarta z Bankiem 
+Gospodarstwa 
+Krajowego 
+15 maja 
+2014 r. 
+1 000 000
+600 000
+640 000
+WIBOR 6M 
++marża 
+Wykup w ratach, 
+ostatnia rata 
+płatna w grudniu 
+2026 r. 
+3. 
+Umowa Programu 
+Emisji Obligacji 
+zawarta z PKO BP 
+S.A., Bankiem 
+Pekao S.A. oraz 
+mBankiem S.A. 
+30 czerwca 
+2014 r. 
+5 000 000
+2 000 000 
+2 000 000 
+WIBOR 6M 
++marża 
+Jednorazowy 
+wykup danej serii 
+– we wrześniu 
+2021 r. 
+przypadało do 
+wykupu 500 mln 
+zł. Pozostałe 2 
+000 mln zł – 
+wykup w 
+czerwcu 2024 r. 
+4. 
+Umowa Programu 
+Emisji Obligacji 
+zawarta z Bankiem 
+Gospodarstwa 
+Krajowego 
+3 grudnia 
+2015 r. 
+700 000
+418 613 
+456 669 
+WIBOR 6M 
++marża 
+Wykup w ratach, 
+ostatnia rata 
+płatna we 
+wrześniu 2027 r. 
+ 
+Razem 
+ 
+9 700 000
+4 817 613
+4 895 669
+ 
+ 
+Koszty transakcyjne oraz 
+efekt wyceny według 
+efektywnej stopy 
+procentowej 
+ 
+36 239
+(15)
+ 
+ 
+ 
+Razem 
+ 
+9 700 000
+4 853 852
+4 895 654
+W okresie 3 miesięcy zakończonym 31 marca 2022 r., ENEA S.A. nie zawierała nowych umów programowych dotyczących 
+emisji obligacji. 
+Transakcje zabezpieczające ryzyko stopy procentowej oraz transakcje zabezpieczające ryzyko walutowe 
+W okresie 3 miesięcy zakończonym 31 marca 2022 r. ENEA S.A. nie zawierała nowych transakcji zabezpieczających 
+ryzyko stopy procentowej (Interest Rate Swap). Łączna wartość ekspozycji dotycząca obligacji i kredytów zabezpieczona 
+transakcjami IRS na 31 marca 2022 r. wyniosła 3 964 113 tys. zł. Ponadto ENEA S.A. posiada kredyty zaciągnięte na 
+stałej stopie procentowej o łącznym wolumenie 480 745 tys. zł. Zawarte transakcje wpływają w istotny sposób na 
+przewidywalność strumieni wydatków i kosztów finansowych. Spółka prezentuje wycenę tych instrumentów w pozycji: 
+Aktywa finansowe wyceniane w wartości godziwej. Instrumenty pochodne są traktowane, jako zabezpieczenie 
+przepływów, w związku z czym są ujmowane i rozliczane w księgach z zastosowaniem zasad dotyczących rachunkowości 
+zabezpieczeń. Na 31 marca 2022 r. aktywa finansowe wyceniane w wartości godziwej, dotyczące wyceny IRS, wyniosły 
+240 591 tys. zł (na 31 grudnia 2021 r. 135 150 tys. zł). Istotny wpływ na jej wysokość miały sześciokrotne decyzje Rady 
+Polityki Pieniężnej o podwyżce stóp procentowych w okresie od października 2021 r. do marca 2022 r. 
+W okresie 3 miesięcy zakończonym 31 marca 2022 r. Spółka nie zawierała nowych transakcji FX FORWARD. 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+20 
+Warunki finansowania – kowenanty 
+Umowy finansowania przewidują konieczność spełnienia przez ENEA S.A. i Grupę Kapitałową ENEA między innymi 
+określonych wskaźników finansowych. Na dzień sporządzenia niniejszego skróconego śródrocznego jednostkowego 
+sprawozdania finansowego ENEA S.A. nie naruszyła zapisów umów kredytowych, na podstawie których byłaby 
+zobowiązania do wcześniejszej spłaty zadłużenia długoterminowego. 
+17. Rezerwy 
+ 
+W okresie 3 miesięcy zakończonym 31 marca 2022 r. rezerwy na zobowiązania i inne obciążenia zwiększyły się netto 
+o 190 901 tys. zł (w okresie 3 miesięcy zakończonym 31 marca 2021 r. rezerwy na pozostałe zobowiązania i inne 
+obciążenia zwiększyły się netto o 106 750 tys. zł). 
+Zmiana stanu rezerw na zobowiązania i inne obciążenia za okres kończący się 31 marca 2022 r.: 
+ 
+Rezerwa na 
+bezumowne 
+korzystanie 
+z gruntów 
+Rezerwa 
+na inne 
+zgłoszone 
+roszczenia
+Rezerwa na 
+świadectwa 
+pochodzenia 
+energii 
+Rezerwa na 
+umowy 
+rodzące 
+obciążenia 
+Rezerwa na 
+rozliczenie 
+inwestycji 
+Razem 
+ 
+ 
+ 
+ 
+ 
+ 
+Stan na 1 stycznia 2022 
+2 171
+232 702
+353 840
+250 103
+46 493
+885 309
+Zwiększenie istniejących rezerw 
+13 580
+252 093
+53 563
+319 236
+Wykorzystanie rezerw 
+-
+(1 791)
+(91 993)
+(2 569)
+-
+(96 353)
+Rozwiązanie niewykorzystanej 
+rezerwy 
+-
+(851)
+-
+-
+(31 131)
+(31 982)
+Stan na 31 marca 2022
+2 171
+243 640
+513 940
+301 097
+15 362
+1 076 210
+Długoterminowe 
+-
+-
+276 522
+276 522
+Krótkoterminowe 
+2 171
+243 640
+513 940
+24 575
+15 362
+799 688
+Opis istotnych roszczeń oraz zobowiązań warunkowych został przedstawiony w nocie 24. 
+Rezerwa na inne zgłoszone roszczenia 
+W okresie 3 miesięcy zakończonym 31 marca 2022 r. ENEA S.A. utworzyła rezerwę na poziomie 7 632 tys. zł na 
+potencjalne roszczenia związane z wypowiedzeniem przez ENEA S.A. umów na zakup świadectw pochodzenia energii 
+z odnawialnych źródeł i na 31 marca 2022 r. wartość rezerwy z tego tytułu była na poziomie 163 594 tys. zł (rezerwa jest 
+ujęta w tabeli powyżej w kolumnie „Rezerwa na inne zgłoszone roszczenia”, natomiast szczegółowe informacje dotyczące 
+tej rezerwy są zawarte w nocie 24.4). 
+ 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego sprawozdania finansowego 
+ 
+21 
+Instrumenty finansowe i zarządzanie ryzykiem finansowym 
+ 
+18. Instrumenty finansowe i wartość godziwa 
+Instrumenty finansowe 
+Poniższa tabela zawiera zestawienie wartości godziwych z wartościami księgowymi: 
+ 
+ 
+ 
+ 
+ 
+Stan na 31 marca 2022 
+Stan na 31 grudnia 2021 
+ 
+Wartość księgowa 
+Wartość godziwa 
+Wartość księgowa 
+Wartość godziwa 
+ 
+ 
+ 
+ 
+ 
+AKTYWA FINANSOWE 
+ 
+ 
+ 
+ 
+Długoterminowe 
+5 575 771 
+5 504 150 
+5 555 490 
+5 570 240 
+Aktywa finansowe wyceniane w wartości godziwej 
+229 800 
+229 800 
+164 917 
+164 917 
+Dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie 
+5 345 725 
+5 274 350 
+5 390 289 
+5 405 323 
+Należności z tytułu leasingu i subleasingu finansowego 
+246 
+* 
+284 
+* 
+ 
+ 
+ 
+ 
+ 
+Krótkoterminowe 
+5 016 029 
+1 801 283 
+4 536 443 
+1 688 648 
+Aktywa finansowe wyceniane w wartości godziwej 
+70 296 
+70 296 
+28 194 
+28 194 
+Dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie 
+1 730 987 
+1 730 987 
+1 660 454 
+1 660 454 
+Aktywa z tytułu umów z klientami 
+378 838 
+* 
+300 206 
+* 
+Należności z tytułu dostaw i usług 
+1 767 147 
+* 
+1 541 385 
+* 
+Należności z tytułu leasingu i subleasingu finansowego 
+717 
+* 
+723 
+* 
+Środki pieniężne i ich ekwiwalenty 
+1 068 044 
+* 
+1 005 481 
+* 
+ 
+ 
+ 
+ 
+ 
+AKTYWA FINANSOWE RAZEM 
+10 591 800 
+7 305 433 
+10 091 933 
+7 258 888 
+ 
+ 
+ 
+ 
+ 
+ZOBOWIĄZANIA FINANSOWE 
+ 
+ 
+ 
+ 
+Długoterminowe 
+4 344 773 
+4 253 555 
+4 458 486 
+4 457 556 
+Kredyty, pożyczki i dłużne papiery wartościowe 
+4 310 592 
+4 253 555 
+4 420 974 
+4 457 556 
+Zobowiązania z tytułu leasingu 
+34 181 
+* 
+37 512 
+* 
+ 
+ 
+ 
+ 
+ 
+Krótkoterminowe 
+4 331 688 
+2 207 168 
+4 126 429 
+2 164 492 
+Kredyty, pożyczki i dłużne papiery wartościowe 
+2 207 168 
+2 207 168 
+2 164 492 
+2 164 492 
+Zobowiązania z tytułu leasingu 
+2 147 
+* 
+2 576 
+* 
+Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania 
+629 593 
+* 
+808 002 
+* 
+Zobowiązania z tytułu umów z klientami 
+53 591 
+* 
+46 108 
+* 
+Inne zobowiązania finansowe 
+1 439 189 
+* 
+1 105 251 
+* 
+ 
+ 
+ 
+ 
+ZOBOWIĄZANIA FINANSOWE RAZEM 
+8 676 461 
+6 460 723 
+8 584 915 
+6 622 048 
+ (*) Wartość księgowa jest zbliżona do ich wartości godziwej wycenianej zgodnie z poziomem 2 poniższej hierarchii. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+22 
+Wycena instrumentów finansowych mierzonych w wartości godziwej według poziomów hierarchii. 
+ 
+ 
+Stan na 31 grudnia 2021 
+ 
+Poziom 1 
+Poziom 2 
+Poziom 3 
+Razem 
+ 
+ 
+ 
+ 
+ 
+Aktywa finansowe wyceniane w wartości godziwej 
+22 880
+151 381
+18 850
+193 111
+Instrumenty kapitałowe wyceniane w wartości godziwej 
+przez inne całkowite dochody 
+-
+12 587
+12 587
+Opcje call (wyceniane w wartości godziwej przez wynik 
+finansowy) 
+16 231
+16 231
+Instrumenty pochodne wykorzystywane w rachunkowości 
+zabezpieczeń (m.in. zabezpieczające transakcje swap na 
+stopę procentową) 
+135 150
+135 150
+Akcje i udziały wyceniane w wartości godziwej przez wynik 
+finansowy 
+22 880
+6 263
+29 143
+Dłużne aktywa finansowe wyceniane 
+w zamortyzowanym koszcie 
+7 065 777
+7 065 777
+Razem 
+22 880
+7 217 158
+18 850
+7 258 888
+ 
+Kredyty, pożyczki i dłużne papiery wartościowe 
+-
+(6 622 048)
+-
+(6 622 048)
+Razem 
+-
+(6 622 048)
+-
+(6 622 048)
+Aktywa finansowe i zobowiązania finansowe wyceniane w wartości godziwej to między innymi: 
+− 
+udziały i akcje w jednostkach niepowiązanych, w których udział w kapitale jest mniejszy niż 20%; w pozycji na 
+31 marca 2022 r. prezentowane są udziały w spółce ElectroMobility Poland S.A., dla których nie istnieje cena 
+rynkowa notowana na aktywnym rynku, Spółka po analizie standardu MSSF 9, podjęła decyzję 
+o zakwalifikowaniu tych udziałów do instrumentów finansowych wycenianych przez inne całkowite dochody (ICD); 
+w przypadku, gdy udziały i akcje w jednostkach niepowiązanych notowane są na Giełdzie Papierów 
+Wartościowych, ich wartość godziwa ustalana jest w oparciu o notowania giełdowe; 
+− 
+opcje kupna akcji spółki Polimex-Mostostal S.A.; 
+− 
+instrumenty pochodne, które obejmują wycenę transakcji zabezpieczających ryzyko stóp procentowych (Interest 
+Rate Swap); wartość godziwa instrumentów pochodnych określana jest poprzez wyliczenie wartości bieżącej 
+netto w oparciu o dwie krzywe dochodowości, tj. krzywą do ustalenia czynników dyskonta oraz krzywą służącą 
+do estymacji przyszłych stawek zmiennych stóp referencyjnych; 
+Długoterminowe dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie obejmują nabyte dłużne instrumenty 
+finansowe – obligacje oraz udzielone pożyczki o terminie wymagalności powyżej jednego roku. Wartość godziwa wyliczana 
+jest dla instrumentów finansowych opartych na stałej stopie procentowej, na podstawie bieżącego WIBOR-u. 
+Krótkoterminowe dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie obejmują udzielone nabyte dłużne 
+instrumenty finansowe – obligacje oraz pożyczki o terminie wymagalności poniżej jednego roku. 
+Wartość godziwa kredytów bankowych, pożyczek i dłużnych papierów wartościowych wyliczana jest dla instrumentów 
+finansowych opartych na stałej stopie procentowej, na podstawie bieżącego WIBOR-u. 
+Powyższa tabela przedstawia analizę instrumentów finansowych mierzonych w wartości godziwej, pogrupowanych według 
+trzypoziomowej hierarchii, gdzie: 
+Poziom 1 - wartość godziwa oparta jest o ceny giełdowe (niekorygowane) oferowane za identyczne aktywa lub zobowiązania 
+na aktywnych rynkach. 
+ 
+Stan na 31 marca 2022 
+ 
+Poziom 1 
+Poziom 2 
+Poziom 3 
+Razem 
+ 
+ 
+ 
+ 
+ 
+Aktywa finansowe wyceniane w wartości godziwej 
+23 112
+258 134
+18 850
+300 096
+Instrumenty kapitałowe wyceniane w wartości godziwej 
+przez inne całkowite dochody
+-
+12 587
+12 587
+Opcje call (wyceniane w wartości godziwej przez wynik 
+finansowy) 
+17 543
+17 543
+Instrumenty pochodne wykorzystywane w rachunkowości 
+zabezpieczeń (m.in. zabezpieczające transakcje swap na 
+stopę procentową) 
+240 591
+240 591
+Akcje i udziały wyceniane w wartości godziwej przez wynik 
+finansowy 
+23 112
+6 263
+29 375
+Dłużne aktywa finansowe wyceniane 
+w zamortyzowanym koszcie 
+7 005 337
+7 005 337
+Razem 
+23 112
+7 263 471
+18 850
+7 305 433
+ 
+ 
+ 
+ 
+ 
+Kredyty, pożyczki i dłużne papiery wartościowe 
+-
+(6 460 723)
+-
+(6 460 723)
+Razem 
+-
+(6 460 723)
+-
+(6 460 723)
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+23 
+Poziom 2 - wartość godziwa ustalana jest na bazie wartości obserwowanych na rynku, jednakże niebędących bezpośrednim 
+kwotowaniem rynkowym (np. ustalane są przez odniesienie bezpośrednie lub pośrednie do podobnych instrumentów 
+istniejących na rynku). 
+Poziom 3 - wartość godziwa ustalana jest na bazie różnych technik wyceny nieopierających się jednakże o jakiekolwiek 
+obserwowalne dane rynkowe. 
+W okresie 3 miesięcy zakończonym 31 marca 2022 r. nie było żadnych przesunięć pomiędzy poziomami hierarchii. 
+Na 31 marca 2022 r. w pozycji aktywa finansowe wyceniane w wartości godziwej Spółka prezentuje między innymi opcje 
+kupna akcji spółki Polimex-Mostostal S.A. Na podstawie umowy opcji zakupu akcji Polimex-Mostostal S.A. z 18 stycznia 
+2017 r. z późniejszymi zmianami ENEA S.A. posiada 23 opcje call od Towarzystwa Finansowego Silesia Sp. z o.o. 
+(TFS) na zakup 6 937 500 akcji, po cenie nominalnej 2 zł za akcję. Umowny dzień przydziału akcji przypada na koniec 
+każdego kwartału kalendarzowego od września 2021 r. do grudnia 2026 r. 30 marca 2022 r. ENEA S.A. złożyła żądanie 
+wykonania realizacji opcji call 4 oraz dokonała przelewu za obejmowane 187 500 akcji Polimex – Mostostal S.A. 1 kwietnia 
+2022 r. zarejestrowano zwiększenie kapitału zakładowego spółki Polimex Mostostal S.A. o kwotę 1 500 tys. zł, tj. z kwoty 
+475 738 tys. zł do kwoty 477 238 tys. zł dopuszczając do obrotu 750 000 akcji zwykłych na okaziciela serii S o wartości 
+nominalnej 2 zł każda. Na dzień sporządzenia niniejszego skróconego śródrocznego jednostkowego sprawozdania 
+finansowego ENEA S.A. posiada 16,48 % udziału w kapitale zakładowym spółki Polimex – Mostostal S.A. Wycena opcji 
+call do wartości godziwej została przeprowadzona z wykorzystaniem modelu Blacka-Scholesa. Wartość księgowa opcji na 
+31 marca 2022 r. wynosiła 17 543 tys. zł (wartość księgowa opcji na 31 grudnia 2021 r. wynosiła 16 231 tys. zł). 
+19. Dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie 
+Dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie 
+Stan na
+31 marca 2022
+31 grudnia 2021
+ 
+ 
+Krótkoterminowe dłużne aktywa finansowe wyceniane w zamortyzowanym 
+koszcie 
+Obligacje wewnątrzgrupowe 
+1 687 308
+1 653 787
+Udzielone pożyczki 
+43 679
+6 667
+Krótkoterminowe dłużne aktywa finansowe wyceniane w zamortyzowanym 
+koszcie razem 
+1 730 987
+1 660 454
+ 
+Długoterminowe dłużne aktywa finansowe wyceniane w zamortyzowanym 
+koszcie 
+Obligacje wewnątrzgrupowe 
+1 450 610
+1 495 032
+Udzielone pożyczki 
+3 895 115
+3 895 257
+Długoterminowe dłużne aktywa finansowe wyceniane w zamortyzowanym 
+koszcie razem 
+5 345 725
+5 390 289
+ 
+RAZEM 
+7 076 712
+7 050 743
+Finansowanie wewnątrzgrupowe 
+Grupa Kapitałowa ENEA przyjęła model finansowania inwestycji prowadzonych przez spółki zależne od ENEA S.A. 
+poprzez finansowanie wewnątrzgrupowe. ENEA S.A. pozyskuje na rynku finansowym długoterminowe środki pieniężne 
+poprzez zaciąganie kredytów lub emisję obligacji, a następnie dystrybuuje je wewnątrz Grupy Kapitałowej ENEA 
+w oparciu o umowy programowe obligacji wewnątrzgrupowych, bądź umowy pożyczek. Ponadto ENEA S.A. udziela 
+spółkom zależnym finansowania ze środków własnych. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+24 
+Obligacje wewnątrzgrupowe 
+Poniższa tabela prezentuje aktualnie realizowane programy emisji obligacji wewnątrzgrupowych według stanu na 
+31 marca 2022 r. oraz na 31 grudnia 2021 r.: 
+Lp. 
+Spółka emitująca 
+obligacje 
+Data zawarcia 
+umowy 
+Kwota 
+udzielona 
+Kwota 
+wykorzystana 
+Obligacje 
+niewykupione 
+na 
+31 marca 2022 
+(kapitał) 
+Obligacje 
+niewykupione 
+na 
+31 grudnia 
+2021 
+(kapitał) 
+Oprocentowanie 
+Termin 
+ostatecznego 
+wykupu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+ENEA Nowa 
+Energia Sp. z o.o. 
+10 marca 
+2011 r. 
+26 000
+26 000 
+12 000
+12 000
+WIBOR 6M
++marża 
+31 marca 
+2023 r. 
+2. 
+ENEA Wytwarzanie 
+Sp. z o.o. 
+8 września 
+2012 r. umowa na 
+kwotę 
+4 000 000 tys. zł 
+zmniejszona 
+Aneksem nr 2 
+z 21 stycznia 
+2015 r. do kwoty 
+3 000 000 tys. zł 
+3 000 000
+2 650 000
+1 449 000
+1 449 000
+W zależności 
+od serii: 
+stała stopa 
+procentowa
+lub 
+WIBOR 6M
++marża 
+Uzależniony 
+od terminów 
+emisji serii 
+obligacji, 
+jednak nie 
+później niż 
+15 czerwca 
+2022 r. 
+3. 
+ENEA Operator 
+Sp. z o.o. 
+20 czerwca 
+2013 r. zmieniona 
+Aneksem nr 1 
+z 9 października 
+2014 r. oraz 
+Aneksem nr 2 
+z 7 lipca 2015 r. 
+1 425 000
+1 425 000
+880 403
+888 130
+W zależności 
+od serii: 
+stała stopa 
+procentowa
+lub 
+WIBOR 6M
++marża 
+Uzależniony 
+od terminów 
+emisji serii 
+obligacji, 
+jednak nie 
+później niż 
+17 czerwca 
+2030 r. 
+4. 
+ENEA Operator 
+Sp. z o.o. 
+7 lipca 2015 r. 
+zmieniona 
+Aneksem nr 1 
+z 28 marca 
+2017 r. 
+946 000
+946 000
+775 667
+800 500
+W zależności 
+od serii: 
+stała stopa 
+procentowa
+lub 
+WIBOR 6M
++marża 
+Uzależniony 
+od terminów 
+emisji serii 
+obligacji, 
+jednak nie 
+później niż 
+15 września 
+2032 r. 
+ 
+Razem 
+ 
+ 
+ 
+3 117 070 
+3 149 630 
+ 
+ 
+Koszty transakcyjne 
+oraz efekt wyceny 
+według efektywnej 
+stopy procentowej 
+ 
+ 
+ 
+20 848
+(812)
+ 
+ 
+Razem 
+ 
+ 
+ 
+3 137 918
+3 148 818
+ 
+ 
+W okresie 3 miesięcy zakończonym 31 marca 2022 r. ENEA S.A. nie zawierała nowych wewnątrzgrupowych umów 
+programowych emisji obligacji dotyczących finansowania spółek GK ENEA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+25 
+Pożyczki 
+Poniższa tabela prezentuje pożyczki udzielone przez ENEA S.A. według stanu na 31 marca 2022 r. oraz na 31 grudnia 
+2021 r.: 
+Lp. 
+Pożyczkobiorca 
+Data zawarcia 
+umowy 
+Łączna kwota 
+umowy 
+Wartość 
+zadłużenia na 
+31 marca 
+2022 
+Wartość 
+zadłużenia na 
+31 grudnia 
+2021 
+Oprocentowanie
+Termin ostatecznej 
+spłaty 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+Elektrownia 
+Ostrołęka Sp. z o.o. 
+30 września 
+2019 r. 
+29 000
+29 000
+29 000
+Stałe 
+29 kwietnia 
+2022 r. 
+2. 
+Elektrownia 
+Ostrołęka Sp. z o.o. 
+23 grudnia 
+2019 r. 
+170 000
+170 000
+170 000
+Stałe 
+29 kwietnia 
+2022 r. 
+3. 
+ENEA Wytwarzanie 
+Sp. z o.o. 
+30 stycznia 
+2020 r. 
+2 200 000
+1 782 034
+1 782 034
+WIBOR 6M 
++ marża 
+30 września 
+2024 r. 
+4. 
+ENEA Elektrownia 
+Połaniec S.A. 
+28 lutego 
+2020 r. 
+500 000
+500 000
+500 000
+WIBOR 6M 
++ marża 
+20 grudnia 
+2024 r. 
+5. 
+ENEA Operator Sp. 
+z o.o. 
+12 marca 
+2020 r. 
+950 000
+650 000
+650 000
+WIBOR 6M 
++ marża 
+20 grudnia 
+2024 r. 
+6. 
+ENEA Operator Sp. 
+z o.o. 
+22 czerwca 
+2021 r. 
+1 090 000
+950 000
+950 000
+WIBOR 6M 
++ marża 
+20 grudnia 
+2026 r. 
+7. 
+Miejska Energetyka 
+Cieplna Piła Sp. z 
+o.o. 
+24 czerwca 
+2021 r. 
+15 000
+15 000
+15 000
+WIBOR 6M 
++ marża 
+20 grudnia 
+2031 r. 
+ 
+ 
+4 096 034
+4 096 034
+Koszty transakcyjne 
+oraz efekt wyceny 
+według efektywnej 
+stopy procentowej oraz 
+odpisy aktualizujące 
+wartość pożyczek 
+72 035
+31 500
+Odpisy aktualizujące 
+wartość pożyczek 
+(229 275)
+(225 610)
+ 
+Razem 
+ 
+3 938 794
+3 901 924
+W okresie 3 miesięcy zakończonym 31 marca 2022 r. ENEA S.A. nie zawierała nowych umów pożyczek. 
+29 kwietnia 2022 r. ENEA S.A. i ENERGA S.A. zawarły ze spółką Elektrownia Ostrołęka Sp. z o.o. Aneks nr 5 do umowy 
+pożyczki w kwocie do 340 000 tys. zł z 23 grudnia 2019 r. oraz Aneks nr 10 do umowy pożyczki w kwocie 
+do 58 000 tys. zł z 17 lipca 2019 r. Zgodnie z postanowieniami wyżej wymienionych aneksów termin jednorazowej spłaty 
+przez spółkę Elektrownia Ostrołęka Sp. z o.o. pożyczek wraz z należnymi odsetkami został prolongowany 
+do 30 grudnia 2022 r. 
+Odpisy aktualizujące aktywa finansowe wyceniane w zamortyzowanym koszcie (dotyczące udzielonych pożyczek wraz 
+z odsetkami) wynoszą na 31 marca 2022 r. 229 275 tys. zł. Łączny odpis aktualizujący wartość udzielonych pożyczek 
+rozpoznany w okresie 3 miesięcy zakończonym 31 marca 2022 r. wyniósł 3 665 tys. zł i kwota ta została ujęta 
+w jednostkowym sprawozdaniu z całkowitych dochodów w pozycji: Odpisy aktualizujące aktywa finansowe wyceniane 
+w zamortyzowanym koszcie. 
+20. Odpisy aktualizujące wartość należności z tyt. dostaw i usług oraz pozostałych należności 
+Odpisy aktualizujące wartość należności z tytułu dostaw i usług oraz pozostałych należności: 
+ 
+Okres 3 miesięcy 
+zakończony 
+Rok zakończony 
+ 
+31 marca 2022 
+31 grudnia 2021 
+ 
+Odpis aktualizujący wartość należności na początek okresu 
+65 025
+59 450
+Utworzony 
+3 223
+13 307
+Wykorzystany 
+(2 957)
+(7 732)
+Odpis aktualizujący wartość należności na koniec okresu 
+65 291
+65 025
+W okresie 3 miesięcy zakończonym 31 marca 2022 r. odpis aktualizujący wartość bilansową należności z tytułu dostaw 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+26 
+i usług oraz pozostałych należności zwiększył się o 266 tys. zł (w okresie 3 miesięcy zakończonym 31 marca 2021 r. odpis 
+aktualizujący zwiększył się o 1 582 tys. zł). Odpisy są tworzone głównie od należności handlowych. Odpisy od pozostałych 
+należności są nieistotne. 
+Dla krótkoterminowych należności handlowych kalkulacja oczekiwanych strat kredytowych odbywa się w oparciu o dane 
+historyczne w sposób opisany w Zasadach tworzenia i ewidencji odpisów aktualizujących wartość należności z tytułu 
+dostaw i usług oraz innych pozycji finansowych w Spółkach Grupy ENEA. Dla roku 2022 utratę wartości należności 
+ustala się w oparciu o wskaźniki, których podstawą wyliczeń są dane pochodzące z roku 2021. Oszacowana na 
+31 marca 2022 r. wysokość odpisu aktualizującego dla należności uwzględnia obiektywne przesłanki utraty wartości. 
+21. Analiza struktury wiekowej aktywów z tytułu umów z klientami oraz należności z tytułu dostaw i usług 
+Struktura wiekowa aktywów z tytułu umów z klientami i należności z tytułu dostaw i usług: 
+Stan na 31 marca 2022 
+Wartość nominalna 
+Odpis aktualizujący 
+Wartość księgowa 
+ 
+Należności z tytułu dostaw 
+i usług oraz pozostałe należności 
+Bieżące 
+1 654 942
+(288)
+1 654 654
+Przeterminowane 
+175 662
+(63 170)
+112 492
+ 0-30 dni 
+67 779
+(103)
+67 676
+ 31-90 dni 
+15 269
+(1 219)
+14 050
+ 91-180 dni 
+7 203
+(1 810)
+5 393
+ ponad 180 dni 
+85 411
+(60 038)
+25 373
+Razem 
+1 830 604
+(63 458)
+1 767 146
+Aktywa z tytułu umów z klientami 
+378 952
+(114)
+378 838
+ 
+ 
+Stan na 31 grudnia 2021 
+Wartość nominalna 
+Odpis aktualizujący 
+Wartość księgowa 
+ 
+Należności z tytułu dostaw 
+i usług oraz pozostałe należności 
+Bieżące 
+1 437 846 
+(273)
+1 437 573
+Przeterminowane 
+166 672
+(62 859)
+103 813
+ 0-30 dni 
+62 282
+(98)
+62 184
+ 31-90 dni 
+12 553
+(886)
+11 667
+ 91-180 dni 
+4 955
+(1 238)
+3 717
+ ponad 180 dni 
+86 882
+(60 637)
+26 245
+Razem 
+1 604 518
+(63 132)
+1 541 386
+Aktywa z tytułu umów z klientami 
+300 299
+(93)
+300 206
+ 
+22. Inne zobowiązania finansowe 
+Zarządzanie środkami pieniężnymi w Grupie Kapitałowej ENEA dokonywane jest z poziomu ENEA S.A., co umożliwia 
+efektywne zarządzanie nadwyżkami środków pieniężnych jak również pozwala na ograniczenie kosztów finansowania 
+zewnętrznego. Systemem zarządzania środkami pieniężnymi w grupie rachunków (Usługa Cash Poolingu) objęte są 
+wybrane spółki z Grupy Kapitałowej ENEA. 
+W ramach przedmiotowej usługi, salda rachunków bankowych u uczestników usługi, na koniec każdego dnia są zerowane, 
+a następnie nadwyżka środków przekazywana jest na rachunek zarządzającego, którym jest ENEA S.A. Kolejnego dnia 
+salda środków są odwracane i powracają na rachunki uczestników. 
+Na 31 marca 2022 r. saldo zobowiązań w ramach cash poolingu wynosiło 1 439 189 tys. zł (na 31 grudnia 2021 r. 
+1 105 251 tys. zł) i prezentowane jest w pozycji: Inne zobowiązania finansowe. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+27 
+Pozostałe noty objaśniające 
+ 
+23. Transakcje z jednostkami powiązanymi 
+ 
+Spółka zawiera transakcje z następującymi podmiotami powiązanymi: 
+− 
+transakcje ze spółkami wchodzącymi w skład Grupy Kapitałowej ENEA, 
+− 
+transakcje zawarte pomiędzy Spółką a Członkami Władz ENEA S.A., które podzielić należy na dwie kategorie: 
+− wynikające z powołania na Członków Rad Nadzorczych, 
+− wynikające z innych umów o charakterze cywilno-prawnym, 
+− 
+transakcje z podmiotami powiązanymi ze Skarbem Państwa Rzeczypospolitej Polskiej. 
+Spółki wchodzące w skład Grupy Kapitałowej ENEA 
+ 
+ 
+Okres 3 miesięcy zakończony 
+ 
+31 marca 2022 
+31 marca 2021 
+ 
+ 
+ 
+Wartość zakupu, w tym: 
+3 209 750 
+2 201 017 
+ zakupy materiałów 
+107 
+135 
+ zakupy usług 
+592 840 
+563 845 
+ pozostałe (w tym energia i gaz) 
+2 616 803 
+1 637 037 
+ 
+ 
+ 
+Wartość sprzedaży, w tym: 
+153 003 
+88 706 
+ sprzedaż energii 
+132 651 
+81 540 
+ sprzedaż usług 
+5 968 
+248 
+ pozostała 
+14 384 
+6 918 
+ 
+ 
+ 
+Przychody z tytułu odsetek, w tym: 
+64 198 
+35 244 
+ od obligacji 
+26 050 
+20 792 
+ od pożyczek 
+36 869 
+14 256 
+ pozostałe 
+1 279 
+196 
+ 
+ 
+ 
+ 
+ 
+Stan na 
+ 
+31 marca 2022 
+31 grudnia 2021 
+ 
+ 
+ 
+Należności 
+543 578 
+426 679 
+Zobowiązania 
+723 413 
+733 296 
+Aktywa finansowe – obligacje 
+3 137 918 
+3 148 818 
+Udzielone pożyczki 
+3 938 794 
+3 901 924 
+Inne zobowiązania finansowe 
+1 439 189 
+1 105 251 
+ 
+Transakcje ze spółkami z Grupy Kapitałowej przeprowadzane są na zasadach rynkowych, a warunki nie odbiegają od 
+stosowanych w transakcjach z innymi podmiotami. 
+Transakcje z członkami Władz Spółki 
+ 
+Zarząd Spółki 
+Rada Nadzorcza Spółki 
+Tytuł 
+Okres 3 miesięcy zakończony 
+Okres 3 miesięcy zakończony 
+ 
+31 marca 2022 
+31 marca 2021 
+31 marca 2022 
+31 marca 2021 
+ 
+Wynagrodzenia z tytułu kontraktów 
+menadżerskich 
+1 020
+937*
+-
+Wynagrodzenia z tytułu powołania do 
+organów zarządzających lub nadzorujących 
+-
+186
+201
+RAZEM 
+1 020
+937
+186
+201
+* Wynagrodzenie obejmuje zakaz konkurencji dla byłych Członków Zarządu w wysokości 82 tys. zł. 
+W okresie 3 miesięcy zakończonym 31 marca 2022 r. z ZFŚS nie udzielono Członkom Rady Nadzorczej pożyczek 
+(0 tys. zł za okres 3 miesięcy zakończony 31 marca 2021 r.). 
+Inne transakcje, wynikające z umów cywilno-prawnych zawartych pomiędzy ENEA S.A. a Członkami Władz Spółki dotyczą 
+przede wszystkim wykorzystania przez Członków Zarządu ENEA S.A. samochodów służbowych dla celów prywatnych. 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+28 
+ 
+Transakcje z podmiotami powiązanymi ze Skarbem Państwa Rzeczypospolitej Polskiej 
+ENEA S.A. zawiera również transakcje handlowe z jednostkami administracji państwowej i samorządowej oraz 
+podmiotami będącymi własnością Skarbu Państwa Rzeczypospolitej Polskiej. 
+Przedmiotem tych transakcji są głównie: 
+− 
+zakupy energii elektrycznej oraz praw majątkowych wynikających ze świadectw pochodzenia energii w zakresie 
+energii odnawialnej oraz energii produkowanej w kogeneracji z ciepłem, które Spółka realizuje od podmiotów 
+zależnych od Skarbu Państwa, 
+− 
+sprzedaż energii elektrycznej, usługi dystrybucyjnej i pozostałych powiązanych z tym opłat, którą Spółka 
+realizuje zarówno dla organów administracji państwowej, samorządowej (sprzedaż odbiorcom końcowym) 
+jak i spółek zależnych od Skarbu Państwa (sprzedaż hurtowa oraz detaliczna – odbiorcom końcowym). 
+Transakcje te przeprowadzane są na zasadach rynkowych, a warunki nie odbiegają od stosowanych w transakcjach 
+z innymi podmiotami. Spółka nie prowadzi ewidencji umożliwiającej agregowanie wartości wszystkich transakcji 
+realizowanych ze wszystkimi instytucjami państwowymi oraz podmiotami zależnymi od Skarbu Państwa. 
+Dodatkowo Spółka zidentyfikowała transakcje z jednostkami powiązanymi ze Skarbem Państwa o charakterze 
+finansowym, tj. z bankami, które są gwarantami w programach emisji obligacji. Wśród tych podmiotów znajdują się: 
+PKO BP S.A., Pekao S.A. oraz Bank Gospodarstwa Krajowego. Szczegółowe informacje dotyczące programów emisji 
+obligacji zostały zaprezentowane w nocie 16. 
+24. Zobowiązania warunkowe, postepowania sądowe oraz sprawy toczące się przed organem administracji 
+publicznej 
+W tej części not objaśniających zaprezentowano zobowiązania warunkowe oraz postępowania toczące się przed sądem, 
+organem właściwym dla postępowania arbitrażowego lub organem administracji publicznej. 
+24.1. Poręczenia i gwarancje 
+11 marca 2022 r. ENEA S.A. jako Poręczyciel zawarła umowę poręczenia z PKO BP S.A. Przedmiotem umowy jest 
+poręczenie za przyszłe zobowiązania spółki zależnej ENEA Trading Sp. z o.o. do maksymalnej kwoty 2 400 000 tys. zł 
+z tytułu transakcji dotyczących handlu uprawnieniami do emisji CO2. 
+W tabeli poniżej przedstawiono obowiązujące na 31 marca 2022 r. istotne gwarancje bankowe w ramach umów zawartych 
+przez ENEA S.A. z Bankiem PKO BP S.A. oraz z Bankiem PEKAO S.A. do wysokości limitu określonego w umowie. 
+Zestawienie udzielonych gwarancji wg stanu na 31 marca 2022 r. 
+Data 
+udzielenia 
+gwarancji 
+Data 
+obowiązywania 
+gwarancji 
+Podmiot zobowiązany 
+Podmiot na rzecz 
+którego udzielono 
+gwarancji 
+Bank - 
+wystawca 
+Kwota 
+udzielonej 
+gwarancji 
+w tys. zł 
+ 
+ 
+ 
+ 
+ 
+ 
+30.12.2020 
+31.12.2022 
+ENEA Elektrownia Połaniec 
+Izba Rozliczeniowa Giełd 
+Towarowych S.A. 
+PEKAO S.A. 
+260 000 
+12.08.2018 
+31.12.2022 
+ENEA Elektrownia Połaniec 
+Polskie Sieci 
+Elektroenergetyczne 
+PKO BP S.A. 
+60 000 
+17.02.2022 
+16.06.2022 
+ENEA Elektrownia Połaniec 
+Arkan Impex General 
+Trading LLC 
+PKO BP S.A. 
+10 032 
+01.07.2020 
+30.06.2022 
+ENEA S.A. 
+Szpital Kliniczny im. H. 
+Święcickiego w Poznaniu 
+PKO BP S.A. 
+1 281 
+04.08.2021 
+15.07.2023 
+ENEA S.A. 
+Vastint Poland Sp. z o.o. 
+PKO BP S.A. 
+1 045 
+Suma udzielonych gwarancji bankowych
+332 358 
+Wartość pozostałych gwarancji udzielonych przez Spółkę na 31 marca 2022 r. wynosi 10 809 tys. zł. Łączna wartość 
+poręczeń i gwarancji udzielonych przez ENEA S.A. na zabezpieczenie zobowiązań spółek Grupy Kapitałowej ENEA na 
+31 marca 2022 r. wynosiła 3 790 192 tys. zł. 
+ 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+29 
+24.2. Postępowania toczące się przed sądami powszechnymi 
+Postępowania z powództwa Spółki 
+Postępowania wszczynane przed sądami powszechnymi z powództwa ENEA S.A. dotyczą dochodzenia należności 
+z tytułu dostarczania energii elektrycznej oraz dochodzenia należności z innych tytułów – nielegalnego poboru energii 
+elektrycznej, przyłączeń do sieci i innych usług specjalistycznych. 
+Na 31 marca 2022 r. przed sądami powszechnymi toczyło się łącznie 18 855 spraw z powództwa Spółki na łączną 
+kwotę 61 674 tys. zł (na 31 grudnia 2021 r. toczyło się 17 739 spraw o łącznej wartości 59 631 tys. zł). 
+Wynik żadnej ze spraw nie jest istotny dla wyniku finansowego Spółki. 
+Postępowania przeciwko Spółce 
+Postępowania przeciwko Spółce wszczynane są zarówno z powództwa osób fizycznych, jak i prawnych. Dotyczą one 
+m.in. kwestii takich jak: odszkodowania za przerwy w dostawach energii, odszkodowania za korzystanie przez Spółkę 
+z nieruchomości, na których znajdują się urządzenia elektroenergetyczne oraz roszczenia z tytułu rozwiązanych umów na 
+zakup praw majątkowych (nota 24.4). 
+Na 31 marca 2022 r. przed sądami powszechnymi toczyło się łącznie 93 spraw przeciwko Spółce na łączną kwotę 
+586 720 tys. zł (odpowiednio na 31 grudnia 2021 r. toczyło się 94 spraw o łącznej wartości 587 473 tys. zł). 
+Rezerwy związane z tymi sprawami sądowymi prezentowane są w nocie 17. 
+24.3. Sprawy dotyczące niezbilansowania za 2012 r. 
+30 i 31 grudnia 2014 r. ENEA S.A. wystąpiła z zawezwaniami do próby ugodowej w stosunku do: 
+ 
+Kwota zawezwania
+w tys. zł 
+ 
+ 
+PGE Polska Grupa Energetyczna S.A. 
+7 410
+PKP Energetyka S.A. 
+1 272
+TAURON Polska Energia S.A. 
+17 086
+TAURON Sprzedaż GZE Sp. z o.o. 
+1 826
+Razem 
+27 594
+Przedmiotem zawezwań były roszczenia o zapłatę za energię elektryczną niepoprawnie rozliczoną na rynku bilansującym 
+w 2012 r. Zawezwane spółki poprzez niewyrażenie zgody na wystawienie przez ENEA S.A. faktur za rok 2012 
+bezpodstawnie uzyskały z tego tytułu korzyści majątkowe. 
+W związku z brakiem ugodowego rozstrzygnięcia w powyższej sprawie, ENEA S.A. wystąpiła ze stosownymi pozwami 
+przeciwko: 
+− 
+TAURON Polska Energia S.A. – pozew z 10 grudnia 2015 r., 
+− 
+TAURON Sprzedaż GZE Sp. z o. o. – pozew z 10 grudnia 2015 r., 
+− 
+PKP Energetyka S.A. – pozew z 28 grudnia 2015 r., 
+− 
+PGE Polska Grupa Energetyczna S.A. – pozew z 29 grudnia 2015 r. 
+W sprawie ENEA S.A. przeciwko Tauron Polska Energia S.A. i inni (sygn. akt: XIII GC 600/15/AM), 23 marca 2021 r. Sąd 
+Okręgowy w Katowicach wydał wyrok oddalający powództwo w całości i zasądził koszty postępowania na rzecz 
+pozwanego oraz podmiotów przypozwanych. 20 maja 2021 r. został doręczony wyrok z pisemnym uzasadnieniem. 
+10 czerwca 2021 r. ENEA S.A. wniosła apelację do Sądu Apelacyjnego w Katowicach. W sprawie ENEA S.A. przeciwko 
+TAURON Sprzedaż GZE Sp. z o.o. (sygn. akt: X GC 546/15), Sąd Okręgowy w Gliwicach 21 grudnia 2021 r. wydał wyrok 
+oddalający powództwo w całości i zasądził koszty postępowania na rzecz pozwanego. 3 marca 2022 r. sąd doręczył wyrok 
+z pisemnym uzasadnieniem. 17 marca 2022 r. ENEA S.A. wniosła apelację do Sądu Apelacyjnego w Katowicach. 
+W sprawie przeciwko PGE Polska Grupa Energetyczna S.A. (sygn. akt XVI GC 525/20, poprzednia sygnatura XX GC 
+1163/15) - postanowieniem z 7 stycznia 2021 r. sąd zawiesił postępowanie na zgodny wniosek stron. Postanowieniem 
+z 19 listopada 2021 r. sąd podjął uprzednio zawieszone postępowanie. Postanowieniem z 1 marca 2022 r. sąd zawiesił 
+postępowanie na zgodny wniosek stron. 
+Z tytułu powyższych spraw w jednostkowym sprawozdaniu z sytuacji finansowej nie zostały rozpoznane żadne kwoty. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+30 
+24.4. Spór dotyczący cen na świadectwa pochodzenia energii OZE oraz wypowiedziane umowy na 
+zakup praw majątkowych wynikających ze świadectw pochodzenia energii z odnawialnych źródeł 
+ENEA S.A. jest stroną 8 postępowań sądowych dotyczących umów na zakup praw majątkowych wynikających ze 
+świadectw pochodzenia energii z odnawialnych źródeł, na które składają się: 
+• 
+6 postępowań o zapłatę, w których przeciwko ENEA S.A. dochodzone są roszczenia tytułem wynagrodzenia, 
+kar umownych bądź odszkodowania, przy czym w jednym postępowaniu doszło do wstępnego rozstrzygnięcia 
+co do roszczeń oraz do uznania bezskuteczności wypowiedzenia umowy; 
+• 
+1 postępowanie o ustalenie bezskuteczności wypowiedzenia przez ENEA S.A umów sprzedaży praw 
+majątkowych dokonanego 28 października 2016 r.; 
+• 
+1 postępowanie o zapłatę, w którym ENEA S.A. dochodzi roszczenia tytułem kary umownej. 
+ENEA S.A. dokonała potrącenia płatności części wierzytelności przysługujących kontrahentom wobec ENEA S.A. z tytułu 
+zapłaty ceny za sprzedane prawa majątkowe z wierzytelnością odszkodowawczą ENEA S.A. wobec wytwórców OZE. 
+Szkoda wyrządzona ENEA S.A. powstała wskutek niewykonania przez kontrahentów obowiązku kontraktowego 
+przystąpienia w dobrej wierze do renegocjacji kontraktów długoterminowych na sprzedaż praw majątkowych zgodnie 
+z obowiązującą strony klauzulą adaptacyjną. 
+28 października 2016 r. ENEA S.A. złożyła oświadczenia, w zależności od umowy, o wypowiedzeniu albo o odstąpieniu 
+od długoterminowych umów na zakup przez Spółkę praw majątkowych wynikających ze świadectw pochodzenia energii 
+z odnawialnych źródeł (tzw. zielonych certyfikatów) (Umowy). 
+Umowy zostały zawarte w latach 2006-2014 z niżej wymienionymi kontrahentami, do których należą instalacje wytwórcze 
+energii elektrycznej z odnawialnych źródeł (Kontrahenci): 
+• 
+Farma Wiatrowa Krzęcin Sp. z o.o. z siedzibą w Warszawie; 
+• 
+Megawind Polska Sp. z o.o. z siedzibą w Szczecinie; 
+• 
+PGE Górnictwo i Energetyka Konwencjonalna S.A. z siedzibą w Bełchatowie (obecnie PGE Energia Ciepła S.A.); 
+• 
+PGE Energia Odnawialna S.A. z siedzibą w Warszawie; 
+• 
+PGE Energia Natury PEW Sp. z o.o. z siedzibą w Warszawie (obecnie PGE Energia Odnawialna S.A. z siedzibą 
+w Warszawie); 
+• 
+"PSW" Sp. z o.o. z siedzibą w Warszawie; 
+• 
+in.ventus Sp. z o.o. EW Śniatowo Sp. k. z siedzibą w Poznaniu (obecnie TEC1 Sp. z o.o. EW Śniatowo Sp. k. 
+z siedzibą w Katowicach); 
+• 
+Golice Wind Farm Sp. z o.o. z siedzibą w Warszawie. 
+Umowy uległy rozwiązaniu co do zasady do końca listopada 2016 r. Dokładna data rozwiązania poszczególnych Umów 
+wynikała z zapisów kontraktowych. 
+Przyczyną wypowiedzenia/odstąpienia od poszczególnych Umów przez Spółkę był brak przystąpienia do renegocjacji 
+w drodze klauzul adaptacyjnych poszczególnych umów, które uzasadniały dostosowanie umów celem przywrócenia 
+równowagi kontraktowej oraz ekwiwalentności świadczeń stron, powstałych na skutek zmian w prawie. 
+Zmiany prawa, do których doszło po dniu zawarcia wymienionych Umów, tj. w szczególności: 
+• 
+rozporządzenie Ministra Gospodarki z 18 października 2012 r. w sprawie szczegółowego zakresu obowiązków 
+uzyskania i przedstawienia do umorzenia świadectw pochodzenia, uiszczenia opłaty zastępczej, zakupu energii 
+elektrycznej i ciepła wytworzonych w odnawialnych źródłach energii oraz obowiązku potwierdzania danych 
+dotyczących ilości energii elektrycznej wytworzonej w odnawialnym źródle energii (Dz. U. z 2012 r., poz. 1229); 
+• 
+ustawa z 20 lutego 2015 r. o odnawialnych źródłach energii (Dz.U. z 2015 r. poz. 478) i związane z tą ustawą 
+kolejne zmiany prawa oraz ogłoszone projekty zmian prawa, tj. w szczególności: 
+− 
+ustawa z 22 czerwca 2016 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych 
+ustaw (Dz.U. z 2016 r. poz. 925); oraz 
+− 
+projekt rozporządzenia Ministra Energii w sprawie zmiany wielkości udziału ilościowego sumy energii 
+elektrycznej wynikającej z umorzonych świadectw pochodzenia potwierdzających wytworzenie energii 
+elektrycznej z odnawialnych źródeł energii, które ma zostać wydane na podstawie upoważnienia 
+wynikającego z art. 12 ust. 5 ustawy z 22 czerwca 2016 r. o zmianie ustawy o odnawialnych źródłach 
+energii oraz niektórych innych ustaw; 
+spowodowały obiektywny brak możliwości sporządzenia wiarygodnych modeli prognozujących kształtowanie się cen 
+zielonych certyfikatów. 
+Celem rozwiązania Umów jest uniknięcie przez Spółkę straty stanowiącej różnicę między cenami umownymi a ceną 
+rynkową zielonych certyfikatów. Ze względu na zmieniające się warunki prawne po rozwiązaniu Umów w roku 2017, 
+w szczególności wynikające z ustawy z 20 lipca 2017 r. o zmianie ustawy o odnawialnych źródłach energii, szacowana 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+31 
+wartość przyszłych zobowiązań umownych uległaby zmianie. W obecnym stanie prawnym byłaby znacząco niższa 
+w porównaniu do kwoty ok. 1 187 mln zł szacowanej na moment wypowiedzenia Umów. Spadek odzwierciedla zmianę 
+sposobu wyznaczania opłaty zastępczej, która zgodnie z treścią części Umów stanowi podstawę do wyliczania ceny 
+kontraktowej i powiązanie jej z ceną rynkową. Spółka utworzyła rezerwę w kwocie 163 594 tys. zł na potencjalne 
+roszczenia wynikające z wypowiedzianych Umów, w odniesieniu do przedstawionych do 31 marca 2022 r. zgłoszeń 
+transakcyjnych sprzedaży praw majątkowych przez kontrahentów. Rezerwa jest prezentowana w nocie 17. 
+W sprawie z powództwa Golice Wind Farm Sp. z o.o. przeciwko ENEA S.A., Sąd wydał 14 sierpnia 2020 r. wyrok 
+częściowy i wstępny, w którym: 
+1) 
+oddalił powództwo o ustalenie bezskuteczności wypowiedzenia przez ENEA S.A. umowy sprzedaży praw 
+majątkowych dokonanego 28 października 2016 r.; 
+2) 
+uznał roszczenie o zapłatę wynagrodzenia za prawa majątkowe i zasądził od ENEA S.A. kwotę 6 042 tys. zł 
+wraz z odsetkami; 
+3) 
+w pozostałym zakresie uznał roszczenie o zapłatę za usprawiedliwione co do zasady. 
+Wyrok nie jest prawomocny. ENEA S.A. wniosła apelację od części wyroku, tj. w zakresie pkt. 2 i 3. Ponadto spółka Golice 
+Wind Farm Sp. z o.o. 13 stycznia 2021 r. wniosła apelację od części wyroku, tj. w zakresie rozstrzygnięcia pkt 1 
+oddalającego powództwo o ustalenie. Rozprawa apelacyjna odbyła się 21 stycznia 2022 r., ogłoszenie wyroku zostało 
+odroczone na 21 lutego 2022 r. 21 lutego 2022 r. Sąd Apelacyjny w Poznaniu wydał wyrok, na mocy którego zmienił 
+zaskarżony wyrok i ustalił, że oświadczenie złożone przez ENEA SA w Poznaniu w piśmie z 28 października 2016 r. 
+o rozwiązaniu w całości umowy sprzedaży nie wywołało skutku prawnego i umowa ta pozostaje w mocy w całości, 
+oddalając apelację Golice Wind Farm Sp. z o.o. w pozostałym zakresie i oddalając apelację ENEA S.A., a także 
+zasądzając na rzecz Golice Wind Farm Sp. z o.o. od ENEA S.A. koszty postępowania apelacyjnego. 
+W sprawach toczących się z powództwa spółek z Grupy Kapitałowej PGE, tj.: 
+• 
+PGE Energia Odnawialna S.A. z siedzibą w Warszawie (sygn. akt IX GC 1064/17) – postanowieniem 
+z 15 czerwca 2021 r. sąd podjął uprzednio zawieszone postępowanie, natomiast postanowieniem 
+z 6 września 2021 r. Sąd Okręgowy w Poznaniu zawiesił postępowanie na zgodny wniosek stron. 
+Postanowieniem z 17 lutego 2022 r. sąd podjął uprzednio zawieszone postępowanie, które następnie mocą 
+postanowienia z 25 marca 2022 r. zostało ponownie zawieszone na zgodny wniosek stron; 
+• 
+PGE Energia Ciepła S.A. z siedzibą w Warszawie (sygn. akt IX GC 555/16) – postanowieniem z 8 grudnia 
+2021 r. sąd postanowił o podjęciu zawieszonego postępowania, natomiast 15 grudnia 2021 r. doręczono 
+Spółce rozszerzenie powództwa, wobec którego Spółka zajęła stanowisko wnosząc o jego oddalenie 
+w całości. Postanowieniem z 5 stycznia 2022 r. sąd ponownie zawiesił postępowanie na zgodny wniosek 
+stron. 
+• 
+PGE Energia Odnawialna S.A. z siedzibą w Warszawie (sygn. akt IX GC 1011/17) – postanowieniem 
+z 16 kwietnia 2021 r. sąd podjął uprzednio zawieszone postępowanie, natomiast postanowieniem 
+z 3 sierpnia 2021 r. Sąd Okręgowy w Poznaniu zawiesił postępowanie na zgodny wniosek stron. Następnie, 
+postępowanie zostało odwieszone. 7 marca 2022 r. powód złożył pismo procesowe, w którym podtrzymał 
+dotychczasowe stanowisko oraz wniósł o zawieszenie postępowania przychylając się do ewentualnego 
+wniosku Spółki w tym zakresie. 
+W sprawie z powództwa ENEA S.A. przeciwko PGE Górnictwo i Energetyka Konwencjonalna S.A. (sygn. akt X GC 608/20) 
+– postanowieniem z 26 października 2020 r. sąd zawiesił postępowanie na zgodny wniosek stron. Następnie, 
+postępowanie zostało odwieszone. Pismem z 1 marca 2022 r. powód poinformował o dokonaniu zmiany podmiotowej po 
+stronie powodowej wskazując, iż wskutek uchwały podjętej 15 kwietnia 2021 r. przez Nadzwyczajne Zgromadzenie PGE 
+Górnictwo i Energetyka Konwencjonalna S.A. oraz PGE Energia Ciepła S.A., część majątku PGE Górnictwo i Energetyka 
+Konwencjonalna stanowiąca zorganizowaną część przedsiębiorstwa, w postaci Zespołu Elektrowni Dolna Odra 
+przeniesiona została do PGE Energia Ciepła S.A. Nadto, w piśmie tym, powód wniósł o zawieszenie postępowania na 
+zgodny wniosek stron, ewentualnie o uznanie tego pisma jako przychylenie się do wniosku o zawieszenie postępowania, 
+jakie może złożyć w tym zakresie Spółka. 
+W sprawie z powództwa Hamburg Commercial Bank AG przeciwko ENEA S.A., w której Hamburg Commercial Bank AG 
+dochodzi roszczeń z umowy sprzedaży praw majątkowych nr ENEA/WINDPARK ŚNIATOWO/PMOZE/2013 z 26 lutego 
+2014 r. zawartej przez ENEA S.A. z Windpark Śniatowo Management GmbH EW Śniatowo Sp. k. (obecnie TEC1 
+Sp. z o.o. EW Śniatowo Sp. k. z siedzibą w Katowicach) powołując się na ich nabycie na podstawie umowy przelewu 
+wierzytelności, Sąd Okręgowy w Poznaniu wydał 25 lutego 2021 r. wyrok częściowy, w którym zasądził od ENEA S.A. 
+kwotę 494 tys. zł, z ustawowymi odsetkami za opóźnienie od 16 grudnia 2016 r. do dnia zapłaty. Wyrok nie jest 
+prawomocny. 2 czerwca 2021 r. ENEA S.A. wniosła apelację od całości wyroku częściowego Sądu Okręgowego 
+w Poznaniu z 25 lutego 2021 r. Postępowanie w pozostałym zakresie, tj. dotyczącym żądania objętego rozszerzeniem 
+powództwa z 17 stycznia 2019 r. i żądania objętego rozszerzeniem powództwa z 20 sierpnia 2019 r. jest prawomocnie 
+zawieszone na mocy postanowienia Sądu Okręgowego w Poznaniu z 24 października 2019 r. do czasu prawomocnego 
+zakończenia postępowania prowadzonego przez tutejszy Sąd pod sygn. akt IX GC 552/17. 30 grudnia 2021 r. Hamburg 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+32 
+Commercial Bank AG złożył w Sądzie Okręgowym w Poznaniu wniosek o zabezpieczenie powództwa. Postanowieniem 
+z 18 marca 2022 r. Sąd Okręgowy w Poznaniu oddalił wniosek o udzielenie zabezpieczenia powoda. 
+25. Podwyższenie kapitału 
+19 stycznia 2022 r. Zarząd ENEA S.A. podjął uchwałę w sprawie zainicjowania procesu podwyższenia kapitału 
+zakładowego Spółki poprzez emisję nie mniej niż 1, ale nie więcej niż 88 288 515 akcji zwykłych na okaziciela serii D 
+o wartości nominalnej 1,00 zł każda ("Akcje Serii D"), celem pozyskania środków na finansowanie projektów 
+inwestycyjnych w Obszarze Dystrybucji Grupy Kapitałowej ENEA (m.in. rozbudowa i modernizacja sieci wysokiego 
+i średniego napięcia, instalacja liczników zdalnego odczytu oraz przyłączanie do sieci nowych odbiorców), realizowanych 
+przez ENEA Operator Sp. z o.o., z wyłączeniem możliwości finansowania aktywów węglowych. Realizacja wskazanych 
+projektów wpisuje się w założenia Strategii Grupy Kapitałowej ENEA oraz ma na celu zapewnienie bezpieczeństwa 
+energetycznego oraz ciągłych i niezawodnych dostaw energii elektrycznej na obszarze działania ENEA Operator 
+Sp. z o.o. Przewidziano, że emisja będzie miała charakter subskrypcji prywatnej zgodnie z art. 431 § 2 pkt 1 Kodeksu 
+spółek handlowych, przeprowadzonej w drodze oferty publicznej zwolnionej z obowiązku opublikowania prospektu 
+w rozumieniu właściwych przepisów prawa bądź innego dokumentu informacyjnego oraz zostanie skierowana 
+do inwestorów spełniających kryteria określone w uchwale w sprawie podwyższenia kapitału zakładowego w drodze emisji 
+Akcji Serii D, z wyłączeniem w całości prawa poboru wszystkich Akcji Serii D dla dotychczasowych akcjonariuszy Spółki. 
+W związku z powyższym, 19 stycznia 2022 r. Zarząd zwołał na 10 marca 2022 r. Nadzwyczajne Walne Zgromadzenie 
+Spółki, którego porządek obrad przewidywał podjęcie uchwały w sprawie podwyższenia kapitału zakładowego poprzez 
+emisję Akcji Serii D, z wyłączeniem w całości prawa poboru. 
+21 stycznia 2022 r. ENEA S.A. złożyła wniosek do Prezesa Rady Ministrów o objęcie przez Skarb Państwa Akcji Serii D 
+za łączną kwotę nie wyższą niż 899 659 967,85 zł, w zamian za wkład pieniężny pochodzący ze środków funduszu 
+reprywatyzacji, o którym mowa w art. 56 ust. 1 ustawy z 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach 
+pracowników ("Wniosek"). Spółka wnioskowała do Skarbu Państwa o objęcie nie mniej niż 45 470 725 (to jest liczby Akcji 
+Serii D proporcjonalnej do obecnego udział Skarbu Państwa w łącznej liczbie akcji Spółki) i nie więcej niż 88 288 515 Akcji 
+Serii D (to jest maksymalnej emitowanej liczbie Akcji Serii D). Wniosek został złożony na podstawie rozporządzenia 
+Ministra Finansów z 23 grudnia 2021 r. w sprawie szczegółowego sposobu postępowania w zakresie nabywania 
+lub obejmowania przez Skarb Państwa akcji ze środków Funduszu Reprywatyzacji w latach 2021-2022. 
+Nadzwyczajne Walne Zgromadzenie ENEA S.A. ("NWZ") obradujące 10 marca 2022 r. podjęło uchwałę, na mocy której 
+ogłoszona została przerwa w obradach NWZ do 8 kwietnia 2022 r. 
+8 kwietnia 2022 r. Spółka podpisała ze Skarbem Państwa reprezentowanym przez Prezesa Rady Ministrów umowę 
+inwestycyjną ("Umowa Inwestycyjna") w związku z planowaną emisją Akcji Serii D, z wyłączeniem prawa poboru 
+dotychczasowych akcjonariuszy. Na podstawie Umowy Inwestycyjnej, Skarb Państwa wyraził wolę objęcia nie więcej niż 
+88 288 515 Akcji Serii D za środki w kwocie wynoszącej nie więcej niż 899 659 967,85 zł ("Nowe Środki") pochodzące 
+z Funduszu Reprywatyzacji o którym mowa w art. 56 oraz art. 69h ustawy z 30 sierpnia 1996 r. o komercjalizacji 
+i niektórych uprawnieniach pracowników. 
+Spółka zobowiązała się wobec Skarbu Państwa, że przeznaczy Nowe Środki w całości na realizację przez Spółkę 
+oraz jej spółkę zależną (ENEA Operator Sp. z o.o.) następujących projektów: (a) Rozbudowa i modernizacja sieci 
+w obszarze stacji wysokiego i średniego napięcia; (b) Rozbudowa i modernizacja sieci w obszarze linii wysokiego napięcia; 
+(c) Rozbudowa i modernizacja sieci w obszarze sieci średniego napięcia; (d) Liczniki zdalnego odczytu; 
+oraz (e) Przyłączanie do sieci. 
+Umowa Inwestycyjna reguluje zasady wykorzystania Nowych Środków oraz konsekwencje naruszenia tych zasad, 
+zobowiązania i zapewnienia Spółki w związku z przekazaniem Nowych Środków, obowiązki dotyczące sprawozdawczości 
+i rozliczania Nowych Środków oraz uprawnienia kontrolne Skarbu Państwa. W razie wykorzystania Nowych Środków 
+niezgodnie z Umową Inwestycyjną lub nienależytego jej wykonania, Spółka będzie zobowiązana, w zależności od rodzaju 
+naruszonego postanowienia, do zapłaty na rzecz Skarbu Państwa kwot gwarancyjnych lub zwrotu całości lub części 
+Nowych Środków. 
+8 kwietnia 2022 r. nastąpiło wznowienie obrad NWZ. NWZ podjęło uchwałę nr 5 w sprawie podwyższenia kapitału 
+zakładowego Spółki w drodze emisji akcji zwykłych na okaziciela serii D w trybie subskrypcji prywatnej, pozbawienia 
+dotychczasowych akcjonariuszy w całości prawa poboru wszystkich akcji serii D, zmiany Statutu Spółki, ubiegania się 
+o dopuszczenie i wprowadzenie akcji serii D lub/i praw do akcji serii D do obrotu na rynku regulowanym prowadzonym 
+przez Giełdę Papierów Wartościowych w Warszawie S.A. oraz dematerializacji akcji serii D lub/i praw do akcji serii D 
+(„Uchwała Emisyjna”). Zgodnie z uchwałą: 
+• 
+Kapitał zakładowy Spółki został podwyższony o kwotę nie niższą niż 1,00 zł oraz nie wyższą niż 88 288 515 zł, 
+tj. do kwoty nie niższej niż 441 442 579 zł oraz nie wyższej niż 529 731 093 zł, poprzez emisję nie mniej niż 1, 
+ale nie więcej niż 88 288 515 Akcji Serii D o wartości nominalnej 1,00 zł każda. 
+• 
+Emisja Akcji Serii D będzie miała charakter subskrypcji prywatnej (w rozumieniu art. 431 § 2 pkt 1 KSH) 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+33 
+przeprowadzonej w drodze oferty publicznej („Oferta”), która jest skierowana wyłącznie do wybranych 
+inwestorów na warunkach określonych w § 3 ust. 2 niniejszej uchwały, która będzie zwolniona z obowiązku 
+opublikowania prospektu w rozumieniu właściwych przepisów prawa bądź innego dokumentu informacyjnego 
+albo ofertowego na potrzeby Oferty zgodnie z art. 3 ust. 1 w związku z art. 1 ust. 4 lit. a) oraz lit. d) 
+Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1129 z 14 czerwca 2017 r. w sprawie prospektu, 
+który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich 
+do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE. 
+• 
+Celem emisji Akcji Serii D jest finansowanie projektów inwestycyjnych mających na celu rozwój i modernizację 
+sieci przesyłowych średniego i wysokiego napięcia oraz montaż liczników zdalnego odczytu. Wpływy z emisji 
+Akcji Serii D nie mogą zostać wykorzystane w celu finansowania aktywów węglowych grupy kapitałowej Spółki. 
+Ponadto, 8 kwietnia 2022 r. Spółka zawarła z Pekao Investment Banking Spółka Akcyjna ("Globalny Koordynator" 
+albo "Pekao IB") i Bankiem Polska Kasa Opieki Spółka Akcyjna (łącznie jako "Współprowadzący Księgę Popytu") umowy 
+plasowania akcji ("Umowa Plasowania") oraz o rozpoczęciu procesu budowania księgi popytu w drodze subskrypcji 
+prywatnej nie więcej niż 88 288 515 Akcji Serii D. 8 kwietnia 2022 r. Zarząd Spółki podjął także uchwałę w sprawie 
+ustalenia zasad oferowania, zasad przeprowadzenia procesu budowania księgi popytu oraz objęcia i przydziału Akcji Serii 
+D. W Umowie Plasowania Emitent zobowiązał się m.in., że bez zgody Globalnego Koordynatora, nie będzie emitować, 
+sprzedawać ani oferować akcji Spółki w okresie 360 dni od daty pierwszego notowania Akcji Serii D, za wyjątkiem 
+standardowych wyłączeń. 
+W dniach 8 – 13 kwietnia 2022 r. został przeprowadzony proces budowania księgi popytu na Akcje Serii D. 14 kwietnia 
+2022 r., po jego zakończeniu, Zarząd Spółki ustalił cenę emisyjną Akcji Serii D na 8,50 zł za jedną Akcję Serii D. Zarząd 
+Spółki postanowił również o zaoferowaniu wybranym przez siebie inwestorom, na zasadach wskazanych w Uchwale 
+Emisyjnej oraz na zasadach subskrypcji ustalonych na jej podstawie, łącznie 88 288 515 Akcji Serii D. 
+W dniach 19 – 27 kwietnia 2022 r. zostały zawarte umowy objęcia Akcji Serii D. Akcje Serii D objęło 67 podmiotów. 
+28 kwietnia 2022 r. w związku z zakończeniem procesu subskrypcji Akcji Serii D Zarząd Spółki podjął uchwałę w sprawie 
+przydziału 88 288 515 Akcji Serii D. Wkłady pieniężne na pokrycie Akcji Serii D zostały wniesione w całości. Cena emisyjna 
+Akcji Serii D wyniosła 8,50 zł za jedną akcję. Łączna wartość przeprowadzonej subskrypcji, rozumiana jako iloczyn liczby 
+Akcji Serii D objętych Ofertą i ich ceny emisyjnej wyniosła 750 452 377,50 zł. 
+6 maja 2022 r. Spółka otrzymała oświadczenia nr 400/2022 Krajowego Depozytu Papierów Wartościowych S.A. ("KDPW") 
+z 6 maja 2022 r. ("Oświadczenie") w sprawie zawarcia ze Spółką umowy o rejestrację w depozycie papierów 
+wartościowych 88 288 515 praw do akcji zwykłych na okaziciela serii D Spółki o wartości nominalnej 1,00 zł każda ("Prawa 
+do Akcji"). Prawa do Akcji zostały oznaczone kodem ISIN PLENEA000104. Zgodnie z Oświadczeniem rejestracja Praw 
+do Akcji nastąpić winna w terminie 3 dni po otrzymaniu przez KDPW decyzji o dopuszczeniu Praw do Akcji do obrotu 
+na rynku regulowanym. 
+6 maja 2022 r. Zarząd Giełdy Papierów Wartościowych w Warszawie S.A. ("GPW") podjął uchwałę nr 427/2022 w sprawie 
+dopuszczenia i wprowadzenia do obrotu giełdowego na rynku podstawowym GPW 88 288 515 praw do akcji zwykłych 
+na okaziciela serii D Spółki o wartości nominalnej 1,00 zł każda, z dniem rejestracji tych praw do akcji przez Krajowy 
+Depozyt Papierów Wartościowych S.A. Jednocześnie Zarząd GPW postanowił wprowadzić z dniem 10 maja 2022 r. 
+do obrotu giełdowego na rynku podstawowym ww. prawa do akcji Spółki, pod warunkiem dokonania przez KDPW 
+najpóźniej 10 maja 2022 r. rejestracji tych praw do akcji i oznaczenia ich kodem "PLENEA000104". Ponadto Zarząd GPW 
+postanowił notować prawa do akcji Spółki w systemie notowań ciągłych pod nazwą skróconą "ENEA-PDA" i oznaczeniem 
+"ENAA". 9 maja 2022 r., nastąpiła rejestracja w KDPW 88 288 515 praw do akcji zwykłych na okaziciela serii D Spółki 
+o wartości 1,00 zł każda. Pierwsze notowanie Praw Do Akcji nastąpiło, zgodnie z uchwałą zarządu GPW, 10 maja 
+2022 r. 
+26. Sytuacja polityczno – gospodarcza w Ukrainie 
+24 lutego 2022 r. doszło do ataku wojsk Federacji Rosyjskiej na Ukrainę i rozpoczęcia tym samym konfliktu zbrojnego 
+na dużą skalę. Wydarzenie to ma znaczący wpływ na sytuację społeczną, polityczną i gospodarczą, nie tylko w regionie, 
+ale także globalnie. ENEA S.A. na bieżąco analizuje wpływ sytuacji polityczno – gospodarczej w Ukrainie na sprawozdania 
+finansowe oraz bieżące i przyszłe wyniki finansowe i operacyjne Spółki, jednak obecnie nie jest możliwe dokładne 
+określenie skutków tego wpływu. 
+Na rynkach towarowych i finansowych widoczna jest podwyższona awersja do ryzyka i duża zmienność cen towarów oraz 
+instrumentów finansowych. Znacząca zmienność cen energii elektrycznej oraz uprawnień do emisji (EUA) może wpływać 
+na konieczność uzupełniania depozytów zabezpieczających na IRGIT oraz na rynkach zagranicznych (The ICE, EEX) 
+organizujących obrót kontraktami na uprawniania do emisji gazów cieplarnianych, a tym samym wzrost zapotrzebowania 
+na kapitał obrotowy. Wzrosty cen surowców wzmacniają oczekiwania na wzrost stóp procentowych (zwiększenie presji 
+inflacyjnej), co może wpłynąć na wzrost kosztów finansowania dłużnego. Wyraźne osłabienie złotego może wpłynąć na 
+wzrost kosztów operacyjnych. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 31 marca 2022 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-34 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+34 
+W związku z wprowadzeniem na terenie całego kraju stopnia alarmowego CHARLIE-CRP w Spółce wdrożone zostały 
+przedsięwzięcia opisane w rozporządzeniu Prezesa Rady Ministrów z 25 lipca 2016 r. w sprawie zakresu przedsięwzięć 
+wykonywanych w poszczególnych stopniach alarmowych i stopniach alarmowych CRP. Ograniczenia w dostępach do 
+systemów IT wskutek utrzymywania stopnia alarmowego CHARLIE-CRP mogą powodować opóźnienia w realizacji 
+projektów i wdrożeń systemów informatycznych. 
+Wzrosty cen paliwa gazowego, jak również cen energii elektrycznej mogą wpłynąć na pogorszenie wyników sprzedawców 
+energii w roku bieżącym (konieczność zakupu na potrzeby bilansowania) oraz ceny dla klientów (w zakresie klientów nie 
+posiadających zakupionej energii z zagwarantowaną ceną "sztywną"). 
+Na dzień sporządzenia niniejszego skróconego śródrocznego jednostkowego sprawozdania finansowego, rozwój sytuacji 
+wywołanej konfliktem zbrojnym w Ukrainie jest niemożliwy do przewidzenia, podobnie jak potencjalne negatywne skutki 
+dla działalności operacyjnej i finansowej Spółki z tym związane. 
+Na dzień sporządzenia niniejszego skróconego śródrocznego jednostkowego sprawozdania finansowego ENEA S.A. nie 
+identyfikuje ryzyka dotyczącego zdolności do kontynuowania działalności.

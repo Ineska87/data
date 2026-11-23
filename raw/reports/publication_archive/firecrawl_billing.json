@@ -1,0 +1,19 @@
+{
+  "initial": {
+    "remainingCredits": 7095,
+    "billingPeriodStart": "2026-10-24T13:30:07.560Z",
+    "billingPeriodEnd": "2026-11-24T13:30:07.560Z"
+  },
+  "final": {
+    "remainingCredits": 7093,
+    "billingPeriodStart": "2026-10-24T13:30:07.560Z",
+    "billingPeriodEnd": "2026-11-24T13:30:07.560Z"
+  },
+  "account_delta": 2,
+  "credited_urls": 2,
+  "formats": [
+    "markdown",
+    "html"
+  ],
+  "parsers": []
+}

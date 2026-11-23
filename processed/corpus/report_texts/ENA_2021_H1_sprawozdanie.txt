@@ -1,0 +1,3945 @@
+Grupa Kapitałowa ENEA 
+Skonsolidowane sprawozdanie finansowe sporządzone według MSSF UE za rok obrotowy kończący się 31 grudnia 2018 r. 
+(wszystkie kwoty wyrażone są w tys. złotych, o ile nie podano inaczej) 
+ 
+ 
+Skonsolidowane sprawozdanie z przepływów pieniężnych należy analizować łącznie z dodatkowymi informacjami i 
+objaśnieniami stanowiącymi integralną część 
+jednostkowego sprawozdania finansowego 
+ 
+1 
+ 
+ 
+ 
+ 
+023032+11111111111111111 
+ 
+SKRÓCONE ŚRÓDROCZNE 
+JEDNOSTKOWE 
+SPRAWOZDANIE FINANSOWE 
+ENEA S.A. 
+za okres od 1 stycznia 
+do 30 czerwca 2021 r. 
+zgodne z MSSF UE 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+2 
+ 
+SPIS TREŚCI 
+ 
+ 
+JEDNOSTKOWE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW ............................................. 4 
+JEDNOSTKOWE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ ..................................................... 5 
+JEDNOSTKOWE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM ...................................... 7 
+JEDNOSTKOWE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH ............................................ 8 
+DODATKOWE INFORMACJE I OBJAŚNIENIA ................................................................................... 9 
+Informacje ogólne .................................................................................................................................. 9 
+1. 
+Informacje ogólne dotyczące ENEA S.A. ................................................................................... 9 
+2. 
+Skład Grupy Kapitałowej .......................................................................................................... 10 
+3. 
+Skład Zarządu i Rady Nadzorczej ............................................................................................ 11 
+4. 
+Podstawa sporządzenia sprawozdania finansowego .............................................................. 11 
+5. 
+Zasady (polityka) rachunkowości i ważne oszacowania i założenia ........................................ 12 
+6. 
+Waluta funkcjonalna i waluta prezentacji ................................................................................. 12 
+Noty objaśniające do jednostkowego sprawozdania z całkowitych dochodów ......................... 13 
+7. 
+Przychody ze sprzedaży .......................................................................................................... 13 
+8. 
+Opodatkowanie ........................................................................................................................ 13 
+Noty objaśniające do jednostkowego sprawozdania z sytuacji finansowej ................................ 14 
+9. 
+Rzeczowe aktywa trwałe .......................................................................................................... 14 
+10. Wartości niematerialne ............................................................................................................. 14 
+11. Inwestycje w jednostki zależne, stowarzyszone i współkontrolowane ..................................... 14 
+12. Zapasy ...................................................................................................................................... 17 
+13. Aktywa i zobowiązania z tytułu umów z klientami .................................................................... 18 
+14. Środki pieniężne i ich ekwiwalenty ........................................................................................... 18 
+15. Pokrycie straty .......................................................................................................................... 18 
+16. Zobowiązania z tytułu zadłużenia ............................................................................................ 19 
+17. Rezerwy.................................................................................................................................... 21 
+Instrumenty finansowe i zarządzanie ryzykiem finansowym ......................................................... 22 
+18. Instrumenty finansowe i wartość godziwa ................................................................................ 22 
+19. Dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie ......................................... 24 
+20. Odpisy aktualizujące wartość należności z tyt. dostaw i usług oraz pozostałych należności .. 27 
+21. Analiza struktury wiekowej aktywów z tytułu umów z klientami oraz należności z tytułu 
+dostaw i usług ........................................................................................................................... 27 
+22. Inne zobowiązania finansowe .................................................................................................. 28 
+Pozostałe noty objaśniające .............................................................................................................. 29 
+23. Transakcje z jednostkami powiązanymi ................................................................................... 29 
+24. Zobowiązania warunkowe, postepowania sądowe oraz sprawy toczące się przed 
+organem administracji publicznej ............................................................................................. 30 
+24.1. Poręczenia i gwarancje ................................................................................................... 30 
+24.2. Postępowania toczące się przed sądami powszechnymi ............................................... 31 
+24.3. Pozostałe postępowania sądowe .................................................................................... 31 
+24.4. Sprawy dotyczące niezbilansowania za 2012 r. ............................................................. 32 
+24.5. Spór dotyczący cen na świadectwa pochodzenia energii OZE oraz wypowiedziane 
+umowy na zakup praw majątkowych wynikających ze świadectw pochodzenia 
+energii z odnawialnych źródeł ......................................................................................... 32 
+25. Udział w programie budowy elektrowni atomowej ................................................................... 34 
+26. Wpływ pandemii COVID-19...................................................................................................... 34 
+27. Zdarzenia po dacie sprawozdawczej ....................................................................................... 35 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+3 
+Niniejsze skrócone śródroczne jednostkowe sprawozdanie finansowe zostało sporządzone zgodnie z wymogami 
+Międzynarodowego Standardu Sprawozdawczości Finansowej MSR 34 Śródroczna sprawozdawczość finansowa, który 
+został zatwierdzony przez Unię Europejską i zostało zaakceptowane przez Zarząd ENEA S.A. 
+ 
+ 
+ 
+Członkowie Zarządu 
+ 
+Prezes Zarządu 
+Paweł Szczeszek 
+ 
+ 
+Członek Zarządu 
+Tomasz Siwak 
+ 
+ 
+Członek Zarządu 
+Tomasz Szczegielniak 
+ 
+ 
+Członek Zarządu 
+Marcin Pawlicki 
+ 
+ 
+Członek Zarządu 
+Rafał Mucha 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENEA Centrum Sp. z o.o. 
+Podmiot odpowiedzialny za prowadzenie ksiąg 
+rachunkowych i sporządzenie sprawozdania finansowego ..……………………..…………. 
+ENEA Centrum Sp. z o.o. ul. Górecka 1, 60-201 Poznań 
+KRS 0000477231, NIP 777-000-28-43, REGON 630770227 
+ 
+Poznań, 16 września 2021 r. 
+Signed by /
+Podpisano przez:
+Ewa Nowaczyk
+Date / Data: 202109-16 07:10
+Signed by /
+Podpisano przez:
+Tomasz
+Szczegielniak
+Date / Data:
+2021-09-16 10:09
+Signed by /
+Podpisano przez:
+Marcin Pawlicki
+Date / Data:
+2021-09-16
+10:28
+Signed by /
+Podpisano przez:
+Rafał Marek
+Mucha
+Date / Data:
+2021-09-16 10:38
+Dokument podpisany przez
+Paweł Szczeszek
+Data: 2021.09.16 11:00:06 CEST
+Signature Not Verified
+Signed by /
+Podpisano przez:
+Tomasz Jan Siwak
+Date / Data:
+2021-09-16
+11:09
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+ 
+Jednostkowe sprawozdanie z całkowitych dochodów należy analizować łącznie z dodatkowymi informacjami i objaśnieniami stanowiącymi integralną 
+część skróconego śródrocznego jednostkowego sprawozdania finansowego 
+ 
+4 
+JEDNOSTKOWE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW
+ 
+ 
+ 
+Okres
+ 
+Nota 
+6 miesięcy 
+zakończony 
+30 czerwca 2021
+(niebadane) 
+3 miesięcy 
+zakończony 
+30 czerwca 2021
+(niebadane) 
+6 miesięcy 
+zakończony 
+30 czerwca 2020 
+(niebadane) 
+3 miesięcy 
+zakończony 
+30 czerwca 2020
+(niebadane) 
+ 
+Przychody ze sprzedaży 
+ 
+3 551 947
+1 719 262
+3 084 264
+1 448 976
+Podatek akcyzowy 
+ 
+(36 655)
+(17 259)
+(33 003)
+(14 987)
+Przychody ze sprzedaży netto 
+7 
+3 515 292
+1 702 003
+3 051 261
+1 433 989
+Przychody z tytułu leasingu 
+ 
+126
+60
+153
+86
+Przychody ze sprzedaży oraz inne 
+dochody 
+ 
+3 515 418
+1 702 063
+3 051 414
+1 434 075
+Pozostałe przychody operacyjne 
+ 
+7 363
+4 027
+6 222
+2 657
+Zmiana rezerwy dotyczącej umów 
+rodzących obciążenia 
+17 
+(3 736)
+(2 656)
+39 305
+14 958
+Amortyzacja 
+ 
+(3 418)
+(1 666)
+(2 462)
+(1 267)
+Koszty świadczeń pracowniczych 
+ 
+(40 215)
+(17 451)
+(40 343)
+(20 367)
+Zużycie materiałów i surowców oraz 
+wartość sprzedanych towarów 
+ 
+(1 122)
+(488)
+(1 329)
+(743)
+Zakup energii i gazu na potrzeby 
+sprzedaży 
+ 
+(3 272 627)
+(1 590 714)
+(2 957 180)
+(1 398 240)
+Usługi przesyłowe i dystrybucyjne 
+ 
+(19 397)
+(10 046)
+(4 428)
+(2 962)
+Inne usługi obce 
+ 
+(118 256)
+(58 069)
+(115 332)
+(60 758)
+Podatki i opłaty 
+ 
+(3 371)
+(407)
+(3 351)
+(393)
+Zysk 
+na 
+sprzedaży 
+i 
+likwidacji 
+rzeczowych 
+aktywów 
+trwałych 
+oraz 
+prawa do korzystania ze składnika 
+aktywów 
+ 
+-
+106
+106
+Pozostałe koszty operacyjne 
+ 
+(32 200)
+(14 248)
+(39 027)
+(17 609)
+Zysk/(strata) operacyjny 
+ 
+28 439
+10 345
+(66 405)
+(50 543)
+Koszty finansowe 
+ 
+(92 551)
+(44 492)
+(143 118)
+(59 069)
+Przychody finansowe 
+ 
+92 271
+35 254
+125 556
+60 763
+Przychody z tytułu dywidend 
+ 
+305 136
+305 136
+350 036
+350 036
+Zmiana odpisu z tytułu utraty wartości 
+udziałów w jednostkach zależnych, 
+stowarzyszonych i współkontrolowanych 
+11 
+114 100
+114 100
+(538 047)
+(537 650)
+Odpisy aktualizujące aktywa finansowe 
+w zamortyzowanym koszcie 
+19 
+(9 988)
+(3 788)
+(138 737)
+(137 695)
+Zysk/(strata) przed opodatkowaniem 
+437 407
+416 555
+(410 715)
+(374 158)
+Podatek dochodowy 
+69 276
+44 988
+37 054
+(13 041)
+Zysk/(strata) netto okresu 
+sprawozdawczego 
+ 
+506 683
+461 543
+(373 661)
+(387 199)
+ 
+Inne całkowite dochody 
+ 
+Podlegające przeklasyfikowaniu do 
+zysków lub strat: 
+ 
+- wycena instrumentów 
+zabezpieczających 
+ 
+80 896
+28 266
+(141 923)
+(42 184)
+- podatek dochodowy 
+ 
+(15 371)
+(5 371)
+26 965
+8 015
+Niepodlegające przeklasyfikowaniu do 
+zysków lub strat: 
+ 
+- przeszacowanie programu określonych 
+świadczeń 
+ 
+1 702
+1 702
+(2 870)
+(2 870)
+- pozostałe 
+ 
+(1 263)
+(533)
+-
+-
+- podatek dochodowy 
+ 
+(323)
+(323)
+545
+545
+Inne całkowite dochody netto 
+ 
+65 641
+23 741
+(117 283)
+(36 494)
+Całkowity dochód za okres 
+sprawozdawczy 
+ 
+572 324
+485 284
+(490 944)
+(423 693)
+Zysk/(strata) netto przypisany do 
+akcjonariuszy Spółki 
+ 
+506 683
+461 543
+(373 661)
+(387 199)
+Średnioważona liczba akcji zwykłych (w 
+szt.) 
+ 
+441 442 578
+441 442 578
+441 442 578
+441 442 578
+Zysk/(strata) netto na akcję (w zł na 
+jedną akcję) 
+ 
+1,15
+1,05
+(0,85)
+(0,88)
+Zysk/(strata) rozwodniony na akcję (w 
+zł na jedną akcję) 
+ 
+1,15
+1,05
+(0,85)
+(0,88)
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+ 
+Jednostkowe sprawozdanie z sytuacji finansowej należy analizować łącznie z dodatkowymi informacjami i objaśnieniami stanowiącymi integralną 
+część skróconego śródrocznego jednostkowego sprawozdania finansowego 
+ 
+5 
+JEDNOSTKOWE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ 
+ 
+Stan na 
+ 
+Nota 
+30 czerwca
+2021 
+(niebadane)
+31 grudnia 
+2020 
+ 
+ 
+ 
+ 
+ AKTYWA 
+ 
+ Aktywa trwałe 
+ 
+ Rzeczowe aktywa trwałe 
+9 
+23 742
+23 910 
+ Prawo do korzystania ze składnika aktywów 
+ 
+28 623
+29 978
+ Wartości niematerialne 
+10 
+3 826
+4 180 
+ Nieruchomości inwestycyjne 
+ 
+12 933
+13 206 
+ Inwestycje w jednostki zależne, stowarzyszone i współkontrolowane 
+11 
+9 517 425
+9 512 925
+ Aktywa z tytułu odroczonego podatku dochodowego 
+8 
+95 706
+101 483 
+ Aktywa finansowe wyceniane w wartości godziwej 
+ 
+39 174
+84 848
+ Dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie 
+19 
+4 560 492
+6 082 074
+ Należności z tytułu leasingu i subleasingu finansowego 
+ 
+417
+513
+ Koszty doprowadzenia do zawarcia umowy 
+ 
+12 432
+11 256
+ Aktywa trwałe razem 
+ 
+14 294 770
+15 864 373
+ 
+ 
+ Aktywa obrotowe 
+ 
+ Zapasy 
+12 
+224 060
+ 65 700 
+ Należności z tytułu dostaw i usług oraz pozostałe należności 
+ 
+1 657 660
+1 381 371 
+ Koszty doprowadzenia do zawarcia umowy 
+ 
+11 970
+13 428
+ Aktywa z tytułu umów z klientami 
+13 
+286 719
+228 905
+ Należności z tytułu leasingu i subleasingu finansowego 
+ 
+1 917
+3 274
+ Należności z tytułu bieżącego podatku dochodowego 
+ 
+123 523
+- 
+ Dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie 
+19 
+2 499 742
+1 406 802
+ Środki pieniężne i ich ekwiwalenty 
+14 
+1 237 249
+530 668 
+ Aktywa obrotowe razem 
+6 042 840
+3 630 148
+ 
+ AKTYWA RAZEM 
+ 
+20 337 610
+19 494 521 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+ 
+Jednostkowe sprawozdanie z sytuacji finansowej należy analizować łącznie z dodatkowymi informacjami i objaśnieniami stanowiącymi integralną 
+część skróconego śródrocznego jednostkowego sprawozdania finansowego 
+ 
+6 
+JEDNOSTKOWE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ 
+ 
+ 
+ 
+Stan na 
+ 
+Nota 
+30 czerwca 
+2021 
+(niebadane) 
+31 grudnia 
+2020 
+ 
+ 
+ PASYWA 
+ 
+ 
+Kapitał własny 
+ 
+ 
+ Kapitał zakładowy 
+ 
+588 018
+588 018
+ Kapitał z nadwyżki ceny emisyjnej nad wartością nominalną akcji 
+ 
+3 687 993
+4 627 673 
+ Kapitał z aktualizacji wyceny instrumentów finansowych 
+ 
+-
+(17 036)
+ Kapitał rezerwowy z wyceny instrumentów zabezpieczających 
+ 
+(40 009)
+(105 534)
+ Kapitał rezerwowy 
+ 
+5 974 031
+5 974 031
+ Zyski zatrzymane/skumulowane straty 
+ 
+489 763
+(939 680)
+ Kapitał własny razem 
+ 
+10 699 796
+10 127 472
+ 
+ 
+ ZOBOWIĄZANIA 
+ 
+ Zobowiązania długoterminowe 
+ 
+ Kredyty, pożyczki i dłużne papiery wartościowe 
+16 
+4 599 976
+6 559 586
+ Zobowiązania z tytułu leasingu 
+ 
+25 469
+25 884
+ Zobowiązania z tytułu świadczeń pracowniczych 
+ 
+57 633
+60 146
+ Zobowiązania finansowe wyceniane w wartości godziwej 
+18 
+3 027
+75 131
+ Zobowiązania długoterminowe razem 
+ 
+4 686 105
+6 720 747 
+ 
+ 
+ Zobowiązania krótkoterminowe 
+ 
+ Kredyty, pożyczki i dłużne papiery wartościowe 
+16 
+2 305 241
+1 210 519
+ Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania 
+ 
+742 371
+438 241 
+ Zobowiązania z tytułu umów z klientami 
+13 
+40 779
+32 289
+ Zobowiązania z tytułu leasingu 
+ 
+3 492
+5 431
+ Zobowiązania z tytułu bieżącego podatku dochodowego 
+ 
+71 385
+ Zobowiązania z tytułu świadczeń pracowniczych 
+ 
+22 372
+27 637
+ Zobowiązania finansowe wyceniane w wartości godziwej 
+ 
+50 618
+64 542
+ Zobowiązania z tytułu ekwiwalentu prawa do nieodpłatnego nabycia akcji 
+ 
+281
+281
+ Inne zobowiązania finansowe 
+22 
+1 111 188
+152 574
+ Rezerwy na pozostałe zobowiązania i inne obciążenia 
+17 
+675 367
+ 643 403
+ Zobowiązania krótkoterminowe razem 
+ 
+4 951 709
+2 646 302
+ 
+ 
+ Zobowiązania razem 
+ 
+9 637 814
+9 367 049 
+ 
+ 
+ KAPITAŁ WŁASNY I ZOBOWIĄZANIA RAZEM 
+ 
+20 337 610
+19 494 521
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+ 
+Jednostkowe sprawozdanie ze zmian w kapitale własnym należy analizować łącznie z dodatkowymi informacjami i objaśnieniami stanowiącymi integralną część skróconego śródrocznego jednostkowego sprawozdania 
+finansowego 
+ 
+7 
+JEDNOSTKOWE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM 
+ 
+ 
+Kapitał 
+zakładowy 
+(wartość 
+nominalna) 
+Kapitał z 
+przeszacowania 
+oraz z rozliczenia 
+połączenia 
+Kapitał 
+zakładowy 
+razem 
+Kapitał 
+z nadwyżki ceny 
+emisyjnej nad 
+wartością 
+nominalną akcji 
+Kapitał 
+z aktualizacji 
+wyceny 
+instrumentów 
+finansowych 
+Kapitał rezerwowy 
+z wyceny 
+instrumentów 
+zabezpieczających 
+Kapitał 
+rezerwowy 
+Zyski 
+zatrzymane 
+Kapitał własny 
+razem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stan na 1 stycznia 2020 
+441 443 
+146 575 
+588 018 
+4 627 673 
+(17 036) 
+(17 356) 
+5 690 700 
+2 702 180 
+13 574 179 
+Strata netto okresu 
+sprawozdawczego 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+(373 661) 
+(373 661) 
+Inne całkowite dochody netto 
+- 
+- 
+- 
+- 
+- 
+(114 958) 
+- 
+(2 325) 
+(117 283) 
+Całkowite dochody netto 
+rozpoznane w okresie 
+- 
+- 
+- 
+- 
+- 
+(114 958) 
+- 
+(375 986) 
+(490 944) 
+Stan na 30 czerwca 2020 
+(niebadane) 
+441 443 
+146 575 
+588 018 
+4 627 673 
+(17 036) 
+(132 314) 
+5 690 700 
+2 326 194 
+13 083 235 
+ 
+ 
+Kapitał 
+zakładowy 
+(wartość 
+nominalna) 
+Kapitał z 
+przeszacowania 
+oraz z rozliczenia 
+połączenia 
+Kapitał 
+zakładowy 
+razem 
+Kapitał 
+z nadwyżki ceny 
+emisyjnej nad 
+wartością 
+nominalną akcji 
+Kapitał 
+z aktualizacji 
+wyceny 
+instrumentów 
+finansowych 
+Kapitał rezerwowy 
+z wyceny 
+instrumentów 
+zabezpieczających 
+Kapitał 
+rezerwowy 
+Zyski 
+zatrzymane 
+Kapitał własny 
+razem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stan na 1 stycznia 2021 
+441 443 
+146 575 
+588 018 
+4 627 673 
+(17 036) 
+(105 534) 
+5 974 031 
+(939 680) 
+10 127 472 
+Zysk netto okresu 
+sprawozdawczego 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+506 683 
+506 683 
+Inne całkowite dochody netto 
+- 
+- 
+- 
+- 
+17 036 
+65 525 
+- 
+(16 920) 
+65 641 
+Całkowite dochody netto 
+rozpoznane w okresie 
+- 
+- 
+- 
+- 
+17 036 
+65 525 
+- 
+489 763 
+572 324 
+Pokrycie straty netto - 
+przeniesienie 
+- 
+- 
+- 
+(939 680) 
+- 
+- 
+- 
+939 680 
+- 
+Stan na 30 czerwca 2021 
+(niebadane) 
+441 443 
+146 575 
+588 018 
+3 687 993 
+- 
+(40 009) 
+5 974 031 
+489 763 
+10 699 796 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+ 
+Jednostkowe sprawozdanie z przepływów pieniężnych należy analizować łącznie z dodatkowymi informacjami i objaśnieniami stanowiącymi 
+integralną część skróconego śródrocznego jednostkowego sprawozdania finansowego 
+ 
+8 
+JEDNOSTKOWE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH 
+ 
+ 
+Nota
+Okres 
+ 
+6 miesięcy 
+zakończony 
+30 czerwca 2021 
+(niebadane) 
+6 miesięcy 
+zakończony 
+30 czerwca 2020
+(niebadane) 
+Przepływy pieniężne z działalności operacyjnej 
+ 
+ 
+ Zysk netto/strata netto okresu sprawozdawczego 
+506 683
+(373 661)
+ Korekty: 
+ Podatek dochodowy w zyskach i stratach 
+(69 276)
+(37 054)
+ Amortyzacja 
+3 418
+2 462
+ Zysk na sprzedaży i likwidacji rzeczowych aktywów trwałych oraz 
+ prawa do korzystania ze składnika aktywów 
+ 
+ 
+-
+(106)
+ (Zysk)/strata na sprzedaży aktywów finansowych 
+(21 349)
+4 632
+ Przychody z tytułu odsetek 
+(73 627)
+(103 148)
+ Przychody z tytułu dywidend 
+ 
+(305 136)
+(350 036)
+ Koszty z tytułu odsetek 
+88 086
+127 816
+ Odpisy aktualizujące wartość udziałów 
+ 
+(114 100)
+538 047
+ Odpisy aktualizujące aktywa finansowe w zamortyzowanym koszcie 
+9 988
+138 737
+ Korekty razem
+(481 996)
+321 350
+ 
+ 
+ 
+ 
+ Podatek dochodowy zapłacony 
+(196 401)
+(9 005)
+ Przepływy z tytułu rozliczeń w ramach Podatkowej Grupy Kapitałowej 
+ 
+295 933
+105 306
+ Zmiany kapitału obrotowego: 
+ Zapasy 
+(158 360)
+(52 659)
+ Należności z tytułu dostaw i usług oraz pozostałe należności 
+(17 603)
+(206 795)
+ Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania 
+77 475
+(39 817)
+ Zobowiązania z tytułu świadczeń pracowniczych 
+(6 076)
+(502)
+ Rezerwy na pozostałe zobowiązania i inne obciążenia 
+146 064
+44 819
+Zmiany kapitału obrotowego razem
+41 500
+(254 954)
+Przepływy pieniężne netto z działalności operacyjnej 
+165 719
+(210 964)
+ 
+ 
+ 
+ 
+Przepływy pieniężne z działalności inwestycyjnej 
+ 
+Nabycie rzeczowych i niematerialnych aktywów trwałych oraz prawa do 
+korzystania ze składnika aktywów 
+ 
+(346)
+(77)
+Wpływy ze sprzedaży rzeczowych i niematerialnych aktywów trwałych oraz 
+prawa do korzystania ze składnika aktywów 
+ 
+106
+Nabycie aktywów finansowych 
+(15 000)
+(1 804 000)
+Wpływ ze zbycia aktywów finansowych 
+501 843
+1 584 246
+Nabycie jednostek zależnych 
+ 
+(4 500)
+Nabycie jednostek stowarzyszonych i współkontrolowanych 
+ 
+-
+(696)
+Odsetki otrzymane 
+64 783
+114 011
+Inne wydatki 
+ 
+(533)
+Przepływy pieniężne netto z działalności inwestycyjnej 
+546 247
+(106 410)
+ 
+Przepływy pieniężne z działalności finansowej 
+ 
+Spłata kredytów i pożyczek 
+ 
+(101 707)
+(81 040)
+Wykup obligacji 
+ 
+(769 055)
+(1 106 255)
+Wydatki związane z płatnością zobowiązań leasingu 
+(3 091)
+(2 741)
+Odsetki zapłacone 
+(90 146)
+(141 390)
+Przepływy pieniężne netto z działalności finansowej 
+(963 999)
+(1 331 426)
+Przepływy pieniężne netto razem 
+(252 033)
+(1 648 800)
+Stan środków pieniężnych na początek okresu sprawozdawczego 
+14 
+378 094
+2 715 611
+Stan środków pieniężnych na koniec okresu sprawozdawczego
+14
+126 061
+1 066 811
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+9 
+DODATKOWE INFORMACJE I OBJAŚNIENIA 
+ 
+Informacje ogólne 
+ 
+1. 
+Informacje ogólne dotyczące ENEA S.A. 
+ 
+Nazwa (firma): 
+ENEA Spółka Akcyjna 
+Forma prawna: 
+spółka akcyjna 
+Kraj siedziby: 
+Rzeczpospolita Polska 
+Siedziba: 
+Poznań 
+Adres: 
+ul. Górecka 1, 60-201 Poznań 
+KRS: 
+0000012483 
+Numer telefonu: 
+(+48 61) 884 55 44 
+Numer faksu: 
+(+48 61) 884 59 59 
+E-mail: 
+enea@enea.pl 
+Strona internetowa: 
+www.enea.pl 
+Numer klasyfikacji statystycznej (REGON): 
+630139960 
+Numer klasyfikacji podatkowej (NIP): 
+777-00-20-640 
+ENEA S.A. („ENEA”, „Spółka”) działając pod nazwą Energetyka Poznańska S.A. została wpisana 21 maja 2001 r. do 
+Krajowego Rejestru Sądowego w Sądzie Rejonowym w Poznaniu pod numerem KRS 0000012483. 
+Na 30 czerwca 2021 r. struktura akcjonariuszy ENEA S.A. przedstawiała się następująco: 
+ 
+Skarb Państwa 
+Rzeczypospolitej Polski 
+Pozostali akcjonariusze 
+Razem 
+Stan na 30 czerwca 2021 
+51,50% 
+48,50% 
+100,00% 
+Na 30 czerwca 2021 r. podmiotem kontrolującym Spółkę był Skarb Państwa będący stroną kontrolującą najwyższego 
+szczebla. 
+Na 30 czerwca 2021 r. statutowy kapitał zakładowy ENEA S.A. zarejestrowany w KRS był równy 441 443 tys. zł 
+(588 018 tys. zł po przekształceniu na MSSF UE z uwzględnieniem hiperinflacji i innych korekt) i dzielił się na 
+441 442 578 akcji. 
+Czas trwania Spółki jest nieoznaczony. Działalność prowadzona jest na podstawie odpowiednich koncesji przyznawanych 
+Spółce. 
+Skrócone śródroczne jednostkowe sprawozdanie finansowe Spółki obejmuje okres 6 miesięcy zakończony 
+30 czerwca 2021 r. i zawiera dane porównawcze za okres 6 miesięcy zakończony 30 czerwca 2020 r. oraz 
+na dzień 31 grudnia 2020 r. 
+ 
+ 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+10 
+2. 
+Skład Grupy Kapitałowej 
+Na 30 czerwca 2021 r. Grupa Kapitałowa ENEA składała się z jednostki dominującej ENEA S.A., 14 spółek zależnych, 
+9 spółek pośrednio zależnych, 2 spółek stowarzyszonych oraz 2 spółek współkontrolowanych. 
+Głównym przedmiotem działalności ENEA S.A. jest obrót energią elektryczną. 
+ 
+Nazwa spółki 
+Przedmiot 
+działalności 
+Siedziba 
+Udział ENEA S.A.
+w całkowitej 
+liczbie głosów 
+na 
+30 czerwca 2021 
+Udział ENEA S.A.
+w całkowitej 
+liczbie głosów 
+na 
+31 grudnia 2020 
+SPÓŁKI ZALEŻNE 
+1. 
+ENEA Operator Sp. z o.o. 
+dystrybucja 
+Poznań 
+100% 
+100% 
+2. 
+ENEA Wytwarzanie Sp. z o.o. 
+wytwarzanie 
+Świerże Górne 
+100% 
+100% 
+3. 
+ENEA Elektrownia 
+Połaniec S.A. 
+wytwarzanie 
+Połaniec 
+100% 
+100% 
+4. 
+ENEA Oświetlenie Sp. z o.o. 
+pozostała działalność 
+Szczecin 
+100% 
+100% 
+5. 
+ENEA Trading Sp. z o.o. 
+obrót 
+Świerże Górne 
+100% 
+100% 
+6. 
+ENEA Serwis Sp. z o.o. 
+dystrybucja 
+Lipno 
+100% 
+100% 
+7. 
+ENEA Centrum Sp. z o.o. 
+pozostała działalność 
+Poznań 
+100% 
+100% 
+8. 
+ENEA Pomiary Sp. z o.o. 
+dystrybucja 
+Poznań 
+100% 
+100% 
+9. 
+ENERGO-TOUR Sp. z o.o. 
+w likwidacji 
+pozostała działalność 
+Poznań 
+100%6 
+100%6 
+10. 
+ENEA Innowacje Sp. z o.o. 
+pozostała działalność 
+Warszawa 
+100%7,8 
+100% 
+11. 
+Lubelski Węgiel 
+BOGDANKA S.A. 
+wydobycie 
+Bogdanka 
+65,99% 
+65,99% 
+12. 
+ENEA Ciepło Sp. z o.o. 
+wytwarzanie 
+Białystok 
+99,94% 
+99,94% 
+13. 
+ENEA Ciepło Serwis Sp. z o.o. 
+wytwarzanie 
+Białystok 
+100% 
+100% 
+14. 
+ENEA Nowa Energia Sp. z o.o. 
+wytwarzanie 
+Radom 
+100% 
+100% 
+SPÓŁKI POŚREDNIO ZALEŻNE 
+15. 
+ENEA Logistyka Sp. z o.o. 
+dystrybucja 
+Poznań 
+100%5 
+100%5 
+16. 
+ENEA Bioenergia Sp. z o.o. 
+wytwarzanie 
+Połaniec 
+100%1 
+100%1 
+17. 
+ENEA Połaniec Serwis 
+Sp. z o.o. 
+wytwarzanie 
+Połaniec 
+100%1 
+100%1 
+18. 
+Przedsiębiorstwo Energetyki 
+Cieplnej Sp. z o.o. 
+wytwarzanie 
+Oborniki 
+99,93%2 
+99,93%2 
+19. 
+Miejska Energetyka Cieplna 
+Piła Sp. z o.o. 
+wytwarzanie 
+Piła 
+71,11%2 
+71,11%2 
+20. 
+EkoTRANS Bogdanka 
+Sp. z o.o. 
+wydobycie 
+Bogdanka 
+65,99%3 
+65,99%3 
+21. 
+RG Bogdanka Sp. z o.o. 
+wydobycie 
+Bogdanka 
+65,99%3 
+65,99%3 
+22. 
+MR Bogdanka Sp. z o.o. 
+wydobycie 
+Bogdanka 
+65,99%3 
+65,99%3 
+23. 
+Łęczyńska Energetyka 
+Sp. z o.o. 
+wydobycie 
+Bogdanka 
+58,53%3 
+58,53%3 
+24. 
+ENEA Badania i Rozwój 
+Sp. z o.o. 
+pozostała działalność 
+Warszawa 
+-4,8 
+100%4 
+SPÓŁKI WSPÓŁKONTROLOWANE 
+25. 
+Polska Grupa Górnicza S.A. 
+- 
+Katowice 
+7,66% 
+7,66% 
+26. 
+Elektrownia Ostrołęka 
+Sp. z o.o. 
+- 
+Ostrołęka 
+50% 
+50% 
+SPÓŁKI STOWARZYSZONE 
+27. 
+Polimex – Mostostal S.A. 
+- 
+Warszawa 
+16,48% 
+16,48% 
+28. 
+ElectroMobility Poland S.A. 
+- 
+Warszawa 
+25% 
+25% 
+1 – spółka pośrednio zależna poprzez udziały w spółce ENEA Elektrownia Połaniec S.A. 
+2 – spółka pośrednio zależna poprzez udziały w spółce ENEA Wytwarzanie Sp. z o.o. 
+3 – spółka pośrednio zależna poprzez udziały w spółce Lubelski Węgiel BOGDANKA S.A. 
+4 – spółka pośrednio zależna poprzez udziały w spółce ENEA Innowacje Sp. z o.o. 
+5 – spółka pośrednio zależna poprzez udziały w spółce ENEA Operator Sp. z o.o. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+11 
+6 – 30 marca 2015 r. Nadzwyczajne Zgromadzenie Wspólników spółki podjęło uchwałę w sprawie rozwiązania spółki 
+po przeprowadzeniu postępowania likwidacyjnego. Uchwała weszła w życie 1 kwietnia 2015 r. 5 listopada 2015 r. został 
+złożony wniosek do KRS o wykreślenie spółki. Na dzień sporządzenia niniejszego skróconego śródrocznego 
+jednostkowego sprawozdania finansowego trwają czynności proceduralne związane z wykreśleniem podmiotu 
+z Krajowego Rejestru Sądowego. 
+7 – 7 maja 2021 r. Nadzwyczajne Zgromadzenie Wspólników ENEA Innowacje Sp. z o.o. podjęto uchwałę w sprawie 
+podwyższenia kapitału zakładowego o kwotę 4 500 tys. zł to jest z kwoty 26 360 tys. zł do kwoty 30 860 tys. zł, poprzez 
+utworzenie 45 000 udziałów o wartości nominalnej 100,00 zł każdy. Wszystkie nowoutworzone udziały zostały objęte przez 
+ENEA S.A. i pokryte w całości wkładem pieniężnym. Podwyższenie kapitału zakładowego zostało zarejestrowane w KRS 
+1 lipca 2021 r. 
+8 – 12 kwietnia 2021 r. Nadzwyczajne Zgromadzenie Wspólników ENEA Badania i Rozwój Sp. z o.o. podjęło uchwałę 
+w sprawie połączenia ze spółką ENEA Innowacje Sp. z o.o. przez przejęcie ENEA Badania i Rozwój Sp. z o.o. 
+przez ENEA Innowacje Sp. z o.o. 
+1 czerwca 2021 r. wpis o połączeniu spółek ENEA Innowacje Sp. z o.o. oraz ENEA Badania i Rozwój Sp. z o.o. został 
+ujawniony w KRS. 
+3. 
+Skład Zarządu i Rady Nadzorczej 
+ 
+Zarząd 
+ 
+ 
+Stan na
+Stan na
+ 
+30 czerwca 2021
+31 grudnia 2020
+ 
+Prezes Zarządu 
+Paweł Szczeszek
+Paweł Szczeszek
+Członek Zarządu ds. Finansowych 
+Rafał Mucha
+Rafał Mucha
+Członek Zarządu ds. Handlowych 
+Tomasz Siwak
+Tomasz Siwak
+Członek Zarządu ds. Korporacyjnych 
+Tomasz Szczegielniak
+Tomasz Szczegielniak
+Członek Zarządu ds. Operacyjnych 
+Marcin Pawlicki
+Marcin Pawlicki
+ 
+Rada Nadzorcza 
+Stan na 
+Stan na 
+30 czerwca 2021 
+Powołanie 
+31 grudnia 2020 
+Zakończenie 
+kadencji/rezygnacja 
+ 
+Przewodniczący Rady 
+Nadzorczej 
+Rafał Włodarski
+7 stycznia 2021 r.
+Izabela FelczakPoturnicka
+5 stycznia 2021 r.
+Wiceprzewodniczący Rady 
+Nadzorczej 
+Roman Stryjski
+Roman Stryjski
+Sekretarz Rady Nadzorczej 
+Michał Jaciubek
+Michał Jaciubek
+Członek Rady Nadzorczej 
+Dorota Szymanek
+7 stycznia 2021 r.
+Rafał Włodarski
+Członek Rady Nadzorczej 
+Maciej Mazur
+Maciej Mazur
+Członek Rady Nadzorczej 
+Piotr Mirkowski
+Piotr Mirkowski
+Członek Rady Nadzorczej 
+Paweł Koroblowski
+Paweł Koroblowski
+Członek Rady Nadzorczej 
+Ireneusz Kulka
+Ireneusz Kulka
+Członek Rady Nadzorczej 
+Mariusz Pliszka
+Mariusz Pliszka
+Członek Rady Nadzorczej 
+Mariusz Fistek
+Mariusz Fistek
+ 
+4 stycznia 2021 r. do Spółki wpłynęła rezygnacja Pani Izabeli Felczak-Poturnickiej z funkcji Przewodniczącej Rady 
+Nadzorczej oraz członkostwa w Radzie Nadzorczej ENEA S.A. z dniem 5 stycznia 2021 r. 
+7 stycznia 2021 roku Nadzwyczajne Walne Zgromadzenie ENEA S.A. dokonało wyboru na Przewodniczącego Rady 
+Nadzorczej Spółki ENEA Spółka Akcyjna Pana Rafała Włodarskiego. 
+7 stycznia 2021 r. Nadzwyczajne Walne Zgromadzenie Spółki podjęło uchwałę, na mocy której z tym samym dniem 
+w skład Rady Nadzorczej ENEA S.A. powołana została Pani Dorota Szymanek. 
+15 września 2021 r. do Spółki wpłynęło oświadczenie Pana Ireneusza Kulki, że z dniem 16 września 2021 r. rezygnuje 
+z funkcji członka Rady Nadzorczej ENEA S.A. oraz Przewodniczącego Komitetu ds. Audytu. 
+4. 
+Podstawa sporządzenia sprawozdania finansowego 
+Niniejsze skrócone śródroczne jednostkowe sprawozdanie finansowe zostało sporządzone zgodnie z wymogami 
+Międzynarodowego Standardu Sprawozdawczości Finansowej MSR 34 Śródroczna sprawozdawczość finansowa 
+zatwierdzonego przez Unię Europejską i zostało zaakceptowane przez Zarząd ENEA S.A. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+12 
+Zarząd Spółki wykorzystał swoją najlepszą wiedzę co do zastosowania standardów i interpretacji, jak również metod 
+i zasad wyceny poszczególnych pozycji skróconego śródrocznego jednostkowego sprawozdania finansowego ENEA S.A. 
+zgodnie z MSSF UE na 30 czerwca 2021 r. Przedstawione zestawienia i objaśnienia zostały ustalone przy dołożeniu 
+należytej staranności. Niniejsze skrócone śródroczne jednostkowe sprawozdanie finansowe podlegało przeglądowi przez 
+biegłego rewidenta. Zasady rachunkowości stosowane były w sposób spójny we wszystkich prezentowanych okresach 
+chyba, że wskazano inaczej. 
+Skrócone śródroczne jednostkowe sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania 
+działalności gospodarczej w dającej się przewidzieć przyszłości. Nie istnieją okoliczności wskazujące na zagrożenie 
+kontynuowania działalności przez Spółkę. 
+Spółka sporządza skrócone śródroczne skonsolidowane sprawozdanie finansowe Grupy Kapitałowej ENEA zgodnie 
+z MSSF UE na dzień i za okres 6 miesięcy zakończony 30 czerwca 2021 r. Czytelnicy skróconego śródrocznego 
+jednostkowego sprawozdania finansowego ENEA S.A. powinni czytać je łącznie ze skróconym śródrocznym 
+skonsolidowanym sprawozdaniem finansowym Grupy Kapitałowej ENEA oraz jednostkowym rocznym sprawozdaniem 
+finansowym ENEA S.A. za rok obrotowy zakończony 31 grudnia 2020 r., w celu uzyskania pełnej informacji na temat 
+sytuacji finansowej oraz wyniku finansowego Grupy jako całości. 
+5. 
+Zasady (polityka) rachunkowości i ważne oszacowania i założenia 
+Niniejsze skrócone śródroczne jednostkowe sprawozdanie finansowe zostało sporządzone z zastosowaniem zasad 
+rachunkowości spójnych z zasadami zastosowanymi przy sporządzeniu ostatniego rocznego jednostkowego 
+sprawozdania finansowego za rok obrotowy zakończony 31 grudnia 2020 r. 
+Sporządzenie skróconego śródrocznego jednostkowego sprawozdania finansowego zgodnie z MSR 34 wymaga od 
+Zarządu przyjęcia pewnych założeń i dokonania szacunków, które wpływają na przyjęte zasady rachunkowości oraz na 
+wielkości wykazane w skróconym śródrocznym jednostkowym sprawozdaniu finansowym oraz w notach objaśniających 
+do tego sprawozdania finansowego. Założenia i szacunki oparte są na najlepszej wiedzy Zarządu na temat bieżących 
+i przyszłych zdarzeń i działań. Rzeczywiste wyniki mogą się jednak różnić od przewidywanych. Szacunki przyjęte do 
+sporządzenia skróconego śródrocznego jednostkowego sprawozdania finansowego są spójne z szacunkami przyjętymi 
+przy sporządzaniu jednostkowego sprawozdania finansowego za ostatni rok obrotowy. Wartości szacunkowe podawane 
+w poprzednich latach obrotowych nie wywierają istotnego wpływu na bieżący okres śródroczny. 
+6. 
+Waluta funkcjonalna i waluta prezentacji 
+Pozycje zawarte w sprawozdaniu finansowym Spółki wycenia się w walucie podstawowego środowiska gospodarczego, 
+w którym Spółka prowadzi działalność (w walucie funkcjonalnej). 
+Skrócone śródroczne jednostkowe sprawozdanie finansowe prezentowane jest w złotych polskich (PLN), które stanowią 
+walutę funkcjonalną i walutę prezentacji. Pozycje sprawozdania prezentowane są w zaokrągleniu do pełnych tysięcy 
+złotych (tys. zł), o ile nie wskazano inaczej. 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+13 
+Noty objaśniające do jednostkowego sprawozdania z całkowitych dochodów 
+ 
+7. 
+Przychody ze sprzedaży 
+Przychody ze sprzedaży netto 
+Okres 6 miesięcy zakończony
+ 
+30 czerwca 2021 
+30 czerwca 2020 
+Przychody ze sprzedaży energii elektrycznej 
+3 439 994
+2 980 428
+Przychody ze sprzedaży gazu 
+73 796
+68 456
+Przychody ze sprzedaży pozostałych usług 
+1 502
+2 377
+Razem przychody ze sprzedaży netto
+3 515 292
+3 051 261
+ 
+Spółka ujmuje przychody w momencie spełnienia lub w trakcie spełniania zobowiązania do wykonania świadczenia 
+poprzez przekazanie przyrzeczonego dobra lub usługi klientowi. Przychody wykazuje się na podstawie cen określonych 
+w umowach sprzedaży, po pomniejszeniu o szacowane rabaty i inne zmniejszenia sprzedaży. 
+Do głównych grup umów należą umowy sprzedaży energii elektrycznej (w tym również umowy kompleksowe) klientom 
+indywidualnym, biznesowym, kluczowym i strategicznym. W umowach tych usługa świadczona jest w sposób ciągły, 
+wysokość przychodu uzależniona jest od zużycia. 
+Standardowy termin płatności faktur sprzedażowych energii elektrycznej wynosi 14 dni od daty wystawienia faktury VAT. 
+W przypadku biznesowych, kluczowych i strategicznych klientów okres ten może podlegać negocjacji. 
+Poniżej zaprezentowano podział przychodów ze sprzedaży na kategorie, które odzwierciedlają sposób, w jaki czynniki 
+ekonomiczne wpływają na kwotę, termin płatności oraz niepewność przychodów i przepływów pieniężnych. 
+ 
+Okres 6 miesięcy zakończony
+ 
+30 czerwca 2021
+30 czerwca 2020
+Przychody świadczone w sposób ciągły 
+3 513 790
+3 048 884
+Przychody świadczone w określonym momencie 
+1 502
+2 377
+Razem
+3 515 292
+3 051 261
+ 
+8. 
+Opodatkowanie 
+Odroczony podatek dochodowy 
+Zmiany stanu aktywa z tytułu odroczonego podatku dochodowego (po uwzględnieniu kompensaty aktywa i rezerwy) 
+przedstawiają się w sposób następujący: 
+Okres 6 miesięcy 
+zakończony 
+Rok zakończony 
+ 
+30 czerwca 2021 
+31 grudnia 2020 
+ 
+ 
+Stan na początek okresu 
+ 
+101 483
+95 395
+Zmiana rozpoznana w zyskach i stratach 
+9 917 
+(15 013)
+Zmiana rozpoznana w innych całkowitych dochodach 
+(15 694)
+21 101
+Stan na koniec okresu 
+95 706
+101 483
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 r. uznanie zysku przed opodatkowaniem Spółki w wyniku 
+zwiększenia aktywa z tytułu odroczonego podatku dochodowego wyniosło 9 917 tys. zł (w okresie 6 miesięcy 
+zakończonym 30 czerwca 2020 r. obciążenie zysku przed opodatkowaniem Spółki w wyniku zmniejszenia aktywa z tytułu 
+odroczonego podatku dochodowego wyniosło 731 tys. zł). 
+ 
+ 
+ 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+14 
+Noty objaśniające do jednostkowego sprawozdania z sytuacji finansowej 
+ 
+9. 
+Rzeczowe aktywa trwałe 
+ 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 r. Spółka dokonała nabycia rzeczowych aktywów trwałych w łącznej 
+wartości netto 322 tys. zł (w okresie 6 miesięcy zakończonym 30 czerwca 2020 r. odpowiednio: 678 tys. zł netto). 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 r. Spółka dokonała sprzedaży i/lub likwidacji rzeczowych aktywów 
+trwałych w łącznej wartości netto 0 tys. zł (w okresie 6 miesięcy zakończonym 30 czerwca 2020 r. odpowiednio: 0 tys. zł 
+netto). 
+Na 30 czerwca 2021 r. nie stwierdzono przesłanek świadczących o możliwości utraty wartości rzeczowych aktywów 
+trwałych. Na rzeczowych aktywach trwałych nie ustanowiono zabezpieczeń. 
+10. Wartości niematerialne 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 r. Spółka dokonała nabycia wartości niematerialnych w łącznej 
+wartości netto 90 tys. zł (w okresie 6 miesięcy zakończonym 30 czerwca 2020 r. odpowiednio: 0 tys. zł). 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 r. Spółka nie dokonała likwidacji wartości niematerialnych (w okresie 
+6 miesięcy zakończonym 30 czerwca 2020 r. odpowiednio: 0 tys. zł). 
+Na 30 czerwca 2021 r. nie stwierdzono przesłanek świadczących o możliwości utraty wartości. Na wartościach 
+niematerialnych nie ustanowiono zabezpieczeń. 
+11. Inwestycje w jednostki zależne, stowarzyszone i współkontrolowane 
+ 
+Zmiana stanu inwestycji w jednostki zależne, stowarzyszone i współkontrolowane 
+Okres 6 miesięcy 
+zakończony 
+Rok zakończony 
+ 
+30 czerwca 2021 
+31 grudnia 2020 
+ 
+ 
+Stan na początek okresu 
+9 512 925
+12 892 612
+Nabycie inwestycji 
+4 500
+245 922
+Zbycie inwestycji 
+ 
+-
+(12 367)
+Zmiana odpisu aktualizującego 
+ 
+114 100
+(3 596 215)
+Pozostałe zmiany 
+(114 100)
+(17 027)
+Stan na koniec okresu 
+9 517 425
+9 512 925
+ 
+ENEA Innowacje Sp. z o. o. 
+ 
+7 maja 2021 r. 
+Uchwała w sprawie podwyższenia kapitału zakładowego o kwotę 
+4 500 tys. zł z kwoty 26 360 tys. zł do kwoty 30 860 tys. zł poprzez 
+utworzenie nowych 45 000 udziałów o wartości nominalnej 100,00 zł 
+każdy. 
+Nadzwyczajne 
+Zgromadzenie 
+Wspólników 
+Odpis aktualizujący wartość inwestycji 
+Okres 6 miesięcy 
+zakończony 
+Rok zakończony 
+ 
+30 czerwca 2021 
+31 grudnia 2020 
+ 
+ 
+Stan na początek okresu 
+4 969 479
+1 373 264
+Utworzony 
+3 613 242
+Odwrócony 
+ 
+(114 100)
+(17 027)
+Stan na koniec okresu 
+4 855 379
+4 969 479
+Realizacja projektu budowy Elektrowni Ostrołęka C 
+Według stanu na 30 czerwca 2021 r. ENEA S.A. posiadała 9 124 821 udziałów w Elektrownia Ostrołęka Sp. z o.o. 
+o wartości nominalnej 50 zł jeden udział i o łącznej wartości nominalnej 456 241 tys. zł. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+15 
+13 lutego 2020 r. ENEA S.A. zawarła porozumienie z ENERGA S.A. dotyczące zawieszenia przez ENERGA S.A. 
+i ENEA S.A. finansowania projektu budowy Elektrowni Ostrołęka C. W porozumieniu ENEA S.A. oraz ENERGA S.A. 
+zobowiązały się dokonać analiz w szczególności dotyczących parametrów technicznych, technologicznych, 
+ekonomicznych i organizacyjnych oraz dalszego finasowania projektu. 
+ENERGA S.A. i ENEA S.A. przyjęły, że wstrzymanie finansowania projektu będzie powodowało konieczność zawieszenia 
+przez spółkę wykonywania zawartego 12 lipca 2018 r. kontraktu na budowę Elektrowni Ostrołęka C o mocy ok. 1000 MW, 
+a także umowy na przebudowę infrastruktury kolejowej dla obsługi Elektrowni Ostrołęka C z 4 października 2019 r. 
+14 lutego 2020 r. Elektrownia Ostrołęka Sp. z o.o. przekazała Generalnemu Wykonawcy kontraktu na budowę Elektrowni 
+Ostrołęka "C" o mocy ok. 1000 MW z 12 lipca 2018 r. polecenie zawieszenia wykonywania całości prac związanych z tym 
+kontraktem, z terminem wejścia w życie zawieszenia 14 lutego 2020 r. 
+W ramach prac analitycznych realizowanych w myśl porozumienia o zawieszeniu finansowania projektu, ENEA S.A. 
+i ENERGA S.A. pracowały m.in. nad aktualizacją założeń biznesowych, technicznych oraz dotyczących struktury 
+finansowania w modelu finansowym. Wyniki tych prac ze strony ENERGA S.A. zostały przekazane spółce Elektrownia 
+Ostrołęka Sp. z o.o. 14 maja 2020 r., kiedy to spółka otrzymała kalkulacje dotyczące rentowności Projektu w wariancie 
+jego kontynuowania w oparciu o paliwo węglowe. Wyniki te zostały wykorzystane do stworzenia testu CGU przez tę spółkę. 
+Przeprowadzony przez Elektrownia Ostrołęka Sp. z o.o. test CGU wskazywał, że dokończenie Projektu będzie generować 
+ujemną wartość, co oznacza brak zasadności kontynuowania projektu. 
+19 maja 2020 r. ENEA S.A. otrzymała drogą elektroniczną kopię Uchwały nr 39/2020 Zarządu Elektrownia Ostrołęka 
+Sp. z o.o. z 19 maja 2020 r. w sprawie utworzenia odpisów aktualizujących wartość księgową aktywów spółki. 
+Na skutek przeprowadzonego w spółce Elektrownia Ostrołęka Sp. z o.o. testu na utratę wartości majątku trwałego, który 
+był konsekwencją aktualizacji przez Elektrownia Ostrołęka Sp. z o.o. założeń biznesowych dotyczących realizacji projektu 
+budowy elektrowni Ostrołęka C opartego o technologię węglową, w skonsolidowanym sprawozdaniu finansowym Grupy 
+za rok 2019 ujęto udział ENEA S.A. w stracie netto Elektrowni Ostrołęka Sp. z o.o. Z uwagi na to, że był on większy 
+od wartości udziałów w tej spółce, została ona zmniejszona do zera. Również na 30 czerwca 2021 r. wartość udziałów 
+ENEA S.A. w spółce Elektrownia Ostrołęka Sp. z o.o. wynosiła 0 zł. 
+2 czerwca 2020 r. Zarząd ENEA S.A. przyjął raport końcowy z analiz przeprowadzonych we współpracy z ENERGA S.A. 
+w zakresie aspektów techniczno-technologicznych, ekonomicznych i organizacyjno-prawnych oraz dalszego finansowania 
+projektu. Wnioski z przeprowadzonych analiz nie uzasadniały kontynuowania jego realizacji w dotychczasowej formie, 
+tj. jako projektu budowy elektrowni wytwarzającej energię elektryczną w procesie spalania węgla kamiennego. 
+Na powyższą ocenę wpływ miały m.in.: 
+1) zmiany regulacyjne na poziomie Unii Europejskiej i polityka kredytowa poszczególnych instytucji finansowych, 
+wskazujące na istotnie większą dostępność finansowania dla projektów energetycznych opartych na spalaniu 
+gazu, niż projektów węglowych; 
+oraz 
+2) przejęcie kontroli nad ENERGA S.A. przez PKN Orlen, którego strategia nie zakłada inwestycji w wytwarzanie 
+energii elektrycznej w oparciu o spalanie węgla. 
+Jednocześnie, analiza techniczna potwierdziła możliwość realizacji wariantu budowy elektrowni wytwarzającej energię 
+elektryczną w procesie spalania gazu ziemnego (Projekt gazowy) w dotychczasowej lokalizacji budowanego bloku 
+węglowego. W konsekwencji powyższego, Zarząd ENEA S.A. podjął decyzję o zamiarze kontynuacji budowy jednostki 
+wytwórczej w Ostrołęce z uwzględnieniem zmiany źródła zasilania z węglowego na gazowe. 
+2 czerwca 2020 r. zostało zawarte trójstronne porozumienie pomiędzy ENEA S.A., ENERGA S.A. oraz PKN Orlen S.A., 
+określające następujące główne zasady współpracy w Projekcie gazowym: 
+• z zastrzeżeniami poczynionymi poniżej, kontynuację współpracy ENEA S.A. z ENERGA S.A. w ramach 
+istniejącej spółki celowej, tj. Elektrownia Ostrołęka Sp. z o.o. i dokonanie rozliczenia pomiędzy ENEA S.A. 
+i ENERGA S.A. kosztów związanych z Projektem oraz dokonanie rozliczenia z wykonawcami Projektu, według 
+dotychczasowych zasad, 
+• uwzględnienie ewentualnej roli PKN Orlen S.A. w Projekcie gazowym w charakterze nowego wspólnika, 
+• udział ENEA S.A. w Projekcie gazowym jako wspólnika mniejszościowego z ograniczonym kwotowo limitem 
+zaangażowania, 
+w 
+konsekwencji 
+czego 
+ENEA 
+S.A. 
+nie 
+będzie 
+podmiotem 
+współkontrolującym 
+Elektrownię Ostrołęka Sp. z o.o., 
+• z zastrzeżeniem uzyskania niezbędnych zgód korporacyjnych, zawarcie nowej umowy wspólników w sprawie 
+realizacji Projektu gazowego uwzględniającej powyższe zasady współpracy, 
+• realizację działań dla pozyskania finansowania dla Projektu gazowego przez ENERGA S.A. wspólnie 
+z PKN Orlen S.A. 
+Począwszy od 2 czerwca 2020 r. strony powyższego porozumienia prowadziły rozmowy dotyczące zawarcia nowej umowy 
+inwestycyjnej określającej zasady dalszej realizacji Projektu gazowego, w tym poziom zaangażowania finansowego każdej 
+ze Stron. Równolegle ENEA S.A. przeprowadzała własne oceny dalszej zasadności udziału w tym projekcie. 
+22 grudnia 2020 r. Rada Nadzorcza ENEA S.A., na wniosek Zarządu ENEA S.A., wyraziła zgodę na: 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+16 
+• rezygnację ENEA S.A. z zaangażowania kapitałowego w budowę bloku gazowego w ramach Projektu Ostrołęka 
+C, oraz 
+• uzgodnienie z ENERGA S.A. zasad rozliczenia kosztów realizacji projektu budowy bloku węglowego w ramach 
+Projektu Ostrołęka C. 
+W związku z powyższym ENEA S.A. i pozostałe strony zaangażowane w Projekt Ostrołęka C uzgodniły, że w ramach 
+Projektu Ostrołęka C zostanie wyodrębniona (w tym rachunkowo i organizacyjnie) część przedsiębiorstwa związanego 
+z prowadzeniem projektu gazowego. Od dnia wyodrębnienia koszty inwestycyjne związane z rozliczeniem projektu 
+gazowego nie będą ponoszone przez ENEA S.A. 
+Ponadto, 22 grudnia 2020 r. zostały podpisane: 
+• 
+porozumienie pomiędzy ENEA S.A., ENERGA S.A. oraz Elektrownią Ostrołęka Sp. z o.o. w sprawie współpracy 
+przy podziale Elektrownia Ostrołęka Sp. z o.o. (Porozumienie podziałowe), 
+• 
+porozumienie pomiędzy Spółką, a ENERGA S.A. w sprawie współpracy przy rozliczeniu projektu budowy bloku 
+węglowego w ramach Projektu Ostrołęka C (Porozumienie rozliczeniowe, Projekt węglowy). 
+Porozumienia te zostały podpisane w związku z decyzją o zmianie źródła zasilania dla budowanej Elektrowni Ostrołęka C 
+o mocy ok. 1000 MW z węglowego na gazowe, oraz decyzją ENEA S.A. o nieuczestniczeniu w Projekcie gazowym. 
+W treści obydwu porozumień ENEA S.A. złożyła oświadczenie o rezygnacji z udziału w Projekcie gazowym. Powody 
+rezygnacji z dalszego zaangażowania kapitałowego w budowę bloku gazowego związane są w szczególności z zamiarem 
+intensyfikacji działań inwestycyjnych GK ENEA w obszarze odnawialnych źródeł energii, jak również dedykowania 
+nakładów związanych z konwersją zasilania węglowego na gazowe w obszarze wytwarzania dla posiadanych przez 
+ENEA S.A. istniejących już aktywów wytwórczych, w odniesieniu do których ENEA S.A. jest pełnym właścicielem. 
+Okoliczność uzgodnienia Porozumień potwierdza również, iż w związku z decyzją ENEA S.A. o rezygnacji 
+z Projektu gazowego pozostałe strony nie będą wywodzić z tej decyzji żadnych roszczeń względem ENEA S.A. 
+Zgodnie z postanowieniami Porozumienia podziałowego podział Elektrownia Ostrołęka Sp. z o.o. miałby nastąpić poprzez 
+wydzielenie (w rozumieniu przepisów Kodeksu Spółek Handlowych) aktywów i pasywów (praw i obowiązków) oraz innych 
+elementów, składających się na Projekt gazowy. 
+Porozumienie rozliczeniowe zostało zawarte jako konieczne dla realizacji postanowień Porozumienia podziałowego, 
+wymagającej kooperacji wspólników Elektrowni Ostrołęka Sp. z o.o., w tym niezbędnego rozliczenia kosztów związanych 
+z Projektem węglowym. Porozumienie rozliczeniowe przewiduje, że koszty związane z Projektem węglowym będą 
+rozliczane w oparciu o dotychczasowe ustaleniami pomiędzy spółką, a ENERGA S.A. i ENEA S.A. 
+31 grudnia 2020 r., ENEA S.A., zgodnie z Porozumieniem rozliczeniowym (zmieniającym w tym zakresie umowę pożyczki 
+z 23 grudnia 2019 r.), odkupiła od ENERGA S.A. połowę wierzytelności ENERGA S.A. wobec Elektrowni Ostrołęka 
+Sp. z o.o. za cenę równą wartości nominalnej zbywanych wierzytelności w kwocie 170 000 tys. zł, powiększonej o odsetki 
+naliczone na dzień 31 grudnia 2020 r. w kwocie 11 617 tys. zł. 
+Na 30 czerwca 2021 r. odpisy aktualizujące wartość pożyczek udzielonych spółce Elektrownia Ostrołęka Sp. z o.o. 
+wynosiły łącznie 219 772 tys. zł, wraz z odsetkami (wartość pożyczek odpisano do zera). 
+26 lutego 2021 r. ENEA S.A. i ENERGA S.A. zawarły ze spółką Elektrownia Ostrołęka Sp. z o.o. Aneks nr 1 do Umowy 
+Pożyczki w kwocie do 340 000 tys. zł z 23 grudnia 2019 r. oraz Aneks nr 6 do Umowy Pożyczki do kwoty 58 000 tys. zł 
+z 17 lipca 2019 r. Zgodnie z postanowieniami wyżej wymienionych aneksów spółka Elektrownia Ostrołęka Sp. z o.o. 
+zobowiązała się do dokonania na rzecz ENEA S.A. jednorazowej spłaty pożyczek w kwocie odpowiednio 170 000 tys. zł 
+oraz 29 000 tys. zł wraz z należnymi odsetkami w terminie do 30 czerwca 2021 r. Następnie, 30 czerwca 2021 r. ENEA 
+S.A. i ENERGA S.A. zawarły ze spółką Elektrownia Ostrołęka Sp. z o.o. Aneks nr 2 do Umowy Pożyczki w kwocie do 340 
+000 tys. zł z 23 grudnia 2019 r. oraz Aneks nr 7 do Umowy Pożyczki do kwoty 58 000 tys. zł z 17 lipca 2019 r. Zgodnie 
+z postanowieniami wyżej wymienionych aneksów spółka Elektrownia Ostrołęka Sp. z o.o. zobowiązała się do dokonania 
+na rzecz ENEA S.A. jednorazowej spłaty pożyczek w kwocie odpowiednio 170 000 tys. zł oraz 29 000 tys. zł wraz 
+z należnymi odsetkami w terminie do 30 września 2021 r. 
+25 czerwca 2021 r. doszło do zawarcia przez Elektrownia Ostrołęka Sp. z o.o. jako sprzedającym ze spółką CCGT 
+Ostrołęka Sp. z o.o. jako kupującym (podmiotem w 100% zależnym od ENERGA S.A.) umowy sprzedaży oraz umów 
+towarzyszących, przedsiębiorstwa SPV (z wyłączeniem niektórych składników) przeznaczonego (służącego) do realizacji 
+zadań gospodarczych obejmujących budowę bloku energetycznego w technologii zasilania paliwem gazowym 
+zlokalizowanego w Ostrołęce, a następnie eksploatację tego bloku (Elektrownia Gazowa). Zbywana działalność obejmuje 
+co do zasady wszystkie składniki majątkowe i niemajątkowe SPV wykorzystywane w dniu transakcji w związku 
+z podejmowaniem czynności przygotowawczych do rozpoczęcia procesu inwestycyjnego budowy Elektrowni 
+Gazowej. Transakcja ma na celu umożliwienie realizacji projektu gazowego przez CCGT Ostrołęka Sp. z o.o., jako spółki, 
+która zastąpi Elektrownia Ostrołęka Sp. z o.o. w realizacji inwestycji zlokalizowanej w Ostrołęce. Cena sprzedaży 
+zbywanej działalności (wartość transakcji) szacowana jest obecnie na ok. 166 mln zł. Cena została ustalona wstępnie, 
+jako że transakcja przewiduje zastosowanie dodatkowych przesłanek ustalenia ceny ostatecznej. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+17 
+25 czerwca 2021 r. doszło także do zawarcia pomiędzy spółką Elektrownia Ostrołęka Sp. z o.o. i spółką CCGT Ostrołęka 
+Sp. z o.o. z jednej strony, a GE Power Sp. z o.o. z siedzibą w Warszawie, GE Steam Power Systems S.A.S. (poprzednia 
+firma: ALSTOM Power Systems S.A.S.) z siedzibą w Boulogne-Billancourt, Francja („Wykonawca Projektu Węglowego”) 
+oraz General Electric Global Services, GmbH z siedzibą w Baden, Szwajcaria (razem z GE Power sp. z o.o. Wykonawcą 
+Projektu Gazowego) z drugiej strony, Dokumentu Zmiany Kontraktu z 21 lipca 2018 r. na budowę Elektrowni Ostrołęka 
+"C" o mocy 1000 MW oraz Porozumienia w sprawie rozliczenia realizacji Projektu Węglowego. Konstrukcja Dokumentu 
+Zmiany Kontraktu ma na celu umożliwienie realizacji Projektu Gazowego przez CCGT Ostrołęka Sp. z o.o., jako spółki, 
+która zastąpi Elektrownia Ostrołęka Sp. z o.o. w realizacji inwestycji zlokalizowanej w Ostrołęce, co jest związane między 
+innymi z tym, że ENEA S.A. potwierdziła rezygnację z udziału w Projekcie Gazowym. Porozumienie w sprawie rozliczenia 
+realizacji Projektu Węglowego reguluje prawa i obowiązki Elektrownia Ostrołęka Sp. z o.o. oraz Wykonawcy Projektu 
+Węglowego głównie w zakresie rozliczenia wykonywanych przez Wykonawcę Projektu Węglowego prac w ramach 
+realizacji tego projektu, w zakresie prac budowlanych do momentu ich wstrzymania wskutek zawieszenia wykonania 
+Kontraktu, czynności zachowawczych i zabezpieczających wykonywanych w okresie zawieszenia Kontraktu oraz prac 
+związanych z zakończeniem prac dedykowanych dla realizacji Projektu Węglowego. Zgodnie z tym porozumieniem 
+rozliczenie realizacji Projektu Węglowego nastąpi do końca 2021 r., a całkowita kwota jaką Elektrownia Ostrołęka 
+Sp. z o.o. będzie zobowiązana zapłacić na rzecz Wykonawcy Projektu Węglowego, uwzględniając dotychczas poniesione 
+nakłady, nie przekroczy 1,35 mld zł (netto). 
+W związku z zawarciem powyższego Porozumienia oraz na podstawie stanu rozliczeń Elektrowni Ostrołęka Sp. z o.o. 
+z Wykonawcą Projektu Węglowego, w niniejszym skróconym śródrocznym jednostkowym sprawozdaniu finansowym 
+dokonano częściowego rozwiązania rezerwy na przyszłe zobowiązania inwestycyjne wobec spółki Elektrownia Ostrołęka 
+Sp. z o.o., utworzonej w kwocie 222 200 tys. zł, o kwotę 114 100 tys. zł. Kwota ta została ujęta w jednostkowym 
+sprawozdaniu z całkowitych dochodów w pozycji „Zmiana odpisu z tytułu utraty wartości udziałów w jednostkach zależnych, 
+stowarzyszonych i współkontrolowanych”. Wysokość rezerwy na 30 czerwca 2021 r. wynosi 108 100 tys. zł. i stanowi 
+najlepszy możliwy szacunek w związku z niepewnością co do ostatecznych kwot rozliczenia. 
+Zobowiązanie ENEA S.A. do zapewnienia finansowania spółce Elektrownia Ostrołęka Sp. z o.o. wynikające z dotychczas 
+zawartych porozumień (w szczególności z 28 grudnia 2018 r. oraz 30 kwietnia 2019 r. oraz Porozumienia 
+rozliczeniowego), które nie zostało zrealizowane, wynosi 620 mln zł. ENEA S.A. nie posiada informacji o ewentualnych 
+dodatkowych, poza wskazanymi powyżej, wpłatach, ani o ich terminach. 
+12. Zapasy 
+Zapasy 
+ 
+Stan na 
+30 czerwca 2021 
+31 grudnia 2020 
+ 
+ 
+ 
+ Świadectwa pochodzenia energii 
+223 897
+65 489
+ Towary 
+163
+211
+ Razem 
+224 060
+65 700
+Na zapasach nie ustanowiono zabezpieczeń. 
+Świadectwa pochodzenia energii 
+ 
+Okres 6 miesięcy 
+zakończony 
+Rok zakończony 
+ 
+30 czerwca 2021 
+31 grudnia 2020 
+ 
+ 
+ 
+ Wartość netto na początek okresu 
+65 489
+216 449
+ Nabycie 
+271 398
+339 953
+ Umorzenie 
+(112 990)
+(490 913)
+Wartość netto na koniec okresu 
+223 897
+65 489
+Koszty związane z umorzeniem świadectw pochodzenia energii prezentowane są w pozycji: Zakup energii i gazu na 
+potrzeby sprzedaży. 
+ 
+ 
+ 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+18 
+13. Aktywa i zobowiązania z tytułu umów z klientami 
+Aktywa i zobowiązania z tytułu umów z klientami 
+ 
+Aktywa z tytułu umów 
+z klientami 
+Zobowiązania z tytułu umów 
+z klientami 
+ 
+ 
+ 
+Stan na 1 stycznia 2020 
+215 223
+12 631
+Zmiana stanu należności niezafakturowanych 
+13 731
+Zmiana odpisu aktualizującego 
+(49)
+Korekty, przedpłaty 
+19 658
+Stan na 31 grudnia 2020 
+228 905
+32 289
+Zmiana stanu należności niezafakturowanych 
+57 837
+Zmiana odpisu aktualizującego 
+(23)
+Korekty, przedpłaty 
+8 490
+Stan na 30 czerwca 2021 
+286 719
+40 779
+Saldo aktywów z tytułu umów z klientami obejmuje przede wszystkim niezafakturowaną sprzedaż energii elektrycznej, 
+natomiast saldo zobowiązań z tytułu umów z klientami obejmuje przede wszystkim zobowiązania wynikające z korekt 
+sprzedaży związane m.in. z Ustawą o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, a także 
+przedpłaty. 
+14. Środki pieniężne i ich ekwiwalenty 
+ 
+Istotne osądy i szacunki 
+Zgodnie z przyjętymi przez ENEA S.A. zasadami oceny ryzyka kredytowego oraz zapisami MSSF 9 w zakresie oceny 
+utraty wartości środków pieniężnych i ich ekwiwalentów na 30 czerwca 2021 r. potencjalny wpływ został oszacowany 
+przez Spółkę jako nieistotny. 
+Prezentacja depozytów w IRGiT 
+Są to środki pieniężne stanowiące zabezpieczenie rozliczeń z Izbą Rozliczeniową Giełd Towarowych S.A., które 
+podlegają ocenie co do możliwości ich uwolnienia bez ponoszenia istotnej straty. 
+Środki pieniężne i ich ekwiwalenty 
+Stan na
+ 
+30 czerwca 2021 
+31 grudnia 2020 
+ Środki pieniężne w banku 
+54 193
+70 580
+ w tym split payment 
+9 601
+30 035
+ Inne środki pieniężne 
+1 183 056
+460 088
+ - lokaty 
+1 180 032
+450 013
+ - inne 
+3 024
+10 075
+ 
+Razem środki pieniężne i ich ekwiwalenty 
+1 237 249
+530 668
+Cash pooling 
+(1 111 188)
+(152 574)
+Środki pieniężne wykazane w rachunku przepływów pieniężnych 
+126 061
+378 094
+Środki pieniężne o ograniczonej możliwości dysponowania z tytułu split payment – VAT rozdzielona płatność na 
+30 czerwca 2021 r. wynosiły 9 601 tys. zł (na 31 grudnia 2020 r. wynosiły 30 035 tys. zł), depozyt w IRGiT na 30 czerwca 
+2021 r. wynosił 500 tys. zł (na 31 grudnia 2020 r. 6 500 tys. zł). Na środkach pieniężnych nie ustanowiono zabezpieczeń. 
+15. Pokrycie straty 
+17 czerwca 2021 r. Zwyczajne Walne Zgromadzenie ENEA S.A. podjęło uchwałę nr 6 w sprawie pokrycia straty netto za 
+rok obrotowy obejmujący okres od 1 stycznia 2020 r. do 31 grudnia 2020 r., zgodnie z którą strata netto w kwocie 3 356 750 
+tys. zł została pokryta z zysków zatrzymanych w kwocie 2 417 700 tys. zł oraz z kapitału zapasowego w kwocie 939 680 
+tys. zł. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+19 
+30 lipca 2020 r. Zwyczajne Walne Zgromadzenie ENEA S.A. podjęło uchwałę nr 6 w sprawie podziału zysku netto za rok 
+obrotowy obejmujący okres od 1 stycznia 2019 r. do 31 grudnia 2019 r., zgodnie z którą 100% zysku netto za rok 2019 
+zostało przekazane na kapitał rezerwowy z przeznaczeniem na finansowanie inwestycji. 
+16. Zobowiązania z tytułu zadłużenia 
+Kredyty, pożyczki i dłużne papiery wartościowe 
+ 
+Stan na
+30 czerwca 2021
+31 grudnia 2020
+ 
+Kredyty bankowe 
+1 584 096
+1 685 532
+Obligacje 
+3 015 880
+4 874 054
+Długoterminowe
+4 599 976
+6 559 586
+Kredyty bankowe 
+206 370
+206 520
+Obligacje 
+2 098 871
+1 003 999
+Krótkoterminowe
+2 305 241
+1 210 519
+Razem 
+6 905 217
+7 770 105
+Zgodnie z przyjętym modelem finansowania ENEA S.A. w celu zapewnienia finansowania bieżącej działalności oraz 
+potrzeb inwestycyjnych spółek należących do Grupy Kapitałowej ENEA zawiera z zewnętrznymi instytucjami finansowymi 
+umowy dotyczące programów emisji obligacji i/lub umowy kredytowe. 
+Kredyty i pożyczki 
+Poniżej przedstawiono zestawienie kredytów i pożyczek w Spółce: 
+Lp. 
+Spółka 
+Podmiot 
+udzielający 
+Data zawarcia 
+umowy 
+Łączna 
+kwota 
+umowy 
+Wartość 
+zadłużenia 
+na 
+30 czerwca 
+2021 
+(kapitał) 
+Wartość 
+zadłużenia 
+na 
+31 grudnia 
+2020 
+(kapitał) 
+Oprocentowanie 
+Termin 
+ostatecznej 
+spłaty 
+1. 
+ENEA S.A. 
+EBI 
+18 października 
+2012 r. (A) 
+ oraz 
+19 czerwca 
+2013 r. (B) 
+1 425 000 
+950 837
+1 013 543
+Stała stopa 
+procentowa
+lub 
+WIBOR 6M
++marża 
+17 czerwca 
+2030 r. 
+2. 
+ENEA S.A. 
+EBI 
+29 maja 
+2015 r. (C) 
+946 000
+839 500
+878 500
+Stała stopa 
+procentowa
+lub 
+WIBOR 6M
++marża 
+15 września 
+2032 r. 
+3. 
+ENEA S.A. 
+PKO BP S.A. 
+28 stycznia 
+2014 r., 
+Aneks nr 2 
+z 4 grudnia 
+2019 r. 
+300 000
+-
+WIBOR 1M
++marża 
+31 grudnia 
+2022 r. 
+4. 
+ENEA S.A. 
+Bank 
+Pekao S.A. 
+28 stycznia 
+2014 r., 
+Aneks nr 2 
+z 4 grudnia 
+2019 r. 
+150 000
+-
+WIBOR 1M
++marża 
+31 grudnia 
+2022 r. 
+5. 
+ENEA S.A. 
+BGK 
+7 września 
+2020 r. 
+250 000
+-
+WIBOR 1M 
++marża 
+7 września 
+2022 r. 
+ 
+Razem 
+ 
+ 
+3 071 000
+1 790 337 
+1 892 043 
+ 
+ 
+Koszty transakcyjne oraz 
+efekt wyceny według 
+efektywnej stopy 
+procentowej 
+ 
+ 
+129
+9
+ 
+ 
+ 
+Razem 
+ 
+ 
+3 071 000
+1 790 466
+1 892 052
+ 
+ 
+ENEA S.A. posiada obecnie umowy kredytowe zawarte z Europejskim Bankiem Inwestycyjnym (EBI) na łączną kwotę 
+2 371 000 tys. zł (Umowa A 950 000 tys. zł i Umowa B 475 000 tys. zł oraz Umowa C 946 000 tys. zł). Środki pozyskane 
+z EBI zostały przeznaczone na sfinansowanie wieloletniego planu inwestycyjnego dotyczącego modernizacji i rozbudowy 
+sieci energetycznych ENEA Operator Sp. z o.o. Środki z Umowy A, B i C zostały w pełni wykorzystane. Oprocentowanie 
+kredytów może być stałe lub zmienne. W okresie 6 miesięcy zakończonym 30 czerwca 2021 r., ENEA S.A. nie zawierała 
+nowych umów kredytowych. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+20 
+Programy emisji obligacji 
+Poniżej przedstawiono zestawienie obligacji wyemitowanych przez ENEA S.A.: 
+Lp. 
+Nazwa programu 
+emisji obligacji 
+Data 
+zawarcia 
+Programu 
+Kwota 
+Programu 
+Wartość 
+wyemitowanych 
+niewykupionych 
+obligacji 
+na 30 czerwca 
+2021 
+Wartość 
+wyemitowanych 
+niewykupionych 
+obligacji 
+na 31 grudnia 2020
+Oprocentowanie 
+Termin wykupu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+Umowa Programu 
+Emisji Obligacji 
+zawarta z PKO BP 
+S.A., Bankiem 
+Pekao S.A., 
+Santander BP S.A., 
+Citi BH S.A. 
+ 
+21 czerwca 
+2012 r. 
+3 000 000 
+1 799 000
+2 140 000
+WIBOR 6M 
++marża 
+Jednorazowy 
+wykup danej serii
+w terminach od 
+czerwca 2020 r.
+ do 
+czerwca 2022 r. 
+2. 
+Umowa Programu 
+Emisji Obligacji 
+zawarta z Bankiem 
+Gospodarstwa 
+Krajowego 
+15 maja 
+2014 r. 
+1 000 000
+680 000
+720 000
+WIBOR 6M 
++marża 
+Wykup w ratach, 
+ostatnia rata 
+płatna w 
+grudniu 2026 r. 
+3. 
+Umowa Programu 
+Emisji Obligacji 
+zawarta z PKO BP 
+S.A., Bankiem 
+Pekao S.A. oraz 
+mBankiem S.A. 
+30 czerwca 
+2014 r. 
+5 000 000
+2 150 000 
+2 500 000 
+WIBOR 6M 
++marża 
+Jednorazowy 
+wykup danej serii,
+w lutym 2020 r. 
+dokonano 
+wykupu 878 mln 
+zł, kolejne w: 
+wrześniu 2021 r., 
+czerwcu 2024 r. 
+4. 
+Umowa Programu 
+Emisji Obligacji 
+zawarta z Bankiem 
+Gospodarstwa 
+Krajowego 
+3 grudnia 
+2015 r. 
+700 000
+494 724 
+532 779 
+WIBOR 6M 
++marża 
+Wykup w ratach, 
+ostatnia rata 
+płatna we 
+wrześniu 2027 r. 
+ 
+Razem 
+ 
+9 700 000
+5 123 724
+5 892 779
+ 
+ 
+Koszty transakcyjne oraz 
+efekt wyceny według 
+efektywnej stopy 
+procentowej 
+ 
+(8 973)
+(14 726)
+ 
+ 
+ 
+Razem 
+ 
+9 700 000
+5 114 751
+5 878 053
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 r., ENEA S.A. nie zawierała nowych umów programowych 
+dotyczących emisji obligacji. 
+11 maja 2021 r. Zarząd ENEA S.A. podjął decyzję o dokonaniu częściowego odkupu obligacji serii ENEA0921 przed 
+terminem zapadalności w celu ich umorzenia w kwocie głównej 350 000 tys. zł powiększonej o należne odsetki oraz 
+premię dla posiadaczy. Obligacje serii ENEA0921 zostały wyemitowane w wysokości 500 000 tys. zł 16 września 2015 r. 
+na podstawie „Umowy Programowej dotyczącej Programu Emisji Obligacji do kwoty 5 000 000 tys. zł z 30 czerwca 
+2014 r.” z późniejszymi zmianami. Niewykupiona część obligacji serii ENEA0921 o wartości nominalnej 150 000 tys. zł 
+pozostaje w posiadaniu obligatariuszy do dnia zapadalności tj. do 16 września 2021 r. 
+Transakcje zabezpieczające ryzyko stopy procentowej oraz transakcje zabezpieczające ryzyko walutowe 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 r. ENEA S.A. nie zawierała nowych transakcji zabezpieczających 
+ryzyko stopy procentowej (Interest Rate Swap). Łączna wartość ekspozycji dotycząca obligacji i kredytów zabezpieczona 
+transakcjami IRS na 30 czerwca 2021 r. wyniosła 3 451 564 tys. zł. Ponadto ENEA S.A. posiada kredyty zaciągnięte na 
+stałej stopie procentowej o łącznym wolumenie 630 221 tys. zł. Zawarte transakcje wpływają w istotny sposób na 
+przewidywalność strumieni wydatków i kosztów finansowych. Spółka prezentuje wycenę tych instrumentów w pozycji: 
+Zobowiązania finansowe wyceniane w wartości godziwej. Instrumenty pochodne są traktowane, jako zabezpieczenie 
+przepływów, w związku z czym są ujmowane i rozliczane w księgach z zastosowaniem zasad dotyczących rachunkowości 
+zabezpieczeń. Na 30 czerwca 2021 r. zobowiązania finansowe wyceniane w wartości godziwej, dotyczące wyceny IRS, 
+wyniosły 53 582 tys. zł (na 31 grudnia 2020 r. 139 673 tys. zł). 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 r. Spółka zawarła transakcje FX FORWARD o łącznym 
+wolumenie 1 116 tys. EUR. Data rozliczenia ostatniej transakcji przypada na grudzień 2021 r. Na 30 czerwca 2021 r. 
+zobowiązania finansowe wyceniane w wartości godziwej, dotyczące wyceny forward, wyniosły 63 tys. zł (na 31 grudnia 
+2020 r. 0 tys. zł). 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+21 
+Warunki finansowania – kowenanty 
+Umowy finansowania przewidują konieczność spełnienia przez ENEA S.A. i Grupę Kapitałową ENEA między innymi 
+określonych wskaźników finansowych. Na dzień sporządzenia niniejszego skróconego śródrocznego jednostkowego 
+sprawozdania finansowego ENEA S.A. nie naruszyła zapisów umów kredytowych, na podstawie których byłaby 
+zobowiązania do wcześniejszej spłaty zadłużenia długoterminowego. 
+17. Rezerwy 
+ 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 r. rezerwy na zobowiązania i inne obciążenia zwiększyły się netto 
+o 31 964 tys. zł (w okresie 6 miesięcy zakończonym 30 czerwca 2020 r. rezerwy na pozostałe zobowiązania i inne 
+obciążenia zwiększyły się netto o 264 219 tys. zł). 
+Zmiana stanu rezerw na zobowiązania i inne obciążenia za okres kończący się 30 czerwca 2021 r.: 
+ 
+Rezerwa na 
+bezumowne 
+korzystanie 
+z gruntów 
+Rezerwa na 
+inne 
+zgłoszone 
+roszczenia 
+Rezerwa na 
+świadectwa 
+pochodzenia 
+energii 
+Rezerwa na 
+umowy 
+rodzące 
+obciążenia 
+Pozostałe 
+Razem 
+ 
+ 
+ 
+ 
+ 
+ 
+Stan na 1 stycznia 2021 
+2 275
+200 095
+168 012
+50 821
+222 200
+643 403
+Zwiększenie istniejących rezerw 
+231
+16 168
+281 719
+11 906
+310 024
+Wykorzystanie rezerw 
+-
+(80)
+(155 218)
+(8 170)
+-
+(163 468)
+Rozwiązanie niewykorzystanej 
+rezerwy 
+(59)
+(433)
+-
+-
+(114 100)
+(114 592)
+Stan na 30 czerwca 2021
+2 447
+215 750
+294 513
+54 557
+108 100
+675 367
+Krótkoterminowe 
+2 447
+215 750
+294 513
+54 557
+108 100
+675 367
+Opis istotnych roszczeń oraz zobowiązań warunkowych został przedstawiony w nocie 24. 
+Rezerwa na inne zgłoszone roszczenia 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 r. ENEA S.A. utworzyła rezerwę na poziomie 9 773 tys. zł na 
+potencjalne roszczenia związane z wypowiedzeniem przez ENEA S.A. umów na zakup świadectw pochodzenia energii 
+z odnawialnych źródeł i na 30 czerwca 2021 r. wartość rezerwy z tego tytułu była na poziomie 149 238 tys. zł (rezerwa 
+jest ujęta w tabeli powyżej w kolumnie „Rezerwa na inne zgłoszone roszczenia”, natomiast szczegółowe informacje 
+dotyczące tej rezerwy są zawarte w nocie 24.5). 
+ 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego sprawozdania finansowego 
+ 
+22 
+Instrumenty finansowe i zarządzanie ryzykiem finansowym 
+ 
+18. Instrumenty finansowe i wartość godziwa 
+Instrumenty finansowe 
+Poniższa tabela zawiera zestawienie wartości godziwych z wartościami księgowymi: 
+ 
+ 
+ 
+ 
+ 
+Stan na 30 czerwca 2021 
+Stan na 31 grudnia 2020 
+ 
+Wartość księgowa 
+Wartość godziwa 
+Wartość księgowa 
+Wartość godziwa 
+ 
+ 
+ 
+ 
+ 
+AKTYWA FINANSOWE 
+ 
+ 
+ 
+ 
+Długoterminowe 
+4 600 083 
+4 645 829 
+6 167 435 
+6 241 259 
+Aktywa finansowe wyceniane w wartości godziwej 
+39 174 
+39 174 
+84 848 
+84 848 
+Dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie 
+4 560 492 
+4 606 655 
+6 082 074 
+6 156 411 
+Należności z tytułu leasingu i subleasingu finansowego 
+417 
+* 
+513 
+* 
+ 
+ 
+ 
+ 
+ 
+Krótkoterminowe 
+5 618 226 
+2 499 742 
+3 302 456 
+1 406 802 
+Dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie 
+2 499 742 
+2 499 742 
+1 406 802 
+1 406 802 
+Aktywa z tytułu umów z klientami 
+286 719 
+* 
+228 905 
+* 
+Należności z tytułu dostaw i usług 
+1 592 599 
+* 
+1 132 807 
+* 
+Należności z tytułu leasingu i subleasingu finansowego 
+1 917 
+* 
+3 274 
+* 
+Środki pieniężne i ich ekwiwalenty 
+1 237 249 
+* 
+530 668 
+* 
+ 
+ 
+ 
+ 
+ 
+AKTYWA FINANSOWE RAZEM 
+10 218 309 
+7 145 571 
+9 469 891 
+7 648 061 
+ 
+ 
+ 
+ 
+ 
+ZOBOWIĄZANIA FINANSOWE 
+ 
+ 
+ 
+ 
+Długoterminowe 
+4 628 472 
+4 674 791 
+6 660 601 
+6 701 368 
+Kredyty, pożyczki i dłużne papiery wartościowe 
+4 599 976 
+4 671 764 
+6 559 586 
+6 626 237 
+Zobowiązania z tytułu leasingu 
+25 469 
+* 
+25 884 
+* 
+Zobowiązania finansowe wyceniane w wartości godziwej 
+3 027 
+3 027 
+75 131 
+75 131 
+ 
+ 
+ 
+ 
+ 
+Krótkoterminowe 
+4 041 706 
+2 355 859 
+1 814 359 
+1 275 061 
+Kredyty, pożyczki i dłużne papiery wartościowe 
+2 305 241 
+2 305 241 
+1 210 519 
+1 210 519 
+Zobowiązania z tytułu leasingu 
+3 492 
+* 
+5 431 
+* 
+Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania 
+530 388 
+* 
+349 004 
+* 
+Zobowiązania z tytułu umów z klientami 
+40 779 
+* 
+32 289 
+* 
+Zobowiązania finansowe wyceniane w wartości godziwej 
+50 618 
+50 618 
+64 542 
+64 542 
+Inne zobowiązania finansowe 
+1 111 188 
+* 
+152 574 
+* 
+ 
+ 
+ 
+ 
+ZOBOWIĄZANIA FINANSOWE RAZEM 
+8 670 178 
+7 030 650 
+8 474 960 
+7 976 429 
+ (*) Wartość księgowa jest zbliżona do ich wartości godziwej wycenianej zgodnie z poziomem 2 poniższej hierarchii. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+23 
+Wycena instrumentów finansowych mierzonych w wartości godziwej według poziomów hierarchii. 
+ 
+ 
+Stan na 31 grudnia 2020 
+ 
+Poziom 1 
+Poziom 2 
+Poziom 3 
+Razem 
+ 
+ 
+ 
+ 
+ 
+Aktywa finansowe wyceniane w wartości godziwej 
+15 000
+15 982
+53 866
+84 848
+Instrumenty kapitałowe wyceniane w wartości godziwej 
+przez inne całkowite dochody 
+-
+53 866
+53 866
+Opcje call (wyceniane w wartości godziwej przez wynik 
+finansowy) 
+15 982
+15 982
+Akcje i udziały wyceniane w wartości godziwej przez wynik 
+finansowy 
+15 000
+-
+15 000
+Dłużne aktywa finansowe wyceniane 
+w zamortyzowanym koszcie 
+7 563 213
+7 563 213
+Razem 
+15 000
+7 579 195
+53 866
+7 648 061
+ 
+Zobowiązania finansowe wyceniane w wartości 
+godziwej 
+-
+(139 673)
+-
+(139 673)
+Instrumenty pochodne wykorzystywane 
+-
+(139 673)
+-
+(139 673)
+w rachunkowości zabezpieczeń (m.in. zabezpieczające 
+transakcje swap na stopę procentową) 
+Kredyty, pożyczki i dłużne papiery wartościowe 
+-
+(7 836 756)
+-
+(7 836 756)
+Razem 
+-
+(7 976 429)
+-
+(7 976 429)
+Aktywa finansowe i zobowiązania finansowe wyceniane w wartości godziwej to między innymi: 
+− 
+udziały i akcje w jednostkach niepowiązanych, w których udział w kapitale jest mniejszy niż 20%; w przypadku, 
+gdy udziały i akcje w jednostkach niepowiązanych notowane są na Giełdzie Papierów Wartościowych, ich wartość 
+godziwa ustalana jest w oparciu o notowania giełdowe; 
+− 
+opcje kupna akcji spółki Polimex-Mostostal S.A.; 
+− 
+instrumenty pochodne, które obejmują wycenę transakcji zabezpieczających ryzyko stóp procentowych (Interest 
+Rate Swap); wartość godziwa instrumentów pochodnych określana jest poprzez wyliczenie wartości bieżącej 
+netto w oparciu o dwie krzywe dochodowości, tj. krzywą do ustalenia czynników dyskonta oraz krzywą służącą 
+do estymacji przyszłych stawek zmiennych stóp referencyjnych; 
+Długoterminowe dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie obejmują nabyte dłużne instrumenty 
+finansowe – obligacje oraz udzielone pożyczki o terminie wymagalności powyżej jednego roku. Wartość godziwa wyliczana 
+jest dla instrumentów finansowych opartych na stałej stopie procentowej, na podstawie bieżącego WIBOR-u. 
+Krótkoterminowe dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie obejmują udzielone nabyte dłużne 
+instrumenty finansowe – obligacje oraz pożyczki o terminie wymagalności poniżej jednego roku. 
+Wartość godziwa kredytów bankowych, pożyczek i dłużnych papierów wartościowych wyliczana jest dla instrumentów 
+finansowych opartych na stałej stopie procentowej, na podstawie bieżącego WIBOR-u. 
+Powyższa tabela przedstawia analizę instrumentów finansowych mierzonych w wartości godziwej, pogrupowanych według 
+trzypoziomowej hierarchii, gdzie: 
+Poziom 1 - wartość godziwa oparta jest o ceny giełdowe (niekorygowane) oferowane za identyczne aktywa lub zobowiązania 
+ 
+Stan na 30 czerwca 2021 
+ 
+Poziom 1 
+Poziom 2 
+Poziom 3 
+Razem 
+ 
+ 
+ 
+ 
+ 
+Aktywa finansowe wyceniane w wartości godziwej 
+19 250
+19 924
+39 174
+Opcje call (wyceniane w wartości godziwej przez wynik 
+finansowy) 
+19 924
+19 924
+Akcje i udziały wyceniane w wartości godziwej przez wynik 
+finansowy 
+19 250
+-
+19 250
+Dłużne aktywa finansowe wyceniane 
+w zamortyzowanym koszcie 
+7 145 571
+7 145 571
+Razem 
+19 250
+7 165 495
+7 184 745
+ 
+ 
+ 
+ 
+ 
+Zobowiązania finansowe wyceniane w wartości 
+godziwej 
+-
+(53 645)
+-
+(53 645)
+Instrumenty pochodne wykorzystywane 
+-
+(53 582)
+-
+(53 582)
+w rachunkowości zabezpieczeń (m.in. zabezpieczające 
+transakcje swap na stopę procentową) 
+Instrumenty pochodne wyceniane w wartości godziwej 
+przez wynik finansowy 
+-
+(63)
+-
+(63)
+Kredyty, pożyczki i dłużne papiery wartościowe 
+-
+(6 948 509)
+-
+(6 948 509)
+Razem 
+-
+(7 002 154)
+-
+(7 002 154)
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+24 
+na aktywnych rynkach. 
+Poziom 2 - wartość godziwa ustalana jest na bazie wartości obserwowanych na rynku, jednakże niebędących bezpośrednim 
+kwotowaniem rynkowym (np. ustalane są przez odniesienie bezpośrednie lub pośrednie do podobnych instrumentów 
+istniejących na rynku). 
+Poziom 3 - wartość godziwa ustalana jest na bazie różnych technik wyceny nieopierających się jednakże o jakiekolwiek 
+obserwowalne dane rynkowe. 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 r. nie było żadnych przesunięć pomiędzy poziomami hierarchii. 
+Na 30 czerwca 2021 r. w pozycji aktywa finansowe wyceniane w wartości godziwej Spółka prezentuje między innymi opcje 
+kupna akcji spółki Polimex-Mostostal S.A. Na podstawie umowy opcji zakupu akcji Polimex-Mostostal S.A. z 18 stycznia 
+2017 r. z późniejszymi zmianami ENEA S.A. posiada 22 opcje call od Towarzystwa Finansowego Silesia Sp. z o.o. na 
+zakup 6 937 500 akcji, po cenie nominalnej 2 zł za akcję. Umowny dzień przydziału akcji przypada na koniec każdego 
+kwartału kalendarzowego od września 2021 r. do grudnia 2026 r. Wycena opcji call do wartości godziwej została 
+przeprowadzona z wykorzystaniem modelu Blacka-Scholesa. Wartość księgowa opcji na 30 czerwca 2021 r. wynosiła 
+19 924 tys. zł (wartość księgowa opcji na 31 grudnia 2020 r. wynosiła 15 982 tys. zł). 
+19. Dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie 
+Dłużne aktywa finansowe wyceniane w zamortyzowanym koszcie 
+Stan na
+30 czerwca 2021
+31 grudnia 2020
+ 
+ 
+Krótkoterminowe dłużne aktywa finansowe wyceniane w zamortyzowanym 
+koszcie 
+Obligacje wewnątrzgrupowe 
+1 647 229
+554 896
+Udzielone pożyczki 
+852 513
+851 906
+Krótkoterminowe dłużne aktywa finansowe wyceniane w zamortyzowanym 
+koszcie razem 
+2 499 742
+1 406 802
+ 
+Długoterminowe dłużne aktywa finansowe wyceniane w zamortyzowanym 
+koszcie 
+Obligacje wewnątrzgrupowe 
+1 596 425
+3 132 273
+Udzielone pożyczki 
+2 964 067
+2 949 801
+Długoterminowe dłużne aktywa finansowe wyceniane w zamortyzowanym 
+koszcie razem 
+4 560 492
+6 082 074
+ 
+RAZEM 
+7 060 234
+7 488 876
+Finansowanie wewnątrzgrupowe 
+Grupa Kapitałowa ENEA przyjęła model finansowania inwestycji prowadzonych przez spółki zależne od ENEA S.A. 
+poprzez finansowanie wewnątrzgrupowe. ENEA S.A. pozyskuje na rynku finansowym długoterminowe środki pieniężne 
+poprzez zaciąganie kredytów lub emisję obligacji, a następnie dystrybuuje je wewnątrz Grupy Kapitałowej ENEA 
+w oparciu o umowy programowe obligacji wewnątrzgrupowych, bądź umowy pożyczek. Ponadto ENEA S.A. udziela 
+spółkom zależnym finansowania ze środków własnych. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+25 
+Obligacje wewnątrzgrupowe 
+Poniższa tabela prezentuje aktualnie realizowane programy emisji obligacji wewnątrzgrupowych według stanu na 
+30 czerwca 2021 r. oraz na 31 grudnia 2020 r.: 
+Lp. 
+Spółka emitująca 
+obligacje 
+Data zawarcia 
+umowy 
+Kwota 
+udzielona 
+Kwota 
+wykorzystana 
+Obligacje 
+niewykupione 
+na 
+30 czerwca 
+2021 
+(kapitał) 
+Obligacje 
+niewykupione 
+na 
+31 grudnia 
+2020 
+(kapitał) 
+Oprocentowanie 
+Termin 
+ostatecznego 
+wykupu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+ENEA Nowa 
+Energia Sp. z o.o. 
+10 marca 
+2011 r. 
+26 000
+26 000 
+12 000
+18 000
+WIBOR 6M
++marża 
+31 marca 
+2023 r. 
+2. 
+ENEA Wytwarzanie 
+Sp. z o.o. 
+8 września 
+2012 r. umowa na 
+kwotę 
+4 000 000 tys. zł 
+zmniejszona 
+Aneksem nr 2 
+z 21 stycznia 
+2015 r. do kwoty 
+3 000 000 tys. zł 
+3 000 000
+2 650 000
+1 449 000
+1 790 000
+W zależności 
+od serii: 
+stała stopa 
+procentowa
+lub 
+WIBOR 6M
++marża 
+Uzależniony 
+od terminów 
+emisji serii 
+obligacji, 
+jednak nie 
+później niż 
+15 czerwca 
+2022 r. 
+3. 
+ENEA Operator 
+Sp. z o.o. 
+20 czerwca 
+2013 r. zmieniona 
+Aneksem nr 1 
+z 9 października 
+2014 r. oraz 
+Aneksem nr 2 
+z 7 lipca 2015 r. 
+1 425 000
+1 425 000
+950 837
+1 013 543
+W zależności 
+od serii: 
+stała stopa 
+procentowa
+lub 
+WIBOR 6M
++marża 
+Uzależniony 
+od terminów 
+emisji serii 
+obligacji, 
+jednak nie 
+później niż 
+17 czerwca 
+2030 r. 
+4. 
+ENEA Operator 
+Sp. z o.o. 
+7 lipca 2015 r. 
+zmieniona 
+Aneksem nr 1 
+z 28 marca 
+2017 r. 
+946 000
+946 000
+839 500
+878 500
+W zależności 
+od serii: 
+stała stopa 
+procentowa
+lub 
+WIBOR 6M
++marża 
+Uzależniony 
+od terminów 
+emisji serii 
+obligacji, 
+jednak nie 
+później niż 
+15 września 
+2032 r. 
+ 
+Razem 
+ 
+ 
+ 
+3 251 337 
+3 700 043 
+ 
+ 
+Koszty transakcyjne 
+oraz efekt wyceny 
+według efektywnej 
+stopy procentowej 
+ 
+ 
+ 
+(7 683)
+(12 874)
+ 
+ 
+Razem 
+ 
+ 
+ 
+3 243 654
+3 687 169
+ 
+ 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 r. ENEA S.A. nie zawierała nowych wewnątrzgrupowych umów 
+programowych emisji obligacji dotyczących finansowania spółek GK ENEA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+26 
+Pożyczki 
+Poniższa tabela prezentuje pożyczki udzielone przez ENEA S.A. według stanu na 30 czerwca 2021 r. oraz na 31 grudnia 
+2020 r.: 
+Lp. 
+Pożyczkobiorca 
+Data zawarcia 
+umowy 
+Łączna kwota 
+umowy 
+Wartość 
+zadłużenia na 
+30 czerwca 
+2021 
+Wartość 
+zadłużenia na 
+31 grudnia 
+2020 
+Oprocentowanie
+Termin ostatecznej 
+spłaty 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+KS „ENERGETYK” 
+19 maja 
+2019 r. 
+360
+360
+360
+Stałe 
+31 stycznia 
+2020 r., 
+[strony zaplanowały 
+zawarcie 
+porozumienia do 
+umowy] 
+2. 
+ENEA Operator 
+Sp. z o.o. 
+11 lipca 
+2019 r. 
+425 000
+425 000
+425 000
+WIBOR 6M 
++ marża 
+20 grudnia 
+2021 r. 
+3. 
+Elektrownia 
+Ostrołęka Sp. z o.o. 
+30 września 
+2019 r. 
+29 000
+29 000
+29 000
+Stałe 
+30 września 
+2021 r. 
+4. 
+ENEA Operator 
+Sp. z o.o. 
+13 grudnia 
+2019 r. 
+425 000
+425 000
+425 000
+WIBOR 6M 
++ marża 
+20 grudnia 
+2021 r. 
+5. 
+Elektrownia 
+Ostrołęka Sp. z o.o. 
+23 grudnia 
+2019 r. 
+170 000
+170 000
+170 000
+Stałe 
+30 września 
+2021 r. 
+6. 
+ENEA Wytwarzanie 
+Sp. z o.o. 
+30 stycznia 
+2020 r. 
+2 200 000
+1 800 000
+1 800 000
+WIBOR 6M 
++ marża 
+30 września 
+2024 r. 
+7. 
+ENEA Elektrownia 
+Połaniec S.A. 
+28 lutego 
+2020 r. 
+500 000
+500 000
+500 000
+WIBOR 6M 
++ marża 
+20 grudnia 
+2024 r. 
+8. 
+ENEA Operator Sp. 
+z o.o. 
+12 marca 
+2020 r. 
+950 000
+650 000
+650 000
+WIBOR 6M 
++ marża 
+20 grudnia 
+2024 r. 
+9. 
+ENEA Operator Sp. 
+z o.o. 
+22 czerwca 
+2021 r. 
+1 090 000
+-
+WIBOR 6M 
++ marża 
+20 grudnia 
+2026 r. 
+10 
+Miejska Energetyka 
+Cieplna Piła Sp. z 
+o.o. 
+24 czerwca 
+2021 r. 
+15 000
+15 000
+WIBOR 6M 
++ marża 
+20 grudnia 
+2031 r. 
+ 
+ 
+4 014 360
+3 999 360
+Koszty transakcyjne 
+oraz efekt wyceny 
+według efektywnej 
+stopy procentowej oraz 
+odpisy aktualizujące 
+wartość pożyczek 
+(197 780)
+(197 653)
+ 
+Razem 
+ 
+3 816 580
+3 801 707
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 r. ENEA S.A. zawarła dwie nowe umowy pożyczek 
+wewnątrzgrupowych. 
+26 lutego 2021 r. ENEA S.A. i ENERGA S.A. zawarły ze spółką Elektrownia Ostrołęka Sp. z o.o. Aneks nr 1 do umowy 
+pożyczki w kwocie do 340 000 tys. zł z 23 grudnia 2019 r. oraz Aneks nr 6 do umowy pożyczki w kwocie do 58 000 tys. zł 
+z 17 lipca 2019 r. Zgodnie z postanowieniami wyżej wymienionych aneksów spółka Elektrownia Ostrołęka Sp. z o.o. 
+zobowiązała się do dokonania na rzecz ENEA S.A. jednorazowej spłaty pożyczek w kwocie odpowiednio 170 000 tys. zł 
+oraz 29 000 tys. zł wraz z należnymi odsetkami w terminie do 30 czerwca 2021 r. 
+22 czerwca 2021 r. ENEA S.A. zawarła ze spółką ENEA Operator Sp. z o.o. umowę pożyczki w kwocie do 1 090 000 tys. 
+zł z przeznaczeniem na sfinansowanie zaplanowanych na rok 2021 wydatków pożyczkobiorcy. Okres dostępności 
+pożyczki upływa 31 grudnia 2021 r. 
+24 czerwca 2021 r. ENEA S.A. zawarła ze spółką Miejska Energetyka Cieplna Piła Sp. z o.o. umowę pożyczki w kwocie 
+do 15 000 tys. zł z przeznaczeniem na sfinansowanie zaplanowanych wydatków pożyczkobiorcy. Pożyczka została 
+w całości wypłacona. 
+30 czerwca 2021 r. ENEA S.A. i ENERGA S.A. zawarły ze spółką Elektrownia Ostrołęka Sp. z o.o. Aneks nr 2 do umowy 
+pożyczki w kwocie do 340 000 tys. zł z 23 grudnia 2019 r. oraz Aneks nr 7 do umowy pożyczki w kwocie do 58 000 tys. zł 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+27 
+z 17 lipca 2019 r. Zgodnie z postanowieniami wyżej wymienionych aneksów termin jednorazowej spłaty przez spółkę 
+Elektrownia Ostrołęka Sp. z o.o. pożyczek wraz z należnymi odsetkami został prolongowany do 30 września 2021 r. 
+Odpisy aktualizujące aktywa finansowe wyceniane w zamortyzowanym koszcie (dotyczące udzielonych pożyczek) 
+wynoszą na 30 czerwca 2021 r. 220 072 tys. zł. Łączny odpis aktualizujący wartość udzielonych pożyczek rozpoznany 
+w okresie 6 miesięcy zakończonym 30 czerwca 2021 r. wyniósł 9 988 tys. zł i kwota ta została ujęta w jednostkowym 
+sprawozdaniu z całkowitych dochodów w pozycji: Odpisy aktualizujące aktywa finansowe wyceniane w zamortyzowanym 
+koszcie. 
+20. Odpisy aktualizujące wartość należności z tyt. dostaw i usług oraz pozostałych należności 
+Odpisy aktualizujące wartość należności z tytułu dostaw i usług oraz pozostałych należności: 
+ 
+Okres 6 miesięcy 
+zakończony 
+Rok zakończony 
+ 
+30 czerwca 2021 
+31 grudnia 2020 
+ 
+Odpis aktualizujący wartość należności na początek okresu 
+59 450
+54 820
+Utworzony 
+7 452
+12 647
+Wykorzystany 
+(2 823)
+(8 017)
+Odpis aktualizujący wartość należności na koniec okresu 
+64 079
+59 450
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 r. odpis aktualizujący wartość bilansową należności z tytułu dostaw 
+i usług oraz pozostałych należności zwiększył się o 4 629 tys. zł (w okresie 6 miesięcy zakończonym 30 czerwca 2020 r. 
+odpis aktualizujący zwiększył się o 2 377 tys. zł). Odpisy są tworzone głównie od należności handlowych. Odpisy od 
+pozostałych należności są nieistotne. 
+Na 30 czerwca 2021 r. Spółka dokonała dodatkowej analizy możliwego wpływu związanego z pandemią COVID-19 na 
+poziom odpisów na należności. Przy zastosowaniu podejścia indywidualnego, odniesionego do listy największych 
+dłużników ENEA S.A. wykorzystano założenia modelu opisanego w obowiązującej w Spółce Metodyce ustalania odpisów 
+z tytułu oczekiwanych strat kredytowych dla długoterminowych aktywów dłużnych i zbliżonych pozycji. W zakresie modułu 
+ilościowego modelu – wykorzystano dostępne dane sprawozdawcze dłużników, w zakresie modułu jakościowego 
+natomiast – uwzględniono aktualną (a także przewidywaną) sytuację panującą w gospodarce krajowej oraz pozycję 
+rynkową i finansową kontrahenta. Na podstawie uzyskanej oceny łącznej oszacowano ocenę ratingową podmiotów, którą 
+następnie transponowano na parametr Probability of Default (zgodnie z ww. Metodyką). W zakresie parametru Loss Given 
+Default przyjęto konserwatywnie wartość równą 10% (a więc istotnie przekraczającą faktyczne poziomy utraty należności 
+notowane w Spółce). Powyższa analiza wygenerowała dodatkowy odpis na oczekiwane straty na poziomie nieistotnym 
+z punktu widzenia sprawozdawczego. 
+Dla krótkoterminowych należności handlowych kalkulacja oczekiwanych strat kredytowych odbywa się w oparciu o dane 
+historyczne w sposób opisany w Zasadach tworzenia i ewidencji odpisów aktualizujących wartość należności z tytułu 
+dostaw i usług oraz innych pozycji finansowych w Spółkach Grupy ENEA. Dla roku 2021 utratę wartości należności ustala 
+się w oparciu o wskaźniki, których podstawą wyliczeń są dane pochodzące z roku 2020. Oszacowana na 30 czerwca 
+2021 r. wysokość odpisu aktualizującego dla należności uwzględnia zatem obiektywne przesłanki utraty wartości 
+wynikające z sytuacji i regulacji zaistniałych na skutek pandemii COVID-19. 
+ 
+21. Analiza struktury wiekowej aktywów z tytułu umów z klientami oraz należności z tytułu dostaw i usług 
+Struktura wiekowa aktywów z tytułu umów z klientami i należności z tytułu dostaw i usług: 
+Stan na 30 czerwca 2021 
+Wartość nominalna 
+Odpis aktualizujący 
+Wartość księgowa 
+ 
+Należności z tytułu dostaw 
+i usług oraz pozostałe należności 
+Bieżące 
+1 181 743 
+(509)
+1 181 234
+Przeterminowane 
+167 527
+(61 298)
+106 229
+ 0-30 dni 
+61 137
+(109)
+61 028
+ 31-90 dni 
+16 222
+(2 164)
+14 058
+ 91-180 dni 
+7 913
+(2 853)
+5 060
+ ponad 180 dni 
+82 255
+(56 172)
+26 083
+Razem 
+1 349 270
+(61 807)
+1 287 463
+Aktywa z tytułu umów z klientami 
+286 834
+(115)
+286 719
+ 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+28 
+ 
+ 
+Stan na 31 grudnia 2020 
+Wartość nominalna 
+Odpis aktualizujący 
+Wartość księgowa 
+ 
+Należności z tytułu dostaw 
+i usług oraz pozostałe należności 
+Bieżące 
+1 029 742 
+(638)
+1 029 104
+Przeterminowane 
+160 198
+(56 495)
+103 703
+ 0-30 dni 
+63 118
+(75)
+63 043
+ 31-90 dni 
+11 645
+(936)
+10 709
+ 91-180 dni 
+6 583
+(1 761)
+4 822
+ ponad 180 dni 
+78 852
+(53 723)
+25 129
+Razem 
+1 189 940
+(57 133)
+1 132 807
+Aktywa z tytułu umów z klientami 
+228 995
+(90)
+228 905
+ 
+22. Inne zobowiązania finansowe 
+Zarządzanie środkami pieniężnymi w Grupie Kapitałowej ENEA dokonywane jest z poziomu ENEA S.A., co umożliwia 
+efektywne zarządzanie nadwyżkami środków pieniężnych jak również pozwala na ograniczenie kosztów finansowania 
+zewnętrznego. Systemem zarządzania środkami pieniężnymi w grupie rachunków (Usługa Cash Poolingu) objęte są 
+wybrane spółki z Grupy Kapitałowej ENEA. 
+W ramach przedmiotowej usługi, salda rachunków bankowych u uczestników usługi, na koniec każdego dnia są zerowane, 
+a następnie nadwyżka środków przekazywana jest na rachunek zarządzającego, którym jest ENEA S.A. Kolejnego dnia 
+salda środków są odwracane i powracają na rachunki uczestników. 
+Na 30 czerwca 2021 r. saldo zobowiązań w ramach cash poolingu wynosiło 1 111 188 tys. zł (na 31 grudnia 2020 r. 
+152 574 tys. zł) i prezentowane jest w pozycji: Inne zobowiązania finansowe. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+29 
+Pozostałe noty objaśniające 
+ 
+23. Transakcje z jednostkami powiązanymi 
+ 
+Spółka zawiera transakcje z następującymi podmiotami powiązanymi: 
+− 
+transakcje ze spółkami wchodzącymi w skład Grupy Kapitałowej ENEA, 
+− 
+transakcje zawarte pomiędzy Spółką a Członkami Władz ENEA S.A., które podzielić należy na dwie kategorie: 
+− wynikające z powołania na Członków Rad Nadzorczych, 
+− wynikające z innych umów o charakterze cywilno-prawnym, 
+− 
+transakcje z podmiotami powiązanymi ze Skarbem Państwa Rzeczypospolitej Polskiej. 
+Spółki wchodzące w skład Grupy Kapitałowej ENEA 
+ 
+ 
+Okres 6 miesięcy zakończony 
+ 
+30 czerwca 2021 
+30 czerwca 2020 
+ 
+ 
+ 
+Wartość zakupu, w tym: 
+4 173 209 
+3 771 432 
+ zakupy materiałów 
+269 
+212 
+ zakupy usług 
+1 079 814 
+881 998 
+ pozostałe (w tym energia i gaz) 
+3 093 126 
+2 889 222 
+ 
+ 
+ 
+Wartość sprzedaży, w tym: 
+176 310 
+173 506 
+ sprzedaż energii 
+163 540 
+157 301 
+ sprzedaż usług 
+492 
+1 471 
+ pozostała 
+12 278 
+14 734 
+ 
+ 
+ 
+Przychody z tytułu odsetek, w tym: 
+70 142 
+111 000 
+ od obligacji 
+41 178 
+84 130 
+ od pożyczek 
+28 717 
+23 441 
+ pozostałe 
+247 
+3 429 
+ 
+ 
+ 
+ 
+ 
+Stan na 
+ 
+30 czerwca 2021 
+31 grudnia 2020 
+ 
+ 
+ 
+Należności 
+381 175 
+413 082 
+Zobowiązania 
+529 880 
+415 751 
+Aktywa finansowe – obligacje 
+3 243 654 
+3 687 169 
+Udzielone pożyczki 
+3 816 518 
+3 801 646 
+Inne zobowiązania finansowe 
+1 111 188 
+152 574 
+ 
+Transakcje ze spółkami z Grupy Kapitałowej przeprowadzane są na zasadach rynkowych, a warunki nie odbiegają od 
+stosowanych w transakcjach z innymi podmiotami. 
+Transakcje z członkami Władz Spółki 
+ 
+Zarząd Spółki 
+Rada Nadzorcza Spółki 
+Tytuł 
+Okres 6 miesięcy zakończony 
+Okres 6 miesięcy zakończony 
+ 
+30 czerwca 2021 30 czerwca 2020
+30 czerwca 2021 30 czerwca 2020
+ 
+Wynagrodzenia z tytułu kontraktów 
+menadżerskich 
+1 848*
+2 674**
+-
+Wynagrodzenia z tytułu powołania do 
+organów zarządzających lub nadzorujących 
+-
+401
+386
+RAZEM 
+1 848
+2 674
+401
+386
+* Wynagrodzenie obejmuje zakaz konkurencji dla byłych Członków Zarządu w wysokości 138 tys. zł. 
+** Wynagrodzenie obejmuje premie za 2018 r. w wysokości 1 294 tys. zł. 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 r. z ZFŚS nie udzielono Członkom Rady Nadzorczej pożyczek 
+(0 tys. zł za okres 6 miesięcy zakończony 30 czerwca 2020 r.). 
+Inne transakcje, wynikające z umów cywilno-prawnych zawartych pomiędzy ENEA S.A. a Członkami Władz Spółki dotyczą 
+przede wszystkim wykorzystania przez Członków Zarządu ENEA S.A. samochodów służbowych dla celów prywatnych. 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+30 
+ 
+Transakcje z podmiotami powiązanymi ze Skarbem Państwa Rzeczypospolitej Polskiej 
+ENEA S.A. zawiera również transakcje handlowe z jednostkami administracji państwowej i samorządowej oraz 
+podmiotami będącymi własnością Skarbu Państwa Rzeczypospolitej Polskiej. 
+Przedmiotem tych transakcji są głównie: 
+− 
+zakupy energii elektrycznej oraz praw majątkowych wynikających ze świadectw pochodzenia energii w zakresie 
+energii odnawialnej oraz energii produkowanej w kogeneracji z ciepłem, które Spółka realizuje od podmiotów 
+zależnych od Skarbu Państwa, 
+− 
+sprzedaż energii elektrycznej, usługi dystrybucyjnej i pozostałych powiązanych z tym opłat, którą Spółka 
+realizuje zarówno dla organów administracji państwowej, samorządowej (sprzedaż odbiorcom końcowym) 
+jak i spółek zależnych od Skarbu Państwa (sprzedaż hurtowa oraz detaliczna – odbiorcom końcowym). 
+Transakcje te przeprowadzane są na zasadach rynkowych, a warunki nie odbiegają od stosowanych w transakcjach 
+z innymi podmiotami. Spółka nie prowadzi ewidencji umożliwiającej agregowanie wartości wszystkich transakcji 
+realizowanych ze wszystkimi instytucjami państwowymi oraz podmiotami zależnymi od Skarbu Państwa. 
+Dodatkowo Spółka zidentyfikowała transakcje z jednostkami powiązanymi ze Skarbem Państwa o charakterze 
+finansowym, tj. z bankami, które są gwarantami w programach emisji obligacji. Wśród tych podmiotów znajdują się: 
+PKO BP S.A., Pekao S.A. oraz Bank Gospodarstwa Krajowego. Szczegółowe informacje dotyczące programów emisji 
+obligacji zostały zaprezentowane w nocie 16. 
+24. Zobowiązania warunkowe, postepowania sądowe oraz sprawy toczące się przed organem administracji 
+publicznej 
+W tej części not objaśniających zaprezentowano zobowiązania warunkowe oraz postępowania toczące się przed sądem, 
+organem właściwym dla postępowania arbitrażowego lub organem administracji publicznej. 
+24.1. Poręczenia i gwarancje 
+W okresie 6 miesięcy zakończonym 30 czerwca 2021 r. ENEA S.A. jako Poręczyciel nie zawarła żadnej umowy 
+poręczenia. 
+W tabeli poniżej przedstawiono obowiązujące na 30 czerwca 2021 r. istotne gwarancje bankowe w ramach umów 
+zawartych przez ENEA S.A. z Bankiem PKO BP S.A. oraz z Bankiem PEKAO S.A. do wysokości limitu określonego w 
+umowie. 
+Zestawienie udzielonych gwarancji wg stanu na 30 czerwca 2021 r. 
+Data 
+udzielenia 
+gwarancji 
+Data 
+obowiązywania 
+gwarancji 
+Podmiot zobowiązany 
+Podmiot na rzecz 
+którego udzielono 
+gwarancji 
+Bank - 
+wystawca 
+Kwota 
+udzielonej 
+gwarancji 
+w tys. zł 
+30.12.2020 
+31.12.2022 
+ENEA Elektrownia Połaniec 
+Izba Rozliczeniowa Giełd 
+Towarowych S.A. 
+PEKAO S.A. 
+490 000 
+12.08.2018 
+30.06.2022 
+ENEA Elektrownia Połaniec 
+Polskie Sieci 
+Elektroenergetyczne 
+PKO BP S.A. 
+20 000 
+26.06.2020 
+15.03.2022 
+ENEA Serwis Sp. z o.o. 
+ENEA Operator Sp. z o.o. 
+PKO BP S.A. 
+3 145 
+12.08.2018 
+15.02.2022 
+ENEA S.A. 
+Górecka 
+Projekt Sp. z o.o. 
+PKO BP S.A. 
+2 109 
+01.07.2020 
+30.06.2022 
+ENEA S.A. 
+Szpital Kliniczny im. H. 
+Święcickiego w Poznaniu 
+PKO BP S.A. 
+1 281 
+Suma udzielonych gwarancji bankowych
+516 535 
+Wartość pozostałych gwarancji udzielonych przez Spółkę na 30 czerwca 2021 r. wynosi 6 626 tys. zł. Łączna wartość 
+poręczeń i gwarancji udzielonych przez ENEA S.A. na zabezpieczenie zobowiązań spółek Grupy Kapitałowej ENEA na 
+30 czerwca 2021 r. wynosiła 558 292 tys. zł. 
+ 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+31 
+24.2. Postępowania toczące się przed sądami powszechnymi 
+Postępowania z powództwa Spółki 
+Postępowania wszczynane przed sądami powszechnymi z powództwa ENEA S.A. dotyczą dochodzenia należności 
+z tytułu dostarczania energii elektrycznej oraz dochodzenia należności z innych tytułów – nielegalnego poboru energii 
+elektrycznej, przyłączeń do sieci i innych usług specjalistycznych. 
+Na 30 czerwca 2021 r. przed sądami powszechnymi toczyło się łącznie 16 351 spraw z powództwa Spółki na łączną 
+kwotę 55 769 tys. zł (na 31 grudnia 2020 r. toczyło się 12 237 spraw o łącznej wartości 55 724 tys. zł). 
+Wynik żadnej ze spraw nie jest istotny dla wyniku finansowego Spółki. 
+Postępowania przeciwko Spółce 
+Postępowania przeciwko Spółce wszczynane są zarówno z powództwa osób fizycznych, jak i prawnych. Dotyczą one 
+m.in. kwestii takich jak: odszkodowania za przerwy w dostawach energii, odszkodowania za korzystanie przez Spółkę 
+z nieruchomości, na których znajdują się urządzenia elektroenergetyczne oraz roszczenia z tytułu rozwiązanych umów na 
+zakup praw majątkowych (nota 24.5). 
+Na 30 czerwca 2021 r. przed sądami powszechnymi toczyło się łącznie 105 spraw przeciwko Spółce na łączną kwotę 
+563 208 tys. zł (odpowiednio na 31 grudnia 2020 r. toczyło się 128 spraw o łącznej wartości 563 866 tys. zł). 
+Rezerwy związane z tymi sprawami sądowymi prezentowane są w nocie 17. 
+24.3. Pozostałe postępowania sądowe 
+Zarząd ENEA S.A. złożył w grudniu 2018 r. odpowiedź na pozew w sprawie z powództwa akcjonariusza Spółki Fundacji 
+"CLIENTEARTH Prawnicy dla ziemi" z siedzibą w Warszawie o stwierdzenie nieważności lub ewentualnie ustalenie 
+nieistnienia lub ewentualnie o uchylenie uchwały nr 3 Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. z 24 września 
+2018 r. w sprawie wyrażenia kierunkowej zgody na przystąpienie do Etapu Budowy w ramach projektu Ostrołęka C 
+i zażądał oddalenia powództwa w całości jako bezzasadnego oraz zasądzenia kosztów zastępstwa procesowego. 
+10 kwietnia 2019 r. odbyła się pierwsza rozprawa w sprawie, na rozprawę nie byli wzywani świadkowie. Sąd zobowiązał 
+Spółkę do złożenia Umowy Inwestycyjnej w terminie 14 dni, co najmniej w zakresie punktów od 1 do 8 (w szczególności 
+pkt 8.6) pod rygorem ujemnych skutków procesowych wskazanych w art. 233 § 2 k.p.c. Pełnomocnik ENEA złożył 
+zastrzeżenie do protokołu w trybie art. 162 k.p.c. 24 kwietnia 2019 r. Spółka złożyła Umowę Inwestycyjną. Sąd postanowił 
+odroczyć rozprawę do 17 lipca 2019 r. 31 lipca 2019 r. Sąd Okręgowy w Poznaniu uwzględnił powództwo w zakresie 
+roszczenia głównego i stwierdził nieważność Uchwały. 17 września 2019 r. pełnomocnik ENEA S.A. złożył apelację od 
+wyroku z 31 lipca 2019 r. Strona powodowa złożyła odpowiedź na apelację, na którą pełnomocnik ENEA S.A. złożył 
+replikę. 8 lipca 2020 r. Sąd Apelacyjny oddalił apelację Spółki od wyroku Sądu Okręgowego. Jak zostało wskazane 
+w ustnych zasadniczych powodach rozstrzygnięcia, Sąd Apelacyjny uznał, że wyrok Sądu Okręgowego odpowiada prawu, 
+ponieważ Uchwała jest nieważna z tego względu, iż podjęcie Uchwały naruszało podział kompetencji między organami 
+spółki handlowej. W konsekwencji, z dniem 8 lipca 2020 r. wyrok Sądu Okręgowego w Poznaniu stwierdzający nieważność 
+Uchwały stał się prawomocny. Spółka oceniła wpływ tego zdarzenia jako neutralny dla raportowanych danych. 
+Zarząd ENEA S.A. złożył w grudniu 2018 r. odpowiedź na pozew w sprawie z powództwa Międzyzakładowego Związku 
+Zawodowego Synergia Pracowników Grupy Kapitałowej ENEA z siedzibą w Poznaniu o stwierdzenie nieważności 
+lub ewentualnie o uchylenie uchwały nr 3 Nadzwyczajnego Walnego Zgromadzenia ENEA S.A. z 24 września 2018 r. 
+w sprawie wyrażenia kierunkowej zgody na przystąpienie do Etapu Budowy w ramach projektu Ostrołęka C i zażądał 
+oddalenia powództwa w całości jako bezzasadnego oraz zasądzenia kosztów zastępstwa procesowego. Termin rozprawy 
+wyznaczono na 8 maja 2019 r. Rozprawa ta nie odbyła się, podobnie jak kolejne wyznaczone na 30 lipca 2019 r. 
+i 1 października 2019 r. Postępowanie zostało zawieszone do czasu prawomocnego zakończenia postępowania w sprawie 
+z powództwa akcjonariusza Spółki Fundacji "CLIENTEARTH Prawnicy dla ziemi". Sąd Okręgowy w Poznaniu 
+postanowieniem z 26 maja 2021 r. umorzył postępowanie. 
+ 
+ 
+ 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+32 
+24.4. Sprawy dotyczące niezbilansowania za 2012 r. 
+30 i 31 grudnia 2014 r. ENEA S.A. wystąpiła z zawezwaniami do próby ugodowej w stosunku do: 
+ 
+Kwota zawezwania
+w tys. zł 
+ 
+ 
+PGE Polska Grupa Energetyczna S.A. 
+7 410
+PKP Energetyka S.A. 
+1 272
+TAURON Polska Energia S.A. 
+17 086
+TAURON Sprzedaż GZE Sp. z o.o. 
+1 826
+Razem 
+27 594
+Przedmiotem zawezwań były roszczenia o zapłatę za energię elektryczną niepoprawnie rozliczoną na rynku bilansującym 
+w 2012 r. Zawezwane spółki poprzez niewyrażenie zgody na wystawienie przez ENEA S.A. faktur za rok 2012 
+bezpodstawnie uzyskały z tego tytułu korzyści majątkowe. 
+W związku z brakiem ugodowego rozstrzygnięcia w powyższej sprawie, ENEA S.A. wystąpiła ze stosownymi pozwami 
+przeciwko: 
+− 
+TAURON Polska Energia S.A. – pozew z 10 grudnia 2015 r., 
+− 
+TAURON Sprzedaż GZE Sp. z o. o. – pozew z 10 grudnia 2015 r., 
+− 
+PKP Energetyka S.A. – pozew z 28 grudnia 2015 r., 
+− 
+PGE Polska Grupa Energetyczna S.A. – pozew z 29 grudnia 2015 r. 
+W trzech z wyżej wymienionych postępowań nie doszło do rozstrzygnięcia sporów przez sądy I instancji. W sprawie ENEA 
+S.A. przeciwko Tauron Polska Energia S.A. i inni (sygn. akt: XIII GC 600/15/AM), 23 marca 2021 r., Sąd Okręgowy 
+w Katowicach wydał wyrok oddalający powództwo w całości i zasądził koszty postępowania na rzecz pozwanego oraz 
+podmiotów przypozwanych. 20 maja 2021 r. został doręczony wyrok z pisemnym uzasadnieniem. 10 czerwca 2021 r. 
+ENEA S.A. wniosła apelację do Sądu Apelacyjnego w Katowicach. W sprawie przeciwko PGE Polska Grupa 
+Energetyczna S.A. (sygn. akt XVI GC 525/20, poprzednia sygnatura XX GC 1163/15) - postanowieniem z 7 stycznia 2021 
+r. sąd zawiesił postępowanie na zgodny wniosek stron. 
+Z tytułu powyższych spraw w jednostkowym sprawozdaniu z sytuacji finansowej nie zostały rozpoznane żadne kwoty. 
+24.5. Spór dotyczący cen na świadectwa pochodzenia energii OZE oraz wypowiedziane umowy na 
+zakup praw majątkowych wynikających ze świadectw pochodzenia energii z odnawialnych źródeł 
+ENEA S.A. jest stroną 8 postępowań sądowych dotyczących umów na zakup praw majątkowych wynikających ze 
+świadectw pochodzenia energii z odnawialnych źródeł, na które składają się: 
+• 
+5 postępowań o zapłatę, w których przeciwko ENEA S.A. dochodzone są roszczenia tytułem wynagrodzenia, 
+kar umownych bądź odszkodowania; 
+• 
+2 postępowania o ustalenie bezskuteczności wypowiedzenia przez ENEA S.A umów sprzedaży praw 
+majątkowych dokonanego 28 października 2016 r., przy czym w jednym postępowaniu równolegle z żądaniem 
+ustalenia dochodzone jest roszczenie o zapłatę; 
+• 
+1 postępowanie o zapłatę, w którym ENEA S.A. dochodzi roszczenia tytułem kary umownej. 
+ENEA S.A. dokonała potrącenia płatności części wierzytelności przysługujących kontrahentom wobec ENEA S.A. z tytułu 
+zapłaty ceny za sprzedane prawa majątkowe z wierzytelnością odszkodowawczą ENEA S.A. wobec wytwórców OZE. 
+Szkoda wyrządzona ENEA S.A. powstała wskutek niewykonania przez kontrahentów obowiązku kontraktowego 
+przystąpienia w dobrej wierze do renegocjacji kontraktów długoterminowych na sprzedaż praw majątkowych zgodnie 
+z obowiązującą strony klauzulą adaptacyjną. 
+28 października 2016 r. ENEA S.A. złożyła oświadczenia, w zależności od umowy, o wypowiedzeniu albo o odstąpieniu 
+od długoterminowych umów na zakup przez Spółkę praw majątkowych wynikających ze świadectw pochodzenia energii 
+z odnawialnych źródeł (tzw. zielonych certyfikatów) (Umowy). 
+Umowy zostały zawarte w latach 2006-2014 z niżej wymienionymi kontrahentami, do których należą instalacje wytwórcze 
+energii elektrycznej z odnawialnych źródeł (Kontrahenci): 
+• 
+Farma Wiatrowa Krzęcin Sp. z o.o. z siedzibą w Warszawie; 
+• 
+Megawind Polska Sp. z o.o. z siedzibą w Szczecinie; 
+• 
+PGE Górnictwo i Energetyka Konwencjonalna S.A. z siedzibą w Bełchatowie; 
+• 
+PGE Energia Odnawialna S.A. z siedzibą w Warszawie; 
+• 
+PGE Energia Natury PEW Sp. z o.o. z siedzibą w Warszawie (obecnie PGE Energia Odnawialna S.A. z siedzibą 
+w Warszawie); 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+33 
+• 
+"PSW" Sp. z o.o. z siedzibą w Warszawie; 
+• 
+in.ventus Sp. z o.o. EW Śniatowo Sp. k. z siedzibą w Poznaniu (obecnie TEC1 Sp. z o.o. EW Śniatowo Sp. k. 
+z siedzibą w Katowicach); 
+• 
+Golice Wind Farm Sp. z o.o. z siedzibą w Warszawie. 
+Umowy uległy rozwiązaniu co do zasady do końca listopada 2016 r. Dokładna data rozwiązania poszczególnych Umów 
+wynikała z zapisów kontraktowych. 
+Przyczyną wypowiedzenia/odstąpienia od poszczególnych Umów przez Spółkę był brak przystąpienia do renegocjacji 
+w drodze klauzul adaptacyjnych poszczególnych umów, które uzasadniały dostosowanie umów celem przywrócenia 
+równowagi kontraktowej oraz ekwiwalentności świadczeń stron, powstałych na skutek zmian w prawie. 
+Zmiany prawa, do których doszło po dniu zawarcia wymienionych Umów, tj. w szczególności: 
+• 
+rozporządzenie Ministra Gospodarki z 18 października 2012 r. w sprawie szczegółowego zakresu obowiązków 
+uzyskania i przedstawienia do umorzenia świadectw pochodzenia, uiszczenia opłaty zastępczej, zakupu energii 
+elektrycznej i ciepła wytworzonych w odnawialnych źródłach energii oraz obowiązku potwierdzania danych 
+dotyczących ilości energii elektrycznej wytworzonej w odnawialnym źródle energii (Dz. U. z 2012 r., poz. 1229); 
+• 
+ustawa z 20 lutego 2015 r. o odnawialnych źródłach energii (Dz.U. z 2015 r. poz. 478) i związane z tą ustawą 
+kolejne zmiany prawa oraz ogłoszone projekty zmian prawa, tj. w szczególności: 
+− 
+ustawa z 22 czerwca 2016 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych 
+ustaw (Dz.U. z 2016 r. poz. 925); oraz 
+− 
+projekt rozporządzenia Ministra Energii w sprawie zmiany wielkości udziału ilościowego sumy energii 
+elektrycznej wynikającej z umorzonych świadectw pochodzenia potwierdzających wytworzenie energii 
+elektrycznej z odnawialnych źródeł energii, które ma zostać wydane na podstawie upoważnienia 
+wynikającego z art. 12 ust. 5 ustawy z 22 czerwca 2016 r. o zmianie ustawy o odnawialnych źródłach 
+energii oraz niektórych innych ustaw; 
+spowodowały obiektywny brak możliwości sporządzenia wiarygodnych modeli prognozujących kształtowanie się cen 
+zielonych certyfikatów. 
+Celem rozwiązania Umów jest uniknięcie przez Spółkę straty stanowiącej różnicę między cenami umownymi a ceną 
+rynkową zielonych certyfikatów. Ze względu na zmieniające się warunki prawne po rozwiązaniu Umów w roku 2017, 
+w szczególności wynikające z ustawy z 20 lipca 2017 r. o zmianie ustawy o odnawialnych źródłach energii, szacowana 
+wartość przyszłych zobowiązań umownych uległaby zmianie. W obecnym stanie prawnym byłaby znacząco niższa 
+w porównaniu do kwoty ok. 1 187 mln zł szacowanej na moment wypowiedzenia Umów. Spadek odzwierciedla zmianę 
+sposobu wyznaczania opłaty zastępczej, która zgodnie z treścią części Umów stanowi podstawę do wyliczania ceny 
+kontraktowej i powiązanie jej z ceną rynkową. Spółka utworzyła rezerwę w kwocie 149 238 tys. zł na potencjalne 
+roszczenia wynikające z wypowiedzianych Umów, w odniesieniu do przedstawionych do 30 czerwca 2021 r. zgłoszeń 
+transakcyjnych sprzedaży praw majątkowych przez kontrahentów. Rezerwa jest prezentowana w nocie 17. 
+W sprawie z powództwa Golice Wind Farm Sp. z o.o. przeciwko ENEA S.A., Sąd wydał 14 sierpnia 2020 r. wyrok 
+częściowy i wstępny, w którym: 
+1) 
+oddalił powództwo o ustalenie bezskuteczności wypowiedzenia przez ENEA S.A. umowy sprzedaży praw 
+majątkowych dokonanego 28 października 2016 r.; 
+2) 
+uznał roszczenie o zapłatę wynagrodzenia za prawa majątkowe i zasądził od ENEA S.A. kwotę 6 042 tys. zł 
+wraz z odsetkami; 
+3) 
+w pozostałym zakresie uznał roszczenie o zapłatę za usprawiedliwione co do zasady. 
+Wyrok nie jest prawomocny. ENEA S.A. wniosła apelację od części wyroku, tj. w zakresie pkt. 2 i 3. Ponadto spółka Golice 
+Wind Farm Sp. z o.o. 13 stycznia 2021 r. wniosła apelację od części wyroku, tj. w zakresie rozstrzygnięcia pkt 1 
+oddalającego powództwo o ustalenie. 
+W sprawach toczących się z powództwa spółek z Grupy Kapitałowej PGE, tj.: 
+• 
+PGE Energia Odnawialna S.A. z siedzibą w Warszawie (sygn. akt IX GC 1064/17) – postanowieniem 
+z 15 czerwca 2021 r. sąd podjął uprzednio zawieszone postępowanie; 
+• 
+PGE Górnictwo i Energetyka Konwencjonalna S.A. z siedzibą w Bełchatowie (sygn. akt IX GC 555/16) – 
+postanowieniem z 29 czerwca 2021 r. sąd zawiesił postępowanie na zgodny wniosek stron; 
+• 
+PGE Energia Odnawialna S.A. z siedzibą w Warszawie (sygn. akt IX GC 1011/17) – postanowieniem 
+z 16 kwietnia 2021 r. sąd podjął uprzednio zawieszone postępowanie, natomiast postanowieniem z 3 sierpnia 
+2021 r. Sąd Okręgowy w Poznaniu zawiesił postępowanie na zgodny wniosek stron. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+34 
+W sprawie z powództwa PGE Energia Odnawialna S.A. z siedzibą w Warszawie (sygn. akt IX GC 1011/17) 
+19 lipca 2021 r. doręczone Spółce zostało rozszerzenie powództwa o kwotę 17 706 tys. zł, wobec czego obecnie 
+dochodzone w postępowaniu roszczenia obejmują łącznie 51 019 tys. zł. 
+W sprawie z powództwa ENEA S.A. przeciwko PGE Górnictwo i Energetyka Konwencjonalna S.A. (sygn. akt X GC 608/20) 
+– postanowieniem z 26 października 2020 r. sąd zawiesił postępowanie na zgodny wniosek stron. Postanowienie jest 
+prawomocne. 
+W sprawie z powództwa Hamburg Commercial Bank AG przeciwko ENEA S.A., w której Hamburg Commercial Bank AG 
+dochodzi roszczeń z umowy sprzedaży praw majątkowych nr ENEA/WINDPARK ŚNIATOWO/PMOZE/2013 z 26 lutego 
+2014 r. zawartej przez ENEA S.A. z Windpark Śniatowo Management GmbH EW Śniatowo Sp. k. (obecnie TEC1 
+Sp. z o.o. EW Śniatowo Sp. k. z siedzibą w Katowicach) powołując się na ich nabycie na podstawie umowy przelewu 
+wierzytelności, Sąd Okręgowy w Poznaniu wydał 25 lutego 2021 r. wyrok częściowy, w którym zasądził od ENEA S.A. 
+kwotę 494 tys. zł, z ustawowymi odsetkami za opóźnienie od 16 grudnia 2016 r. do dnia zapłaty. Wyrok nie jest 
+prawomocny. 2 czerwca 2021 r. ENEA S.A. wniosła apelację od całości wyroku częściowego Sądu Okręgowego w 
+Poznaniu z 25 lutego 2021 r. Postępowanie w pozostałym zakresie, tj. dotyczącym żądania objętego rozszerzeniem 
+powództwa z 17 stycznia 2019 r. i żądania objętego rozszerzeniem powództwa z 20 sierpnia 2019 r. jest prawomocnie 
+zawieszone na mocy postanowienia Sądu Okręgowego w Poznaniu z 24 października 2019 r. do czasu prawomocnego 
+zakończenia postępowania prowadzonego przez tutejszy Sąd pod sygn. akt IX GC 552/17. 
+25. Udział w programie budowy elektrowni atomowej 
+15 kwietnia 2015 r. KGHM Polska Miedź S.A., PGE S.A., TAURON S.A. i ENEA S.A. zawarły Umowę Nabycia Udziałów 
+w PGE EJ 1. KGHM Polska Miedź S.A., TAURON S.A. oraz ENEA S.A. nabyły od PGE S.A. po 10% udziałów (łącznie 
+30% udziałów) w PGE EJ 1. ENEA S.A. zapłaciła za nabyte udziały 16 mln zł. Łączne nakłady ENEA wynikające głównie 
+z nabycia udziałów i podwyższenia kapitału zakładowego spółki wyniosły 70 902 tys. zł. 
+1 października 2020 r. ENEA S.A., PGE S.A., KGHM Polska Miedź S.A. i TAURON S.A. zawarły ze Skarbem Państwa list 
+intencyjny dotyczący nabycia przez Skarb Państwa 100% udziałów w spółce PGE EJ 1. List intencyjny nie pociągał za 
+sobą zobowiązania stron do dokonania transakcji. Decyzja o przeprowadzeniu transakcji uzależniona była od wyników 
+negocjacji w tym zakresie oraz spełnienia innych warunków określonych w przepisach prawa lub dokumentach 
+korporacyjnych. 
+26 marca 2021 r. ENEA S.A., PGE S.A., TAURON S.A. i KGHM Polska Miedź S.A. zawarły ze Skarbem Państwa umowę 
+sprzedaży udziałów dotycząca nabycia przez Skarb Państwa 100% udziałów w spółce PGE EJ 1 (Umowa Sprzedaży 
+Udziałów). Zgodnie z postanowieniami Umowy Sprzedaży Udziałów, przeniesienie własności udziałów PGE EJ 1 nastąpiło 
+31 marca 2021 r. ENEA sprzedała Skarbowi Państwa 532 523 udziały w PGE EJ 1, stanowiące 10% kapitału zakładowego 
+oraz reprezentujące 10% głosów na zgromadzeniu wspólników PGE EJ 1. Cena sprzedaży za 100% udziałów wyniosła 
+531 362 tys. zł, z czego na ENEA przypadło 53 136 tys. zł. 
+Ponadto, 26 marca 2021 r. Wspólnicy zawarli z PGE EJ 1 Aneks do Porozumienia z 15 kwietnia 2015 r. w sprawie sporu 
+PGE EJ 1 z konsorcjum WorleyParsons (Porozumienie). Zgodnie z Aneksem, wynikająca z w/w Porozumienia 
+odpowiedzialność Wspólników względem PGE EJ 1 za wynik sporu z konsorcjum WorleyParsons została ograniczona 
+kwotowo, a w przypadku rozstrzygnięcia w/w sporu na korzyść PGE EJ 1 Wspólnikom przysługują odpowiednio 
+świadczenia od PGE EJ 1. Informacje nt. przebiegu sporu pomiędzy PGE EJ 1 a konsorcjum WorleyParsons 
+przekazywane były przez PGE we właściwych raportach okresowych. 
+Zgodnie z postanowieniami Umowy Sprzedaży Udziałów z 26 marca 2021 r. różnica pomiędzy wyceną PGE EJ 1 na 31 
+grudnia 2020 r. (wycena na potrzeby transakcji) a aktualizacją wyceny na 31 marca 2021 r. (wycena na dzień przeniesienia 
+udziałów) powinna zostać zwrócona przez sprzedające spółki na rzecz Skarbu Państwa („Korekta Ceny”). Wobec 
+powyższego, 2 czerwca 2021 r. ENEA S.A. dokonała rozliczenia Korekty Ceny sprzedaży udziałów w spółce PGE EJ 1 w 
+części przypadającej na ENEA S.A. tj. dokonała płatności na rzecz Skarbu Państwa w łącznej wysokości 533 tys. zł. 
+26. Wpływ pandemii COVID-19 
+Od 20 marca 2020 r. obowiązuje w Polsce stan epidemii wywołany koronawirusem SARS-Cov-2. Występowanie wirusa 
+i powodowane przez niego skutki, podobnie jak i skutki przeciwdziałań podejmowanych przez państwo w celu ograniczenia 
+pandemii, nie pozostają bez wpływu na kondycję gospodarki krajowej. Z tego względu również działalność ENEA S.A. 
+została dotknięta przez panującą sytuację. 
+W I półroczu 2021 r. w stosunku do analogicznego okresu 2020 r. nastąpił wzrost łącznego wolumenu sprzedaży energii 
+elektrycznej o 1 500 GWh, tj. o 15,3%. Zwiększeniu uległ również wolumen sprzedaży paliwa gazowego w stosunku do 
+analogicznego okresu roku ubiegłego (o 171 GWh, tj. o 25,1%). W I półroczu 2021 r. w stosunku do analogicznego okresu 
+2020 r. nastąpił wzrost przychodów ze sprzedaży energii elektrycznej i gazu o 410 mln zł, tj. o 13,4%. Zwiększeniu uległy 
+przychody zarówno w segmencie odbiorców biznesowych i w segmencie gospodarstw domowych. 
+
+Skrócone śródroczne jednostkowe sprawozdanie finansowe za okres od 1 stycznia do 30 czerwca 2021 r. (w tys. zł) 
+ 
+Dodatkowe informacje i objaśnienia przedstawione na stronach 9-35 stanowią integralną część skróconego śródrocznego jednostkowego 
+sprawozdania finansowego 
+ 
+35 
+Na dzień sporządzenia niniejszego skróconego śródrocznego jednostkowego sprawozdania finansowego, rozwój sytuacji 
+w roku 2021 jest trudny do przewidzenia, podobnie jak potencjalne dalsze negatywne skutki dla działalności operacyjnej 
+i finansowej Spółki. Dalsze rozprzestrzenianie się wirusa może bowiem powodować wprowadzanie kolejnych ograniczeń 
+i spadek aktywności gospodarczej (obecnie liczne ograniczenia działalności dotyczą m.in.: hoteli, restauracji, kawiarni, 
+galerii handlowych), spadek zapotrzebowania na energię elektryczną, a w konsekwencji spadek jej produkcji, co może 
+wpłynąć na przychody ze sprzedaży Spółki. Ponadto istotnie zwiększona liczba osób zarażonych w Spółce, potencjalnie 
+mogłaby wpłynąć na ryzyka związane z ciągłością działania Spółki. Ewentualne przerwy w prowadzeniu działalności 
+mogłyby wpłynąć negatywnie na przychody ze sprzedaży. Spółka podejmuje jednak działania zapobiegawcze, mające na 
+celu mitygowanie tego rodzaju ryzyk. 
+Spółka od początku trwania pandemii wykonuje dodatkowe analizy możliwego wpływu związanego z pandemią COVID19 na poziom odpisów na należności. Efektem tych analiz jest weryfikacja odpisu na oczekiwane straty. Poziom 
+dodatkowego odpisu – od początku prowadzenia tych analiz - jest nieistotny z punktu widzenia sprawozdawczego. 
+Niemniej, Spółka ocenia, że w przypadku ponownego utrzymywania się ograniczeń związanych z zapobieganiem skutków 
+epidemii COVID-19 i tym samym dalszym ograniczaniem aktywności gospodarczej, możliwe jest pogorszenie się 
+wskaźnika rotacji należności, w związku z ograniczeniem zdolności płatniczych odbiorców energii elektrycznej. 
+ENEA S.A. cyklicznie dokonuje oceny kredytowej spółek zależnych (rating podmiotu) i odzyskiwalności udzielonych 
+obligacji i pożyczek wewnątrzgrupowych. Zgodnie z przyjętą w GK ENEA metodyką ustalania odpisów z tytułu 
+oczekiwanych strat kredytowych dla aktywów dłużnych na 30 czerwca 2021 r. nie zidentyfikowano konieczności 
+utworzenia odpisów z tego tytułu wobec spółek zależnych. 
+W ENEA S.A. funkcjonuje powołany przez Zarząd Sztab kryzysowo-koordynacyjny ENEA S.A., a we wszystkich spółkach 
+Grupy działają Zespoły, które koordynują zadania związane z zapewnieniem ciągłości działania spółek Grupy ENEA 
+w kontekście zagrożenia koronawirusem. Zarząd ENEA S.A. koordynuje poprzez Sztab całość działań w powyższym 
+zakresie. Sztab i Zespoły podejmują działania zmierzające do ochrony zdrowia pracowników poprzez zapewnienie 
+środków ochrony indywidualnej (m.in.: zapewnienie maseczek, żeli antybakteryjnych, rękawiczek), wdrożenie 
+bezpiecznych zasad pracy (m.in.: wprowadzanie tam, gdzie to jest możliwe trybu pracy zdalnej, ograniczenie spotkań 
+bezpośrednich w miejscach pracy, dezynfekcja pomieszczeń, wprowadzenie limitów pracowników w pomieszczeniach, 
+zachowanie bezpiecznych odległości pomiędzy pracownikami). Podejmowane środki ostrożności w celu przeciwdziałania 
+zakażeniu się koronawirusem wpływają na poziom kosztów działalności operacyjnej, co wraz ze zmianami w poziomie 
+przychodów w ostatecznym rozrachunku wpływa na wynik finansowy. 
+Na dzień sporządzenia niniejszego skróconego śródrocznego jednostkowego sprawozdania finansowego Spółka nie 
+identyfikuje istotnej niepewności dotyczącej zdolności do kontynuowania działalności. 
+27. Zdarzenia po dacie sprawozdawczej 
+23 lipca 2021 r. ENEA S.A., PGE Polska Grupa Energetyczna S.A., TAURON Polska Energia S.A., ENERGA S.A. (łącznie 
+"Spółki energetyczne") oraz Skarb Państwa (łącznie zwane "Stronami") zawarły porozumienie dotyczące współpracy 
+w zakresie wydzielenia aktywów węglowych i ich integracji w ramach Narodowej Agencji Bezpieczeństwa Energetycznego 
+("Porozumienie"). W dokumencie "Transformacja sektora elektroenergetycznego w Polsce. Wydzielenie aktywów 
+węglowych ze spółek z udziałem Skarbu Państwa" ("Transformacja"), opublikowanym przez Ministerstwo Aktywów 
+Państwowych, opracowana została koncepcja wydzielenia z grup kapitałowych poszczególnych Spółek energetycznych 
+aktywów związanych z wytwarzaniem energii elektrycznej w konwencjonalnych jednostkach węglowych ("Aktywa 
+węglowe"). Założenia Transformacji przewidują m.in. integrację Aktywów węglowych w ramach jednego podmiotu, tj. PGE 
+Górnictwo i Energetyka Konwencjonalna S.A. - spółki zależnej PGE Polska Grupa Energetyczna S.A., która będzie 
+docelowo działała pod firmą Narodowej Agencji Bezpieczeństwa Energetycznego ("NABE"). 
+Mając powyższe na uwadze, Strony Porozumienia dostrzegają potrzebę koordynacji współpracy w procesie wydzielenia 
+Aktywów węglowych i ich integracji w NABE. W ramach Porozumienia, Strony deklarują wzajemną wymianę niezbędnych 
+informacji, w tym dotyczących struktur organizacyjnych, realizowanych procesów i założeń dla kierunku Transformacji, 
+których przekazanie nie narusza przepisów prawa. Porozumienie pozwoli na sprawną i efektywną realizację procesu 
+mającego na celu utworzenie NABE. 
+19 sierpnia 2021 r. Nadzwyczajne Walne Zgromadzenie ElectroMobility Poland S.A. podjęło uchwałę o obniżeniu kapitału 
+zakładowego o 17 700 tys. zł, poprzez zmniejszenie wartości nominalnej wszystkich jej akcji z dotychczasowej kwoty 
+7 000,00 zł każda akcja do nowej wartości nominalnej 5 230,05 zł każda akcja. Celem obniżenia kapitału zakładowego 
+jest przekazanie środków z kapitału zakładowego na zapasowy. Zgromadzenie podjęło także uchwałę o podwyższeniu 
+kapitału zakładowego o kwotę 249 996 tys. zł do kwoty 302 297 tys. zł, za łączną cenę emisyjną 250 000 tys. zł, która 
+zostanie wniesiona wyłącznie wkładem pieniężnym. Emisja nowych akcji została przeprowadzona w drodze subskrypcji 
+prywatnej. Wszystkie nowe akcje są akcjami zwykłymi, imiennymi. Nadwyżka łącznej ceny emisyjnej nad wartością 
+nominalną zostanie przelana na kapitał zapasowy. Nowe akcje zostały zaoferowane Skarbowi Państwa, z którym 
+ElectroMobility Poland S.A. zawarła umowę objęcia akcji. Po zakończeniu wszystkich czynności związanych 
+z podwyższeniem kapitału zakładowego ENEA S.A. będzie posiadała 4,325% akcji w kapitale zakładowym.

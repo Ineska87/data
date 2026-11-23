@@ -1,0 +1,61 @@
+{
+  "covered_queue": 1761,
+  "jobs": [
+    {
+      "batch_id": "01a204f6-c4ed-71b0-a8cd-0213f8d3eabd",
+      "before": "scraping",
+      "captured_before": 112,
+      "result": {
+        "status": "cancelled"
+      }
+    },
+    {
+      "batch_id": "01a204f6-c5e8-7138-b8f2-8f79d60a8108",
+      "before": "scraping",
+      "captured_before": 170,
+      "result": {
+        "status": "cancelled"
+      }
+    },
+    {
+      "batch_id": "01a204f6-c6f3-741f-9c55-203dbef0f373",
+      "before": "scraping",
+      "captured_before": 107,
+      "result": {
+        "status": "cancelled"
+      }
+    },
+    {
+      "batch_id": "01a204f6-c7ea-74a2-a670-4bffd2d81c41",
+      "before": "scraping",
+      "captured_before": 103,
+      "result": {
+        "status": "cancelled"
+      }
+    },
+    {
+      "batch_id": "01a204f6-c8ed-728a-b46b-b6c209c21542",
+      "before": "scraping",
+      "captured_before": 99,
+      "result": {
+        "status": "cancelled"
+      }
+    },
+    {
+      "batch_id": "01a204f6-c9f3-70c0-bd89-429e61ff828b",
+      "before": "scraping",
+      "captured_before": 148,
+      "result": {
+        "status": "cancelled"
+      }
+    },
+    {
+      "batch_id": "01a204f6-cae9-717a-aafd-e1c4881f396b",
+      "before": "scraping",
+      "captured_before": 119,
+      "result": {
+        "status": "cancelled"
+      }
+    }
+  ]
+}

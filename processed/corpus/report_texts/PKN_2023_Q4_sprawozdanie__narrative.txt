@@ -1,0 +1,1780 @@
+1. 
+Główne czynniki wpływające na EBITDA i EBITDA LIFO 
+Rachunek zysków lub strat za 12 miesięcy 2023 roku 
+Wynik z działalności operacyjnej powiększony o amortyzację (tzw. EBITDA) za 12 miesięcy 2023 roku wyniósł 49 935 mln PLN, 
+przy 56 062 mln PLN w analogicznym okresie 2022 roku. 
+Zaprezentowana powyżej EBITDA za 12 miesięcy 2023 roku zawiera wpływ netto odpisów aktualizujących wartość rzeczowych 
+aktywów trwałych, wartości niematerialnych i pozostałych składników majątku w wysokości (2 877) mln PLN. Odpisy dotyczyły 
+głównie majątku wydobywczego wykorzystywanego przy eksploatacji gazu ziemnego i ropy naftowej w Polsce oraz w Pakistanie a 
+także środków trwałych w budowie w ORLEN S.A. oraz nakładów poniesionych na odwiert poszukiwawczy w spółce LOTOS 
+Petrobaltic. Dodatkowo na podstawie wyceny przygotowanej przez niezależny podmiot zewnętrzny, Grupa ORLEN dokonała odpisu 
+aktualizującego wartość inwestycji w EuRoPol GAZ do wartości godziwej odpowiadającej posiadanym przez Grupę ORLEN akcjom 
+w tej spółce w wysokości (996) mln PLN. 
+Dla porównania za 12 miesięcy 2022 roku odpisy netto wyniosły (6 041) mln PLN i dotyczyły głównie aktywów rafineryjnych ORLEN 
+S.A., Grupy Unipetrol i ORLEN Lietuva. 
+Grupa ORLEN w sprawozdaniach finansowych wycenia główne grupy zapasów według metody średnio ważonego kosztu 
+wytworzenia lub ceny nabycia. W przypadku zapasów węgla stosowana jest metoda rozchodu „pierwsze weszło, pierwsze 
+wyszło” (FIFO). W przypadku metody średnio ważonego kosztu wytworzenia wzrost cen ropy, w porównaniu do wyceny ropy wg 
+metody LIFO, wpływa pozytywnie a spadek negatywnie na raportowane wyniki EBITDA. 
+Wpływ zmian cen ropy naftowej na wycenę zapasów za 12 miesięcy 2023 roku ujęty w wyniku EBITDA wyniósł (906) mln PLN 
+przy dodatnim wpływie w analogicznym okresie ubiegłego roku w kwocie 1 097 mln PLN. 
+W rezultacie zysk z działalności operacyjnej powiększony o amortyzację przed uwzględnieniem wpływu zmian cen ropy naftowej 
+na wycenę zapasów (tzw. EBITDA LIFO) oraz wyżej opisanych odpisów aktualizujących wyniósł 54 714 mln PLN i był niższy o 
+(6 292) mln PLN (r/r). 
+Z uwagi na nieporównywalność okresów konsolidacji byłej Grupy LOTOS i PGNIG w trakcie 12 miesięcy 2023 i 2022 roku 
+poniższe efekty biznesowe zostały skalkulowane na porównywalnej (r/r) strukturze organizacyjnej Grupy ORLEN. Grupa LOTOS 
+uczestniczy w konsolidacji wyników Grupy ORLEN od sierpnia 2022 roku a Grupa PGNIG od listopada 2022 roku. W związku z 
+powyższym wpływ zmiany wyników obu grup kapitałowych został zaprezentowany w pozostałych czynnikach operacyjnych. 
+Dodatni wpływ parametrów makroekonomicznych wyniósł 1 449 mln PLN (r/r) i obejmował głównie brak ujemnego wpływu 
+transakcji zabezpieczających z 12 miesięcy 2022 roku w wysokości 3 831 mln PLN (r/r) i wyceny kontraktów terminowych CO2 w 
+kwocie 1 577 mln PLN oraz wyższe marże na ciężkim oleju opałowym. Powyższe dodatnie efekty zostały ograniczone 
+niekorzystnym wpływem dyferencjałów przerabianych gatunków rop naftowych, obniżeniem marż na lekkich i średnich destylatach, 
+olefinach, poliolefinach, nawozach, PCW i PTA oraz negatywnym wpływem umocnienia PLN względem USD. 
+Efekt wolumenowej zmiany sprzedaży produktów oraz zmiany struktury przerabianych rop w Grupie ORLEN wyniósł (10 353) 
+mln PLN (r/r). Wzrost sprzedaży wolumenowej o 8% (r/r) tj. do poziomu 49 556 tys. ton został osiągnięty głównie dzięki ujęciu w 
+okresie 12 miesięcy 2023 wolumenów byłej Grupy LOTOS w segmencie rafineryjnym w wysokości 9 147 tys. ton oraz byłej 
+Grupy LOTOS i PGNIG w wysokości 1 440 tys. ton w segmentach wydobycia i gazu. Z kolei za 12 miesięcy 2022 sprzedaż 
+wolumenowa byłej Grupy LOTOS w segmencie rafineryjnym wyniosła 5 392 tys. ton oraz 381 tys. ton w byłej Grupie LOTOS i 
+PGNIG w segmentach wydobycia i gazu. 
+Po eliminacji wolumenów przejętych grup kapitałowych łączna sprzedaż wolumenowa była niższa o (3%) tj. o (1 109) tys. ton. 
+Ujemny efekt wolumenowy w segmencie rafineryjnym wyniósł (7 937) mln PLN (r/r). Sprzedaż wolumenowa segmentu 
+obejmująca wolumeny byłej Grupy LOTOS wyniosła 32 941 tys. ton i była wyższa o 8% (r/r). Po eliminacji wolumenów byłej 
+Grupy LOTOS sprzedaż zmniejszyła się o (5)% (r/r) do poziomu 23 794 tys. ton. Zmniejszenie porównywalnej sprzedaży 
+segmentu (r/r) wynikało z bardzo wysokich zakupów paliw w 2022 roku realizowanych po wybuchu wojny w Ukrainie a także 
+prowadzonych postojów remontowych instalacji produkcyjnych w ORLEN obejmujących m.in. instalację DRW III, Hydrokrakingu, 
+FKK II i HOG. Postoje instalacji produkcyjnych w trakcie 2023 roku spowodowały wzrost udziału ciężkich frakcji w strukturze 
+sprzedaży i tym samym wpłynęły ujemnie na wyniki segmentu. Dodatkowo niekorzystny wpływ na efekt wolumenowy w 
+segmencie rafineryjnym miała zmiana struktury przerabianych rop związana z ograniczeniem przerobu ropy Rebco o 24 pp. (r/r) i 
+zastąpienie jej droższymi gatunkami rop co wpłynęło ujemnie na wyniki segmentu w wysokości (7 372) mln PLN (r/r). 
+W segmencie petrochemicznym łączna sprzedaż wyniosła 4 379 tys. ton i zmniejszyła się o (13)% na wszystkich rynkach 
+operacyjnych, tj. w Polsce o (12)%, na rynku czeskim o (13)% (r/r) i na Litwie o (33)% (r/r). 
+Łączne wolumeny paliw w segmencie detalicznym wyniosły 10 205 tys. ton i zwiększyły się o 9% (r/r) dzięki wyższej sprzedaży 
+na rynku czeskim o 55% (r/r) i polskim o 6% (r/r) przy niższej sprzedaży paliw na rynku litewskim o (5)% (r/r) i porównywalnej 
+sprzedaży na rynku niemieckim (r/r). 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2023 ROKU 68 / 81 
+ 
+Wolumen segmentu wydobycia wzrósł o 124% (r/r) dzięki ujęciu w konsolidacji wolumenów Grupy LOTOS Upstream, Grupy 
+LOTOS Petrobaltic i byłej GrupyPGNiG (PGNiG Upstream Norway i byłej spółki PGNiG S.A). 
+Sprzedaż wolumenowa segmentu gaz osiągnęła poziom 150 tys. ton i obejmowała wolumeny sprzedaży byłej Grupy PGNIG. 
+Wpływ pozostałych czynników wyniósł 2 612 mln PLN (r/r) i obejmował głównie: 
+ 
+wyższe wyniki dawnej Grupy PGNIG o 23 783 mln PLN (r/r) po eliminacji zysku z tytułu okazyjnego nabycia tej Grupy w 
+listopadzie 2022 roku oraz ujęcia finalnych wartości godziwych aktywów i zobowiązań na dzień przejęcia, 
+ 
+efekt ujęcia finalnych wartości godziwych aktywów i zobowiązań na dzień przejęcia w kwocie 2 863 mln PLN (r/r), 
+ 
+brak zysku z tytułu okazyjnego nabycia Grupy PGNIG z listopada 2022 roku w kwocie (6 641) mln PLN (r/r) oraz z tytułu 
+okazyjnego nabycia Grupy LOTOS z sierpnia 2022 roku w wysokości (8 546) mln PLN, 
+ 
+niższe wyniki dawnej Grupy LOTOS o (529) mln PLN (r/r) po eliminacji zysku z tytułu okazyjnego nabycia tej Grupy w sierpniu 
+2022 roku, 
+ 
+(8 318) mln PLN (r/r) wpływ pozostałych efektów m.in. niższych marż detalicznych i hurtowych, wzrostu kosztów ogólnych i 
+pracy oraz ujemnego wpływu wykorzystania historycznych warstw zapasów i przeszacowania wartości zapasów do cen 
+możliwych do uzyskania. 
+ 
+Rachunek zysków lub strat za IV kwartał 2023 roku 
+Wynik z działalności operacyjnej powiększony o amortyzację (tzw. EBITDA) za IV kwartał 2023 roku wyniósł 12 398 mln PLN, przy 
+25 585 mln PLN w analogicznym okresie 2022 roku. 
+Zaprezentowana powyżej EBITDA za IV kwartał 2023 roku zawiera wpływ netto odpisów aktualizujących wartość rzeczowych 
+aktywów trwałych, wartości niematerialnych i pozostałych składników majątku w wysokości (542) mln PLN obejmujący głównie 
+aktywa wydobywcze Grupy ORLEN Upstream i byłej Grupy PGNIG. 
+W IV kwartale 2022 roku odpisy netto aktualizujące wartość majątku wyniosły (3 101) mln PLN i dotyczyły głównie aktywów 
+rafineryjnych ORLEN S.A., Grupy Unipetrol i ORLEN Lietuva. 
+Grupa ORLEN w sprawozdaniach finansowych wycenia główne grupy zapasów według metody średnio ważonego kosztu 
+wytworzenia lub ceny nabycia. W przypadku zapasów węgla stosowana jest metoda rozchodu „pierwsze weszło, pierwsze wyszło” 
+(FIFO). W przypadku metody średnio ważonego kosztu wytworzenia wzrost cen ropy, w porównaniu do wyceny ropy wg metody 
+LIFO, wpływa pozytywnie a spadek negatywnie na raportowane wyniki EBITDA. 
+Wpływ zmian cen ropy naftowej na wycenę zapasów w IV kwartale 2023 roku ujęty w wyniku EBITDA wyniósł (634) mln PLN przy 
+(1 845) mln PLN w IV kwartale 2022 roku. 
+W rezultacie zysk z działalności operacyjnej powiększony o amortyzację przed uwzględnieniem wpływu zmian cen ropy naftowej na 
+wycenę zapasów (tzw. EBITDA LIFO) oraz odpisów aktualizujących wartość majątku wyniósł 13 574 mln PLN i był niższy o (16 957) 
+mln PLN (r/r). 
+Z uwagi na nieporównywalne okresy konsolidacji byłej Grupy PGNIG w obu kwartałach 2023 i 2022 roku (konsolidacja w ramach 
+Grupy ORLEN od listopada 2022 roku) oraz w celu zachowania porównywalności efektów biznesowych w ujęciu narastającym za 
+12 miesięcy wpływ zmiany wyników byłej Grupy LOTOS i PGNIG został zaprezentowany poniżej w pozostałych czynnikach 
+operacyjnych. 
+Ujemny wpływ parametrów makroekonomicznych wyniósł (2 833) mln PLN (r/r) i obejmował głównie obniżenie marż na lekkich i 
+średnich destylatach, olefinach, poliolefinach, PCW i PTA oraz niekorzystny wpływ dyferencjałów na strukturze przerabianych rop w 
+Grupie ORLEN Unipetrol w związku z istotnym podwyższeniem cen ropy Ural. Dodatkowo niekorzystnie na poziom wyników wpłynął 
+brak dodatniego wpływu wyceny kontraktów terminowych CO2 z IV kwartału 2022 roku w kwocie (-) 199 mln PLN (r/r) oraz 
+negatywny wpływ umocnienia PLN względem USD (r/r). Powyższe ujemne efekty zostały częściowo skompensowane wpływem 
+transakcje zabezpieczających w wysokości 357 mln PLN (r/r), wyższymi marżami na ciężkim oleju opałowym i niższymi kosztami 
+emisji CO2. 
+Efekt wolumenowej zmiany sprzedaży produktów oraz zmiany struktury przerabianych rop w Grupie ORLEN wyniósł (2 708) mln 
+PLN (r/r). Łączna sprzedaż wolumenowa Grupy ORLEN była niższa o (5)% (r/r) i wyniosła 12 941 tys. ton. Wolumeny byłej 
+Grupy LOTOS w segmencie rafineryjnym wyniosły 2 328 tys. ton a byłej Grupy LOTOS i PGNIG w segmentach wydobycia i gazu 
+322 tys. ton. W IV kwartale 2022 roku sprzedaż wolumenowa byłej Grupy LOTOS w segmencie rafineryjnym wyniosła 
+3 194 tys. ton i 316 tys. ton w byłej Grupie LOTOS i PGNiG w segmencie wydobycia i gazu. 
+Po eliminacji wolumenów przejętych grup kapitałowych łączna sprzedaż wolumenowa była wyższa o 2% % tj. o 205 tys. ton. 
+W segmencie rafineryjnym ujemny efekt wolumenowy wyniósł (2 491) mln PLN (r/r). Sprzedaż wolumenowa segmentu wyniosła 
+8 702 tys. ton i była niższa o (10)% (r/r) natomiast po eliminacji wolumenów byłej Grupy LOTOS sprzedaż zmniejszyła się o (2)% 
+(r/r) do poziomu 6 373 tys. ton. Zmniejszenie porównywalnej sprzedaży segmentu (r/r) wynikało głównie z kontynuacji postoju 
+instalacji Hydrokrakingu w ORLEN (do 7 listopada 2023), postojów instalacji Hydrokrakingu, HON i Visbreakingu w Rafinerii 
+Litvinov oraz prowadzonych prac konserwacyjnych w październiku 2023 roku w Rafinerii Lietuva. Opisane powyżej postoje 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2023 ROKU 69 / 81 
+ 
+instalacji produkcyjnych wpłynęły na wzrost udziału ciężkich frakcji w strukturze sprzedaży i tym samym na ujemny wpływ 
+wolumenowy segmentu. Dodatkowo niekorzystny wpływ na efekt wolumenowy w segmencie rafineryjnym w wysokości (1 518) 
+mln PLN (r/r) miała zmiana struktury przerabianych rop związana z ograniczeniem przerobu ropy Rebco o 17 pp. (r/r) i 
+zastąpienie jej droższymi gatunkami rop. 
+W segmencie petrochemicznym łączna sprzedaż wyniosła 977 tys. ton i zmniejszyła się o (14)% i obejmowała niższą sprzedaż 
+w Polsce o (16)%, na rynku czeskim o (10)% (r/r) przy wyższej sprzedaży na Litwie o 9% (r/r). 
+Łączne wolumeny paliw w segmencie detalicznym wyniosły 2 781 tys. ton i zwiększyły się o 21% (r/r) dzięki wyższej sprzedaży na 
+rynku czeskim o 49% (r/r), polskim o 22% (r/r) i niemieckim o 8% (r/r) przy niższej sprzedaży paliw na rynku litewskim o (33)% (r/r). 
+Wolumen segmentu wydobycia wzrósł o 57% (r/r) dzięki ujęciu w konsolidacji wolumenów Grupy LOTOS Upstream, Grupy 
+LOTOS Petrobaltic i byłej Grupy PGNiG (PGNiG Upstream Norway i byłej spółki PGNiG S.A.). 
+Sprzedaż wolumenowa segmentu gaz osiągnęła poziom 52 tys. ton i obejmowała wolumeny sprzedaży byłej Grupy PGNIG. 
+Wpływ pozostałych czynników wyniósł (11 416) mln PLN (r/r) i obejmował głównie: 
+ brak zysku z tytułu okazyjnego nabycia Grupy PGNIG z listopada 2022 roku w kwocie (6 641) mln PLN, 
+ efekt ujęcia finalnych wartości godziwych aktywów i zobowiązań na dzień przejęcia w kwocie (5 371) mln PLN (r/r), 
+ wyższe wyniki dawnej Grupy PGNIG o 7 841 mln PLN (r/r) po eliminacji powyższych zdarzeń jednorazowych, tj. zysku z tytułu 
+okazjonalnego nabycia tej Grupy w listopadzie 2022 roku oraz ujęcia finalnych wartości godziwych aktywów i zobowiązań na 
+dzień nabycia, 
+ niższe wyniki dawnej Grupy LOTOS o (3 043) mln PLN (r/r) wynikające głównie z pogorszenia sytuacji makroekonomicznej w 
+segmencie rafineryjnym oraz zmian w konsolidacji w ramach Grupy ORLEN (przejęte w sierpniu 2022 roku aktywa Grupy 
+LOTOS funkcjonowały w niezmienionym zakresie i strukturze do 30 listopada 2022 roku), 
+ (4 202) mln PLN (r/r) wpływ pozostałych efektów m.in. niższych marż hurtowych, dodatniego wpływu wykorzystania 
+historycznych warstw zapasów oraz wzrostu kosztów pracy. 
+2. 
+Najważniejsze zdarzenia w okresie od 1 stycznia 2023 roku do dnia sporządzenia niniejszego raportu 
+ 
+STYCZEŃ 2023 
+Zmiany w składzie Rady Nadzorczej 
+PKN ORLEN poinformował, że 11 stycznia 2023 roku Minister Aktywów Państwowych, w imieniu akcjonariusza Skarbu 
+Państwa, działając na podstawie § 8 ust. 2 pkt 1 Statutu Spółki powołał Panią Janinę Goss do składu Rady Nadzorczej 
+PKN ORLEN S.A. 
+LUTY 2023 
+Pierwsze zawiadomienie akcjonariuszy o zamiarze połączenia PKN ORLEN z LOTOS SPV 5 sp. z o.o. z siedzibą 
+w Gdańsku 
+Zarząd PKN ORLEN działając na podstawie art. 504 § 1 Kodeksu spółek handlowych, zawiadomił w dniu 16 lutego 
+2023 roku akcjonariuszy o zamiarze połączenia PKN ORLEN ze spółką pod firmą LOTOS SPV 5 sp. z o.o. z siedzibą w 
+Gdańsku, nr KRS: 0000896706 („SPV5”), które nastąpi w trybie art. 492 §1 pkt 1 w zw. z art. 516 § 6 Kodeksu spółek 
+handlowych, tj. poprzez przeniesienie całego majątku SPV5 (spółka przejmowana), będącą jednoosobową spółką PKN 
+ORLEN, na Spółkę (spółka przejmująca), bez konieczności podwyższania kapitału zakładowego Spółki ani dokonywania 
+w związku z takim połączeniem zmian statutu PKN ORLEN („Połączenie”). 
+Przeniesienie całego majątku obejmującego wszystkie aktywa i pasywa SPV5 na PKN ORLEN będzie miało miejsce z 
+dniem wpisania Połączenia do rejestru przedsiębiorców Krajowego Rejestru Sądowego przez sąd rejestrowy właściwy 
+dla siedziby PKN ORLEN („Dzień Połączenia”). Z Dniem Połączenia PKN ORLEN wstąpi we wszystkie prawa i 
+obowiązki SPV5, zgodnie z przepisem art. 494 § 1 Kodeksu spółek handlowych (sukcesja uniwersalna), a skutek 
+określony w art. 494 § 4 Kodeksu spółek handlowych nie wystąpi, ponieważ poza Spółką SPV5 nie ma innych 
+wspólników. 
+W dniu 7 lutego 2023 roku Spółka oraz SPV5 pisemnie uzgodniły plan połączenia, który został przez Spółkę 
+opublikowany 
+na 
+stronie 
+internetowej 
+www.orlen.pl/pl/relacje-inwestorskie/polaczenie-z-LOTOS-SPV5 
+(„Plan 
+Połączenia”). 
+Połączenie wymaga uchwały walnego zgromadzenia każdej z łączących się spółek. Zgodnie z Planem Połączenia, 
+walnemu zgromadzeniu Spółki oraz zgromadzeniu wspólników SPV5 zostaną przedłożone do podjęcia uchwały w 
+sprawie Połączenia, które będą zawierały zgodę na Plan Połączenia („Uchwała Połączeniowa” ). W celu podjęcia 
+Uchwały Połączeniowej Spółka zwoła walne zgromadzenie w sposób przewidziany przepisami Kodeksu spółek 
+handlowych oraz statutem Spółki na dzień nie wcześniejszy niż 20 marca 2023 roku, o czym Spółka zawiadomi 
+odrębnym raportem bieżącym. 
+Zgodnie z art. 505 § 3(1) w zw. z § 1 Kodeksu spółek handlowych akcjonariuszom Spółki udostępnione są (publicznie) 
+do wglądu: 
+1. Plan Połączenia wraz z załącznikami nr 1-5, 
+2. Sprawozdania finansowe Spółki oraz sprawozdania Zarządu z działalności Spółki za lata obrotowe 2019, 2020 i 
+2021, wraz ze sprawozdaniami z badania, 
+3. Sprawozdanie finansowe SPV5 oraz sprawozdanie Zarządu z działalności SPV5 za cały okres działalności do 
+końca 2021 roku 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2023 ROKU 70 / 81 
+ 
+– nieprzerwanie (w wersji elektronicznej, z możliwością ich wydruku) do dnia zakończenia walnego zgromadzenia Spółki 
+oraz zgromadzenia wspólników SPV5 podejmujących uchwały w sprawie Połączenia, na stronie internetowej relacji 
+inwestorskich 
+Spółki 
+w 
+zakładce Połączenie 
+z 
+LOTOS 
+SPV5 
+pod 
+adresem: 
+www.orlen.pl/pl/relacjeinwestorskie/polaczenie-z-LOTOS-SPV5. 
+MARZEC 2023 
+Podsumowanie kosztów emisji akcji połączeniowych wyemitowanych w ramach oferty publicznej w związku z 
+połączeniem PKN ORLEN z Grupą LOTOS oraz w związku z połączeniem PKN ORLEN z PGNiG 
+PKN ORLEN poinformował o wysokości kosztów, które zostały zaliczone do kosztów emisji akcji serii E wyemitowanych 
+przez Spółkę w ramach oferty publicznej w związku z połączeniem PKN ORLEN z Grupą LOTOS S.A. oraz do kosztów 
+emisji akcji serii F wyemitowanych przez Spółkę w ramach oferty publicznej w związku z połączeniem PKN ORLEN z 
+PGNiG 
+W związku z połączeniem PKN ORLEN z Grupą LOTOS S.A. Spółka wyemitowała w ramach oferty publicznej 
+198.738.864 akcji zwykłych na okaziciela serii E "Akcje serii E". Łączne koszty emisji Akcji serii E wyniosły około 
+24,54 mln PLN. 
+Powyższa kwota obejmuje: 
+- koszty przygotowania i przeprowadzenia oferty publicznej Akcji serii E: około 22,57 mln PLN, 
+- koszty dotyczące sporządzenia dokumentu wyłączeniowego, z uwzględnieniem kosztów doradztwa: około 1,97 mln 
+PLN, 
+- koszty promocji oferty publicznej Akcji serii E: 0,00 PLN. 
+ Średni koszt przeprowadzenia oferty publicznej przypadający na jedną akcję serii E wyniósł 0,12 PLN. 
+ W związku z połączeniem PKN ORLEN z PGNiG Spółka wyemitowała w ramach oferty publicznej 534.494.124 akcji 
+zwykłych na okaziciela serii F "Akcje serii F". Łączne koszty emisji Akcji serii F wyniosły 27,15 mln PLN. 
+Powyższa kwota obejmuje: 
+- koszty przygotowania i przeprowadzenia oferty publicznej Akcji serii F: 25,22 mln PLN, 
+- koszty dotyczące sporządzenia dokumentu wyłączeniowego, z uwzględnieniem kosztów doradztwa: 1,93 mln PLN, 
+- koszty promocji oferty publicznej Akcji serii F: 0,00 PLN. 
+ Średni koszt przeprowadzenia oferty publicznej przypadający na jedną akcję serii F wyniósł 0,05 PLN. 
+ Spółka nie ponosiła kosztów wynagrodzenia subemitentów, ponieważ nie zawierała umów subemisji ani w związku z 
+ofertą publiczną Akcji serii E, ani w związku z ofertą publiczną Akcji serii F. 
+ Koszty związane z emisją Akcji serii E i Akcji serii F zostały ujęte w księgach jako pomniejszenie kapitału własnego w 
+ramach pozycji Kapitał z emisji akcji powyżej ich wartości nominalnej. 
+KWIECIEŃ 2023 
+Zakończenie realizacji środków zaradczych wynikających z warunkowej decyzji Komisji Europejskiej w sprawie 
+przejęcia przez PKN ORLEN kontroli nad Grupą LOTOS 
+PKN ORLEN poinformował, że Spółka zakończyła realizację środków zaradczych określonych w warunkowej zgodzie 
+Komisji Europejskiej z dnia 14 lipca 2020 roku na dokonanie koncentracji polegającej na przejęciu przez Spółkę kontroli 
+nad Grupą LOTOS S.A. z siedzibą w Gdańsku („Grupa LOTOS”) („Środki Zaradcze”). 
+W dniu 7 kwietnia 2023 roku w celu wdrożenia Środków Zaradczych w obszarze rynku logistyki paliw oraz rynku 
+asfaltów zawarta została umowa rozporządzająca pomiędzy PKN ORLEN S.A. a Unimot Investments spółka z 
+ograniczoną odpowiedzialnością („Unimot Investments”), przenosząca na Unimot Investments 100% akcji w LOTOS 
+Terminale S.A. z siedzibą w Czechowicach Dziedzicach („LOTOS Terminale”), do której PKN ORLEN wniósł wcześniej 
+aportem: 100% udziałów w spółce Uni-Bitumen Sp. z o.o. (do której to spółki uprzednio została wydzielona działalność 
+asfaltowa z Rafinerii Gdańskiej Sp.z o.o.) oraz cztery bazy paliw zlokalizowane w Gdańsku, Szczecinie, Gutkowie i 
+Bolesławcu. Tym samym w życie wejdą podpisane 12 stycznia 2022 roku: 
+- warunkowa umowa składu paliw, umożliwiająca PKN ORLEN korzystanie z pojemności magazynowej w należących 
+do LOTOS Terminale bazach paliw zlokalizowanych w Gdańsku, Szczecinie, Gutkowie i Bolesławcu, zawarta na 
+okres 10 lat od dnia jej wejścia w życie; 
+- umowa sprzedaży asfaltów na rzecz Uni-Bitumen Sp. z o.o. , zawarta na okres 10 lat od dnia jej wejścia w życie z 
+możliwością przedłużenia na kolejne dwa pięcioletnie okresy na warunkach uprzednio uzgodnionych pomiędzy 
+stronami. 
+CZERWIEC 2023 
+Oddalenie pozwu o stwierdzenie nieważności uchwały NWZ Grupy LOTOS S.A. 
+PKN ORLEN poinformował, że Sąd Okręgowy w Łodzi, X Wydział Gospodarczy w dniu dzisiejszym oddalił w całości 
+powództwo akcjonariuszy byłej Grupy LOTOS S.A. („Grupa LOTOS”) o stwierdzenie nieważności uchwały nr 3 
+Nadzwyczajnego Walnego Zgromadzenia Grupy LOTOS z 20 lipca 2022 roku w sprawie połączenia Spółki z Grupą 
+LOTOS, podwyższenia kapitału zakładowego PKN ORLEN oraz zgody na proponowane zmiany Statutu PKN ORLEN, 
+wraz z roszczeniem ewentualnym o uchylenie tejże uchwały. Wyrok jest nieprawomocny. 
+Rozwój segmentu petrochemicznego w Grupie ORLEN 
+PKN ORLEN poinformował, że 29 czerwca 2023 roku Rada Nadzorcza oraz Zarząd Spółki, podjęły niezbędne decyzje, 
+które umożliwiają zawarcie porozumienia („Porozumienie”) zmieniającego Umowę na budowę kompleksu instalacji 
+Olefin III w formule EPCC (Engineering, Procurement, Construction and Commissioning) ze spółką Hyundai Engineering 
+Poland Spółka z ograniczoną odpowiedzialnością Técnicas Reunidas S.A. Spółka Jawna z siedzibą w Płocku, 
+wykonawcą kompleksu Olefiny III ("Inwestycja") dla zakresu ISBL, a także zawarcie kontraktów na realizację 
+infrastruktury zasadniczej (OSBL) niezbędnej dla uruchomienia Inwestycji oraz przygotowania infrastruktury na dalsze 
+etapy rozwoju petrochemii. 
+Konieczność podpisania Porozumienia z wykonawcą Inwestycji wynika z aktualizacji jej założeń, co spowodowane jest 
+przede wszystkim wojną w Ukrainie oraz związanymi z nią sankcjami i tym samym rosnącymi kosztami materiałów, 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2023 ROKU 71 / 81 
+ 
+zerwanymi łańcuchami dostaw oraz ograniczoną dostępnością zasobów realizacyjnych. Dodatkowo, w ramach projektu 
+Olefiny III realizowana jest modernizacja infrastruktury zasadniczej w Zakładzie Produkcyjnym w Płocku, a także 
+przygotowanie tej infrastruktury pod przyszłe projekty rozwojowe, w tym o charakterze dekarbonizacyjnym. Potencjał 
+tych projektów wzrasta z uwagi na ostatnie zmiany rynkowe i zaostrzenie regulacji. PKN ORLEN poprzez zwiększoną 
+skalę produkcji petrochemikaliów i chemikaliów planuje wykorzystać swój potencjał rynkowy nie tylko w Polsce, ale 
+również w całym regionie korzystając z wiarygodności, dogodnego położenia oraz skali i dostępności aktywów. Według 
+aktualnych szacunków koszt budowy kompleksu Olefiny III wyniesie około 25 mld PLN, a jej zakończenie planowane 
+jest na pierwszą połowę 2027 roku. Realizacja Inwestycji przyczyni się do wzrostu EBITDA Grupy ORLEN o ponad 1 
+mld PLN 
+Budowa kompleksu Olefiny III jest kluczowa i niezbędna dla realizacji transformacji istniejących aktywów rafineryjnopetrochemicznych Spółki w Płocku i w Gdańsku, pozwoli na zintegrowanie procesowe petrochemii w ramach Grupy 
+ORLEN oraz realizację synergii operacyjnych, w tym z Rafinerią Gdańską Sp. z o.o. Inwestycja umożliwi dalszy rozwój 
+Grupy ORLEN poprzez działania o charakterze organicznym i nieorganicznym. Realizacja tych działań ugruntowałaby 
+rolę Koncernu jako jednego z liderów transformacji aktywów rafineryjno-petrochemicznych w Europie. 
+Inwestycja w nowe źródła OZE 
+W dniu 30 czerwca 2023 roku Energa Wytwarzanie S.A. podpisała umowę przedwstępną na nabycie od spółek z grupy 
+Greenvolt udziałów w spółkach celowych rozwijających portfel projektów OZE o docelowej łącznej mocy 59 MW. 
+Zawarte przedwstępne umowy nabycia udziałów przewidują szereg warunków zawieszających, po spełnieniu których 
+Grupa przystąpi do procesu zamknięcia i rozliczenia transakcji. Zawarcie umowy przyrzeczonej oraz nabycie udziałów w 
+spółkach celowych planowane jest na 2024 rok. 
+Transakcja dotyczy dwóch portfolio projektów OZE realizowanych w województwie wielkopolskim. Pierwszym jest 
+portfolio Opalenica, obejmujący projekty farm fotowoltaicznych o łącznej mocy 22 MW. Drugim – hybrydowy projekt 
+Sompolno, łączący turbiny wiatrowe o mocy 26 MW i instalację fotowoltaiczną o mocy 10 MW. Projekt Opalenica ma 
+osiągnąć pełną gotowość operacyjną w grudniu 2023 roku, natomiast Sompolno w czerwcu 2024 roku. 
+LIPIEC 2023 
+Zmiana firmy (nazwy) na ORLEN S.A. - rejestracja zmian Statutu Spółki 
+ORLEN poinformował, że na podstawie danych z Centralnej Informacji Krajowego Rejestru Sądowego powziął 
+informację o rejestracji w dniu 3 lipca 2023 roku przez Sąd Rejonowy dla Łodzi-Śródmieścia w Łodzi XX Wydział 
+Gospodarczy – Krajowego Rejestru Sądowego, zmian Statutu ORLEN S.A. uchwalonych przez Zwyczajne Walne 
+Zgromadzenie ORLEN S.A. 21 czerwca 2023 roku („ZWZ”). Tym samym w dniu 3 lipca 2023 roku nastąpiła zmiana 
+firmy (nazwy) Spółki z dotychczasowej: Polski Koncern Naftowy ORLEN S.A. na: ORLEN S.A. 
+Zarejestrowane zmiany Statutu Spółki zostały uchwalone uchwałą ZWZ nr 58 w dniu 21 czerwca 2023 roku. 
+Ustalenie kluczowych warunków emisji euroobligacji 
+ORLEN poinformował, że w dniu 7 lipca 2023 roku Zarząd Spółki podjął decyzję o emisji oraz ustaleniu kluczowych 
+warunków emisji euroobligacji serii B („Euroobligacje”) o łącznej wartości nominalnej 500 000 000 EUR, które zostaną 
+wyemitowane w ramach programu emisji średnioterminowych Euroobligacji ustanowionego 13 maja 2021 roku. 
+Euroobligacje zostaną wyemitowane na następujących warunkach: 
+ łączna wartość nominalna Euroobligacji: 500 000 000 EUR; 
+ emisja 5.000 imiennych Euroobligacji serii B; 
+ wartość nominalna jednej Euroobligacji: 100 000 EUR; 
+ cena emisyjna jednej Euroobligacji: 98 353 EUR; 
+ dzień wykupu: 7 lat po dniu emisji Euroobligacji; 
+ Euroobligacje będą oprocentowane według stałej stopy procentowej wynoszącej 4,750 % rocznie; 
+ Euroobligacje nie będą zabezpieczone; 
+ Euroobligacje zostaną zarejestrowane w międzynarodowym systemie rejestracji papierów wartościowych 
+prowadzonym przez Euroclear Bank SA/NV lub Clearstream Banking SA; 
+ Spółka będzie ubiegać się o dopuszczenie Euroobligacji do obrotu na rynku regulowanym Euronext Dublin oraz 
+Giełdy Papierów Wartościowych w Warszawie S.A. 
+ Szczegółowe warunki emisji Euroobligacji będą określone w Ostatecznych Warunkach Euroobligacji. 
+ Środki z emisji Euroobligacji zostaną wykorzystane na finansowanie bieżącej działalności Spółki. 
+Emisja Euroobligacji serii B 
+W dniu 13 lipca 2023 roku ORLEN wyemitował 5 000 sztuk euroobligacji serii B o łącznej wartości nominalnej 500 mln 
+EUR, w ramach istniejącego programu emisji średnioterminowych euroobligacji do kwoty 5 mld EUR. Euroobligacje 
+zostały wyemitowane z 7 letnim terminem wykupu liczonym od dnia emisji oraz zostały dopuszczone do obrotu na rynku 
+regulowanym prowadzonym przez Euronext Dublin. 
+Pozew o uchylenie uchwały NWZ PGNiG S.A. 
+ORLEN poinformował, że w dniu 11 lipca 2023 roku Spółka otrzymała informację o złożeniu kolejnego pozwu o 
+uchylenie uchwały nr 3/2022 Nadzwyczajnego Walnego Zgromadzenia PGNiG S.A. z 10 października 2022 roku 
+dotyczącej połączenia Spółki z PGNiG S.A. oraz zgody na proponowane zmiany Statutu ORLEN. 
+W ocenie Spółki pozew jest bezzasadny. 
+SIERPIEŃ 2023 
+Warunkowa decyzja inwestycyjna w sprawie projektu Morskiej Farmy Wiatrowej 
+ORLEN poinformował, że w dniu 10 sierpnia 2023 roku Rada Nadzorcza Spółki podjęła uchwałę w sprawie warunkowej 
+decyzji inwestycyjnej w zakresie uruchomienia fazy budowy projektu Morskiej Farmy Wiatrowej zlokalizowanej w 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2023 ROKU 72 / 81 
+ 
+Polskiej Wyłącznej Strefie Ekonomicznej na Morzu Bałtyckim, o maksymalnej mocy do 1200 MW („Projekt”). Projekt 
+będzie realizowany przez spółkę Baltic Power sp. z o.o. („Baltic Power”), w oparciu o umowę wspólnego 
+przedsięwzięcia (ang. joint venture agreement) pomiędzy ORLEN S.A., Baltic Power oraz NP BALTIC WIND B.V. z 
+siedzibą w Amsterdamie, Niderlandy ("NP BALTIC WIND B.V."), spółką z grupy kapitałowej Northland Power Inc. 
+ORLEN S.A. posiada ponad 51% udziałów w Baltic Power. 
+Całkowity budżet Projektu szacowany jest na około 4,73 mld EUR i zawiera wydatki inwestycyjne z ubezpieczeniem (w 
+kwocie około 4,05 mld EUR), a także koszty finansowania i rezerwę dodatkową. Rozpoczęcie budowy morskiej farmy 
+wiatrowej planowane jest w 2023 roku, a oddanie inwestycji do użytkowania planowane jest na 2026 rok. 
+Udziałowcy Projektu zakładają, że finansowanie Projektu realizowane będzie w formule Project Finance, czyli modelu, w 
+którym spłata zobowiązań z tytułu finansowania udzielonego Baltic Power przez banki i inne polskie i zagraniczne 
+instytucje finansowe w formie kredytów i akredytyw, oparta będzie na przyszłych nadwyżkach finansowych 
+generowanych przez Projekt. Formuła finansowania w modelu Project Finance jest szczególnie korzystna dla inwestycji, 
+które wymagają znacznych nakładów inwestycyjnych i czasu na osiągnięcie pełnej wydajności, takich jak budowa i 
+eksploatacja morskich farm wiatrowych. 
+Podjęta decyzja inwestycyjna wejdzie ostatecznie w życie po spełnieniu się odpowiednich warunków, w tym m.in. 
+sfinalizowany zostanie proces pozyskania finansowania projektu oraz skompletowane zostaną wymagane pozwolenia 
+budowlane. 
+WRZESIEŃ 2023 
+Podsumowanie kosztów emisji euroobligacji serii B 
+ORLEN poinformował o wysokości kosztów emisji 5 000 euroobligacji serii B („Euroobligacje”) o łącznej wartości 
+nominalnej 500.000.000 EUR, wyemitowanych w ramach programu emisji średnioterminowych Euroobligacji do kwoty 
+5.000.000.000 EUR („Program EMTN”). 
+ Koszty emisji euroobligacji serii B, szacowane są na około 8 463 tys. PLN. 
+ 
+Powyższa kwota obejmuje: 
+ koszty przygotowania i przeprowadzenia oferty Euroobligacji serii B – 6 699 tys. PLN, 
+ koszty dotyczące sporządzenia/aktualizacji prospektu emisyjnego, z uwzględnieniem kosztów doradztwa – 1 764 tys. 
+PLN, 
+ koszty promocji oferty Euroobligacji serii B – 0 PLN. 
+Średni koszt przeprowadzenia ofert przypadający na jedną oferowaną Euroobligację zostanie wyliczony i podany po 
+zakończeniu Programu EMTN. 
+Spółka nie ponosiła kosztów wynagrodzenia subemitentów, ponieważ nie zawierała umów subemisji w związku z ofertą 
+Euroobligacji. 
+Koszty związane z emisją serii B zostały ujęte jako rozliczenia międzyokresowe czynne i będą systematycznie obciążały 
+wynik finansowy. Z podatkowego punktu widzenia koszty transakcyjne stanowią koszty uzyskania przychodów i są 
+potrącalne w dacie ich ujęcia w księgach. 
+Podpisanie umów dotyczących finansowania projektu budowy Morskiej Farmy Wiatrowej 
+ORLEN poinformował, że spółka Baltic Power sp. z o.o. („Baltic Power”) podpisała dzisiaj umowy kredytowe na 
+finansowanie projektu budowy Morskiej Farmy Wiatrowej zlokalizowanej w Polskiej Wyłącznej Strefie Ekonomicznej na 
+Morzu Bałtyckim, o maksymalnej mocy do 1200 MW („Umowy”), („Projekt”). Umowy zostały podpisane z konsorcjum, w 
+skład którego wchodzi 25 polskich i zagranicznych instytucji finansowych („Konsorcjum”). 
+Na podstawie Umów Konsorcjum udzieli spółce Baltic Power kredytu inwestycyjnego w wysokości 3,6 mld EUR na 
+okres 23 lat. Ponadto, zgodnie z Umowami, spółka Baltic Power będzie miała możliwość wykorzystania dodatkowych 
+oraz rezerwowych linii kredytowych w wysokości odpowiednio 1 mld PLN oraz 0,6 mld EUR. 
+Spłata kredytu udzielonego Baltic Power na podstawie Umów oparta będzie na przyszłych nadwyżkach finansowych 
+generowanych przez Projekt. Kredyt zostanie uruchomiony po spełnieniu określonych w Umowach warunków 
+zawieszających. 
+Projekt Morskiej Farmy Wiatrowej jest realizowany przez Baltic Power, w oparciu o umowę wspólnego przedsięwzięcia 
+(ang. joint venture agreement) pomiędzy ORLEN, Baltic Power oraz NP BALTIC WIND B.V. z siedzibą w Amsterdamie, 
+Niderlandy ("NP BALTIC WIND B.V."), spółką z grupy kapitałowej Northland Power Inc. ORLEN posiada ponad 51% 
+udziałów w Baltic Power. Całkowity budżet Projektu szacowany jest na około 4,73 mld EUR i zawiera wydatki 
+inwestycyjne z ubezpieczeniem (w kwocie około 4,05 mld EUR), a także koszty finansowania i rezerwę dodatkową. 
+Rozpoczęcie budowy morskiej farmy wiatrowej planowane jest w 2023 roku, a oddanie inwestycji do użytkowania 
+planowane jest na 2026 rok. 
+Szacuje się, że po zrealizowaniu Projektu, w okresie pierwszych 5 lat jego eksploatacji, Baltic Power może 
+wygenerować dodatkowe wolne przepływy pieniężne (free cash flow) w wysokości 140 mln EUR średniorocznie (z 
+czego udział ORLEN wynosi 51%), a zysk operacyjny powiększony o amortyzację (EBITDA) Baltic Power może 
+osiągnąć około 400 mln EUR średniorocznie (z czego udział ORLEN wynosi 51%). 
+Podpisanie porozumienia dotyczącego rozwiązania umowy z firmą audytorską 
+ORLEN poinformował że Spółka oraz Deloitte Audyt sp. z o.o. sp.k. z siedzibą w Warszawie („Audytor”) podpisały w 
+dniu 25 września 2023 roku porozumienie o rozwiązaniu umowy o badanie i przeglądy sprawozdań finansowych 
+(„Umowa”) zawartej w dniu 17 kwietnia 2019 roku. 
+Umowa została zawarta na czas wykonywania przez Audytora prac objętych przedmiotem Umowy, początkowo na lata 
+2019, 2020 i 2021, a po wyborze przez Radę Nadzorczą Audytora jako podmiotu uprawnionego do badania sprawozdań 
+finansowych w kolejnych okresach, na lata 2022-2023 oraz warunkowo za rok 2024. 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2023 ROKU 73 / 81 
+ 
+Umowa dotyczyła m.in. świadczenia przez Audytora badania i przeglądu, sporządzonych zgodnie z Międzynarodowymi 
+Standardami Sprawozdawczości Finansowej zatwierdzonymi przez Unię Europejską i innymi obowiązującymi 
+przepisami prawa: 
+ rocznych jednostkowych sprawozdań finansowych Spółki oraz rocznych skonsolidowanych sprawozdań 
+finansowych Grupy Kapitałowej ORLEN („Grupa”) za lata: 2019, 2020, 2021, 2022, 2023 oraz 2024; 
+ śródrocznych jednostkowych i skonsolidowanych sprawozdań finansowych Spółki i Grupy za I, III kwartał oraz I 
+półrocze 2019, 2020, 2021, 2022, 2023 i 2024 roku. 
+Decyzja o rozwiązaniu Umowy była decyzją obu stron Umowy. Przyczyną rozwiązania Umowy był brak możliwości 
+wykonania Umowy z przyczyn leżących po stronie Audytora, który wynika z wydania wobec Audytora decyzji Polskiej 
+Agencji Nadzoru Audytowego, nakładającej czasowy zakaz świadczenia usług objętych krajowymi standardami 
+wykonywania zawodu. 
+Ponadto Spółka informuje, że nie wystąpiły przypadki wyrażenia w sprawozdaniach z badania sprawozdań finansowych 
+lub skonsolidowanych sprawozdań finansowych opinii z zastrzeżeniem, opinii negatywnych albo odmowy wyrażenia 
+opinii. Nie wystąpiły również przypadki wyrażenia w raportach z przeglądu skróconych sprawozdań finansowych lub 
+skróconych skonsolidowanych sprawozdań finansowych wniosków z zastrzeżeniem, wniosków negatywnych albo 
+odmowy wyrażenia wniosków. 
+O rozwiązaniu Umowy za porozumieniem stron, w przypadku Spółki, postanowiła Rada Nadzorcza, powierzając 
+wykonanie uchwały w tym przedmiocie Zarządowi Spółki. 
+W okresie obowiązywania Umowy nie zaistniały rozbieżności odnośnie do interpretacji i stosowania przepisów prawa 
+lub postanowień statutu dotyczących przedmiotu i zakresu badania, przeglądu lub innych usług pomiędzy osobami 
+zarządzającymi Spółką a biegłym rewidentem, który dokonywał badania, przeglądu lub innych usług dotyczących 
+sprawozdań finansowych Spółki lub skonsolidowanych sprawozdań finansowych Grupy. 
+PAŹDZIERNIK 2023 
+Zmiany w składzie Rady Nadzorczej 
+ORLEN poinformował, że Pan Michał Klimaszewski złożył 20 października 2023 roku rezygnację z funkcji Członka Rady 
+Nadzorczej Spółki z upływem dnia 31 października 2023 roku. 
+GRUDZIEŃ 2023 
+Zmiany w składzie Rady Nadzorczej 
+ORLEN poinformował, że 13 grudnia 2023 roku Minister Aktywów Państwowych, w imieniu akcjonariusza Skarbu 
+Państwa, działając na podstawie § 8 ust. 2 pkt 1 Statutu Spółki odwołał Panią Janinę Goss ze składu Rady Nadzorczej 
+ORLEN trwającej kadencji 
+STYCZEŃ 2024 
+Zmiany w składzie Rady Nadzorczej 
+ORLEN poinformował że 25 stycznia 2024 roku Minister Aktywów Państwowych, w imieniu akcjonariusza Skarbu 
+Państwa, działając na podstawie § 8 ust. 2 pkt 1 Statutu Spółki powołał Pana Wojciecha Popiołka do składu Rady 
+Nadzorczej ORLEN S.A. 
+Zmiany w składzie Zarządu 
+ORLEN poinformował, że Rada Nadzorcza Spółki, po zapoznaniu się z pismem Prezesa Zarządu ORLEN S.A. Pana 
+Daniela Obajtka, w którym oświadczył, że „oddaje się do dyspozycji Rady Nadzorczej, w zakresie sprawowanej funkcji”, 
+postanowiła odwołać Pana Daniela Obajtka z Zarządu ORLEN S.A. z upływem dnia 5 lutego 2024 roku. 
+LUTY 2024 
+Zmiany w składzie Zarządu 
+ORLEN poinformował, że Pan Michał Róg złożył 2 lutego 2024 roku rezygnację z funkcji członka Zarządu Spółki z 
+upływem dnia 5 lutego 2024 roku. 
+ORLEN poinformował, że Pani Patrycja Klarecka oraz Pan Armen Artwich złożyli 5 lutego 2024 roku rezygnację z funkcji 
+członków Zarządu Spółki z upływem dnia 5 lutego 2024 roku. 
+ORLEN poinformował, że Pan Jan Szewczak złożył 5 lutego 2024 roku rezygnację z funkcji członka Zarządu Spółki z 
+upływem dnia 5 lutego 2024 roku. 
+Zmiany w składzie Rady Nadzorczej 
+ORLEN poinformował, że 6 lutego 2024 roku Minister Aktywów Państwowych, w imieniu akcjonariusza Skarbu Państwa, 
+działając na podstawie § 8 ust. 2 pkt 1 Statutu Spółki odwołał z dniem dzisiejszym Pana Wojciecha Popiołka ze składu 
+Rady Nadzorczej ORLEN S.A. trwającej kadencji. 
+Zmiany w składzie Zarządu 
+ORLEN poinformował, że 6 lutego 2024 roku Minister Aktywów Państwowych, w imieniu akcjonariusza Skarbu Państwa, 
+działając na podstawie § 9 ust. 1 pkt 3 Statutu Spółki powołał z dniem dzisiejszym Pana Witolda Literackiego do 
+Zarządu ORLEN. Jednocześnie Rada Nadzorcza Spółki na dzisiejszym posiedzeniu powołała Pana Witolda 
+Literackiego z dniem 6 lutego 2024 roku na funkcję pełniącego obowiązki Prezesa Zarządu ORLEN. 
+Ponadto Rada Nadzorcza Spółki odwołała ze składu Zarządu ORLEN następujące osoby: 
+- Pana Adama Buraka, 
+- Pana Krzysztofa Nowickiego, 
+- Pana Roberta Perkowskiego, 
+- Pana Piotra Sabata, 
+- Panią Iwonę Waksmundzką-Olejniczak. 
+Na tym samym posiedzeniu Rada Nadzorcza postanowiła także delegować z dniem 7 lutego 2024 roku następujących 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2023 ROKU 74 / 81 
+ 
+członków Rady Nadzorczej do czasowego wykonywania czynności członków Zarządu - do czasu powołania członków 
+Zarządu na te stanowiska, przy czym na okres nie dłuższy niż trzy miesiące: 
+- Pana Kazimierza Mordaszewskiego, 
+- Pana Tomasza Sójkę, 
+- Pana Tomasza Zielińskiego. 
+Zmiany w składzie Rady Nadzorczej 
+ORLEN poinformował, że Pan Tomasz Sójka złożył 9 lutego 2024 roku rezygnację z funkcji członka Rady Nadzorczej 
+Spółki z dniem 16 lutego 2024 roku. 
+Zmiany w składzie Zarządu 
+ORLEN poinformował, że 16 lutego 2024 roku Rada Nadzorcza Spółki postanowiła delegować od dnia 17 lutego 2024 
+roku Pana Ireneusza Sitarskiego, członka Rady Nadzorczej Spółki, do czasowego wykonywania czynności członka 
+Zarządu ORLEN S.A. - do czasu powołania członka Zarządu na to stanowisko, przy czym na okres nie dłuższy niż trzy 
+miesiące. 
+ 
+3. 
+Pozostałe informacje 
+ 
+3.1. Skład Zarządu i Rady Nadzorczej 
+Na dzień zatwierdzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego skład organów 
+zarządczych i nadzorujących Spółki jest następujący: 
+ 
+Zarząd 
+Witold Literacki 
+ 
+– Pełniący obowiązki Prezesa Zarządu 
+Józef Węgrecki 
+ 
+– Członek Zarządu ds. Operacyjnych 
+Kazimierz Mordaszewski 
+ 
+– Członek Rady Nadzorczej delegowany do czasowego wykonywania czynności Członka 
+ 
+ 
+ Zarządu 
+Ireneusz Sitarski 
+ 
+– Członek Rady Nadzorczej delegowany do czasowego wykonywania czynności Członka 
+ 
+ 
+ Zarządu 
+Tomasz Zieliński 
+ 
+– Członek Rady Nadzorczej delegowany do czasowego wykonywania czynności Członka 
+ 
+ 
+ Zarządu 
+Rada Nadzorcza 
+Wojciech Popiołek 
+ 
+ – Przewodniczący Rady Nadzorczej, Niezależny Członek Rady Nadzorczej 
+Michał Gajdus 
+ 
+ – Wiceprzewodniczący Rady Nadzorczej, Niezależny Członek Rady Nadzorczej 
+Katarzyna Łobos 
+ 
+ – Sekretarz Rady Nadzorczej, Niezależny Członek Rady Nadzorczej 
+Ewa Gąsiorek 
+ 
+ – Niezależny Członek Rady Nadzorczej 
+Kazimierz Mordaszewski 
+ 
+ – Niezależny Członek Rady Nadzorczej 
+Mikołaj Pietrzak 
+ 
+ – Niezależny Członek Rady Nadzorczej 
+Ireneusz Sitarski 
+ 
+ – Niezależny Członek Rady Nadzorczej 
+Tomasz Zieliński 
+ 
+ – Członek Rady Nadzorczej 
+ 
+3.2. Akcjonariusze posiadający bezpośrednio lub pośrednio poprzez podmioty zależne co najmniej 5% ogólnej liczby 
+głosów na Walnym Zgromadzeniu Jednostki Dominującej na dzień przekazania niniejszego raportu 
+ 
+Akcjonariusz 
+Procentowy udział w liczbie głosów na WZ 
+na dzień przekazania 
+ 
+Liczba akcji 
+na dzień przekazania 
+Skarb Państwa * 
+49,90% 
+ 
+ 579 310 079 
+Nationale-Nederlanden OFE 
+5,76% 
+ 
+ 66 877 387 
+Pozostali 
+44,34% 
+ 
+ 514 754 583 
+ 
+100,00% 
+ 
+ 1 160 942 049 
+ 
+* zgodnie z informacjami z Nadzwyczajnego Walnego Zgromadzenia ORLEN z dnia 6 lutego 2024 roku 
+ 
+3.3. Zestawienie zmian w stanie posiadania akcji Jednostki Dominującej przez Członków Zarządu oraz Rady 
+Nadzorczej 
+Na dzień sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego Członkowie 
+Zarządu nie posiadali akcji ORLEN. 
+W okresie objętym niniejszym śródrocznym skróconym skonsolidowanym sprawozdaniem finansowym nie wystąpiły zmiany w 
+stanie posiadania akcji ORLEN przez członków Zarządu. 
+ 
+
+ 
+ 
+ 
+ GRUPA ORLEN (w mln PLN) 
+ 
+ 
+SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2023 ROKU 75 / 81 
+ 
+Zestawienie zmian w stanie posiadania akcji Spółki przez członków Rady Nadzorczej 
+ 
+ 
+Liczba akcji, opcji na 
+dzień przekazania 
+poprzedniego raportu 
+kwartalnego * 
+Nabycie 
+Zbycie 
+Zmiana 
+liczby akcji z 
+tytułu zmiany 
+składu Rady 
+Nadzorczej 
+Liczba akcji, opcji na 
+dzień przekazania 
+niniejszego raportu 
+kwartalnego ** 
+Rada Nadzorcza 
+925 
+- 
+- 
+ (925) 
+0 
+Roman Kusz 
+925 
+- 
+- 
+ (925) 
+0 
+ 
+* Według uzyskanych potwierdzeń na dzień roku 24 października 2023 roku 
+** Według uzyskanych potwierdzeń na dzień 15 lutego 2024 roku 
+ 
+3.4. Stanowisko Zarządu odnośnie możliwości zrealizowania wcześniej publikowanych prognoz wyników na dany rok 
+ 
+Grupa ORLEN nie dokonała wcześniejszych publikacji prognozy wyników. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+KWARTALNA INFORMACJA FINANSOWA 
+ORLEN S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ZA IV KWARTAŁ 2023 
+SPORZĄDZONA ZGODNIE Z MIĘDZYNARODOWYMI 
+STANDARDAMI SPRAWOZDAWCZOŚCI FINANSOWEJ 
+ZATWIERDZONYMI PRZEZ UNIĘ EUROPEJSKĄ 
+ 
+
+ 
+ GRUPA ORLEN 
+ KWARTALNA INFORMACJA FINANSOWA ORLEN S.A. 
+ 
+ (w mln PLN) 
+ 
+ 
+ SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2023 ROKU 77 / 81 
+ 
+ 
+C. 
+KWARTALNA INFORMACJA FINANSOWA ORLEN 
+Jednostkowe sprawozdanie z zysków lub strat i innych całkowitych dochodów 
+ 
+ 
+ 
+12 MIESIĘCY 
+ZAKOŃCZONE 
+31/12/2023 
+(niebadane) 
+3 MIESIĄCE 
+ZAKOŃCZONE 
+31/12/2023 
+(niebadane) 
+12 MIESIĘCY 
+ZAKOŃCZONE 
+31/12/2022 
+ 
+(dane 
+przekształcone) 
+3 MIESIĄCE 
+ZAKOŃCZONE 
+31/12/2022 
+(niebadane) 
+(dane 
+przekształcone) 
+ 
+Przychody ze sprzedaży 
+ 250 921 
+ 64 487 
+ 209 625 
+ 81 356 
+Koszt własny sprzedaży 
+ (209 460) 
+ (53 789) 
+ (169 322) 
+ (61 120) 
+Zysk brutto ze sprzedaży 
+ 
+ 41 461 
+ 10 698 
+ 40 303 
+ 20 236 
+Koszty sprzedaży 
+ (8 903) 
+ (2 441) 
+ (6 662) 
+ (2 072) 
+Koszty ogólnego zarządu 
+ (2 322) 
+ (661) 
+ (1 518) 
+ (505) 
+Pozostałe przychody operacyjne, w tym: 
+ 10 595 
+ 3 168 
+ 22 325 
+ 10 399 
+zysk z tytułu okazyjnego nabycia 
+ - 
+ - 
+ 17 810 
+ 7 688 
+Pozostałe koszty operacyjne 
+ (12 157) 
+ (3 090) 
+ (11 017) 
+ (3 611) 
+(Strata)/odwrócenie straty z tytułu utraty wartości należności 
+handlowych 
+ 
+ (137) 
+ (47) 
+ 
+ (27) 
+ (32) 
+Zysk z działalności operacyjnej 
+ 
+ 28 537 
+ 7 627 
+ 43 404 
+ 24 415 
+Przychody finansowe 
+ 5 983 
+ 1 896 
+ 4 642 
+ 1 361 
+Koszty finansowe 
+ (2 266) 
+ (262) 
+ (3 141) 
+ (50) 
+Przychody i koszty finansowe netto 
+ 
+ 3 717 
+ 1 634 
+ 1 501 
+ 1 311 
+(Strata)/odwrócenie straty z tytułu utraty wartości aktywów 
+finansowych innych niż należności handlowe 
+ 
+ (797) 
+ (846) 
+ 
+ (149) 
+ (106) 
+Zysk przed opodatkowaniem 
+ 
+ 31 457 
+ 8 415 
+ 44 756 
+ 25 620 
+Podatek dochodowy 
+ (5 955) 
+ (1 808) 
+ (5 048) 
+ (3 386) 
+podatek dochodowy bieżący 
+ (369) 
+ (396) 
+ (4 387) 
+ (1 939) 
+podatek odroczony 
+ (5 586) 
+ (1 412) 
+ (661) 
+ (1 447) 
+Zysk netto 
+ 
+ 25 502 
+ 6 607 
+ 39 708 
+ 22 234 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inne całkowite dochody: 
+ 
+ 
+które nie zostaną następnie przeklasyfikowane na zyski lub straty 
+ (59) 
+ (58) 
+ 5 
+ (1) 
+zyski i straty aktuarialne 
+ (79) 
+ (79) 
+ 8 
+ (5) 
+zyski/(straty) z tytułu inwestycji w instrumenty kapitałowe 
+ wyceniane w wartości godziwej przez inne całkowite dochody 
+ 6 
+ 7 
+ 
+ (1) 
+ 5 
+podatek odroczony 
+ 14 
+ 14 
+ (2) 
+ (1) 
+które zostaną przeklasyfikowane na zyski lub straty 
+ 4 322 
+ 150 
+ 4 962 
+ 5 244 
+instrumenty zabezpieczające 
+ 4 925 
+ 455 
+ 5 652 
+ 6 245 
+koszty zabezpieczenia 
+ 406 
+ (274) 
+ 474 
+ 229 
+podatek odroczony 
+ (1 009) 
+ (31) 
+ (1 164) 
+ (1 230) 
+ 
+ 
+ 4 263 
+ 92 
+ 4 967 
+ 5 243 
+Całkowite dochody netto 
+ 
+ 29 765 
+ 6 699 
+ 44 675 
+ 27 477 
+Zysk netto i rozwodniony zysk netto na jedną akcję (w PLN na akcję) 
+ 21,97 
+ 5,69 
+ 
+ 34,20 
+ 19,15 
+ 
+
+ 
+ GRUPA ORLEN 
+ KWARTALNA INFORMACJA FINANSOWA ORLEN S.A. 
+ 
+ (w mln PLN) 
+ 
+ 
+ SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2023 ROKU 78 / 81 
+ 
+ 
+Jednostkowe sprawozdanie z sytuacji finansowej 
+ 
+ 
+ 
+31/12/2023 
+(niebadane) 
+ 
+31/12/2022 
+(dane 
+przekształcone) 
+AKTYWA 
+ 
+Aktywa trwałe 
+ 
+Rzeczowe aktywa trwałe 
+ 55 728 
+ 50 469 
+Wartości niematerialne 
+ 5 195 
+ 3 552 
+Aktywa z tytułu praw do użytkowania 
+ 4 785 
+ 4 206 
+Akcje i udziały w jednostkach zależnych i współkontrolowanych 
+ 66 954 
+ 62 666 
+Aktywa z tytułu podatku odroczonego 
+ - 
+ 2 592 
+Instrumenty pochodne 
+ 1 505 
+ 1 252 
+Należności długoterminowe z tytułu leasingu 
+ 19 
+ 20 
+Pozostałe aktywa, w tym: 
+ 12 669 
+ 13 007 
+pożyczki udzielone 
+ 11 271 
+ 11 767 
+ 
+ 
+ 146 855 
+ 
+ 137 764 
+Aktywa obrotowe 
+ 
+Zapasy 
+ 23 726 
+ 33 086 
+Należności z tytułu dostaw i usług oraz pozostałe należności 
+ 18 663 
+ 22 588 
+Należności z tytułu podatku dochodowego 
+ 1 157 
+ 455 
+Środki pieniężne 
+ 2 854 
+ 7 939 
+Instrumenty pochodne 
+ 1 594 
+ 2 094 
+Pozostałe aktywa, w tym: 
+ 19 161 
+ 22 775 
+depozyty zabezpieczające 
+ 206 
+ 8 651 
+pożyczki udzielone 
+ 4 637 
+ 3 329 
+aktywa z tytułu kontraktów wycenionych na moment rozliczenia połączenia jednostek 
+ 296 
+ 5 050 
+Aktywa trwałe przeznaczone do sprzedaży 
+ 3 926 
+ 1 218 
+ 
+ 
+ 71 081 
+ 
+ 90 155 
+Aktywa razem 
+ 
+ 217 936 
+ 227 919 
+PASYWA 
+ 
+ 
+ 
+KAPITAŁ WŁASNY 
+ 
+Kapitał podstawowy 
+ 1 974 
+ 1 974 
+Kapitał z emisji akcji powyżej ich wartości nominalnej 
+ 46 405 
+ 46 405 
+Akcje własne 
+ (2) 
+ (2) 
+Kapitał z tytułu stosowania rachunkowości zabezpieczeń 
+ 8 861 
+ 4 539 
+Kapitał z aktualizacji wyceny 
+ 15 
+ 10 
+Zyski zatrzymane 
+ 
+ 93 741 
+ 
+ 74 691 
+Kapitał własny razem 
+ 
+ 150 994 
+ 
+ 127 617 
+ZOBOWIĄZANIA 
+ 
+ 
+ 
+Zobowiązania długoterminowe 
+ 
+Kredyty, pożyczki i obligacje 
+ 9 337 
+ 10 088 
+Rezerwy 
+ 2 871 
+ 2 857 
+Zobowiązania z tytułu podatku odroczonego 
+ 
+ 4 027 
+ 
+ - 
+Zobowiązania z tytułu umów z klientami 
+ 
+ 6 
+ 
+ - 
+Instrumenty pochodne 
+ 629 
+ 5 091 
+Zobowiązania z tytułu leasingu 
+ 2 899 
+ 2 465 
+Pozostałe zobowiązania, w tym: 
+ 184 
+ 2 975 
+zobowiązania z tytułu kontraktów wycenionych na moment rozliczenia połączenia jednostek 
+ - 
+ 
+ 2 757 
+ 
+ 
+ 19 953 
+ 
+ 23 476 
+Zobowiązania krótkoterminowe 
+ 
+Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania 
+ 26 296 
+ 25 500 
+Zobowiązania z tytułu leasingu 
+ 482 
+ 353 
+Zobowiązania z tytułu umów z klientami 
+ 431 
+ 341 
+Kredyty, pożyczki i obligacje 
+ 3 319 
+ 5 513 
+Rezerwy 
+ 4 428 
+ 4 374 
+Zobowiązania z tytułu podatku dochodowego 
+ 
+ 8 
+ 
+ 4 165 
+Instrumenty pochodne 
+ 1 030 
+ 11 969 
+Pozostałe zobowiązania, w tym: 
+ 10 995 
+ 24 611 
+cash pool wewnątrzgrupowy 
+ 7 732 
+ 4 093 
+zobowiązania z tytułu kontraktów wycenionych na moment rozliczenia połączenia jednostek 
+ 2 757 
+ 
+ 18 822 
+ 
+ 
+ 46 989 
+ 
+ 76 826 
+Zobowiązania razem 
+ 
+ 66 942 
+ 
+ 100 302 
+Pasywa razem 
+ 
+ 217 936 
+ 227 919 
+ 
+
+ 
+ GRUPA ORLEN 
+ KWARTALNA INFORMACJA FINANSOWA ORLEN S.A. 
+ 
+ (w mln PLN) 
+ 
+ 
+ SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2023 ROKU 79 / 81 
+ 
+ 
+Jednostkowe sprawozdanie ze zmian w kapitale własnym 
+ 
+ 
+Kapitał 
+podstawowy 
+Kapitał z emisji 
+akcji powyżej ich 
+wartości nominalnej 
+Akcje 
+własne 
+Kapitał z tytułu 
+stosowania 
+rachunkowości 
+zabezpieczeń 
+Kapitał z 
+aktualizacji 
+wyceny 
+Zyski 
+zatrzymane 
+Kapitał własny 
+razem 
+01/01/2023 (dane przekształcone) 
+ 1 974 
+ 46 405 
+ (2) 
+ 4 539 
+ 10 
+ 74 691 
+ 127 617 
+Zysk netto 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 25 502 
+ 25 502 
+Składniki innych całkowitych dochodów 
+ - 
+ - 
+ - 
+ 4 322 
+ 5 
+ (64) 
+ 4 263 
+Całkowite dochody netto 
+ - 
+ - 
+ - 
+ 4 322 
+ 5 
+ 25 438 
+ 29 765 
+Kapitał wynikający z połączenia jednostek 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (3) 
+ (3) 
+Dywidendy 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (6 385) 
+ (6 385) 
+31/12/2023 
+ 1 974 
+ 46 405 
+ (2) 
+ 8 861 
+ 15 
+ 93 741 
+ 150 994 
+(niebadane) 
+ 
+01/01/2022 
+ 1 058 
+ 1 227 
+ - 
+ (423) 
+ 11 
+ 36 582 
+ 38 455 
+Zysk netto 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 39 708 
+ 39 708 
+Składniki innych całkowitych dochodów 
+ - 
+ - 
+ - 
+ 4 962 
+ (1) 
+ 6 
+ 4 967 
+Całkowite dochody netto 
+ - 
+ - 
+ - 
+ 4 962 
+ (1) 
+ 39 714 
+ 44 675 
+Kapitał wynikający z połączenia jednostek 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (108) 
+ (108) 
+Dywidendy 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (1 497) 
+ (1 497) 
+Emisja akcji połączeniowych 
+ 916 
+ 45 178 
+ (2) 
+ - 
+ - 
+ - 
+ 46 092 
+31/12/2022 
+ 1 974 
+ 46 405 
+ (2) 
+ 4 539 
+ 10 
+ 74 691 
+ 127 617 
+ 
+(dane przekształcone) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ GRUPA ORLEN 
+ KWARTALNA INFORMACJA FINANSOWA ORLEN S.A. 
+ 
+ (w mln PLN) 
+ 
+ 
+ SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2023 ROKU 80 / 81 
+ 
+ 
+ 
+Jednostkowe sprawozdanie z przepływów pieniężnych 
+ 
+ 
+ 
+12 MIESIĘCY 
+ZAKOŃCZONE 
+31/12/2023 
+(niebadane) 
+3 MIESIĄCE 
+ZAKOŃCZONE 
+31/12/2023 
+(niebadane) 
+ 
+12 MIESIĘCY 
+ZAKOŃCZONE 
+31/12/2022 
+ 
+(dane 
+przekształcone) 
+3 MIESIĄCE 
+ZAKOŃCZONE 
+31/12/2022 
+(niebadane) 
+(dane 
+przekształcone) 
+ 
+Przepływy pieniężne z działalności operacyjnej 
+ 
+ 
+ 
+Zysk przed opodatkowaniem 
+ 
+ 31 457 
+ 8 415 
+ 44 756 
+ 25 620 
+Korekty o pozycje: 
+ 
+ 
+Amortyzacja 
+ 5 204 
+ 1 266 
+ 2 819 
+ 1 242 
+(Zysk) z tytułu różnic kursowych 
+ (415) 
+ (323) 
+ (119) 
+ (272) 
+Odsetki netto 
+ (1 518) 
+ (371) 
+ 16 
+ (37) 
+Dywidendy 
+ (1 235) 
+ (12) 
+ (1 070) 
+ (70) 
+(Zysk)/Strata na działalności inwestycyjnej, w tym: 
+ 4 332 
+ 1 052 
+ (14 139) 
+ (6 478) 
+(zysk) z tytułu okazyjnego nabycia 
+ - 
+ - 
+ 
+ (17 810) 
+ (7 688) 
+Zmiana stanu rezerw 
+ 3 872 
+ 980 
+ 3 458 
+ 1 014 
+Zmiana stanu kapitału pracującego 
+ 
+ 1 904 
+ (178) 
+ (12 103) 
+ (7 288) 
+zapasy 
+ 9 423 
+ 1 729 
+ (4 289) 
+ (1 716) 
+należności 
+ 8 739 
+ 3 072 
+ (2 204) 
+ 3 690 
+zobowiązania 
+ (16 258) 
+ (4 979) 
+ (5 610) 
+ (9 262) 
+Pozostałe korekty, w tym: 
+ (6 118) 
+ (2 206) 
+ 690 
+ 2 135 
+rozliczenie dotacji na prawa majątkowe 
+ (2 181) 
+ (569) 
+ 
+ (1 388) 
+ (350) 
+depozyty zabezpieczające 
+ 
+ 8 446 
+ 1 686 
+ 
+ 3 724 
+ 5 548 
+instrumenty pochodne 
+ 
+ (9 566) 
+ (2 408) 
+ 
+ (62) 
+ (1 212) 
+Podatek dochodowy (zapłacony) 
+ (5 221) 
+ (417) 
+ (1 964) 
+ (1 175) 
+Środki pieniężne netto z działalności operacyjnej 
+ 32 262 
+ 8 206 
+ 22 344 
+ 14 691 
+Przepływy pieniężne z działalności inwestycyjnej 
+ 
+ 
+Nabycie składników rzeczowego majątku trwałego, wartości 
+niematerialnych i aktywów z tytułu praw do użytkowania 
+ (19 979) 
+ (4 124) 
+ 
+ (10 483) 
+ (4 421) 
+Nabycie akcji i udziałów 
+ (2) 
+ - 
+ (142) 
+ (45) 
+Nabycie obligacji 
+ (3 978) 
+ - 
+ - 
+ - 
+Dokapitalizowanie jednostek zależnych 
+ (4 103) 
+ (2 941) 
+ (1 320) 
+ (1 047) 
+Dokapitalizowanie w inwestycjach we wspólne przedsięwzięcia 
+ (1 523) 
+ - 
+ (795) 
+ - 
+Sprzedaż składników rzeczowego majątku trwałego, wartości 
+niematerialnych i aktywów z tytułu praw do użytkowania 
+ 2 887 
+ 1 644 
+ 
+ 2 144 
+ 478 
+Wpływy netto ze sprzedaży akcji/udziałów w związku z realizacją 
+Środków Zaradczych 
+ 340 
+ - 
+ 
+ 4 579 
+ 4 579 
+Środki pieniężne w spółce Grupa LOTOS S.A. na dzień połączenia 
+ - 
+ - 
+ 3 235 
+ - 
+Środki pieniężne w spółce PGNiG S.A. na dzień połączenia 
+ - 
+ - 
+ 4 222 
+ 4 222 
+Środki pieniężne na dzień ustalenia wspólnego działania w Rafinerii Gdańskiej 
+ - 
+ - 
+ 375 
+ 375 
+Odsetki otrzymane 
+ 1 813 
+ 385 
+ 304 
+ 141 
+Dywidendy otrzymane 
+ 1 253 
+ 604 
+ 1 199 
+ 70 
+Zbycie obligacji 
+ 3 978 
+ 923 
+ - 
+ - 
+Nabycie aktywów petrochemicznych pomniejszone o środki pieniężne 
+ (212) 
+ - 
+ - 
+ - 
+Wydatki z tytułu udzielonych pożyczek 
+ (16 005) 
+ (3 089) 
+ (5 057) 
+ (2 986) 
+Wpływy z tytułu spłaty udzielonych pożyczek 
+ 14 313 
+ 873 
+ 2 385 
+ 393 
+Przepływy netto w ramach systemu cash pool 
+ (9 415) 
+ (6 941) 
+ (798) 
+ 991 
+Pozostałe 
+ (459) 
+ (208) 
+ - 
+ (1) 
+Środki pieniężne netto z/(wykorzystane w) działalności inwestycyjnej 
+ (31 092) 
+ (12 874) 
+ (152) 
+ 2 749 
+Przepływy pieniężne z działalności finansowej 
+ 
+ 
+Wpływy z otrzymanych kredytów i pożyczek 
+ 4 825 
+ 4 802 
+ 9 815 
+ 1 978 
+Emisja obligacji 
+ 2 183 
+ - 
+ - 
+ - 
+Spłata kredytów i pożyczek 
+ (9 301) 
+ (2 409) 
+ (19 996) 
+ (11 734) 
+Wykup obligacji 
+ - 
+ - 
+ (800) 
+ (200) 
+Odsetki zapłacone od kredytów, pożyczek, obligacji i cash pool 
+ (801) 
+ (191) 
+ (576) 
+ (307) 
+Odsetki zapłacone z tytułu leasingu 
+ (145) 
+ (29) 
+ (80) 
+ (16) 
+Dywidendy wypłacone akcjonariuszom jednostki dominującej 
+ (6 385) 
+ - 
+ (1 497) 
+ (1 497) 
+Przepływy netto w ramach systemu cash pool 
+ 3 705 
+ 128 
+ (2 270) 
+ (3 665) 
+Płatności zobowiązań z tytułu umów leasingu 
+ (368) 
+ (88) 
+ (345) 
+ (87) 
+Pozostałe 
+ 4 
+ 127 
+ (26) 
+ 15 
+Środki pieniężne netto z/(wykorzystane w) działalności finansowej 
+ (6 283) 
+ 2 340 
+ (15 775) 
+ (15 513) 
+Zwiększenie/(Zmniejszenie) netto stanu środków pieniężnych 
+ (5 113) 
+ (2 328) 
+ 6 417 
+ 1 927 
+Zmiana stanu środków pieniężnych z tytułu różnic kursowych 
+ 28 
+ 1 
+ 1 
+ 7 
+Środki pieniężne na początek okresu 
+ 7 939 
+ 5 181 
+ 1 521 
+ 6 005 
+Środki pieniężne na koniec okresu 
+ 
+ 2 854 
+ 2 854 
+ 7 939 
+ 7 939 
+w tym środki pieniężne o ograniczonej możliwości dysponowania 
+ 
+ 188 
+ 188 
+ 766 
+ 766 
+ 
+ 
+
+ 
+ 
+ GRUPA ORLEN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SKONSOLIDOWANY RAPORT KWARTALNY ZA IV KWARTAŁ 2023 ROKU 81 / 81 
+ 
+ 
+Niniejszy skonsolidowany raport kwartalny został zatwierdzony przez Zarząd Jednostki Dominującej w dniu 21 lutego 2024 roku. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+………………………..………….. 
+Witold Literacki 
+Pełniący obowiązki 
+Prezesa Zarządu 
+ 
+ 
+ 
+………………………..………….. 
+Kazimierz Mordaszewski 
+Członek Rady Nadzorczej 
+delegowany do czasowego wykonywania 
+czynności Członka Zarządu 
+………………………..………….. 
+Ireneusz Sitarski 
+Członek Rady Nadzorczej 
+delegowany do czasowego wykonywania 
+czynności Członka Zarządu 
+………………………..………….. 
+Józef Węgrecki 
+Członek Zarządu 
+ 
+ 
+ 
+ 
+ 
+ 
+………………………..………….. 
+Tomasz Zieliński 
+Członek Rady Nadzorczej 
+delegowany do czasowego wykonywania 
+czynności Członka Zarządu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dokument podpisany przez Witold
+Literacki; ORLEN S.A.
+Data: 2024.02.21 19:41:18 CET
+Signature Not Verified
+Dokument podpisany przez Tomasz
+Zieliński
+Data: 2024.02.21 19:44:41 CET
+Signature Not Verified
+Dokument podpisany przez Ireneusz
+Robert Sitarski
+Data: 2024.02.21 20:15:14 CET
+Signature Not Verified
+Dokument podpisany przez Józef Węgrecki
+Data: 2024.02.21 20:22:27 CET
+Signature Not Verified

@@ -1,0 +1,42 @@
+[
+  {
+    "ticker": "TPE",
+    "event_id": "TPE_2025_24",
+    "duplicate_url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8970966",
+    "canonical_url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8968372",
+    "date": "2025-06-27",
+    "duplicate_time": "11:37",
+    "canonical_time": "11:37",
+    "note": "Wykaz emitenta podaje ten sam numer, tytuł, datę i godzinę pod dwoma adresami."
+  },
+  {
+    "ticker": "TPE",
+    "event_id": "TPE_2022_21",
+    "duplicate_url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8344206",
+    "canonical_url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8343068",
+    "date": "2022-05-24",
+    "duplicate_time": "18:08",
+    "canonical_time": "18:08",
+    "note": "Wykaz emitenta podaje ten sam numer, tytuł, datę i godzinę pod dwoma adresami."
+  },
+  {
+    "ticker": "TPE",
+    "event_id": "TPE_2022_20",
+    "duplicate_url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8344200",
+    "canonical_url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8343087",
+    "date": "2022-05-24",
+    "duplicate_time": "17:56",
+    "canonical_time": "17:56",
+    "note": "Wykaz emitenta podaje ten sam numer, tytuł, datę i godzinę pod dwoma adresami."
+  },
+  {
+    "ticker": "TPE",
+    "event_id": "TPE_2022_8",
+    "duplicate_url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8306370",
+    "canonical_url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8303680",
+    "date": "2022-03-22",
+    "duplicate_time": "00:00",
+    "canonical_time": "17:14",
+    "note": "Wykaz emitenta i strona szczegółowa potwierdzają ten sam numer, tytuł i dzień. Dla wersji z godziną 00:00 strona szczegółowa pokazuje samą datę. W katalogu zachowano godzinę 17:14 z wykazu emitenta."
+  }
+]

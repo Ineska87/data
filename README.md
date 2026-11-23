@@ -6,6 +6,53 @@ Zakres badania i benchmark WIG określa `metadata/study_scope.json`. Katalog
 Niezatwierdzone eksporty scrapera trafiają do `staging/`. Plik
 `metadata/espi_snapshots.json` określa, które zrzuty uwzględni potok.
 
+## Aktualizacja indeksu ESPI
+
+Z katalogu projektu uruchom następujące polecenia. Z katalogu `data/`
+usuń prefiks `data/` w ścieżkach. Tryb `--study` używa emitentów i dat
+z `metadata/study_scope.json`.
+
+```powershell
+python -B data/ir-scraper/scripts/scrape_ir_firecrawl.py --study --seed-cache
+python -B data/ir-scraper/scripts/scrape_ir_firecrawl.py --study --dry-run
+python -B data/ir-scraper/scripts/scrape_ir_firecrawl.py --study --max-uncached 0
+```
+
+Cache w `raw/firecrawl_cache/` przechowuje znormalizowane adresy pod
+skrótem SHA-256. Zachowane odpowiedzi archiwalne można odzyskać bez API.
+Podgląd pokazuje strony dostępne w cache, strony do odzyskania lokalnie
+i adresy wymagające pobrania. `--verify-public` dodatkowo porównuje
+wyniki z publicznym HTML emitenta tam, gdzie jest parser.
+
+Nowe strony pobierane są z Firecrawl w standardowych formatach Markdown
+i HTML, po jednym kredycie za URL. Odpowiedź jest zapisywana na dysku przed
+lokalnym wydobyciem rekordów. `--max-uncached` ogranicza liczbę nowych URL-i.
+Przy HTTP 429 scraper czeka zgodnie z `Retry-After` lub ponawia z rosnącym
+odstępem. Gdy wynik rozliczenia jest niepewny, cache zachowuje blokadę URL-a.
+
+Zrzuty trafiają do `staging/espi/`. Po sprawdzeniu pokrycia dopisz je do
+`metadata/espi_snapshots.json`. Można zachować poprzedni zrzut jako
+pierwszy wpis listy. Pole `complete_period` zapisuj po zweryfikowaniu
+pełnego okresu i zastąpieniu starego zakresu przez nowy. Korekty mają
+własne identyfikatory i wskazują raport, którego dotyczą. Jednostkowe
+rozstrzygnięcia oparte na źródle są zapisane w
+`metadata/espi_source_overrides.json`.
+
+### Pełne treści ESPI
+
+Skrypt `data/ir-scraper/scripts/scrape_espi_details.py --dry-run` liczy
+unikalne adresy komunikatów bez zapisanej odpowiedzi. Opcje
+`--fetch-only --batch` pobierają standardowe Markdown i HTML. Dziennik
+przyjętych partii można podać w `--resume-batch`, aby odebrać wyniki bez
+ponownego wysyłania adresów. `--parse-only --download-report-pdfs` rozpoznaje
+treść lokalnie i pobiera dokumenty źródłowe dostępne wyłącznie jako PDF.
+
+Surowe odpowiedzi Firecrawl zostają w cache. Indeks treści, źródła GPW,
+załączniki i dowody kwalifikacji zapisują się w `raw/espi/detail_evidence/`.
+`data/scripts/espi_investment_evidence.py --download` wyszukuje kandydatów
+oraz zapisuje powiązania ze wcześniejszymi raportami i plikami PDF.
+Status kandydata nie zastępuje decyzji zapisanej w `metadata/espi_review.csv`.
+
 ## Odtwarzanie wyników
 
 Polecenia można wykonać z katalogu projektu. Przy uruchamianiu z innego

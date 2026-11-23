@@ -1,8 +1,26 @@
 {
-  "PKN": "PKN/orlen_biezace_1999-2026.json",
-  "PGE": "PGE/pge_raporty_biezace_2009-2026.json",
-  "TPE": "TPE/tauron_biezace_2010-2026.json",
-  "ENA": "ENA/enea_biezace_2005-2026.json",
-  "ZEP": "ZEP/zepak_biezace_2012-2026.json",
-  "UNT": "UNT/unimot_biezace_2013-2026.json"
+  "PKN": [
+    "PKN/orlen_biezace_1999-2026.json",
+    "staging/espi/PKN/pkn_espi_20261122T200458469435Z.json"
+  ],
+  "PGE": [
+    "PGE/pge_raporty_biezace_2009-2026.json",
+    "staging/espi/PGE/pge_espi_20261122T200458469435Z.json"
+  ],
+  "TPE": [
+    "TPE/tauron_biezace_2010-2026.json",
+    "staging/espi/TPE/tpe_espi_20261122T200458469435Z.json"
+  ],
+  "ENA": [
+    "ENA/enea_biezace_2005-2026.json",
+    "staging/espi/ENA/ena_espi_20261122T200458469435Z.json"
+  ],
+  "ZEP": [
+    "ZEP/zepak_biezace_2012-2026.json",
+    "staging/espi/ZEP/zep_espi_20261122T200458469435Z.json"
+  ],
+  "UNT": [
+    "UNT/unimot_biezace_2013-2026.json",
+    "staging/espi/UNT/unt_espi_20261122T200458469435Z.json"
+  ]
 }

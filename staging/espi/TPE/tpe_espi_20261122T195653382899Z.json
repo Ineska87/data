@@ -1,0 +1,2697 @@
+{
+  "spolka": "TAURON Polska Energia S.A.",
+  "spolka_key": "tauron",
+  "ticker": "TPE",
+  "typ": "biezace",
+  "zrodla": [
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=2&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=3&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=4&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=5&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=6&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=7&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=8&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=9&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=10&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=11&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=12&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=13&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=14&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=15&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=16&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=17&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=18&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=19&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=20&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=21&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=22&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=23&pageSize=15",
+    "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=24&pageSize=15"
+  ],
+  "data_scrapowania": "2026-11-22T19:56:53.382899+00:00",
+  "source_kind": "issuer_listing_reparse",
+  "period": {
+    "start": "2020-01-01",
+    "end": "2025-12-31"
+  },
+  "liczba_stron": 23,
+  "liczba_raportow": 331,
+  "reports_by_year": {
+    "2020": 56,
+    "2021": 53,
+    "2022": 52,
+    "2023": 51,
+    "2024": 69,
+    "2025": 50
+  },
+  "raporty": [
+    {
+      "numer": "49/2025",
+      "data": "2025-12-30",
+      "godzina": "16:01",
+      "tytul": "Zawarcie umów o przyznanie dofinansowania w ramach środków z Funduszu Modernizacyjnego",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9062182",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=2&pageSize=15"
+    },
+    {
+      "numer": "48/2025",
+      "data": "2025-12-22",
+      "godzina": "11:53",
+      "tytul": "Zawarcie z Bankiem Gospodarstwa Krajowego umowy pożyczki na budowę farm fotowoltaicznych oraz umowy pożyczki na transformację cyfrową w ramach środków z Krajowego Planu Odbudowy i Zwiększania Odporności",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9059612",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=2&pageSize=15"
+    },
+    {
+      "numer": "47/2025",
+      "data": "2025-12-19",
+      "godzina": "12:40",
+      "tytul": "Zmiana terminu dostępności umowy kredytu konsorcjalnego",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9058632",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=2&pageSize=15"
+    },
+    {
+      "numer": "46/2025",
+      "data": "2025-12-17",
+      "godzina": "17:54",
+      "tytul": "Informacja dotycząca skutków zatwierdzonej przez Prezesa Urzędu Regulacji Energetyki taryfy dla energii elektrycznej dla klientów grup taryfowych G na 2026 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9057401",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=2&pageSize=15"
+    },
+    {
+      "numer": "45/2025",
+      "data": "2025-12-17",
+      "godzina": "16:11",
+      "tytul": "Odwołanie Członka Zarządu TAURON Polska Energia S.A. oraz delegowanie Członka Rady Nadzorczej do czasowego wykonywania czynności Członka Zarządu",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9057279",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=3&pageSize=15"
+    },
+    {
+      "numer": "44/2025",
+      "data": "2025-12-15",
+      "godzina": "12:38",
+      "tytul": "Publikacja wstępnych wyników aukcji rynku mocy na rok dostaw 2030",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9055728",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=3&pageSize=15"
+    },
+    {
+      "numer": "43/2025",
+      "data": "2025-12-15",
+      "godzina": "10:55",
+      "tytul": "Zmiana warunków emisji obligacji w ramach programu emisji obligacji długoterminowych",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9055646",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=3&pageSize=15"
+    },
+    {
+      "numer": "42/2025",
+      "data": "2025-12-11",
+      "godzina": "11:59",
+      "tytul": "Ujawnienie informacji poufnej, której publikacja została opóźniona, dotyczącej zatwierdzenia przez Zarząd TAURON Polska Energia S.A. decyzji Komitetu Inwestycyjnego o rozpoczęciu realizacji projektu budowy szczytowej jednostki gazowej klasy 600 MWe w Jaworznie.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9053934",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=3&pageSize=15"
+    },
+    {
+      "numer": "41/2025",
+      "data": "2025-12-11",
+      "godzina": "11:53",
+      "tytul": "Szacunkowe wyniki aukcji głównej rynku mocy na rok dostaw 2030",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9053919",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=3&pageSize=15"
+    },
+    {
+      "numer": "40/2025",
+      "data": "2025-12-08",
+      "godzina": "17:30",
+      "tytul": "Decyzja o zakwalifikowaniu do przyznania dofinansowania w ramach środków z Funduszu Modernizacyjnego",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9052302",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=3&pageSize=15"
+    },
+    {
+      "numer": "39/2025",
+      "data": "2025-11-25",
+      "godzina": "14:46",
+      "tytul": "Wydłużenie okresu obowiązywania programu emisji obligacji",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9045397",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=3&pageSize=15"
+    },
+    {
+      "numer": "38/2025",
+      "data": "2025-11-14",
+      "godzina": "17:30",
+      "tytul": "Informacje na temat osób powołanych do Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9039942",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=3&pageSize=15"
+    },
+    {
+      "numer": "37/2025",
+      "data": "2025-11-13",
+      "godzina": "20:15",
+      "tytul": "Zmiany w składzie Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9039228",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=3&pageSize=15"
+    },
+    {
+      "numer": "36/2025",
+      "data": "2025-11-06",
+      "godzina": "17:26",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON za 9 miesięcy i III kwartał 2025 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9036183",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=3&pageSize=15"
+    },
+    {
+      "numer": "35/2025",
+      "data": "2025-10-22",
+      "godzina": "16:29",
+      "tytul": "Podpisanie aneksu do umowy kredytu z Bankiem Gospodarstwa Krajowego",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9028642",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=3&pageSize=15"
+    },
+    {
+      "numer": "34/2025",
+      "data": "2025-09-29",
+      "godzina": "18:46",
+      "tytul": "Poprawa perspektywy i potwierdzenie ocen ratingowych TAURON Polska Energia S.A. przez Fitch Ratings",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9016710",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=3&pageSize=15"
+    },
+    {
+      "numer": "33/2025",
+      "data": "2025-09-11",
+      "godzina": "13:54",
+      "tytul": "Szacunkowe wyniki aukcji uzupełniającej rynku mocy na 2026 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9007565",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=3&pageSize=15"
+    },
+    {
+      "numer": "32/2025",
+      "data": "2025-08-28",
+      "godzina": "19:55",
+      "tytul": "Zawarcie z Bankiem Gospodarstwa Krajowego aneksu do umowy pożyczki w ramach środków z Krajowego Planu Odbudowy i Zwiększania Odporności",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9000272",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=3&pageSize=15"
+    },
+    {
+      "numer": "31/2025",
+      "data": "2025-08-28",
+      "godzina": "19:46",
+      "tytul": "Ujawnienie informacji poufnej, której publikacja została opóźniona, dotyczącej wyrażenia intencji zawarcia aneksu zwiększającego wartość umowy pożyczki z Bankiem Gospodarstwa Krajowego ze środków Krajowego Planu Odbudowy i Zwiększania Odporności",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9000267",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=3&pageSize=15"
+    },
+    {
+      "numer": "30/2025",
+      "data": "2025-08-28",
+      "godzina": "19:38",
+      "tytul": "Zawarcie z Bankiem Gospodarstwa Krajowego umowy pożyczki na transformację cyfrową w ramach środków z Krajowego Planu Odbudowy i Zwiększania Odporności",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=9000254",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=4&pageSize=15"
+    },
+    {
+      "numer": "29/2025",
+      "data": "2025-08-27",
+      "godzina": "18:18",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON za I półrocze 2025 r. i II kwartał 2025 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8999477",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=4&pageSize=15"
+    },
+    {
+      "numer": "28/2025",
+      "data": "2025-08-06",
+      "godzina": "10:33",
+      "tytul": "Zmiana terminu publikacji rozszerzonego skonsolidowanego raportu półrocznego za I półrocze 2025 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8989729",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=4&pageSize=15"
+    },
+    {
+      "numer": "27/2025",
+      "data": "2025-07-17",
+      "godzina": "12:08",
+      "tytul": "Otrzymanie zawiadomień od Powszechnego Towarzystwa Emerytalnego PZU S.A. o zmianach udziału w ogólnej liczbie głosów w TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8980253",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=4&pageSize=15"
+    },
+    {
+      "numer": "26/2025",
+      "data": "2025-07-07",
+      "godzina": "12:40",
+      "tytul": "Przyjęcie tekstu jednolitego Statutu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8975131",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=4&pageSize=15"
+    },
+    {
+      "numer": "25/2025",
+      "data": "2025-07-03",
+      "godzina": "14:14",
+      "tytul": "Rejestracja zmian Statutu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8973566",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=4&pageSize=15"
+    },
+    {
+      "numer": "24/2025",
+      "data": "2025-06-27",
+      "godzina": "11:37",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Zwyczajnym Walnym Zgromadzeniu TAURON Polska Energia S.A. w dniu 25 czerwca 2025 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8970966",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=4&pageSize=15"
+    },
+    {
+      "numer": "24/2025",
+      "data": "2025-06-27",
+      "godzina": "11:37",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Zwyczajnym Walnym Zgromadzeniu TAURON Polska Energia S.A. w dniu 25 czerwca 2025 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8968372",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=4&pageSize=15"
+    },
+    {
+      "numer": "23/2025",
+      "data": "2025-06-25",
+      "godzina": "18:55",
+      "tytul": "Treść uchwał poddanych pod głosowanie podczas Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8967121",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=4&pageSize=15"
+    },
+    {
+      "numer": "22/2025",
+      "data": "2025-06-18",
+      "godzina": "14:40",
+      "tytul": "Projekty uchwał Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A. zwołanego na 25 czerwca 2025 r. zgłoszone przez akcjonariusza",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8963353",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=4&pageSize=15"
+    },
+    {
+      "numer": "21/2025",
+      "data": "2025-06-03",
+      "godzina": "17:24",
+      "tytul": "Zmiany w porządku obrad Zwyczajnego Walnego Zgromadzenia w związku z żądaniem Akcjonariusza",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8954611",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=4&pageSize=15"
+    },
+    {
+      "numer": "20/2025",
+      "data": "2025-05-29",
+      "godzina": "16:09",
+      "tytul": "Projekty uchwał Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8951282",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=4&pageSize=15"
+    },
+    {
+      "numer": "19/2025",
+      "data": "2025-05-29",
+      "godzina": "16:04",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8951269",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=4&pageSize=15"
+    },
+    {
+      "numer": "18/2025",
+      "data": "2025-05-12",
+      "godzina": "17:45",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON Polska Energia za I kwartał 2025 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8940216",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=4&pageSize=15"
+    },
+    {
+      "numer": "17/2025",
+      "data": "2025-05-06",
+      "godzina": "21:31",
+      "tytul": "Otrzymanie zawiadomienia od The Goldman Sachs Group, Inc. o przekroczeniu progu 5 proc. ogólnej liczby głosów w TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8936857",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=4&pageSize=15"
+    },
+    {
+      "numer": "16/2025",
+      "data": "2025-05-06",
+      "godzina": "12:14",
+      "tytul": "Otrzymanie zawiadomienia od The Goldman Sachs Group, Inc. o zmianie udziału w ogólnej liczbie głosów w TAURON Polska Energia S.A. w trybie art. 69 ust. 1 Ustawy o ofercie publicznej.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8936415",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=5&pageSize=15"
+    },
+    {
+      "numer": "15/2025",
+      "data": "2025-04-28",
+      "godzina": "16:01",
+      "tytul": "Zawarcie przez Polska Energia – Pierwsza Kompania Handlowa Sp. z o.o. oraz TAURON Polska Energia S.A. ugód ze spółkami Amon Sp. z o.o. i Talia Sp. z o.o.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8932362",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=5&pageSize=15"
+    },
+    {
+      "numer": "14/2025",
+      "data": "2025-04-14",
+      "godzina": "18:33",
+      "tytul": "Rekomendacja Zarządu TAURON Polska Energia S.A. w sprawie przeznaczenia zysku netto za rok 2024 na kapitał zapasowy",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8924882",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=5&pageSize=15"
+    },
+    {
+      "numer": "13/2025",
+      "data": "2025-04-02",
+      "godzina": "17:15",
+      "tytul": "Podpisanie przez TAURON Polska Energia S.A. oraz Polska Energia – Pierwsza Kompania Handlowa Sp. z o.o. protokołu z uzgodnień dotyczących możliwości polubownego zakończenia sporów ze spółkami Amon Sp. z o.o. i Talia Sp. z o.o.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8918595",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=5&pageSize=15"
+    },
+    {
+      "numer": "12/2025",
+      "data": "2025-03-24",
+      "godzina": "17:36",
+      "tytul": "Otrzymanie decyzji Naczelnika Pierwszego Mazowieckiego Urzędu Skarbowego w Warszawie w sprawie umorzenia postępowania podatkowego",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8912977",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=5&pageSize=15"
+    },
+    {
+      "numer": "11/2025",
+      "data": "2025-03-21",
+      "godzina": "17:31",
+      "tytul": "Wykreślenie wpisu o połączeniu spółek z KRS",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8911979",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=5&pageSize=15"
+    },
+    {
+      "numer": "10/2025",
+      "data": "2025-03-19",
+      "godzina": "19:34",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON za 2024 r. i IV kwartał 2024 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8910610",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=5&pageSize=15"
+    },
+    {
+      "numer": "9/2025",
+      "data": "2025-03-17",
+      "godzina": "17:58",
+      "tytul": "Podpisanie aneksu do umowy kredytu z Bankiem Gospodarstwa Krajowego",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8909093",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=5&pageSize=15"
+    },
+    {
+      "numer": "8/2025",
+      "data": "2025-03-04",
+      "godzina": "17:26",
+      "tytul": "Wyniki testów na utratę wartości aktywów",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8901926",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=5&pageSize=15"
+    },
+    {
+      "numer": "7/2025",
+      "data": "2025-03-03",
+      "godzina": "17:36",
+      "tytul": "Zmiana terminu dostępności umowy kredytu konsorcjalnego",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8901282",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=5&pageSize=15"
+    },
+    {
+      "numer": "6/2025",
+      "data": "2025-02-17",
+      "godzina": "18:16",
+      "tytul": "Powołanie Członka Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8893762",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=5&pageSize=15"
+    },
+    {
+      "numer": "5/2025",
+      "data": "2025-02-12",
+      "godzina": "12:35",
+      "tytul": "Otrzymanie korekty zawiadomienia od The Goldman Sachs Group, Inc. o przekroczeniu progu 5 proc. ogólnej liczby głosów w TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8891543",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=5&pageSize=15"
+    },
+    {
+      "numer": "4/2025",
+      "data": "2025-02-11",
+      "godzina": "16:55",
+      "tytul": "Otrzymanie decyzji Dyrektora Izby Administracji Skarbowej w Warszawie",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8891513",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=5&pageSize=15"
+    },
+    {
+      "numer": "3/2025",
+      "data": "2025-02-03",
+      "godzina": "16:50",
+      "tytul": "Aktualizacja informacji w sprawie projektu budowy bloku gazowo-parowego w Elektrowni Łagisza",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8886548",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=5&pageSize=15"
+    },
+    {
+      "numer": "2/2025",
+      "data": "2025-01-24",
+      "godzina": "16:57",
+      "tytul": "Terminy publikacji raportów okresowych TAURON Polska Energia S.A. w 2025 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8881715",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=5&pageSize=15"
+    },
+    {
+      "numer": "1/2025",
+      "data": "2025-01-22",
+      "godzina": "20:29",
+      "tytul": "Otrzymanie zawiadomienia od The Goldman Sachs Group, Inc. o przekroczeniu progu 5 proc. ogólnej liczby głosów w TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8880476",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=6&pageSize=15"
+    },
+    {
+      "numer": "67/2024",
+      "data": "2024-12-27",
+      "godzina": "13:39",
+      "tytul": "Otrzymanie decyzji Naczelnika Pierwszego Mazowieckiego Urzędu Skarbowego w Warszawie",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8866892",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=6&pageSize=15"
+    },
+    {
+      "numer": "66/2024",
+      "data": "2024-12-18",
+      "godzina": "16:23",
+      "tytul": "Wytoczenie powództwa przeciwko spółce zależnej",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8863568",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=6&pageSize=15"
+    },
+    {
+      "numer": "65/2024",
+      "data": "2024-12-17",
+      "godzina": "09:23",
+      "tytul": "Podpisanie umowy pożyczki z Bankiem Gospodarstwa Krajowego",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8862516",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=6&pageSize=15"
+    },
+    {
+      "numer": "64/2024",
+      "data": "2024-12-17",
+      "godzina": "09:17",
+      "tytul": "Ujawnienie informacji poufnej, której publikacja została opóźniona, dotyczącej wyrażenia zgody na zawarcie z Bankiem Gospodarstwa Krajowego umowy pożyczki ze środków Krajowego Planu Odbudowy i Zwiększania Odporności (w ramach Inwestycji G3.1.4 Fundusz Wsparcia Energetyki)",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8862512",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=6&pageSize=15"
+    },
+    {
+      "numer": "63/2024",
+      "data": "2024-12-17",
+      "godzina": "08:36",
+      "tytul": "Przyjęcie Strategii Grupy TAURON na lata 2025-2035",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8862491",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=6&pageSize=15"
+    },
+    {
+      "numer": "62/2024",
+      "data": "2024-12-09",
+      "godzina": "15:59",
+      "tytul": "Otrzymanie zawiadomienia od Helikon Investments Limited o zmianie udziału w ogólnej liczbie głosów w TAURON Polska Energia S.A. w trybie art. 69 ust. 2 Ustawy o ofercie publicznej",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8858661",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=6&pageSize=15"
+    },
+    {
+      "numer": "61/2024",
+      "data": "2024-12-05",
+      "godzina": "17:39",
+      "tytul": "Rozstrzygnięcie co do powództwa Gorzyca Wind Invest sp. z o.o. w związku z wypowiedzeniem długoterminowych umów na zakup energii i praw majątkowych",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8856997",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=6&pageSize=15"
+    },
+    {
+      "numer": "60/2024",
+      "data": "2024-11-15",
+      "godzina": "17:47",
+      "tytul": "Zmiana terminu publikacji skonsolidowanego raportu kwartalnego za III kwartał 2024 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8846113",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=6&pageSize=15"
+    },
+    {
+      "numer": "59/2024",
+      "data": "2024-11-07",
+      "godzina": "17:26",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON za 9 miesięcy i III kwartał 2024 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8841569",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=6&pageSize=15"
+    },
+    {
+      "numer": "58/2024",
+      "data": "2024-10-30",
+      "godzina": "18:04",
+      "tytul": "Otrzymanie odpowiedzi na wezwanie na arbitraż od AM Global Holding S.à r.l., ArcelorMittal Long Products Europe Holding S.à r.l. oraz ArcelorMittal Poland S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8837429",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=6&pageSize=15"
+    },
+    {
+      "numer": "57/2024",
+      "data": "2024-10-29",
+      "godzina": "17:03",
+      "tytul": "Podpisanie umowy kredytu konsorcjalnego",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8836689",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=6&pageSize=15"
+    },
+    {
+      "numer": "56/2024",
+      "data": "2024-10-29",
+      "godzina": "17:01",
+      "tytul": "Podpisanie umowy kredytu z Bankiem Gospodarstwa Krajowego",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8836688",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=6&pageSize=15"
+    },
+    {
+      "numer": "55/2024",
+      "data": "2024-10-01",
+      "godzina": "17:52",
+      "tytul": "Potwierdzenie ratingów przez agencję ratingową Fitch",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8822107",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=6&pageSize=15"
+    },
+    {
+      "numer": "54/2024",
+      "data": "2024-10-01",
+      "godzina": "14:00",
+      "tytul": "Podjęcie decyzji o wezwaniu i wezwanie na arbitraż AM Global Holding S.à r.l., ArcelorMittal Long Products Europe Holding S.à r.l. oraz ArcelorMittal Poland S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8821879",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=6&pageSize=15"
+    },
+    {
+      "numer": "53/2024",
+      "data": "2024-09-19",
+      "godzina": "14:36",
+      "tytul": "Ustanowienie programu emisji obligacji",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8815117",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=7&pageSize=15"
+    },
+    {
+      "numer": "52/2024",
+      "data": "2024-09-19",
+      "godzina": "14:33",
+      "tytul": "Nabycie spółki celowej z prawem do projektu budowy farmy wiatrowej",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8815109",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=7&pageSize=15"
+    },
+    {
+      "numer": "51/2024",
+      "data": "2024-09-19",
+      "godzina": "14:32",
+      "tytul": "Ujawnienie informacji poufnej, której publikacja została opóźniona, dotyczącej podjęcia decyzji o nabyciu spółki celowej z prawem do projektu budowy farmy wiatrowej",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8815108",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=7&pageSize=15"
+    },
+    {
+      "numer": "50/2024",
+      "data": "2024-09-13",
+      "godzina": "14:15",
+      "tytul": "Otrzymanie zawiadomienia od Helikon Investments Limited o przekroczeniu progu 10 proc. ogólnej liczby głosów w TAURON Polska Energia S.A. w trybie art. 69 ust.1 Ustawy o ofercie publicznej",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8811635",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=7&pageSize=15"
+    },
+    {
+      "numer": "49/2024",
+      "data": "2024-09-05",
+      "godzina": "11:16",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Nadzwyczajnym Walnym Zgromadzeniu TAURON Polska Energia S.A. w dniu 3 września 2024 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8807114",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=7&pageSize=15"
+    },
+    {
+      "numer": "48/2024",
+      "data": "2024-09-03",
+      "godzina": "16:29",
+      "tytul": "Zmiany w składzie Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8806055",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=7&pageSize=15"
+    },
+    {
+      "numer": "47/2024",
+      "data": "2024-09-03",
+      "godzina": "16:24",
+      "tytul": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8806047",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=7&pageSize=15"
+    },
+    {
+      "numer": "46/2024",
+      "data": "2024-08-30",
+      "godzina": "17:19",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON za I półrocze 2024 r. i II kwartał 2024 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8804610",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=7&pageSize=15"
+    },
+    {
+      "numer": "45/2024",
+      "data": "2024-08-28",
+      "godzina": "11:34",
+      "tytul": "Otrzymanie od KGHM Polska Miedź S.A. zgłoszenia kandydata na Członka Rady Nadzorczej TAURON Polska Energia S.A. oraz projektów uchwał Nadzwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A. zwołanego na dzień 3 września 2024 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8803216",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=7&pageSize=15"
+    },
+    {
+      "numer": "44/2024",
+      "data": "2024-08-12",
+      "godzina": "18:54",
+      "tytul": "Postanowienie Sądu Okręgowego w Ostrawie o przekształceniu reorganizacji TAMEH Czech s.r.o. w upadłość likwidacyjną",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8796168",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=7&pageSize=15"
+    },
+    {
+      "numer": "43/2024",
+      "data": "2024-08-09",
+      "godzina": "18:36",
+      "tytul": "Wyniki testów na utratę wartości aktywów",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8795313",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=7&pageSize=15"
+    },
+    {
+      "numer": "42/2024",
+      "data": "2024-08-09",
+      "godzina": "15:16",
+      "tytul": "Złożenie wniosku o przekształcenie reorganizacji TAMEH Czech s.r.o. w upadłość likwidacyjną",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8795176",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=7&pageSize=15"
+    },
+    {
+      "numer": "41/2024",
+      "data": "2024-08-06",
+      "godzina": "17:20",
+      "tytul": "Projekty uchwał Nadzwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A. zwołanego na 3 września 2024 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8793559",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=7&pageSize=15"
+    },
+    {
+      "numer": "40/2024",
+      "data": "2024-08-06",
+      "godzina": "17:18",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8793553",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=7&pageSize=15"
+    },
+    {
+      "numer": "39/2024",
+      "data": "2024-07-16",
+      "godzina": "17:43",
+      "tytul": "Identyfikacja przesłanek do przeprowadzenia testów na utratę wartości aktywów",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8783491",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=7&pageSize=15"
+    },
+    {
+      "numer": "38/2024",
+      "data": "2024-07-04",
+      "godzina": "14:16",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Zwyczajnym Walnym Zgromadzeniu TAURON Polska Energia S.A. zwołanym na dzień 3 czerwca 2024 r., kontynuowanym po przerwie w dniu 2 lipca 2024 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8777464",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=8&pageSize=15"
+    },
+    {
+      "numer": "37/2024",
+      "data": "2024-07-02",
+      "godzina": "15:39",
+      "tytul": "Treść uchwał poddanych pod głosowanie podczas Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A. po wznowieniu obrad w dniu 2 lipca 2024 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8775908",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=8&pageSize=15"
+    },
+    {
+      "numer": "36/2024",
+      "data": "2024-06-28",
+      "godzina": "17:48",
+      "tytul": "Informacja dotycząca skutków zatwierdzonych przez Prezesa Urzędu Regulacji Energetyki taryf dla energii elektrycznej dla klientów grup taryfowych G",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8774185",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=8&pageSize=15"
+    },
+    {
+      "numer": "35/2024",
+      "data": "2024-06-05",
+      "godzina": "16:23",
+      "tytul": "Rezygnacja Członkini Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8759757",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=8&pageSize=15"
+    },
+    {
+      "numer": "34/2024",
+      "data": "2024-06-04",
+      "godzina": "14:34",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Zwyczajnym Walnym Zgromadzeniu TAURON Polska Energia S.A. w dniu 3 czerwca 2024 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8758920",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=8&pageSize=15"
+    },
+    {
+      "numer": "33/2024",
+      "data": "2024-06-03",
+      "godzina": "16:34",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8758316",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=8&pageSize=15"
+    },
+    {
+      "numer": "32/2024",
+      "data": "2024-06-03",
+      "godzina": "16:24",
+      "tytul": "Zarządzenie przerwy w obradach Zwyczajnego Walnego Zgromadzenia",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8758300",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=8&pageSize=15"
+    },
+    {
+      "numer": "31/2024",
+      "data": "2024-05-11",
+      "godzina": "13:48",
+      "tytul": "Otrzymanie zawiadomienia od Helikon Investments Limited w związku z wymogiem art. 69b ust. 1 pkt 2 Ustawy o ofercie publicznej",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8744227",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=8&pageSize=15"
+    },
+    {
+      "numer": "30/2024",
+      "data": "2024-05-09",
+      "godzina": "17:29",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON Polska Energia za I kwartał 2024 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8743162",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=8&pageSize=15"
+    },
+    {
+      "numer": "29/2024",
+      "data": "2024-05-07",
+      "godzina": "16:15",
+      "tytul": "Projekty uchwał Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8741528",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=8&pageSize=15"
+    },
+    {
+      "numer": "28/2024",
+      "data": "2024-05-07",
+      "godzina": "16:05",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8741517",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=8&pageSize=15"
+    },
+    {
+      "numer": "27/2024",
+      "data": "2024-04-30",
+      "godzina": "10:38",
+      "tytul": "Rezygnacja Członkini Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8738355",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=8&pageSize=15"
+    },
+    {
+      "numer": "26/2024",
+      "data": "2024-04-18",
+      "godzina": "20:49",
+      "tytul": "Otrzymanie postanowienia Sądu o zatwierdzeniu reorganizacji TAMEH Czech s.r.o.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8731498",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=8&pageSize=15"
+    },
+    {
+      "numer": "25/2024",
+      "data": "2024-04-16",
+      "godzina": "13:36",
+      "tytul": "Rekomendacja Zarządu TAURON Polska Energia S.A. w sprawie pokrycia straty netto za 2023 rok z kapitału zapasowego",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8729649",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=8&pageSize=15"
+    },
+    {
+      "numer": "24/2024",
+      "data": "2024-04-04",
+      "godzina": "15:35",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Nadzwyczajnym Walnym Zgromadzeniu TAURON Polska Energia S.A. w dniu 3 kwietnia 2024 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8722621",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=8&pageSize=15"
+    },
+    {
+      "numer": "23/2024",
+      "data": "2024-04-03",
+      "godzina": "19:02",
+      "tytul": "Zmiany w składzie Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8722004",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=9&pageSize=15"
+    },
+    {
+      "numer": "22/2024",
+      "data": "2024-04-03",
+      "godzina": "18:57",
+      "tytul": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8722000",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=9&pageSize=15"
+    },
+    {
+      "numer": "21/2024",
+      "data": "2024-03-28",
+      "godzina": "17:26",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON za 2023 r. i IV kwartał 2023 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8719368",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=9&pageSize=15"
+    },
+    {
+      "numer": "20/2024",
+      "data": "2024-03-28",
+      "godzina": "16:44",
+      "tytul": "Otrzymanie od KGHM Polska Miedź S.A. kandydatur na Członków Rady Nadzorczej TAURON Polska Energia S.A. oraz projektów uchwał Nadzwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A. zwołanego na dzień 3 kwietnia 2024 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8719326",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=9&pageSize=15"
+    },
+    {
+      "numer": "19/2024",
+      "data": "2024-03-27",
+      "godzina": "14:49",
+      "tytul": "Zgłoszenie kandydatur na Członków Rady Nadzorczej TAURON Polska Energia S.A. przez Nationale-Nederlanden Otwarty Fundusz Emerytalny",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8718396",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=9&pageSize=15"
+    },
+    {
+      "numer": "18/2024",
+      "data": "2024-03-25",
+      "godzina": "14:10",
+      "tytul": "Rezygnacja Członka Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8716770",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=9&pageSize=15"
+    },
+    {
+      "numer": "17/2024",
+      "data": "2024-03-20",
+      "godzina": "18:00",
+      "tytul": "Zmiana terminu publikacji jednostkowego i skonsolidowanego raportu rocznego za 2023 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8714385",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=9&pageSize=15"
+    },
+    {
+      "numer": "16/2024",
+      "data": "2024-03-20",
+      "godzina": "17:54",
+      "tytul": "Wyniki testów na utratę wartości aktywów oraz zdarzenia jednorazowe mające wpływ na wyniki finansowe za 2023 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8714374",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=9&pageSize=15"
+    },
+    {
+      "numer": "15/2024",
+      "data": "2024-03-15",
+      "godzina": "17:14",
+      "tytul": "Wpływ niewypłacalności spółki TAMEH Czech s.r.o. na wyniki finansowe TAURON Polska Energia S.A. oraz Grupy Kapitałowej TAURON",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8711913",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=9&pageSize=15"
+    },
+    {
+      "numer": "14/2024",
+      "data": "2024-03-06",
+      "godzina": "17:42",
+      "tytul": "Projekty uchwał Nadzwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A. zwołanego na 3 kwietnia 2024 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8706658",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=9&pageSize=15"
+    },
+    {
+      "numer": "13/2024",
+      "data": "2024-03-06",
+      "godzina": "17:39",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8706654",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=9&pageSize=15"
+    },
+    {
+      "numer": "12/2024",
+      "data": "2024-02-29",
+      "godzina": "18:40",
+      "tytul": "Zmiany w składzie Zarządu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8703711",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=9&pageSize=15"
+    },
+    {
+      "numer": "11/2024",
+      "data": "2024-02-13",
+      "godzina": "14:02",
+      "tytul": "Odwołanie Członków Zarządu TAURON Polska Energia S.A. oraz delegowanie Członka Rady Nadzorczej do czasowego wykonywania czynności Prezesa Zarządu",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8694500",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=9&pageSize=15"
+    },
+    {
+      "numer": "49/2023/K",
+      "data": "2024-02-08",
+      "godzina": "19:10",
+      "tytul": "Korekta raportu bieżącego nr 49/2023 z dnia 22 grudnia 2023 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8692749",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=9&pageSize=15"
+    },
+    {
+      "numer": "48/2023/K",
+      "data": "2024-02-08",
+      "godzina": "19:07",
+      "tytul": "Korekta raportu bieżącego nr 48/2023 z dnia 14 grudnia 2023 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8692748",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=9&pageSize=15"
+    },
+    {
+      "numer": "10/2024",
+      "data": "2024-02-05",
+      "godzina": "16:20",
+      "tytul": "Zmiany w składzie Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8690509",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=10&pageSize=15"
+    },
+    {
+      "numer": "9/2024",
+      "data": "2024-01-31",
+      "godzina": "12:51",
+      "tytul": "Terminy publikacji raportów okresowych TAURON Polska Energia S.A. w 2024 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8687861",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=10&pageSize=15"
+    },
+    {
+      "numer": "8/2024",
+      "data": "2024-01-26",
+      "godzina": "16:40",
+      "tytul": "Informacje na temat osób powołanych w skład Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8685625",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=10&pageSize=15"
+    },
+    {
+      "numer": "7/2024",
+      "data": "2024-01-25",
+      "godzina": "18:16",
+      "tytul": "Zmiany w składzie Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8685011",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=10&pageSize=15"
+    },
+    {
+      "numer": "6/2024",
+      "data": "2024-01-12",
+      "godzina": "18:48",
+      "tytul": "Rozpoczęcie negocjacji z AM Global Holding S.à r.l.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8678222",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=10&pageSize=15"
+    },
+    {
+      "numer": "5/2024",
+      "data": "2024-01-10",
+      "godzina": "16:43",
+      "tytul": "Podpisanie umowy kredytu z Bankiem Gospodarstwa Krajowego",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8676720",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=10&pageSize=15"
+    },
+    {
+      "numer": "4/2024",
+      "data": "2024-01-09",
+      "godzina": "17:19",
+      "tytul": "Otrzymanie od ArcelorMittal pisma w sprawie przyjęcia oferty kupna przez TAURON udziałów w spółce TAMEH Holding sp. z o.o.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8675992",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=10&pageSize=15"
+    },
+    {
+      "numer": "3/2024",
+      "data": "2024-01-04",
+      "godzina": "22:35",
+      "tytul": "Zakwestionowanie przez AM Global Holding S.à r.l. skuteczności doręczenia oświadczenia TAURON o przyjęciu oferty kupna przez AM Global Holding S.à r.l. udziałów w spółce TAMEH Holding sp. z o.o.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8673849",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=10&pageSize=15"
+    },
+    {
+      "numer": "2/2024",
+      "data": "2024-01-02",
+      "godzina": "21:28",
+      "tytul": "Pozostawienie oświadczenia o przyjęciu oferty kupna przez wspólnika wiodącego Grupy ArcelorMittal, tj. AM Global Holding S.à r.l., udziałów w spółce TAMEH Holding sp. z o.o. w siedzibie AM Global Holding S.à r.l.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8672526",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=10&pageSize=15"
+    },
+    {
+      "numer": "1/2024",
+      "data": "2024-01-02",
+      "godzina": "21:26",
+      "tytul": "Ujawnienie informacji poufnej, której publikacja została opóźniona, dotyczącej podjęcia działań mających na celu złożenie oświadczenia o przyjęciu oferty kupna przez wspólnika wiodącego Grupy ArcelorMittal, tj. AM Global Holding S.à r.l., udziałów w spółce TAMEH Holding sp. z o.o.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8672524",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=10&pageSize=15"
+    },
+    {
+      "numer": "50/2023",
+      "data": "2023-12-28",
+      "godzina": "14:47",
+      "tytul": "Wniesienie pozwu o zapłatę przez spółkę zależną Polska Energia - Pierwsza Kompania Handlowa sp. z o.o. przeciwko Talia sp. z o.o.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8670600",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=10&pageSize=15"
+    },
+    {
+      "numer": "49/2023",
+      "data": "2023-12-22",
+      "godzina": "13:35",
+      "tytul": "Otrzymanie postanowienia o ogłoszeniu upadłości TAMEH Czech s.r.o.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8668747",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=10&pageSize=15"
+    },
+    {
+      "numer": "48/2023",
+      "data": "2023-12-14",
+      "godzina": "20:23",
+      "tytul": "Otrzymanie informacji o złożeniu wniosku o ogłoszenie upadłości przez spółkę TAMEH Czech s.r.o.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8664089",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=10&pageSize=15"
+    },
+    {
+      "numer": "47/2023",
+      "data": "2023-12-07",
+      "godzina": "14:12",
+      "tytul": "Zawarcie przez spółkę zależną porozumienia w sprawie ustalenia warunków zakupu węgla z TAURON Wydobycie S.A. na 2024 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8659595",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=10&pageSize=15"
+    },
+    {
+      "numer": "46/2023",
+      "data": "2023-12-05",
+      "godzina": "15:04",
+      "tytul": "Otrzymanie zawiadomienia od Helikon Investments Limited o przekroczeniu progu 5 proc. ogólnej liczby głosów w TAURON Polska Energia S.A. w trybie art. 69 ust.1 Ustawy o ofercie publicznej",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8658248",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=10&pageSize=15"
+    },
+    {
+      "numer": "45/2023",
+      "data": "2023-11-14",
+      "godzina": "17:56",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON za 9 miesięcy 2023 r. i III kwartał 2023 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8646230",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=11&pageSize=15"
+    },
+    {
+      "numer": "44/2023",
+      "data": "2023-11-14",
+      "godzina": "17:42",
+      "tytul": "Wyniki testów na utratę wartości aktywów",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8646215",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=11&pageSize=15"
+    },
+    {
+      "numer": "43/2023",
+      "data": "2023-10-05",
+      "godzina": "17:32",
+      "tytul": "Potwierdzenie ratingów przez agencję ratingową Fitch",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8623974",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=11&pageSize=15"
+    },
+    {
+      "numer": "42/2023",
+      "data": "2023-10-03",
+      "godzina": "14:31",
+      "tytul": "Podpisanie umowy kredytu z Bankiem Gospodarstwa Krajowego",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8622276",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=11&pageSize=15"
+    },
+    {
+      "numer": "41/2023",
+      "data": "2023-10-03",
+      "godzina": "12:46",
+      "tytul": "Informacja o wygaśnięciu mandatu Członka Rady Nadzorczej TAURON Polska Energia S.A. na skutek jego śmierci",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8622167",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=11&pageSize=15"
+    },
+    {
+      "numer": "40/2023",
+      "data": "2023-09-29",
+      "godzina": "16:09",
+      "tytul": "Szacunek wpływu rozporządzenia Ministra Klimatu i Środowiska z dnia 9 września 2023 r. na wyniki finansowe Grupy TAURON",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8620267",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=11&pageSize=15"
+    },
+    {
+      "numer": "39/2023",
+      "data": "2023-09-15",
+      "godzina": "17:37",
+      "tytul": "Powiadomienie o transakcji na akcjach dokonanej przez osobę pełniącą obowiązki zarządcze",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8612156",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=11&pageSize=15"
+    },
+    {
+      "numer": "38/2023",
+      "data": "2023-08-24",
+      "godzina": "17:11",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON za I półrocze 2023 r. i II kwartał 2023 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8599944",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=11&pageSize=15"
+    },
+    {
+      "numer": "37/2023",
+      "data": "2023-08-10",
+      "godzina": "11:00",
+      "tytul": "Podpisanie dokumentu zawierającego podsumowanie warunków transakcji nabycia przez Skarb Państwa 100% akcji TAURON Wytwarzanie S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8592573",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=11&pageSize=15"
+    },
+    {
+      "numer": "36/2023",
+      "data": "2023-08-10",
+      "godzina": "09:07",
+      "tytul": "Uzyskanie zgód korporacyjnych dotyczących transakcji nabycia przez Skarb Państwa 100 proc. akcji TAURON Wytwarzanie S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8592489",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=11&pageSize=15"
+    },
+    {
+      "numer": "35/2023",
+      "data": "2023-08-09",
+      "godzina": "15:34",
+      "tytul": "Uzyskanie decyzji o pozwoleniu na wznoszenie i wykorzystywanie sztucznych wysp, konstrukcji i urządzeń w polskich obszarach morskich dla przedsięwzięcia polegającego na budowie morskiej farmy wiatrowej.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8592184",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=11&pageSize=15"
+    },
+    {
+      "numer": "34/2023",
+      "data": "2023-07-25",
+      "godzina": "17:11",
+      "tytul": "Podpisanie porozumienia do listu intencyjnego w sprawie Elektrociepłowni Stalowa Wola S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8584607",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=11&pageSize=15"
+    },
+    {
+      "numer": "33/2023",
+      "data": "2023-07-15",
+      "godzina": "15:42",
+      "tytul": "Otrzymanie propozycji warunków transakcji nabycia przez Skarb Państwa 100 proc. akcji TAURON Wytwarzanie S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8579773",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=11&pageSize=15"
+    },
+    {
+      "numer": "32/2023",
+      "data": "2023-05-23",
+      "godzina": "12:19",
+      "tytul": "Przyjęcie jednolitego tekstu Statutu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8545519",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=11&pageSize=15"
+    },
+    {
+      "numer": "31/2023",
+      "data": "2023-05-17",
+      "godzina": "14:25",
+      "tytul": "Rejestracja zmian Statutu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8542183",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=11&pageSize=15"
+    },
+    {
+      "numer": "30/2023",
+      "data": "2023-05-10",
+      "godzina": "18:25",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Zwyczajnym Walnym Zgromadzeniu TAURON Polska Energia S.A. w dniu 10 maja 2023 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8537782",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=12&pageSize=15"
+    },
+    {
+      "numer": "29/2023",
+      "data": "2023-05-10",
+      "godzina": "18:17",
+      "tytul": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8537772",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=12&pageSize=15"
+    },
+    {
+      "numer": "28/2023",
+      "data": "2023-05-09",
+      "godzina": "17:12",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON Polska Energia za I kwartał 2023 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8536908",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=12&pageSize=15"
+    },
+    {
+      "numer": "27/2023",
+      "data": "2023-05-05",
+      "godzina": "14:35",
+      "tytul": "Projekt uchwały Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A. zwołanego na 10 maja 2023 r. zgłoszony przez akcjonariusza",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8535008",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=12&pageSize=15"
+    },
+    {
+      "numer": "26/2023",
+      "data": "2023-04-25",
+      "godzina": "16:28",
+      "tytul": "Aktualizacja informacji dotyczącej bloku o mocy 910 MW w Jaworznie - wejście w życie ugody",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8529368",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=12&pageSize=15"
+    },
+    {
+      "numer": "25/2023",
+      "data": "2023-04-24",
+      "godzina": "17:35",
+      "tytul": "Aktualizacja informacji dotyczącej bloku o mocy 910 MW w Jaworznie - podpisanie aneksu do ugody z dnia 31 marca 2023 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8528643",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=12&pageSize=15"
+    },
+    {
+      "numer": "24/2023",
+      "data": "2023-04-19",
+      "godzina": "15:10",
+      "tytul": "Zmiany w porządku obrad Zwyczajnego Walnego Zgromadzenia w związku z żądaniami akcjonariuszy",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8525786",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=12&pageSize=15"
+    },
+    {
+      "numer": "23/2023",
+      "data": "2023-04-13",
+      "godzina": "11:20",
+      "tytul": "Projekty uchwał Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8522145",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=12&pageSize=15"
+    },
+    {
+      "numer": "22/2023",
+      "data": "2023-04-13",
+      "godzina": "11:14",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8522134",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=12&pageSize=15"
+    },
+    {
+      "numer": "21/2023",
+      "data": "2023-03-31",
+      "godzina": "20:17",
+      "tytul": "Aktualizacja informacji dotyczącej bloku o mocy 910 MW w Jaworznie - zawarcie ugody",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8515996",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=12&pageSize=15"
+    },
+    {
+      "numer": "20/2023",
+      "data": "2023-03-31",
+      "godzina": "15:15",
+      "tytul": "Wniesienie pozwu o zapłatę przez spółkę zależną Polska Energia - Pierwsza Kompania Handlowa sp. z o.o. przeciwko Amon sp. z o. o.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8515707",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=12&pageSize=15"
+    },
+    {
+      "numer": "19/2023",
+      "data": "2023-03-28",
+      "godzina": "16:48",
+      "tytul": "Rekomendacja Zarządu TAURON Polska Energia S.A. w sprawie przeznaczenia zysku netto za rok 2022 na kapitał zapasowy",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8513191",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=12&pageSize=15"
+    },
+    {
+      "numer": "18/2023",
+      "data": "2023-03-23",
+      "godzina": "20:00",
+      "tytul": "Aktualizacja informacji dotyczącej bloku o mocy 910 MW w Jaworznie - przedłużenie okresu obowiązywania gwarancji należytego wykonania kontraktu",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8510832",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=12&pageSize=15"
+    },
+    {
+      "numer": "17/2023",
+      "data": "2023-03-21",
+      "godzina": "19:18",
+      "tytul": "Aktualizacja informacji dotyczącej bloku o mocy 910 MW w Jaworznie - podpisanie aneksu do porozumienia z dnia 7 lutego 2023 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8509238",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=12&pageSize=15"
+    },
+    {
+      "numer": "16/2023",
+      "data": "2023-03-20",
+      "godzina": "23:36",
+      "tytul": "Aktualizacja informacji dotyczącej bloku o mocy 910 MW w Jaworznie - uzgodnienie założeń do ugody",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8508590",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=12&pageSize=15"
+    },
+    {
+      "numer": "15/2023",
+      "data": "2023-03-10",
+      "godzina": "18:30",
+      "tytul": "Wyniki szacunkowe Grupy TAURON za 2022 r. i IV kwartał 2022 r. oraz zdarzenie jednorazowe istotnie wpływające na wyniki finansowe 2022 r. i IV kwartału 2022 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8503382",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=13&pageSize=15"
+    },
+    {
+      "numer": "14/2023",
+      "data": "2023-03-07",
+      "godzina": "21:50",
+      "tytul": "Aktualizacja informacji dotyczącej bloku o mocy 910 MW w Jaworznie - podpisanie aneksu do porozumienia z dnia 7 lutego 2023 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8501320",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=13&pageSize=15"
+    },
+    {
+      "numer": "13/2023",
+      "data": "2023-03-02",
+      "godzina": "12:49",
+      "tytul": "Wyniki testów na utratę wartości aktywów",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8498656",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=13&pageSize=15"
+    },
+    {
+      "numer": "12/2023",
+      "data": "2023-02-28",
+      "godzina": "23:35",
+      "tytul": "Aktualizacja informacji dotyczącej bloku o mocy 910 MW w Jaworznie",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8497613",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=13&pageSize=15"
+    },
+    {
+      "numer": "11/2023",
+      "data": "2023-02-16",
+      "godzina": "14:36",
+      "tytul": "Podpisanie umowy kredytu z Bankiem Gospodarstwa Krajowego",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8491055",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=13&pageSize=15"
+    },
+    {
+      "numer": "10/2023",
+      "data": "2023-02-14",
+      "godzina": "17:34",
+      "tytul": "Podpisanie przez spółkę zależną aneksu ustalającego warunki cenowe dostaw węgla z TAURON Wydobycie S.A. na 2023 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8489811",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=13&pageSize=15"
+    },
+    {
+      "numer": "9/2023",
+      "data": "2023-02-14",
+      "godzina": "12:07",
+      "tytul": "Oszacowanie wielkości odpisów na Fundusz Wypłaty Różnicy Cen",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8489448",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=13&pageSize=15"
+    },
+    {
+      "numer": "8/2023",
+      "data": "2023-02-09",
+      "godzina": "14:24",
+      "tytul": "Zawarcie umów zakupu węgla z Polską Grupą Górniczą S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8487025",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=13&pageSize=15"
+    },
+    {
+      "numer": "7/2023",
+      "data": "2023-02-07",
+      "godzina": "16:38",
+      "tytul": "Aktualizacja informacji dotyczącej bloku o mocy 910 MW w Jaworznie - zawarcie porozumienia",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8485552",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=13&pageSize=15"
+    },
+    {
+      "numer": "6/2023",
+      "data": "2023-02-01",
+      "godzina": "15:46",
+      "tytul": "Podpisanie aneksu ustalającego warunki cenowe dostaw węgla z TAURON Wydobycie S.A. na 2023 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8482389",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=13&pageSize=15"
+    },
+    {
+      "numer": "5/2023/K",
+      "data": "2023-01-31",
+      "godzina": "16:05",
+      "tytul": "Korekta raportu bieżącego nr 5/2023: Terminy przekazywania raportów okresowych w 2023 roku",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8481604",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=13&pageSize=15"
+    },
+    {
+      "numer": "5/2023",
+      "data": "2023-01-27",
+      "godzina": "12:35",
+      "tytul": "Terminy publikacji raportów okresowych TAURON Polska Energia S.A. w 2023 roku",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8479453",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=13&pageSize=15"
+    },
+    {
+      "numer": "4/2023",
+      "data": "2023-01-25",
+      "godzina": "19:37",
+      "tytul": "Aktualizacja informacji dotyczącej bloku o mocy 910 MW w Jaworznie - akceptacja aneksów wydłużających okres obowiązywania gwarancji należytego wykonania",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8478394",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=13&pageSize=15"
+    },
+    {
+      "numer": "3/2023",
+      "data": "2023-01-13",
+      "godzina": "22:28",
+      "tytul": "Aktualizacja informacji dotyczącej bloku o mocy 910 MW w Jaworznie – otrzymanie wezwań do zapłaty i złożenia oświadczeń od RAFAKO S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8472152",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=13&pageSize=15"
+    },
+    {
+      "numer": "2/2023",
+      "data": "2023-01-11",
+      "godzina": "11:32",
+      "tytul": "Aktualizacja informacji dotyczącej bloku o mocy 910 MW w Jaworznie - wezwanie do zapłaty kar umownych i odszkodowań",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8470309",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=13&pageSize=15"
+    },
+    {
+      "numer": "1/2023",
+      "data": "2023-01-05",
+      "godzina": "13:49",
+      "tytul": "Zawarcie umów zakupu węgla z Polską Grupą Górniczą S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8467807",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=14&pageSize=15"
+    },
+    {
+      "numer": "48/2022",
+      "data": "2022-12-31",
+      "godzina": "12:41",
+      "tytul": "Przeniesienie prawa własności 100 proc. akcji spółki zależnej TAURON Wydobycie S.A. na rzecz Skarbu Państwa",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8465127",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=14&pageSize=15"
+    },
+    {
+      "numer": "47/2022",
+      "data": "2022-12-20",
+      "godzina": "16:12",
+      "tytul": "Zawarcie umów w związku z objęciem TAURON Wydobycie S.A. systemem wsparcia w zakresie dopłat do redukcji zdolności produkcyjnych",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8460056",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=14&pageSize=15"
+    },
+    {
+      "numer": "46/2022",
+      "data": "2022-12-14",
+      "godzina": "14:43",
+      "tytul": "Spełnienie się warunków zawieszających warunkowej umowy sprzedaży 100 proc. akcji spółki zależnej TAURON Wydobycie S.A. na rzecz Skarbu Państwa",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8456668",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=14&pageSize=15"
+    },
+    {
+      "numer": "45/2022",
+      "data": "2022-11-30",
+      "godzina": "17:33",
+      "tytul": "Rezygnacja Członka Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8449030",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=14&pageSize=15"
+    },
+    {
+      "numer": "44/2022",
+      "data": "2022-11-17",
+      "godzina": "11:53",
+      "tytul": "Wyrok Sądu Apelacyjnego dotyczący spółki Polska Energia - Pierwsza Kompania Handlowa sp. z o.o.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8441384",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=14&pageSize=15"
+    },
+    {
+      "numer": "43/2022",
+      "data": "2022-11-08",
+      "godzina": "17:14",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON Polska Energia za 9 miesięcy 2022 r. i III kwartał 2022 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8435910",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=14&pageSize=15"
+    },
+    {
+      "numer": "42/2022",
+      "data": "2022-10-21",
+      "godzina": "13:10",
+      "tytul": "Zawarcie warunkowej umowy sprzedaży 100 proc. akcji spółki zależnej TAURON Wydobycie S.A. na rzecz Skarbu Państwa",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8426788",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=14&pageSize=15"
+    },
+    {
+      "numer": "41/2022",
+      "data": "2022-10-12",
+      "godzina": "19:47",
+      "tytul": "Potwierdzenie ratingów przez agencję ratingową Fitch",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8421954",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=14&pageSize=15"
+    },
+    {
+      "numer": "40/2022",
+      "data": "2022-10-12",
+      "godzina": "18:01",
+      "tytul": "Uchwała Zarządu Emitenta w sprawie zbycia na rzecz Skarbu Państwa 100 proc. akcji spółki zależnej TAURON Wydobycie S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8421877",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=14&pageSize=15"
+    },
+    {
+      "numer": "39/2022",
+      "data": "2022-09-13",
+      "godzina": "17:49",
+      "tytul": "Otrzymanie oferty nabycia akcji TAURON Wydobycie S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8405300",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=14&pageSize=15"
+    },
+    {
+      "numer": "38/2022",
+      "data": "2022-09-05",
+      "godzina": "14:41",
+      "tytul": "Powołanie Członków Zarządu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8400790",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=14&pageSize=15"
+    },
+    {
+      "numer": "37/2022",
+      "data": "2022-08-27",
+      "godzina": "11:59",
+      "tytul": "Informacja dotycząca bloku o mocy 910 MW w Jaworznie",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8396331",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=14&pageSize=15"
+    },
+    {
+      "numer": "34/2022",
+      "data": "2022-08-24",
+      "godzina": "15:31",
+      "tytul": "Uzupełnienie treści raportu bieżącego nr 34/2022 z 12 sierpnia 2022 r. w sprawie zmian w składzie Zarządu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8394808",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=14&pageSize=15"
+    },
+    {
+      "numer": "36/2022",
+      "data": "2022-08-17",
+      "godzina": "17:14",
+      "tytul": "Wyniki szacunkowe Grupy TAURON za II kwartał i I półrocze 2022 r. oraz zdarzenie jednorazowe istotnie wpływające na wynik II kwartału i I półrocza 2022 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8391523",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=14&pageSize=15"
+    },
+    {
+      "numer": "35/2022",
+      "data": "2022-08-13",
+      "godzina": "11:16",
+      "tytul": "Informacja dotycząca bloku o mocy 910 MW w Jaworznie",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8389771",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=15&pageSize=15"
+    },
+    {
+      "numer": "34/2022",
+      "data": "2022-08-12",
+      "godzina": "13:11",
+      "tytul": "Zmiany w składzie Zarządu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8389272",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=15&pageSize=15"
+    },
+    {
+      "numer": "33/2022",
+      "data": "2022-08-05",
+      "godzina": "16:34",
+      "tytul": "Aktualizacja informacji dotyczacej bloku o mocy 910 MW w Jaworznie - podpisanie umowy o przeprowadzenie mediacji",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8386139",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=15&pageSize=15"
+    },
+    {
+      "numer": "32/2022",
+      "data": "2022-07-29",
+      "godzina": "12:15",
+      "tytul": "Przyjęcie tekstu jednolitego Statutu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8382544",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=15&pageSize=15"
+    },
+    {
+      "numer": "31/2022",
+      "data": "2022-07-19",
+      "godzina": "11:35",
+      "tytul": "Rejestracja zmian w Statucie TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8377201",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=15&pageSize=15"
+    },
+    {
+      "numer": "30/2022",
+      "data": "2022-07-15",
+      "godzina": "15:44",
+      "tytul": "Podpisanie umowy kredytu konsorcjalnego",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8375821",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=15&pageSize=15"
+    },
+    {
+      "numer": "29/2022",
+      "data": "2022-07-15",
+      "godzina": "14:08",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Nadzwyczajnym Walnym Zgromadzeniu TAURON Polska Energia S.A. w dniu 13 lipca 2022 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8375727",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=15&pageSize=15"
+    },
+    {
+      "numer": "28/2022",
+      "data": "2022-07-13",
+      "godzina": "14:45",
+      "tytul": "Treść uchwał poddanych pod głosowanie podczas Nadzwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8374557",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=15&pageSize=15"
+    },
+    {
+      "numer": "27/2022",
+      "data": "2022-06-22",
+      "godzina": "14:29",
+      "tytul": "Przyjęcie Strategii Grupy TAURON na lata 2022-2030 z perspektywą do 2050 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8361315",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=15&pageSize=15"
+    },
+    {
+      "numer": "26/2022",
+      "data": "2022-06-17",
+      "godzina": "13:01",
+      "tytul": "Projekty uchwał Nadzwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A. zwołanego na 13 lipca 2022 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8358657",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=15&pageSize=15"
+    },
+    {
+      "numer": "25/2022",
+      "data": "2022-06-17",
+      "godzina": "12:58",
+      "tytul": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8358651",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=15&pageSize=15"
+    },
+    {
+      "numer": "24/2022",
+      "data": "2022-06-07",
+      "godzina": "16:21",
+      "tytul": "Podjęcie decyzji o nabyciu spółki celowej z prawem do projektu budowy farmy wiatrowej",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8352931",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=15&pageSize=15"
+    },
+    {
+      "numer": "23/2022",
+      "data": "2022-06-01",
+      "godzina": "19:15",
+      "tytul": "Żądanie umieszczenia sprawy w porządku obrad Nadzwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8349376",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=15&pageSize=15"
+    },
+    {
+      "numer": "22/2022",
+      "data": "2022-05-31",
+      "godzina": "15:45",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Zwyczajnym Walnym Zgromadzeniu TAURON Polska Energia S.A. w dniu 24 maja 2022 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8348128",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=15&pageSize=15"
+    },
+    {
+      "numer": "21/2022",
+      "data": "2022-05-24",
+      "godzina": "18:08",
+      "tytul": "Treść uchwał poddanych pod głosowanie podczas Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8344206",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=15&pageSize=15"
+    },
+    {
+      "numer": "21/2022",
+      "data": "2022-05-24",
+      "godzina": "18:08",
+      "tytul": "Treść uchwał poddanych pod głosowanie podczas Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8343068",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=16&pageSize=15"
+    },
+    {
+      "numer": "20/2022",
+      "data": "2022-05-24",
+      "godzina": "17:56",
+      "tytul": "Powołanie Członka Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8344200",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=16&pageSize=15"
+    },
+    {
+      "numer": "20/2022",
+      "data": "2022-05-24",
+      "godzina": "17:56",
+      "tytul": "Powołanie Członka Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8343087",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=16&pageSize=15"
+    },
+    {
+      "numer": "19/2022",
+      "data": "2022-05-23",
+      "godzina": "10:48",
+      "tytul": "Rezygnacja Członka Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8341844",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=16&pageSize=15"
+    },
+    {
+      "numer": "18/2022",
+      "data": "2022-05-10",
+      "godzina": "17:30",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON Polska Energia za I kwartał 2022 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8334019",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=16&pageSize=15"
+    },
+    {
+      "numer": "17/2022",
+      "data": "2022-04-29",
+      "godzina": "15:48",
+      "tytul": "Zmiany w porządku obrad Zwyczajnego Walnego Zgromadzenia w związku z żądaniem akcjonariusza",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8328314",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=16&pageSize=15"
+    },
+    {
+      "numer": "16/2022",
+      "data": "2022-04-27",
+      "godzina": "12:05",
+      "tytul": "Projekty uchwał Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8326072",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=16&pageSize=15"
+    },
+    {
+      "numer": "15/2022",
+      "data": "2022-04-27",
+      "godzina": "12:03",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8326066",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=16&pageSize=15"
+    },
+    {
+      "numer": "14/2022",
+      "data": "2022-04-25",
+      "godzina": "15:37",
+      "tytul": "Żądanie umieszczenia spraw w porządku obrad Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8324516",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=16&pageSize=15"
+    },
+    {
+      "numer": "13/2022",
+      "data": "2022-04-20",
+      "godzina": "08:15",
+      "tytul": "Zawarcie listu intencyjnego w sprawie współpracy w obszarze źródeł wytwórczych w technologii energetycznych reaktorów jądrowych (SMR)",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8321284",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=16&pageSize=15"
+    },
+    {
+      "numer": "12/2022",
+      "data": "2022-04-14",
+      "godzina": "15:50",
+      "tytul": "Aktualizacja informacji dotyczącej bloku o mocy 910 MW w Jaworznie - ponowna synchronizacja bloku z siecią",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8319114",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=16&pageSize=15"
+    },
+    {
+      "numer": "11/2022",
+      "data": "2022-04-08",
+      "godzina": "15:36",
+      "tytul": "Informacja dotycząca planowanego wsparcia publicznego dla TAURON Wydobycie S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8315528",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=16&pageSize=15"
+    },
+    {
+      "numer": "10/2022",
+      "data": "2022-04-08",
+      "godzina": "10:37",
+      "tytul": "Powołanie Prezesa Zarządu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8315219",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=16&pageSize=15"
+    },
+    {
+      "numer": "9/2022",
+      "data": "2022-03-29",
+      "godzina": "13:35",
+      "tytul": "Rekomendacja Zarządu TAURON Polska Energia S.A. dotycząca niewypłacania dywidendy z zysku za 2021 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8308277",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=16&pageSize=15"
+    },
+    {
+      "numer": "8/2022",
+      "data": "2022-03-22",
+      "godzina": "17:14",
+      "tytul": "Aktualizacja informacji w sprawie projektu budowy bloku gazowo-parowego w Elektrowni Łagisza",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8303680",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=16&pageSize=15"
+    },
+    {
+      "numer": "8/2022",
+      "data": "2022-03-22",
+      "godzina": "00:00",
+      "tytul": "Aktualizacja informacji w sprawie projektu budowy bloku gazowo-parowego w Elektrowni Łagisza",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8306370",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=17&pageSize=15"
+    },
+    {
+      "numer": "7/2022",
+      "data": "2022-03-14",
+      "godzina": "18:58",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON Polska Energia za 2021 r. i IV kwartał 2021 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8298118",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=17&pageSize=15"
+    },
+    {
+      "numer": "6/2022",
+      "data": "2022-03-08",
+      "godzina": "14:08",
+      "tytul": "Spełnienie warunków ugody zawartej przez spółkę Elektrociepłownia Stalowa Wola S.A. ze spółką Abener Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8293935",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=17&pageSize=15"
+    },
+    {
+      "numer": "5/2022",
+      "data": "2022-03-03",
+      "godzina": "17:14",
+      "tytul": "Istotne zdarzenia wpływające na skonsolidowane i jednostkowe wyniki finansowe Emitenta na dzień 31 grudnia 2021 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8290939",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=17&pageSize=15"
+    },
+    {
+      "numer": "4/2022",
+      "data": "2022-02-28",
+      "godzina": "22:40",
+      "tytul": "Zawarcie aneksu do ugody przez spółkę Elektrociepłownia Stalowa Wola S.A. ze spółką Abener Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8288253",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=17&pageSize=15"
+    },
+    {
+      "numer": "3/2022",
+      "data": "2022-01-28",
+      "godzina": "15:55",
+      "tytul": "Terminy publikacji raportów okresowych TAURON Polska Energia S.A. w 2022 roku",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8268210",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=17&pageSize=15"
+    },
+    {
+      "numer": "2/2022",
+      "data": "2022-01-27",
+      "godzina": "11:12",
+      "tytul": "Powołanie Członka Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8267077",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=17&pageSize=15"
+    },
+    {
+      "numer": "1/2022",
+      "data": "2022-01-20",
+      "godzina": "17:36",
+      "tytul": "Powołanie Wiceprezesa Zarządu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8263285",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=17&pageSize=15"
+    },
+    {
+      "numer": "52/2021",
+      "data": "2021-12-31",
+      "godzina": "21:14",
+      "tytul": "Zawarcie ugody przez spółkę Elektrociepłownia Stalowa Wola S.A. ze spółką Abener Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8252761",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=17&pageSize=15"
+    },
+    {
+      "numer": "51/2021",
+      "data": "2021-12-22",
+      "godzina": "15:15",
+      "tytul": "Zawarcie umowy odkupu udziałów w spółce Nowe Jaworzno Grupa TAURON od Funduszu Inwestycji Infrastrukturalnych - Kapitałowy Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8248194",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=17&pageSize=15"
+    },
+    {
+      "numer": "50/2021",
+      "data": "2021-12-22",
+      "godzina": "12:05",
+      "tytul": "Decyzja dotycząca pozostawienia TAURON Ciepło Sp. z o.o. w strukturach Grupy Kapitałowej Emitenta",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8248007",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=17&pageSize=15"
+    },
+    {
+      "numer": "49/2021",
+      "data": "2021-12-20",
+      "godzina": "17:13",
+      "tytul": "Wyrok Sądu Apelacyjnego dotyczący spółki Polska Energia - Pierwsza Kompania Handlowa sp. z o.o.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8246827",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=17&pageSize=15"
+    },
+    {
+      "numer": "48/2021",
+      "data": "2021-12-15",
+      "godzina": "16:07",
+      "tytul": "Podpisanie umowy kredytu z Erste Group Bank AG",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8243781",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=17&pageSize=15"
+    },
+    {
+      "numer": "47/2021",
+      "data": "2021-12-02",
+      "godzina": "18:19",
+      "tytul": "Aktualizacja informacji dotyczącej bloku o mocy 910 MW w Jaworznie - zawarcie ugody i aneksów do umowy",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8236033",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=17&pageSize=15"
+    },
+    {
+      "numer": "46/2021",
+      "data": "2021-11-18",
+      "godzina": "15:57",
+      "tytul": "Rezygnacja Przewodniczącego Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8226862",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=17&pageSize=15"
+    },
+    {
+      "numer": "45/2021",
+      "data": "2021-11-17",
+      "godzina": "18:41",
+      "tytul": "Powołanie Członka Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8226226",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=18&pageSize=15"
+    },
+    {
+      "numer": "44/2021",
+      "data": "2021-11-05",
+      "godzina": "17:15",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON Polska Energia za 9 miesięcy 2021 r. i III kwartał 2021 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8218957",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=18&pageSize=15"
+    },
+    {
+      "numer": "43/2021",
+      "data": "2021-11-04",
+      "godzina": "00:00",
+      "tytul": "Aktualizacja informacji dotyczącej bloku o mocy 910 MW w Jaworznie",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8217480",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=18&pageSize=15"
+    },
+    {
+      "numer": "42/2021",
+      "data": "2021-10-29",
+      "godzina": "10:58",
+      "tytul": "Podpisanie umowy kredytu z Europejskim Bankiem Inwestycyjnym",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8214582",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=18&pageSize=15"
+    },
+    {
+      "numer": "41/2021",
+      "data": "2021-10-18",
+      "godzina": "19:16",
+      "tytul": "Potwierdzenie ratingów przez agencję ratingową Fitch",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8207776",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=18&pageSize=15"
+    },
+    {
+      "numer": "40/2021",
+      "data": "2021-10-06",
+      "godzina": "14:28",
+      "tytul": "Aktualizacja informacji dotyczącej generalnego wykonawcy bloku o mocy 910 MW w Jaworznie",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8200796",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=18&pageSize=15"
+    },
+    {
+      "numer": "39/2021",
+      "data": "2021-09-15",
+      "godzina": "13:30",
+      "tytul": "Podpisanie listu intencyjnego dotyczącego sprzedaży akcji w spółce TAURON Wydobycie S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8188208",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=18&pageSize=15"
+    },
+    {
+      "numer": "38/2021",
+      "data": "2021-09-08",
+      "godzina": "16:35",
+      "tytul": "Stanowisko Zarządu TAURON Polska Energia S.A. dotyczące wezwania w sprawie bloku o mocy 910 MW w Jaworznie",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8184334",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=18&pageSize=15"
+    },
+    {
+      "numer": "37/2021",
+      "data": "2021-09-08",
+      "godzina": "13:11",
+      "tytul": "Informacja dotycząca generalnego wykonawcy bloku o mocy 910 MW w Jaworznie",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8184117",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=18&pageSize=15"
+    },
+    {
+      "numer": "36/2021",
+      "data": "2021-09-01",
+      "godzina": "18:23",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON Polska Energia za I półrocze 2021 r. i II kwartał 2021 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8180626",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=18&pageSize=15"
+    },
+    {
+      "numer": "35/2021",
+      "data": "2021-08-26",
+      "godzina": "19:04",
+      "tytul": "Istotne zdarzenie o charakterze niepieniężnym wpływające na jednostkowe i skonsolidowane wyniki finansowe Emitenta za I półrocze 2021 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8177248",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=18&pageSize=15"
+    },
+    {
+      "numer": "34/2021",
+      "data": "2021-08-25",
+      "godzina": "15:35",
+      "tytul": "Rozpoczęcie działań zmierzających do odkupu udziałów w spółce Nowe Jaworzno Grupa TAURON od funduszy zarządzanych przez Polski Fundusz Rozwoju",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8176367",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=18&pageSize=15"
+    },
+    {
+      "numer": "33/2021",
+      "data": "2021-08-09",
+      "godzina": "14:31",
+      "tytul": "Zmiana terminu publikacji rozszerzonego skonsolidowanego raportu półrocznego za I półrocze 2021 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8167224",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=18&pageSize=15"
+    },
+    {
+      "numer": "32/2021",
+      "data": "2021-08-04",
+      "godzina": "20:38",
+      "tytul": "Powołanie Członków Zarządu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8165192",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=18&pageSize=15"
+    },
+    {
+      "numer": "31/2021",
+      "data": "2021-08-02",
+      "godzina": "20:00",
+      "tytul": "Informacja dotycząca bloku o mocy 910 MW w Jaworznie",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8163854",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=18&pageSize=15"
+    },
+    {
+      "numer": "30/2021",
+      "data": "2021-08-02",
+      "godzina": "16:50",
+      "tytul": "Podpisanie listu intencyjnego w sprawie Elektrociepłowni Stalowa Wola S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8163723",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=19&pageSize=15"
+    },
+    {
+      "numer": "29/2021",
+      "data": "2021-07-27",
+      "godzina": "16:51",
+      "tytul": "Aktualizacja informacji w sprawie rezygnacji Prezesa Zarządu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8160121",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=19&pageSize=15"
+    },
+    {
+      "numer": "28/2021",
+      "data": "2021-07-23",
+      "godzina": "14:42",
+      "tytul": "Podpisanie porozumienia dotyczącego współpracy w zakresie wydzielenia aktywów węglowych",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8158416",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=19&pageSize=15"
+    },
+    {
+      "numer": "27/2021",
+      "data": "2021-07-19",
+      "godzina": "15:58",
+      "tytul": "Aktualizacja informacji w sprawie rezygnacji Prezesa Zarządu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8155776",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=19&pageSize=15"
+    },
+    {
+      "numer": "26/2021",
+      "data": "2021-07-02",
+      "godzina": "21:56",
+      "tytul": "Rezygnacja Prezesa Zarządu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8147019",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=19&pageSize=15"
+    },
+    {
+      "numer": "25/2021",
+      "data": "2021-07-01",
+      "godzina": "16:14",
+      "tytul": "Zakończenie analiz w zakresie uczestnictwa w procesie nabycia wybranych aktywów Grupy ČEZ",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8145930",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=19&pageSize=15"
+    },
+    {
+      "numer": "24/2021",
+      "data": "2021-06-29",
+      "godzina": "21:45",
+      "tytul": "Wygaśnięcie umowy o współpracy w zakresie realizacji projektów morskich farm wiatrowych",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8143955",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=19&pageSize=15"
+    },
+    {
+      "numer": "23/2021",
+      "data": "2021-06-14",
+      "godzina": "18:00",
+      "tytul": "Przyjęcie tekstu jednolitego Statutu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8133303",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=19&pageSize=15"
+    },
+    {
+      "numer": "22/2021",
+      "data": "2021-06-07",
+      "godzina": "16:17",
+      "tytul": "Rejestracja zmian Statutu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8128666",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=19&pageSize=15"
+    },
+    {
+      "numer": "21/2021",
+      "data": "2021-05-25",
+      "godzina": "15:32",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Zwyczajnym Walnym Zgromadzeniu TAURON Polska Energia S.A. w dniu 24 maja 2021 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8119997",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=19&pageSize=15"
+    },
+    {
+      "numer": "20/2021",
+      "data": "2021-05-24",
+      "godzina": "15:51",
+      "tytul": "Powołanie Członków Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8119144",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=19&pageSize=15"
+    },
+    {
+      "numer": "19/2021",
+      "data": "2021-05-24",
+      "godzina": "15:47",
+      "tytul": "Treść uchwał poddanych pod głosowanie podczas Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8119139",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=19&pageSize=15"
+    },
+    {
+      "numer": "18/2021",
+      "data": "2021-05-21",
+      "godzina": "15:14",
+      "tytul": "Projekt uchwały Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A. zwołanego na 24 maja 2021 r. zgłoszony przez akcjonariusza",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8117813",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=19&pageSize=15"
+    },
+    {
+      "numer": "17/2021",
+      "data": "2021-05-13",
+      "godzina": "13:32",
+      "tytul": "Rezygnacja Wiceprezesa Zarządu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8111841",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=19&pageSize=15"
+    },
+    {
+      "numer": "16/2021",
+      "data": "2021-05-11",
+      "godzina": "13:22",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON Polska Energia za I kwartał 2021 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8110033",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=19&pageSize=15"
+    },
+    {
+      "numer": "15/2021",
+      "data": "2021-04-27",
+      "godzina": "18:15",
+      "tytul": "Projekty uchwał Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8101245",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=20&pageSize=15"
+    },
+    {
+      "numer": "14/2021",
+      "data": "2021-04-27",
+      "godzina": "18:13",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8101238",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=20&pageSize=15"
+    },
+    {
+      "numer": "13/2021",
+      "data": "2021-04-06",
+      "godzina": "18:12",
+      "tytul": "Powołanie Członka Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8088146",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=20&pageSize=15"
+    },
+    {
+      "numer": "12/2021",
+      "data": "2021-04-01",
+      "godzina": "12:10",
+      "tytul": "Powołanie Prezesa Zarządu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8086035",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=20&pageSize=15"
+    },
+    {
+      "numer": "11/2021",
+      "data": "2021-03-29",
+      "godzina": "11:43",
+      "tytul": "Rekomendacja Zarządu TAURON Polska Energia S.A. w sprawie pokrycia straty netto za 2020 r. z kapitału zapasowego oraz niewypłacania dywidendy z kapitału zapasowego",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8083369",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=20&pageSize=15"
+    },
+    {
+      "numer": "10/2021",
+      "data": "2021-03-26",
+      "godzina": "18:24",
+      "tytul": "Podpisanie umowy sprzedaży udziałów w spółce PGE EJ 1 sp. z o.o. na rzecz Skarbu Państwa",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8082606",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=20&pageSize=15"
+    },
+    {
+      "numer": "9/2021",
+      "data": "2021-03-16",
+      "godzina": "08:48",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON Polska Energia za 2020 r. i IV kwartał 2020 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8074896",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=20&pageSize=15"
+    },
+    {
+      "numer": "8/2021",
+      "data": "2021-03-15",
+      "godzina": "17:16",
+      "tytul": "Utworzenie rezerwy w jednostkowym sprawozdaniu finansowym TAURON Polska Energia S.A. za 2020 rok",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8074605",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=20&pageSize=15"
+    },
+    {
+      "numer": "7/2021",
+      "data": "2021-03-10",
+      "godzina": "15:52",
+      "tytul": "Analizy w zakresie uczestnictwa w procesie nabycia wybranych aktywów Grupy ČEZ",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8071715",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=20&pageSize=15"
+    },
+    {
+      "numer": "5/2021",
+      "data": "2021-02-26",
+      "godzina": "12:41",
+      "tytul": "Wyniki testów na utratę wartości – uzupełnienie raportu bieżącego nr 5/2021 z dnia 23 lutego 2021 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8064462",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=20&pageSize=15"
+    },
+    {
+      "numer": "6/2021",
+      "data": "2021-02-24",
+      "godzina": "19:52",
+      "tytul": "Powierzenie pełnienia obowiązków Prezesa Zarządu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8063226",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=20&pageSize=15"
+    },
+    {
+      "numer": "5/2021",
+      "data": "2021-02-23",
+      "godzina": "18:42",
+      "tytul": "Wyniki testów na utratę wartości",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8062419",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=20&pageSize=15"
+    },
+    {
+      "numer": "4/2021",
+      "data": "2021-02-19",
+      "godzina": "12:10",
+      "tytul": "Rezygnacja Prezesa Zarządu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8060099",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=20&pageSize=15"
+    },
+    {
+      "numer": "3/2021",
+      "data": "2021-02-12",
+      "godzina": "13:56",
+      "tytul": "Rezygnacja Członka Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8055788",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=20&pageSize=15"
+    },
+    {
+      "numer": "2/2021",
+      "data": "2021-01-29",
+      "godzina": "17:25",
+      "tytul": "Zakończenie negocjacji w procesie sprzedaży udziałów w spółce TAURON Ciepło Sp. z o.o.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8047161",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=20&pageSize=15"
+    },
+    {
+      "numer": "1/2021",
+      "data": "2021-01-19",
+      "godzina": "14:58",
+      "tytul": "Terminy publikacji raportów okresowych TAURON Polska Energia S.A. w 2021 roku",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8039949",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=21&pageSize=15"
+    },
+    {
+      "numer": "56/2020",
+      "data": "2020-12-29",
+      "godzina": "15:24",
+      "tytul": "Podpisanie umowy o współpracy w zakresie wspólnej realizacji projektów morskich farm wiatrowych w polskiej strefie ekonomicznej",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8028552",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=21&pageSize=15"
+    },
+    {
+      "numer": "55/2020",
+      "data": "2020-12-22",
+      "godzina": "14:41",
+      "tytul": "Wypowiedzenie umowy na dostawy węgla",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8025547",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=21&pageSize=15"
+    },
+    {
+      "numer": "54/2020",
+      "data": "2020-11-30",
+      "godzina": "14:48",
+      "tytul": "Kolejne przedłużenie okresu wyłączności negocjacyjnej",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8011539",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=21&pageSize=15"
+    },
+    {
+      "numer": "53/2020",
+      "data": "2020-11-13",
+      "godzina": "20:26",
+      "tytul": "Aktualizacja informacji dotyczących budowy bloku energetycznego w Jaworznie – oddanie bloku do eksploatacji oraz zawarcie ugody i aneksu do umowy",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=8001216",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=21&pageSize=15"
+    },
+    {
+      "numer": "52/2020",
+      "data": "2020-11-04",
+      "godzina": "17:24",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON Polska Energia za I-III kwartał 2020 r. i III kwartał 2020 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7995321",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=21&pageSize=15"
+    },
+    {
+      "numer": "51/2020",
+      "data": "2020-10-30",
+      "godzina": "16:17",
+      "tytul": "Dojście do skutku emisji obligacji w ramach programu emisji obligacji TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7992109",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=21&pageSize=15"
+    },
+    {
+      "numer": "50/2020",
+      "data": "2020-10-27",
+      "godzina": "15:02",
+      "tytul": "Piąte i ostatnie wezwanie akcjonariuszy TAURON Polska Energia S.A. do złożenia dokumentów akcji",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7989352",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=21&pageSize=15"
+    },
+    {
+      "numer": "49/2020",
+      "data": "2020-10-23",
+      "godzina": "13:21",
+      "tytul": "Podjęcie decyzji o emisji obligacji w ramach programu emisji obligacji TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7987145",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=21&pageSize=15"
+    },
+    {
+      "numer": "48/2020",
+      "data": "2020-10-19",
+      "godzina": "18:23",
+      "tytul": "Złożenie pozwu przeciwko Abener Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7984202",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=21&pageSize=15"
+    },
+    {
+      "numer": "47/2020",
+      "data": "2020-10-12",
+      "godzina": "08:18",
+      "tytul": "Czwarte wezwanie akcjonariuszy TAURON Polska Energia S.A. do złożenia dokumentów akcji",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7978880",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=21&pageSize=15"
+    },
+    {
+      "numer": "46/2020",
+      "data": "2020-10-05",
+      "godzina": "18:56",
+      "tytul": "Rozpoczęcie działań zmierzających do emisji obligacji oraz zawarcie umowy ramowej z Europejskim Bankiem Odbudowy i Rozwoju",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7975191",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=21&pageSize=15"
+    },
+    {
+      "numer": "45/2020",
+      "data": "2020-10-01",
+      "godzina": "10:17",
+      "tytul": "Podpisanie listu intencyjnego dotyczącego sprzedaży udziałów w spółce PGE EJ 1 sp. z o.o.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7972558",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=21&pageSize=15"
+    },
+    {
+      "numer": "44/2020",
+      "data": "2020-09-25",
+      "godzina": "08:43",
+      "tytul": "Trzecie wezwanie akcjonariuszy TAURON Polska Energia S.A. do złożenia dokumentów akcji",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7968456",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=21&pageSize=15"
+    },
+    {
+      "numer": "43/2020",
+      "data": "2020-09-22",
+      "godzina": "16:50",
+      "tytul": "Wyrok Sądu Apelacyjnego w sprawie roszczeń Abener Energia wobec Elektrociepłowni Stalowa Wola",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7966668",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=21&pageSize=15"
+    },
+    {
+      "numer": "42/2020",
+      "data": "2020-09-22",
+      "godzina": "13:01",
+      "tytul": "Kolejne przedłużenie okresu wyłączności negocjacyjnej",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7966436",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=22&pageSize=15"
+    },
+    {
+      "numer": "41/2020",
+      "data": "2020-09-10",
+      "godzina": "08:44",
+      "tytul": "Drugie wezwanie akcjonariuszy TAURON Polska Energia S.A. do złożenia dokumentów akcji",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7959537",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=22&pageSize=15"
+    },
+    {
+      "numer": "40/2020",
+      "data": "2020-09-08",
+      "godzina": "16:36",
+      "tytul": "Wyrok Sądu Okręgowego dotyczący spółki Polska Energia - Pierwsza Kompania Handlowa sp. z o.o.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7958426",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=22&pageSize=15"
+    },
+    {
+      "numer": "39/2020",
+      "data": "2020-08-26",
+      "godzina": "14:48",
+      "tytul": "Pierwsze wezwanie akcjonariuszy TAURON Polska Energia S.A. do złożenia dokumentów akcji",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7950437",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=22&pageSize=15"
+    },
+    {
+      "numer": "38/2020",
+      "data": "2020-08-11",
+      "godzina": "17:54",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON Polska Energia za I półrocze 2020 r. i II kwartał 2020 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7942103",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=22&pageSize=15"
+    },
+    {
+      "numer": "37/2020",
+      "data": "2020-08-05",
+      "godzina": "14:31",
+      "tytul": "Istotne zdarzenia o charakterze niepieniężnym: wyniki testów na utratę wartości oraz przekwalifikowanie aktywów przeznaczonych do sprzedaży",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7938754",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=22&pageSize=15"
+    },
+    {
+      "numer": "36/2020",
+      "data": "2020-08-03",
+      "godzina": "13:57",
+      "tytul": "Przyjęcie tekstu jednolitego Statutu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7937194",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=22&pageSize=15"
+    },
+    {
+      "numer": "35/2020",
+      "data": "2020-08-03",
+      "godzina": "11:41",
+      "tytul": "Powołanie Członka Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7937082",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=22&pageSize=15"
+    },
+    {
+      "numer": "34/2020",
+      "data": "2020-07-28",
+      "godzina": "10:21",
+      "tytul": "Przedłużenie okresu wyłączności negocjacyjnej",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7934780",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=22&pageSize=15"
+    },
+    {
+      "numer": "33/2020",
+      "data": "2020-07-22",
+      "godzina": "13:24",
+      "tytul": "Odpowiedzi na pytania pełnomocnika akcjonariusza TAURON Polska Energia S.A. zadane podczas Zwyczajnego Walnego Zgromadzenia w dniu 15 lipca 2020 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7929815",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=22&pageSize=15"
+    },
+    {
+      "numer": "32/2020",
+      "data": "2020-07-21",
+      "godzina": "13:50",
+      "tytul": "Rejestracja zmian Statutu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7929134",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=22&pageSize=15"
+    },
+    {
+      "numer": "31/2020",
+      "data": "2020-07-20",
+      "godzina": "11:17",
+      "tytul": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Zwyczajnym Walnym Zgromadzeniu TAURON Polska Energia S.A. w dniu 15 lipca 2020 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7928293",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=22&pageSize=15"
+    },
+    {
+      "numer": "30/2020",
+      "data": "2020-07-15",
+      "godzina": "17:42",
+      "tytul": "Treść uchwał poddanych pod głosowanie podczas Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7926153",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=22&pageSize=15"
+    },
+    {
+      "numer": "29/2020",
+      "data": "2020-07-15",
+      "godzina": "16:36",
+      "tytul": "Powołanie członków Rady Nadzorczej TAURON Polska Energia S.A. na VI wspólną kadencję",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7926085",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=22&pageSize=15"
+    },
+    {
+      "numer": "28/2020",
+      "data": "2020-07-14",
+      "godzina": "21:44",
+      "tytul": "Zmiany w składzie Zarządu TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7925508",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=22&pageSize=15"
+    },
+    {
+      "numer": "27/2020",
+      "data": "2020-06-18",
+      "godzina": "15:22",
+      "tytul": "Projekty uchwał Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7907177",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=23&pageSize=15"
+    },
+    {
+      "numer": "26/2020",
+      "data": "2020-06-18",
+      "godzina": "15:19",
+      "tytul": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7907170",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=23&pageSize=15"
+    },
+    {
+      "numer": "25/2020",
+      "data": "2020-06-16",
+      "godzina": "18:19",
+      "tytul": "Rezygnacja Członka Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7905725",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=23&pageSize=15"
+    },
+    {
+      "numer": "24/2020",
+      "data": "2020-06-16",
+      "godzina": "13:57",
+      "tytul": "Decyzja o rozpoczęciu negocjacji w trybie wyłączności w procesie sprzedaży udziałów spółki TAURON Ciepło Sp. z o.o.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7905386",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=23&pageSize=15"
+    },
+    {
+      "numer": "23/2020",
+      "data": "2020-06-05",
+      "godzina": "16:54",
+      "tytul": "Zmiany w składzie Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7899844",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=23&pageSize=15"
+    },
+    {
+      "numer": "22/2020",
+      "data": "2020-05-25",
+      "godzina": "13:30",
+      "tytul": "Powołanie Członka Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7890899",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=23&pageSize=15"
+    },
+    {
+      "numer": "21/2020",
+      "data": "2020-05-22",
+      "godzina": "12:12",
+      "tytul": "Podpisanie Protokołów dodatkowych zmieniających zakładowe układy zbiorowe pracy w spółkach zależnych",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7889572",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=23&pageSize=15"
+    },
+    {
+      "numer": "20/2020",
+      "data": "2020-05-21",
+      "godzina": "11:35",
+      "tytul": "Weryfikacja ocen ratingowych przyznanych przez agencję Fitch Ratings",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7888687",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=23&pageSize=15"
+    },
+    {
+      "numer": "19/2020",
+      "data": "2020-05-04",
+      "godzina": "18:21",
+      "tytul": "Aktualizacja informacji dotyczących budowy bloku energetycznego w Jaworznie",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7876759",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=23&pageSize=15"
+    },
+    {
+      "numer": "18/2020",
+      "data": "2020-04-30",
+      "godzina": "17:55",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON Polska Energia za I kwartał 2020 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7875031",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=23&pageSize=15"
+    },
+    {
+      "numer": "17/2020",
+      "data": "2020-04-27",
+      "godzina": "12:19",
+      "tytul": "Rezygnacja Przewodniczącej Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7871544",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=23&pageSize=15"
+    },
+    {
+      "numer": "16/2020",
+      "data": "2020-04-20",
+      "godzina": "14:01",
+      "tytul": "Rezygnacje Członków Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7866623",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=23&pageSize=15"
+    },
+    {
+      "numer": "15/2020",
+      "data": "2020-03-30",
+      "godzina": "18:14",
+      "tytul": "Rekomendacja Zarządu TAURON Polska Energia S.A. w sprawie pokrycia straty netto za 2019 r. z kapitału zapasowego oraz niewypłacania dywidendy z kapitału zapasowego",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7851937",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=23&pageSize=15"
+    },
+    {
+      "numer": "14/2020",
+      "data": "2020-03-30",
+      "godzina": "10:45",
+      "tytul": "Uzupełnienie raportu bieżącego nr 12/2020 z 24 marca 2020 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7851449",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=23&pageSize=15"
+    },
+    {
+      "numer": "13/2020",
+      "data": "2020-03-25",
+      "godzina": "16:36",
+      "tytul": "Podpisanie umowy kredytu konsorcjalnego na kwotę 500 mln zł",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7848328",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=23&pageSize=15"
+    },
+    {
+      "numer": "12/2020",
+      "data": "2020-03-24",
+      "godzina": "16:31",
+      "tytul": "Zmiany w składzie Rady Nadzorczej TAURON Polska Energia S.A.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7847431",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=24&pageSize=15"
+    },
+    {
+      "numer": "11/2020",
+      "data": "2020-03-23",
+      "godzina": "16:13",
+      "tytul": "Podpisanie porozumienia w sprawie wstępnych warunków współpracy pomiędzy TAURON oraz PFR w zakresie inwestycji w odnawialne źródła energii",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7846460",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=24&pageSize=15"
+    },
+    {
+      "numer": "10/2020",
+      "data": "2020-03-19",
+      "godzina": "18:12",
+      "tytul": "Szacunkowe wyniki Grupy Kapitałowej TAURON Polska Energia za 2019 r. i IV kwartał 2019 r.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7843980",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=24&pageSize=15"
+    },
+    {
+      "numer": "9/2020",
+      "data": "2020-03-17",
+      "godzina": "14:53",
+      "tytul": "Aktualizacja wyników testów na utratę wartości",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7841608",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=24&pageSize=15"
+    },
+    {
+      "numer": "8/2020",
+      "data": "2020-03-16",
+      "godzina": "16:33",
+      "tytul": "Podpisanie umowy kredytu z bankiem SMBC BANK EU AG",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7840774",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=24&pageSize=15"
+    },
+    {
+      "numer": "7/2020",
+      "data": "2020-03-06",
+      "godzina": "17:18",
+      "tytul": "Aktualizacja informacji dotyczących budowy bloku energetycznego w Jaworznie",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7834020",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=24&pageSize=15"
+    },
+    {
+      "numer": "6/2020",
+      "data": "2020-03-06",
+      "godzina": "16:04",
+      "tytul": "Wyrok Sądu Okręgowego dotyczący spółki Polska Energia - Pierwsza Kompania Handlowa sp. z o.o.",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7833924",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=24&pageSize=15"
+    },
+    {
+      "numer": "5/2020",
+      "data": "2020-03-04",
+      "godzina": "18:00",
+      "tytul": "Wyniki testów na utratę wartości",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7832465",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=24&pageSize=15"
+    },
+    {
+      "numer": "4/2020",
+      "data": "2020-02-13",
+      "godzina": "10:35",
+      "tytul": "Aktualizacja informacji dotyczących budowy bloku energetycznego w Jaworznie",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7820725",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=24&pageSize=15"
+    },
+    {
+      "numer": "3/2020",
+      "data": "2020-02-06",
+      "godzina": "13:11",
+      "tytul": "Ustanowienie programu emisji obligacji",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7817184",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=24&pageSize=15"
+    },
+    {
+      "numer": "2/2020",
+      "data": "2020-01-30",
+      "godzina": "18:27",
+      "tytul": "Aktualizacja informacji dotyczących budowy bloku energetycznego w Jaworznie",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7813292",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=24&pageSize=15"
+    },
+    {
+      "numer": "1/2020",
+      "data": "2020-01-17",
+      "godzina": "15:27",
+      "tytul": "Terminy publikacji raportów okresowych TAURON Polska Energia S.A. w 2020 roku",
+      "url": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace/raport-biezacy?id=7805698",
+      "source_page": "https://www.tauron.pl/tauron/relacje-inwestorskie/raporty-biezace?pageNumber=24&pageSize=15"
+    }
+  ]
+}

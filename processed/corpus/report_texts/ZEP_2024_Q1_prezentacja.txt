@@ -1,0 +1,852 @@
+Wyniki 
+1Q 2024
+31 maja 2024
+1
+
+2
+Podsumowanie 1Q 2024
+Kluczowe dane operacyjne i finansowe
+1Q 2024
+Zmiana r/r
+Sprzedaż energii elektrycznej:
+0,50
+TWh
+-41,86%
+• sprzedaż energii elektrycznej z własnej produkcji:
+0,27
+TWh
+-43,75%
+• sprzedaż energii elektrycznej z obrotu:
+0,23
+TWh
+-39,47%
+Uzyskana średnia cena sprzedaży energii elektrycznej(1): 
+695,81
+zł/MWh
+-38,64%
+Średnia cena zakupu EUA
+405,66
+zł/MWh
++4,77%
+Przychody ze sprzedaży:
+520
+mln zł
+-54,86%
+EBITDA:
+27
+mln zł
++107,14%
+Wynik netto:
+(5)
+mln zł
++98,66%
+Nakłady inwestycyjne wraz z nabyciem spółek:
+10
+mln zł
+-95,35%
+Zadłużenie:
+0
+mln zł
+Środki pieniężne(2):
+675
+mln zł
+-19,26%
+(1) Średnia cena liczona jako przychody ze sprzedaży energii (razem z usługami systemowymi) podzielone przez wolumen sprzedaży.
+(2) Środki pieniężne i ich ekwiwalenty oraz pozostałe aktywa finansowe krótkoterminowe.
+
+EBITDA
+WYNIK NETTO
+PRZYCHODY
+Podsumowanie 1Q 2024 [mln zł]
+205 
+579 
+142 
+392 
+173 
+181 
+520 
+1 152 
+1Q 2024
+1Q 2023
+Pozostałe
+Energia elektryczna z obrotu
+Energia elektryczna z własnej produkcji
+27 
+( 378) 
+1Q 2024
+1Q 2023
+( 5) 
+( 374) 
+1Q 2024
+1Q 2023
+Warunki prowadzenia działalności ZE PAK w I kwartale 2024 roku uległy istotnej zmianie w stosunku do 2023 roku:
+w wyniku transakcji sprzedaży 50,5% udziałów w PAK-PCE sp. z o.o. Grupa ZE PAK nie konsoliduje już PAK – PCE i jej spółek zależnych (m.in. PAK – PCE Biopaliwa i Wodór sp. z o.o. 
+produkującej energię z biomasy w elektrowni Konin i spółki obrotu energią PAK – Volt SA) oznacza to istotny spadek skali działalności (wiążący się głównie z brakiem produkcji energii 
+odnawialnej oraz spadkiem wolumenu energii z obrotu),
+w I kwartale 2024 roku pogorszeniu uległa relacja średniej uzyskanej ceny sprzedaży energii do średniej poniesionej ceny zakupu uprawnień do emisji CO2,
+ubytek po stronie przychodowej jest trudny do zrekompensowania po stronie kosztowej z uwagi na duży udział kosztów stałych (zwłaszcza w segmencie wydobycia).
+Porównanie wyniku EBITDA i wyniku netto za I kwartał 2024 do I kwartału 2023 jest zniekształcone z uwagi na negatywny wpływ zwiększenia rezerwy rekultywacyjnej w I kwartale 2023. 
+Skorygowanie wyników o zdarzenia jednorazowe powoduje, że wyniki finansowe I kwartału 2024 uległy pogorszeniu w stosunku do analogicznego okresu roku poprzedniego.
+
+WYBRANE DANE 
+Z RYNKU ENERGII
+4
+
+5
+Ceny energii elektrycznej
+Ceny energii (TGeBase)
+Ceny kontraktu terminowego na dostawę energii elektrycznej (pasmo z dostawą roczną)
+615,61
+527,16
+505,59
+401,29
+356,28
+0
+300
+600
+900
+1200
+1Q 2023
+2Q 2023
+3Q 2023
+4Q 2023
+1Q 2024
+złoty/MWh
+maks.
+min.
+średnia ważona
+804,74
+708,66
+639,46
+549,41
+454,49
+400
+600
+800
+1000
+1200
+2.sty.2023
+22.sty.2023
+11.lut.2023
+3.mar.2023
+23.mar.2023
+12.kwi.2023
+2.maj.2023
+22.maj.2023
+11.cze.2023
+1.lip.2023
+21.lip.2023
+10.sie.2023
+30.sie.2023
+19.wrz.2023
+9.paź.2023
+29.paź.2023
+18.lis.2023
+8.gru.2023
+28.gru.2023
+17.sty.2024
+6.lut.2024
+26.lut.2024
+17.mar.2024
+złoty/MWh
+cena
+średnia kwartalna
+
+6
+Ceny kontraktu terminowego na dostawę EUA
+Ceny kontraktu terminowego na dostawę EUA
+30
+40
+50
+60
+70
+80
+90
+100
+2 sty
+2 lut
+2 mar
+euro
+2024
+2023
+średnia arytmetyczna 1Q2024
+średnia arytmetyczna 1Q2023
+61,97
+89,87
+
+INFORMACJE 
+OPERACYJNE
+7
+
+8
+SPRZEDAŻ
+PRODUKCJA NETTO
+Produkcja netto i sprzedaż energii elektrycznej
+[TWh]
+W 1Q 2024 zanotowano spadek wolumenu sprzedaży 
+ogółem względem 1Q 2023 roku o 41,86%, zarówno ze 
+sprzedaży energii własnej i zakupionej. 
+Na zmniejszenie produkcji wpłynęły przede wszystkim 
+mniej korzystne dla Grupy warunki na rynku energii. 
+Natomiast spadek wolumenu energii elektrycznej 
+zakupionej spowodował brak wolumenu energii 
+elektrycznej realizowanego w 2023 roku w PAK – Volt SA w 
+części działalności zaniechanej. 
+0
+50
+100
+150
+200
+sty
+lut
+mar
+Produkcja razem 2023
+Produkcja razem 2024
+0,27
+0,48
+0,23
+0,38
+0,50
+0,86
+1Q 2024
+1Q 2023
+TWh
+Z produkcji własnej
+Z obrotu
+⬇43,75
+⬇39,47%
+⬇41,86%
+0,10
+0,16
+0,17
+0,17
+0,14 
+0,01 
+0,27 
+0,48 
+1Q 2024
+1Q 2023
+TWh
+Bloki 1, 2 i 5 (Pątnów I)
+Blok 9 (Pątnów II)
+Konin biomasa
+Brudzew
+⬇43,75%
+⬌0%
+⬇37,50%
+
+9
+EMISJA CO2
+ZUŻYCIE WĘGLA
+Zużycie węgla i emisja CO2
+[mln ton]
+Dane dotyczące zużycia węgla i emisji CO2 w okresie trzech miesięcy 2024 roku pokazują spadek 
+zużycia węgla i mniejszą emisję co wynika z niższych wolumenów produkowanej energii w stosunku 
+do analogicznych okresów roku poprzedniego. Spadek zużycia węgla, jak i mniejsza emisja wiążą się 
+również z efektywniejszym wykorzystaniem aktywów wytwórczych.
+CO2
+0,36 
+0,44 
+1Q 2024
+1Q 2023
+miliony ton
+⬇18,18%
+0,35
+0,43
+1Q 2024
+1Q 2023
+miliony ton
+⬇18,60%
+
+10
+Cena zakupu pozwoleń do emisji CO2 (EUA) (2)
+Cena sprzedaży energii elektrycznej (1)
+Średnie ceny sprzedaży energii elektrycznej i zakupu EUA
+(1) Średnia cena liczona jako przychody ze 
+sprzedaży energii (własnej, z obrotu 
+oraz usług systemowych) podzielone 
+przez wolumen sprzedaży.
+(2) Średnia cena liczona jako koszty zakupu 
+pozwoleń do emisji poniesione na 
+pokrycie emisji za dany okres 
+podzielone przez wolumen 
+wyemitowanych uprawnień.
+438,19
+} 18,47
+695,81 
+1 134,00 
+1Q 2024
+1Q 2023
+złoty/MWh
+⬇38,64%
+406,07 
+387,19 
+1Q 2024
+1Q 2023
+złoty/EUA
+⬆4,88%
+
+ZATRUDNIENIE
+11
+
+12
+RAZEM
+WEDŁUG SEGMENTÓW
+Stan zatrudnienia
+[etaty]
+0
+200
+400
+600
+800
+1000
+1200
+Segment
+WYTWARZANIE
+Segment
+WYDOBYCIE
+Segment
+REMONTY
+Pozostałe
+segmenty
+31-03-2024
+31-12-2023
+31-03-2023
+2 557 
+2 688 
+3 015 
+31-03-2024
+31-12-2023
+31-03-2023
+
+INFORMACJE 
+FINANSOWE
+13
+
+14
+Przychody i koszty operacyjne (1)
+[mln zł]
+Za spadek o 374,0 mln zł przychodów ze sprzedaży wyprodukowanej energii elektrycznej 
+odpowiadają niższa ceny o 38,64% i spadek wolumenu o 42,75%, w wyniku mniej korzystne dla 
+Grupy warunków na rynku energii. 
+Na zmniejszenie o 250,6 mln zł przychodów z energii elektrycznej zakupionej, obok niższej ceny 
+energii elektrycznej, wpłynęło brak wolumenu sprzedaży realizowanego w analogicznym okresie 
+ubiegłego roku przez PAK – Volt. 
+Za wyższe o 4,6 mln zł przychody z rynku mocy odpowiada wyższa zakontraktowana cena w 
+aukcji dla 2024 roku.
+Przychody ze sprzedaży biomasy wyniosły 80,1 mln zł. Zrealizowane przychody w 1Q 2023 roku 
+były wyłączane w ramach konsolidacji (były realizowane wówczas do spółki, której wyniki były w 
+pełni konsolidowane).
+Niższe o 12,8 mln zł rekompensaty KDT to efekt wyczerpania puli środków w ramach przyznanej 
+pomocy. 
+Brak przychodów z praw majątkowych w związku z nieposiadaniem jednostek, z których są 
+wytwarzane zielone certyfikaty.
+Spadek o 32,0 mln zł przychodów ze sprzedaży ciepła nastąpił w efekcie spadku wolumenu 
+sprzedaży w związku z zaprzestaniem konsolidowania sprzedaży ciepła do miasta Konin 
+realizowanego aktualnie przez Grupę Polsat Plus.
+Spadek o 6,2 mln zł przychodów z umów o usługi budowlane jest rezultatem mniejszego zakresu 
+realizacji w spółce PAK Serwis w segmencie remontowym.
+Za spadek o 206,6 mln zł wartości zakupionej energii do odsprzedaży i pozostałych materiałów 
+odpowiada przede wszystkim mniejszy wolumen obrotu energią i niższa cena zakupu.
+Niższe o 26,4 mln zł koszty emisji są wynikiem spadku wolumenu emisji pomimo wzrostu ceny 
+jednostkowej nabywanych uprawnień do emisji.
+Za spadek o 126,8 mln zł zużycia materiałów przede wszystkim odpowiada brak kosztów 
+nabywanej biomasy oraz spadek ceny kupowanej energii elektrycznej.
+Za spadek o 9,1 mln zł kosztów świadczeń pracowniczych odpowiada spadek stanu zatrudnienia 
+o 458 etatów.
+Za spadek o 81,6 mln zł wysokości podatków odpowiada brak opłaty na fundusz wypłaty różnicy 
+ceny.
+Za spadek o 263,5 mln zł pozostałych kosztów rodzajowych odpowiada brak zawiązania rezerwy 
+na rekultywację odkrywek (w 1Q 2023 zewidencjowano z tego tytułu 268,5 mln zł).
+205 
+142 
+39 
+80 
+19 
+5 
+13 
+16 
+579 
+392 
+35 
+32 
+23 
+37 
+19 
+34 
+Energia
+elektryczna
+z produkcji
+własnej
+Energia
+elektryczna
+z obrotu
+Przychody
+z rynku mocy
+Przychody
+ze sprzedaży
+biomasy
+Rekompensaty
+z tytułu
+rozwiązania KDT
+Prawa majątkowe
+ze świadectw
+pochodzenia
+energii
+Energia cieplna
+Przychody
+z umów
+o usługi
+budowlane
+Pozostałe
+1Q 2024
+1Q 2023
+161
+141
+4
+64
+35
+93
+33
+4
+367
+168
+13
+191
+33
+103
+115
+268
+Wartość sprzedanej
+energii zakupionej
+i pozostałych
+towarów
+i materiałów
+Koszty emisji CO2
+Amortyzacja
+Zużycie materiałów
+i energii
+Usługi obce
+Koszty świadczeń
+pracowniczych
+Podatki i opłaty
+(bez akcyzy)
+Pozostałe
+1Q 2024
+1Q 2023
+(1) Wszystkie wartości łącznie z działalności kontynuowanej i zaniechanej.
+
+15
+EBITDA 1Q 2024 (1)
+[mln zł]
+(1) 
+EBITDA ogółem z działalności kontynuowanej i zaniechanej.
+(2) 
+EBITDA wyższa o 405 mln zł (+107,14%) -> po doprowadzeniu do porównywalności niższa o 179 mln zł 
+ 
+(-102,29%)
+porównywalna EBITDA za 1Q 2024 wyniosła minus (4) mln zł -> wartość 27 mln zł to efekt zmniejszenia salda 
+rezerwy na przyszłą rekultywację eksploatowanych odkrywek węgla
+porównywalna EBITDA za 1Q 2023 wyniosła 175 mln zł -> wartość minus (378) mln zł to efekt zwiększenia salda 
+rezerwy na przyszłą rekultywację eksploatowanych odkrywek węgla
+(-323) brak opłaty na fundusz wypłaty różnicy ceny, niższy wynik zrealizowany na sprzedaży energii 
+zakupionej, niższe przychody z ciepła, niższe przychody z energii własnej,
+(-32) 
+wyższe przychody z Rynku Mocy, niższe przychody z KDT, brak przychodów z praw majątkowych, 
+(+153) brak kosztów biomasy, niższe koszty energii (w kopalniach), wyższe koszty węgla zakupionego, niższe 
+koszty pozostałych paliw i materiałów (mazut, olej opałowy, sorbent, pozostałe materiały chemiczne 
+do produkcji)
+(+27) niższe koszty emisji CO2
+(-4) 
+wyższe pozostałe przychody, ale niższe przychody budowlane, niższe koszty wynagrodzeń, wyższe 
+koszty zużycia materiałów pozostałych, wyższe pozostałe podatki i opłaty, wyższe usługi obce
+( 378) 
+553 
+175 
+( 323) 
+( 32) 
+153 
+27 
+( 4) 
+31 
+27 
+( 4) 
+EBITDA 
+1Q 2023
+Zdarzenia 
+jednorazowe
+EBITDA 
+1Q 2023
+(porównywalna)
+Produkcja własna, 
+wynik na obrocie 
+energią
+Wsparcie 
+(RM, KDT, PM)
+Paliwo, energia 
+i pozostałe materiały 
+do produkcji
+Koszty CO2
+Pozostałe
+EBITDA 
+1Q 2024
+(porównywalna)
+Zdarzenia 
+jednorazowe
+EBITDA 
+1Q 2024
+Zmiany EBITDA
+1Q 2024
+1Q 2023
+Przychody ze sprzedaży
+520
+1 152 
+Zmiana %
+(54,88)% 
+15,66% 
+Koszt własny sprzedaży
+(464)
+(1 191)
+Zysk brutto ze sprzedaży
+55
+(39) 
+Marża %
+10,58% 
+(3,39)% 
+Pozostałe przychody operacyjne
+18 
+5 
+Koszty sprzedaży
+(0)
+(4)
+Koszty ogólnego zarządu
+(30)
+(54)
+Pozostałe koszty operacyjne
+(22)
+(300)
+EBIT
+23
+(391)
+Marża %
+4,42% 
+(33,94)% 
+Amortyzacja
+4
+13
+EBITDA(1)
+27
+(378) 
+Marża %
+5,19% 
+(32,81)% 
+
+16
+EBITDA 1Q 2024 wg segmentów (1)
+[mln zł]
+Główne przyczyny zmian EBITDA w podstawowych segmentach:
+Wytwarzanie:
+•
+brak opłaty na fundusz wypłaty różnicy ceny, niższy wynik zrealizowany na sprzedaży 
+energii zakupionej, niższe przychody z ciepła, niższe przychody z energii własnej,
+•
+wyższe przychody z Rynku Mocy, ale niższe przychody z KDT i brak przychodów z praw 
+majątkowych, 
+•
+brak kosztów biomasy, wyższe koszty węgla zakupionego, niższe koszty pozostałych 
+paliw i materiałów do produkcji
+•
+niższe koszty uprawnień do emisji dwutlenku węgla 
+•
+wyższe pozostałe przychody, niższe koszty wynagrodzeń, wyższe koszty zużycia 
+materiałów pozostałych, wyższe pozostałe podatki i opłaty, wyższe usługi obce
+Wydobycie:
+•
+wyższe przychody ze sprzedaży węgla, niższe koszty energii elektrycznej, niższe koszty 
+usług obcych, niższe koszty wynagrodzeń, ale wyższe koszty węgla zastępczego, wyższe 
+koszty podatków i opłat
+( 91)
+124 
+( 4)
+-
+( 3)
+1 
+133
+-516
+-4
+1
+-5
+13
+WYTWARZANIE
+WYDOBYCIE
+REMONTY
+SPRZEDAŻ
+POZOSTAŁE
+KOREKTY
+EBITDA
+1Q 2024
+1Q 2023
+553 
+175 
+( 224)
+56 
+1 
+( 1)
+2 
+( 13)
+31 
+( 378)
+( 4)
+27 
+EBITDA 
+1Q 2023
+zdarzenia 
+jednorazowe
+EBITDA 
+1Q 2023
+porównywalna
+WYTWARZANIE
+WYDOBYCIE
+REMONTY
+SPRZEDAŻ
+POZOSTAŁE
+KOREKTY
+EBITDA 
+1Q 2024
+porównywalna
+zdarzenia 
+jednorazowe
+EBITDA 
+1Q 2024
+Zmiany EBITDA
+(1) Wszystkie wartości łącznie z działalności kontynuowanej i zaniechanej.
+
+17
+Skonsolidowany rachunek zysków i strat za 1Q 2024 
+wg segmentów (1)
+mln zł
+Wytwarzanie
+Wydobycie
+Remonty
+Pozostałe
+Korekty 
+konsolidacyjne
+Razem
+Przychody ze sprzedaży do klientów 
+zewnętrznych
+497 
+- 
+21 
+1 
+- 
+520 
+Zewnętrzne przychody ze sprzedaży %
+98,03% 
+0,00% 
+61,76% 
+4,00% 
+0,00% 
+100,00% 
+Przychody ze sprzedaży między segmentami
+10 
+211 
+13 
+24 
+(258)
+- 
+Przychody ze sprzedaży 
+507 
+211 
+34 
+25 
+(258)
+520 
+Koszt własny sprzedaży
+(577)
+(83)
+(34)
+(27)
+257 
+(464)
+Zysk (strata) brutto ze sprzedaży
+(70)
+128 
+- 
+(1)
+(1)
+55 
+Marża %
+(13,81)%
+60,66% 
+- 
+(4,00)%
+0,39% 
+10,58% 
+EBITDA
+(91)
+124 
+(4)
+(3)
+- 
+27 
+Marża %
+(17,95)%
+58,77% 
+(11,76)%
+(12,00)%
+- 
+5,19% 
+EBIT
+(92)
+123 
+(4)
+(4)
+- 
+23 
+Marża %
+(18,15)%
+58,29% 
+(11,76)%
+(16,00)%
+- 
+4,42% 
+Zysk (strata) netto
+(109)
+112 
+(4)
+(4)
+1 
+(5)
+Marża %
+(21,50)%
+53,08% 
+(11,76)%
+(16,00)%
+(0,39)%
+(0,96)%
+(1) Wszystkie wartości łącznie z działalności kontynuowanej i zaniechanej.
+
+18
+Działalność finansowa, podatek i wynik netto (1)
+[mln zł]
+EBIT --˃ strata netto
+(1) Za wysokość przychodów finansowych odpowiadają przede wszystkim przychody odsetkowe, 
+które są niższe o 5,1 milionów od zrealizowanych w 1Q 2023.
+(2) Za wysokość kosztów finansowych przede wszystkim odpowiadają strata zrealizowana na 
+sprzedaży wierzytelności oraz zrealizowane ujemne różnice kursowe i odwrócona wartość 
+dyskonta rezerwy na rekultywację. W analogicznym okresie ubiegłego roku największą wartość 
+stanowiły koszty odsetkowe, które były wyższe o 21,7 miliona złotych od zrealizowanych w 1Q 
+2024 roku.
+(3) Na wartość podatków w wysokości 13 milionów złotych składa się bieżące obciążenie z tytułu 
+podatku w wysokości 8 milionów złotych i odroczony podatek w wysokości 5 milionów złotych.
+1Q 2024
+1Q 2023
+EBIT
+23
+(391) 
+Przychody finansowe (1)
+6 
+12 
+Koszty finansowe (2)
+(21)
+(34)
+Zysk (Strata) brutto
+8
+(414) 
+Podatek dochodowy (obciążenie podatkowe)(3)
+(13)
+39
+Efektywna stopa podatkowa
+(162,50)% 
+9,42% 
+Zysk (Strata) netto
+(5)
+(374) 
+Marża %
+(0,96)% 
+(32,47)% 
+23 
+( 15) 
+( 13) 
+( 5) 
+EBIT 
+1Q 2024
+Wynik na 
+działalności 
+finansowej
+Podatek 
+dochodowy
+Strata netto 
+1Q 2024
+(1) Wszystkie wartości łącznie z działalności kontynuowanej i zaniechanej.
+
+INWESTYCJE
+19
+
+20
+Projekt budowy bloku gazowo-parowego (CCGT - Combined Cycle Gas 
+Turbine) w Turku zlokalizowanej na terenie byłej elektrowni węglowej
+KLUCZOWE PARAMETRY
+NAZWA PROJEKTU
+FAZA PROJEKTU
+PRODUKCJA
+LOKALIZACJA
+CCGT Adamów
+Realizacja
+1Q 2027
+MOC ZAINSTALOWANA 
+561 MW
+Blok: miasto Turek, woj. wielkopolskie
+Gazociągi: gmina Turek, gmina 
+Przykona
+Jednostka jednowałowa: z jedną turbiną gazową SGT4 
+4000F, generatorem SGEN5-3000W, kotłem odzyskowym 
+(HRSG), turbozespołem parowym kondensacyjnym 
+SST5-5000 i chłodnią wentylatorową mokrą
+»
+Moc zainstalowana: 561 MW
+»
+Wygrana aukcja rynku mocy: 400 390 PLN/MW/rok 
+(przez 17 lat), 493 MW
+»
+Oczekiwany czas eksploatacji: 25 lat
+
+21
+STATUS PRAC
+Ø
+1 września 2023 roku podpisany został 
+kontrakt z generalnym wykonawcą - 
+konsorcjum Siemens/Mytilineos na 
+realizację budowy w formule EPC na 
+kwotę 2,3 mld PLN.
+Ø
+24 października 2023 roku uzyskano 
+pozwolenie na budowę dla części 
+blokowej bloku CCGT a 31 października 
+2023 roku uzyskano postanowienie o 
+rygorze natychmiastowej wykonalności 
+dla decyzji Pozwolenia na Budowę.
+Plac budowy przyszłej elektrowni CCGT 
+Adamów
+Projekt budowy bloku gazowo-parowego (CCGT - Combined Cycle Gas 
+Turbine) w Turku na obszarze nieczynnej elektrowni Adamów
+Była elektrownia węglowa Adamów
+Ø 20 listopada 2023 roku Rada Nadzorcza PAK CCGT sp. z o.o. wyraziła 
+zgodę na przeprowadzenie procedury uruchomienia Umowy EPC („Notice 
+To Proceed”) oraz dokonanie wpłaty przez PAK CCGT sp. z o.o. zaliczki na 
+rzecz Konsorcjum w wysokości 20% ceny Umowy EPC.
+Ø W grudniu 2023 roku rozpoczęto prace wykonawcze.
+
+22
+Niniejsza prezentacja („Prezentacja”) ma charakter wyłącznie informacyjny i nie należy jej traktować jako porady inwestycyjnej. 
+Prezentacja została sporządzona przez ZE PAK SA („Spółka”). 
+Odbiorcy Prezentacji ponoszą wyłączną odpowiedzialność za własne analizy i oceny rynku oraz sytuacji rynkowej Spółki 
+i potencjalnych wyników Spółki w przyszłości, dokonane w oparciu o informacje zawarte w Prezentacji.
+Spółka ani żaden jej podmiot zależny nie ponosi odpowiedzialności za skutki decyzji podjętych na podstawie 
+lub w oparciu o informacje zawarte w Prezentacji.
+Spółka ani żaden jej podmiot zależny nie ma obowiązku przekazywania do publicznej wiadomości aktualizacji 
+i zmian informacji, danych oraz oświadczeń znajdujących się w Prezentacji. 
+Spółka zwraca uwagę osobom zapoznającym się z Prezentacją, że jedynym wiarygodnym źródłem danych dotyczących wyników 
+finansowych Spółki, a także prognoz, zdarzeń oraz wskaźników jej dotyczących są raporty bieżące i okresowe przekazywane przez 
+Spółkę w ramach wykonywania obowiązków informacyjnych spółki publicznej.
+Zastrzeżenie

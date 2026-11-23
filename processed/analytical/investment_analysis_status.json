@@ -1,9 +1,46 @@
 {
   "confirmed_events": 3,
-  "unreviewed_communications": 1729,
+  "unreviewed_communications": 1757,
+  "unreviewed_candidates": 119,
+  "open_catalog_issues_in_scope": 0,
+  "open_catalog_issue_counts": {},
   "events_with_linked_report": 1,
+  "reviewed_report_link_statuses": {
+    "no_earlier_reviewed_report": 2,
+    "linked": 1
+  },
   "events_with_complete_car": 3,
+  "undetermined_revision_events_with_car": 1,
+  "candidate_reference_chronology": {
+    "candidates": 123,
+    "references_matching_registry": 123,
+    "strictly_earlier": 123,
+    "no_newer_periodic_report": 117,
+    "newer_periodic_report_present": 6,
+    "order_unconfirmed": 0
+  },
   "validation_status": "pending_review",
+  "sentiment_validation": {
+    "status": "pending_review",
+    "calibration_pool": 108,
+    "holdout_pool": 290,
+    "holdout_size": 100,
+    "pool_origin": "automatic_topic_screen",
+    "holdout_by_ticker": {
+      "TPE": 11,
+      "ENA": 13,
+      "UNT": 16,
+      "PKN": 15,
+      "JSW": 15,
+      "PGE": 13,
+      "ZEP": 17
+    },
+    "lexicon_version": "investment-pl-0.1",
+    "neutral_cutoff": null,
+    "holdout_metrics": [],
+    "reviewed_calibration": 0,
+    "reviewed_holdout": 0
+  },
   "models": {
     "baseline_all": {
       "status": "awaiting_screening_or_validation",

@@ -2,12 +2,19 @@
 
 from __future__ import annotations
 
-from collections import defaultdict
+import base64
+from collections import Counter, defaultdict
 import hashlib
+from io import BytesIO
 import json
+import os
 from pathlib import Path
 import re
+import shutil
 import subprocess
+import sys
+from tempfile import TemporaryDirectory
+import unicodedata
 from zipfile import ZipFile
 
 import numpy as np
@@ -28,7 +35,17 @@ PASSAGE_COLUMNS = ["document_id", "start_char", "end_char", "project_id", "sourc
 POOL_COLUMNS = ["document_id", "start_char", "end_char", "split"]
 LABELS = ("negative", "neutral", "positive")
 WORD_RE = re.compile(r"[^\W\d_]+", re.UNICODE)
+NARRATIVE_TYPES = {"management_report", "management_commentary", "financial_notes", "ceo_letter", "integrated_report"}
+CORE_PERIODS = {"Q1", "H1", "Q3", "AR"}
+REFERENCE_LIST = REPORTS / "publication_archive" / "event_periodic_references.csv"
+INVESTMENT_LANGUAGE = re.compile(
+    r"\b(?:inwestycj\w*|nakład\w*|capex|modernizacj\w*|rozbudow\w*|"
+    r"harmonogram\w*|dekarbonizacj\w*|budow\w*|projekt\w*)\b", re.I,
+)
 AR_PACKAGE = re.compile(r"TPE_20(?:20|21|22|23|24|25)_AR_skonsolidowany\.(?:pdf|zip|7z)$", re.I)
+BASELINE_ARCHIVE = re.compile(
+    r"(?:PKN|TPE)_2019_(?:Q3|AR)_(?:sprawozdanie|skonsolidowany)\.(?:zip|7z|pdf)$", re.I,
+)
 ORLEN_PILOT_PACKAGES = {
     "PKN_2021_Q1_sprawozdanie.zip",
     "PKN_2023_Q1_sprawozdanie.zip",
@@ -90,14 +107,18 @@ def read_management_archive(path: Path) -> tuple[str, str]:
             raise RuntimeError("Reading TAURON 7z packages requires bsdtar (libarchive).") from error
     else:
         raise ValueError(f"{path.name}: unsupported annual-report archive")
-    page = html.fromstring(xhtml, parser=html.HTMLParser(encoding="utf-8", no_network=True))
-    for el in page.xpath("//script|//style|//head|//*[name()='ix:header' or name()='ix:hidden']"):
-        el.drop_tree()
-    blocks = [" ".join(line.split()) for line in page.text_content().splitlines() if line.strip()]
-    text = "\n".join(blocks)
+    text = text_from_xhtml(xhtml)
     if len(text) < 100:
         raise ValueError(f"{path.name}: management XHTML has no usable text")
     return text, member
+
+
+def text_from_xhtml(xhtml: bytes) -> str:
+    page = html.fromstring(xhtml, parser=html.HTMLParser(encoding="utf-8", no_network=True, huge_tree=True))
+    for el in page.xpath("//script|//style|//head|//*[name()='ix:header' or name()='ix:hidden']"):
+        el.drop_tree()
+    blocks = [" ".join(line.split()) for line in page.text_content().splitlines() if line.strip()]
+    return "\n".join(blocks)
 
 
 def read_orlen_archive(path: Path, extract_pdf_text) -> tuple[str, str, str]:
@@ -111,77 +132,311 @@ def read_orlen_archive(path: Path, extract_pdf_text) -> tuple[str, str, str]:
     return text, member.filename, status
 
 
-def load_publications(path: Path) -> pd.DataFrame:
-    rows = read_input(path, PUBLICATION_COLUMNS)[PUBLICATION_COLUMNS]
-    if rows["report_id"].duplicated().any():
-        raise ValueError("The publication registry has duplicate report IDs.")
+def read_baseline_archive(path: Path, extract_pdf_text) -> tuple[str, str, str, str]:
+    with path.open("rb") as stream:
+        signature = stream.read(6)
+    if signature.startswith(b"%PDF-"):
+        text, _, status = extract_pdf_text(path)
+        return text, "", status, "pdf"
+    if signature.startswith(b"PK\x03\x04"):
+        with ZipFile(path) as archive:
+            reports = [member for member in archive.infolist() if member.filename.lower().endswith(".pdf")]
+            management = [member for member in reports if re.search(
+                r"sprawozdani\w*[-_.\s]*zarz[ąa]du|management[-_.\s]*report", Path(member.filename).name, re.I,
+            )]
+            if reports:
+                selected = max(management or reports, key=lambda member: member.file_size)
+                text, _, status = extract_pdf_text(archive.read(selected))
+                return text, selected.filename, status, "management_pdf_from_zip" if management else "periodic_report_pdf_from_zip"
+    text, member = read_management_archive(path)
+    return text, member, "ok", "management_xhtml"
+
+
+def load_publications(path: Path, id_column="report_id") -> pd.DataFrame:
+    columns = [id_column, *PUBLICATION_COLUMNS[1:]]
+    rows = read_input(path, columns)[columns]
+    if rows[id_column].duplicated().any():
+        raise ValueError(f"{path.name}: duplicate {id_column}.")
     for row in rows.itertuples(index=False):
-        if not row.report_id or not row.source_url.startswith(("https://", "http://")):
+        identifier = getattr(row, id_column)
+        if not identifier or not row.source_url.startswith(("https://", "http://")):
             raise ValueError("Every publication row needs a report ID and a source URL.")
         if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", row.publication_date):
-            raise ValueError(f"{row.report_id}: publication date must use YYYY-MM-DD.")
+            raise ValueError(f"{identifier}: publication date must use YYYY-MM-DD.")
         day = pd.Timestamp(row.publication_date).date()
         if row.published_at:
             instant = pd.Timestamp(row.published_at)
             if instant.tzinfo is None or instant.tz_convert("Europe/Warsaw").date() != day:
-                raise ValueError(f"{row.report_id}: publication timestamp must include timezone and match the date.")
+                raise ValueError(f"{identifier}: publication timestamp must include timezone and match the date.")
     return rows
 
 
+def member_role(name: str) -> str:
+    stem = Path(name).stem.casefold().replace("ł", "l")
+    ascii_stem = unicodedata.normalize("NFKD", stem).encode("ascii", "ignore").decode()
+    plain = re.sub(r"[^a-z0-9]", "", ascii_stem)
+    folder = unicodedata.normalize("NFKD", str(Path(name).parent).casefold()).encode("ascii", "ignore").decode()
+    folder = re.sub(r"[^a-z0-9]", "", folder)
+    if any(value in plain for value in (
+        "platnosci", "wybranedane", "wybraneskonsolidowanedane", "audyt", "rewident", "sprzbad",
+        "sprawozdaniezbadania", "przegladu", "review", "oswiadczenie", "oswzarzadu", "oswrn",
+        "ocenarn", "ocenarady", "infzarzaud", "infzarzates", "atest", "informacjiniefinansow",
+        "sprawozdanieniefinansow", "raportniefinansow",
+    )) or any(value in folder for value in ("opinianiezale", "bieglegorewidenta", "sprawozdaniezbadania", "firmyaudytorskiej")):
+        return ""
+    if any(value in plain for value in ("sprawozdaniezarzadu", "sprzarzadu", "managementreport", "szzd")):
+        return "management_report"
+    if "listprezes" in plain or "ceoletter" in plain:
+        return "ceo_letter"
+    if plain.startswith("opispknmsr"):
+        return "financial_statement"
+    if plain.startswith(("opis", "pozostaleinformacje", "komentarz")):
+        return "management_commentary"
+    return "financial_statement"
+
+
+def selected_members(names: list[str], source_type: str, sizes=None) -> dict:
+    sizes = sizes or {}
+    candidates = defaultdict(list)
+    for name in names:
+        suffix = Path(name).suffix.lower()
+        if suffix not in {".pdf", ".xhtml", ".html", ".htm", ".zip", ".xbri"}:
+            continue
+        role = member_role(name)
+        if role:
+            candidates[role].append(name)
+    if source_type == "management_report" and not candidates["management_report"]:
+        if len(candidates["financial_statement"]) == 1:
+            candidates["management_report"] = candidates.pop("financial_statement")
+    for role in list(candidates):
+        if source_type == "management_report" and role != "management_report":
+            del candidates[role]
+    def best(name):
+        stem = Path(name).stem.casefold()
+        return (
+            bool(re.search(r"(?:_en|_eng|-en|english)(?:$|[._ -])", stem)),
+            not any(marker in stem for marker in ("raport", "ssf", "sprfinan", "sprawozdanie", "pkn msr")),
+            Path(name).suffix.lower() in {".zip", ".xbri"},
+            -sizes.get(name, 0),
+            name,
+        )
+    return {role: min(files, key=best) for role, files in candidates.items() if files}
+
+
+def archive_payloads(source: Path, source_type: str, signature: bytes) -> list[tuple[str, str, bytes]]:
+    if signature.startswith(b"PK\x03\x04"):
+        with ZipFile(source) as archive:
+            sizes = {entry.filename: entry.file_size for entry in archive.infolist() if not entry.is_dir()}
+            entries = [(role, name, archive.read(name))
+                       for role, name in selected_members(list(sizes), source_type, sizes).items()]
+    else:
+        executable = shutil.which("bsdtar") or shutil.which("tar")
+        if not executable:
+            raise RuntimeError("Reading TAURON 7z packages requires bsdtar (libarchive).")
+        listing = subprocess.run([executable, "-tf", str(source)], capture_output=True, check=True)
+        names = [
+            member.rsplit(b"/", 1)[-1].decode("ascii") for member in listing.stdout.splitlines()
+            if member.rsplit(b"/", 1)[-1].isascii()
+        ]
+        entries = []
+        for role, name in selected_members(names, source_type).items():
+            if names.count(name) != 1:
+                raise ValueError(f"Ambiguous archive basename {source.name}: {name}")
+            payload = subprocess.run(
+                [executable, "-xOf", str(source), "--", "*" + name], capture_output=True, check=True,
+            ).stdout
+            entries.append((role, name, payload))
+    output = []
+    for role, name, payload in entries:
+        if not payload.startswith(b"PK\x03\x04"):
+            output.append((role, name, payload))
+        else:
+            # An ESEF package may contain a further ZIP with the XHTML filing.
+            with ZipFile(BytesIO(payload)) as inner:
+                sizes = {entry.filename: entry.file_size for entry in inner.infolist() if not entry.is_dir()}
+                for nested_role, nested in selected_members(list(sizes), "periodic_statement", sizes).items():
+                    if Path(nested).suffix.lower() not in {".zip", ".xbri"}:
+                        output.append((nested_role, name + "!/" + nested, inner.read(nested)))
+    return output
+
+
+def recognize_image_pdf(source):
+    """Use the installed Windows Polish OCR engine without network access."""
+    if sys.platform != "win32" or not (powershell := shutil.which("powershell.exe")):
+        return ""
+    import pymupdf
+
+    with TemporaryDirectory() as temporary:
+        if isinstance(source, bytes):
+            document = pymupdf.open(stream=source, filetype="pdf")
+        else:
+            document = pymupdf.open(source)
+        with document:
+            for index, page in enumerate(document):
+                scale = min(2.5, 3000 / max(page.rect.width, page.rect.height))
+                png = page.get_pixmap(matrix=pymupdf.Matrix(scale, scale), colorspace=pymupdf.csGRAY)
+                png.save(Path(temporary) / f"{index:06}.png")
+        script = Path(__file__).with_name("ocr_pages.ps1").read_text(encoding="utf-8")
+        command = "& {\n" + script + "\n} -PageDirectory $env:MAGISTERKA_OCR_PAGE_DIR"
+        encoded = base64.b64encode(command.encode("utf-16-le")).decode("ascii")
+        try:
+            parsed = subprocess.run(
+                [powershell, "-NoProfile", "-NonInteractive", "-EncodedCommand", encoded],
+                env={**os.environ, "MAGISTERKA_OCR_PAGE_DIR": temporary},
+                capture_output=True, encoding="utf-8", check=True, timeout=240,
+                creationflags=subprocess.CREATE_NO_WINDOW,
+            )
+            return "\n\n".join(json.loads(parsed.stdout)).strip()
+        except (subprocess.SubprocessError, OSError, ValueError) as error:
+            print(f"Local Polish OCR unavailable for a scanned PDF ({type(error).__name__}).", flush=True)
+            return ""
+
+
+def read_pdf_component(source, role, basis, extract_pdf_text):
+    text, _, status = extract_pdf_text(source)
+    if status == "low_text" and role in {"presentation", "ceo_letter"}:
+        recognized = recognize_image_pdf(source)
+        if len(recognized) >= 100:
+            return recognized, "ok", basis + "_ocr_pl"
+    return text, status, basis
+
+
+def read_source(source: Path, source_type: str, extract_pdf_text):
+    with source.open("rb") as stream:
+        signature = stream.read(6)
+    if signature.startswith((b"PK\x03\x04", b"7z\xbc\xaf\x27\x1c")):
+        entries = archive_payloads(source, source_type, signature)
+        for role, member, payload in entries:
+            if payload.startswith(b"%PDF-"):
+                text, status, basis = read_pdf_component(payload, role, "archive_pdf", extract_pdf_text)
+                yield role, member, text, status, basis
+            else:
+                text = text_from_xhtml(payload)
+                yield role, member, text, "ok" if len(text) >= 100 else "low_text", "archive_xhtml"
+        return
+    role = "financial_statement" if source_type in {"periodic_statement", "consolidated_package"} else source_type
+    if source.suffix.lower() in {".xhtml", ".html", ".htm"}:
+        text = text_from_xhtml(source.read_bytes())
+        yield role, "", text, "ok" if len(text) >= 100 else "low_text", "xhtml"
+    else:
+        text, status, basis = read_pdf_component(source, role, "pdf", extract_pdf_text)
+        yield role, "", text, status, basis
+
+
+def split_narrative(text: str) -> tuple[str, str]:
+    """Extract explicit commentary or connected prose in the explanatory notes."""
+    headings = re.compile(
+        r"(?im)^[ \t]*(?:\d+(?:\.\d+)*\.? *)?(?:pozostałe informacje do (?:rozszerzonego )?skonsolidowanego "
+        r"raportu|sprawozdanie zarządu z działalności)(?:[ \t]+[^.\n]{0,65})?[ \t]*$",
+    )
+    starts = [match.end() for match in headings.finditer(text) if match.start() >= len(text) // 5]
+    if starts:
+        section = text[starts[0]:].strip()
+        if len(section) >= 400 and INVESTMENT_LANGUAGE.search(section):
+            return "management_commentary", section
+    # PDF line breaks are visual. Keep complete sentences with explanatory prose.
+    source = re.sub(r"\s+", " ", text)
+    parts = [
+        part.strip() for part in re.split(r"(?<=[.!?])\s+(?=[A-ZĄĆĘŁŃÓŚŹŻ])", source)
+        if 90 <= len(part.strip()) <= 3500 and len(WORD_RE.findall(part)) >= 12
+    ]
+    relevant = {i for i, part in enumerate(parts) if INVESTMENT_LANGUAGE.search(part)}
+    if relevant:
+        indices = sorted({j for i in relevant for j in range(max(0, i - 1), min(len(parts), i + 2))})
+        parts = [parts[i] for i in indices]
+    return "financial_notes", "\n\n".join(parts)
+
+
 def make_manifest(docs: list[dict], extract_pdf_text) -> pd.DataFrame:
-    previous_path = CORPUS / "manifest.csv"
-    prior = read_input(previous_path, ["filename", "text_path", "extract_status"])
-    prior = {Path(row.filename).stem: row for row in prior.itertuples(index=False)}
+    old = read_input(REPORT_MANIFEST, ["document_id", "text_path", "source_path", "archive_member",
+                                      "text_basis", "extract_status"])
+    old_docs = old.set_index("document_id").to_dict("index")
+    protected = set(read_input(METADATA / "investment_passages.csv", PASSAGE_COLUMNS)["document_id"])
+    protected |= set(read_input(METADATA / "sentiment_validation_pool.csv", POOL_COLUMNS)["document_id"])
     outputs = CORPUS / "report_texts"
     outputs.mkdir(parents=True, exist_ok=True)
     research_tickers = set(load_study_scope()["tickers"])
+    has_separate_narrative = {
+        (row["ticker"], row["year"], row["period"]) for row in docs
+        if row["doc_type"] in {"management_report", "management_commentary"}
+    }
     rows = []
     for doc in docs:
         source = Path(doc["abs_path"])
         stem = source.stem
-        ar_member = ""
-        cached = prior.get(stem)
-        if AR_PACKAGE.fullmatch(source.name):
-            text, ar_member = read_management_archive(source)
-            text_path = outputs / f"{stem}.txt"
-            text_path.write_text(text, encoding="utf-8")
-            status = "ok"
-            text_basis = "management_xhtml"
-        elif source.name in ORLEN_PILOT_PACKAGES:
-            text, ar_member, status = read_orlen_archive(source, extract_pdf_text)
-            text_path = outputs / f"{stem}.txt"
-            text_path.write_text(text, encoding="utf-8")
-            text_basis = "periodic_report_pdf_from_zip"
-        elif cached and cached.extract_status == "ok" and resolve_data_file(cached.text_path).is_file():
-            text_path = resolve_data_file(cached.text_path)
-            status = cached.extract_status
-            text_basis = cached.segment
-        else:
-            text, _, status = extract_pdf_text(source)
-            text_path = outputs / f"{stem}.txt"
-            text_path.write_text(text, encoding="utf-8")
-            text_basis = "pdf"
-        rows.append({
-            "report_id": f"{doc['ticker']}-{doc['year']}-{doc['period']}",
-            "document_id": stem,
-            "ticker": doc["ticker"],
-            "fiscal_year": doc["year"],
-            "period": doc["period"],
-            "document_type": doc["doc_type"],
-            "sample_role": "study" if doc["ticker"] in research_tickers else "validation_candidate",
-            "source_path": data_relative(source),
-            "archive_member": ar_member,
-            "text_path": data_relative(text_path),
-            "text_basis": text_basis,
-            "extract_status": status,
-        })
+        components = list(read_source(source, doc["doc_type"], extract_pdf_text))
+        components.sort(key=lambda item: {"management_report": 0, "financial_statement": 1,
+                                          "management_commentary": 2}.get(item[0], 3))
+        known_roles = {item[0] for item in components}
+        extracted = []
+        for i, (kind, member, body, status, basis) in enumerate(components):
+            identifier = stem if i == 0 else f"{stem}__{kind}"
+            if identifier in protected:
+                original = old_docs.get(identifier)
+                if not original or original["source_path"] != data_relative(source):
+                    raise ValueError(f"Missing original text for registered offsets: {identifier}")
+                text_path = resolve_data_file(original["text_path"])
+                body = text_path.read_text(encoding="utf-8")
+                member, basis, status = original["archive_member"], original["text_basis"], original["extract_status"]
+            else:
+                text_path = outputs / f"{identifier}.txt"
+                text_path.write_text(body, encoding="utf-8")
+            extracted.append((identifier, kind, member, text_path, basis, status))
+            if (kind == "financial_statement" and status == "ok"
+                    and not known_roles & {"management_report", "management_commentary"}
+                    and (doc["ticker"], doc["year"], doc["period"]) not in has_separate_narrative):
+                role, narrative = split_narrative(body)
+                if len(narrative) >= 100:
+                    identifier = f"{stem}__narrative"
+                    path = outputs / f"{identifier}.txt"
+                    if identifier in protected:
+                        if identifier not in old_docs:
+                            raise ValueError(f"Missing original text for registered offsets: {identifier}")
+                        path = resolve_data_file(old_docs[identifier]["text_path"])
+                    else:
+                        path.write_text(narrative, encoding="utf-8")
+                    extracted.append((identifier, role, member, path, f"narrative_from_{basis}", "ok"))
+        for identifier, kind, member, path, basis, status in extracted:
+            rows.append({
+                "report_id": f"{doc['ticker']}-{doc['year']}-{doc['period']}",
+                "document_id": identifier,
+                "ticker": doc["ticker"],
+                "fiscal_year": doc["year"],
+                "period": doc["period"],
+                "document_type": kind,
+                "is_narrative": kind in NARRATIVE_TYPES,
+                "sample_role": "study" if doc["ticker"] in research_tickers else "validation_candidate",
+                "source_path": data_relative(source),
+                "archive_member": member,
+                "text_path": data_relative(path),
+                "text_basis": basis,
+                "extract_status": status,
+            })
     columns = ["report_id", "document_id", "ticker", "fiscal_year", "period", "document_type",
-               "sample_role", "source_path", "archive_member", "text_path", "text_basis", "extract_status"]
+               "is_narrative", "sample_role", "source_path", "archive_member", "text_path", "text_basis", "extract_status"]
     manifest = pd.DataFrame(rows, columns=columns)
     if manifest["document_id"].duplicated().any():
         raise ValueError("Duplicate document identifier in corpus.")
-    return manifest.merge(load_publications(METADATA / "report_publications.csv"), on="report_id",
-                          how="left", validate="many_to_one").fillna("")
+    manifest = manifest.merge(load_publications(METADATA / "report_publications.csv"), on="report_id",
+                              how="left", validate="many_to_one")
+    has_separate_publication = manifest["document_type"].isin({"presentation", "integrated_report"}) | (
+        manifest["document_type"].eq("ceo_letter") & manifest["archive_member"].eq("")
+    )
+    manifest.loc[has_separate_publication, PUBLICATION_COLUMNS[1:]] = ""
+    doc_publications = load_publications(METADATA / "report_document_publications.csv", "document_id")
+    if not doc_publications.empty:
+        manifest = manifest.merge(doc_publications, on="document_id", how="left", validate="one_to_one",
+                                  suffixes=("", "_document"))
+        has_override = manifest["source_url_document"].notna()
+        for field in PUBLICATION_COLUMNS[1:]:
+            manifest[field] = manifest.pop(field + "_document").where(has_override, manifest[field])
+    published = pd.to_datetime(manifest["published_at"], utc=True, errors="coerce", format="mixed")
+    manifest["publication_time"] = published.dt.tz_convert("Europe/Warsaw").dt.strftime("%H:%M:%S")
+    manifest["publication_precision"] = np.select(
+        [published.notna(), manifest["publication_date"].fillna("").ne("")], ["timestamp", "date"], default="unknown",
+    )
+    manifest["is_supplementary"] = manifest["document_type"].isin({"presentation", "ceo_letter", "integrated_report"})
+    return manifest.fillna("")
 
 
 def load_lexicon(path: Path) -> dict:
@@ -324,8 +579,42 @@ def write_blind_sample(records: list[dict], path: Path) -> None:
     output.to_csv(path, index=False, encoding="utf-8-sig")
 
 
+def automatic_validation_pool(manifest: pd.DataFrame, investment_reports: set[str]) -> pd.DataFrame:
+    references = read_input(REFERENCE_LIST, ["reference_report_id"])
+    excluded = investment_reports | set(references["reference_report_id"])
+    usable = manifest.loc[
+        manifest["is_narrative"] & ~manifest["is_supplementary"] & manifest["extract_status"].eq("ok")
+        & manifest["publication_date"].ne("") & ~manifest["report_id"].isin(excluded)
+    ].copy()
+    priority = {"management_report": 0, "management_commentary": 1, "financial_notes": 2}
+    usable["priority"] = usable["document_type"].map(priority)
+    reports = usable.sort_values(["priority", "document_id"]).drop_duplicates("report_id")
+    records = []
+    for _, group in reports.sort_values(["ticker", "fiscal_year", "report_id"]).groupby("ticker"):
+        for i, doc in enumerate(group.itertuples(index=False)):
+            source = resolve_data_file(doc.text_path).read_text(encoding="utf-8")
+            words = list(WORD_RE.finditer(source))
+            options = []
+            for index in range(0, len(words) - 42, 58):
+                start, end = words[index].start(), words[index + 42].end()
+                fragment = source[start:end]
+                if len(fragment) <= 775 and INVESTMENT_LANGUAGE.search(fragment):
+                    options.append((start, end))
+            split = "calibration" if i % 4 == 0 else "holdout"
+            seed = int(hashlib.sha256(doc.report_id.encode("utf-8")).hexdigest()[:8], 16)
+            random = np.random.default_rng(seed)
+            for choice in sorted(random.permutation(len(options))[:4]):
+                start, end = options[choice]
+                records.append({"document_id": doc.document_id, "start_char": start, "end_char": end, "split": split})
+    return pd.DataFrame(records, columns=POOL_COLUMNS)
+
+
 def run_validation(manifest: pd.DataFrame, investment_reports: set[str], lexicon: dict) -> dict:
     pool = read_input(METADATA / "sentiment_validation_pool.csv", POOL_COLUMNS)
+    origin = "reviewer_registry"
+    if pool.empty:
+        pool = automatic_validation_pool(manifest, investment_reports)
+        origin = "automatic_topic_screen"
     records = extract_registered_spans(pool, manifest)
     if any(row["split"] not in {"calibration", "holdout"} for row in records):
         raise ValueError("Validation split must be calibration or holdout.")
@@ -337,6 +626,8 @@ def run_validation(manifest: pd.DataFrame, investment_reports: set[str], lexicon
     if holdout_reports & (cal_reports | investment_reports):
         raise ValueError("Holdout reports must differ from calibration and event-study reports.")
     VALIDATION.mkdir(parents=True, exist_ok=True)
+    if origin == "automatic_topic_screen":
+        pool.to_csv(VALIDATION / "validation_pool_auto.csv", index=False, encoding="utf-8-sig")
     available = by_split["holdout"]
     sampled = []
     if len(available) >= 100:
@@ -355,6 +646,8 @@ def run_validation(manifest: pd.DataFrame, investment_reports: set[str], lexicon
                     sampled.append(group.pop())
     result = {"status": "pending_review", "calibration_pool": len(by_split["calibration"]),
               "holdout_pool": len(available), "holdout_size": len(sampled),
+              "pool_origin": origin,
+              "holdout_by_ticker": dict(Counter(row["ticker"] for row in sampled)),
               "lexicon_version": lexicon["version"], "neutral_cutoff": None, "holdout_metrics": []}
     labels = {}
     for split, selection in (("calibration", by_split["calibration"]), ("validation", sampled)):
@@ -364,6 +657,8 @@ def run_validation(manifest: pd.DataFrame, investment_reports: set[str], lexicon
             labels[split] = read_input(file, ["reviewer_label"])["reviewer_label"].tolist()
             if any(label and label not in LABELS for label in labels[split]):
                 raise ValueError(f"Unknown label in {file.name}.")
+    result["reviewed_calibration"] = sum(bool(value) for value in labels.get("calibration", []))
+    result["reviewed_holdout"] = sum(bool(value) for value in labels.get("validation", []))
     calibration = by_split["calibration"]
     if calibration and set(labels["calibration"]) == set(LABELS):
         scores = np.array([score_passage(row["text"], lexicon)["tone_per_100_words"] for row in calibration], dtype=float)
@@ -384,10 +679,32 @@ def run_validation(manifest: pd.DataFrame, investment_reports: set[str], lexicon
     return result
 
 
+def verify_corpus_coverage(manifest: pd.DataFrame, scope: dict) -> dict:
+    references = read_input(REFERENCE_LIST, ["reference_report_id"])
+    receipts = REPORTS / "manifest_stage3_bundles.json"
+    baseline = set()
+    if receipts.exists():
+        baseline = {row["report_id"] for row in json.loads(receipts.read_text(encoding="utf-8"))["files"].values()}
+    first, last = (int(scope["period"][boundary][:4]) for boundary in ("start", "end"))
+    expected = {f"{ticker}-{year}-{period}" for ticker in scope["tickers"]
+                for year in range(first, last + 1) for period in CORE_PERIODS}
+    reference_ids = set(references["reference_report_id"]) - {""}
+    coverage = set(manifest.loc[
+        manifest["is_narrative"] & ~manifest["is_supplementary"] & manifest["extract_status"].eq("ok")
+        & manifest["publication_date"].ne(""), "report_id",
+    ])
+    missing = (expected | baseline | reference_ids) - coverage
+    if missing:
+        raise ValueError("Reports without dated narrative text: " + ", ".join(sorted(missing)))
+    return {"core_reports": len(expected & coverage), "baseline_reports": len(baseline & coverage),
+            "reference_reports": len(reference_ids & coverage), "reference_events": len(references)}
+
+
 def build_current_corpus(docs: list[dict], extract_pdf_text) -> None:
     CORPUS.mkdir(parents=True, exist_ok=True)
     SENTIMENT.mkdir(parents=True, exist_ok=True)
     manifest = make_manifest(docs, extract_pdf_text)
+    coverage = verify_corpus_coverage(manifest, load_study_scope())
     manifest.to_csv(REPORT_MANIFEST, index=False, encoding="utf-8-sig")
     lexicon = load_lexicon(METADATA / "investment_tone_lexicon.json")
     reviewed = write_passage_scores(manifest, lexicon)
@@ -396,4 +713,5 @@ def build_current_corpus(docs: list[dict], extract_pdf_text) -> None:
     print(f"Documents: {len(study)} study ({study['extract_status'].eq('ok').sum()} extracted), "
           f"{len(manifest) - len(study)} external; "
           f"reports with verified publication dates: {study.loc[study['publication_date'].ne(''), 'report_id'].nunique()}; "
-          f"reviewed investment reports: {len(reviewed)}; validation: {validation['status']}")
+          f"reviewed investment reports: {len(reviewed)}; validation: {validation['status']}; "
+          f"coverage: {coverage}; blind holdout: {validation['holdout_size']}")

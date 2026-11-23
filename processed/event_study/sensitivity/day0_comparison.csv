@@ -1,4 +1,4 @@
 ﻿event_id,ticker,day0_baseline,car_baseline,status_baseline,overlap_baseline,n_ar_baseline,day0_same_session,car_same_session,status_same_session,overlap_same_session,n_ar_same_session,delta_car_same_minus_baseline,day0_changed
-PKN_2021_27,PKN,2021-05-25,-0.004314372390951776,complete,False,3,2021-05-24,-0.024651394196900187,complete,False,3,-0.020337021805948412,True
-PKN_2023_30,PKN,2023-06-30,-0.02797907829662432,complete,False,3,2023-06-29,-0.028215897333650153,complete,False,3,-0.000236819037025833,True
+PKN_2021_27,PKN,2021-05-24,-0.024651394196900187,complete,False,3,2021-05-24,-0.024651394196900187,complete,False,3,0.0,False
+PKN_2023_30,PKN,2023-06-30,-0.02797907829662432,complete,False,3,2023-06-30,-0.02797907829662432,complete,False,3,0.0,False
 PKN_2024_64,PKN,2024-12-11,-0.06735554946675334,complete,False,3,2024-12-11,-0.06735554946675334,complete,False,3,0.0,False

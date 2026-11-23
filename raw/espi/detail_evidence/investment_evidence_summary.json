@@ -1,0 +1,19 @@
+{
+  "screened": 1761,
+  "full_text_available": 1761,
+  "full_text_unavailable": 0,
+  "title_candidates_all": 25,
+  "title_candidates_comparable": 25,
+  "full_text_candidates": 116,
+  "additional_full_text_candidates": 98,
+  "union_candidates": 123,
+  "mandatory_olefiny_in_queue": 6,
+  "candidate_verified_time": 123,
+  "unique_referenced_disclosures": 30,
+  "prior_reports_to_retrieve": 0,
+  "unresolved_reference_mentions": 0,
+  "attachments_by_status": {
+    "cached": 4,
+    "downloaded": 3
+  }
+}
