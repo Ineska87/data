@@ -55,6 +55,14 @@ najdłuższej i uwzględnia dwuwyrazowe okno negacji w obrębie zdania. Wynik to
 różnica liczby dopasowań dodatnich i ujemnych na 100 słów. Przy braku
 adnotacji status pozostaje `pending_review`.
 
+Rejestr puli zachowuje pierwotne lokalizatory 108 fragmentów kalibracyjnych
+i 290 dostępnych fragmentów testowych. Z tych drugich losowana jest ta sama
+próba 100 fragmentów, dla której zachowano identyfikatory, tekst i etykiety.
+`processed/sentiment/validation/validation_status.json` porównuje słownik
+bieżący z archiwalnym `investment_tone_lexicon_v0.1.json` po wyznaczeniu
+osobnego progu każdej wersji na zbiorze kalibracyjnym. Na poziomie raportu
+próba testowa jest rozłączna z kalibracją oraz fragmentami użytymi w modelu.
+
 Zachowane pliki `manifest.csv` i `texts/` dokumentują starszą ekstrakcję.
 Archiwa roczne TAURONU zawierają dokumenty XHTML. Skrypt odczytuje właściwy
 raport zarządu bez zapisywania plików z archiwum. Trzy raporty kwartalne ORLENU

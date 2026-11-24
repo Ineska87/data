@@ -1,0 +1,106 @@
+﻿event_id,ticker,project_id,reference_report_id,adverse_revision,publication_at,document_id,source_locator,source_url,text_path,text_basis,pdf_page,pdf_sha256,text_sha256,start_char,end_char,zakres_narracji,lexicon_version,n_words,n_positive,n_negative,tone_per_100_words,fragment_tekstu
+PKN_2021_40,PKN,hvo_plock,PKN-2021-H1,no,2021-07-29T06:57:41+02:00,PKN_2021_H1_sprawozdanie__narrative,"narracja, w. 545–557",https://www.gpw.pl/komunikat?geru_id=379564,processed/corpus/report_texts/PKN_2021_H1_sprawozdanie__narrative.txt,"Tekst z manifestu korpusu, pełny plik",,,e76e62a4d92e42421a3ea70d66e6de3f7384edf631438ff29b358c380f682501,34256,34784,Strategia Grupy ORLEN do 2030 r. — cele ilościowe i łączny CAPEX,investment-pl-0.2,67,0,0,0.0,"Na 2030 rok PKN ORLEN przyjął następujące cele finansowe i operacyjne: 
+ 
+roczny zysk EBITDA LIFO (przed odpisami) na poziomie około 26 mld PLN, 
+ 
+łączne nakłady inwestycyjne (CAPEX) w wysokości około 140 mld PLN , 
+ 
+łączne nakłady inwestycyjne w zrównoważony rozwój na poziomie ponad 30 mld PLN, 
+ 
+redukcja emisji CO2 o 20% na obecnych aktywach rafineryjnych i petrochemicznych, 
+ 
+ponad 2,5 GW zainstalowanych mocy w OZE , 
+ 
+ponad 3 500 stacji paliw i ponad 1 000 stacji szybkiego ładowania samochodów elektrycznych."
+PKN_2021_42,PKN,mozejki_bottom_of_barrel,PKN-2021-H1,no,2021-07-29T06:57:41+02:00,PKN_2021_H1_sprawozdanie__narrative,"narracja, w. 545–557",https://www.gpw.pl/komunikat?geru_id=379564,processed/corpus/report_texts/PKN_2021_H1_sprawozdanie__narrative.txt,"Tekst z manifestu korpusu, pełny plik",,,e76e62a4d92e42421a3ea70d66e6de3f7384edf631438ff29b358c380f682501,34256,34784,Strategia Grupy ORLEN do 2030 r. — cele ilościowe i łączny CAPEX,investment-pl-0.2,67,0,0,0.0,"Na 2030 rok PKN ORLEN przyjął następujące cele finansowe i operacyjne: 
+ 
+roczny zysk EBITDA LIFO (przed odpisami) na poziomie około 26 mld PLN, 
+ 
+łączne nakłady inwestycyjne (CAPEX) w wysokości około 140 mld PLN , 
+ 
+łączne nakłady inwestycyjne w zrównoważony rozwój na poziomie ponad 30 mld PLN, 
+ 
+redukcja emisji CO2 o 20% na obecnych aktywach rafineryjnych i petrochemicznych, 
+ 
+ponad 2,5 GW zainstalowanych mocy w OZE , 
+ 
+ponad 3 500 stacji paliw i ponad 1 000 stacji szybkiego ładowania samochodów elektrycznych."
+PKN_2022_16,PKN,wytwornia_tlenu_i_azotu_iii,PKN-2022-Q1,no,2022-04-28T07:07:41+02:00,PKN_2022_Q1_sprawozdanie__narrative,"narracja, w. 272–284",https://www.gpw.pl/komunikat?geru_id=395232,processed/corpus/report_texts/PKN_2022_Q1_sprawozdanie__narrative.txt,"Tekst z manifestu korpusu, pełny plik",,,70d650c70617375f65755ed3ad979f11395dec3da1838c9456a23a3dc316f778,21026,22075,Strategia wodorowa — portfel inwestycji w moce i infrastrukturę,investment-pl-0.2,131,0,0,0.0,"Budowa ponad 100 ogólnodostępnych stacji tankowania wodoru wraz w z niezbędną logistyką na obszarze Europy 
+Środkowej. 
+ 
+Budowa nowych mocy wytwórczych wodoru zero i niskoemisyjnego o mocy ok. 540 MW, w tym z wykorzystaniem 
+technologii elektrolizy wody zasilanej OZE oraz instalacji przetwarzania odpadów komunalnych w kierunku wodoru. 
+ 
+Budowa instalacji dedykowanych redukcji emisji CO2 z istniejących instalacji produkcji wodoru z wykorzystaniem 
+technologii wychwytywania, wykorzystania i/lub magazynowania CO2. 
+Realizacja powyższych przedsięwzięć pozwoli na produkcję nisko i zeroemisyjnego wodoru w Grupie Kapitałowej 
+ORLEN w 2030 roku na poziomie ok. 50% całego planowanego wolumenu produkcji wodoru w Grupie Kapitałowej 
+ORLEN w 2030 roku, co przełoży się na uniknięcie ok. 1,6 mln ton emisji CO2 z produkcji wodoru rocznie. 
+Skala planowanych w Strategii Wodorowej nakładów inwestycyjnych może zostać obniżona dzięki wykorzystaniu 
+zewnętrznego finansowania, w tym bezzwrotnego, związanego z innowacjami i transformacją energetyczną."
+PKN_2022_89,PKN,norweski_szelf_noaka_fenris_orn_alve_nord,PKN-2022-Q3,no,2022-11-29T07:03:00+01:00,PKN_2022_Q3_sprawozdanie__narrative,"narracja, w. 496–505",https://www.gpw.pl/komunikat?geru_id=407996,processed/corpus/report_texts/PKN_2022_Q3_sprawozdanie__narrative.txt,"Tekst z manifestu korpusu, pełny plik",,,d199e9aff3fb1cea260489ce7f49dfe0859b8757dcb2a5fe911fd3332b09f954,38959,40012,Program kontynuacji inwestycji po połączeniu z Grupą LOTOS,investment-pl-0.2,125,1,0,0.8,"Strony Porozumienia przewidują, że po połączeniu Spółki z Grupą LOTOS kontynuowane będą kluczowe inwestycje Grupy 
+LOTOS wskazane w Porozumieniu, w zakresie minimalnym w nim określonym („Zobowiązania Inwestycyjne”). Spółka 
+zadeklarowała, że niezwłocznie po połączeniu dokona weryfikacji warunków kontynuowania tych inwestycji. 
+Spółka zadeklarowała również, że po połączeniu i z zastrzeżeniem wyjątków określonych w Porozumieniu, podejmie 
+działania w kierunku: (i) dywersyfikacji dostaw surowców naturalnych, w szczególności ropy naftowej, oraz uniezależnienia 
+Polski od dostaw rop rosyjskich, (ii) umocnienia pozycji Spółki na rynku produkcji i dystrybucji paliw ciekłych (tradycyjnych), 
+przy jednoczesnym podejmowaniu starań dotyczących ograniczenia ich emisyjności, (iii) rozwoju Spółki na rynku produktów 
+petrochemicznych, w tym poprzez poszukiwanie i podejmowanie inwestycji, (iv) badań i projektów dotyczących 
+wykorzystania paliw alternatywnych, a także elektromobilności oraz (v) utrzymania prawidłowego funkcjonowania rafinerii w 
+Gdańsku."
+PKN_2023_38,PKN,baltic_power,PKN-2023-Q1,no,2023-05-25T07:05:01+02:00,PKN_2023_Q1_sprawozdanie,"s. 38, sekcja 5.12, w. 6210–6214",https://www.gpw.pl/komunikat?geru_id=420589,processed/corpus/report_texts/PKN_2023_Q1_sprawozdanie.txt,"Tekst z manifestu korpusu, pełny plik",,,4a07e1d6d16840225fa42764b37d94b68fe58e032e90fbcdcca060c9ac5c4fe7,154085,154696,Plany inwestycji transformacyjnych w ramach zielonego finansowania,investment-pl-0.2,75,0,0,0.0,"Seria A euroobligacji PKN ORLEN o wartości nominalnej 500 mln EUR wyemitowana została z certyfikatem obligacji zielonych, 
+których celem jest finansowanie projektów wspierających ochronę środowiska i klimatu. PKN ORLEN opracował i opublikował na 
+swojej stronie internetowej zasady zielonego i zrównoważonego finansowania, czyli tzw. Green Finance Framework, w ramach 
+których zdefiniowane zostały planowane procesy inwestycyjne, zmierzające do transformacji energetycznej, objęte tym 
+finansowaniem oraz określono kluczowe wskaźniki efektywności w zakresie stopnia ich realizacji oraz ich wpływu na środowisko."
+TPE_2025_3,TPE,lagisza_ccgt,TPE-2024-Q3,yes,2024-11-28T17:25:40+01:00,TPE_2024_Q3_pozostale-informacje,"Pozostałe informacje, s. 7, strona PDF 8",https://www.tauron.pl/-/media/offer-documents/tauron/raporty-okresowe/2024/iii-kwartal/tauron-pe-pozostale-informacje-do-raportu-gkt-za-iii-kwartal-2024-r.ashx,,"Tekst strony PDF, PyMuPDF 1.27.2.2, get_text(sort=True)",8,2e584fbadc82c660d77c5d3c3245cb96640448dc6d6daf8227e6104fce9595d1,3e7d479f34eb98ea4686278f0ee1d624f260e8398e5586d716cdc684b2db8adb,3611,4894,Realizacja inwestycji strategicznych — strategia i portfel fotowoltaiki,investment-pl-0.2,140,0,0,0.0,"W odpowiedzi na wyzwania wynikające z sytuacji na rynku i w sektorze elektroenergetycznym, w dniu 22 czerwca
+        2022 r. TAURON przyjął Strategię Grupy TAURON na lata 2022-2030 z perspektywą do 2050 r., stanowiącą
+          pogłębienie dotychczas realizowanego Zielonego Zwrotu TAURONA. Strategia prezentuje optymalną ścieżkę
+        zrównoważonego rozwoju, który zapewni stabilność finansową Grupy Kapitałowej TAURON oraz perspektywę
+         wzrostu przy jednoczesnym uwzględnieniu zaangażowania  i zarządzania działalnością w ramach ESG (ang.
+          Environmental, Social and Governance) oraz wsparcia stabilności systemu elektroenergetycznego w Polsce.
+
+        Grupa TAURON prowadzi obecnie prace i analizy dotyczące przeglądu Strategii Grupy pod kątem aktualizacji jej
+         założeń i kierunków strategicznych.
+
+        Główne inwestycje w obszarze OZE
+
+        Farmy fotowoltaiczne
+
+     W okresie  III kwartałów 2024 r. kontynuowano prace w zakresie rozwoju projektów farm fotowoltaicznych na
+          terenach należących do Grupy Kapitałowej TAURON. Prace obejmują pozyskanie niezbędnych zgód  i decyzji
+          administracyjnych. Ostateczne decyzje dotyczące realizacji poszczególnych projektów będą podejmowane po
+         ocenie ich uzasadnienia biznesowego."
+TPE_2025_42,TPE,jaworzno_ocgt,TPE-2025-Q3,no,2025-11-19T17:18:20+01:00,TPE_2025_Q3_pozostale-informacje,"Pozostałe informacje, s. 40, strona PDF 41",https://pap-mediaroom.pl/sites/default/files/attachments/202511/DOC.20251119.52925095.zal02_TAURON_PE_pozostale_informacje_do_raportu_za_III_kwartal__2025_r.pdf,,"Tekst strony PDF, PyMuPDF 1.27.2.2, get_text(sort=True)",41,822406602d2804e1d208b1ea2cf17ac0f76a7a0a069b6a4c3601705578df97d4,f5f8a0452a8f461783ee0dff3ed4509ea51ccfcc106dc4d6741b8b55de5c64a5,203,1167,Realizacja inwestycji strategicznych — wypowiedź wiceprezesa ds. majątku i rozwoju,investment-pl-0.2,88,1,0,1.1363636363636365,"Realizacja naszych inwestycji strategicznych przebiega zgodnie z planem.
+                          Do końca tego roku oddamy do użytku dwie farmy wiatrowe i dwie farmy
+                                      fotowoltaiczne, dzięki czemu łączna moc zainstalowana w OZE wzrośnie
+                              o prawie 200 MW. Budowa naszej największej inwestycji – farmy wiatrowej
+                       w Miejskiej Górce – jest na etapie transportu podzespołów 53 turbin
+                                   wiatrowych. Po uruchomieniu będzie ona zasilać nawet 200 tys. gospodarstw
+                              domowych. Równolegle rozpoczęliśmy realizację budowy pierwszych
+                            magazynów energii, rozwijamy projekty Power-to-Heat, gazowe jednostki
+                                 szczytowe oraz przygotowujemy się do wdrożenia technologii SMR.
+                               To konkretne kroki w stronę nowoczesnej, niskoemisyjnej energetyki."
+ZEP_2021_23,ZEP,kazimierz_biskupi_fw,ZEP-2021-Q1,no,2021-05-28T20:15:56+02:00,ZEP_2021_Q1_pozostale-informacje,"Pozostałe informacje, s. 12, strona PDF 12",https://ri.zepak.com.pl/upload/files/ZEPAK_2021-1Q_POZOSTAE_INFORMACJE_publikacja-sig-sig-sig-sig-sig.pdf,,"Tekst strony PDF, PyMuPDF 1.27.2.2, get_text(sort=True)",12,169ce2a3ad864c30f1840c0151b4de83a9267fdcb9b43a63146d3ebc982d3156,a8ba46756b92149aaaf3fe23ac9cf6ce8392fca083cc359c2d7b83148c292024,1793,2414,"Realizacja programu inwestycyjnego — portfel biomasy, PV i wodoru",investment-pl-0.2,75,0,0,0.0,"W 2020 roku Grupa ZE PAK SA rozpoczęła  realizację dwóch dużych projektów inwestycyjnych,  jakimi  są:
+(1) przystosowanie kotła węglowego K-7 w elektrowni Konin do wyłącznego spalania biomasy wraz z niezbędną
+infrastrukturą techniczną oraz (2) budowa farmy fotowoltaicznej o mocy znamionowej ok. 70MWp na terenie gminy
+Brudzew. Ponadto, aktywność inwestycyjna skupiła się również na uruchomieniu projektów związanych z wytwarzaniem
+i dystrybucją wodoru oraz  realizacji niezbędnych zadań służących zapewnieniu utrzymania bieżącej sprawności
+i efektywniejszego wykorzystania posiadanych aktywów wydobywczych i wytwórczych."
+ZEP_2021_32,ZEP,miloslaw_fw,ZEP-2021-Q3,no,2021-11-26T18:15:19+01:00,ZEP_2021_Q3_pozostale-informacje,"Pozostałe informacje, s. 14, strona PDF 14",https://ri.zepak.com.pl/upload/files/ZEPAK_2021-3Q_POZOSTAE_INFORMACJE_2-sig-sig-sig-sig-sig.pdf,,"Tekst strony PDF, PyMuPDF 1.27.2.2, get_text(sort=True)",14,acfc97695a3c548e11bf68529238ec902b1a2c9f257fbf0871c977e08b5e3edf,4b055f24332f1bac9f72a51a2433f6dd29756a65f4b24afa787c104d89f8d282,561,1249,"Realizacja programu inwestycyjnego — portfel biomasy, PV, wodoru i kolejnych OZE",investment-pl-0.2,83,0,0,0.0,"W trzecim kwartale 2021 roku Grupa ZE PAK SA kontynuowała realizację dwóch dużych projektów inwestycyjnych,
+jakimi są: (1) przystosowanie kotła węglowego K-7 w elektrowni Konin do wyłącznego spalania biomasy wraz
+z niezbędną infrastrukturą techniczną oraz (2) budowa farmy fotowoltaicznej o mocy 70 MWp na terenie gminy Brudzew.
+Ponadto, aktywność inwestycyjna skupiła się na uruchomieniu projektów związanych z wytwarzaniem i dystrybucją
+wodoru a także pracach przygotowawczych do realizacji kolejnych odnawialnych źródeł energii oraz niezbędnych zadań
+służących zapewnieniu utrzymania bieżącej sprawności  i efektywniejszego wykorzystania posiadanych aktywów
+wydobywczych i wytwórczych."
+ZEP_2022_39,ZEP,dobra_fw,ZEP-2022-Q3,no,2022-11-29T19:17:49+01:00,ZEP_2022_Q3_pozostale-informacje,"Pozostałe informacje, s. 16, strona PDF 16",https://ri.zepak.com.pl/upload/files/zepak_2022-3q_pozostae_informacje-sig-sig_signed.pdf,,"Tekst strony PDF, PyMuPDF 1.27.2.2, get_text(sort=True)",16,f0b37114762f91197572aad622312299dbb0877449e689673fda34762791930d,9704f2979f60fc578366983a42bb6f2812a982a8d8e6ab2a4930e1bf2adbf50c,565,1023,Realizacja programu inwestycyjnego — portfel wiatrowy i wodorowy oraz prace przygotowawcze,investment-pl-0.2,54,0,0,0.0,"W III kwartale 2022 roku aktywność inwestycyjna Grupy ZE PAK SA skupiała się na realizacji projektów związanych
+z wytwarzaniem i dystrybucją wodoru, projektem autobusu wodorowego oraz budową farm wiatrowych a także pracach
+przygotowawczych do realizacji kolejnych odnawialnych źródeł energii oraz niezbędnych zadań służących zapewnieniu
+utrzymania  bieżącej  sprawności   i efektywniejszego  wykorzystania  posiadanych  aktywów  wydobywczych   i
+wytwórczych."
+ZEP_2023_9,ZEP,drzezewo_fw,ZEP-2022-Q3,no,2022-11-29T19:17:49+01:00,ZEP_2022_Q3_pozostale-informacje,"Pozostałe informacje, s. 16, strona PDF 16",https://ri.zepak.com.pl/upload/files/zepak_2022-3q_pozostae_informacje-sig-sig_signed.pdf,,"Tekst strony PDF, PyMuPDF 1.27.2.2, get_text(sort=True)",16,f0b37114762f91197572aad622312299dbb0877449e689673fda34762791930d,9704f2979f60fc578366983a42bb6f2812a982a8d8e6ab2a4930e1bf2adbf50c,565,1023,Realizacja programu inwestycyjnego — portfel wiatrowy i wodorowy oraz prace przygotowawcze,investment-pl-0.2,54,0,0,0.0,"W III kwartale 2022 roku aktywność inwestycyjna Grupy ZE PAK SA skupiała się na realizacji projektów związanych
+z wytwarzaniem i dystrybucją wodoru, projektem autobusu wodorowego oraz budową farm wiatrowych a także pracach
+przygotowawczych do realizacji kolejnych odnawialnych źródeł energii oraz niezbędnych zadań służących zapewnieniu
+utrzymania  bieżącej  sprawności   i efektywniejszego  wykorzystania  posiadanych  aktywów  wydobywczych   i
+wytwórczych."

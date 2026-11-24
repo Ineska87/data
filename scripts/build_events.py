@@ -127,8 +127,8 @@ def verify_plan(row, event, indexed, prefix):
             raise ValueError(f"Godzina planu różni się od zarejestrowanej: {row.event_id}, {plan_id}")
         clock = known_clock or clock
     if prefix == "first_public_plan" and plan_id == row.event_id:
-        if day != event_day:
-            raise ValueError(f"Data pierwszego planu różni się od jego komunikatu: {row.event_id}")
+        if row.decision_type != "start" or day != event_day:
+            raise ValueError(f"Pierwszy plan w aktualnym ESPI wymaga decyzji start i zgodnej daty: {row.event_id}")
         return
     if strictly_before(day, clock, event_day, getattr(event, "publication_time", "")) is not True:
         raise ValueError(f"Plan musi być udokumentowany jako wcześniejszy: {row.event_id}, {prefix}")
@@ -183,10 +183,15 @@ def verify_review(review, scope_events):
     for row in review.itertuples(index=False):
         if row.review_status not in {"include", "exclude", "needs_review"}:
             raise ValueError(f"Nieznany status weryfikacji: {row.event_id}")
-        if row.review_status in {"include", "exclude"} and not (row.source_url and row.coding_note):
+        if row.review_status in {"include", "exclude"} and not (
+            row.source_url.startswith(("https://", "http://")) and row.coding_note.strip()
+        ):
             raise ValueError(f"Brak źródła albo uzasadnienia: {row.event_id}")
         if row.review_status == "include":
-            if row.decision_type not in DECISIONS or not row.project_id or not row.previous_plan_url:
+            first_plan_is_event = row.decision_type == "start" and row.first_public_plan_event_id == row.event_id
+            if row.decision_type not in DECISIONS or not re.fullmatch(r"[a-z0-9]+(?:_[a-z0-9]+)*", row.project_id):
+                raise ValueError(f"Brak poprawnej decyzji albo identyfikatora projektu: {row.event_id}")
+            if not row.previous_plan_url and not first_plan_is_event:
                 raise ValueError(f"Brak decyzji, projektu lub planu odniesienia: {row.event_id}")
             if row.adverse_revision not in TRISTATE or row.scope_comparable not in TRISTATE:
                 raise ValueError(f"Nieprawidłowe kodowanie zakresu albo korekty: {row.event_id}")

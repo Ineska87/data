@@ -1,9 +1,9 @@
 {
-  "status": "pending_review",
+  "status": "evaluated",
   "calibration_pool": 108,
   "holdout_pool": 290,
   "holdout_size": 100,
-  "pool_origin": "automatic_topic_screen",
+  "pool_origin": "reviewer_registry",
   "holdout_by_ticker": {
     "TPE": 11,
     "ENA": 13,
@@ -13,9 +13,98 @@
     "PGE": 13,
     "ZEP": 17
   },
-  "lexicon_version": "investment-pl-0.1",
-  "neutral_cutoff": null,
-  "holdout_metrics": [],
-  "reviewed_calibration": 0,
-  "reviewed_holdout": 0
+  "lexicon_version": "investment-pl-0.2",
+  "neutral_cutoff": 0.0,
+  "holdout_metrics": [
+    {
+      "label": "negative",
+      "support": 15,
+      "predicted": 7,
+      "precision": 0.8571428571428571,
+      "recall": 0.4,
+      "f1": 0.5454545454545454
+    },
+    {
+      "label": "neutral",
+      "support": 61,
+      "predicted": 85,
+      "precision": 0.6823529411764706,
+      "recall": 0.9508196721311475,
+      "f1": 0.7945205479452054
+    },
+    {
+      "label": "positive",
+      "support": 24,
+      "predicted": 8,
+      "precision": 0.75,
+      "recall": 0.25,
+      "f1": 0.375
+    }
+  ],
+  "reviewed_calibration": 108,
+  "reviewed_holdout": 100,
+  "holdout_comparison": {
+    "investment-pl-0.2": {
+      "neutral_cutoff": 0.0,
+      "holdout_metrics": [
+        {
+          "label": "negative",
+          "support": 15,
+          "predicted": 7,
+          "precision": 0.8571428571428571,
+          "recall": 0.4,
+          "f1": 0.5454545454545454
+        },
+        {
+          "label": "neutral",
+          "support": 61,
+          "predicted": 85,
+          "precision": 0.6823529411764706,
+          "recall": 0.9508196721311475,
+          "f1": 0.7945205479452054
+        },
+        {
+          "label": "positive",
+          "support": 24,
+          "predicted": 8,
+          "precision": 0.75,
+          "recall": 0.25,
+          "f1": 0.375
+        }
+      ],
+      "macro_f1": 0.5716583644665837,
+      "accuracy": 0.7
+    },
+    "investment-pl-0.1": {
+      "neutral_cutoff": 0.0,
+      "holdout_metrics": [
+        {
+          "label": "negative",
+          "support": 15,
+          "predicted": 3,
+          "precision": 1.0,
+          "recall": 0.2,
+          "f1": 0.3333333333333333
+        },
+        {
+          "label": "neutral",
+          "support": 61,
+          "predicted": 95,
+          "precision": 0.631578947368421,
+          "recall": 0.9836065573770492,
+          "f1": 0.7692307692307693
+        },
+        {
+          "label": "positive",
+          "support": 24,
+          "predicted": 2,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        }
+      ],
+      "macro_f1": 0.36752136752136755,
+      "accuracy": 0.63
+    }
+  }
 }

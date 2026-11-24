@@ -644,35 +644,46 @@ def bootstrap_tone_model(analysis: pd.DataFrame, replicates: int = 1000) -> dict
     adverse = sample["adverse_revision"].to_numpy(dtype=bool)
     tone = sample["tone_per_100_words"].to_numpy(dtype=float)
     factors = pd.get_dummies(sample[["ticker", "decision_type"]], drop_first=True, dtype=float)
-    # The adverse level effect may be collinear with the decision category. The effect
-    # cannot be added in that case, but the two within-group slopes can still be identified.
-    base = np.column_stack([np.ones(len(sample)), factors.to_numpy()])
-    with_adverse = np.column_stack([base, adverse])
-    if np.linalg.matrix_rank(with_adverse) > np.linalg.matrix_rank(base):
-        base = with_adverse
-    design = np.column_stack([base, tone * adverse, tone * ~adverse])
+    base = np.column_stack([np.ones(len(sample)), factors.to_numpy(), adverse])
+    slopes = np.column_stack([tone * adverse, tone * ~adverse])
     target = sample["car"].to_numpy(dtype=float)
-    if len(sample) <= design.shape[1]:
+    rows = np.arange(len(sample))
+    if len(sample) <= np.linalg.matrix_rank(np.column_stack([base, slopes])):
         return {"status": "too_few_observations_for_fixed_effects", **coverage}
-    coefficients, _, rank, _ = np.linalg.lstsq(design, target, rcond=None)
-    if rank != design.shape[1]:
-        return {"status": "unidentified_model", **coverage}
+
+    def fit_slope(rows, term):
+        # A redundant control, or a constant tone in the other group, need not
+        # prevent identification of this slope.
+        controls = np.column_stack([base[rows], slopes[rows, 1 - term]])
+        variables = np.column_stack([slopes[rows, term], target[rows]])
+        if np.linalg.matrix_rank(np.column_stack([controls, variables[:, 0]])) == np.linalg.matrix_rank(controls):
+            return None
+        residuals = variables - controls @ np.linalg.lstsq(controls, variables, rcond=None)[0]
+        return float(np.linalg.lstsq(residuals[:, :1], residuals[:, 1], rcond=None)[0][0])
+
     groups = list(sample.reset_index(drop=True).groupby("report_id", sort=True).indices.values())
     random = np.random.default_rng(42)
-    boot = []
-    for indices in random.integers(0, len(groups), size=(replicates, len(groups))):
-        rows = np.concatenate([groups[index] for index in indices])
-        estimates, _, rank, _ = np.linalg.lstsq(design[rows], target[rows], rcond=None)
-        if rank == design.shape[1]:
-            boot.append(estimates[-2:])
-    if len(boot) < replicates * 0.8:
-        return {"status": "unstable_bootstrap", "valid_bootstrap": len(boot),
-                "requested_bootstrap": replicates, **coverage}
-    intervals = np.quantile(np.asarray(boot), [0.025, 0.975], axis=0)
-    return {"status": "estimated", **coverage, "bootstrap_unit": "report_id",
-            "valid_bootstrap": len(boot), "requested_bootstrap": replicates,
-            "tone_adverse": {"coefficient": float(coefficients[-2]), "ci95": intervals[:, 0].tolist()},
-            "tone_other": {"coefficient": float(coefficients[-1]), "ci95": intervals[:, 1].tolist()}}
+    samples = [np.concatenate([groups[index] for index in indices])
+               for indices in random.integers(0, len(groups), size=(replicates, len(groups)))]
+    result = {**coverage, "bootstrap_unit": "report_id", "requested_bootstrap": replicates}
+    for i, term in enumerate(("tone_adverse", "tone_other")):
+        coefficient = fit_slope(rows, i)
+        entry = {"coefficient": coefficient, "bootstrap_se": None, "ci95": None,
+                 "status": "unidentified", "valid_bootstrap": 0}
+        if coefficient is not None:
+            pivotal = [str(sample.iloc[group[0]]["report_id"]) for group in groups
+                       if fit_slope(np.setdiff1d(rows, group), i) is None]
+            draws = np.asarray([b for selection in samples if (b := fit_slope(selection, i)) is not None])
+            entry.update(status="unstable_bootstrap", valid_bootstrap=len(draws),
+                         identification_depends_on_reports=pivotal)
+            if not pivotal and len(draws) >= max(2, replicates * 0.8):
+                entry.update(status="estimated", bootstrap_se=float(draws.std(ddof=1)),
+                             ci95=np.quantile(draws, [0.025, 0.975]).tolist())
+        result[term] = entry
+    statuses = {result[term]["status"] for term in ("tone_adverse", "tone_other")}
+    result["status"] = (statuses.pop() if len(statuses) == 1 else
+                        "partially_identified" if "unidentified" in statuses else "unstable_bootstrap")
+    return result
 
 
 def build_current_analysis() -> None:
@@ -684,6 +695,13 @@ def build_current_analysis() -> None:
     passages = pd.read_parquet(PASSAGE_SCORES)
     releases = periodic_releases()
     links = build_event_report_links(events, passages, releases)
+    references = pd.read_csv(RAW / "reports" / "publication_archive" / "event_periodic_references.csv",
+                             dtype=str, keep_default_na=False, usecols=["event_id", "reference_report_id"])
+    links = links.merge(references, on="event_id", how="left", validate="one_to_one")
+    different_report = links["link_status"].eq("linked") & links["report_id"].ne(links["reference_report_id"])
+    if different_report.any():
+        raise ValueError("A linked report differs from the documented reference: "
+                         + ", ".join(links.loc[different_report, "event_id"]))
     links.to_parquet(CORPUS / "event_report_links.parquet", index=False)
     cars = pd.read_parquet(DATA_ROOT / "processed" / "event_study" / "car_results.parquet")
     cars = cars[cars["window"].eq("[-1+1]")]
@@ -698,6 +716,7 @@ def build_current_analysis() -> None:
     issues = open_catalog_issues(EVENTS / "espi_catalog_issues.csv", scope)
     chronology = audit_candidate_references(releases, queue)
     pending = int(queue["review_status"].eq("needs_review").sum())
+    pending_candidates = int((queue["review_status"].eq("needs_review") & queue["investment_candidate"]).sum())
     validation_path = VALIDATION / "validation_status.json"
     validation = json.loads(validation_path.read_text(encoding="utf-8")) if validation_path.exists() else {}
     if not set(passages["lexicon_version"]).issubset({validation.get("lexicon_version")}):
@@ -705,7 +724,7 @@ def build_current_analysis() -> None:
     complete = results[results["status"].eq("complete") & results["n_ar"].eq(3)]
     diagnostics = {
         "confirmed_events": len(events), "unreviewed_communications": pending,
-        "unreviewed_candidates": int((queue["review_status"].eq("needs_review") & queue["investment_candidate"]).sum()),
+        "unreviewed_candidates": pending_candidates,
         "open_catalog_issues_in_scope": len(issues),
         "open_catalog_issue_counts": issues["catalog_issue"].value_counts().to_dict(),
         "events_with_linked_report": int(links["link_status"].eq("linked").sum()),
@@ -736,7 +755,7 @@ def build_current_analysis() -> None:
             key = f"{scenario}_{'without_overlaps' if without_overlap else 'all'}"
             if len(issues):
                 diagnostics["models"][key] = {"status": "blocked_catalog_issues", "n_open_issues": len(issues)}
-            elif pending or diagnostics["validation_status"] != "evaluated":
+            elif pending_candidates or diagnostics["validation_status"] != "evaluated":
                 diagnostics["models"][key] = {
                     "status": "awaiting_screening_or_validation",
                     "n_available": len(sample.dropna(subset=["report_id", "adverse_revision", "tone_per_100_words"])),

@@ -457,12 +457,16 @@ def load_lexicon(path: Path) -> dict:
         lookup[parts[0][0]].append((parts, polarity))
     return {"normalize": normalize, "rules": lookup,
             "negators": {normalize(word) for word in lexicon["negators"]},
+            "join_wrapped_lines": lexicon.get("join_wrapped_lines", False),
             "version": lexicon["version"]}
 
 
 def score_passage(text: str, lexicon: dict) -> dict:
     normalize = lexicon["normalize"]
     negative = positive = word_count = 0
+    if lexicon.get("join_wrapped_lines", False):
+        # A PDF line wrap can split a phrase. Keep paragraph and sentence boundaries.
+        text = re.sub(r"(?<=\S)[ \t\u00a0]*\r?\n[ \t\u00a0]*(?=\S)", " ", text)
     for segment in re.split(r"[.;!?:,\n]+", text):
         words = [normalize(word) for word in WORD_RE.findall(segment)]
         word_count += len(words)
@@ -576,6 +580,8 @@ def write_blind_sample(records: list[dict], path: Path) -> None:
     output_keys = set(zip(output.item_id, output.text))
     if any(label and key not in output_keys for key, label in old_labels.items()):
         raise ValueError(f"Sample selection changed in {path.name}; preserve existing labels before regenerating.")
+    if path.exists() and previous.equals(output):
+        return
     output.to_csv(path, index=False, encoding="utf-8-sig")
 
 
@@ -607,6 +613,31 @@ def automatic_validation_pool(manifest: pd.DataFrame, investment_reports: set[st
                 start, end = options[choice]
                 records.append({"document_id": doc.document_id, "start_char": start, "end_char": end, "split": split})
     return pd.DataFrame(records, columns=POOL_COLUMNS)
+
+
+def passage_tones(records, lexicon):
+    scores = np.array([score_passage(row["text"], lexicon)["tone_per_100_words"] for row in records], dtype=float)
+    if not np.isfinite(scores).all():
+        raise ValueError("No words detected in a validation fragment.")
+    return scores
+
+
+def calibration_cutoff(scores, labels):
+    candidates = np.unique(np.append(0.0, np.abs(scores)))
+    return float(max(candidates, key=lambda cutoff: np.mean([
+        item["f1"] or 0.0 for item in validation_metrics(scores, labels, cutoff)
+    ])))
+
+
+def blind_labels(selection, filename):
+    if not selection:
+        return []
+    path = VALIDATION / filename
+    write_blind_sample(selection, path)
+    labels = read_input(path, ["reviewer_label"])["reviewer_label"].tolist()
+    if any(label and label not in LABELS for label in labels):
+        raise ValueError(f"Unknown label in {path.name}.")
+    return labels
 
 
 def run_validation(manifest: pd.DataFrame, investment_reports: set[str], lexicon: dict) -> dict:
@@ -649,32 +680,37 @@ def run_validation(manifest: pd.DataFrame, investment_reports: set[str], lexicon
               "pool_origin": origin,
               "holdout_by_ticker": dict(Counter(row["ticker"] for row in sampled)),
               "lexicon_version": lexicon["version"], "neutral_cutoff": None, "holdout_metrics": []}
-    labels = {}
-    for split, selection in (("calibration", by_split["calibration"]), ("validation", sampled)):
-        if selection:
-            file = VALIDATION / f"{split}_blind.csv"
-            write_blind_sample(selection, file)
-            labels[split] = read_input(file, ["reviewer_label"])["reviewer_label"].tolist()
-            if any(label and label not in LABELS for label in labels[split]):
-                raise ValueError(f"Unknown label in {file.name}.")
-    result["reviewed_calibration"] = sum(bool(value) for value in labels.get("calibration", []))
-    result["reviewed_holdout"] = sum(bool(value) for value in labels.get("validation", []))
     calibration = by_split["calibration"]
-    if calibration and set(labels["calibration"]) == set(LABELS):
-        scores = np.array([score_passage(row["text"], lexicon)["tone_per_100_words"] for row in calibration], dtype=float)
-        if not np.isfinite(scores).all():
-            raise ValueError("No words detected in a calibration fragment.")
-        candidates = np.unique(np.append(0.0, np.abs(scores)))
-        cutoff = max(candidates, key=lambda value: np.mean([
-            item["f1"] or 0.0 for item in validation_metrics(scores, labels["calibration"], value)
-        ]))
-        result["neutral_cutoff"] = float(cutoff)
-        if sampled and all(labels["validation"]):
-            scored = np.array([score_passage(row["text"], lexicon)["tone_per_100_words"] for row in sampled], dtype=float)
-            if not np.isfinite(scored).all():
-                raise ValueError("No words detected in a validation fragment.")
-            result["status"] = "evaluated"
-            result["holdout_metrics"] = validation_metrics(scored, labels["validation"], cutoff)
+    calibration_labels = blind_labels(calibration, "calibration_blind.csv")
+    versions = {lexicon["version"]: lexicon}
+    baseline = METADATA / "investment_tone_lexicon_v0.1.json"
+    if baseline.is_file() and lexicon["version"] != "investment-pl-0.1":
+        archived = load_lexicon(baseline)
+        versions[archived["version"]] = archived
+    cutoffs = {}
+    if calibration and set(calibration_labels) == set(LABELS):
+        cutoffs = {version: calibration_cutoff(passage_tones(calibration, model), calibration_labels)
+                   for version, model in versions.items()}
+        result["neutral_cutoff"] = cutoffs[lexicon["version"]]
+
+    holdout_labels = blind_labels(sampled, "validation_blind.csv")
+    result["reviewed_calibration"] = sum(bool(value) for value in calibration_labels)
+    result["reviewed_holdout"] = sum(bool(value) for value in holdout_labels)
+    if cutoffs and sampled and all(holdout_labels):
+        comparison = {}
+        for version, model in versions.items():
+            cutoff = cutoffs[version]
+            scored = passage_tones(sampled, model)
+            metrics = validation_metrics(scored, holdout_labels, cutoff)
+            comparison[version] = {
+                "neutral_cutoff": cutoff, "holdout_metrics": metrics,
+                "macro_f1": float(np.mean([item["f1"] or 0.0 for item in metrics])),
+                "accuracy": float(np.mean([tone_class(score, cutoff) == label
+                                           for score, label in zip(scored, holdout_labels)])),
+            }
+        result["status"] = "evaluated"
+        result["holdout_comparison"] = comparison
+        result["holdout_metrics"] = comparison[lexicon["version"]]["holdout_metrics"]
     (VALIDATION / "validation_status.json").write_text(json.dumps(result, indent=2) + "\n", encoding="utf-8")
     return result
 

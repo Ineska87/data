@@ -1,11 +1,11 @@
 {
-  "input_events": 3,
+  "input_events": 33,
   "scenarios": {
     "baseline": {
-      "complete": 3
+      "complete": 33
     },
     "same_session": {
-      "complete": 3
+      "complete": 33
     }
   },
   "overlap_rule": "same issuer, shared trading session within [-1,+1]",

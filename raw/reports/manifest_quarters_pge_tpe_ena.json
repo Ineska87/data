@@ -1,9 +1,18 @@
 {
-  "scope": "Q1/H1/Q3 (SAR) PGE/TPE/ENA 2020-2025 — sprawozdania + prezentacje PGE + SZ ENA H1",
+  "scope": "Q1/H1/Q3 (SAR) PGE/TPE/ENA 2020-2025 — sprawozdania + prezentacje PGE + SZ ENA H1 + komentarz ENA 2025 Q1",
   "downloaded_at": "2026-07-20T17:46:34.789105+00:00",
-  "n_ok": 78,
+  "n_ok": 79,
   "n_fail": 0,
   "files": [
+    {
+      "ticker": "ENA",
+      "file": "ENA_2025_Q1_pozostale-informacje.pdf",
+      "url": "https://pap-mediaroom.pl/sites/default/files/attachments/202505/DOC.20250520.51612668.zal03_Pozostale_Informacje_do_rozszerzonego_skonsolidowanego_raportu_Enea_S.A_za_I_kw._2025_-sig-sig.pdf",
+      "status": "ok",
+      "bytes": 2694295,
+      "sha256": "829f7cc837cf84a9b5f2cd22a39a5dc7a77cceb5d2ae4ade7f9864c056026c43",
+      "path": "data\\raw\\reports\\ENA\\ENA_2025_Q1_pozostale-informacje.pdf"
+    },
     {
       "ticker": "PGE",
       "file": "PGE_2020_Q1_sprawozdanie.pdf",

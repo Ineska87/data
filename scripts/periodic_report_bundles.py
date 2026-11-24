@@ -25,8 +25,9 @@ ARCHIVE = REPORTS / "publication_archive"
 EVIDENCE = RAW / "espi" / "detail_evidence"
 TICKERS = ("PKN", "PGE", "TPE", "ENA", "ZEP", "UNT")
 PERIODS = ("Q1", "H1", "Q3", "AR")
+REFERENCE_PERIODS = (*PERIODS, "Q4")
 WARSAW = ZoneInfo("Europe/Warsaw")
-FILE_NAME = re.compile(r"^([A-Z]+)_(20\d{2})_(Q1|H1|Q3|AR)_(.+)\.(pdf|zip|7z|xhtml)$")
+FILE_NAME = re.compile(r"^([A-Z]+)_(20\d{2})_(Q1|H1|Q3|Q4|AR)_(.+)\.(pdf|zip|7z|xhtml)$")
 
 
 def read_csv(path):
@@ -234,7 +235,7 @@ def build_reference_list(publication_file, output):
     by_issuer = defaultdict(list)
     for row in read_publications(publication_file):
         ticker, _, period = row["report_id"].split("-")
-        if ticker in TICKERS and period in PERIODS and row.get("publication_date"):
+        if ticker in TICKERS and period in REFERENCE_PERIODS and row.get("publication_date"):
             by_issuer[ticker].append(row)
     present, invalid = inventory()
     rows = []

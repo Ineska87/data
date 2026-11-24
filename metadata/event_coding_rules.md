@@ -9,6 +9,9 @@ Wpisz `include`, gdy komunikat ogłasza rzeczywiste rozpoczęcie, zmianę lub
 wstrzymanie inwestycji, `exclude` po wykluczeniu na podstawie źródła albo
 `needs_review`, jeśli źródło lub interpretacja są niepewne. Dla decyzji uwzględnionej
 podaj projekt, źródło i datę poprzedniego publicznego planu oraz uzasadnienie.
+Dla decyzji `start` ogłaszającej pierwszy udokumentowany plan danego projektu
+wypełnij `first_public_plan_*` danymi aktualnego ESPI, a pola
+`previous_plan_*` pozostaw puste.
 Brak wpisu oznacza `needs_review`.
 
 Decyzje mają kody `start`, `revision` i `suspension`.
@@ -44,6 +47,3 @@ lokalnym GPW wyłącznie na podstawie zidentyfikowanego źródła publikacji.
 - Wartość `adverse_revision=unknown` daje status
   `revision_subgroup=undetermined`. Zatwierdzone zdarzenie z tym statusem
   ma CAR i pozostaje poza główną próbą regresji.
-
-Obecne wpisy obejmują udokumentowany pilotaż Olefin III. Katalog i wynik
-pilotażowy nie stanowią kompletnej próby sześciu emitentów.

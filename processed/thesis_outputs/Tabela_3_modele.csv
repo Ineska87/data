@@ -1,0 +1,31 @@
+﻿Miara,M1 · bazowy,M2 · oszczędny,M3a · kontekst CAPEX,M3b · CAPEX + efekty stałe
+Próba zdarzeń,Ścisłe dopasowanie,Ścisłe dopasowanie,Ścisłe dopasowanie + kontekst CAPEX,Ścisłe dopasowanie + kontekst CAPEX
+Efekty stałe spółki i typu decyzji,Tak,Nie,Nie,Tak
+Liczba zdarzeń,17,17,28,28
+Niekorzystne korekty (yes),12,12,13,13
+Pozostałe zdarzenia (no),5,5,15,15
+Liczba odrębnych raportów,17,17,25,25
+Stopnie swobody reszt,9,14,24,19
+Rząd macierzy / liczba kolumn,8/9,3/4,4/4,9/9
+"Pełny rząd w bootstrapie, liczba na 1000",0,0,579,482
+"Pełny rząd w bootstrapie, odsetek (%)",0.0,0.0,57.9,48.2
+Niekorzystne korekty (yes) · współczynnik tonu (p.p.),-3.1322,-0.8334,-0.6657,-0.4465
+Niekorzystne korekty (yes) · błąd standardowy HC3 (p.p.),,,,
+Niekorzystne korekty (yes) · p-value HC3,,,,
+Niekorzystne korekty (yes) · identyfikowalne losowania na 1000,389,629,653,595
+Niekorzystne korekty (yes) · dolna granica 95% PU bootstrap (p.p.),,,,
+Niekorzystne korekty (yes) · górna granica 95% PU bootstrap (p.p.),,,,
+Pozostałe zdarzenia (no) · współczynnik tonu (p.p.),,,-0.4242,-0.1502
+Pozostałe zdarzenia (no) · błąd standardowy HC3 (p.p.),,,0.8711,2.096
+Pozostałe zdarzenia (no) · p-value HC3,,,0.6307,0.9436
+Pozostałe zdarzenia (no) · identyfikowalne losowania na 1000,0,0,891,860
+Pozostałe zdarzenia (no) · dolna granica 95% PU bootstrap (p.p.),,,-2.0602,-3.3833
+Pozostałe zdarzenia (no) · górna granica 95% PU bootstrap (p.p.),,,0.816,2.9864
+Wyraz wolny · współczynnik (p.p.),,0.7391,-0.3327,
+Wyraz wolny · błąd HC3 (p.p.),,1.1464,0.7121,
+Wskaźnik niekorzystnej korekty · współczynnik (p.p.),,-1.9595,-0.7456,
+Wskaźnik niekorzystnej korekty · błąd HC3 (p.p.),,1.4587,1.0962,
+Spearman ρ w grupie yes (n = 12),,-0.0437,,
+Spearman · p-value dokładne permutacyjne,,1.0,,
+Kendall τ-b w grupie yes (n = 12),,-0.0371,,
+Kendall · p-value dokładne permutacyjne,,1.0,,

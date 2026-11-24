@@ -1,0 +1,3 @@
+﻿Test,Okno CAR,N (yes),N (no),Miara położenia,CAR yes (%),CAR no (%),Różnica yes minus no (p.p.),Statystyka t lub U,Stopnie swobody,p dwustronne,95% PU dolna granica (p.p.),95% PU górna granica (p.p.)
+Welcha,"[−1, +1]",13,15,Średnia,-1.0348620687,-0.3874340291,-0.6474280396,-0.6847605550,24.0194819199,0.5000499439,-2.5987209974,1.3038649181
+Manna–Whitneya,"[−1, +1]",13,15,Mediana (opisowo),-0.5141234647,-0.5658994839,0.0517760192,84.0000000000,,0.5550997592,,

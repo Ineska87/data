@@ -1,0 +1,19 @@
+﻿Zakres walidacji,Słownik,N próby,Klasa,Liczebność klasy,Przewidziane,Precyzja,Czułość,F1
+Cała próba,investment-pl-0.1,100,Negatywna,15,3,1.0,0.2,0.3333333333333333
+Cała próba,investment-pl-0.1,100,Neutralna,61,95,0.631578947368421,0.9836065573770492,0.7692307692307693
+Cała próba,investment-pl-0.1,100,Pozytywna,24,2,0.0,0.0,0.0
+Cała próba,investment-pl-0.2,100,Negatywna,15,7,0.8571428571428571,0.4,0.5454545454545454
+Cała próba,investment-pl-0.2,100,Neutralna,61,85,0.6823529411764706,0.9508196721311475,0.7945205479452054
+Cała próba,investment-pl-0.2,100,Pozytywna,24,8,0.75,0.25,0.375
+Spółki badane,investment-pl-0.1,85,Negatywna,13,3,1.0,0.23076923076923078,0.375
+Spółki badane,investment-pl-0.1,85,Neutralna,52,81,0.6296296296296297,0.9807692307692307,0.7669172932330827
+Spółki badane,investment-pl-0.1,85,Pozytywna,20,1,0.0,0.0,0.0
+Spółki badane,investment-pl-0.2,85,Negatywna,13,6,1.0,0.46153846153846156,0.631578947368421
+Spółki badane,investment-pl-0.2,85,Neutralna,52,72,0.6944444444444444,0.9615384615384616,0.8064516129032258
+Spółki badane,investment-pl-0.2,85,Pozytywna,20,7,0.7142857142857143,0.25,0.37037037037037035
+JSW – poza próbą spółek,investment-pl-0.1,15,Negatywna,2,0,,0.0,0.0
+JSW – poza próbą spółek,investment-pl-0.1,15,Neutralna,9,14,0.6428571428571429,1.0,0.782608695652174
+JSW – poza próbą spółek,investment-pl-0.1,15,Pozytywna,4,1,0.0,0.0,0.0
+JSW – poza próbą spółek,investment-pl-0.2,15,Negatywna,2,1,0.0,0.0,0.0
+JSW – poza próbą spółek,investment-pl-0.2,15,Neutralna,9,13,0.6153846153846154,0.8888888888888888,0.7272727272727273
+JSW – poza próbą spółek,investment-pl-0.2,15,Pozytywna,4,1,1.0,0.25,0.4
